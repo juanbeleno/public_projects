@@ -1,0 +1,1 @@
+Gracias al trabajo final de maestría de José Carlos Sobrino Sande: [Análisis de Sentimientos en Twitter](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/81435/6/jsobrinosTFM0618memoria.pdf), pude saber que hay un dataset de análisis de sentimientos aquí: [TASS2018](http://tass.sepln.org/2018/task-1/#datasets). Sin embargo, la licencia de ese dataset es bastante restrictiva.
