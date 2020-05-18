@@ -15,7 +15,7 @@ class SentimetalAnalisysConfig:
           'Bancolombia': 'Bancolombia',
           'Banco de Bogotá': 'BancodeBogota',
           'Banco de Occidente': 'Bco_Occidente',
-          'Banco AV Villas': 'BancosAval',
+          'AV Villas': 'BancosAval',
           'Davivienda': 'Davivienda',
           'Colpatria': 'ScotiaColpatria',
           'Nequi': 'Nequi',
@@ -36,6 +36,13 @@ class SentimetalAnalisysConfig:
         'Colombia': {'Bancolombia': 'Bancolombia'}
     }
     """
+    # Anonymization
+    # anon_tw_user = '@bancoX'
+    # anon_tw_name = 'bancoX'
+    # anon_tw_other_bank_user = '@bancoY'
+    # anon_tw_other_bank_name = 'bancoY'
+    anon_tw_user = '@usuario'
+    anon_links = 'internetlink'
 
     # Directories
     main_directory:str = os.path.join(
