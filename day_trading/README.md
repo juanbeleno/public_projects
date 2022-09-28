@@ -1,6 +1,6 @@
 # Day Trading
 
-I'm starting this project to try to earn money by day trading three tickets: $APPL, $NVDA, and $TSLA. I choose those tickets because many people in the Reddit group of `r/Daytrading` use those stocks. I think it's because each of them is a leading ticket for different markets: Consumer Electronics, Semiconductors, and Auto Manufacturers. Tickets with high levels of volume for trading probably are easier to predict.
+I'm starting this project to try to earn money by day trading three tickets: $AAPL, $NVDA, and $TSLA. I choose those tickets because many people in the Reddit group of `r/Daytrading` use those stocks. I think it's because each of them is a leading ticket for different markets: Consumer Electronics, Semiconductors, and Auto Manufacturers. Tickets with high levels of volume for trading probably are easier to predict.
 
 ## Dataset
 
