@@ -4,7 +4,7 @@
 Created on Sun Sep 25 19:44:46 2022
 @author: Juan Beleño
 """
-from datetime import datetime
+from datetime import datetime, timedelta
 import pandas as pd
 import requests
 
@@ -21,11 +21,11 @@ class DayTradingDataset:
         response = r.json()
         return response
 
-    def prepare_datasets(self):
+    def prepare_dataset(self):
         raw_data = self.get_raw_data('APPL', '3mo', '5m')
         timestamps = raw_data['chart']['result']['timestamp']
         data = raw_data['chart']['result']['indicators']['quote']
-        train_df = pd.DataFrame({
+        dataset = pd.DataFrame({
             'timestamp': timestamps,
             'high': data['high'],
             'low': data['low'],
@@ -35,7 +35,7 @@ class DayTradingDataset:
         })
 
         # Convert int to timestamp
-        train_df['timestamp'] = train_df['timestamp'].apply(
+        dataset['timestamp'] = dataset['timestamp'].apply(
             lambda timestamp: pd.to_datetime(timestamp, utc=True, unit='s')
         )
 
@@ -43,11 +43,38 @@ class DayTradingDataset:
         column = 'close'
         periods = [5, 10, 20, 30, 50]
         for period in periods:
-            train_df.loc[:,'Return_{period}'] = train_df[column].pct_change(period)
-            train_df.loc[:,'MovingAvg_{period}'] = train_df[column].rolling(window=period).mean().values
-            train_df.loc[:,'ExpMovingAvg_{period}'] = train_df[column].ewm(span=period, adjust=False).mean().values
-            train_df.loc[:,'Volatility_{period}'] = train_df[column].diff().rolling(period).std()
+            dataset.loc[:,'Return_{period}'] = dataset[column].pct_change(period)
+            dataset.loc[:,'MovingAvg_{period}'] = dataset[column].rolling(window=period).mean().values
+            dataset.loc[:,'ExpMovingAvg_{period}'] = dataset[column].ewm(span=period, adjust=False).mean().values
+            dataset.loc[:,'Volatility_{period}'] = dataset[column].diff().rolling(period).std()
 
         # Define target variables
-        train_df['target_high'] = train_df['high'].rolling(window=8).max().shift(-8)
-        train_df['target_low'] = train_df['low'].rolling(window=8).max().shift(-8)
+        dataset['target_high'] = dataset['high'].rolling(window=8).max().shift(-8)
+        dataset['target_low'] = dataset['low'].rolling(window=8).max().shift(-8)
+        return dataset
+
+    def test_train_split(self):
+        dataset = self.prepare_dataset()
+
+        # Define timestamp ranges for datasets
+        week_ago = datetime.now() - timedelta(days=7)
+
+        # Split the datasets
+        features = [col for col in dataset.columns if col not in ['timestamp', 'target_high', 'target_low']]
+
+        train_df = dataset[dataset['timestamp'] <= week_ago].copy()
+        train_df.sample(frac=1, ignore_index=True, inplace=True)
+        target_high_train_df = train_df['target_high'].tolist()
+        target_low_train_df = train_df['target_low'].tolist()
+        features_train_df = train_df[features].copy()
+
+        test_df = dataset[dataset['timestamp'] >= week_ago].copy()
+        test_df = test_df.dropna(subset=['target_high', 'target_low'])
+        target_high_test_df = test_df['target_high'].tolist()
+        target_low_test_df = test_df['target_low'].tolist()
+        features_test_df = test_df[features].copy()
+
+        return (
+            features_train_df, target_high_train_df, target_low_train_df,
+            features_test_df, target_high_test_df, target_low_test_df,
+        )
