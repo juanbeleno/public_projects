@@ -43,7 +43,12 @@ class DayTradingDataset:
             lambda timestamp: pd.to_datetime(timestamp, utc=True, unit='s')
         )
         dataset['timestamp'] = dataset['timestamp'].astype('datetime64[ns]')
+        dataset['day_of_week'] = dataset['timestamp'].dt.dayofweek
+        # dataset['hour'] = dataset['timestamp'].dt.hour
         print(f'There are {dataset.shape[0]} data points.')
+
+        # Verify that the dataset is ordered by timestamp
+        dataset.sort_values(by='timestamp', ascending=True, inplace=True)
 
         # Moving features
         print('Calculating the cummulative features.')
@@ -59,6 +64,10 @@ class DayTradingDataset:
         print('Defining the targets.')
         dataset['target_high'] = dataset['high'].rolling(window=8).max().shift(-8)
         dataset['target_low'] = dataset['low'].rolling(window=8).max().shift(-8)
+
+        # Print a sample of the dataset to very it's ordered
+        print(dataset.head(16))
+
         return dataset
 
     def test_train_split(self):
@@ -73,6 +82,9 @@ class DayTradingDataset:
 
         print('Defining the training data.')
         train_df = dataset[dataset['timestamp'] <= week_ago].copy()
+        files = DayTradingFiles()
+        train_df.to_csv(files.train_data_filepath)
+        # Sample the dataset to add a little bit of randomness before training
         train_df = train_df.sample(frac=1, ignore_index=True)
         target_high_train_df = train_df['target_high'].tolist()
         target_low_train_df = train_df['target_low'].tolist()
