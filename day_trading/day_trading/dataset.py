@@ -44,7 +44,8 @@ class DayTradingDataset:
         )
         dataset['timestamp'] = dataset['timestamp'].astype('datetime64[ns]')
         dataset['day_of_week'] = dataset['timestamp'].dt.dayofweek
-        # dataset['hour'] = dataset['timestamp'].dt.hour
+        dataset['hour'] = dataset['timestamp'].dt.hour
+        dataset['minute'] = dataset['timestamp'].dt.minute
         print(f'There are {dataset.shape[0]} data points.')
 
         # Verify that the dataset is ordered by timestamp
@@ -65,6 +66,13 @@ class DayTradingDataset:
         dataset['target_high'] = dataset['high'].rolling(window=8).max().shift(-8)
         dataset['target_low'] = dataset['low'].rolling(window=8).max().shift(-8)
 
+        # Remove the data points at the end of the day because
+        # they have too much volatility
+        # dataset = dataset[(dataset['hour'] != 19)].copy()
+
+        # Drop NA for Linear Regression
+        dataset.dropna(inplace=True)
+
         # Print a sample of the dataset to very it's ordered
         print(dataset.head(16))
 
@@ -74,7 +82,8 @@ class DayTradingDataset:
         dataset = self.prepare_dataset()
 
         # Define timestamp ranges for datasets
-        week_ago = datetime.now() - timedelta(days=7)
+        #week_ago = datetime.now() - timedelta(days=7)
+        week_ago = datetime(2022, 9, 30)
         print(f'A week ago: {week_ago}')
 
         # Split the datasets
@@ -92,7 +101,7 @@ class DayTradingDataset:
 
         print('Defining the test data.')
         test_df = dataset[dataset['timestamp'] >= week_ago].copy()
-        test_df = test_df.dropna(subset=['target_high', 'target_low'])
+        test_df.dropna(subset=['target_high', 'target_low'], inplace=True)
         target_high_test_df = test_df['target_high'].tolist()
         target_low_test_df = test_df['target_low'].tolist()
         features_test_df = test_df[features].copy()

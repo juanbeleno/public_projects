@@ -7,14 +7,17 @@ Created on Thu Sep 29 19:40:02 2022
 from .dataset import DayTradingDataset
 from .files import DayTradingFiles
 from xgboost import XGBRegressor
+from sklearn.linear_model import LinearRegression
 import joblib
 import json
 
 class DayTradingTrainer:
     def __init__(self) -> None:
         self.day_trading_dataset = DayTradingDataset()
-        self.high_regressor = XGBRegressor()
-        self.low_regressor = XGBRegressor()
+        # self.high_regressor = XGBRegressor()
+        # self.low_regressor = XGBRegressor()
+        self.high_regressor = LinearRegression()
+        self.low_regressor = LinearRegression()
 
     def train(self):
         # Load the dataset
