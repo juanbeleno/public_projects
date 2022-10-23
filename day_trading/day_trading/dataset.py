@@ -29,39 +29,40 @@ class DayTradingDataset:
         self.stop_intervals = 8
 
     def get_raw_data(self):
-        # Get the data from the past stored manually by me (Juan Beleño)
-        # collecting the data on certain dates.
-        files = DayTradingFiles()
-        ticket = 'AAPL'
-        ticket_directory = os.path.join(files.input_directory, f'{ticket}_interval_{self.granularity}_range_{self.range}')
-        filepaths = next(os.walk(ticket_directory), (None, None, []))[2]  # [] if no file
         response = []
-        for filepath in filepaths:
-            with open(os.path.join(ticket_directory, filepath)) as json_file:
-                response.append(json.load(json_file))
+        for ticket in self.tickets:
+            print(f'Getting data for {ticket}')
+            # Get the data from the past stored manually by me (Juan Beleño)
+            # collecting the data on certain dates.
+            files = DayTradingFiles()
+            ticket_directory = os.path.join(files.input_directory, f'{ticket}_interval_{self.granularity}_range_{self.range}')
+            filepaths = next(os.walk(ticket_directory), (None, None, []))[2]  # [] if no file
 
-        # Collect the most recent data using the Yahoo Finances API
-        params = {
-            'region': 'US',
-            'lang': 'en-US',
-            'includePrePost': 'false',
-            'interval': self.granularity,
-            'useYfid': 'true',
-            'range': self.range,
-            'corsDomain': 'finance.yahoo.com',
-            '.tsrc': 'finance'
-        }
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'
-        }
-        request = requests.get(
-            f'https://query1.finance.yahoo.com/v8/finance/chart/{ticket}',
-            params=params,
-            headers=headers
-        )
-        recent_data = request.json()
-        response.append(recent_data)
-        print(request.url)
+            for filepath in filepaths:
+                with open(os.path.join(ticket_directory, filepath)) as json_file:
+                    response.append(json.load(json_file))
+
+            # Collect the most recent data using the Yahoo Finances API
+            params = {
+                'region': 'US',
+                'lang': 'en-US',
+                'includePrePost': 'false',
+                'interval': self.granularity,
+                'useYfid': 'true',
+                'range': self.range,
+                'corsDomain': 'finance.yahoo.com',
+                '.tsrc': 'finance'
+            }
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'
+            }
+            request = requests.get(
+                f'https://query1.finance.yahoo.com/v8/finance/chart/{ticket}',
+                params=params,
+                headers=headers
+            )
+            recent_data = request.json()
+            response.append(recent_data)
 
         return response
 
@@ -73,7 +74,7 @@ class DayTradingDataset:
         dataset = pd.DataFrame(columns=['timestamp', 'high', 'low', 'close', 'open', 'volume', 'ticket'])
         for partial_data in raw_data:
             ticket = partial_data['chart']['result'][0]['meta']['symbol']
-            # print(partial_data['chart']['result'][0])
+            print(f'Processing data for {ticket}')
             timestamps = partial_data['chart']['result'][0]['timestamp']
             data = partial_data['chart']['result'][0]['indicators']['quote'][0]
             partial_dataset = pd.DataFrame({
@@ -89,6 +90,9 @@ class DayTradingDataset:
 
         # Remove duplicated data
         dataset.drop_duplicates(inplace=True)
+
+        # Use only one ticket
+        dataset = dataset[dataset['ticket'] == 'AAPL'].copy()
 
         # Create binary column with the values of each ticket
         dataset = pd.get_dummies(dataset, columns=['ticket'])
@@ -155,7 +159,7 @@ class DayTradingDataset:
         features_train_df = train_df[features].copy()
 
         print('Defining the test data.')
-        test_df = dataset[dataset['timestamp'] >= week_ago].copy()
+        test_df = dataset[((dataset['timestamp'] >= week_ago) & (dataset['ticket_AAPL'] == 1))].copy()
         test_df.dropna(subset=['target_high', 'target_low'], inplace=True)
         target_high_test_df = test_df['target_high'].tolist()
         target_low_test_df = test_df['target_low'].tolist()
