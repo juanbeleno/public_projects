@@ -11,9 +11,6 @@ class DayTradingFiles():
     input_directory: str = os.path.join(main_directory, 'data', 'inputs')
     output_directory: str = os.path.join(main_directory, 'data', 'outputs')
 
-    # Inputs
-    aapl_filepath: str = os.path.join(input_directory, 'AAPL_interval_5m_range_60d.json')
-
     # Outputs
     train_data_filepath: str = os.path.join(output_directory, 'train_data.csv')
     high_model_filepath: str = os.path.join(output_directory, 'high_model.joblib')
