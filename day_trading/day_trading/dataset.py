@@ -55,7 +55,7 @@ class DayTradingDataset:
         for filepath in filepaths:
             with open(os.path.join(ticket_directory, filepath)) as json_file:
                 response.append(json.load(json_file))
-
+        """
         # Collect the most recent data using the Yahoo Finances API
         params = {
             'region': 'US',
@@ -84,6 +84,7 @@ class DayTradingDataset:
         ticket_filepath = os.path.join(ticket_directory, f"{datetime.today().strftime('%Y-%m-%d')}.json")
         with open(ticket_filepath, 'w') as f:
             json.dump(recent_data, f)
+        """
 
         return response
 
@@ -154,8 +155,8 @@ class DayTradingDataset:
         dataset = self.prepare_dataset(ticket)
 
         # Define timestamp ranges for datasets
-        week_ago = datetime.now() - timedelta(days=7)
-        #week_ago = datetime(2022, 9, 30)
+        # week_ago = datetime.now() - timedelta(days=7)
+        week_ago = datetime(2022, 10, 18)
         print(f'A week ago: {week_ago}')
 
         # Split the datasets

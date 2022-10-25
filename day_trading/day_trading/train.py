@@ -60,8 +60,8 @@ class DayTradingTrainer:
                     'price': features_train_df['close'].tolist()[0],
                     'sample_size': sample_size,
                     'p_high_successful_predictions': len([x for x in delta_high if x >= 0]) / sample_size,
-                    'p_low_successful_predictions': len([x for x in delta_low if x <= 0]) / sample_size,
-                    'p_successful_predictions': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] <= 0)]) / sample_size
+                    'p_low_successful_predictions': len([x for x in delta_low if x >= 0]) / sample_size,
+                    'p_successful_predictions': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0)]) / sample_size
                 }
                 print(metadata)
                 training_metadata.append(metadata)
