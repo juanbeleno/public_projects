@@ -9,12 +9,9 @@ import os
 class DayTradingFiles():
     main_directory:str = os.path.join(os.path.dirname(os.path.realpath(__file__)))
     input_directory: str = os.path.join(main_directory, 'data', 'inputs')
+    processed_directory: str = os.path.join(main_directory, 'data', 'processed')
     output_directory: str = os.path.join(main_directory, 'data', 'outputs')
 
-    # Outputs
-    train_data_filepath: str = os.path.join(output_directory, 'train_data.csv')
-    high_model_filepath: str = os.path.join(output_directory, 'high_model.joblib')
-    low_model_filepath: str = os.path.join(output_directory, 'low_model.joblib')
-    features_filepath: str = os.path.join(output_directory, 'features.csv')
-    target_high_filepath: str = os.path.join(output_directory, 'target_high.json')
-    target_low_filepath: str = os.path.join(output_directory, 'target_low.json')
+    # Processed files
+    ticket_candidates: str = os.path.join(processed_directory, 'ticket_candidates.csv')
+    tickets_metadata: str = os.path.join(processed_directory, 'tickets_metadata.csv')

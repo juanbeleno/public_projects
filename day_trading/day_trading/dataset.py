@@ -7,6 +7,7 @@ Created on Sun Sep 25 19:44:46 2022
 from urllib import request
 from .files import DayTradingFiles
 from datetime import datetime, timedelta
+from pathlib import Path
 import pandas as pd
 import json
 import os
@@ -17,14 +18,38 @@ class DayTradingDataset:
         self.range = '60d'
         self.granularity = '5m'
         self.stop_intervals = 8
+        self.files = DayTradingFiles()
+
+    def download_ticket_candidates(self):
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'
+        }
+        request = requests.get(
+            'https://finviz.com/maps/sec.json?rev=317',
+            headers=headers
+        )
+        response = request.json()
+
+        data = []
+        for category_data in response['children']:
+            for subcategory_data in category_data['children']:
+                for company in subcategory_data['children']:
+                    data.append({
+                        'category': category_data['name'],
+                        'subcategory': subcategory_data['name'],
+                        'company_name': company['description'],
+                        'company_code': company['name'],
+                        'company_value': company['value']
+                    })
+        tickets_data = pd.DataFrame(data)
+        tickets_data.to_csv(self.files.ticket_candidates, index=False)
 
     def get_raw_data(self, ticket):
         response = []
         print(f'Getting data for {ticket}')
         # Get the data from the past stored manually by me (Juan Beleño)
         # collecting the data on certain dates.
-        files = DayTradingFiles()
-        ticket_directory = os.path.join(files.input_directory, f'{ticket}_interval_{self.granularity}_range_{self.range}')
+        ticket_directory = os.path.join(self.files.input_directory, f'{ticket}_interval_{self.granularity}_range_{self.range}')
         filepaths = next(os.walk(ticket_directory), (None, None, []))[2]  # [] if no file
 
         for filepath in filepaths:
@@ -52,6 +77,13 @@ class DayTradingDataset:
         )
         recent_data = request.json()
         response.append(recent_data)
+
+        # Save the data in a folder for future training
+        ticket_folder = Path(ticket_directory)
+        ticket_folder.mkdir(exist_ok=True)
+        ticket_filepath = os.path.join(ticket_directory, f"{datetime.today().strftime('%Y-%m-%d')}.json")
+        with open(ticket_filepath, 'w') as f:
+            json.dump(recent_data, f)
 
         return response
 
@@ -135,18 +167,18 @@ class DayTradingDataset:
         # train_df.to_csv(files.train_data_filepath, index=False)
         # Sample the dataset to add a little bit of randomness before training
         train_df = train_df.sample(frac=1, ignore_index=True)
-        target_high_train_df = train_df['target_high'].tolist()
-        target_low_train_df = train_df['target_low'].tolist()
+        target_high_train = train_df['target_high'].tolist()
+        target_low_train = train_df['target_low'].tolist()
         features_train_df = train_df[features].copy()
 
         print('Defining the test data.')
         test_df = dataset[dataset['timestamp'] >= week_ago].copy()
         test_df.dropna(subset=['target_high', 'target_low'], inplace=True)
-        target_high_test_df = test_df['target_high'].tolist()
-        target_low_test_df = test_df['target_low'].tolist()
+        target_high_test = test_df['target_high'].tolist()
+        target_low_test = test_df['target_low'].tolist()
         features_test_df = test_df[features].copy()
 
         return (
-            features_train_df, target_high_train_df, target_low_train_df,
-            features_test_df, target_high_test_df, target_low_test_df,
+            features_train_df, target_high_train, target_low_train,
+            features_test_df, target_high_test, target_low_test,
         )
