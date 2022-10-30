@@ -15,3 +15,5 @@ class DayTradingFiles():
     # Processed files
     ticket_candidates: str = os.path.join(processed_directory, 'ticket_candidates.csv')
     tickets_metadata: str = os.path.join(processed_directory, 'tickets_metadata.csv')
+    selected_tickets: str = os.path.join(processed_directory, 'selected_tickets.json')
+    bets_metadata: str = os.path.join(processed_directory, 'bets_metadata.csv')

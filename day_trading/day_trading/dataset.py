@@ -8,6 +8,7 @@ from urllib import request
 from .files import DayTradingFiles
 from datetime import datetime, timedelta
 from pathlib import Path
+import numpy as np
 import pandas as pd
 import json
 import os
@@ -44,18 +45,7 @@ class DayTradingDataset:
         tickets_data = pd.DataFrame(data)
         tickets_data.to_csv(self.files.ticket_candidates, index=False)
 
-    def get_raw_data(self, ticket):
-        response = []
-        print(f'Getting data for {ticket}')
-        # Get the data from the past stored manually by me (Juan Beleño)
-        # collecting the data on certain dates.
-        ticket_directory = os.path.join(self.files.input_directory, f'{ticket}_interval_{self.granularity}_range_{self.range}')
-        filepaths = next(os.walk(ticket_directory), (None, None, []))[2]  # [] if no file
-
-        for filepath in filepaths:
-            with open(os.path.join(ticket_directory, filepath)) as json_file:
-                response.append(json.load(json_file))
-        """
+    def get_recent_data(self, ticket):
         # Collect the most recent data using the Yahoo Finances API
         params = {
             'region': 'US',
@@ -76,6 +66,21 @@ class DayTradingDataset:
             headers=headers
         )
         recent_data = request.json()
+        return recent_data
+
+    def get_raw_data(self, ticket):
+        response = []
+        print(f'Getting data for {ticket}')
+        # Get the data from the past stored manually by me (Juan Beleño)
+        # collecting the data on certain dates.
+        ticket_directory = os.path.join(self.files.input_directory, f'{ticket}_interval_{self.granularity}_range_{self.range}')
+        filepaths = next(os.walk(ticket_directory), (None, None, []))[2]  # [] if no file
+
+        for filepath in filepaths:
+            with open(os.path.join(ticket_directory, filepath)) as json_file:
+                response.append(json.load(json_file))
+        """
+        recent_data = self.get_recent_data(ticket)
         response.append(recent_data)
 
         # Save the data in a folder for future training
@@ -88,10 +93,7 @@ class DayTradingDataset:
 
         return response
 
-    def prepare_dataset(self, ticket):
-        print('Getting the data for the tickets')
-        raw_data = self.get_raw_data(ticket)
-
+    def transform_data(self, ticket, raw_data):
         print('Convert the HTTP response into a pandas DataFrame')
         dataset = pd.DataFrame(columns=['timestamp', 'high', 'low', 'close', 'open', 'volume'])
         for partial_data in raw_data:
@@ -138,48 +140,74 @@ class DayTradingDataset:
         print('Defining the targets.')
         dataset['target_high'] = dataset['high'].rolling(window=8).max().shift(-8)
         dataset['target_low'] = dataset['low'].rolling(window=8).max().shift(-8)
+        dataset['target_close'] = dataset['close'].rolling(window=8).agg(lambda rows: rows.tolist()[-1] if rows.shape[0] > 0 else np.nan)
+        return dataset
 
-        # Remove the data points at the end of the day because
-        # they have too much volatility
-        # dataset = dataset[(dataset['hour'] != 19)].copy()
-
+    def get_all_dataset(self, ticket):
+        print('Getting the data for the ticket')
+        raw_data = self.get_raw_data(ticket)
+        dataset = self.transform_data(ticket, raw_data)
         # Drop NA for Linear Regression
         dataset.dropna(inplace=True)
 
-        # Print a sample of the dataset to very it's ordered
-        print(dataset.head(16))
+        features_columns = [col for col in dataset.columns if col not in ['timestamp', 'target_high', 'target_low']]
+        dataset = dataset.sample(frac=1, ignore_index=True)
+        target_high = dataset['target_high'].tolist()
+        target_low = dataset['target_low'].tolist()
+        features_df = dataset[features].copy()
+        return (features_df, target_high, target_low)
 
-        return dataset
+    def get_prediction_features(self, ticket):
+        print('Getting the data for the ticket')
+        raw_data = self.get_recent_data(ticket)
+        dataset = self.transform_data(ticket, raw_data)
 
-    def test_train_split(self, ticket):
-        dataset = self.prepare_dataset(ticket)
+        features_columns = [col for col in dataset.columns if col not in ['timestamp', 'target_high', 'target_low']]
+        features_df = dataset[features].copy()
+        features_df = features_df.tail(1)
+        return features_df
+
+    def test_val_train_split(self, ticket):
+        print('Getting the data for the ticket')
+        raw_data = self.get_raw_data(ticket)
+        dataset = self.transform_data(ticket, raw_data)
+        # Drop NA for Linear Regression
+        dataset.dropna(inplace=True)
 
         # Define timestamp ranges for datasets
         # week_ago = datetime.now() - timedelta(days=7)
         week_ago = datetime(2022, 10, 18)
+        # two_weeks_ago = datetime.now() - timedelta(days=14)
+        two_weeks_ago = datetime(2022, 10, 11)
         print(f'A week ago: {week_ago}')
 
         # Split the datasets
-        features = [col for col in dataset.columns if col not in ['timestamp', 'target_high', 'target_low']]
+        features = [col for col in dataset.columns if col not in ['timestamp', 'target_high', 'target_low', 'target_close']]
 
         print('Defining the training data.')
-        train_df = dataset[dataset['timestamp'] <= week_ago].copy()
-        # files = DayTradingFiles()
-        # train_df.to_csv(files.train_data_filepath, index=False)
+        train_df = dataset[dataset['timestamp'] <= two_weeks_ago].copy()
         # Sample the dataset to add a little bit of randomness before training
         train_df = train_df.sample(frac=1, ignore_index=True)
         target_high_train = train_df['target_high'].tolist()
         target_low_train = train_df['target_low'].tolist()
         features_train_df = train_df[features].copy()
 
+        print('Defining the validation data.')
+        val_df = dataset[((dataset['timestamp'] > two_weeks_ago) & (dataset['timestamp'] < week_ago))].copy()
+        target_high_val = val_df['target_high'].tolist()
+        target_low_val = val_df['target_low'].tolist()
+        features_val_df = val_df[features].copy()
+
         print('Defining the test data.')
         test_df = dataset[dataset['timestamp'] >= week_ago].copy()
         test_df.dropna(subset=['target_high', 'target_low'], inplace=True)
         target_high_test = test_df['target_high'].tolist()
         target_low_test = test_df['target_low'].tolist()
+        target_close_test = test_df['target_close'].tolist()
         features_test_df = test_df[features].copy()
 
         return (
             features_train_df, target_high_train, target_low_train,
-            features_test_df, target_high_test, target_low_test,
+            features_val_df, target_high_val, target_low_val,
+            features_test_df, target_high_test, target_low_test, target_close_test
         )

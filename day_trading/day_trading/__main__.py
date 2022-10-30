@@ -10,7 +10,7 @@ from .train import DayTradingTrainer
 
 def train_models():
     trainer = DayTradingTrainer()
-    trainer.train()
+    trainer.test_strategies()
 
 def main():
     """Expose CLI functions."""
