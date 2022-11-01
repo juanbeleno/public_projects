@@ -14,6 +14,7 @@ setup(
         'day_trading',
         'day_trading.data',
         'day_trading.data.inputs',
+        'day_trading.data.processed',
         'day_trading.data.outputs'
     ],
     install_requires=[

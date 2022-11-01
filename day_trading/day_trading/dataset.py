@@ -162,7 +162,7 @@ class DayTradingDataset:
         dataset.dropna(inplace=True)
 
         features_columns = [col for col in dataset.columns if col not in [
-            'timestamp', 'target_high', 'target_low']]
+            'timestamp', 'target_high', 'target_low', 'target_close']]
         dataset = dataset.sample(frac=1, ignore_index=True)
         target_high = dataset['target_high'].tolist()
         target_low = dataset['target_low'].tolist()
@@ -175,7 +175,7 @@ class DayTradingDataset:
         dataset = self.transform_data(ticket, raw_data)
 
         features_columns = [col for col in dataset.columns if col not in [
-            'timestamp', 'target_high', 'target_low']]
+            'timestamp', 'target_high', 'target_low', 'target_close']]
         features_df = dataset[features_columns].copy()
         features_df = features_df.tail(1)
         return features_df
@@ -194,7 +194,7 @@ class DayTradingDataset:
 
         # Split the datasets
         features = [col for col in dataset.columns if col not in [
-            'timestamp', 'target_high', 'target_low']]
+            'timestamp', 'target_high', 'target_low', 'target_close']]
 
         print('Defining the training data.')
         train_df = dataset[dataset['timestamp'] <= week_ago].copy()
