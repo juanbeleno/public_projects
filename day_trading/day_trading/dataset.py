@@ -79,10 +79,10 @@ class DayTradingDataset:
         for filepath in filepaths:
             with open(os.path.join(ticket_directory, filepath)) as json_file:
                 response.append(json.load(json_file))
-        """
+
         recent_data = self.get_recent_data(ticket)
         response.append(recent_data)
-
+        """
         # Save the data in a folder for future training
         ticket_folder = Path(ticket_directory)
         ticket_folder.mkdir(exist_ok=True)
@@ -154,7 +154,7 @@ class DayTradingDataset:
         dataset = dataset.sample(frac=1, ignore_index=True)
         target_high = dataset['target_high'].tolist()
         target_low = dataset['target_low'].tolist()
-        features_df = dataset[features].copy()
+        features_df = dataset[features_columns].copy()
         return (features_df, target_high, target_low)
 
     def get_prediction_features(self, ticket):
@@ -163,9 +163,44 @@ class DayTradingDataset:
         dataset = self.transform_data(ticket, raw_data)
 
         features_columns = [col for col in dataset.columns if col not in ['timestamp', 'target_high', 'target_low']]
-        features_df = dataset[features].copy()
+        features_df = dataset[features_columns].copy()
         features_df = features_df.tail(1)
         return features_df
+
+    def test_train_split(self, ticket):
+        print('Getting the data for the ticket')
+        raw_data = self.get_raw_data(ticket)
+        dataset = self.transform_data(ticket, raw_data)
+        # Drop NA for Linear Regression
+        dataset.dropna(inplace=True)
+
+        # Define timestamp ranges for datasets
+        week_ago = datetime.now() - timedelta(days=7)
+        # week_ago = datetime(2022, 10, 18)
+        print(f'A week ago: {week_ago}')
+
+        # Split the datasets
+        features = [col for col in dataset.columns if col not in ['timestamp', 'target_high', 'target_low']]
+
+        print('Defining the training data.')
+        train_df = dataset[dataset['timestamp'] <= week_ago].copy()
+        # Sample the dataset to add a little bit of randomness before training
+        train_df = train_df.sample(frac=1, ignore_index=True)
+        target_high_train = train_df['target_high'].tolist()
+        target_low_train = train_df['target_low'].tolist()
+        features_train_df = train_df[features].copy()
+
+        print('Defining the test data.')
+        test_df = dataset[dataset['timestamp'] >= week_ago].copy()
+        test_df.dropna(subset=['target_high', 'target_low'], inplace=True)
+        target_high_test = test_df['target_high'].tolist()
+        target_low_test = test_df['target_low'].tolist()
+        features_test_df = test_df[features].copy()
+
+        return (
+            features_train_df, target_high_train, target_low_train,
+            features_test_df, target_high_test, target_low_test
+        )
 
     def test_val_train_split(self, ticket):
         print('Getting the data for the ticket')
@@ -175,10 +210,10 @@ class DayTradingDataset:
         dataset.dropna(inplace=True)
 
         # Define timestamp ranges for datasets
-        # week_ago = datetime.now() - timedelta(days=7)
-        week_ago = datetime(2022, 10, 18)
-        # two_weeks_ago = datetime.now() - timedelta(days=14)
-        two_weeks_ago = datetime(2022, 10, 11)
+        week_ago = datetime.now() - timedelta(days=7)
+        # week_ago = datetime(2022, 10, 18)
+        two_weeks_ago = datetime.now() - timedelta(days=14)
+        # two_weeks_ago = datetime(2022, 10, 11)
         print(f'A week ago: {week_ago}')
 
         # Split the datasets

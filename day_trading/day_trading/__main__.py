@@ -8,12 +8,17 @@ import fire
 
 from .train import DayTradingTrainer
 
-def train_models():
+def test_strategies():
     trainer = DayTradingTrainer()
     trainer.test_strategies()
+
+def train_models():
+    trainer = DayTradingTrainer()
+    trainer.train_models()
 
 def main():
     """Expose CLI functions."""
     fire.Fire({
-        'train-models': train_models
+        'test-strategies': test_strategies,
+        'train_models': train_models
     })
