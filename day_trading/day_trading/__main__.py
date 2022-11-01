@@ -7,18 +7,28 @@ Created on Tue Oct  4 21:07:19 2022
 import fire
 
 from .train import DayTradingTrainer
+from .model_manager import ModelManager
+
 
 def test_strategies():
     trainer = DayTradingTrainer()
     trainer.test_strategies()
 
+
 def train_models():
     trainer = DayTradingTrainer()
     trainer.train_models()
+
+
+def predict_trades():
+    model_manager = ModelManager()
+    print(model_manager.get_bet())
+
 
 def main():
     """Expose CLI functions."""
     fire.Fire({
         'test-strategies': test_strategies,
-        'train_models': train_models
+        'train-models': train_models,
+        'predict-trades': predict_trades
     })
