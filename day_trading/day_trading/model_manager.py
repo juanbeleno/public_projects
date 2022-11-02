@@ -53,6 +53,7 @@ class ModelManager:
                 'close': close,
                 'market_order_bottom': low_prediction,
                 'market_order_top': high_prediction,
+                'min_market_order_bottom': close - (high_prediction - close) * 0.2,
                 'p_earnings': ((high_prediction - close) / close),
                 'risk_reward_ratio': (high_prediction - close) / (close - low_prediction)
             })

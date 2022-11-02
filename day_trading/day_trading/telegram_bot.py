@@ -18,13 +18,14 @@ class TelegramBot:
     def send_message(self):
         bet = self.model_manager.get_bet()
         # TODO: Use only bets with an increase of 0.75% in the ticket price
-        message = f"Ticket: {bet['ticket']}\nLow: {bet['market_order_bottom']}\nHigh: {bet['market_order_top']}"
-        payload = {
-            'chat_id': os.environ['CHAT_ID'],
-            'text': message
-        }
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'
-        }
-        response = requests.post(self.url, json=payload, headers=headers)
-        print(response.text)
+        if bet['p_earnings'] > 0.0075:
+            message = f"Ticket: {bet['ticket']}\nLow: {bet['min_market_order_bottom']}\nHigh: {bet['market_order_top']}\nClose: {bet['close']}\nFalse Low: {bet['market_order_bottom']}"
+            payload = {
+                'chat_id': os.environ['CHAT_ID'],
+                'text': message
+            }
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'
+            }
+            response = requests.post(self.url, json=payload, headers=headers)
+            print(response.text)
