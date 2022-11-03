@@ -23,8 +23,8 @@ class StrategyManager():
                 'ticket': ticket,
                 'index': item['index'],
                 'close': item['close'],
-                'market_order_top': item['high_prediction'],
-                'market_order_bottom': item['low_prediction'],
+                'take_profit': item['high_prediction'],
+                'stop_loss': item['low_prediction'],
                 'risk_reward_ratio': (item['high_prediction'] - item['close']) / (item['close'] - item['low_prediction']),
                 'result': result
             })
@@ -32,7 +32,7 @@ class StrategyManager():
 
     def get_bets_for_buy_low_sell_high(self, ticket, df):
         # STRATEGY: I'll buy low and sell high. Risk/Reward ratio 1:3.
-        # At least a variation of 0.75% of the ticket value.
+        # At least a variation of 1% of the ticket value.
         bets = df.query(
-            'high_prediction > close and ((high_prediction - close) > 3 * (close - low_prediction)) and ((high_prediction - close) / close) > 0.0075')
+            'high_prediction > close and ((high_prediction - close) > 3 * (close - low_prediction)) and ((high_prediction - close) / close) > 0.01')
         return self.get_bet_metadata(ticket, bets)

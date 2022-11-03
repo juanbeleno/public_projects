@@ -40,23 +40,28 @@ class ModelManager:
 
     def get_bet(self):
         possible_bets = []
+        money = int(os.environ['MONEY'])
+        print(money)
         for ticket in self.tickets:
             low_model = self.low_models[ticket]
             high_model = self.high_models[ticket]
 
             features = self.day_trading_dataset.get_prediction_features(ticket)
-            low_prediction = low_model.predict(features)[0]
-            high_prediction = high_model.predict(features)[0]
-            close = features['close'].tolist()[0]
-            possible_bets.append({
-                'ticket': ticket,
-                'close': close,
-                'market_order_bottom': low_prediction,
-                'market_order_top': high_prediction,
-                'min_market_order_bottom': close - (high_prediction - close) * 0.2,
-                'p_earnings': ((high_prediction - close) / close),
-                'risk_reward_ratio': (high_prediction - close) / (close - low_prediction)
-            })
+            try:
+                low_prediction = low_model.predict(features)[0]
+                high_prediction = high_model.predict(features)[0]
+                close = features['close'].tolist()[0]
+                possible_bets.append({
+                    'ticket': ticket,
+                    'close': close,
+                    'stop_loss': (low_prediction - close) * money / close,
+                    'take_profit': (high_prediction - close) * money / close,
+                    'theoretical_stop_loss': -(high_prediction - close) * 0.33 * money / close,
+                    'p_earnings': ((high_prediction - close) / close),
+                    'risk_reward_ratio': (high_prediction - close) / (close - low_prediction)
+                })
+            except ValueError:
+                print(f'ERROR: Problems getting recent data for {ticket}')
         possible_bets = pd.DataFrame(possible_bets)
         possible_bets.sort_values(
             by='risk_reward_ratio',

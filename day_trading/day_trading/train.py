@@ -15,6 +15,7 @@ import json
 import pandas as pd
 import os
 
+
 class DayTradingTrainer:
     def __init__(self) -> None:
         self.day_trading_dataset = DayTradingDataset()
@@ -66,18 +67,24 @@ class DayTradingTrainer:
                 high_predictions = high_regressor.predict(features_test_df)
                 delta_high = target_high_test - high_predictions
                 delta_low = target_low_test - low_predictions
-                metadata = {
-                    'ticket': ticket,
-                    'mae_low_model': mean_absolute_error(target_low_test, low_predictions),
-                    'mae_high_model': mean_absolute_error(target_high_test, high_predictions),
-                    'pearson_correlation_coefficient_low_model': stats.pearsonr(target_low_test, low_predictions)[0],
-                    'pearson_correlation_coefficient_high_model': stats.pearsonr(target_high_test, high_predictions)[0],
-                    'price': features_train_df['close'].tolist()[0],
-                    'sample_size': sample_size,
-                    'p_success_buy_low_sell_high': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0)]) / sample_size
-                }
-                print(metadata)
-                training_metadata.append(metadata)
+                close = features_train_df['close'].tolist()
+                try:
+                    metadata = {
+                        'ticket': ticket,
+                        'mae_low_model': mean_absolute_error(target_low_test, low_predictions),
+                        'mae_high_model': mean_absolute_error(target_high_test, high_predictions),
+                        'pearson_correlation_coefficient_low_model': stats.pearsonr(target_low_test, low_predictions)[0],
+                        'pearson_correlation_coefficient_high_model': stats.pearsonr(target_high_test, high_predictions)[0],
+                        'price': features_train_df['close'].tolist()[0],
+                        'sample_size': sample_size,
+                        'p_success_buy_low_sell_high': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0)]) / sample_size,
+                        'num_interesting_bets': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0 and ((high_predictions[x] - close[x]) / close[x]) > 0.03)])
+                    }
+                    print(metadata)
+                    training_metadata.append(metadata)
+                except IndexError:
+                    print(
+                        f'ERROR: Problems processing the metadata of {ticket}')
 
         training_metadata = pd.DataFrame(training_metadata)
         training_metadata.to_csv(self.files.tickets_metadata, index=False)
@@ -87,8 +94,12 @@ class DayTradingTrainer:
         # STRATEGY: I'll buy low and sell high. I'll select the top 15 tickets
         # where the Linear Regression model have shown better performance.
         num_tickets = 15
-        metadata = training_metadata[training_metadata['sample_size'] > 350].copy()
-        metadata = metadata.sort_values(by='p_success_buy_low_sell_high', ascending=False)
+        metadata = training_metadata[training_metadata['sample_size'] > 350].copy(
+        )
+        metadata = training_metadata[training_metadata['num_interesting_bets'] >= 15].copy(
+        )
+        metadata = metadata.sort_values(
+            by='p_success_buy_low_sell_high', ascending=False)
         metadata = metadata.head(num_tickets)
         self.selected_tickets = metadata['ticket'].tolist()
         with open(self.files.selected_tickets, 'w') as f:
@@ -142,11 +153,11 @@ class DayTradingTrainer:
         ticket_strike = {ticket: 0 for ticket in self.selected_tickets}
         for bet in strategy_metadata.to_dict('records'):
             if (
-                    (bet['index'] - last_index < window)
-                    or (bet['index'] == last_index)
-                    # Add FINRA rules for accounts with less than 25,000 USD
-                    or (ticket_strike[bet['ticket']] > 2)
-                ):
+                (bet['index'] - last_index < window)
+                or (bet['index'] == last_index)
+                # Add FINRA rules for accounts with less than 25,000 USD
+                or (ticket_strike[bet['ticket']] > 2)
+            ):
                 continue
             last_index = bet['index']
             ticket_strike[bet['ticket']] = ticket_strike[bet['ticket']] + 1
@@ -161,7 +172,8 @@ class DayTradingTrainer:
 
         for ticket in self.selected_tickets:
             # Load the dataset
-            (features_df, target_high, target_low) = self.day_trading_dataset.get_all_dataset(ticket)
+            (features_df, target_high,
+             target_low) = self.day_trading_dataset.get_all_dataset(ticket)
 
             print('Training the models.')
             high_regressor = LinearRegression()
@@ -171,5 +183,7 @@ class DayTradingTrainer:
             low_regressor.fit(features_df, target_low)
 
             print(f'Saving the {ticket} models.')
-            joblib.dump(low_regressor, os.path.join(self.files.output_directory, f'low_model_{ticket}.joblib'))
-            joblib.dump(high_regressor, os.path.join(self.files.output_directory, f'high_model_{ticket}.joblib'))
+            joblib.dump(low_regressor, os.path.join(
+                self.files.output_directory, f'low_model_{ticket}.joblib'))
+            joblib.dump(high_regressor, os.path.join(
+                self.files.output_directory, f'high_model_{ticket}.joblib'))
