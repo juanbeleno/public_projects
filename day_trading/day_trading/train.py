@@ -144,7 +144,7 @@ class DayTradingTrainer:
         strategy_metadata = pd.DataFrame(strategy_metadata)
         print(strategy_metadata)
         strategy_metadata.sort_values(
-            by=['index', 'risk_reward_ratio'],
+            by=['index', 'p_profit'],
             ascending=[True, False],
             inplace=True)
         bets = []
@@ -167,7 +167,7 @@ class DayTradingTrainer:
         print(f'Estimated weekly return: {bets["result"].sum()}')
 
     def train_models(self):
-        # self.save_training_metadata(split_type='test_train')
+        self.save_training_metadata(split_type='test_train')
         print('Train the selected tickets to trade.')
 
         for ticket in self.selected_tickets:

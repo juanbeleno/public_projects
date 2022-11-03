@@ -23,6 +23,7 @@ class StrategyManager():
                 'ticket': ticket,
                 'index': item['index'],
                 'close': item['close'],
+                'p_profit': (item['high_prediction'] - item['close']) / item['close'],
                 'take_profit': item['high_prediction'],
                 'stop_loss': item['low_prediction'],
                 'risk_reward_ratio': (item['high_prediction'] - item['close']) / (item['close'] - item['low_prediction']),

@@ -54,17 +54,19 @@ class ModelManager:
                 possible_bets.append({
                     'ticket': ticket,
                     'close': close,
-                    'stop_loss': (low_prediction - close) * money / close,
+                    'p_profit': (high_prediction - close) / close,
+                    'p_loss': (high_prediction - close) / close,
+                    'stop_loss': (close - low_prediction) * money / close,
                     'take_profit': (high_prediction - close) * money / close,
                     'theoretical_stop_loss': -(high_prediction - close) * 0.33 * money / close,
-                    'p_earnings': ((high_prediction - close) / close),
                     'risk_reward_ratio': (high_prediction - close) / (close - low_prediction)
                 })
             except ValueError:
                 print(f'ERROR: Problems getting recent data for {ticket}')
         possible_bets = pd.DataFrame(possible_bets)
+        possible_bets = possible_bets.query('p_profit > 3 * p_loss')
         possible_bets.sort_values(
-            by='risk_reward_ratio',
+            by='p_profit',
             ascending=False,
             inplace=True)
         return possible_bets.to_dict('records')[0]
