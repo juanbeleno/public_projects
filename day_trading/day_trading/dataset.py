@@ -19,10 +19,11 @@ class DayTradingDataset:
     def __init__(self) -> None:
         self.range = '60d'
         self.granularity = '5m'
-        self.stop_intervals = 8
+        self.window = 8
         self.files = DayTradingFiles()
 
     def download_ticket_candidates(self):
+        # S&P 500
         headers = {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'
         }
@@ -147,11 +148,10 @@ class DayTradingDataset:
         # Define target variables
         print('Defining the targets.')
         dataset['target_high'] = dataset['high'].rolling(
-            window=8).max().shift(-8)
+            window=self.window).max().shift(-(self.window + 1))
         dataset['target_low'] = dataset['low'].rolling(
-            window=8).max().shift(-8)
-        dataset['target_close'] = dataset['close'].rolling(window=8).agg(
-            lambda rows: rows.tolist()[-1] if rows.shape[0] > 0 else np.nan)
+            window=self.window).min().shift(-(self.window + 1))
+        dataset['target_close'] = dataset['close'].shift(-(self.window + 1))
         return dataset
 
     def get_all_dataset(self, ticket):

@@ -22,16 +22,23 @@ class DayTradingTrainer:
         self.files = DayTradingFiles()
         self.strategy_manager = StrategyManager()
         self.tickets = self.get_tickets()
-        self.selected_tickets = self.get_selected_tickets()
+        self.long_watchlist = self.get_watchlist('long')
+        self.short_watchlist = self.get_watchlist('short')
+        self.selected_tickets = self.long_watchlist.copy()
+        self.selected_tickets.extend(self.short_watchlist)
+        print(self.selected_tickets)
 
-    def get_selected_tickets(self):
+    def get_watchlist(self, watchlist_type):
         response = []
-        with open(self.files.selected_tickets) as json_file:
+        filepath = self.files.long_watchlist
+        if watchlist_type == 'short':
+            filepath = self.files.short_watchlist
+        with open(filepath) as json_file:
             response = json.load(json_file)
         return response
 
     def get_tickets(self):
-        # Get about 500 ticket from Finviz Map (https://finviz.com/map.ashx)
+        # Get about 500 ticket (S&P 500) from Finviz Map (https://finviz.com/map.ashx)
         # self.day_trading_dataset.download_ticket_candidates()
         tickets_df = pd.read_csv(self.files.ticket_candidates)
         return tickets_df['company_code'].tolist()
@@ -78,7 +85,9 @@ class DayTradingTrainer:
                         'price': features_train_df['close'].tolist()[0],
                         'sample_size': sample_size,
                         'p_success_buy_low_sell_high': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0)]) / sample_size,
-                        'num_interesting_bets': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0 and ((high_predictions[x] - close[x]) / close[x]) > 0.03)])
+                        'p_success_sell_high_buy_low': len([x for x in range(sample_size) if (delta_high[x] < 0 and delta_low[x] <= 0)]) / sample_size,
+                        'num_interesting_long_bets': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0 and ((high_predictions[x] - close[x]) / close[x]) > 0.01)]),
+                        'num_interesting_short_bets': len([x for x in range(sample_size) if (delta_high[x] < 0 and delta_low[x] <= 0 and ((close[x] - low_predictions[x]) / close[x]) > 0.01)])
                     }
                     print(metadata)
                     training_metadata.append(metadata)
@@ -91,19 +100,34 @@ class DayTradingTrainer:
         self.save_tickets(training_metadata)
 
     def save_tickets(self, training_metadata):
-        # STRATEGY: I'll buy low and sell high. I'll select the top 15 tickets
-        # where the Linear Regression model have shown better performance.
-        num_tickets = 15
+        # I'll select the top 10 tickets where the Linear Regression
+        # model have shown better performance for longs and shorts.
+        num_tickets = 10
         metadata = training_metadata[training_metadata['sample_size'] > 350].copy(
         )
-        metadata = training_metadata[training_metadata['num_interesting_bets'] >= 15].copy(
+
+        # STRATEGY #1 (LONG): I'll buy low and sell high.
+        long_metadata = metadata[metadata['num_interesting_long_bets'] >= 15].copy(
         )
-        metadata = metadata.sort_values(
+        long_metadata = long_metadata.sort_values(
             by='p_success_buy_low_sell_high', ascending=False)
-        metadata = metadata.head(num_tickets)
-        self.selected_tickets = metadata['ticket'].tolist()
-        with open(self.files.selected_tickets, 'w') as f:
-            json.dump(self.selected_tickets, f)
+        long_metadata = long_metadata.head(num_tickets)
+        self.long_watchlist = long_metadata['ticket'].tolist()
+        with open(self.files.long_watchlist, 'w') as f:
+            json.dump(self.long_watchlist, f)
+
+        # STRATEGY #2 (SHORT): I'll sell high and buy low.
+        short_metadata = metadata[metadata['num_interesting_short_bets'] >= 15].copy(
+        )
+        short_metadata = short_metadata.sort_values(
+            by='p_success_sell_high_buy_low', ascending=False)
+        short_metadata = short_metadata.head(num_tickets)
+        self.short_watchlist = short_metadata['ticket'].tolist()
+        with open(self.files.short_watchlist, 'w') as f:
+            json.dump(self.short_watchlist, f)
+
+        self.selected_tickets = self.long_watchlist.copy()
+        self.selected_tickets.extend(self.short_watchlist)
 
     def test_strategies(self):
         self.save_training_metadata()
@@ -137,9 +161,16 @@ class DayTradingTrainer:
             features_test_df['target_high'] = target_high_test
             features_test_df['target_low'] = target_low_test
             features_test_df['target_close'] = target_close_test
+            if ticket == 'HUM':
+                features_test_df.to_csv(
+                    self.files.features_sample, index=False)
 
-            strategy_metadata.extend(self.strategy_manager.get_bets_for_buy_low_sell_high(
-                ticket, features_test_df))
+            if ticket in self.long_watchlist:
+                strategy_metadata.extend(self.strategy_manager.get_bets_for_buy_low_sell_high(
+                    ticket, features_test_df))
+            else:
+                strategy_metadata.extend(self.strategy_manager.get_bets_for_sell_high_buy_low(
+                    ticket, features_test_df))
 
         strategy_metadata = pd.DataFrame(strategy_metadata)
         print(strategy_metadata)
@@ -150,6 +181,7 @@ class DayTradingTrainer:
         bets = []
         last_index = -10
         window = 8
+
         ticket_strike = {ticket: 0 for ticket in self.selected_tickets}
         for bet in strategy_metadata.to_dict('records'):
             if (

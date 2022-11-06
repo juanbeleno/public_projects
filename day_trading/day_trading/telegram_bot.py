@@ -18,8 +18,8 @@ class TelegramBot:
     def send_message(self):
         bet = self.model_manager.get_bet()
         # TODO: Use only bets with an increase of 1% in the ticket price
-        if bet['p_profit'] > 0.01:
-            message = f"Ticket: {bet['ticket']}\nStop Loss: {bet['stop_loss']:0.2f}\nTake Profit: {bet['take_profit']:0.2f}\nClose: {bet['close']:0.2f}\nTheoretical Stop Loss: {bet['theoretical_stop_loss']:0.2f}"
+        if bet['p_profit'] > 0.0075:
+            message = f"{bet['action']} {bet['ticket']}\nStop Loss: {bet['stop_loss']:0.2f}\nTake Profit: {bet['take_profit']:0.2f}\nClose: {bet['close']:0.2f}"
             payload = {
                 'chat_id': os.environ['CHAT_ID'],
                 'text': message

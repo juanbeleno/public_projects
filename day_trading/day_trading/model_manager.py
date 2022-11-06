@@ -17,19 +17,25 @@ class ModelManager:
     def __init__(self) -> None:
         self.files = DayTradingFiles()
         self.day_trading_dataset = DayTradingDataset()
-        self.tickets = self.get_selected_tickets()
+        self.long_watchlist = self.get_watchlist('long')
+        self.short_watchlist = self.get_watchlist('short')
+        self.selected_tickets = self.long_watchlist.copy()
+        self.selected_tickets.extend(self.short_watchlist)
         self.high_models = {
             ticket: self.get_model(ticket, 'high')
-            for ticket in self.get_selected_tickets()
+            for ticket in self.selected_tickets
         }
         self.low_models = {
             ticket: self.get_model(ticket, 'low')
-            for ticket in self.get_selected_tickets()
+            for ticket in self.selected_tickets
         }
 
-    def get_selected_tickets(self):
+    def get_watchlist(self, watchlist_type):
         response = []
-        with open(self.files.selected_tickets) as json_file:
+        filepath = self.files.long_watchlist
+        if watchlist_type == 'short':
+            filepath = self.files.short_watchlist
+        with open(filepath) as json_file:
             response = json.load(json_file)
         return response
 
@@ -41,30 +47,43 @@ class ModelManager:
     def get_bet(self):
         possible_bets = []
         money = int(os.environ['MONEY'])
-        print(money)
+
         for ticket in self.tickets:
             low_model = self.low_models[ticket]
             high_model = self.high_models[ticket]
 
             features = self.day_trading_dataset.get_prediction_features(ticket)
             try:
+                # By default, I'll calculate the variables for LONG
+                action = 'BUY'
                 low_prediction = low_model.predict(features)[0]
                 high_prediction = high_model.predict(features)[0]
                 close = features['close'].tolist()[0]
+                p_profit = (high_prediction - close) / close
+                p_loss = (close - low_prediction) / close
+                stop_loss = (close - low_prediction) * money / close
+                take_profit = (high_prediction - close) * money / close
+
+                # SHORT
+                if ticket in self.short_watchlist:
+                    action = 'SELL'
+                    p_profit = (close - low_prediction) / close
+                    p_loss = (high_prediction - close) / close
+                    stop_loss = (high_prediction - close) * money / close
+                    take_profit = (close - low_prediction) * money / close
+
                 possible_bets.append({
+                    'action': action,
                     'ticket': ticket,
                     'close': close,
-                    'p_profit': (high_prediction - close) / close,
-                    'p_loss': (high_prediction - close) / close,
-                    'stop_loss': (close - low_prediction) * money / close,
-                    'take_profit': (high_prediction - close) * money / close,
-                    'theoretical_stop_loss': -(high_prediction - close) * 0.33 * money / close,
-                    'risk_reward_ratio': (high_prediction - close) / (close - low_prediction)
-                })
+                    'p_profit': p_profit,
+                    'p_loss': p_loss,
+                    'stop_loss': stop_loss,
+                    'take_profit': take_profit})
             except ValueError:
                 print(f'ERROR: Problems getting recent data for {ticket}')
         possible_bets = pd.DataFrame(possible_bets)
-        possible_bets = possible_bets.query('p_profit > 3 * p_loss')
+        possible_bets = possible_bets.query('p_profit > 2 * p_loss')
         possible_bets.sort_values(
             by='p_profit',
             ascending=False,
