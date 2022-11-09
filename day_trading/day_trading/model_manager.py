@@ -29,6 +29,12 @@ class ModelManager:
             ticket: self.get_model(ticket, 'low')
             for ticket in self.selected_tickets
         }
+        self.default_bet = {
+            'ticket': 'NONE',
+            'stop_loss': 0,
+            'take_profit': 0,
+            'p_profit': 0
+        }
 
     def get_watchlist(self, watchlist_type):
         response = []
@@ -48,7 +54,7 @@ class ModelManager:
         possible_bets = []
         money = int(os.environ['MONEY'])
 
-        for ticket in self.tickets:
+        for ticket in self.selected_tickets:
             low_model = self.low_models[ticket]
             high_model = self.high_models[ticket]
 
@@ -88,4 +94,7 @@ class ModelManager:
             by='p_profit',
             ascending=False,
             inplace=True)
-        return possible_bets.to_dict('records')[0]
+        bet = self.default_bet
+        if possible_bets.shape[0] > 0:
+            bet = possible_bets.to_dict('records')[0]
+        return bet

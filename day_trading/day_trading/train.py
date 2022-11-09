@@ -26,7 +26,6 @@ class DayTradingTrainer:
         self.short_watchlist = self.get_watchlist('short')
         self.selected_tickets = self.long_watchlist.copy()
         self.selected_tickets.extend(self.short_watchlist)
-        print(self.selected_tickets)
 
     def get_watchlist(self, watchlist_type):
         response = []
@@ -84,10 +83,10 @@ class DayTradingTrainer:
                         'pearson_correlation_coefficient_high_model': stats.pearsonr(target_high_test, high_predictions)[0],
                         'price': features_train_df['close'].tolist()[0],
                         'sample_size': sample_size,
-                        'p_success_buy_low_sell_high': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0)]) / sample_size,
-                        'p_success_sell_high_buy_low': len([x for x in range(sample_size) if (delta_high[x] < 0 and delta_low[x] <= 0)]) / sample_size,
-                        'num_interesting_long_bets': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0 and ((high_predictions[x] - close[x]) / close[x]) > 0.01)]),
-                        'num_interesting_short_bets': len([x for x in range(sample_size) if (delta_high[x] < 0 and delta_low[x] <= 0 and ((close[x] - low_predictions[x]) / close[x]) > 0.01)])
+                        'p_success_buy_low_sell_high': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0 and ((target_high_test[x] - close[x]) / close[x]) > 0.01)]) / (len([x for x in range(sample_size) if ((target_high_test[x] - close[x]) / close[x]) > 0.01]) + 1),
+                        'p_success_sell_high_buy_low': len([x for x in range(sample_size) if (delta_high[x] < 0 and delta_low[x] <= 0 and ((close[x] - target_low_test[x]) / close[x]) > 0.01)]) / (len([x for x in range(sample_size) if ((close[x] - target_low_test[x]) / close[x]) > 0.01]) + 1),
+                        'num_interesting_long_bets': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0 and ((target_high_test[x] - close[x]) / close[x]) > 0.01)]),
+                        'num_interesting_short_bets': len([x for x in range(sample_size) if (delta_high[x] < 0 and delta_low[x] <= 0 and ((close[x] - target_low_test[x]) / close[x]) > 0.01)])
                     }
                     print(metadata)
                     training_metadata.append(metadata)
