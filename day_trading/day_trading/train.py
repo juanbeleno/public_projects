@@ -19,6 +19,7 @@ import os
 class DayTradingTrainer:
     def __init__(self) -> None:
         self.day_trading_dataset = DayTradingDataset()
+        self.window = self.day_trading_dataset.window
         self.files = DayTradingFiles()
         self.strategy_manager = StrategyManager()
         self.tickets = self.get_tickets()
@@ -83,10 +84,10 @@ class DayTradingTrainer:
                         'pearson_correlation_coefficient_high_model': stats.pearsonr(target_high_test, high_predictions)[0],
                         'price': features_train_df['close'].tolist()[0],
                         'sample_size': sample_size,
-                        'p_success_buy_low_sell_high': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0 and ((target_high_test[x] - close[x]) / close[x]) > 0.01)]) / (len([x for x in range(sample_size) if ((target_high_test[x] - close[x]) / close[x]) > 0.01]) + 1),
-                        'p_success_sell_high_buy_low': len([x for x in range(sample_size) if (delta_high[x] < 0 and delta_low[x] <= 0 and ((close[x] - target_low_test[x]) / close[x]) > 0.01)]) / (len([x for x in range(sample_size) if ((close[x] - target_low_test[x]) / close[x]) > 0.01]) + 1),
-                        'num_interesting_long_bets': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0 and ((target_high_test[x] - close[x]) / close[x]) > 0.01)]),
-                        'num_interesting_short_bets': len([x for x in range(sample_size) if (delta_high[x] < 0 and delta_low[x] <= 0 and ((close[x] - target_low_test[x]) / close[x]) > 0.01)])
+                        'p_success_buy_low_sell_high': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0 and ((high_predictions[x] - close[x]) / close[x]) > 0.01 and (high_predictions[x] - close[x]) > 2 * (close[x] - low_predictions[x]))]) / (len([x for x in range(sample_size) if ((target_high_test[x] - close[x]) / close[x]) > 0.01 and (target_high_test[x] - close[x]) > 2 * (close[x] - target_low_test[x])]) + 1),
+                        'p_success_sell_high_buy_low': len([x for x in range(sample_size) if (delta_high[x] < 0 and delta_low[x] <= 0 and ((close[x] - low_predictions[x]) / close[x]) > 0.01 and (close[x] - low_predictions[x]) > 2 * (high_predictions[x] - close[x]))]) / (len([x for x in range(sample_size) if ((close[x] - target_low_test[x]) / close[x]) > 0.01 and (close[x] - target_low_test[x]) > 2 * (target_high_test[x] - close[x])]) + 1),
+                        'num_interesting_long_bets': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0 and ((high_predictions[x] - close[x]) / close[x]) > 0.01 and (high_predictions[x] - close[x]) > 2 * (close[x] - low_predictions[x]))]),
+                        'num_interesting_short_bets': len([x for x in range(sample_size) if (delta_high[x] < 0 and delta_low[x] <= 0 and ((close[x] - low_predictions[x]) / close[x]) > 0.01 and (close[x] - low_predictions[x]) > 2 * (high_predictions[x] - close[x]))])
                     }
                     print(metadata)
                     training_metadata.append(metadata)
@@ -106,7 +107,7 @@ class DayTradingTrainer:
         )
 
         # STRATEGY #1 (LONG): I'll buy low and sell high.
-        long_metadata = metadata[metadata['num_interesting_long_bets'] >= 15].copy(
+        long_metadata = metadata[metadata['num_interesting_long_bets'] >= 30].copy(
         )
         long_metadata = long_metadata.sort_values(
             by='p_success_buy_low_sell_high', ascending=False)
@@ -116,7 +117,7 @@ class DayTradingTrainer:
             json.dump(self.long_watchlist, f)
 
         # STRATEGY #2 (SHORT): I'll sell high and buy low.
-        short_metadata = metadata[metadata['num_interesting_short_bets'] >= 15].copy(
+        short_metadata = metadata[metadata['num_interesting_short_bets'] >= 30].copy(
         )
         short_metadata = short_metadata.sort_values(
             by='p_success_sell_high_buy_low', ascending=False)
@@ -160,7 +161,7 @@ class DayTradingTrainer:
             features_test_df['target_high'] = target_high_test
             features_test_df['target_low'] = target_low_test
             features_test_df['target_close'] = target_close_test
-            if ticket == 'HUM':
+            if ticket == 'CPRT':
                 features_test_df.to_csv(
                     self.files.features_sample, index=False)
 
@@ -179,12 +180,11 @@ class DayTradingTrainer:
             inplace=True)
         bets = []
         last_index = -10
-        window = 8
 
         ticket_strike = {ticket: 0 for ticket in self.selected_tickets}
         for bet in strategy_metadata.to_dict('records'):
             if (
-                (bet['index'] - last_index < window)
+                (bet['index'] - last_index < self.window)
                 or (bet['index'] == last_index)
                 # Add FINRA rules for accounts with less than 25,000 USD
                 or (ticket_strike[bet['ticket']] > 2)

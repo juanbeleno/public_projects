@@ -19,7 +19,7 @@ class DayTradingDataset:
     def __init__(self) -> None:
         self.range = '60d'
         self.granularity = '5m'
-        self.window = 8
+        self.window = 4
         self.files = DayTradingFiles()
 
     def download_ticket_candidates(self):
@@ -134,7 +134,7 @@ class DayTradingDataset:
         # Moving features
         print('Calculating the cummulative features.')
         column = 'close'
-        periods = [5, 10, 20, 30, 50]
+        periods = [2, 3, 8, 21, 55]
         for period in periods:
             dataset.loc[:, f'Return_{period}'] = dataset[column].pct_change(
                 period)
@@ -148,10 +148,10 @@ class DayTradingDataset:
         # Define target variables
         print('Defining the targets.')
         dataset['target_high'] = dataset['high'].rolling(
-            window=self.window).max().shift(-(self.window + 1))
+            window=self.window).max().shift(-self.window)
         dataset['target_low'] = dataset['low'].rolling(
-            window=self.window).min().shift(-(self.window + 1))
-        dataset['target_close'] = dataset['close'].shift(-(self.window + 1))
+            window=self.window).min().shift(-self.window)
+        dataset['target_close'] = dataset['close'].shift(-self.window)
         return dataset
 
     def get_all_dataset(self, ticket):
