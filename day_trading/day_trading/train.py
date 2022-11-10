@@ -27,6 +27,7 @@ class DayTradingTrainer:
         self.short_watchlist = self.get_watchlist('short')
         self.selected_tickets = self.long_watchlist.copy()
         self.selected_tickets.extend(self.short_watchlist)
+        self.p_profit_threshold = 0.00325 * 2.5
 
     def get_watchlist(self, watchlist_type):
         response = []
@@ -72,9 +73,55 @@ class DayTradingTrainer:
 
                 low_predictions = low_regressor.predict(features_test_df)
                 high_predictions = high_regressor.predict(features_test_df)
-                delta_high = target_high_test - high_predictions
-                delta_low = target_low_test - low_predictions
-                close = features_train_df['close'].tolist()
+                close = features_test_df['close'].tolist()
+
+                num_interesting_long_bets = 0
+                num_interesting_short_bets = 0
+                sum_successful_long_bets = 0
+                sum_successful_short_bets = 0
+                p_successful_long_bets = 0.0
+                p_successful_short_bets = 0.0
+                for index in range(sample_size):
+                    # Interesting long: Risk-Reward Ratio > 1:2 and profit > 0.65% of the ticket value.
+                    if (
+                        ((high_predictions[index] - close[index]) >
+                         2.5 * (close[index] - low_predictions[index]))
+                        and
+                        (((high_predictions[index] -
+                         close[index]) / close[index]) > self.p_profit_threshold)
+                    ):
+                        num_interesting_long_bets += 1
+                        # Let's verify if the bet was successful
+                        if (
+                            (high_predictions[index] <=
+                             target_high_test[index])
+                            and
+                            (low_predictions[index] < target_low_test[index])
+                        ):
+                            sum_successful_long_bets += 1
+
+                    # Interesting short: Risk-Reward Ration > 1:2 and profit > 0.65% of the ticket value.
+                    if (
+                        ((close[index] - low_predictions[index]) >
+                         2.5 * (high_predictions[index] - close[index]))
+                        and
+                        (((close[index] - low_predictions[index]) /
+                         close[index]) > self.p_profit_threshold)
+                    ):
+                        num_interesting_short_bets += 1
+                        # Let's verify if the bet was successful
+                        if (
+                            (high_predictions[index] >
+                             target_high_test[index])
+                            and
+                            (low_predictions[index] >= target_low_test[index])
+                        ):
+                            sum_successful_short_bets += 1
+                if num_interesting_long_bets > 0:
+                    p_successful_long_bets = sum_successful_long_bets / num_interesting_long_bets
+                if num_interesting_short_bets > 0:
+                    p_successful_short_bets = sum_successful_short_bets / num_interesting_short_bets
+
                 try:
                     metadata = {
                         'ticket': ticket,
@@ -84,10 +131,10 @@ class DayTradingTrainer:
                         'pearson_correlation_coefficient_high_model': stats.pearsonr(target_high_test, high_predictions)[0],
                         'price': features_train_df['close'].tolist()[0],
                         'sample_size': sample_size,
-                        'p_success_buy_low_sell_high': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0 and ((high_predictions[x] - close[x]) / close[x]) > 0.01 and (high_predictions[x] - close[x]) > 2 * (close[x] - low_predictions[x]))]) / (len([x for x in range(sample_size) if ((target_high_test[x] - close[x]) / close[x]) > 0.01 and (target_high_test[x] - close[x]) > 2 * (close[x] - target_low_test[x])]) + 1),
-                        'p_success_sell_high_buy_low': len([x for x in range(sample_size) if (delta_high[x] < 0 and delta_low[x] <= 0 and ((close[x] - low_predictions[x]) / close[x]) > 0.01 and (close[x] - low_predictions[x]) > 2 * (high_predictions[x] - close[x]))]) / (len([x for x in range(sample_size) if ((close[x] - target_low_test[x]) / close[x]) > 0.01 and (close[x] - target_low_test[x]) > 2 * (target_high_test[x] - close[x])]) + 1),
-                        'num_interesting_long_bets': len([x for x in range(sample_size) if (delta_high[x] >= 0 and delta_low[x] >= 0 and ((high_predictions[x] - close[x]) / close[x]) > 0.01 and (high_predictions[x] - close[x]) > 2 * (close[x] - low_predictions[x]))]),
-                        'num_interesting_short_bets': len([x for x in range(sample_size) if (delta_high[x] < 0 and delta_low[x] <= 0 and ((close[x] - low_predictions[x]) / close[x]) > 0.01 and (close[x] - low_predictions[x]) > 2 * (high_predictions[x] - close[x]))])
+                        'p_success_buy_low_sell_high': p_successful_long_bets,
+                        'p_success_sell_high_buy_low': p_successful_short_bets,
+                        'num_interesting_long_bets': num_interesting_long_bets,
+                        'num_interesting_short_bets': num_interesting_short_bets
                     }
                     print(metadata)
                     training_metadata.append(metadata)
@@ -100,15 +147,18 @@ class DayTradingTrainer:
         self.save_tickets(training_metadata)
 
     def save_tickets(self, training_metadata):
-        # I'll select the top 10 tickets where the Linear Regression
+        # I'll select the top 3 tickets where the Linear Regression
         # model have shown better performance for longs and shorts.
         num_tickets = 10
+        num_bets_threshold = 10
         metadata = training_metadata[training_metadata['sample_size'] > 350].copy(
         )
 
         # STRATEGY #1 (LONG): I'll buy low and sell high.
-        long_metadata = metadata[metadata['num_interesting_long_bets'] >= 30].copy(
+        long_metadata = metadata[metadata['num_interesting_long_bets'] >= num_bets_threshold].copy(
         )
+        long_metadata = long_metadata.query(
+            'p_success_buy_low_sell_high > 0.0').copy()
         long_metadata = long_metadata.sort_values(
             by='p_success_buy_low_sell_high', ascending=False)
         long_metadata = long_metadata.head(num_tickets)
@@ -117,8 +167,10 @@ class DayTradingTrainer:
             json.dump(self.long_watchlist, f)
 
         # STRATEGY #2 (SHORT): I'll sell high and buy low.
-        short_metadata = metadata[metadata['num_interesting_short_bets'] >= 30].copy(
+        short_metadata = metadata[metadata['num_interesting_short_bets'] >= num_bets_threshold].copy(
         )
+        short_metadata = short_metadata.query(
+            'p_success_sell_high_buy_low > 0.0').copy()
         short_metadata = short_metadata.sort_values(
             by='p_success_sell_high_buy_low', ascending=False)
         short_metadata = short_metadata.head(num_tickets)
@@ -161,9 +213,6 @@ class DayTradingTrainer:
             features_test_df['target_high'] = target_high_test
             features_test_df['target_low'] = target_low_test
             features_test_df['target_close'] = target_close_test
-            if ticket == 'CPRT':
-                features_test_df.to_csv(
-                    self.files.features_sample, index=False)
 
             if ticket in self.long_watchlist:
                 strategy_metadata.extend(self.strategy_manager.get_bets_for_buy_low_sell_high(

@@ -226,7 +226,7 @@ class DayTradingDataset:
         # Define timestamp ranges for datasets
         week_ago = datetime.now() - timedelta(days=7)
         # week_ago = datetime(2022, 10, 18)
-        two_weeks_ago = datetime.now() - timedelta(days=14)
+        three_weeks_ago = datetime.now() - timedelta(days=21)
         # two_weeks_ago = datetime(2022, 10, 11)
         print(f'A week ago: {week_ago}')
 
@@ -235,7 +235,7 @@ class DayTradingDataset:
             'timestamp', 'target_high', 'target_low', 'target_close']]
 
         print('Defining the training data.')
-        train_df = dataset[dataset['timestamp'] <= two_weeks_ago].copy()
+        train_df = dataset[dataset['timestamp'] <= three_weeks_ago].copy()
         # Sample the dataset to add a little bit of randomness before training
         train_df = train_df.sample(frac=1, ignore_index=True)
         target_high_train = train_df['target_high'].tolist()
@@ -243,7 +243,7 @@ class DayTradingDataset:
         features_train_df = train_df[features].copy()
 
         print('Defining the validation data.')
-        val_df = dataset[((dataset['timestamp'] > two_weeks_ago) & (
+        val_df = dataset[((dataset['timestamp'] > three_weeks_ago) & (
             dataset['timestamp'] < week_ago))].copy()
         target_high_val = val_df['target_high'].tolist()
         target_low_val = val_df['target_low'].tolist()

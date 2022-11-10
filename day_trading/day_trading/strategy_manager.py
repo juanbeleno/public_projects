@@ -9,7 +9,9 @@ Created on Thu Oct 27 15:39:03 2022
 
 class StrategyManager():
     def __init__(self) -> None:
-        self.p_profit = 0.01
+        # 0.325% is the minimum stop loss allowed by eToro
+        # And we are using a 2:3 Risk-Reward Ratio
+        self.p_profit_threshold = 0.00325 * 2.5
 
     def get_long_metadata(self, ticket, bets):
         metadata = []
@@ -60,17 +62,17 @@ class StrategyManager():
         return metadata
 
     def get_bets_for_buy_low_sell_high(self, ticket, df):
-        # STRATEGY: I'll buy low and sell high. Risk/Reward ratio 1:3.
+        # STRATEGY: I'll buy low and sell high. Risk/Reward ratio 2:3.
         # At least a variation of 1% of the ticket value.
         bets = df.query(
-            f'high_prediction > close and ((high_prediction - close) > 2 * (close - low_prediction)) and ((high_prediction - close) / close) > {self.p_profit}').copy()
+            f'high_prediction > close and ((high_prediction - close) > 2.5 * (close - low_prediction)) and ((high_prediction - close) / close) > {self.p_profit_threshold}').copy()
         bets['action'] = 'BUY'
         return self.get_long_metadata(ticket, bets)
 
     def get_bets_for_sell_high_buy_low(self, ticket, df):
-        # STRATEGY: I'll sell high and buy low. Risk/Reward ratio 1:3.
+        # STRATEGY: I'll sell high and buy low. Risk/Reward ratio 2:3.
         # At least a variation of 1% of the ticket value.
         bets = df.query(
-            f'low_prediction < close and ((close - low_prediction) > 2 * (high_prediction - close)) and ((close - low_prediction) / close) > {self.p_profit}').copy()
+            f'low_prediction < close and ((close - low_prediction) > 2.5 * (high_prediction - close)) and ((close - low_prediction) / close) > {self.p_profit_threshold}').copy()
         bets['action'] = 'SELL'
         return self.get_short_metadata(ticket, bets)
