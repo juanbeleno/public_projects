@@ -27,7 +27,8 @@ class DayTradingTrainer:
         self.short_watchlist = self.get_watchlist('short')
         self.selected_tickets = self.long_watchlist.copy()
         self.selected_tickets.extend(self.short_watchlist)
-        self.p_profit_threshold = 0.00325 * 2.5
+        self.profit_ratio = 1.5
+        self.p_profit_threshold = 0.00325 * self.profit_ratio
 
     def get_watchlist(self, watchlist_type):
         response = []
@@ -85,7 +86,7 @@ class DayTradingTrainer:
                     # Interesting long: Risk-Reward Ratio > 1:2 and profit > 0.65% of the ticket value.
                     if (
                         ((high_predictions[index] - close[index]) >
-                         2.5 * (close[index] - low_predictions[index]))
+                         self.profit_ratio * (close[index] - low_predictions[index]))
                         and
                         (((high_predictions[index] -
                          close[index]) / close[index]) > self.p_profit_threshold)
@@ -103,7 +104,7 @@ class DayTradingTrainer:
                     # Interesting short: Risk-Reward Ration > 1:2 and profit > 0.65% of the ticket value.
                     if (
                         ((close[index] - low_predictions[index]) >
-                         2.5 * (high_predictions[index] - close[index]))
+                         self.profit_ratio * (high_predictions[index] - close[index]))
                         and
                         (((close[index] - low_predictions[index]) /
                          close[index]) > self.p_profit_threshold)
@@ -150,7 +151,7 @@ class DayTradingTrainer:
         # I'll select the top 3 tickets where the Linear Regression
         # model have shown better performance for longs and shorts.
         num_tickets = 10
-        num_bets_threshold = 10
+        num_bets_threshold = 30
         metadata = training_metadata[training_metadata['sample_size'] > 350].copy(
         )
 
@@ -158,7 +159,7 @@ class DayTradingTrainer:
         long_metadata = metadata[metadata['num_interesting_long_bets'] >= num_bets_threshold].copy(
         )
         long_metadata = long_metadata.query(
-            'p_success_buy_low_sell_high > 0.0').copy()
+            f'p_success_buy_low_sell_high > {1 / (1 + self.profit_ratio)}').copy()
         long_metadata = long_metadata.sort_values(
             by='p_success_buy_low_sell_high', ascending=False)
         long_metadata = long_metadata.head(num_tickets)
@@ -170,7 +171,7 @@ class DayTradingTrainer:
         short_metadata = metadata[metadata['num_interesting_short_bets'] >= num_bets_threshold].copy(
         )
         short_metadata = short_metadata.query(
-            'p_success_sell_high_buy_low > 0.0').copy()
+            f'p_success_sell_high_buy_low > {1 / (1 + self.profit_ratio)}').copy()
         short_metadata = short_metadata.sort_values(
             by='p_success_sell_high_buy_low', ascending=False)
         short_metadata = short_metadata.head(num_tickets)

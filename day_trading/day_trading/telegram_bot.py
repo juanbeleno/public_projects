@@ -14,7 +14,7 @@ class TelegramBot:
         telegram_token = os.environ['TELEGRAM_TOKEN']
         self.url = f'https://api.telegram.org/bot{telegram_token}/sendMessage'
         self.model_manager = ModelManager()
-        self.p_profit_threshold = 0.00325 * 2.5
+        self.p_profit_threshold = 0.00325 * 1.5
 
     def send_message(self):
         bet = self.model_manager.get_bet()

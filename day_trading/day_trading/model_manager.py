@@ -35,6 +35,7 @@ class ModelManager:
             'take_profit': 0,
             'p_profit': 0
         }
+        self.profit_ratio = 1.5
 
     def get_watchlist(self, watchlist_type):
         response = []
@@ -89,7 +90,8 @@ class ModelManager:
             except ValueError:
                 print(f'ERROR: Problems getting recent data for {ticket}')
         possible_bets = pd.DataFrame(possible_bets)
-        possible_bets = possible_bets.query('p_profit > 2 * p_loss')
+        possible_bets = possible_bets.query(
+            f'p_profit > {self.profit_ratio} * p_loss')
         possible_bets.sort_values(
             by='p_profit',
             ascending=False,

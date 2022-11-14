@@ -19,7 +19,7 @@ class DayTradingDataset:
     def __init__(self) -> None:
         self.range = '60d'
         self.granularity = '5m'
-        self.window = 4
+        self.window = 3
         self.files = DayTradingFiles()
 
     def download_ticket_candidates(self):
@@ -188,16 +188,16 @@ class DayTradingDataset:
         dataset.dropna(inplace=True)
 
         # Define timestamp ranges for datasets
-        week_ago = datetime.now() - timedelta(days=7)
+        two_weeks_ago = datetime.now() - timedelta(days=14)
         # week_ago = datetime(2022, 10, 18)
-        print(f'A week ago: {week_ago}')
+        print(f'Two weeks ago: {two_weeks_ago}')
 
         # Split the datasets
         features = [col for col in dataset.columns if col not in [
             'timestamp', 'target_high', 'target_low', 'target_close']]
 
         print('Defining the training data.')
-        train_df = dataset[dataset['timestamp'] <= week_ago].copy()
+        train_df = dataset[dataset['timestamp'] <= two_weeks_ago].copy()
         # Sample the dataset to add a little bit of randomness before training
         train_df = train_df.sample(frac=1, ignore_index=True)
         target_high_train = train_df['target_high'].tolist()
@@ -205,7 +205,7 @@ class DayTradingDataset:
         features_train_df = train_df[features].copy()
 
         print('Defining the test data.')
-        test_df = dataset[dataset['timestamp'] >= week_ago].copy()
+        test_df = dataset[dataset['timestamp'] >= two_weeks_ago].copy()
         test_df.dropna(subset=['target_high', 'target_low'], inplace=True)
         target_high_test = test_df['target_high'].tolist()
         target_low_test = test_df['target_low'].tolist()
