@@ -151,7 +151,7 @@ class DayTradingTrainer:
         # I'll select the top 3 tickets where the Linear Regression
         # model have shown better performance for longs and shorts.
         num_tickets = 10
-        num_bets_threshold = 30
+        num_bets_threshold = 25
         metadata = training_metadata[training_metadata['sample_size'] > 350].copy(
         )
 

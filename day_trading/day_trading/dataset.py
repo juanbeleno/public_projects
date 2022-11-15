@@ -13,6 +13,8 @@ import pandas as pd
 import json
 import os
 import requests
+# Division by zero
+np.seterr(divide='ignore', invalid='ignore')
 
 
 class DayTradingDataset:
@@ -90,7 +92,8 @@ class DayTradingDataset:
         # Save the data in a folder for future training
         ticket_folder = Path(ticket_directory)
         ticket_folder.mkdir(exist_ok=True)
-        ticket_filepath = os.path.join(ticket_directory, f"{datetime.today().strftime('%Y-%m-%d')}.json")
+        ticket_filepath = os.path.join(
+            ticket_directory, f"{datetime.today().strftime('%Y-%m-%d')}.json")
         with open(ticket_filepath, 'w') as f:
             json.dump(recent_data, f)
         """
@@ -120,30 +123,84 @@ class DayTradingDataset:
 
         # Convert int to timestamp
         dataset['timestamp'] = dataset['timestamp'].apply(
-            lambda timestamp: pd.to_datetime(timestamp, utc=True, unit='s')
+            lambda timestamp: pd.to_datetime(timestamp, utc=False, unit='s')
         )
-        dataset['timestamp'] = dataset['timestamp'].astype('datetime64[ns]')
         dataset['day_of_week'] = dataset['timestamp'].dt.dayofweek
         dataset['hour'] = dataset['timestamp'].dt.hour
         dataset['minute'] = dataset['timestamp'].dt.minute
+        dataset['date'] = dataset['timestamp'].dt
         print(f'There are {dataset.shape[0]} data points.')
 
         # Verify that the dataset is ordered by timestamp
-        dataset.sort_values(by='timestamp', ascending=True, inplace=True)
+        dataset.sort_values(by='timestamp', ascending=True,
+                            inplace=True, ignore_index=True)
 
         # Moving features
         print('Calculating the cummulative features.')
         column = 'close'
-        periods = [2, 3, 8, 21, 55]
-        for period in periods:
-            dataset.loc[:, f'Return_{period}'] = dataset[column].pct_change(
-                period)
-            dataset.loc[:, f'MovingAvg_{period}'] = dataset[column].rolling(
-                window=period).mean().values
-            dataset.loc[:, f'ExpMovingAvg_{period}'] = dataset[column].ewm(
-                span=period, adjust=False).mean().values
-            dataset.loc[:, f'Volatility_{period}'] = dataset[column].diff().rolling(
-                period).std()
+        time_windows = []
+        for window in time_windows:
+            dataset.loc[:, f'Return_{window}'] = dataset[column].pct_change(
+                window)
+            dataset.loc[:, f'MovingAvg_{window}'] = dataset[column].rolling(
+                window=window).mean().values
+            dataset.loc[:, f'EMA_{window}'] = dataset[column].ewm(
+                span=window, adjust=False).mean().values
+            dataset.loc[:, f'Volatility_{window}'] = dataset[column].diff().rolling(
+                window).std()
+
+        # Support/Resistance (Only vertical)
+        time_windows = [3, 13, 21, 34, 55]
+        for window in time_windows:
+            dataset.loc[:, f'Support_{window}'] = dataset['low'].rolling(
+                window=window).min().values
+            dataset.loc[:, f'Resistance_{window}'] = dataset['high'].rolling(
+                window=window).max().values
+
+        # RSI
+        rsi_period = 14
+        delta = dataset['close'] - dataset['open']
+        gains, loses = delta.copy(), delta.copy()
+        gains[gains < 0] = 0
+        loses[loses > 0] = 0
+        rolling_mean_gains = gains.ewm(
+            span=rsi_period, adjust=False).mean().values
+        rolling_mean_loses = np.absolute(loses.ewm(
+            span=rsi_period, adjust=False).mean().values)
+        rs = rolling_mean_gains / rolling_mean_loses
+        dataset['RSI'] = 100 - (100 / (1 + rs))
+
+        # MACD
+        ema_24 = dataset['close'].ewm(
+            span=24, adjust=False).mean().values
+        ema_12 = dataset['close'].ewm(
+            span=12, adjust=False).mean().values
+        dataset['MACD'] = ema_24 - ema_12
+        dataset['MACD_Signal'] = dataset['MACD'].ewm(
+            span=9, adjust=False).mean().values
+        dataset['MACD_Histogram'] = dataset['MACD'] - dataset['MACD_Signal']
+
+        # VWAP
+        dataset_list = dataset.to_dict('records')
+        new_dataset_list = []
+        last_date = None
+        cummulative_pv = 0
+        cummulative_volume = 0
+        for item in dataset_list:
+            current_date = item['date']
+            if current_date != last_date:
+                cummulative_pv = 0
+                cummulative_volume = 0
+            cummulative_pv += (item['close'] + item['high'] + item['low']) / 3
+            cummulative_volume += item['volume']
+            item['VWAP'] = 0
+            if cummulative_volume > 0:
+                item['VWAP'] = cummulative_pv / cummulative_volume
+            new_dataset_list.append(item)
+            last_date = current_date
+
+        # Convert back to dataframe
+        dataset = pd.DataFrame(new_dataset_list)
 
         # Define target variables
         print('Defining the targets.')
@@ -162,7 +219,7 @@ class DayTradingDataset:
         dataset.dropna(inplace=True)
 
         features_columns = [col for col in dataset.columns if col not in [
-            'timestamp', 'target_high', 'target_low', 'target_close']]
+            'timestamp', 'target_high', 'target_low', 'target_close', 'date']]
         dataset = dataset.sample(frac=1, ignore_index=True)
         target_high = dataset['target_high'].tolist()
         target_low = dataset['target_low'].tolist()
@@ -175,7 +232,7 @@ class DayTradingDataset:
         dataset = self.transform_data(ticket, raw_data)
 
         features_columns = [col for col in dataset.columns if col not in [
-            'timestamp', 'target_high', 'target_low', 'target_close']]
+            'timestamp', 'target_high', 'target_low', 'target_close', 'date']]
         features_df = dataset[features_columns].copy()
         features_df = features_df.tail(1)
         return features_df
@@ -184,8 +241,11 @@ class DayTradingDataset:
         print('Getting the data for the ticket')
         raw_data = self.get_raw_data(ticket)
         dataset = self.transform_data(ticket, raw_data)
+        print(f'# Samples with NaN: {dataset.shape[0]}')
+
         # Drop NA for Linear Regression
         dataset.dropna(inplace=True)
+        print(f'# Samples without NaN: {dataset.shape[0]}')
 
         # Define timestamp ranges for datasets
         two_weeks_ago = datetime.now() - timedelta(days=14)
@@ -194,7 +254,7 @@ class DayTradingDataset:
 
         # Split the datasets
         features = [col for col in dataset.columns if col not in [
-            'timestamp', 'target_high', 'target_low', 'target_close']]
+            'timestamp', 'target_high', 'target_low', 'target_close', 'date']]
 
         print('Defining the training data.')
         train_df = dataset[dataset['timestamp'] <= two_weeks_ago].copy()
@@ -232,7 +292,7 @@ class DayTradingDataset:
 
         # Split the datasets
         features = [col for col in dataset.columns if col not in [
-            'timestamp', 'target_high', 'target_low', 'target_close']]
+            'timestamp', 'target_high', 'target_low', 'target_close', 'date']]
 
         print('Defining the training data.')
         train_df = dataset[dataset['timestamp'] <= three_weeks_ago].copy()
