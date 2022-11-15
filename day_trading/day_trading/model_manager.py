@@ -35,7 +35,7 @@ class ModelManager:
             'take_profit': 0,
             'p_profit': 0
         }
-        self.profit_ratio = 1.5
+        self.profit_ratio = 1.75
 
     def get_watchlist(self, watchlist_type):
         response = []

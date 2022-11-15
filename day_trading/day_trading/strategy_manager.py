@@ -11,19 +11,17 @@ class StrategyManager():
     def __init__(self) -> None:
         # 0.325% is the minimum stop loss allowed by eToro
         # And we are using a 2:3 Risk-Reward Ratio
-        self.profit_ratio = 1.5
+        self.profit_ratio = 1.75
         self.p_profit_threshold = 0.00325 * self.profit_ratio
 
     def get_long_metadata(self, ticket, bets):
         metadata = []
         for item in bets.to_dict('records'):
             result = (item['target_close'] - item['close']) / item['close']
-            if item['target_low'] < item['low_prediction']:
-                result = (item['low_prediction'] -
-                          item['close']) / item['close']
-            elif item['target_high'] > item['high_prediction']:
-                result = (item['high_prediction'] -
-                          item['close']) / item['close']
+            if item['target_low'] < item['close'] * (1 - self.p_profit_threshold/self.profit_ratio):
+                result = -(self.p_profit_threshold / self.profit_ratio)
+            elif item['target_high'] > item['close'] * (1 + self.p_profit_threshold):
+                result = self.p_profit_threshold
 
             metadata.append({
                 'action': item['action'],
@@ -42,12 +40,10 @@ class StrategyManager():
         metadata = []
         for item in bets.to_dict('records'):
             result = (item['target_close'] - item['close']) / item['close']
-            if item['target_high'] < item['high_prediction']:
-                result = (item['close'] -
-                          item['high_prediction']) / item['close']
-            elif item['target_low'] > item['low_prediction']:
-                result = (item['close'] - item['low_prediction']
-                          ) / item['close']
+            if item['target_high'] < item['close'] * (1 + self.p_profit_threshold/self.profit_ratio):
+                result = -(self.p_profit_threshold / self.profit_ratio)
+            elif item['target_low'] > item['close'] * (1 - self.p_profit_threshold):
+                result = self.p_profit_threshold
 
             metadata.append({
                 'action': item['action'],

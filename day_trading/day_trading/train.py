@@ -27,7 +27,7 @@ class DayTradingTrainer:
         self.short_watchlist = self.get_watchlist('short')
         self.selected_tickets = self.long_watchlist.copy()
         self.selected_tickets.extend(self.short_watchlist)
-        self.profit_ratio = 1.5
+        self.profit_ratio = 1.75
         self.p_profit_threshold = 0.00325 * self.profit_ratio
 
     def get_watchlist(self, watchlist_type):
@@ -94,10 +94,11 @@ class DayTradingTrainer:
                         num_interesting_long_bets += 1
                         # Let's verify if the bet was successful
                         if (
-                            (high_predictions[index] <=
+                            (close[index] * (1 + self.p_profit_threshold) <=
                              target_high_test[index])
                             and
-                            (low_predictions[index] < target_low_test[index])
+                            (close[index] * (1 - self.p_profit_threshold /
+                             self.profit_ratio) < target_low_test[index])
                         ):
                             sum_successful_long_bets += 1
 
@@ -112,10 +113,11 @@ class DayTradingTrainer:
                         num_interesting_short_bets += 1
                         # Let's verify if the bet was successful
                         if (
-                            (high_predictions[index] >
+                            (close[index] * (1 + self.p_profit_threshold / self.profit_ratio) >
                              target_high_test[index])
                             and
-                            (low_predictions[index] >= target_low_test[index])
+                            (close[index] * (1 - self.p_profit_threshold)
+                             >= target_low_test[index])
                         ):
                             sum_successful_short_bets += 1
                 if num_interesting_long_bets > 0:
