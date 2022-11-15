@@ -27,8 +27,8 @@ class DayTradingTrainer:
         self.short_watchlist = self.get_watchlist('short')
         self.selected_tickets = self.long_watchlist.copy()
         self.selected_tickets.extend(self.short_watchlist)
-        self.profit_ratio = 1.75
-        self.p_profit_threshold = 0.00325 * self.profit_ratio
+        self.profit_ratio = 1.625
+        self.p_profit_threshold = 0.0033 * self.profit_ratio
 
     def get_watchlist(self, watchlist_type):
         response = []
@@ -92,13 +92,16 @@ class DayTradingTrainer:
                          close[index]) / close[index]) > self.p_profit_threshold)
                     ):
                         num_interesting_long_bets += 1
+                        bottom_limit = close[index] * (1 - self.p_profit_threshold /
+                                                       self.profit_ratio)
+                        if low_predictions[index] < bottom_limit:
+                            bottom_limit = low_predictions[index]
                         # Let's verify if the bet was successful
                         if (
                             (close[index] * (1 + self.p_profit_threshold) <=
                              target_high_test[index])
                             and
-                            (close[index] * (1 - self.p_profit_threshold /
-                             self.profit_ratio) < target_low_test[index])
+                            (bottom_limit < target_low_test[index])
                         ):
                             sum_successful_long_bets += 1
 
@@ -111,10 +114,13 @@ class DayTradingTrainer:
                          close[index]) > self.p_profit_threshold)
                     ):
                         num_interesting_short_bets += 1
+                        top_limit = close[index] * \
+                            (1 + self.p_profit_threshold / self.profit_ratio)
+                        if high_predictions[index] > top_limit:
+                            top_limit = high_predictions[index]
                         # Let's verify if the bet was successful
                         if (
-                            (close[index] * (1 + self.p_profit_threshold / self.profit_ratio) >
-                             target_high_test[index])
+                            (top_limit > target_high_test[index])
                             and
                             (close[index] * (1 - self.p_profit_threshold)
                              >= target_low_test[index])
@@ -152,8 +158,8 @@ class DayTradingTrainer:
     def save_tickets(self, training_metadata):
         # I'll select the top 3 tickets where the Linear Regression
         # model have shown better performance for longs and shorts.
-        num_tickets = 10
-        num_bets_threshold = 25
+        num_tickets = 5
+        num_bets_threshold = 20
         metadata = training_metadata[training_metadata['sample_size'] > 350].copy(
         )
 

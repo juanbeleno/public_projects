@@ -35,7 +35,8 @@ class ModelManager:
             'take_profit': 0,
             'p_profit': 0
         }
-        self.profit_ratio = 1.75
+        self.profit_ratio = 1.625
+        self.p_profit_threshold = 0.0033 * self.profit_ratio
 
     def get_watchlist(self, watchlist_type):
         response = []
@@ -68,16 +69,23 @@ class ModelManager:
                 close = features['close'].tolist()[0]
                 p_profit = (high_prediction - close) / close
                 p_loss = (close - low_prediction) / close
-                stop_loss = (close - low_prediction) * money / close
-                take_profit = (high_prediction - close) * money / close
+                stop_loss = (self.p_profit_threshold/self.profit_ratio) * money
+                if (close - low_prediction) * money / close > stop_loss:
+                    stop_loss = (close - low_prediction) * money / close
+                # take_profit = (high_prediction - close) * money / close
+                take_profit = self.p_profit_threshold * money
 
                 # SHORT
                 if ticket in self.short_watchlist:
                     action = 'SELL'
                     p_profit = (close - low_prediction) / close
                     p_loss = (high_prediction - close) / close
-                    stop_loss = (high_prediction - close) * money / close
-                    take_profit = (close - low_prediction) * money / close
+                    stop_loss = (self.p_profit_threshold /
+                                 self.profit_ratio) * money
+                    if (high_prediction - close) * money / close > stop_loss:
+                        stop_loss = (high_prediction - close) * money / close
+                    # take_profit = (close - low_prediction) * money / close
+                    take_profit = self.p_profit_threshold * money
 
                 possible_bets.append({
                     'action': action,

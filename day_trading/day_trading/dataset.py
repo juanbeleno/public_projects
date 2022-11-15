@@ -21,7 +21,7 @@ class DayTradingDataset:
     def __init__(self) -> None:
         self.range = '60d'
         self.granularity = '5m'
-        self.window = 3
+        self.window = 4
         self.files = DayTradingFiles()
 
     def download_ticket_candidates(self):

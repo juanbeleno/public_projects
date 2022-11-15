@@ -9,18 +9,22 @@ Created on Thu Oct 27 15:39:03 2022
 
 class StrategyManager():
     def __init__(self) -> None:
-        # 0.325% is the minimum stop loss allowed by eToro
-        # And we are using a 2:3 Risk-Reward Ratio
-        self.profit_ratio = 1.75
-        self.p_profit_threshold = 0.00325 * self.profit_ratio
+        # 0.32% is the minimum stop loss allowed by eToro
+        # And we are using a 1:1.75 Risk-Reward Ratio
+        self.profit_ratio = 1.625
+        self.p_profit_threshold = 0.0033 * self.profit_ratio
 
     def get_long_metadata(self, ticket, bets):
         metadata = []
         for item in bets.to_dict('records'):
+            bottom_limit = item['close'] * \
+                (1 - self.p_profit_threshold/self.profit_ratio)
+            if item['low_prediction'] < bottom_limit:
+                bottom_limit = item['low_prediction']
             result = (item['target_close'] - item['close']) / item['close']
-            if item['target_low'] < item['close'] * (1 - self.p_profit_threshold/self.profit_ratio):
+            if item['target_low'] <= bottom_limit:
                 result = -(self.p_profit_threshold / self.profit_ratio)
-            elif item['target_high'] > item['close'] * (1 + self.p_profit_threshold):
+            elif item['target_high'] >= item['close'] * (1 + self.p_profit_threshold):
                 result = self.p_profit_threshold
 
             metadata.append({
@@ -40,9 +44,13 @@ class StrategyManager():
         metadata = []
         for item in bets.to_dict('records'):
             result = (item['target_close'] - item['close']) / item['close']
-            if item['target_high'] < item['close'] * (1 + self.p_profit_threshold/self.profit_ratio):
+            top_limit = item['close'] * \
+                (1 + self.p_profit_threshold/self.profit_ratio)
+            if item['high_prediction'] > top_limit:
+                top_limit = item['high_prediction']
+            if item['target_high'] >= top_limit:
                 result = -(self.p_profit_threshold / self.profit_ratio)
-            elif item['target_low'] > item['close'] * (1 - self.p_profit_threshold):
+            elif item['target_low'] <= item['close'] * (1 - self.p_profit_threshold):
                 result = self.p_profit_threshold
 
             metadata.append({
