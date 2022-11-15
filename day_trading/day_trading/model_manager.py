@@ -88,10 +88,11 @@ class ModelManager:
                     'stop_loss': stop_loss,
                     'take_profit': take_profit})
             except ValueError:
-                print(f'ERROR: Problems getting recent data for {ticket}')
+                print(
+                    f'ERROR: Problems making predictions using recent data for {ticket}')
         possible_bets = pd.DataFrame(possible_bets)
         possible_bets = possible_bets.query(
-            f'p_profit > {self.profit_ratio} * p_loss')
+            f'p_profit > {self.profit_ratio} * p_loss').copy()
         possible_bets.sort_values(
             by='p_profit',
             ascending=False,
