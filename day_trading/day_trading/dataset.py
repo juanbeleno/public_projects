@@ -4,10 +4,8 @@
 Created on Sun Sep 25 19:44:46 2022
 @author: Juan Beleño
 """
-from urllib import request
 from .files import DayTradingFiles
 from datetime import datetime, timedelta
-from pathlib import Path
 import numpy as np
 import pandas as pd
 import json
@@ -21,8 +19,10 @@ class DayTradingDataset:
     def __init__(self) -> None:
         self.range = '60d'
         self.granularity = '5m'
-        self.window = 4
+        self.window = 3
         self.files = DayTradingFiles()
+        self.p_stop_loss = 0.0033
+        self.p_take_profit = self.p_stop_loss * 1.0
 
     def download_ticket_candidates(self):
         # S&P 500
@@ -93,14 +93,14 @@ class DayTradingDataset:
         ticket_folder = Path(ticket_directory)
         ticket_folder.mkdir(exist_ok=True)
         ticket_filepath = os.path.join(
-            ticket_directory, f"{datetime.today().strftime('%Y-%m-%d')}.json")
+            ticket_directory, f"{datetime.utcnow().strftime('%Y-%m-%d')}.json")
         with open(ticket_filepath, 'w') as f:
             json.dump(recent_data, f)
         """
 
         return response
 
-    def transform_data(self, ticket, raw_data):
+    def transform_data(self, ticket, raw_data, bet_type='long'):
         print('Convert the HTTP response into a pandas DataFrame')
         dataset = pd.DataFrame(
             columns=['timestamp', 'high', 'low', 'close', 'open', 'volume'])
@@ -137,25 +137,17 @@ class DayTradingDataset:
 
         # Moving features
         print('Calculating the cummulative features.')
-        column = 'close'
-        time_windows = []
+        time_windows = [self.window]
         for window in time_windows:
-            dataset.loc[:, f'Return_{window}'] = dataset[column].pct_change(
-                window)
-            dataset.loc[:, f'MovingAvg_{window}'] = dataset[column].rolling(
-                window=window).mean().values
-            dataset.loc[:, f'EMA_{window}'] = dataset[column].ewm(
-                span=window, adjust=False).mean().values
-            dataset.loc[:, f'Volatility_{window}'] = dataset[column].diff().rolling(
-                window).std()
-
-        # Support/Resistance (Only vertical)
-        time_windows = [3, 13, 21, 34, 55]
-        for window in time_windows:
-            dataset.loc[:, f'Support_{window}'] = dataset['low'].rolling(
-                window=window).min().values
-            dataset.loc[:, f'Resistance_{window}'] = dataset['high'].rolling(
-                window=window).max().values
+            for column in ['high', 'low']:
+                dataset.loc[:, f'Return_{column}_{window}'] = dataset[column].pct_change(
+                    window)
+                dataset.loc[:, f'MovingAvg_{column}_{window}'] = dataset[column].rolling(
+                    window=window).mean().values
+                dataset.loc[:, f'EMA_{column}_{window}'] = dataset[column].ewm(
+                    span=window, adjust=False).mean().values
+                dataset.loc[:, f'Volatility_{column}_{window}'] = dataset[column].diff().rolling(
+                    window).std()
 
         # RSI
         rsi_period = 14
@@ -204,17 +196,35 @@ class DayTradingDataset:
 
         # Define target variables
         print('Defining the targets.')
-        dataset['target_high'] = dataset['high'].rolling(
+        target_high = dataset['high'].rolling(
             window=self.window).max().shift(-self.window)
-        dataset['target_low'] = dataset['low'].rolling(
+        #dataset['future_high'] = target_high
+        high_delta = (target_high - dataset['close']) / dataset['close']
+        #dataset['future_high_delta'] = high_delta
+        target_low = dataset['low'].rolling(
             window=self.window).min().shift(-self.window)
+        low_delta = (dataset['close'] - target_low) / dataset['close']
         dataset['target_close'] = dataset['close'].shift(-self.window)
+        #dataset['future_low_delta'] = low_delta
+        # dataset['future_low'] = target_low
+
+        if bet_type == 'long':
+            dataset['target_high'] = [
+                1 if x > self.p_take_profit else 0 for x in high_delta]
+            dataset['target_low'] = [
+                1 if x < self.p_stop_loss else 0 for x in low_delta]
+        else:
+            dataset['target_high'] = [
+                1 if x < self.p_stop_loss else 0 for x in high_delta]
+            dataset['target_low'] = [
+                1 if x > self.p_take_profit else 0 for x in low_delta]
+
         return dataset
 
-    def get_all_dataset(self, ticket):
+    def get_all_dataset(self, ticket, bet_type='long'):
         print('Getting the data for the ticket')
         raw_data = self.get_raw_data(ticket)
-        dataset = self.transform_data(ticket, raw_data)
+        dataset = self.transform_data(ticket, raw_data, bet_type)
         # Drop NA for Linear Regression
         dataset.dropna(inplace=True)
 
@@ -226,10 +236,11 @@ class DayTradingDataset:
         features_df = dataset[features_columns].copy()
         return (features_df, target_high, target_low)
 
-    def get_prediction_features(self, ticket):
+    def get_prediction_features(self, ticket, bet_type='long'):
         print('Getting the data for the ticket')
         raw_data = [self.get_recent_data(ticket)]
         dataset = self.transform_data(ticket, raw_data)
+        print(dataset.tail(1).to_dict('records'))
 
         features_columns = [col for col in dataset.columns if col not in [
             'timestamp', 'target_high', 'target_low', 'target_close', 'date']]
@@ -237,10 +248,10 @@ class DayTradingDataset:
         features_df = features_df.tail(1)
         return features_df
 
-    def test_train_split(self, ticket):
+    def test_train_split(self, ticket, bet_type='long'):
         print('Getting the data for the ticket')
         raw_data = self.get_raw_data(ticket)
-        dataset = self.transform_data(ticket, raw_data)
+        dataset = self.transform_data(ticket, raw_data, bet_type)
         print(f'# Samples with NaN: {dataset.shape[0]}')
 
         # Drop NA for Linear Regression
@@ -248,7 +259,7 @@ class DayTradingDataset:
         print(f'# Samples without NaN: {dataset.shape[0]}')
 
         # Define timestamp ranges for datasets
-        two_weeks_ago = datetime.now() - timedelta(days=14)
+        two_weeks_ago = datetime.utcnow() - timedelta(days=14)
         # week_ago = datetime(2022, 10, 18)
         print(f'Two weeks ago: {two_weeks_ago}')
 
@@ -266,6 +277,7 @@ class DayTradingDataset:
 
         print('Defining the test data.')
         test_df = dataset[dataset['timestamp'] >= two_weeks_ago].copy()
+        # test_df.to_csv(self.files.features_sample, index=False)
         test_df.dropna(subset=['target_high', 'target_low'], inplace=True)
         target_high_test = test_df['target_high'].tolist()
         target_low_test = test_df['target_low'].tolist()
@@ -276,17 +288,17 @@ class DayTradingDataset:
             features_test_df, target_high_test, target_low_test
         )
 
-    def test_val_train_split(self, ticket):
+    def test_val_train_split(self, ticket, bet_type='long'):
         print('Getting the data for the ticket')
         raw_data = self.get_raw_data(ticket)
-        dataset = self.transform_data(ticket, raw_data)
+        dataset = self.transform_data(ticket, raw_data, bet_type)
         # Drop NA for Linear Regression
         dataset.dropna(inplace=True)
 
         # Define timestamp ranges for datasets
-        week_ago = datetime.now() - timedelta(days=7)
+        week_ago = datetime.utcnow() - timedelta(days=7)
         # week_ago = datetime(2022, 10, 18)
-        three_weeks_ago = datetime.now() - timedelta(days=21)
+        three_weeks_ago = datetime.utcnow() - timedelta(days=21)
         # two_weeks_ago = datetime(2022, 10, 11)
         print(f'A week ago: {week_ago}')
 
@@ -311,6 +323,7 @@ class DayTradingDataset:
 
         print('Defining the test data.')
         test_df = dataset[dataset['timestamp'] >= week_ago].copy()
+        # test_df.to_csv(self.files.features_sample, index=False)
         test_df.dropna(subset=['target_high', 'target_low'], inplace=True)
         target_high_test = test_df['target_high'].tolist()
         target_low_test = test_df['target_low'].tolist()

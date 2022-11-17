@@ -14,12 +14,11 @@ class TelegramBot:
         telegram_token = os.environ['TELEGRAM_TOKEN']
         self.url = f'https://api.telegram.org/bot{telegram_token}/sendMessage'
         self.model_manager = ModelManager()
-        self.p_profit_threshold = 0.0033 * 1.625
 
     def send_message(self):
         bet = self.model_manager.get_bet()
-        # TODO: Use only bets with an increase of % in the take profit
-        if bet['p_profit'] > self.p_profit_threshold:
+        # TODO: Use only bets with take profit greather than zero
+        if bet['take_profit'] > 0:
             message = f"{bet['action']} {bet['ticket']}\nStop Loss: {bet['stop_loss']:0.2f}\nTake Profit: {bet['take_profit']:0.2f}\nClose: {bet['close']:0.2f}"
             payload = {
                 'chat_id': os.environ['CHAT_ID'],
