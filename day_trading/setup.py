@@ -24,7 +24,7 @@ setup(
         'requests==2.28.1',
         'scikit-learn==1.0.2',
         'seaborn==0.11.1',
-        'xgboost==1.3.3'
+        'catboost==1.1.1'
     ],
     entry_points={
         'console_scripts': [

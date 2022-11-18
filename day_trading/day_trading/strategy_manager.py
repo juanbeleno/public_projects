@@ -9,23 +9,20 @@ Created on Thu Oct 27 15:39:03 2022
 
 class StrategyManager():
     def __init__(self) -> None:
-        self.p_stop_loss = 0.0033
-        self.p_take_profit = self.p_stop_loss * 2
+        self.p_take_profit = 0.005
 
     def get_long_metadata(self, ticket, bets):
         metadata = []
         for item in bets.to_dict('records'):
             result = (item['target_close'] - item['close']) / item['close']
-            if item['target_low'] != item['low_prediction']:
-                result = -self.p_stop_loss
-            elif item['target_high'] == item['high_prediction']:
+            if item['label_close'] == item['close_prediction']:
                 result = self.p_take_profit
 
             metadata.append({
                 'action': item['action'],
                 'ticket': ticket,
                 'index': item['index'],
-                'low_model_confidence': item['low_model_confidence'],
+                'model_confidence': item['model_confidence'],
                 'result': result
             })
         return metadata
@@ -34,28 +31,26 @@ class StrategyManager():
         metadata = []
         for item in bets.to_dict('records'):
             result = (item['target_close'] - item['close']) / item['close']
-            if item['target_high'] != item['high_prediction']:
-                result = -self.p_stop_loss
-            elif item['target_low'] == item['low_prediction']:
+            if item['label_close'] == item['close_prediction']:
                 result = self.p_take_profit
 
             metadata.append({
                 'action': item['action'],
                 'ticket': ticket,
                 'index': item['index'],
-                'low_model_confidence': item['low_model_confidence'],
+                'model_confidence': item['model_confidence'],
                 'result': result
             })
         return metadata
 
     def get_bets_for_longs(self, ticket, df):
         # STRATEGY: I'll buy low and sell high.
-        bets = df.query('high_prediction == 1 and low_prediction == 1').copy()
+        bets = df.query('close_prediction == 1').copy()
         bets['action'] = 'BUY'
         return self.get_long_metadata(ticket, bets)
 
     def get_bets_for_shorts(self, ticket, df):
         # STRATEGY: I'll sell high and buy low.
-        bets = df.query('high_prediction == 1 and low_prediction == 1').copy()
+        bets = df.query('close_prediction == 1').copy()
         bets['action'] = 'SELL'
         return self.get_short_metadata(ticket, bets)

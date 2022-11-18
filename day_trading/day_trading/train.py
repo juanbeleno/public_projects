@@ -7,9 +7,10 @@ Created on Thu Sep 29 19:40:02 2022
 from .dataset import DayTradingDataset
 from .files import DayTradingFiles
 from .strategy_manager import StrategyManager
-from sklearn.linear_model import LogisticRegression
+# from sklearn.linear_model import LogisticRegression
+from catboost import CatBoostClassifier
 from sklearn.metrics import (
-    accuracy_score, precision_score
+    accuracy_score, precision_score, recall_score, f1_score
 )
 import joblib
 import json
@@ -46,58 +47,37 @@ class DayTradingTrainer:
             # Load the dataset
             if split_type == 'test_val_train':
                 (
-                    features_train_df, target_high_train, target_low_train,
-                    features_test_df, target_high_test, target_low_test,
-                    _, _, _, _
+                    features_train_df, label_close_train,
+                    features_test_df, label_close_test,
+                    _, _, _
                 ) = self.day_trading_dataset.test_val_train_split(ticket, bet_type)
             else:
                 (
-                    features_train_df, target_high_train, target_low_train,
-                    features_test_df, target_high_test, target_low_test
+                    features_train_df, label_close_train,
+                    features_test_df, label_close_test
                 ) = self.day_trading_dataset.test_train_split(ticket, bet_type)
 
             sample_size = features_test_df.shape[0]
-            num_bets_threshold = 30
-            num_bets = 0
-            for index in range(sample_size):
-                if target_high_test[index] == 1 and target_low_test[index] == 1:
-                    num_bets += 1
+            num_bets_threshold = 30 * 2.5
+            num_bets = sum(label_close_test)
             if num_bets > num_bets_threshold and sample_size:
                 # Collecting metadata about the ticket
                 print('Training the models.')
-                high_model = LogisticRegression()
-                low_model = LogisticRegression()
-
-                high_model.fit(features_train_df, target_high_train)
-                low_model.fit(features_train_df, target_low_train)
-
-                low_predictions = low_model.predict(features_test_df)
-                high_predictions = high_model.predict(features_test_df)
-
-                num_interesting_bets = 0
-                sum_successful_bets = 0
-                p_successful_bets = 0.0
-                for index in range(sample_size):
-                    # Interesting bets
-                    if (low_predictions[index] == 1 and high_predictions[index] == 1):
-                        num_interesting_bets += 1
-                        # Let's verify if the bet was successful
-                        if (target_low_test[index] == 1 and target_high_test[index] == 1):
-                            sum_successful_bets += 1
-                if num_interesting_bets > 0:
-                    p_successful_bets = sum_successful_bets / num_interesting_bets
-
+                close_model = CatBoostClassifier()
+                close_model.fit(features_train_df,
+                                label_close_train, verbose=False)
+                close_predictions = close_model.predict(
+                    features_test_df, verbose=False)
+                num_interesting_bets = sum(close_predictions)
                 metadata = {
                     'ticket': ticket,
-                    'accuracy_low_model': accuracy_score(target_low_test, low_predictions),
-                    'accuracy_high_model': accuracy_score(target_high_test, high_predictions),
-                    'precision_low_model': precision_score(target_low_test, low_predictions),
-                    'precision_high_model': precision_score(target_high_test, high_predictions),
+                    'accuracy': accuracy_score(label_close_test, close_predictions),
+                    'precision': precision_score(label_close_test, close_predictions),
+                    'recall': recall_score(label_close_test, close_predictions),
+                    'f1_score': f1_score(label_close_test, close_predictions),
                     'sample_size': sample_size,
-                    'p_success_strategy': p_successful_bets,
                     'num_interesting_bets': num_interesting_bets,
-                    'num_possible_bets': num_bets,
-                    'recall_strategy': num_interesting_bets / num_bets
+                    'num_possible_bets': num_bets
                 }
                 print(metadata)
                 training_metadata.append(metadata)
@@ -121,9 +101,9 @@ class DayTradingTrainer:
         metadata = metadata[metadata['num_interesting_bets'] >= num_bets_threshold].copy(
         )
         metadata = metadata.query(
-            f'p_success_strategy > {1 / (1 + self.day_trading_dataset.p_take_profit)}').copy()
+            f'precision > 0.66').copy()
         metadata = metadata.sort_values(
-            by='p_success_strategy', ascending=False)
+            by='precision', ascending=False)
         metadata = metadata.head(num_tickets)
 
         watchlist = metadata['ticket'].tolist()
@@ -141,34 +121,27 @@ class DayTradingTrainer:
             for ticket in self.get_watchlist(bet_type):
                 # Load the dataset
                 (
-                    features_train_df, target_high_train, target_low_train,
-                    features_val_df, target_high_val, target_low_val,
-                    features_test_df, target_high_test, target_low_test, target_close_test
+                    features_train_df, label_close_train,
+                    features_val_df, label_close_val,
+                    features_test_df, label_close_test, target_close_test
                 ) = self.day_trading_dataset.test_val_train_split(ticket)
 
                 # Mix training and validation data to train before testing
                 features_train_df = pd.concat(
                     [features_train_df, features_val_df])
-                target_high_train.extend(target_high_val)
-                target_low_train.extend(target_low_val)
+                label_close_train.extend(label_close_val)
 
                 print('Training the models.')
-                high_model = LogisticRegression()
-                low_model = LogisticRegression()
-
-                high_model.fit(features_train_df, target_high_train)
-                low_model.fit(features_train_df, target_low_train)
-
-                low_predictions = low_model.predict(features_test_df)
-                high_predictions = high_model.predict(features_test_df)
-                low_model_confidence = low_model.predict_proba(features_test_df)[
+                close_model = CatBoostClassifier()
+                close_model.fit(features_train_df,
+                                label_close_train, verbose=False)
+                close_predictions = close_model.predict(features_test_df)
+                model_confidence = close_model.predict_proba(features_test_df)[
                     :, 1]
                 features_test_df['index'] = range(features_test_df.shape[0])
-                features_test_df['low_prediction'] = low_predictions
-                features_test_df['high_prediction'] = high_predictions
-                features_test_df['low_model_confidence'] = low_model_confidence
-                features_test_df['target_high'] = target_high_test
-                features_test_df['target_low'] = target_low_test
+                features_test_df['close_prediction'] = close_predictions
+                features_test_df['model_confidence'] = model_confidence
+                features_test_df['label_close'] = label_close_test
                 features_test_df['target_close'] = target_close_test
 
                 if bet_type == 'long':
@@ -181,7 +154,7 @@ class DayTradingTrainer:
         strategy_metadata = pd.DataFrame(strategy_metadata)
         print(strategy_metadata)
         strategy_metadata.sort_values(
-            by=['index', 'low_model_confidence'],
+            by=['index', 'model_confidence'],
             ascending=[True, False],
             inplace=True)
         bets = []
@@ -212,18 +185,13 @@ class DayTradingTrainer:
 
             for ticket in self.get_watchlist(bet_type):
                 # Load the dataset
-                (features_df, target_high,
-                 target_low) = self.day_trading_dataset.get_all_dataset(ticket, bet_type)
+                (features_df, label_close) = self.day_trading_dataset.get_all_dataset(
+                    ticket, bet_type)
 
                 print('Training the models.')
-                high_model = LogisticRegression()
-                low_model = LogisticRegression()
-
-                high_model.fit(features_df, target_high)
-                low_model.fit(features_df, target_low)
+                close_model = CatBoostClassifier()
+                close_model.fit(features_df, label_close, verbose=False)
 
                 print(f'Saving the {ticket} models.')
-                joblib.dump(low_model, os.path.join(
-                    self.files.output_directory, f'low_model_{ticket}.joblib'))
-                joblib.dump(high_model, os.path.join(
-                    self.files.output_directory, f'high_model_{ticket}.joblib'))
+                joblib.dump(close_model, os.path.join(
+                    self.files.output_directory, f'close_model_{ticket}.joblib'))

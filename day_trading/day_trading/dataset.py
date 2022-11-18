@@ -21,8 +21,7 @@ class DayTradingDataset:
         self.granularity = '5m'
         self.window = 3
         self.files = DayTradingFiles()
-        self.p_stop_loss = 0.0033
-        self.p_take_profit = self.p_stop_loss * 1.0
+        self.p_take_profit = 0.005
 
     def download_ticket_candidates(self):
         # S&P 500
@@ -137,17 +136,29 @@ class DayTradingDataset:
 
         # Moving features
         print('Calculating the cummulative features.')
-        time_windows = [self.window]
+        time_windows = [self.window * index for index in range(1, 6)]
+        column = 'close'
         for window in time_windows:
-            for column in ['high', 'low']:
-                dataset.loc[:, f'Return_{column}_{window}'] = dataset[column].pct_change(
-                    window)
-                dataset.loc[:, f'MovingAvg_{column}_{window}'] = dataset[column].rolling(
-                    window=window).mean().values
-                dataset.loc[:, f'EMA_{column}_{window}'] = dataset[column].ewm(
-                    span=window, adjust=False).mean().values
-                dataset.loc[:, f'Volatility_{column}_{window}'] = dataset[column].diff().rolling(
-                    window).std()
+            dataset.loc[:, f'Return_{column}_{window}'] = dataset[column].pct_change(
+                window)
+            dataset.loc[:, f'MovingAvg_{column}_{window}'] = dataset[column].rolling(
+                window=window).mean().values
+            dataset.loc[:, f'EMA_{column}_{window}'] = dataset[column].ewm(
+                span=window, adjust=False).mean().values
+            dataset.loc[:, f'Volatility_{column}_{window}'] = dataset[column].diff().rolling(
+                window).std()
+
+        # Past values for the grow
+        for step in range(1, 20 + 1):
+            dataset[f'Step_{step}'] = dataset['close'].shift(
+                step * self.window)
+        dataset['P_Delta_Close_1'] = (
+            dataset['close'] - dataset['Step_1']) / dataset['close']
+        for step in range(2, 20 + 1):
+            dataset[f'P_Delta_Close_{step}'] = (
+                dataset[f'Step_{step - 1}'] - dataset[f'Step_{step}']) / dataset[f'Step_{step - 1}']
+        dataset = dataset[[
+            col for col in dataset.columns if 'Step_' not in col]].copy()
 
         # RSI
         rsi_period = 14
@@ -196,27 +207,19 @@ class DayTradingDataset:
 
         # Define target variables
         print('Defining the targets.')
-        target_high = dataset['high'].rolling(
-            window=self.window).max().shift(-self.window)
-        #dataset['future_high'] = target_high
-        high_delta = (target_high - dataset['close']) / dataset['close']
-        #dataset['future_high_delta'] = high_delta
-        target_low = dataset['low'].rolling(
-            window=self.window).min().shift(-self.window)
-        low_delta = (dataset['close'] - target_low) / dataset['close']
         dataset['target_close'] = dataset['close'].shift(-self.window)
-        #dataset['future_low_delta'] = low_delta
-        # dataset['future_low'] = target_low
 
         if bet_type == 'long':
-            dataset['target_high'] = [
+            target_high = dataset['high'].rolling(
+                window=self.window).max().shift(-self.window)
+            high_delta = (target_high - dataset['close']) / dataset['close']
+            dataset['label_close'] = [
                 1 if x > self.p_take_profit else 0 for x in high_delta]
-            dataset['target_low'] = [
-                1 if x < self.p_stop_loss else 0 for x in low_delta]
         else:
-            dataset['target_high'] = [
-                1 if x < self.p_stop_loss else 0 for x in high_delta]
-            dataset['target_low'] = [
+            target_low = dataset['low'].rolling(
+                window=self.window).min().shift(-self.window)
+            low_delta = (dataset['close'] - target_low) / dataset['close']
+            dataset['label_close'] = [
                 1 if x > self.p_take_profit else 0 for x in low_delta]
 
         return dataset
@@ -229,21 +232,21 @@ class DayTradingDataset:
         dataset.dropna(inplace=True)
 
         features_columns = [col for col in dataset.columns if col not in [
-            'timestamp', 'target_high', 'target_low', 'target_close', 'date']]
+            'timestamp', 'label_close', 'target_close', 'date']]
         dataset = dataset.sample(frac=1, ignore_index=True)
-        target_high = dataset['target_high'].tolist()
-        target_low = dataset['target_low'].tolist()
+        label_close = dataset['label_close'].tolist()
         features_df = dataset[features_columns].copy()
-        return (features_df, target_high, target_low)
+        return (features_df, label_close)
 
     def get_prediction_features(self, ticket, bet_type='long'):
         print('Getting the data for the ticket')
         raw_data = [self.get_recent_data(ticket)]
         dataset = self.transform_data(ticket, raw_data)
-        print(dataset.tail(1).to_dict('records'))
+        dataset = dataset[dataset['minute'] % 5 == 0].copy()
+        # print(dataset.tail(1).to_dict('records'))
 
         features_columns = [col for col in dataset.columns if col not in [
-            'timestamp', 'target_high', 'target_low', 'target_close', 'date']]
+            'timestamp', 'label_close', 'target_close', 'date']]
         features_df = dataset[features_columns].copy()
         features_df = features_df.tail(1)
         return features_df
@@ -265,27 +268,25 @@ class DayTradingDataset:
 
         # Split the datasets
         features = [col for col in dataset.columns if col not in [
-            'timestamp', 'target_high', 'target_low', 'target_close', 'date']]
+            'timestamp', 'label_close', 'target_close', 'date']]
 
         print('Defining the training data.')
         train_df = dataset[dataset['timestamp'] <= two_weeks_ago].copy()
         # Sample the dataset to add a little bit of randomness before training
         train_df = train_df.sample(frac=1, ignore_index=True)
-        target_high_train = train_df['target_high'].tolist()
-        target_low_train = train_df['target_low'].tolist()
+        label_close_train = train_df['label_close'].tolist()
         features_train_df = train_df[features].copy()
 
         print('Defining the test data.')
         test_df = dataset[dataset['timestamp'] >= two_weeks_ago].copy()
         # test_df.to_csv(self.files.features_sample, index=False)
-        test_df.dropna(subset=['target_high', 'target_low'], inplace=True)
-        target_high_test = test_df['target_high'].tolist()
-        target_low_test = test_df['target_low'].tolist()
+        test_df.dropna(subset=['label_close'], inplace=True)
+        label_close_test = test_df['label_close'].tolist()
         features_test_df = test_df[features].copy()
 
         return (
-            features_train_df, target_high_train, target_low_train,
-            features_test_df, target_high_test, target_low_test
+            features_train_df, label_close_train,
+            features_test_df, label_close_test
         )
 
     def test_val_train_split(self, ticket, bet_type='long'):
@@ -304,34 +305,31 @@ class DayTradingDataset:
 
         # Split the datasets
         features = [col for col in dataset.columns if col not in [
-            'timestamp', 'target_high', 'target_low', 'target_close', 'date']]
+            'timestamp', 'label_close', 'target_close', 'date']]
 
         print('Defining the training data.')
         train_df = dataset[dataset['timestamp'] <= three_weeks_ago].copy()
         # Sample the dataset to add a little bit of randomness before training
         train_df = train_df.sample(frac=1, ignore_index=True)
-        target_high_train = train_df['target_high'].tolist()
-        target_low_train = train_df['target_low'].tolist()
+        label_close_train = train_df['label_close'].tolist()
         features_train_df = train_df[features].copy()
 
         print('Defining the validation data.')
         val_df = dataset[((dataset['timestamp'] > three_weeks_ago) & (
             dataset['timestamp'] < week_ago))].copy()
-        target_high_val = val_df['target_high'].tolist()
-        target_low_val = val_df['target_low'].tolist()
+        label_close_val = val_df['label_close'].tolist()
         features_val_df = val_df[features].copy()
 
         print('Defining the test data.')
         test_df = dataset[dataset['timestamp'] >= week_ago].copy()
         # test_df.to_csv(self.files.features_sample, index=False)
-        test_df.dropna(subset=['target_high', 'target_low'], inplace=True)
-        target_high_test = test_df['target_high'].tolist()
-        target_low_test = test_df['target_low'].tolist()
+        test_df.dropna(subset=['label_close'], inplace=True)
+        label_close_test = test_df['label_close'].tolist()
         target_close_test = test_df['target_close'].tolist()
         features_test_df = test_df[features].copy()
 
         return (
-            features_train_df, target_high_train, target_low_train,
-            features_val_df, target_high_val, target_low_val,
-            features_test_df, target_high_test, target_low_test, target_close_test
+            features_train_df, label_close_train,
+            features_val_df, label_close_val,
+            features_test_df, label_close_test, target_close_test
         )
