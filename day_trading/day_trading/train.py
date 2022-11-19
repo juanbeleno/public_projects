@@ -58,7 +58,7 @@ class DayTradingTrainer:
                 ) = self.day_trading_dataset.test_train_split(ticket, bet_type)
 
             sample_size = features_test_df.shape[0]
-            num_bets_threshold = 30 * 2.5
+            num_bets_threshold = 25 * 2
             num_bets = sum(label_close_test)
             if num_bets > num_bets_threshold and sample_size:
                 # Collecting metadata about the ticket
@@ -95,7 +95,7 @@ class DayTradingTrainer:
         # I'll select the top 3 tickets where the Logistic Regression
         # model have shown better performance for the bet_type.
         num_tickets = 3
-        num_bets_threshold = 30
+        num_bets_threshold = 25
         metadata = training_metadata[training_metadata['sample_size'] > 700].copy(
         )
         metadata = metadata[metadata['num_interesting_bets'] >= num_bets_threshold].copy(

@@ -21,7 +21,7 @@ class DayTradingDataset:
         self.granularity = '5m'
         self.window = 3
         self.files = DayTradingFiles()
-        self.p_take_profit = 0.005
+        self.p_take_profit = 0.0075
 
     def download_ticket_candidates(self):
         # S&P 500

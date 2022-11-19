@@ -9,7 +9,7 @@ Created on Thu Oct 27 15:39:03 2022
 
 class StrategyManager():
     def __init__(self) -> None:
-        self.p_take_profit = 0.005
+        self.p_take_profit = 0.0075
 
     def get_long_metadata(self, ticket, bets):
         metadata = []
