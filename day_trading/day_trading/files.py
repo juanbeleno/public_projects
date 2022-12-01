@@ -31,3 +31,8 @@ class DayTradingFiles():
     # Output files
     features_sample: str = os.path.join(
         output_directory, 'features_sample.csv')
+    true_positives: str = os.path.join(output_directory, 'true_positives.csv')
+    false_positives: str = os.path.join(
+        output_directory, 'false_positives.csv')
+    false_negatives: str = os.path.join(
+        output_directory, 'false_negatives.csv')

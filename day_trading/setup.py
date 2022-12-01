@@ -18,13 +18,14 @@ setup(
         'day_trading.data.outputs'
     ],
     install_requires=[
+        'catboost==1.1.1',
         'fire==0.4.0',
         'joblib==1.1.0',
         'pandas==1.3.5',
         'requests==2.28.1',
         'scikit-learn==1.0.2',
         'seaborn==0.11.1',
-        'catboost==1.1.1'
+        'optuna==3.0.3'
     ],
     entry_points={
         'console_scripts': [

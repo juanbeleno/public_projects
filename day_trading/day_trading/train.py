@@ -8,7 +8,7 @@ from .dataset import DayTradingDataset
 from .files import DayTradingFiles
 from .strategy_manager import StrategyManager
 # from sklearn.linear_model import LogisticRegression
-from catboost import CatBoostClassifier
+from .model_generator import DayTradingModelGenerator
 from sklearn.metrics import (
     accuracy_score, precision_score, recall_score, f1_score
 )
@@ -25,6 +25,7 @@ class DayTradingTrainer:
         self.files = DayTradingFiles()
         self.strategy_manager = StrategyManager()
         self.tickets = self.get_tickets()
+        self.model_generator = DayTradingModelGenerator()
 
     def get_watchlist(self, watchlist_type):
         response = []
@@ -39,6 +40,8 @@ class DayTradingTrainer:
         # Get about 500 ticket (S&P 500) from Finviz Map (https://finviz.com/map.ashx)
         # self.day_trading_dataset.download_ticket_candidates()
         tickets_df = pd.read_csv(self.files.ticket_candidates)
+        tickets_df.sort_values(
+            by='company_value', inplace=True, ascending=False)
         return tickets_df['company_code'].tolist()
 
     def save_training_metadata(self, split_type='test_val_train', bet_type='long'):
@@ -58,16 +61,16 @@ class DayTradingTrainer:
                 ) = self.day_trading_dataset.test_train_split(ticket, bet_type)
 
             sample_size = features_test_df.shape[0]
-            num_bets_threshold = 25 * 2
+            num_bets_threshold = 30
             num_bets = sum(label_close_test)
-            if num_bets > num_bets_threshold and sample_size:
+            if num_bets > num_bets_threshold:
                 # Collecting metadata about the ticket
                 print('Training the models.')
-                close_model = CatBoostClassifier()
-                close_model.fit(features_train_df,
-                                label_close_train, verbose=False)
+                close_model = self.model_generator.get_best_model(
+                    features_train_df,
+                    label_close_train)
                 close_predictions = close_model.predict(
-                    features_test_df, verbose=False)
+                    features_test_df)
                 num_interesting_bets = sum(close_predictions)
                 metadata = {
                     'ticket': ticket,
@@ -82,26 +85,29 @@ class DayTradingTrainer:
                 print(metadata)
                 training_metadata.append(metadata)
             else:
-                print('Not enough interesting bets to train a model on this ticket')
+                print(
+                    f'Not enough ({num_bets}) interesting bets to train a model on this ticket')
 
         training_metadata = pd.DataFrame(training_metadata)
         training_metadata_filepath = self.files.long_tickets_metadata
         if bet_type == 'short':
             training_metadata_filepath = self.files.short_tickets_metadata
+        training_metadata.sort_values(
+            by='precision', ascending=False, inplace=True)
         training_metadata.to_csv(training_metadata_filepath, index=False)
         self.save_tickets(training_metadata, bet_type)
 
     def save_tickets(self, training_metadata, bet_type):
         # I'll select the top 3 tickets where the Logistic Regression
         # model have shown better performance for the bet_type.
-        num_tickets = 3
+        num_tickets = 5
         num_bets_threshold = 25
         metadata = training_metadata[training_metadata['sample_size'] > 700].copy(
         )
         metadata = metadata[metadata['num_interesting_bets'] >= num_bets_threshold].copy(
         )
         metadata = metadata.query(
-            f'precision > 0.66').copy()
+            f'precision > 0.4').copy()
         metadata = metadata.sort_values(
             by='precision', ascending=False)
         metadata = metadata.head(num_tickets)
@@ -132,9 +138,9 @@ class DayTradingTrainer:
                 label_close_train.extend(label_close_val)
 
                 print('Training the models.')
-                close_model = CatBoostClassifier()
-                close_model.fit(features_train_df,
-                                label_close_train, verbose=False)
+                close_model = close_model = self.model_generator.get_best_model(
+                    features_train_df,
+                    label_close_train)
                 close_predictions = close_model.predict(features_test_df)
                 model_confidence = close_model.predict_proba(features_test_df)[
                     :, 1]
@@ -153,15 +159,16 @@ class DayTradingTrainer:
 
         strategy_metadata = pd.DataFrame(strategy_metadata)
         print(strategy_metadata)
-        strategy_metadata.sort_values(
-            by=['index', 'model_confidence'],
-            ascending=[True, False],
-            inplace=True)
+        if strategy_metadata.shape[0] > 0:
+            strategy_metadata.sort_values(
+                by=['index', 'model_confidence'],
+                ascending=[True, False],
+                inplace=True)
+            ticket_strike = {
+                ticket: 0 for ticket in strategy_metadata['ticket'].unique()}
         bets = []
         last_index = -10
 
-        ticket_strike = {
-            ticket: 0 for ticket in strategy_metadata['ticket'].unique()}
         for bet in strategy_metadata.to_dict('records'):
             if (
                 (bet['index'] - last_index < self.window)
@@ -174,8 +181,9 @@ class DayTradingTrainer:
             ticket_strike[bet['ticket']] = ticket_strike[bet['ticket']] + 1
             bets.append(bet)
         bets = pd.DataFrame(bets)
-        bets.to_csv(self.files.bets_metadata, index=False)
-        print(f'Estimated weekly return: {bets["result"].sum()}')
+        if bets.shape[0] > 0:
+            bets.to_csv(self.files.bets_metadata, index=False)
+            print(f'Estimated weekly return: {bets["result"].sum()}')
 
     def train_models(self):
         for bet_type in ['long', 'short']:
@@ -189,8 +197,8 @@ class DayTradingTrainer:
                     ticket, bet_type)
 
                 print('Training the models.')
-                close_model = CatBoostClassifier()
-                close_model.fit(features_df, label_close, verbose=False)
+                close_model = close_model = self.model_generator.get_best_model(
+                    features_df, label_close)
 
                 print(f'Saving the {ticket} models.')
                 joblib.dump(close_model, os.path.join(
