@@ -20,7 +20,7 @@ setup(
     install_requires=[
         'catboost==1.1.1',
         'fire==0.4.0',
-        'joblib==1.1.0',
+        'joblib==1.1.1',
         'pandas==1.3.5',
         'requests==2.28.1',
         'scikit-learn==1.0.2',
