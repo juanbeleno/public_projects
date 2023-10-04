@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative Research: Operational COVID-19 Forecasting with Multi-Source Information]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>89755.00</AwardTotalIntnAmount>
+<AwardAmount>89755</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Warchall</SignBlockName>
+<PO_EMAI>hwarchal@nsf.gov</PO_EMAI>
+<PO_PHON>7032924861</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project aims to develop a new deep learning predictive platform for COVID-19 transmission, integrating multi-source information under model and data uncertainties. In contrast to other viruses such as influenza, SARS, and MERS, COVID-19 differs in a number of ways, including uncertainties in response to weather conditions, history of the disease, as well as the effectiveness of responses from public health officials or from the general public. An important aspect is to integrate multi-source data such as official reports, atmospheric variables, and social media data into operational biosurveillance and real-time prediction of COVID-19. The proposed biosurveillance framework will be used to forecast COVID-19 dynamics and to enhance mitigation strategies. In addition, it could also be applicable to tracking many other infectious diseases, thereby contributing to security of our society as a whole. Furthermore, the project will build innovative connections within and across mathematical biology, statistics, and deep learning, with a strong focus on interdisciplinary graduate research training.&lt;br/&gt;&lt;br/&gt;As the main forecasting framework, the widely used Susceptible-Exposed-Infected-Recovered (SEIR) dynamic models can accurately describe the disease dynamics, but only with precise knowledge of disease parameters, which can take a long time to accurately estimate. Deep learning algorithms can potentially have superior predictive ability, but they require extensive training. Another key challenge in the statistical modeling of these events is how to timely and systematically integrate multiple sources of surveillance, anecdotal, and other health-related information under uncertainty. The proposed new predictive approach is based on the interaction between multiple data sources, dynamical SEIR models, and deep learning algorithms. The key idea is to view simulation SEIR models as “surrogate” pre-trainers for the deep learning models, resulting in less real data needed to retrain the predictive model to reflect “real world” COVID-19 progression. Deep learning predictive models can then be used for making predictions about the future COVID-19 dynamics, which can be compared to the predictions made by the original SEIR model. Depending on which mathematical model makes better predictions, another model can be updated with the better prediction as inputs, thereby representing reinforcement learning from both data and the best mathematical model. As a result, the new predictive framework will allow one to assess impacts of the immediate responses such as declaration of a national emergency, a school closing, or a quarantine, and can be considered as a step toward interpretable AI for COVID-19 biosurveillance.&lt;br/&gt;&lt;br/&gt;This grant is being awarded using funds made available by the Coronavirus Aid, Relief, and Economic Security (CARES) Act supplemental funds allocated to MPS.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027802</AwardID>
+<Investigator>
+<FirstName>Georgiy</FirstName>
+<LastName>Bobashev</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Georgiy Bobashev</PI_FULL_NAME>
+<EmailAddress><![CDATA[bobashev@rti.org]]></EmailAddress>
+<NSF_ID>000553378</NSF_ID>
+<StartDate>04/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Research Triangle Institute</Name>
+<CityName>RESEARCH TRIANGLE PARK</CityName>
+<ZipCode>277090155</ZipCode>
+<PhoneNumber>9195416000</PhoneNumber>
+<StreetAddress>3040 E CORNWALLIS RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJHCMK4NT5N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH TRIANGLE INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JJHCMK4NT5N3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Research Triangle Institute]]></Name>
+<CityName>Research Triangle Park</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277092194</ZipCode>
+<StreetAddress><![CDATA[3040 East Cornwallis Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~89755</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this project, we have addressed several problems related to analysis, modeling and forecasting of COVID-19 spread. These problems include developing new mechanistic tools for forecasting the dynamics of SARS-CoV2 cases with policy predictors, investigating spatio-temporal dependencies, and COVID-19 clinical severity under uncertainties, combining mechanistic, spatial, and machine learning models for tracking COVID-19 cases.</p> <p>We addressed the impact of&nbsp;timing, length, and intensity of public health interventions on COVID-19 dynamics specifically focusing on non-medical interventions that&nbsp;likely to increase (long weekends, holiday seasons) or to decrease (shelter-in-place, masking) transmission.</p> <p>The main results were that the same non-medical intervention policy can lead to very different outcomes (abrupt increase, abrupt decrease and shift in epidemic curve) depending on when the intervention is implemented. The result strongly depends on both, the numbers of susceptible and infected individuals. This underscores the need for accurate estimation of the number of susceptible individuals, something that is not routinely estimated.</p> <p>We developed a web-based tool that informs of most likely development of the epidemic and educates public policy about the most efficient timings and strength of the intervention. The tool uses real-time data about county-level epidemic and information about health interventions in the context of human response to the interventions.&nbsp;The users can modify the parameters and receive estimated impacts of different interventions on transmission. This tool could aid in evaluating public health intervention options, prior to their use, and predicting case increases from specific events such as large concerts and sporting events.</p> <p>We established relationships with North Carolina Department of Health and Human Services and provided consultations on the topics of epidemic forecasting. The project has underscored the critical need for understanding the role of estimation of susceptible populations in making accurate estimates of the impact of intervention timing, length, and intensity.</p> <p>The study produced 3 peer-reviewed manuscripts, training of a graduate student, and 4 conference presentations.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/24/2022<br>      Modified by: Georgiy&nbsp;Bobashev</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2027802/2027802_10666008_1659392319460_ToolScreenshot--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2027802/2027802_10666008_1659392319460_ToolScreenshot--rgov-800width.jpg" title="A screen shot of a covid-19 forecasting tool"><img src="/por/images/Reports/POR/2022/2027802/2027802_10666008_1659392319460_ToolScreenshot--rgov-66x44.jpg" alt="A screen shot of a covid-19 forecasting tool"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A screen shot of a COVID-19 forecasting tool that explores the effects of non-medical interevention depending on timing, length and intensity of the intervention</div> <div class="imageCredit">Developed by RTI International on NSF grant 2027802</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Georgiy&nbsp;Bobashev</div> <div class="imageTitle">A screen shot of a covid-19 forecasting tool</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ In this project, we have addressed several problems related to analysis, modeling and forecasting of COVID-19 spread. These problems include developing new mechanistic tools for forecasting the dynamics of SARS-CoV2 cases with policy predictors, investigating spatio-temporal dependencies, and COVID-19 clinical severity under uncertainties, combining mechanistic, spatial, and machine learning models for tracking COVID-19 cases.  We addressed the impact of timing, length, and intensity of public health interventions on COVID-19 dynamics specifically focusing on non-medical interventions that likely to increase (long weekends, holiday seasons) or to decrease (shelter-in-place, masking) transmission.  The main results were that the same non-medical intervention policy can lead to very different outcomes (abrupt increase, abrupt decrease and shift in epidemic curve) depending on when the intervention is implemented. The result strongly depends on both, the numbers of susceptible and infected individuals. This underscores the need for accurate estimation of the number of susceptible individuals, something that is not routinely estimated.  We developed a web-based tool that informs of most likely development of the epidemic and educates public policy about the most efficient timings and strength of the intervention. The tool uses real-time data about county-level epidemic and information about health interventions in the context of human response to the interventions. The users can modify the parameters and receive estimated impacts of different interventions on transmission. This tool could aid in evaluating public health intervention options, prior to their use, and predicting case increases from specific events such as large concerts and sporting events.  We established relationships with North Carolina Department of Health and Human Services and provided consultations on the topics of epidemic forecasting. The project has underscored the critical need for understanding the role of estimation of susceptible populations in making accurate estimates of the impact of intervention timing, length, and intensity.  The study produced 3 peer-reviewed manuscripts, training of a graduate student, and 4 conference presentations.           Last Modified: 08/24/2022       Submitted by: Georgiy Bobashev]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: Symbolic Commutativity Analysis for Multicore Concurrency]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>495933.00</AwardTotalIntnAmount>
+<AwardAmount>495933</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+<PO_EMAI>abanerje@nsf.gov</PO_EMAI>
+<PO_PHON>7032927885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Modern software applications need results to be computed quickly as a matter of practicality, system safety or even security. Unfortunately, CPU speeds themselves are no longer increasing as they used to and hardware companies, instead, offer multicore CPUs. This poses a classical, but notoriously difficult problem: how to divide software programs into multiple interoperating tasks, that can execute concurrently, without stepping on each others' feet. It is well-known that data structure "commutativity" is one route to concurrency. Intuitively, two data-structure operations commute, provided that they can be executed in either order. In this way, commutativity characterizes the independence of program fragments. In recent years, researchers have shown that this can enable concurrency in contexts such as transactional memory, optimistic concurrency, runtime systems and parallelizing compilers. However, it remains an open question as to how to safely extract commutativity information from source code.&lt;br/&gt;&lt;br/&gt;This project is developing techniques to automatically verify and even synthesize commutativity from source code. Further,  this commutativity is employed (integrated with so-called linearizability) in a new parallelizing compiler and transactional object system. These new tools enable programmers to focus on writing correct sequential programs, and yet automatically exploit multicore architectures. The impacts of this work include advances in mathematical foundations, algorithms, symbolic program analysis, compilers and runtime systems.  The project also involves engagement with students through multiple tiers of education - ranging from pre-college math students to summer school modules - and outreach aimed at broadening participation of underrepresented groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008633</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Koskinen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric Koskinen</PI_FULL_NAME>
+<EmailAddress><![CDATA[eric.koskinen@stevens.edu]]></EmailAddress>
+<NSF_ID>000608272</NSF_ID>
+<StartDate>05/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stevens Institute of Technology</Name>
+<CityName>HOBOKEN</CityName>
+<ZipCode>07030</ZipCode>
+<PhoneNumber>2012168762</PhoneNumber>
+<StreetAddress>1 CASTLEPOINT ON HUDSON</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJ6CN5Y5A2R5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName>Hoboken</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>070305991</ZipCode>
+<StreetAddress><![CDATA[Castle Point on Hudson]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7943</Code>
+<Text>PROGRAMMING LANGUAGES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~495933</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;</p> <div><br /> <div><span>This project advanced the way that software can safely exploit modern multicore architectures. Multicore architectures require software to use concurrency---doing multiple tasks at the same time---and writing concurrent software by hand is notoriously error-prone, leading to frequent software defects. Consequently, an approach to automatically generate concurrent/parallel code has long been an ideal goal for many researchers and practitioners. </span></div> <br /> <div><span>This project focused on methods for automatic parallelization by more directly using code commutativity. Code commutativity are circumstances where two regions of code can be executed in either order and, regardless of the order, yield the same results. Code commutativity goes beyond dataflow parallelization to describe deeper, more general independence. This independence of order enables compilers and/or runtime engines to execute the two regions concurrently (e.g. on different processor cores), since the order in which they are scheduled does not matter. </span></div> <br /> <div><span>The intellectual merits of this project were novel symbolic analyses of code commutativity and new programming language features that directly employ commutativity. Together these advances enable new forms of automatic parallelization and, hence, safer concurrent software. These merits include:</span></div> <br /> <div> <ul> <li><span>A technique for verifying commutativity analysis through a reduction to reachability. This technique was published in VMCAI 2021 and is embodied in the publicly released tool CityProver.</span></li> <li>Advanced techniques for automatically synthesizing commutativity conditions, embodied in the publicly released tool Servois2 and published in ATVA 2023.</li> <li>A new technique for verifying and even synthesizing commutativity of imperative-style code, via a reduction to commutativity of logical pre/post conditions (for which Servois2 can be used). This work was published in OOPSLA 2022.</li> <li>A new programming language for expressing code commutativity (as "commute" blocks) directly in the language. This work is embodied in the Veracity language, and also published in OOPSLA 2022. The interpreter for Veracity was publicly released.</li> </ul> </div> <br /> <div><span>The broader impacts of the project include:</span></div> <br /> <div> <ul> <li><span>A broader understanding of how compilers can automatically extract more concurrency from general-purpose programs and, hence, safer methods of exploiting multicore architectures.</span></li> <li>Primitives for commutativity-based parallelization that can be incorporated into programming languages of the future.</li> <li>The founding of a new workshop on Commutativity Reasoning (initially co-located with PLDI 2022).</li> <li>An invited keynote talk at VMCAI 2023, where the results of this project where further disseminated.</li> <li>Training for three PhD students and one Master's student.</li> <li>Programs for improving participation through (i) a week-long summer program for minority high school students, (ii) introductory lectures on commutativity to a large group of undergraduate students, and (iii) research training for a female PhD student.</li> </ul> </div> </div><br> <p>            Last Modified: 09/27/2023<br>      Modified by: Eric&nbsp;Koskinen</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     This project advanced the way that software can safely exploit modern multicore architectures. Multicore architectures require software to use concurrency---doing multiple tasks at the same time---and writing concurrent software by hand is notoriously error-prone, leading to frequent software defects. Consequently, an approach to automatically generate concurrent/parallel code has long been an ideal goal for many researchers and practitioners.    This project focused on methods for automatic parallelization by more directly using code commutativity. Code commutativity are circumstances where two regions of code can be executed in either order and, regardless of the order, yield the same results. Code commutativity goes beyond dataflow parallelization to describe deeper, more general independence. This independence of order enables compilers and/or runtime engines to execute the two regions concurrently (e.g. on different processor cores), since the order in which they are scheduled does not matter.    The intellectual merits of this project were novel symbolic analyses of code commutativity and new programming language features that directly employ commutativity. Together these advances enable new forms of automatic parallelization and, hence, safer concurrent software. These merits include:     A technique for verifying commutativity analysis through a reduction to reachability. This technique was published in VMCAI 2021 and is embodied in the publicly released tool CityProver. Advanced techniques for automatically synthesizing commutativity conditions, embodied in the publicly released tool Servois2 and published in ATVA 2023. A new technique for verifying and even synthesizing commutativity of imperative-style code, via a reduction to commutativity of logical pre/post conditions (for which Servois2 can be used). This work was published in OOPSLA 2022. A new programming language for expressing code commutativity (as "commute" blocks) directly in the language. This work is embodied in the Veracity language, and also published in OOPSLA 2022. The interpreter for Veracity was publicly released.     The broader impacts of the project include:     A broader understanding of how compilers can automatically extract more concurrency from general-purpose programs and, hence, safer methods of exploiting multicore architectures. Primitives for commutativity-based parallelization that can be incorporated into programming languages of the future. The founding of a new workshop on Commutativity Reasoning (initially co-located with PLDI 2022). An invited keynote talk at VMCAI 2023, where the results of this project where further disseminated. Training for three PhD students and one Master's student. Programs for improving participation through (i) a week-long summer program for minority high school students, (ii) introductory lectures on commutativity to a large group of undergraduate students, and (iii) research training for a female PhD student.          Last Modified: 09/27/2023       Submitted by: Eric Koskinen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

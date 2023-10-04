@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SCC-CIVIC-PG Track B: An Integrated Scenario-based Hurricane Evacuation Management Tool to Support Community Preparedness]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandip Roy</SignBlockName>
+<PO_EMAI>saroy@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As a hurricane approaches, emergency managers must determine when and where to issue official evacuation orders. It requires integrating large amounts of uncertain, changing information to make consequential decisions in a short time frame under pressure, and the stakes are high. An opportunity exists to leverage recent research—in particular, the Integrated Scenario-based Evacuation (ISE) tool—to help meet that challenge. This team designed the ISE tool to be run for a particular hurricane as it approaches the U.S. When run at a point in time, it generates a set of contingency plans and defines the circumstances under which to implement each, depending on how the hurricane evolves. Each plan includes recommendations about whether or not to issue an evacuation order for each geographic evacuation zone, and if so, when.&lt;br/&gt;&lt;br/&gt;While the new technology has promise, moving from research to practice brings its own challenges. The objectives of Stage 1, therefore, are to: (1) Determine how the new tool and its output can support emergency managers’ natural decision-making process; (2) Conduct a needs assessment for the tool; and (3) Advance understanding of community innovation in disaster management. The Stage 2 objective is to implement an operational prototype of the ISE-based decision support tool for North Carolina. The emergency manager partners will ensure the tool is of practical use; the researchers will ensure it reflects the best science; and the industry partner will ensure its impact is sustainable by hosting it on their platform.&lt;br/&gt;&lt;br/&gt;The ISE tool uses a multi-stage stochastic programming model to provide a tree of recommended evacuation orders and a performance evaluation for that set of recommendations. Benefits of the tool are that it provides an integrated hazard assessment with uncertainty that includes the effects of storm surge, wind waves, tides, river discharge, inland flooding, and wind; it explicitly balances competing objectives of minimizing risk and travel time; it offers a well-hedged solution robust under the range of hurricane evolutions; and it is adaptive, leveraging the value of decreasing uncertainty during an event. Stage 1 will include focus groups of key stakeholders to determine the process of innovation; a needs assessment; and analysis and planning for the next stage. In Stage 2, we will (1) make the tool faster and easier to run by moving it to a GPU platform and exploiting opportunities for parallelization; (2) develop an interactive graphical user interface; and (3) improve the modeling by adding treatment of institutionalized vulnerable populations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/08/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040488</AwardID>
+<Investigator>
+<FirstName>Tricia</FirstName>
+<LastName>Wachtendorf</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tricia Wachtendorf</PI_FULL_NAME>
+<EmailAddress><![CDATA[twachten@udel.edu]]></EmailAddress>
+<NSF_ID>000238711</NSF_ID>
+<StartDate>02/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rachel</FirstName>
+<LastName>Davidson</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rachel A Davidson</PI_FULL_NAME>
+<EmailAddress><![CDATA[rdavidso@udel.edu]]></EmailAddress>
+<NSF_ID>000295295</NSF_ID>
+<StartDate>02/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>220 HULLIHEN HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>T72NHKM259N3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName/>
+<StateCode>DE</StateCode>
+<ZipCode>197162553</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>For communities threatened by hurricanes, managing evacuations is a major challenge. It requires making difficult decisions in an uncertain, dynamic, and complex environment, and the stakes are high. An opportunity currently exists to leverage recent research--in particular, the Integrated Scenario-based Evacuation (ISE) tool--to help meet that challenge. The researchers on this team designed the ISE tool to be run for a particular hurricane that is approaching the U.S. When run at a single point in time, it generates a tree of recommended evacuation orders and a performance evaluation for that set of recommendations. Each recommendation indicates whether or not an evacuation order should be issued for each geographic evacuation zone. The tree provides a recommendation for each user-specified decision time, conditional on how the hurricane has evolved and previous decisions have been made up to that time. Benefits of the ISE tool are that it provides an integrated hazard assessment with uncertainty that includes the effects of storm surge, wind waves, tides, river discharge, inland flooding, and wind; it explicitly balances competing objectives of minimizing risk and travel time; it offers a solution that is robust under the range of hurricane evolutions; and it leverages the value of decreasing uncertainty during an event.<br />While the new technology has promise, moving from research to practice to advance community innovation brings its own challenges. With that in mind, the objectives of this Civic Planning Grant (Stage 1) were to: (1) Advance understanding of the community innovation process in disaster risk management settings; (2) Begin to make the ISE tool run faster and install it on the platform of the public-benefit company, Disaster Tech, where it could be maintained and made available; and (3) Develop an initial prototype version of a graphical user interface (GUI).</p> <p>Objective 1. Findings suggest that facilitators of community innovation in a disaster risk management setting include: diversity of knowledge and experience, organizational alignment in seeing the value of the innovation, ability to communicate quickly and often (allowing groups to overcome miscommunications or differences in understanding), and a short timeframe for work, requiring the team to keep the project moving. Findings suggest that barriers of community innovation in a disaster risk management setting include: a short timeframe that moves quickly, finding time to commit to the project, time commitment related to the pandemic when some participants have other essential responsibilities, lack of shared understanding around roles, complexity of the innovation (i.e., ISE tool), technical work on the innovation, funding (although its impacts represented itself in different ways for innovating members), anticipation of future potential barriers, conservative culture as it relates to change within the innovation adoption group, and finding a balance between investing in organization buy-in vs. continuing to innovate.&nbsp;</p> <p>Objective 2. We began to advance the ISE "research prototype" to a "working prototype" on the Disaster Tech platform. The working prototype will automate and streamline the computational workflow such that the ISE is triggered by new hurricane forecast information, model-to-model information exchanges are automated, and the efficiency of the evacuation model is substantially increased. The working prototype will allow a non-researcher to execute the evacuation model portion of the ISE, facilitated through a GUI. It will be fast enough to issue evacuation recommendations during a hurricane event, coordinated with typical emergency manager briefing cycles. In this planning project, we developed a new working prototype preprocessor that runs in about an hour, a significant improvement from the research prototype's manual process which required about one day. We also began making the evacuation model software run more quickly by more effectively leveraging parallelization opportunities.</p> <p>Objective 3. We are implementing a user-centered design approach to develop a GUI that ensures model outputs are correctly understood, helpful, and easy to use. In Stage 1, the researchers and Disaster Tech partners conducted needs assessment interviews of emergency managers in three steps. First, we developed a mockup user interface that is interactive but not connected to the models. It provided an initial visualization to help the interviewees imagine the tool. Second, we recorded a 8.5-minute video explaining the ISE tool and demonstrating interactive features of the initial GUI (tinyurl.com/ISEvid). The aim of the video, which was sent to each interviewee in advance of their interview, was to efficiently provide accurate, consistent information about the ISE tool so they would have the background necessary to provide informed responses to the interview questions. Third, we conducted needs assessment interviews with 18 emergency managers in North Carolina, Texas, and other hurricane-prone states. Though analysis of the interview data is ongoing, preliminary results have highlighted, for example, how critical inland flooding information is for emergency managers, suggesting this feature needs a prominent access point on the interface. Such feedback is useful as we consider how emergency managers will use the tool during an event.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/15/2022<br>      Modified by: Rachel&nbsp;A&nbsp;Davidson</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ For communities threatened by hurricanes, managing evacuations is a major challenge. It requires making difficult decisions in an uncertain, dynamic, and complex environment, and the stakes are high. An opportunity currently exists to leverage recent research--in particular, the Integrated Scenario-based Evacuation (ISE) tool--to help meet that challenge. The researchers on this team designed the ISE tool to be run for a particular hurricane that is approaching the U.S. When run at a single point in time, it generates a tree of recommended evacuation orders and a performance evaluation for that set of recommendations. Each recommendation indicates whether or not an evacuation order should be issued for each geographic evacuation zone. The tree provides a recommendation for each user-specified decision time, conditional on how the hurricane has evolved and previous decisions have been made up to that time. Benefits of the ISE tool are that it provides an integrated hazard assessment with uncertainty that includes the effects of storm surge, wind waves, tides, river discharge, inland flooding, and wind; it explicitly balances competing objectives of minimizing risk and travel time; it offers a solution that is robust under the range of hurricane evolutions; and it leverages the value of decreasing uncertainty during an event. While the new technology has promise, moving from research to practice to advance community innovation brings its own challenges. With that in mind, the objectives of this Civic Planning Grant (Stage 1) were to: (1) Advance understanding of the community innovation process in disaster risk management settings; (2) Begin to make the ISE tool run faster and install it on the platform of the public-benefit company, Disaster Tech, where it could be maintained and made available; and (3) Develop an initial prototype version of a graphical user interface (GUI).  Objective 1. Findings suggest that facilitators of community innovation in a disaster risk management setting include: diversity of knowledge and experience, organizational alignment in seeing the value of the innovation, ability to communicate quickly and often (allowing groups to overcome miscommunications or differences in understanding), and a short timeframe for work, requiring the team to keep the project moving. Findings suggest that barriers of community innovation in a disaster risk management setting include: a short timeframe that moves quickly, finding time to commit to the project, time commitment related to the pandemic when some participants have other essential responsibilities, lack of shared understanding around roles, complexity of the innovation (i.e., ISE tool), technical work on the innovation, funding (although its impacts represented itself in different ways for innovating members), anticipation of future potential barriers, conservative culture as it relates to change within the innovation adoption group, and finding a balance between investing in organization buy-in vs. continuing to innovate.   Objective 2. We began to advance the ISE "research prototype" to a "working prototype" on the Disaster Tech platform. The working prototype will automate and streamline the computational workflow such that the ISE is triggered by new hurricane forecast information, model-to-model information exchanges are automated, and the efficiency of the evacuation model is substantially increased. The working prototype will allow a non-researcher to execute the evacuation model portion of the ISE, facilitated through a GUI. It will be fast enough to issue evacuation recommendations during a hurricane event, coordinated with typical emergency manager briefing cycles. In this planning project, we developed a new working prototype preprocessor that runs in about an hour, a significant improvement from the research prototype's manual process which required about one day. We also began making the evacuation model software run more quickly by more effectively leveraging parallelization opportunities.  Objective 3. We are implementing a user-centered design approach to develop a GUI that ensures model outputs are correctly understood, helpful, and easy to use. In Stage 1, the researchers and Disaster Tech partners conducted needs assessment interviews of emergency managers in three steps. First, we developed a mockup user interface that is interactive but not connected to the models. It provided an initial visualization to help the interviewees imagine the tool. Second, we recorded a 8.5-minute video explaining the ISE tool and demonstrating interactive features of the initial GUI (tinyurl.com/ISEvid). The aim of the video, which was sent to each interviewee in advance of their interview, was to efficiently provide accurate, consistent information about the ISE tool so they would have the background necessary to provide informed responses to the interview questions. Third, we conducted needs assessment interviews with 18 emergency managers in North Carolina, Texas, and other hurricane-prone states. Though analysis of the interview data is ongoing, preliminary results have highlighted, for example, how critical inland flooding information is for emergency managers, suggesting this feature needs a prominent access point on the interface. Such feedback is useful as we consider how emergency managers will use the tool during an event.              Last Modified: 01/15/2022       Submitted by: Rachel A Davidson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

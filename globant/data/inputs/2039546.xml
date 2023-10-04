@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Machine Learning based Clinical Decision Support Tool to Predict 30-day Hospital Readmissions for Congestive Heart Failure Patients]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a clinical decision support software tool to predict 30-day hospital readmissions for patients diagnosed with congestive heart failure (CHF). CHF is a chronic cardiac disease where the heart does not adequately pump blood to the body. CHF is known to be the number one reason for hospital admissions and readmissions. Hospital readmissions are independently associated with negative patient outcomes, and Medicare spends  $2.7 billion on CHF readmissions annually. On top of that, an estimated 70% of those readmissions are preventable, and as a result, the Centers for Medicare and Medicaid Services (CMS) started to penalize health organizations for high rates of readmission. Re-admission penalties were up to $550 million across all hospitals in 2018, with ~2,500 hospitals being affected. The software tool may be generalized to other diseases beyond CHF and has the potential to help reduce these avoidable readmissions improving patient outcomes and leading to cost savings for patients, payers, and hospitals.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a clinical decision support tool to predict 30-day hospital readmissions. This is a machine learning-based software tool supported by large-scale clinical datasets to predict the likelihood of readmissions for patients admitted to the hospitals and diagnosed with congestive heart failure (CHF). This technology is a cloud-based software tool that will integrate with electronic health records (EHRs) and can assist case managers with triage and planning of congestive heart failure patients. Building on current information from case managers and quality improvement directors, the team gathers additional information to gain a deeper understanding of the clinical workflow (e.g., attending physicians, transition guides, case managers, directors, and chief nursing officers), revenue streams (e.g., hospital purchasing committees), reimbursement requests (hospitals and payers), and regulatory requirements (e.g., FDA 510(k) regulatory clearance process) to establish connections with potential partners in industry. The goal is to build an evidence-based product solution by interviewing these stakeholders and to establish plans to move the commercialization of the technology forward.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039546</AwardID>
+<Investigator>
+<FirstName>Nauder</FirstName>
+<LastName>Faraday</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nauder Faraday</PI_FULL_NAME>
+<EmailAddress><![CDATA[nfarada1@jhmi.edu]]></EmailAddress>
+<NSF_ID>000830154</NSF_ID>
+<StartDate>07/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Johns Hopkins University</Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress>3400 N CHARLES ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>JOHNS HOPKINS UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FTMTDMBR29C7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>Baltimore</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212870005</ZipCode>
+<StreetAddress><![CDATA[600 N Wolfe St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>We are creating a software tool for preventing hospital readmissions in patients with congestive heart failure and needed to formulate a business plan to implement our technology and bring benefits to the public, specifically, by preventing unnecessary hospital stays and reducing healthcare costs. This project initially connected us with experienced entrepreneurs as mentors, who equipped us with the knowledge and skills to begin market research and customer discovery to make said business plan. Over the course of this project, we have conducted in-depth market research to explore and solidify a business model for our technology. We contacted over 1,100 different healthcare stakeholders through e-mail, social media, and conferences, resulting in 270 interviews, with potential customers, users, partners, investors, salespeople, and other entrepreneurs.</p> <p>Through these interviews, we learned a lot about our potential customers and how we could find them. We were originally unsure whether to pursue hospitals, insurers, or home health agencies as our primary customers, and were able to settle on hospitals based on a number of factors. We also identified traits of hospitals that were more likely to be interested in technology like ours and could become early customers. Within hospitals, we identified the different job titles and roles that were relevant to us, for example, physicians and nurses as end users, or chief finance officers as buyers. By talking to the relevant people at hospitals, we identified how they learn about new technology like ours, which includes referrals, professional organizations, social media, publications, conferences, and webinars. We also learned about how sales were conducted, which are usually done via direct sales in the form of subscriptions or software licenses, although occasionally third parties may make referrals as well. We also identified our key value propositions to specific people at hospitals, distinguishing between those needed for end users, such as providing actionable information, and those needed for buyers, such as reductions in readmissions and cost savings.</p> <p>Our market research also revealed much about how we will operate as a business and the costs involved. By talking to other entrepreneurs in this space, we identified the key resources and activities that will need to be done, as well as partners that would be beneficial in acquiring those resources and accomplishing those activities. For example, software development firms could aid us with product development, and integration engines could help us integrate our software with that of hospitals- our potential customers. Contacts at these potential partners, as well as the aforementioned entrepreneurs, all gave us an idea of the costs involved as well, including the salaries of various types of employees, and the costs of product development, efficacy studies, and regulatory clearance.</p> <p>Overall, the project has greatly increased the likelihood that we will be able to&nbsp; commercialize this technology and bring the related health benefits and cost savings to the public. Using the findings of this project we have already received a significant grant to continue our research and development and bring the product to market.</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/20/2022<br>      Modified by: Nauder&nbsp;Faraday</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ We are creating a software tool for preventing hospital readmissions in patients with congestive heart failure and needed to formulate a business plan to implement our technology and bring benefits to the public, specifically, by preventing unnecessary hospital stays and reducing healthcare costs. This project initially connected us with experienced entrepreneurs as mentors, who equipped us with the knowledge and skills to begin market research and customer discovery to make said business plan. Over the course of this project, we have conducted in-depth market research to explore and solidify a business model for our technology. We contacted over 1,100 different healthcare stakeholders through e-mail, social media, and conferences, resulting in 270 interviews, with potential customers, users, partners, investors, salespeople, and other entrepreneurs.  Through these interviews, we learned a lot about our potential customers and how we could find them. We were originally unsure whether to pursue hospitals, insurers, or home health agencies as our primary customers, and were able to settle on hospitals based on a number of factors. We also identified traits of hospitals that were more likely to be interested in technology like ours and could become early customers. Within hospitals, we identified the different job titles and roles that were relevant to us, for example, physicians and nurses as end users, or chief finance officers as buyers. By talking to the relevant people at hospitals, we identified how they learn about new technology like ours, which includes referrals, professional organizations, social media, publications, conferences, and webinars. We also learned about how sales were conducted, which are usually done via direct sales in the form of subscriptions or software licenses, although occasionally third parties may make referrals as well. We also identified our key value propositions to specific people at hospitals, distinguishing between those needed for end users, such as providing actionable information, and those needed for buyers, such as reductions in readmissions and cost savings.  Our market research also revealed much about how we will operate as a business and the costs involved. By talking to other entrepreneurs in this space, we identified the key resources and activities that will need to be done, as well as partners that would be beneficial in acquiring those resources and accomplishing those activities. For example, software development firms could aid us with product development, and integration engines could help us integrate our software with that of hospitals- our potential customers. Contacts at these potential partners, as well as the aforementioned entrepreneurs, all gave us an idea of the costs involved as well, including the salaries of various types of employees, and the costs of product development, efficacy studies, and regulatory clearance.  Overall, the project has greatly increased the likelihood that we will be able to  commercialize this technology and bring the related health benefits and cost savings to the public. Using the findings of this project we have already received a significant grant to continue our research and development and bring the product to market.          Last Modified: 01/20/2022       Submitted by: Nauder Faraday]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

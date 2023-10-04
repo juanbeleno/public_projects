@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  A Software Platform for Assessment of Untrusted Electronics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>276000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ela Mirowski</SignBlockName>
+<PO_EMAI>emirowsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032922936</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to address the security challenges that currently exist in integrated circuit (IC) design and the electronic design automation (EDA) software market.  It will create a platform for ‘secure-by-design' of integrated circuits using untrusted third-party intellectual property blocks. It will provide a tool to semiconductor designers to automatically analyze security vulnerabilities and address them before fabrication. Such a capability will lead to security improvement of the fabricated chips and the systems they are integrated into, while also reducing the cost and time for secure system design through automation of vulnerability analysis and mitigation. The proposed toolset will address a critical technology gap in the semiconductor design and EDA marketplace.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project will develop a netlist assessment toolset which analyzes gate-level netlist of third-party integrated circuit (IC) design blocks used in modern system-on-chip (SoC) designs.  The toolset converts the gate-level netlist to readable formats to support the existing security analysis tools in the electronic design automation (EDA) software market.  During gate-level security analysis, this toolset will enable the detection of vulnerability for piracy, reverse engineering, as well as malicious logic in a design. To make the toolset market ready for our customers in the EDA and semiconductor industry, the SBIR/STTR Phase I project will mainly focus on scalability testing, interface design, analysis of security benefits, and performance improvement. Scalability testing of the toolset will be performed internally and with EDA industry customers to demonstrate the capability of the toolset in analyzing and converting the gate-level netlist of large scale SoCs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/18/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036234</AwardID>
+<Investigator>
+<FirstName>Raj Gautam</FirstName>
+<LastName>Dutta</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Raj Gautam Dutta</PI_FULL_NAME>
+<EmailAddress><![CDATA[rajgautamdutta@siliconassurance.com]]></EmailAddress>
+<NSF_ID>000822763</NSF_ID>
+<StartDate>03/18/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shaojie</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shaojie Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[shzhang@cs.ucf.edu]]></EmailAddress>
+<NSF_ID>000506181</NSF_ID>
+<StartDate>03/18/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SILICON ASSURANCE LLC</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>32601</ZipCode>
+<PhoneNumber>4072721767</PhoneNumber>
+<StreetAddress>747 SW 2ND AVE STE 258 IMB 30</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HKMYQ28JLWV8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SILICON ASSURANCE LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SILICON ASSURANCE LLC]]></Name>
+<CityName>GAINESVILLE</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326086550</ZipCode>
+<StreetAddress><![CDATA[4455 SW 34TH ST APT Y131]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1984</Code>
+<Text>MATERIALS SYNTHESIS &amp; PROCESSN</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~276000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Existing security products for software and firmware can be circumvented by attacks that leverage silicon chip flaws, both at architecture and design level, in trillions of devices. Such attacks could compromise confidentiality, integrity, and availability of devices that are used in critical infrastructure sectors such as telecommunication, defense, utilities, transportation, manufacturing, health, and finance. Consequently, the NSF STTR Phase I project awarded to Silicon Assurance has led to the development and testing of Analyz software platform and its Analyz - N tool set with the intent of addressing trust and security risks in silicon chips designed by semiconductor companies and system OEMs. The tool set integrates six proprietary security analysis tools and is amenable for easy integration into commercial design flows. Our automated tool sets will reduce the time required by verification and hardware security engineers to check the security of chip design, prevent data leakage from systems by detecting vulnerabilities, and save revenue of companies by protecting chip designs.&nbsp;</p> <p>The automated tool sets of the Analyz platform perform security analysis of gate-level intellectual property (IP) cores obtained from third-party vendors and Commercial off-the-shelf (COTS) vendors. Such IPs constitute a significant percentage of silicon IPs (global market size of $5.6 billion in 2020) sold across the globe. Analyzing a design's security at the gate-level is important, as the granularity of information for structural analysis is high. As such, different types of security vulnerabilities/attacks such as fault injection, side-channel, reverse engineering, malicious logic/backdoor, access control, and functional leakage from assets, can be detected by our tool set at the gate-level. Furthermore, the RTL synthesis process could eliminate security countermeasures during optimization and the testing mechanisms at the gate-level could introduce additional security vulnerabilities. Another benefit of developing a gate-level tool is that we can make it technology-agnostic, in contrast to the tools for GDSII analysis. The technological advantages of our software have enabled us to complement existing RTL security analysis tools and partner with existing Electronic Design and Automation (EDA) tool companies to further develop our software and integrate it with existing design and verification tool flows. The Analyz platform will provide, for the first time, a "secure-by-design" tool flow to semiconductor companies and system OEMs.</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/27/2022<br>      Modified by: Raj Gautam&nbsp;Dutta</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Existing security products for software and firmware can be circumvented by attacks that leverage silicon chip flaws, both at architecture and design level, in trillions of devices. Such attacks could compromise confidentiality, integrity, and availability of devices that are used in critical infrastructure sectors such as telecommunication, defense, utilities, transportation, manufacturing, health, and finance. Consequently, the NSF STTR Phase I project awarded to Silicon Assurance has led to the development and testing of Analyz software platform and its Analyz - N tool set with the intent of addressing trust and security risks in silicon chips designed by semiconductor companies and system OEMs. The tool set integrates six proprietary security analysis tools and is amenable for easy integration into commercial design flows. Our automated tool sets will reduce the time required by verification and hardware security engineers to check the security of chip design, prevent data leakage from systems by detecting vulnerabilities, and save revenue of companies by protecting chip designs.   The automated tool sets of the Analyz platform perform security analysis of gate-level intellectual property (IP) cores obtained from third-party vendors and Commercial off-the-shelf (COTS) vendors. Such IPs constitute a significant percentage of silicon IPs (global market size of $5.6 billion in 2020) sold across the globe. Analyzing a design's security at the gate-level is important, as the granularity of information for structural analysis is high. As such, different types of security vulnerabilities/attacks such as fault injection, side-channel, reverse engineering, malicious logic/backdoor, access control, and functional leakage from assets, can be detected by our tool set at the gate-level. Furthermore, the RTL synthesis process could eliminate security countermeasures during optimization and the testing mechanisms at the gate-level could introduce additional security vulnerabilities. Another benefit of developing a gate-level tool is that we can make it technology-agnostic, in contrast to the tools for GDSII analysis. The technological advantages of our software have enabled us to complement existing RTL security analysis tools and partner with existing Electronic Design and Automation (EDA) tool companies to further develop our software and integrate it with existing design and verification tool flows. The Analyz platform will provide, for the first time, a "secure-by-design" tool flow to semiconductor companies and system OEMs.          Last Modified: 09/27/2022       Submitted by: Raj Gautam Dutta]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

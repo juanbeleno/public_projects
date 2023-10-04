@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Adaptive Sampling Strategies for COVID-19 Mass Testing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>130328.00</AwardTotalIntnAmount>
+<AwardAmount>130328</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+<PO_EMAI>gaklutke@nsf.gov</PO_EMAI>
+<PO_PHON>7032922443</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As states begin to relax limitations on physical distancing in order to restart economic activity, mass testing for COVID-19 will be crucial in identifying and containing infection "hot spots" and to avoid more severe outbreaks.  This Rapid Response Research (RAPID) grant will support the collection of time-sensitive data on serological and viral test outcomes.  These data, along with census block-level demographic information and mobility patterns, will be used to develop a data-driven strategic framework for mass testing.  As testing resources will be limited at the onset, this framework can help guide a testing strategy to use these resources most effectively.  The project involves a collaboration with LifeSouth Blood bank and the State of Florida Department of Health to utilize data from north central Florida and is expected to be scalable to other counties, regions, and states across the Nation.  This research approach is expected to help mitigate the negative impacts of COVID-19 on public health, society, and the economy.&lt;br/&gt;&lt;br/&gt;The project will collect community testing data in order to develop a data-driven adaptive-sampling strategy to optimize mass testing within census block groups based on (i) aggregated community population, (ii) daily testing capacity and outcomes, (iii) block group demographics related to contagion and morbidity vulnerability (e.g., race, age structure, employment type, housing crowding), (iv) symptom prevalence, and (v) mobility patterns of people in the block group.  The sampling algorithms will “learn” from recent test outcomes (both positives and negatives) to optimize the sampling approach over time, balance exploration and exploitation to avoid overlooking critical areas while ensuring suspected areas are frequently sampled.  The project involves four tasks: (i) data collection though collaboration with LifeSouth Blood bank and Florida Department of Health for COVID-19 antibody testing and state testing data; (ii) geographic analysis of community medical and social vulnerability data; (iii) development of an adaptive sampling algorithm to determine the most informative test allocation to regions in the community; (iv) cost-effective analysis to determine the daily budget to balance between testing power and costs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032734</AwardID>
+<Investigator>
+<FirstName>Jaclyn</FirstName>
+<LastName>Hall</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jaclyn Hall</PI_FULL_NAME>
+<EmailAddress><![CDATA[jaclynha@ufl.edu]]></EmailAddress>
+<NSF_ID>000267326</NSF_ID>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaochen</FirstName>
+<LastName>Xian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaochen Xian</PI_FULL_NAME>
+<EmailAddress><![CDATA[xxian@ufl.edu]]></EmailAddress>
+<NSF_ID>000799410</NSF_ID>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Hladish</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas J Hladish</PI_FULL_NAME>
+<EmailAddress><![CDATA[tjhladish@ufl.edu]]></EmailAddress>
+<NSF_ID>000827262</NSF_ID>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1523 UNION RD RM 207</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>Gainesville</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326112002</ZipCode>
+<StreetAddress><![CDATA[1 University of Florida]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~130328</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>As resources to conduct mass testing for COVID-19 will be limited during ?reopening? of communities across the nation, an urgent need exists for an objective and data-driven framework to guide random testing to elucidate patterns of virus transmission in vulnerable communities, particularly in the large number of cases where people do not present symptoms. The project objective is to develop a data-driven strategic framework to optimize mass testing resources and collect community testing data by adaptively sampling within census block groups based on characteristics of the block groups, daily testing capacity and outcomes, and mobility patterns in the block group. Based on the proposed sampling algorithm, the research team conducted COVID-19 testing data collection and analysis through collaboration with LifeSouth Blood bank and Florida Department of Health.</p> <p class="Default">While it is critical to develop effective data science methods to quickly detect disease outbreaks, in practice, limited testing availability that restricts accessibility to sufficient testing data has become a global challenge especially at the early stage of a novel infectious disease such as COVID-19. To tackle the challenge, the team proposes adaptive testing resource allocation strategies to dynamically allocate limited testing resources among different communities, on top of a physics-informed model with account for transmission dynamics and health disparity embedded in infectious diseases for effective health risk assessment despite limited data. By integrating nonstationary Multi-Armed Bandit (MAB) techniques which strike superior balance between exploration on the communities with high uncertainties of health risks and exploitation on those with high risk levels, the proposed methodology facilitates testing resource allocation among different communities to collect high-quality testing data for quick detection of disease outbreaks. The collected high-quality testing data further enable quick and robust detection of pandemic outbreak. As the testing outcomes for different block groups are heterogeneous and correlated, a nonparametric method is further proposed by incorporating spatial rank-based statistics with effective data augmentation techniques that can analytically inform the monitoring and sampling of COVID-19 positive cases based on current sampled data. By exploiting historical data, the team demonstrated that the proposed method preserves strong descriptive power of and can explicitly utilize the correlation among data streams, and thus allows effective monitoring and equitable sampling over general heterogeneous block groups.</p> <p class="Default">Through collaboration with LifeSouth Community Blood Center, we have been involved in collecting COVID-19 antibody testing data based on the developed algorithms for Alachua and neighboring counties in May 2020 to June 2021. The collected data are processed, cleaned, and geocoded for analysis. State viral testing data was obtained from the Florida Department of Health through June 2020 for zip code level positive and negative results. Thorough analyses were conducted on the collected antibody and viral testing data on the reported positive cases, hospitalization, and death cases. The case profiles were studied and compared spatially over various geographic units, temporally over time, and also over critical demographic factors especially on age. These analysis results helped to identify disparities of COVID-19 consequences and key factors for the PIs to build finer models and develop enhanced sampling algorithms. The aggregated viral and antibody testing data have been shared on PI?s lab website, and also disseminated with the journal publications.</p> <p class="Default">The project generated new knowledge about pandemic evaluation and response resulting in five journal manuscripts in industrial engineering, data science, and public health areas, and evidenced by best track paper award at key industrial engineering conference. The research was disseminated by 13 presentations in NSF PREPARE RAPID PI Meeting, academic conferences, and regional and on-campus seminars. Through interactions and collaborations with Florida healthcare agency and local blood center, the proposed activities have fostered academic and industry collaborations with key healthcare and public health practitioners. The research outcomes and findings have contributed to educational materials for two courses at the University of Florida to facilitate student training.</p><br> <p>            Last Modified: 09/27/2022<br>      Modified by: Xiaochen&nbsp;Xian</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ As resources to conduct mass testing for COVID-19 will be limited during ?reopening? of communities across the nation, an urgent need exists for an objective and data-driven framework to guide random testing to elucidate patterns of virus transmission in vulnerable communities, particularly in the large number of cases where people do not present symptoms. The project objective is to develop a data-driven strategic framework to optimize mass testing resources and collect community testing data by adaptively sampling within census block groups based on characteristics of the block groups, daily testing capacity and outcomes, and mobility patterns in the block group. Based on the proposed sampling algorithm, the research team conducted COVID-19 testing data collection and analysis through collaboration with LifeSouth Blood bank and Florida Department of Health. While it is critical to develop effective data science methods to quickly detect disease outbreaks, in practice, limited testing availability that restricts accessibility to sufficient testing data has become a global challenge especially at the early stage of a novel infectious disease such as COVID-19. To tackle the challenge, the team proposes adaptive testing resource allocation strategies to dynamically allocate limited testing resources among different communities, on top of a physics-informed model with account for transmission dynamics and health disparity embedded in infectious diseases for effective health risk assessment despite limited data. By integrating nonstationary Multi-Armed Bandit (MAB) techniques which strike superior balance between exploration on the communities with high uncertainties of health risks and exploitation on those with high risk levels, the proposed methodology facilitates testing resource allocation among different communities to collect high-quality testing data for quick detection of disease outbreaks. The collected high-quality testing data further enable quick and robust detection of pandemic outbreak. As the testing outcomes for different block groups are heterogeneous and correlated, a nonparametric method is further proposed by incorporating spatial rank-based statistics with effective data augmentation techniques that can analytically inform the monitoring and sampling of COVID-19 positive cases based on current sampled data. By exploiting historical data, the team demonstrated that the proposed method preserves strong descriptive power of and can explicitly utilize the correlation among data streams, and thus allows effective monitoring and equitable sampling over general heterogeneous block groups. Through collaboration with LifeSouth Community Blood Center, we have been involved in collecting COVID-19 antibody testing data based on the developed algorithms for Alachua and neighboring counties in May 2020 to June 2021. The collected data are processed, cleaned, and geocoded for analysis. State viral testing data was obtained from the Florida Department of Health through June 2020 for zip code level positive and negative results. Thorough analyses were conducted on the collected antibody and viral testing data on the reported positive cases, hospitalization, and death cases. The case profiles were studied and compared spatially over various geographic units, temporally over time, and also over critical demographic factors especially on age. These analysis results helped to identify disparities of COVID-19 consequences and key factors for the PIs to build finer models and develop enhanced sampling algorithms. The aggregated viral and antibody testing data have been shared on PI?s lab website, and also disseminated with the journal publications. The project generated new knowledge about pandemic evaluation and response resulting in five journal manuscripts in industrial engineering, data science, and public health areas, and evidenced by best track paper award at key industrial engineering conference. The research was disseminated by 13 presentations in NSF PREPARE RAPID PI Meeting, academic conferences, and regional and on-campus seminars. Through interactions and collaborations with Florida healthcare agency and local blood center, the proposed activities have fostered academic and industry collaborations with key healthcare and public health practitioners. The research outcomes and findings have contributed to educational materials for two courses at the University of Florida to facilitate student training.       Last Modified: 09/27/2022       Submitted by: Xiaochen Xian]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

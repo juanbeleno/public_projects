@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Using Game Design Mechanics as Metaphors to Enhance Learning of Introductory Programming Concepts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>71231.00</AwardTotalIntnAmount>
+<AwardAmount>103231</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chia Shen</SignBlockName>
+<PO_EMAI>cshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032928447</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project tackles the urgent needs of the nation to engage people of all ages in computational thinking and help them learn basic computer science concepts with a unique and innovative approach of structured in-game computer program coding. Researchers will explore the design and development of a 3D puzzle-based game, called May's Journey, in which players solve an environmental maze by using the game's pseudo code to manipulate game objects. The game is designed to teach introductory but foundational concepts of computer programming including abstraction, modularity, reusability, and debugging by focusing players on logic and concepts while asking them to type simple instructions in a simplified programming language designed for novices. The game design in this project differs from today's block-based programming learning approaches that are often too far from actual computer code, and also differs from professional programming languages which are too complex for novices. The game and its embedded programming language learning are designed to be responsive to the progress of the learner throughout the game, transitioning from pseudo code to the embedded programming language itself. Error messages for debugging are also designed to be adaptive to players' behavior in the game. Using extensive log data collected from people playing the game, researchers can study how people learn computer programming. Such knowledge can advance understanding of the learning processes in computer programming education. Additionally, this work emphasizes the use of games as informal learning environments as they are accessible and fun, drawing attention and retention of many learners of different age groups with the potential to change attitudes towards computer programming across different populations. This project is co-funded by the STEM + Computing (STEM+C) program that supports research and development to understand the integration of computing and computational thinking in STEM learning, and the Advancing Informal STEM Learning (AISL) program that funds innovative research, approaches and resources for use in a variety of settings with its overall strategy to enhance learning in informal environments.&lt;br/&gt;&lt;br/&gt;The project's formative and summative evaluation methods, including surveys, expert reviews of learners' computer code developed in the game, and interviews, are used to gauge learners' engagement as well as learning. In exploring learning, researchers aim to understand how players build implicit computer science knowledge through gameplay and how that gameplay relates to their performance on external transfer tasks. The project will answer the following three research questions: (1) Can observers reliably detect and label patterns of gameplay that provide evidence of learning or misconceptions regarding the four computer science constructs - abstraction, modularity, debugging and semantics - that learners exhibit playing May's Journey? (2) How does learner's implicit knowledge of these computer science constructs change over time and do those patterns vary by gender and prior programming experiences? (3) Is there a strong correlation between implicit learning measures and transfer of CS concepts: modularity, debugging, semantics, and abstraction? How do these correlations vary across elements of the game? This work will result in several outcomes: game design metaphors tested for their learning and engagement value that can be abstracted and embedded in different games. This project will also contribute patterns and an understanding of how people learn and engage in problem solving using concepts of abstraction, modularity, debugging and semantics. These outcomes will lead to advancement in knowledge in the learning sciences as well as the design of educational games that enrich STEM learning, particularly in programming and computational thinking. In addition, this project will engage female participants and underserved populations through partnering organizations including National Girls Collaborative project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2055436</AwardID>
+<Investigator>
+<FirstName>Magy</FirstName>
+<LastName>Seif ElNasr</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Magy Seif ElNasr</PI_FULL_NAME>
+<EmailAddress><![CDATA[mseifeln@ucsc.edu]]></EmailAddress>
+<NSF_ID>000600301</NSF_ID>
+<StartDate>10/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>SANTA CRUZ</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 HIGH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VXUFPE4MCZH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA SANTA CRUZ</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Cruz]]></Name>
+<CityName>Santa Cruz</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950641077</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7259</Code>
+<Text>AISL</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0418</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0419</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04001819DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04001920DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~71231</FUND_OBLG>
+<FUND_OBLG>2019~32000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-8d210a3b-7fff-1400-3e6f-a746f81d7bbd"> <p dir="ltr"><span>This project aims to address the urgent need for STEM and computational thinking education for people of all ages. It focuses on developing an informal learning environment, called May&rsquo;s Journey, developed as a 3D puzzle-based game where users help characters in the game, who seek their help because the code of their environment is slowly breaking and needs fixing. Users then engage in an unfolding narrative where they navigate various levels developing code that fixes aspects of the game environment. Through this experience users learn introductory foundational concepts of computer science, including abstraction, modularity, reusability, and debugging.&nbsp;</span></p> <br /> <p dir="ltr"><span>During the past few years, this project, co-funded by STEM + Computing (STEM+C) and Advanced Informal STEM Learning (AISL), resulted in several contributions. First, the project resulted in a fully developed May&rsquo;s Journey game that is currently available online. This game has been showcased in several venues, including academic conferences, such as Foundations of Digital Game (FDG) and SIGCSE (Computer Science Education), Game Festivals, popular among many game enthusiasts, such as PaxEast and Boston Indie Game conference, as well as several Girls who Code meetings in Dorchester Massachusetts as well as San Jose. We heard many positive feedback and remarks from novice programmers who played the game in these venues seeing it as a positive and effective way to teach programming. We also established connections with three middle schools: </span><span>Dover-Sherborn middle school, Brookline Public School, and Stone Ridge School of the Sacred Heart,</span><span> where we worked with teachers to introduce May's Journey to their students who can play it at their leisure at home.&nbsp;</span></p> <br /> <p dir="ltr"><span>In addition to developing May's Journey, we also ran several studies using the game to understand how participants learned programming through such learning environment. We investigated what game elements engaged participants or positively impacted their learning experience. In particular, our first study investigated the use of narrative as an engagement technique and the value it brings to learning. The second study investigated problem solving patterns that students take as they struggle and learn through the platform. Through these studies, we developed a new methodological technique to investigate and visualize problem solving, or debugging, patterns which was published as a contribution that can be generalized to other platforms.&nbsp;</span></p> </span></p> <p><span>Through the project, we published 6 research papers presented at: Foundations of Digital Games, </span><span>ACM Technical Symposium on Computer Science Education (SIGCSE &rsquo;20). We are also in the process of submitting one more publication to the International Journal of Game-based Learning on the methodological contribution. We further presented the work at various venues and panels, including Serious Games Panel and ED games Expo.</span></p> <p>In conclusion, this project resulted in a 3D game that teaches programming to non-programmers using similar code structure to Java or other programming environments and thus should make it easy for students to transfer their learning to programming environments used by many programmers. This game is freely available online to all interested students. Further, the project resulted in several contributions to the scientific community that will have broader impacts in terms of what we know about how people learn programming as well as methodologies to allow us to investigate this process further.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/18/2021<br>      Modified by: Magy&nbsp;Seif El-Nasr</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project aims to address the urgent need for STEM and computational thinking education for people of all ages. It focuses on developing an informal learning environment, called May’s Journey, developed as a 3D puzzle-based game where users help characters in the game, who seek their help because the code of their environment is slowly breaking and needs fixing. Users then engage in an unfolding narrative where they navigate various levels developing code that fixes aspects of the game environment. Through this experience users learn introductory foundational concepts of computer science, including abstraction, modularity, reusability, and debugging.    During the past few years, this project, co-funded by STEM + Computing (STEM+C) and Advanced Informal STEM Learning (AISL), resulted in several contributions. First, the project resulted in a fully developed May’s Journey game that is currently available online. This game has been showcased in several venues, including academic conferences, such as Foundations of Digital Game (FDG) and SIGCSE (Computer Science Education), Game Festivals, popular among many game enthusiasts, such as PaxEast and Boston Indie Game conference, as well as several Girls who Code meetings in Dorchester Massachusetts as well as San Jose. We heard many positive feedback and remarks from novice programmers who played the game in these venues seeing it as a positive and effective way to teach programming. We also established connections with three middle schools: Dover-Sherborn middle school, Brookline Public School, and Stone Ridge School of the Sacred Heart, where we worked with teachers to introduce May's Journey to their students who can play it at their leisure at home.    In addition to developing May's Journey, we also ran several studies using the game to understand how participants learned programming through such learning environment. We investigated what game elements engaged participants or positively impacted their learning experience. In particular, our first study investigated the use of narrative as an engagement technique and the value it brings to learning. The second study investigated problem solving patterns that students take as they struggle and learn through the platform. Through these studies, we developed a new methodological technique to investigate and visualize problem solving, or debugging, patterns which was published as a contribution that can be generalized to other platforms.    Through the project, we published 6 research papers presented at: Foundations of Digital Games, ACM Technical Symposium on Computer Science Education (SIGCSE ’20). We are also in the process of submitting one more publication to the International Journal of Game-based Learning on the methodological contribution. We further presented the work at various venues and panels, including Serious Games Panel and ED games Expo.  In conclusion, this project resulted in a 3D game that teaches programming to non-programmers using similar code structure to Java or other programming environments and thus should make it easy for students to transfer their learning to programming environments used by many programmers. This game is freely available online to all interested students. Further, the project resulted in several contributions to the scientific community that will have broader impacts in terms of what we know about how people learn programming as well as methodologies to allow us to investigate this process further.           Last Modified: 10/18/2021       Submitted by: Magy Seif El-Nasr]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

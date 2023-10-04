@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: A Deeply Integrated Physics-Based and Data-Driven Approach for Effective Resilience Management of the Power Grid]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>249638.00</AwardTotalIntnAmount>
+<AwardAmount>257638</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siqian Shen</SignBlockName>
+<PO_EMAI>siqshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927048</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This grant will develop a novel, deeply integrated physics-based data-driven approach to assess and enhance the resilience of power transmission systems impacted by climatic extremes. The US electricity infrastructure is increasingly prone to climatic risks that cause wide-spread and sustained outages, costing billions of dollars annually. While natural hazard-induced failures in the transmission grid lead to large-scale and costly impacts, the existing transmission expansion planning models largely neglect resilience consideration of the network facing natural hazards. The purely data-driven approaches prevalent in resilience analytics of power distribution systems, however, are not applicable to transmission systems due to relative scarcity of data. A unilateral reliance on physics-based models is not feasible either due to their extreme computational costs, limiting their ability to scale up to the network level. This NSF grant seeks to address this fundamental gap via deep integration of physics-based and data driven methods. The outcome of this research is expected to help key decision-makers for the transmission infrastructure to characterize resilience under various uncertain future scenarios and identify optimal adaptation or mitigation strategies. The research program is complemented with educating the next generation of scholars in modeling hazards and infrastructure resilience through an interdisciplinary, research-integrated educational program, a strong commitment to increased diversity in student training and broad dissemination of the results.&lt;br/&gt;&lt;br/&gt;The research approach is grounded in the latest developments in big data analytics as well as physics-based analysis of structural failures. The physics-guided, data-centric and multiscale framework allows for scalable assessment of network resilience and identification of optimal investment decisions under climate uncertainty. Using the state-of-the-art machine learning and computer vision, the project will generate new publicly accessible data on transmission network topology as well as hazards’ impacts to facilitate further research in transmission resilience planning within the scientific community. Novel limit state functions for failure quantification of transmission networks will be established and a scalable approach to uncertainty quantification of structural systems will be developed. The multiscale approach to modeling uncertain processes will effectively fuse data on transmission systems with computational models of the infrastructure. The developed methodologies and data will shed new lights on the vulnerability of the transmission system under future hazard scenarios, and enable assessing the impact of investment decisions on transmission system resilience.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2000156</AwardID>
+<Investigator>
+<FirstName>Abdollah</FirstName>
+<LastName>Shafieezadeh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Abdollah Shafieezadeh</PI_FULL_NAME>
+<EmailAddress><![CDATA[shafieezadeh.1@osu.edu]]></EmailAddress>
+<NSF_ID>000616835</NSF_ID>
+<StartDate>07/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>1960 KENNY RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Ohio State University]]></Name>
+<CityName>Columbus</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1631</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~249638</FUND_OBLG>
+<FUND_OBLG>2023~8000</FUND_OBLG>
+</Award>
+</rootTag>

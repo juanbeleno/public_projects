@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SI2-SSI: Expanding Volunteer Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/17/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>203817.00</AwardTotalIntnAmount>
+<AwardAmount>203817</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Seung-Jong Park</SignBlockName>
+<PO_EMAI>spark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924383</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Volunteer computing (VC) uses donated computing time consumer devices such as home computers and smartphones to do scientific computing. It has been shown that VC can provide greater computing power, at lower cost, than conventional approaches such as organizational computing centers and commercial clouds. BOINC is the most common software framework for VC. Essentially, donors of computing time simply have to load BOINC on their computer or smartphone, and then register to donate at the BOINC web site. VC provides "high throughput computing": handling lots of independent jobs, with performance goals based on the rate of job completion rather than completion time for individual jobs. This type of computing (all known as high-throughput computing) is in great demand in most areas of science. Until now, the adoption of VC has been limited by its structure. For example, VC projects (such as Einstein@home and Rosetta@home) are operated by individual research groups, and volunteers must browse and choose from among many such projects. As a result, there are relatively few VC projects, and volunteers are mostly tech-savvy computer enthusiasts.  This project aims to solve these problems using two complementary development efforts: First, it will add BOINC-based VC conduits to two major high-performance computing providers: (a) the Texas Advanced Computing Center, a supercomputer center, and (b) nanoHUB, a web portal for nano science that provides computing capabilities.Also, a unified control interface to VC will be developed, tentatively called Science United, where donors can register.  The project  will benefit thousands of scientists who use these facilities, and it will create technology that makes it easy for other HPC providers to add their own VC back ends. Also, Science United will provide a simpler interface to BOINC volunteers where they will register to support scientific areas, rather than specific projects. Science United will also serve as an allocator of computing power among projects. Thus, new projects will no longer have to do their own marketing and publicity to recruit volunteers. Finally, the creation of a single VC "brand" (i.e Science United) will allow coherent marketing of VC to the public. By creating a huge pool of low-cost computing power that will benefit thousands of scientists, and increasing public awareness of and interest in science, the project plans to establish VC as a central and long-term part of the U.S. scientific cyber infrastructure.&lt;br/&gt;&lt;br/&gt;Adding VC to an existing HPC facility involves several technical issues, which will be addressed as follows: (1) Packaging science applications (which typically run on Linux cluster nodes) to run on home computers (mostly Windows, some Mac and Linux): the team is developing an approach using VirtualBox and Docker, in which the application and its environment (Linux distribution, libraries, executables) are represented as a set of layers comprising a Docker image, which is then run as a container within a Linux virtual machine on the volunteer device. This has numerous advantages: it reduces the work of packaging applications to near zero; it minimizes network traffic because a given Docker layer is downloaded to a host only once; and it provides a strong security sandbox so that volunteer computers are protected from buggy or malicious applications, (2) File management: Input and output files must be moved between existing private servers and public-facing servers that are accessible to the outside Internet. A file management system will be developed, based on Web RPCs, for this purpose. This system will use content-based naming so that a given file is transferred and stored only once. It also maintains job/file associations so that files can be automatically deleted from the public server when they are no longer needed. (3) Submitting and monitoring jobs:  BOINC provides a web interface for efficiently submitting and monitoring large batches of jobs. These were originally developed as part of a system to migrate HTCondor jobs to BOINC. This project is extending it to support the additional requirements of TACC and nanoHUB. Note that these new capabilities are not specific to TACC or nanoHUB: they provide the glue needed to easily add BOINC-based VC to any existing HTC facility. The team is also developing RPC bindings in several languages (Python, C++, PHP). The other component of the project, Science United, is a database-driven web site and an associated web service for the BOINC clients. Science United will control volunteer hosts (i.e. tell them which projects to work for) using BOINC's "Account Manager" mechanism, in which the BOINC client on each host periodically contacts Science United and is told what projects to run. Project servers, not Science United, will distribute jobs and files. Science United will define a set of "keywords" for science areas (physics, biomedicine, environment, etc.) and for location (country, institution). Projects will be labelled with appropriate keywords. Volunteers will have a yes/no/maybe interface for specifying the types of jobs they want to run. Science United will thus provide a mechanism in which a fraction of total computing capacity can be allocated to a project for a given period. Because total capacity changes slowly over time, this allows near-certain guaranteed allocations. Science United will embody a scheduling system that attempts to enforce allocations, honor volunteer preferences, and maximize throughput. Finally, Science United will do detailed accounting of computing. Volunteer hosts will tell Science United how much work (measured by CPU time and FLOPs, GPU time and FLOPs, and number of jobs) they have done for each project. Science United will maintain historical records of this data for volunteers and projects, and current totals with finer granularity (e.g. for each host/project combination). Finally, Science United will provide web interfaces letting volunteers see their contribution status and history, and letting administrators add projects, control allocations, and view accounting data.]]></AbstractNarration>
+<MinAmdLetterDate>06/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039142</AwardID>
+<Investigator>
+<FirstName>Ritu</FirstName>
+<LastName>Ritu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ritu Ritu</PI_FULL_NAME>
+<EmailAddress><![CDATA[ritu@wayne.edu]]></EmailAddress>
+<NSF_ID>000623455</NSF_ID>
+<StartDate>06/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at San Antonio</Name>
+<CityName>SAN ANTONIO</CityName>
+<ZipCode>782491644</ZipCode>
+<PhoneNumber>2104584340</PhoneNumber>
+<StreetAddress>1 UTSA CIRCLE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U44ZMVYU52U6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT SAN ANTONIO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas at San Antonio]]></Name>
+<CityName>San Antonio</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>782491644</ZipCode>
+<StreetAddress><![CDATA[One UTSA Circle]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8009</Code>
+<Text>Scientifc Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~203816</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The main goal of this project was to develop the software infrastructure for routing high-throughput computing jobs from the supercomputing systems to the volunteered resources, and develop the community around it.&nbsp;It has resulted in the following deliverables, some of which are accessible from the project's GitHub repository (<a href="https://github.com/ritua2/BOINCatTACC">https://github.com/ritua2/BOINCatTACC</a>):&nbsp;</p> <ol> <li>BOINC@TACC portal:&nbsp;<a href="https://boinc.tacc.utexas.edu/index.php">https://boinc.tacc.utexas.edu/index.php</a><ol> <li>Volunteers can use the portal to sign up for the project, connect their devices, post messages, form teams, manage their account, etc.</li> <li>Researchers can sign into this portal using their TACC portal credentials to submit jobs on the volunteered devices connected to BOINC@TACC, monitor job history, access the user-guide, and generate docker images from source code</li> </ol></li> <li>BOINC@TACC middleware:<ol> <li>Software infrastructure for connecting the BOINC volunteer computing server with the supercomputing and cloud computing infrastructure</li> <li>Decision Support System for selecting the best available resource - supercomputers, cloud computing platforms, and BOINC clients - for scheduling and running the jobs submitted from the Stampede2 and Lonestar5 supercomputers at TACC</li> </ol></li> <li>Greyfish<ol> <li>A containerized, cloud-based, filesystem that can be set up for managing user accounts and data on any platform that supports Docker</li> <li>Distributed and non-distributed versions were implemented&nbsp;</li> </ol></li> <li>Midas: A semi-automated system for building Docker images from source code</li> <li>Docker images of commonly used applications were built and are maintained by the project team: Autodock-vina, Bedtools, NAMD, LAMPS, GROMACS, OpenSees, Blast, Bowtie, HTseq, OpenFOAM</li> <li>User-guide: Instruction manual for using BOINC@TACC for running jobs from the command-line and web-portal</li> <li>Publications<ol> <li>Peer-reviewed<ol> <li>Arora R., Redondo C., Joshua G. (2019) Scalable Software Infrastructure for Integrating Supercomputing with Volunteer Computing and Cloud Computing. In: Majumdar A., Arora R. (eds) Software Challenges to Exascale Computing. SCEC 2018. Communications in Computer and Information Science, vol 964. Springer, Singapore.&nbsp;<a href="https://doi.org/10.1007/978-981-13-7729-7_">https://doi.org/10.1007/978-981-13-7729-7_</a></li> <li>Carlos Redondo and Ritu Arora. 2019. Greyfish: An Out-of-the-Box, Reusable, Portable Cloud Storage Service. In Proceedings of the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning) (PEARC '19). Association for Computing Machinery, New York, NY, USA, Article 13, 1&ndash;6. DOI:https://doi.org/10.1145/3332186.3333055</li> </ol></li> <li>Media:<ol> <li><a href="https://research.utexas.edu/showcase/articles/view/for-the-love-of-science">https://research.utexas.edu/showcase/articles/view/for-the-love-of-science</a></li> <li><a href="https://phys.org/news/2018-04-tacc-seamless-software-scientific.html">https://phys.org/news/2018-04-tacc-seamless-software-scientific.html</a></li> <li><a href="https://www.utep.edu/newsfeed/campus/utep-school-of-pharmacy-developing-covid-19-vaccine,-drug-treatments-using-supercomputing.html">https://www.utep.edu/newsfeed/campus/utep-school-of-pharmacy-developing-covid-19-vaccine,-drug-treatments-using-supercomputing.html</a></li> </ol></li> </ol></li> <li>Trainings, Presentations, and Community Development:<ol> <li>Multiple presentations and trainings were conducted to build the community of researchers who could leverage BOINC@TACC, for example:&nbsp;<a href="https://portal.tacc.utexas.edu/user-news/-/news/103215">https://portal.tacc.utexas.edu/user-news/-/news/103215</a></li> <li>COVID-19 Drug Discovery Consortium:&nbsp;<a href="https://github.com/sirimullalab/COVID19DDC">https://github.com/sirimullalab/COVID19DDC</a></li> <li>CSSI/SI2 PI Meeting:&nbsp;<a href="https://figshare.com/articles/poster/Poster_-_IPT_and_BOINC_TACC/11803227">https://figshare.com/articles/poster/Poster_-_IPT_and_BOINC_TACC/11803227</a></li> <li>XSEDE ECSS Symposium:&nbsp;<a href="https://www.xsede.org/documents/10165/2059190/Arora_ECSS_talk_2019.pdf/a232a342-7e62-4af8-bf08-5524db25cad0">https://www.xsede.org/documents/10165/2059190/Arora_ECSS_talk_2019.pdf/a232a342-7e62-4af8-bf08-5524db25cad0</a></li> <li>2021 BOINC Workshop presentations:<ol> <li>Overview and using BOINC@TACC for COVID-19 research:&nbsp;<a href="https://www.youtube.com/watch?v=O2668r23JF4">https://www.youtube.com/watch?v=O2668r23JF4</a></li> <li>Overview of Distributed Greyfish:&nbsp;<a href="https://www.youtube.com/watch?v=q1AsKqnddDk">https://www.youtube.com/watch?v=q1AsKqnddDk</a></li> </ol></li> </ol></li> </ol><br> <p>            Last Modified: 08/29/2021<br>      Modified by: Ritu&nbsp;Ritu</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The main goal of this project was to develop the software infrastructure for routing high-throughput computing jobs from the supercomputing systems to the volunteered resources, and develop the community around it. It has resulted in the following deliverables, some of which are accessible from the project's GitHub repository (https://github.com/ritua2/BOINCatTACC):   BOINC@TACC portal: https://boinc.tacc.utexas.edu/index.php Volunteers can use the portal to sign up for the project, connect their devices, post messages, form teams, manage their account, etc. Researchers can sign into this portal using their TACC portal credentials to submit jobs on the volunteered devices connected to BOINC@TACC, monitor job history, access the user-guide, and generate docker images from source code  BOINC@TACC middleware: Software infrastructure for connecting the BOINC volunteer computing server with the supercomputing and cloud computing infrastructure Decision Support System for selecting the best available resource - supercomputers, cloud computing platforms, and BOINC clients - for scheduling and running the jobs submitted from the Stampede2 and Lonestar5 supercomputers at TACC  Greyfish A containerized, cloud-based, filesystem that can be set up for managing user accounts and data on any platform that supports Docker Distributed and non-distributed versions were implemented   Midas: A semi-automated system for building Docker images from source code Docker images of commonly used applications were built and are maintained by the project team: Autodock-vina, Bedtools, NAMD, LAMPS, GROMACS, OpenSees, Blast, Bowtie, HTseq, OpenFOAM User-guide: Instruction manual for using BOINC@TACC for running jobs from the command-line and web-portal Publications Peer-reviewed Arora R., Redondo C., Joshua G. (2019) Scalable Software Infrastructure for Integrating Supercomputing with Volunteer Computing and Cloud Computing. In: Majumdar A., Arora R. (eds) Software Challenges to Exascale Computing. SCEC 2018. Communications in Computer and Information Science, vol 964. Springer, Singapore. https://doi.org/10.1007/978-981-13-7729-7_ Carlos Redondo and Ritu Arora. 2019. Greyfish: An Out-of-the-Box, Reusable, Portable Cloud Storage Service. In Proceedings of the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning) (PEARC '19). Association for Computing Machinery, New York, NY, USA, Article 13, 1&ndash;6. DOI:https://doi.org/10.1145/3332186.3333055  Media: https://research.utexas.edu/showcase/articles/view/for-the-love-of-science https://phys.org/news/2018-04-tacc-seamless-software-scientific.html https://www.utep.edu/newsfeed/campus/utep-school-of-pharmacy-developing-covid-19-vaccine,-drug-treatments-using-supercomputing.html   Trainings, Presentations, and Community Development: Multiple presentations and trainings were conducted to build the community of researchers who could leverage BOINC@TACC, for example: https://portal.tacc.utexas.edu/user-news/-/news/103215 COVID-19 Drug Discovery Consortium: https://github.com/sirimullalab/COVID19DDC CSSI/SI2 PI Meeting: https://figshare.com/articles/poster/Poster_-_IPT_and_BOINC_TACC/11803227 XSEDE ECSS Symposium: https://www.xsede.org/documents/10165/2059190/Arora_ECSS_talk_2019.pdf/a232a342-7e62-4af8-bf08-5524db25cad0 2021 BOINC Workshop presentations: Overview and using BOINC@TACC for COVID-19 research: https://www.youtube.com/watch?v=O2668r23JF4 Overview of Distributed Greyfish: https://www.youtube.com/watch?v=q1AsKqnddDk          Last Modified: 08/29/2021       Submitted by: Ritu Ritu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

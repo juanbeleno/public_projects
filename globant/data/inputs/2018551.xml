@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC* Compute: SIUE Campus Cluster]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>395580.00</AwardTotalIntnAmount>
+<AwardAmount>395580</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+<PO_EMAI>kthompso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924220</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The goal of this project is to enhance high performance computing resources at Southern Illinois University Edwardsville to support a variety of research and education activities.  Specifically, current campus facilities do not provide sufficient GPU or storage resources needed to enable work with large data sets.  Additionally, SIUE campus IT staff participation increases experience supporting cyberinfrastructure resources to better support faculty, students, and collaborators.&lt;br/&gt;&lt;br/&gt;This hardware directly supports ongoing projects and teaching activities which include: the use of machine learning models to predict complex phenotypic traits, development of high order accurate numerical methods for problems governed by hyperbolic partial differential equations, understanding the mechanism behind the quantum phenomenon in chemical reactions, drug interactions, and cybersecurity.  Additional activities include faculty outreach in incorporation of high-performance computing into classroom exercises and curriculum.&lt;br/&gt;&lt;br/&gt;Commitment to sharing this computing environment through the Open Science Grid (OSG) and other collaborative efforts increases awareness and adoption of other shared resources by the SIUE community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018551</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Chace</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Chace</PI_FULL_NAME>
+<EmailAddress><![CDATA[dchace@siue.edu]]></EmailAddress>
+<NSF_ID>000693716</NSF_ID>
+<StartDate>06/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carolyn</FirstName>
+<LastName>Butts-Wilmsmeyer</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carolyn J Butts-Wilmsmeyer</PI_FULL_NAME>
+<EmailAddress><![CDATA[cbuttsw@siue.edu]]></EmailAddress>
+<NSF_ID>000817528</NSF_ID>
+<StartDate>06/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Southern Illinois University at Edwardsville</Name>
+<CityName>EDWARDSVILLE</CityName>
+<ZipCode>620260001</ZipCode>
+<PhoneNumber>6186503010</PhoneNumber>
+<StreetAddress>#5 HAIRPIN DRIVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HQ5NMP5HLL53</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF TRUSTEES OF SOUTHERN ILLINOIS UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southern Illinois University at Edwardsville]]></Name>
+<CityName>Edwardsville</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>620250001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~395580</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="OutlineElement Ltr SCXW70572168 BCX8"> <p class="Paragraph SCXW70572168 BCX8" lang="EN-US" xml:lang="EN-US"><span class="TextRun SCXW70572168 BCX8" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun CommentStart CommentHighlightPipeRest CommentHighlightRest SCXW70572168 BCX8">This project allowed</span><span class="NormalTextRun CommentHighlightPipeRest SCXW70572168 BCX8"> </span></span><span class="TextRun SCXW70572168 BCX8" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW70572168 BCX8">Southern Illinois University Edwardsville (SIUE) to add a high-performance </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW70572168 BCX8">compute</span><span class="NormalTextRun SCXW70572168 BCX8"> cluster consisting of CPU, GPU, and storage resources, to support research and education activity. </span><span class="NormalTextRun SCXW70572168 BCX8">Integration into the Open Science Grid (OSG) fulfilled the program requirement to share this resource beyond the SIUE community. </span></span><span class="EOP SCXW70572168 BCX8">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW70572168 BCX8"> <p class="Paragraph SCXW70572168 BCX8" lang="EN-US" xml:lang="EN-US"><span class="TextRun SCXW70572168 BCX8" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW70572168 BCX8">Following consultation with faculty and potential vendors, SIUE purchased 10 CPU-focused servers, 4 GPU-focused servers, 4 distributed storage servers, and 100 gigabit network </span><span class="NormalTextRun SCXW70572168 BCX8">switches to complete the cluster and integrate it with existing networked systems. The cluster was made available to the entire SIUE community</span><span class="NormalTextRun SCXW70572168 BCX8">. </span><span class="NormalTextRun SCXW70572168 BCX8">A series of workshops and traini</span><span class="NormalTextRun SCXW70572168 BCX8">ng sessions were held to learn about use cases and train users on how to access and </span><span class="NormalTextRun SCXW70572168 BCX8">use </span><span class="NormalTextRun SCXW70572168 BCX8">the cluster</span><span class="NormalTextRun SCXW70572168 BCX8">. </span><span class="NormalTextRun SCXW70572168 BCX8">Two focus groups were scheduled to learn more about the needs of faculty in different disciplines. </span><span class="NormalTextRun SCXW70572168 BCX8">The workshops were instrumental in </span><span class="NormalTextRun SCXW70572168 BCX8">identifying</span><span class="NormalTextRun SCXW70572168 BCX8"> the needs of faculty, and workshops were devised around those needs. Workshops were recorded to </span><span class="NormalTextRun SCXW70572168 BCX8">provide</span><span class="NormalTextRun SCXW70572168 BCX8"> long-term tools to the campus community. These </span><span class="NormalTextRun SCXW70572168 BCX8">recording</span><span class="NormalTextRun SCXW70572168 BCX8">s cover topics including </span><span class="NormalTextRun SCXW70572168 BCX8">how to log onto the campus cluster, how to request resources, and common pitfalls </span><span class="NormalTextRun SCXW70572168 BCX8">encountered</span><span class="NormalTextRun SCXW70572168 BCX8"> when setting up jobs and projects. &nbsp;These resources can be updated over time to continuously support the use of the SIUE Campus Cluster.</span></span>&nbsp;</p> </div> <div class="OutlineElement Ltr SCXW70572168 BCX8"> <p class="Paragraph SCXW70572168 BCX8" lang="EN-US" xml:lang="EN-US"><span class="TextRun SCXW70572168 BCX8" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW70572168 BCX8">The SIUE Campus Cluster was added to the Open Science Grid (OSG) Open Science pool. When not being used by SIUE faculty, students, and staff, </span><span class="NormalTextRun SCXW70572168 BCX8">jobs from the OSG are automatically queued and run</span><span class="NormalTextRun SCXW70572168 BCX8">, minimizing idle computing equipment</span><span class="NormalTextRun SCXW70572168 BCX8">. </span><span class="NormalTextRun SCXW70572168 BCX8">During the course of</span><span class="NormalTextRun SCXW70572168 BCX8"> the project, </span><span class="NormalTextRun SCXW70572168 BCX8">additional</span><span class="NormalTextRun SCXW70572168 BCX8"> SIUE funded </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW70572168 BCX8">compute</span><span class="NormalTextRun SCXW70572168 BCX8"> resources were successfully added to the cluster. </span></span><span class="EOP SCXW70572168 BCX8">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW70572168 BCX8"> <p class="Paragraph SCXW70572168 BCX8" lang="EN-US" xml:lang="EN-US"><span class="TextRun SCXW70572168 BCX8" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW70572168 BCX8">SIUE faculty and students </span><span class="NormalTextRun SCXW70572168 BCX8">successfully</span><span class="NormalTextRun SCXW70572168 BCX8"> used the </span><span class="NormalTextRun SCXW70572168 BCX8">Campus Cluster to enable their work in the fields of Physics, Pharmaceutical Sciences, </span><span class="NormalTextRun SCXW70572168 BCX8">Math, and Engineering.</span><span class="NormalTextRun SCXW70572168 BCX8"> </span></span><span class="EOP SCXW70572168 BCX8">&nbsp;</span></p> </div><br> <p>            Last Modified: 04/28/2023<br>      Modified by: Daniel&nbsp;Chace</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project allowed Southern Illinois University Edwardsville (SIUE) to add a high-performance compute cluster consisting of CPU, GPU, and storage resources, to support research and education activity. Integration into the Open Science Grid (OSG) fulfilled the program requirement to share this resource beyond the SIUE community.     Following consultation with faculty and potential vendors, SIUE purchased 10 CPU-focused servers, 4 GPU-focused servers, 4 distributed storage servers, and 100 gigabit network switches to complete the cluster and integrate it with existing networked systems. The cluster was made available to the entire SIUE community. A series of workshops and training sessions were held to learn about use cases and train users on how to access and use the cluster. Two focus groups were scheduled to learn more about the needs of faculty in different disciplines. The workshops were instrumental in identifying the needs of faculty, and workshops were devised around those needs. Workshops were recorded to provide long-term tools to the campus community. These recordings cover topics including how to log onto the campus cluster, how to request resources, and common pitfalls encountered when setting up jobs and projects.  These resources can be updated over time to continuously support the use of the SIUE Campus Cluster.    The SIUE Campus Cluster was added to the Open Science Grid (OSG) Open Science pool. When not being used by SIUE faculty, students, and staff, jobs from the OSG are automatically queued and run, minimizing idle computing equipment. During the course of the project, additional SIUE funded compute resources were successfully added to the cluster.     SIUE faculty and students successfully used the Campus Cluster to enable their work in the fields of Physics, Pharmaceutical Sciences, Math, and Engineering.          Last Modified: 04/28/2023       Submitted by: Daniel Chace]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

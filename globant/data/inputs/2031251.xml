@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER/Collaborative Research: Experimentally Validated Modeling of the Dynamics of Carbon Dioxide Removal from the Bloodstream via Peritoneal Perfluorocarbon Circulation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eva Kanso</SignBlockName>
+<PO_EMAI>ekanso@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This EArly-concept Grant for Exploratory Research (EAGER) project brings together a multidisciplinary team of control engineers, biomedical engineers, medical researchers, and clinicians to explore a novel pulmonary-independent method for supplementing gas exchange in an animal. Specifically, the research team will study whether the circulation of oxygenated perfluorocarbon (PFC) through the abdomen (the peritoneal cavity) of a large animal, can serve as a pathway for clearing carbon dioxide (CO2) from the animal’s bloodstream; and what are the governing dynamics of this CO2 clearing process. The peritoneal cavity essentially acts as a “third lung” in this scenario, providing critical life support for patients whose compromised lung function has exceeded the support achievable through mechanical ventilation. There is currently a critical need for this treatment, within the context of the COVID-19 pandemic, but this system also has potential to emerge as a standard modality in the critical care of hundreds of thousands of patients in pulmonary failure. Furthermore, the medical community will benefit from the deep fundamental understanding of the CO2 removal capabilities of peritoneal oxygenated PFC circulation, which will be an essential element in bringing this technology into future clinical trials.&lt;br/&gt;&lt;br/&gt;This project addresses the challenge of building an experimentally validated model of the dynamics of carbon dioxide transport from the bloodstream of a large animal into oxygenated perfluorocarbon perfused through the animal’s abdominal (peritoneal) cavity.  Using the experimental data obtained as part of this project, the team will develop and parameterize a control-oriented, multi-compartment model of the transport dynamics governing CO2 removal. While previous experiments on peritoneal oxygenated PFC circulation have predominantly examined quasi-steady conditions, the research team will ensure the richness of its data by deliberately designing the underlying experiments to maximize the identifiability of the CO2 removal dynamics. The result will be a dataset better suited for the modeling and estimation of underlying system dynamics than the quasi-steady datasets. The system dynamics and control community will benefit from the opportunity to apply its scientific tools and methods to the dynamic modeling of a novel ventilation technology. Particularly important is the degree to which such modeling can help broaden the interdisciplinary impact of the dynamic systems and controls discipline to a new health-related application technology. Addressing this research challenge urgently, but rigorously, has the potential to provide critical assistance to the medical research community, particularly considering the COVID-19 crisis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031251</AwardID>
+<Investigator>
+<FirstName>Jin-Oh</FirstName>
+<LastName>Hahn</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jin-Oh Hahn</PI_FULL_NAME>
+<EmailAddress><![CDATA[jhahn12@umd.edu]]></EmailAddress>
+<NSF_ID>000630120</NSF_ID>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hosam</FirstName>
+<LastName>Fathy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hosam Fathy</PI_FULL_NAME>
+<EmailAddress><![CDATA[hfathy@umd.edu]]></EmailAddress>
+<NSF_ID>000408155</NSF_ID>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland College Park]]></Name>
+<CityName/>
+<StateCode>MD</StateCode>
+<ZipCode>207425141</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project pursued a novel technology for providing life support to patients with respiratory failure due to ailments such as COVID-19.&nbsp;&nbsp;Even prior to the COVID-19 pandemic, more than 100,000 patients required hospitalization annually in the U.S. due to respiratory failure.&nbsp;&nbsp;The standard treatment for such patients is positive pressure mechanical ventilation, where the patient is intubated and an oxygen-rich gas mixture is supplied at elevated pressures.&nbsp;&nbsp;Unfortunately, the higher oxygen concentrations and pressures associated with mechanical ventilation have the potential to result in ventilator-induced lung injury (VILI).&nbsp;&nbsp;When VILI occurs, higher ventilation pressures and oxygen concentrations may be necessary for continued patient life support.&nbsp;&nbsp;This creates a vicious cycle that has the potential to reach a point where the patient can no longer survive on mechanical ventilation alone.&nbsp;&nbsp;For respiratory failure patients where mechanical ventilation is no longer viable, the only treatment modality available today is extra-corporeal membrane oxygenation (ECMO), where blood is drawn from the body, oxygenated outside the body, then returned to the bloodstream.&nbsp;&nbsp;Unfortunately, ECMO is a very expensive treatment modality that requires constant monitoring by highly specialized experts, and moreover comes with many contra-indications.&nbsp;</p> <p>The approach pursued in this project is an alternative to ECMO where the patient&rsquo;s abdominal (or peritoneal) cavity is used as a &ldquo;third lung&rdquo;, in a manner similar to its use as a &ldquo;third kidney&rdquo; in peritoneal dialysis.&nbsp;&nbsp;The idea is to oxygenate a perfluorocarbon (PFC) &ndash; an inert, dense liquid with extraordinarily high oxygen solubility &ndash; then circulate it through the patient&rsquo;s abdomen using inflow and outflow catheters.&nbsp;&nbsp;Diffusion between the PFC and the bloodstream then provides oxygen to the patient, and also removes carbon dioxide.&nbsp;&nbsp;Previous work by this research team&rsquo;s medical experts examined the viability of the peritoneal perfusion of PFC as a means of supplying oxygen to oxygen-deprived laboratory animals.&nbsp;&nbsp;However, the viability of this technology for CO2 removal was not studied in the above earlier research.&nbsp;&nbsp;Moreover, mathematical models of the dynamics of the underlying diffusion processes were not developed, making it difficult to develop control algorithms for automating the third lung intervention.&nbsp;&nbsp;Finally, the dynamics of abdominal pressure buildup during PFC circulation were also not modeled, making it difficult to develop safe circulation algorithms capable of avoiding excessively high abdominal pressures in an automated manner.&nbsp;&nbsp;This project brought together an interdisciplinary team of experts from the fields of surgery, nursing, mechanical engineering, and biomedical engineering to address the above gaps in the previous research.&nbsp;&nbsp;The team designed and prototyped a PFC oxygenation, circulation, and CO2 removal setup.&nbsp;&nbsp;The setup was used for PFC circulation experiments on laboratory animals (specifically, Yorkshire swine), with institutional animal care and use committee (IACUC) approval.&nbsp;&nbsp;Preliminary results from these experiments suggest that PFC circulation may potentially induce a boost in measured blood pulse oximetry, plus a reduction in exhaled (i.e., &ldquo;end-tidal&rdquo;) carbon dioxide, but the underlying fundamental mechanisms and their dependence on factors such as abdominal pressure require additional fundamental examination.&nbsp;&nbsp;The team developed and published simple, control-oriented models of the dynamics of oxygen transport, carbon dioxide transport, and cavity pressure buildup associated with the third lung intervention.&nbsp;&nbsp;The intellectual merit of this work stems at least partly from the team&rsquo;s extensive data gathering efforts (with approximately 150 signals collected and recorded by the team&rsquo;s circulation setup), as well as the team&rsquo;s effort to build control-oriented computer models of the underlying system dynamics based on the gathered data.&nbsp;&nbsp;The broader impact of the project stemmed from its interdisciplinary nature, from the dissemination of the team&rsquo;s results to the broader community, and from the team&rsquo;s extensive efforts to train and engage a large number of undergraduate and high school student researchers in its efforts.&nbsp;</p><br> <p>            Last Modified: 02/28/2023<br>      Modified by: Hosam&nbsp;Fathy</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project pursued a novel technology for providing life support to patients with respiratory failure due to ailments such as COVID-19.  Even prior to the COVID-19 pandemic, more than 100,000 patients required hospitalization annually in the U.S. due to respiratory failure.  The standard treatment for such patients is positive pressure mechanical ventilation, where the patient is intubated and an oxygen-rich gas mixture is supplied at elevated pressures.  Unfortunately, the higher oxygen concentrations and pressures associated with mechanical ventilation have the potential to result in ventilator-induced lung injury (VILI).  When VILI occurs, higher ventilation pressures and oxygen concentrations may be necessary for continued patient life support.  This creates a vicious cycle that has the potential to reach a point where the patient can no longer survive on mechanical ventilation alone.  For respiratory failure patients where mechanical ventilation is no longer viable, the only treatment modality available today is extra-corporeal membrane oxygenation (ECMO), where blood is drawn from the body, oxygenated outside the body, then returned to the bloodstream.  Unfortunately, ECMO is a very expensive treatment modality that requires constant monitoring by highly specialized experts, and moreover comes with many contra-indications.   The approach pursued in this project is an alternative to ECMO where the patient’s abdominal (or peritoneal) cavity is used as a "third lung", in a manner similar to its use as a "third kidney" in peritoneal dialysis.  The idea is to oxygenate a perfluorocarbon (PFC) &ndash; an inert, dense liquid with extraordinarily high oxygen solubility &ndash; then circulate it through the patient’s abdomen using inflow and outflow catheters.  Diffusion between the PFC and the bloodstream then provides oxygen to the patient, and also removes carbon dioxide.  Previous work by this research team’s medical experts examined the viability of the peritoneal perfusion of PFC as a means of supplying oxygen to oxygen-deprived laboratory animals.  However, the viability of this technology for CO2 removal was not studied in the above earlier research.  Moreover, mathematical models of the dynamics of the underlying diffusion processes were not developed, making it difficult to develop control algorithms for automating the third lung intervention.  Finally, the dynamics of abdominal pressure buildup during PFC circulation were also not modeled, making it difficult to develop safe circulation algorithms capable of avoiding excessively high abdominal pressures in an automated manner.  This project brought together an interdisciplinary team of experts from the fields of surgery, nursing, mechanical engineering, and biomedical engineering to address the above gaps in the previous research.  The team designed and prototyped a PFC oxygenation, circulation, and CO2 removal setup.  The setup was used for PFC circulation experiments on laboratory animals (specifically, Yorkshire swine), with institutional animal care and use committee (IACUC) approval.  Preliminary results from these experiments suggest that PFC circulation may potentially induce a boost in measured blood pulse oximetry, plus a reduction in exhaled (i.e., "end-tidal") carbon dioxide, but the underlying fundamental mechanisms and their dependence on factors such as abdominal pressure require additional fundamental examination.  The team developed and published simple, control-oriented models of the dynamics of oxygen transport, carbon dioxide transport, and cavity pressure buildup associated with the third lung intervention.  The intellectual merit of this work stems at least partly from the team’s extensive data gathering efforts (with approximately 150 signals collected and recorded by the team’s circulation setup), as well as the team’s effort to build control-oriented computer models of the underlying system dynamics based on the gathered data.  The broader impact of the project stemmed from its interdisciplinary nature, from the dissemination of the team’s results to the broader community, and from the team’s extensive efforts to train and engage a large number of undergraduate and high school student researchers in its efforts.        Last Modified: 02/28/2023       Submitted by: Hosam Fathy]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

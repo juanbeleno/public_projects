@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC* Compute: A High Performance GPU Cluster at Syracuse University]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>393128.00</AwardTotalIntnAmount>
+<AwardAmount>393128</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+<PO_EMAI>kthompso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924220</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Syracuse University is constructing a new compute cluster using Graphics Processing Units. This production cluster will serve the needs of the Syracuse University research community and the broader scientific community through integration with the Open Science Grid. The use of Graphics Processing Units to solve problems in science and engineering has grown significantly over recent years. Campus cyberinfrastructure providers have seen increasing demand for access to Graphics Processing Units in lieu of more traditional compute architectures. Syracuse University has created a strong partnership among campus-level cyberinfrastructure experts as well as at the national level through the University's contributions to the Open Science Grid. This cluster provides a significant resource for enabling science and cyberinfrastructure development at Syracuse University. The application drivers come from a variety of domains including computational forensics, high-energy physics, development of smart vision systems, computational chemistry, biomedical engineering, soft-matter physics, and gravitational-wave physics.&lt;br/&gt;&lt;br/&gt;Access to the Graphics Processing Units will be an important resource for education of undergraduate and graduate students. Given the growth in related Graphics Processing Unit computing, Syracuse University faculty are introducing Graphics Processing Unit programming to undergraduate students from a variety of backgrounds. The capabilities and availability of this cluster will allow for broader adoption within the classroom environment, as well as provide compute power to researchers. Undergraduates from across the College of Engineering and Computer Science and the College of Arts and Sciences can use these resources, giving them early preparation for new computing schemes. Access to the resources via the Open Science Grid will allow researchers from across the U.S. access to the compute resources.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018822</AwardID>
+<Investigator>
+<FirstName>Duncan</FirstName>
+<LastName>Brown</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Duncan A Brown</PI_FULL_NAME>
+<EmailAddress><![CDATA[dabrown@syr.edu]]></EmailAddress>
+<NSF_ID>000336360</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Sedore</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric Sedore</PI_FULL_NAME>
+<EmailAddress><![CDATA[essedore@syr.edu]]></EmailAddress>
+<NSF_ID>000644445</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Scozzafava</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME>Jr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Samuel J Scozzafava</PI_FULL_NAME>
+<EmailAddress><![CDATA[sjscozza@syr.edu]]></EmailAddress>
+<NSF_ID>000694150</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Syracuse University</Name>
+<CityName>SYRACUSE</CityName>
+<ZipCode>132440001</ZipCode>
+<PhoneNumber>3154432807</PhoneNumber>
+<StreetAddress>900 S CROUSE AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY22</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C4BXLBC11LC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SYRACUSE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Syracuse University]]></Name>
+<CityName>Syracuse</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>132441200</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>22</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY22</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7231</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~393128</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Graphical Processing Units (GPUs) have become a critical resource for Syracuse University research groups. In 2016, Syracuse University established a GPU cluster pilot to explore the use and integration of GPUs within its research computing resource portfolio. The cluster quickly found adoption in several research areas, with machine learning (ML) being the most prominent methodology. Though ML was a common theme, the number of academic areas adopting that approach was far more diverse including addressing challenges within Chemistry, Soft Matter Physics,&nbsp;High Energy Physics, Biomedical &amp; Chemical Engineering, and Electrical Engineering &amp; Computer Science. Though the pilot was successful it highlighted shortcomings with the technical approach. The identified issues were grouped into three categories around technical barriers to access, the need for larger-scale resources, and outreach to groups that the pilot could not support.</p> <p>Through the support of the National Science Foundation and this award in 2020, Syracuse University was able to begin work to address these critical gaps. Throughout the two-year award and beyond, the augmented GPU cluster has assisted dozens of research groups and students in their pursuit of transforming their research. The availability of this increased scope is a direct outcome of the addition of resources. The transformation was not only due to the increased scale of GPU resources the award funded, but also through the work of the research computing team to simplify access and to collaborate with groups on more advanced methodologies for engaging increased computation scale.&nbsp;</p> <p>One of the most important outcomes of this award has been the reduced barrier to entry for University researchers who are now able to utilize GPU resources and at scales not achieved within the pilot.</p> <p>&nbsp;In addition to the support of University based research, the cluster contributed just over thirty percent of available GPU computational time to the OSG Consortium. The additional allocation over the required twenty percent represented the time during the first year of the award as progress was made to increase usage within the campus research community.</p><br> <p>            Last Modified: 12/23/2022<br>      Modified by: Eric&nbsp;Sedore</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Graphical Processing Units (GPUs) have become a critical resource for Syracuse University research groups. In 2016, Syracuse University established a GPU cluster pilot to explore the use and integration of GPUs within its research computing resource portfolio. The cluster quickly found adoption in several research areas, with machine learning (ML) being the most prominent methodology. Though ML was a common theme, the number of academic areas adopting that approach was far more diverse including addressing challenges within Chemistry, Soft Matter Physics, High Energy Physics, Biomedical &amp; Chemical Engineering, and Electrical Engineering &amp; Computer Science. Though the pilot was successful it highlighted shortcomings with the technical approach. The identified issues were grouped into three categories around technical barriers to access, the need for larger-scale resources, and outreach to groups that the pilot could not support.  Through the support of the National Science Foundation and this award in 2020, Syracuse University was able to begin work to address these critical gaps. Throughout the two-year award and beyond, the augmented GPU cluster has assisted dozens of research groups and students in their pursuit of transforming their research. The availability of this increased scope is a direct outcome of the addition of resources. The transformation was not only due to the increased scale of GPU resources the award funded, but also through the work of the research computing team to simplify access and to collaborate with groups on more advanced methodologies for engaging increased computation scale.   One of the most important outcomes of this award has been the reduced barrier to entry for University researchers who are now able to utilize GPU resources and at scales not achieved within the pilot.   In addition to the support of University based research, the cluster contributed just over thirty percent of available GPU computational time to the OSG Consortium. The additional allocation over the required twenty percent represented the time during the first year of the award as progress was made to increase usage within the campus research community.       Last Modified: 12/23/2022       Submitted by: Eric Sedore]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

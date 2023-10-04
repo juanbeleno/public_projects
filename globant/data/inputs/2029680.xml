@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: World Wide Access to COVID-19 Information]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>147665.00</AwardTotalIntnAmount>
+<AwardAmount>147665</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniela Oliveira</SignBlockName>
+<PO_EMAI>doliveir@nsf.gov</PO_EMAI>
+<PO_PHON>7032924352</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Response to a worldwide crisis, such as the current COVID-19 pandemic, requires extensive communication involving different groups (governments, scientists, healthcare providers, common people). The Internet does provide an effective means of communication – but rumor, non-validated theories or outright propaganda also propagate to wide audiences over the Internet, and have the potential to cause significant harm. It is tempting to conclude that strong Internet controls are necessary in times of crisis to limit the spread of malcontent. On the other hand, more free flow of information is also beneficial. It can enable rapid yet nuanced deployment of resources to critical needs in times of such a crisis.  It is therefore an open question whether open or strict information control policies work better in a pandemic situation. In this project, researchers study Internet censorship policies in several countries – ranging from those employ very strict controls (e.g. China, Russia) through moderate (e.g. South Korea, India) to very open (e.g. USA, Germany, Japan) – and characterize how they control access to information, specifically related to COVID-19, during the course of the pandemic. This study would help decide best practice in Internet communications and thereby help to protect national health.&lt;br/&gt; &lt;br/&gt;This study collects data regarding read and write access to COVID-19 related information on the Internet, from vantage points in a range of countries. Chosen countries are well-connected to the Internet, geographically diverse, and different in their approaches to Internet censorship: some strict censors, some semi-free, and some known for free speech (as reported in the Internet Freedom Study, by Freedom House). Further, as access controls may vary within a country, multiple vantage points are used – ideally, one in the "customer cone" of each major AS in the country. From these vantage points, four measures are checked twice a month: (1) Whether users can access sources considered authoritative by the Johns Hopkins University's Center for Systems Science and Engineering Coronavirus Dashboard, Center for Disease Control and Prevention, World Health Organization, and peer-reviewed journals such as Science, Nature, NEJM etc. (2) Whether users can access non-authoritative sources, such as websites identified as spreading misinformation (identified by researchers following social networks). (3) What social media sites users can access, and whether these are known to be censored (e.g. can users in country A reach Twitter, Facebook etc., or only local sites like qq? Are these sites strictly filtered?) (4) If a user sends an HTTP query with a manually-constructed trigger phrase (say, "coronavirus bioweapon"), is the query blocked? The data collected in this study is correlated against trusted measures of pandemic impact (time-to-peak and mortality), and  can help identify the Internet control strategies associated with success in containing and recovering from the COVID-19 pandemic.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029680</AwardID>
+<Investigator>
+<FirstName>Hrishikesh</FirstName>
+<LastName>Bhattacharya</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hrishikesh Bhattacharya</PI_FULL_NAME>
+<EmailAddress><![CDATA[hbaics@rit.edu]]></EmailAddress>
+<NSF_ID>000736501</NSF_ID>
+<StartDate>05/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rochester Institute of Tech</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress>1 LOMB MEMORIAL DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J6TWTRKC1X14</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ROCHESTER INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rochester Institute of Tech]]></Name>
+<CityName>Rochester</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146235603</ZipCode>
+<StreetAddress><![CDATA[141 Lomb Memorial Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~147665</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project began with the goal of investigating how Internet censorship affects the pandemic outcomes of a country. Do censors in countries (say China or Russia) actually help, by stopping misinformation in its tracks? Or do they cause more damage, by preventing the public from learning true information?&nbsp;</p> <p>In order to study this in detail, we built an infrastructure of Virtual Private Server (VPS) nodes, across a range of different countries. We originally planned to try two kinds of tests:</p> <p>1. To find a corpus of sites with good information (e.g. Google Scholar, Johns Hopkins Covid dashboard, CDC, etc.) and of sites with misinformation, and compare how effectively censors in different countries blocked them.</p> <p>2. To find what triggers the censor. - for instance, send an HTTP POST with "trigger words" such as "Li Wenliang" and see if it gets blocked; write known misinformation (boiling alcohol fumes will kill covid, etc.), on social-media sites, and see if it is taken down; and so on.</p> <p>In the first thrust of the project, work proceeded smoothly. We were able to build corpus of known-good and -bad sites (from sources such as newsguard), and check whether they were being blocked. Unfortunately, the result was that a very small proportion of sites were blocked at all - some 1 or 2 out of some 330 bad sites, and no good sites. We concluded that there was no meaningful level of censorship that could be affecting COVID outcomes.<br /><br />The second set of tests however, we learned on discussing with the community, would be considered unethical research, even if we put up misinformation for a very short period (&lt;1 day). &nbsp;We therefore decided to stop this line of work and focus on "read access" rather than "write access" from various countries.</p> <p>In Mar 2021, we learned of results from the CensoredPlanet group at University of Michigan, which specializes in indirect measurement of network interference, censorship etc. They report a very small fraction of sites to be blocked (46 websites out of 1291), but this was still an order of magnitude greater than ours. Accordingly, we started a comparative study to see if our measurement strategy i.e. directly accessing websites from vantage points (VPS) in a country, produced different results than existing platforms.</p> <p>We found a very interesting result: our VPS-based measurements did indeed successfully load sites that were considered blocked by general censorship measurement projects such as ICLab. For example, out of 100 representative sites known as blocked in China, we were able to load 61. We thus discussed the feasibility of pivoting the project to a comparative study of censorship measurement (of all sites, not only COVID-19 related sites) when measured from VPN, from VPS, and using indirect tools such as Quack.</p> <p>Being a one-year project, we ran out of funds before this could be completed; but we were able to not only collect preliminary data but also (1) build tools to deploy, manage, and run a large VPS-based infrastructure with over fifty nodes (including some countries that are not well studied for censorship, e.g. Mongolia), and (2) develop a method to attribute many instances of "collateral damage" where a country does not censor a particular website, but is still denied access to it, because it is downstream from another country's censors.&nbsp;</p> <p>We are now seeking a new grant to collect more data and explore this research direction.</p><br> <p>            Last Modified: 05/01/2022<br>      Modified by: Hrishikesh&nbsp;Bhattacharya</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project began with the goal of investigating how Internet censorship affects the pandemic outcomes of a country. Do censors in countries (say China or Russia) actually help, by stopping misinformation in its tracks? Or do they cause more damage, by preventing the public from learning true information?   In order to study this in detail, we built an infrastructure of Virtual Private Server (VPS) nodes, across a range of different countries. We originally planned to try two kinds of tests:  1. To find a corpus of sites with good information (e.g. Google Scholar, Johns Hopkins Covid dashboard, CDC, etc.) and of sites with misinformation, and compare how effectively censors in different countries blocked them.  2. To find what triggers the censor. - for instance, send an HTTP POST with "trigger words" such as "Li Wenliang" and see if it gets blocked; write known misinformation (boiling alcohol fumes will kill covid, etc.), on social-media sites, and see if it is taken down; and so on.  In the first thrust of the project, work proceeded smoothly. We were able to build corpus of known-good and -bad sites (from sources such as newsguard), and check whether they were being blocked. Unfortunately, the result was that a very small proportion of sites were blocked at all - some 1 or 2 out of some 330 bad sites, and no good sites. We concluded that there was no meaningful level of censorship that could be affecting COVID outcomes.  The second set of tests however, we learned on discussing with the community, would be considered unethical research, even if we put up misinformation for a very short period (&lt;1 day).  We therefore decided to stop this line of work and focus on "read access" rather than "write access" from various countries.  In Mar 2021, we learned of results from the CensoredPlanet group at University of Michigan, which specializes in indirect measurement of network interference, censorship etc. They report a very small fraction of sites to be blocked (46 websites out of 1291), but this was still an order of magnitude greater than ours. Accordingly, we started a comparative study to see if our measurement strategy i.e. directly accessing websites from vantage points (VPS) in a country, produced different results than existing platforms.  We found a very interesting result: our VPS-based measurements did indeed successfully load sites that were considered blocked by general censorship measurement projects such as ICLab. For example, out of 100 representative sites known as blocked in China, we were able to load 61. We thus discussed the feasibility of pivoting the project to a comparative study of censorship measurement (of all sites, not only COVID-19 related sites) when measured from VPN, from VPS, and using indirect tools such as Quack.  Being a one-year project, we ran out of funds before this could be completed; but we were able to not only collect preliminary data but also (1) build tools to deploy, manage, and run a large VPS-based infrastructure with over fifty nodes (including some countries that are not well studied for censorship, e.g. Mongolia), and (2) develop a method to attribute many instances of "collateral damage" where a country does not censor a particular website, but is still denied access to it, because it is downstream from another country's censors.   We are now seeking a new grant to collect more data and explore this research direction.       Last Modified: 05/01/2022       Submitted by: Hrishikesh Bhattacharya]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

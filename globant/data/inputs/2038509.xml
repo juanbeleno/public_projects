@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Improving QIIME 2 and UniFrac for Viruses to Respond to COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199999.00</AwardTotalIntnAmount>
+<AwardAmount>199999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter McCartney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The current COVID-19 pandemic prompts an urgent response including improved bioinformatics tools to help the community analyze relevant datasets from infected patients and their environments. This project will update the popular QIIME pipeline for microbiome analysis, which is very widely used by people studying bacteria and archaea in the microbiome, optimizing it for researchers studying viruses. This will bring features such as data provenance tracking and reproducibility of analysis workflows to the viral research community. Such features enhance the reliability of bioinformatics work in a rapidly paced of research environment such as emergency response to a pandemic, where processing errors are more likely. &lt;br/&gt;&lt;br/&gt;The intellectual merit of this work will be to move studies of viral communities from a nonphylogenetic to a phylogenetic basis, accelerate time-to-result, and to make QIIME 2 far more useful to the increasing number of researchers moving from bacterial community analysis to viral community analysis in response to the COVID-19 pandemic. Specific enhancements to be implemented are to build a reference database of viral sequences from diverse genome, metagenome, and metatranscriptome sources; to enhance storage and compute to resolve limitations posed by large-scale datasets generated for SARS-CoV-2; to extend computational pipelines to accommodate the recombination and lack of recognizable common phylogenetic tree roots characteristic of viruses; and to support genome assembly from reads recruiting to viral databases. Results will be disseminated as new QIIME 2 plugins, for broad distribution to the community, including the development of new educational materials and new workshop modules.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2038509</AwardID>
+<Investigator>
+<FirstName>Rob</FirstName>
+<LastName>Knight</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rob Knight</PI_FULL_NAME>
+<EmailAddress><![CDATA[robknight@ucsd.edu]]></EmailAddress>
+<NSF_ID>000190175</NSF_ID>
+<StartDate>07/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>9500 GILMAN DRIVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>LA JOLLA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930934</ZipCode>
+<StreetAddress><![CDATA[9500 Gilman Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>086Y</Code>
+<Text>SABI: Sustained Availability o</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p style="caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; text-decoration: none; margin: 0px 0px 10px; font-family: arial, helvetica, sans-serif; background-color: #ffffff;">n this project, we improved the QIIME 2 software ecosystem to improve its ability to handle viruses, in order to support work on the COVID-19 pandemic.</p> <p style="caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; text-decoration: none; margin: 0px 0px 10px; font-family: arial, helvetica, sans-serif; background-color: #ffffff;">Intellectual Merit: We developed and published woltka (Web of Life Toolkit), a software package that integrates bacterial and viral information from each sample, in a way that allows further analyses to use evolutionary information that is often disregarded in such studies. We initally used it for a test case in Graves Disease (an autoimmune condition that had not been linked to the microbiome before), then applied it to understand how the gut microbiome can predispose individuals to SARS-CoV-2 and also to understand the total set of RNA molecules found within wastewater samples. We also developed many computational improvements to make different components of the DNA or RNA sequence analysis pipeline much faster, accelerating a method of comparing different microbiome datasets 1000x faster and making it possible to do these studies on a laptop rather than a large cluster.</p> <p style="caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; text-decoration: none; margin: 0px 0px 10px; font-family: arial, helvetica, sans-serif; background-color: #ffffff;">&nbsp;</p> <p style="caret-color: #000000; color: #000000; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; text-decoration: none; margin: 0px 0px 10px; font-family: arial, helvetica, sans-serif; background-color: #ffffff;">Broader Impacts: Because our tools are generally applicable for microbiome research, we expect that they will be used across human, animal, plant and envrionmental ecosystems (and indeed, this is already happening with their adoption by various communities, including many NSF-funded researchers). Additionally, this award was instrumental in allowing us to pivot towards SARS-CoV-2 research, including setting up the SEARCH Alliance, the EXCITE covid-testing lab, and the UCSD Return to Learn wastewater program, all of which have played a considerable role in mitigating the pandemic both directly and through technologies adopted by other instituons.</p><br> <p>            Last Modified: 06/29/2022<br>      Modified by: Rob&nbsp;Knight</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[n this project, we improved the QIIME 2 software ecosystem to improve its ability to handle viruses, in order to support work on the COVID-19 pandemic. Intellectual Merit: We developed and published woltka (Web of Life Toolkit), a software package that integrates bacterial and viral information from each sample, in a way that allows further analyses to use evolutionary information that is often disregarded in such studies. We initally used it for a test case in Graves Disease (an autoimmune condition that had not been linked to the microbiome before), then applied it to understand how the gut microbiome can predispose individuals to SARS-CoV-2 and also to understand the total set of RNA molecules found within wastewater samples. We also developed many computational improvements to make different components of the DNA or RNA sequence analysis pipeline much faster, accelerating a method of comparing different microbiome datasets 1000x faster and making it possible to do these studies on a laptop rather than a large cluster.   Broader Impacts: Because our tools are generally applicable for microbiome research, we expect that they will be used across human, animal, plant and envrionmental ecosystems (and indeed, this is already happening with their adoption by various communities, including many NSF-funded researchers). Additionally, this award was instrumental in allowing us to pivot towards SARS-CoV-2 research, including setting up the SEARCH Alliance, the EXCITE covid-testing lab, and the UCSD Return to Learn wastewater program, all of which have played a considerable role in mitigating the pandemic both directly and through technologies adopted by other instituons.       Last Modified: 06/29/2022       Submitted by: Rob Knight]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

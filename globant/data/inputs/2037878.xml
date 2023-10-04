@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF/FDA SIR: Objective Assessment of Recovery during Post Stroke NeuroRehabilitation Therapy using Brain-Muscle Connectivity Network]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>99978.00</AwardTotalIntnAmount>
+<AwardAmount>99978</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steve Zehnder</SignBlockName>
+<PO_EMAI>szehnder@nsf.gov</PO_EMAI>
+<PO_PHON>7032927014</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Stroke is the leading cause of motor disabilities and places high pressure on healthcare infrastructures due to the imbalance between the need for serving an aging society and available neurorehabilitation resources. Thus, there has been a surge in the production of novel rehabilitative technologies for accelerating recovery. Despite the successful development of such devices, lack of objective standards besides clinical investigations using subjective measures have made controversial recommendations regarding several devices, including robots.  To address the need for effective rehabilitative technologies, this one year NSF/FDA Scholar-in-Residence project is focused on the design, implementation, and evaluation of a novel, objective, and robust algorithmic biomarker of recovery, named Delta CorticoMuscular Information-based Connectivity (D-CMiC). The proposed algorithm quantifies the connectivity between the central nervous system (CNS) and the peripheral nervous system (PNS) by designing and implementing a protocol for simultaneously measuring electrical activity from the brain and an ankle muscle on the affected side of recovering post-stroke patients.  Project outcomes will produce a scientific vision regarding the neurophysiology of recovery and expedite availability of more effective rehabilitation devices to patients for a range of neurological disorders beyond stroke (such as Parkinson’s disease, Essential Tremor and Ataxia).  For educational impact, the project will generate a unique transdisciplinary educational environment by conducting workshops regarding emerging Brain-Computer Interface (BCI) technologies in medicine and undergraduate team projects for human-machine interfacing, with a focus on promoting STEM activities within underrepresented groups.&lt;br/&gt;&lt;br/&gt;The goal of this project is to design, implement, and evaluate a robust algorithmic biomarker of stroke recovery, which quantifies the spectrotemporal neurophysiological connectivity between the CNS (using electroencephalography (EEG)) and PNS (using high-density surface electromyography (HD-sEMG)). The project is motivated by the lack of objective standards and direct neurophysiological metrics for quantifying the “true” efficacy of rehabilitation in terms of the translation between central and peripheral nervous systems to control functional movements. The predictive capability, precision, and efficiency of the developed D-CMiC metric will be analyzed by collecting data from recovering stroke patients and healthy subjects. Unique D-CMiC features include:  (1) accurately and objectively tracking corticomuscular functional connectivity in the Delta/low frequency band, which will be robust to stochastic high-frequency artifacts while encoding the 3 temporal phases of motor control: preparation, execution, relaxation; (2) computationally modeling of corticomuscular connectivity through the fusion of spectrotemporal similarity measures, which will reward persistent true-positive CNS-PNS connections while diminishing false-positives; and (3) building the basis for the first medical device development tool (MDDT) for the systematic, objective, and transparent evaluation of pre-market rehabilitation devices, aligned with the FDA’s mission.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037878</AwardID>
+<Investigator>
+<FirstName>John Ross</FirstName>
+<LastName>Rizzo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John Ross Rizzo</PI_FULL_NAME>
+<EmailAddress><![CDATA[JohnRoss.Rizzo@nyumc.org]]></EmailAddress>
+<NSF_ID>000734919</NSF_ID>
+<StartDate>12/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>S Farokh</FirstName>
+<LastName>Atashzar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>S Farokh Atashzar</PI_FULL_NAME>
+<EmailAddress><![CDATA[f.atashzar@nyu.edu]]></EmailAddress>
+<NSF_ID>000808423</NSF_ID>
+<StartDate>12/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7236</Code>
+<Text>BioP-Biophotonics</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~99978</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span style="text-decoration: underline;"><strong>Intellectual Merit:</strong></span></p> <p>The landscape of post-stroke recovery has seen rapid advances in the production of motor rehabilitative technologies. These devices promise to accelerate recovery; however, their effectiveness has been questioned due to the reliance on subjective and coarse evaluation of movement capacities. This has resulted in conflicting recommendations and a lack of consensus on their real value. Some studies support the claim of accelerated recovery, while others suggest that the observed improvements may simply be due to natural recovery processes rather than the technologies themselves. This controversial debate underscores the urgent need for the development of a reliable, robust, and objective measure, or biomarker, for post-stroke recovery.</p> <p>In response to this need, our interdisciplinary project focused on developing a novel, objective, and robust algorithmic biomarker of recovery. We aimed to establish a method to quantify the communication between and at the central nervous system (CNS) and the peripheral nervous system (PNS). We propose this as a "neurophysiological window to recovery." This term represents our focus on understanding the functional communication happening at and between the CNS and PNS.&nbsp; Our research journey was divided into several key areas of focus and outcomes:</p> <p><span style="text-decoration: underline;"><strong>[1]</strong></span><strong> </strong>We collected and used data from stroke patients and control subjects to investigate the Delta-band Movement Related Cortical Potential (MRCP), a low-frequency neural response in the brain that occurs during various motor control phases. This research resulted in the identification of the "Entropy of Nonlinear Corticomuscular Connectivity (EnCMC)" as a potential biomarker, highlighting the disability level and quantifying changes in information flow due to stroke.</p> <p><span style="text-decoration: underline;"><strong>[2]</strong></span><strong> </strong>We introduced the concept of InfoMuNet or Information-theory-based Functional Muscle Network. This innovative concept provides a new way to understand how the central nervous system distributes motor control information across a group of muscles. We found that our neuromarker, InfoMuNet, was able to robustly quantify subtle improvements in functional muscle connectivity in stroke patients even following one session of sensory modulation.</p> <p><strong><span style="text-decoration: underline;">[3]</span> </strong>We challenged and evaluated the reliability of our biomarker which is based on functional muscle networks through a test-retest methodology, showing that the metrics generated could be reliably used for multi-session observations. This reliability indicates its potential as a biomarker during rehabilitation.</p> <p><strong><span style="text-decoration: underline;">[4]</span> </strong>Our research also involved the development of new non-parametric graphical network models to evaluate muscle connectivity. This new approach can help distinguish between peripheral dysfunctions that are caused by central issues.</p> <p><span style="text-decoration: underline;"><strong>[5]</strong></span> To better understand the information content of high-density electromyography signals&nbsp;(electrical activities of the muscle captured at the surface of the skin using a flexible patch of several electrodes), we developed new explainable AI modules. These models enable us to predict central movement intention through peripheral decoding, an essential aspect of gauging the power of high-density EMG for complex tasks.</p> <p><span style="text-decoration: underline;"><strong>[6]</strong></span><strong> </strong>Finally, we introduced a new mode of mechanomyography, i.e., wearable MMG-plus-One, that measures the mechanical responses from deep muscles, offering a new robust (from a hardware point of view) way to evaluate the connectivity between the central nervous system and this new modality while bypassing classical challenges of electromyography, such as changes of electrode-skin contact conductivity due to sweating or skin hair blockage.</p> <p><span style="text-decoration: underline;">In summary, </span>our research has made significant strides toward establishing a reliable, robust, and objective biomarker for post-stroke recovery. Through the establishment of our neurophysiological window of recovery, we hope to have set a transformative paradigm for the objective evaluation and assessment of recovery. This could have profound implications for improving the effectiveness and understanding of post-stroke rehabilitative technologies. As we move forward, we look forward to seeing our work have a real-world impact, enhancing the quality of life for stroke survivors.</p> <p><span style="text-decoration: underline;"><strong>Broader Impact:</strong></span></p> <p>Our project has several social and educational components, including&nbsp; workshops, special issues, vertically integrated projects, and events to promote diversity as listed below.</p> <p>(a) Workshops: The workshop on "NeuroHaptics: Touch with the Brain" at IEEE WorldHaptics2021.&nbsp;<a href="https://2021.worldhaptics.org/workshop-neurohaptics-touch-with-the-brain/" target="_new">Event link</a>; The workshop on "Intelligent Human Augmentation"&nbsp; at the IEEE ISMR2021&nbsp;&nbsp;<a href="https://sites.google.com/ualberta.ca/2021-ismr-workshop/home" target="_new">Event link</a>; The workshop on "Impact of COVID-19 on Medical Robotics and Wearables Research" at IEEE ICRA2021 &nbsp;<a href="https://sites.google.com/ualberta.ca/2021-icra-workshop/home" target="_new">Workshop Site</a>&nbsp;Watch the session:&nbsp;<a href="https://www.youtube.com/watch?v=d-r4Mjb_tO0&amp;t=195s" target="_new">YouTube</a></p> <p>(b) Vertically Integrated Projects (VIP):&nbsp; We designed a VIP for undergraduate students in this project. They won the Best Research Excellence Exhibit Award at NYU Tandon School of Engineering 2022.&nbsp;They published in IEEE Robotics and Automation Letter and presented at IROS2022 (<a href="https://ieeexplore.ieee.org/abstract/document/9830886" target="_blank">10.1109/LRA.2022.3191238</a>);&nbsp;&nbsp;<a href="https://wp.nyu.edu/meriit/undergraduate-vertically-integrated-projects-smart-wearable-bio-tracker-for-telehealth/" target="_new">VIP Webpage</a></p> <p>(c) K-12 Program: We've launched a two-year K12-STEM initiative mainly for highschool students from under-represented minority groups.&nbsp; Visit:&nbsp;<a href="https://wp.nyu.edu/meriit/meriit-k12-stem-program/" target="_new">K-12 Program</a></p> <p>(d) Special Issues:&nbsp;&nbsp;"NeuroHaptics"&nbsp; in Frontiers in Neuroscience, "Robotics and AI during COVID-19"&nbsp; in Frontiers in Robotics and AI, which featured 35 published articles, 183 authors, 35K full article downloads.:&nbsp;<a href="https://www.frontiersin.org/research-topics/14462/robotics-autonomous-systems-and-ai-for-nonurgentnonemergent-healthcare-delivery-during-and-after-the#impact" target="_new">Special Issue</a></p> <p>(e) We've designed a series of workshops promoting diversity in academic careers for which&nbsp;we organized IEE SPS PROGRESS at ICIP2021-2022 and ICASSP 2021-2022. <a href="https://ieeeprogress.org/" target="_new">IEEE PROGRESS</a>.</p><br> <p>            Last Modified: 05/18/2023<br>      Modified by: S Farokh&nbsp;Atashzar</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Intellectual Merit:  The landscape of post-stroke recovery has seen rapid advances in the production of motor rehabilitative technologies. These devices promise to accelerate recovery; however, their effectiveness has been questioned due to the reliance on subjective and coarse evaluation of movement capacities. This has resulted in conflicting recommendations and a lack of consensus on their real value. Some studies support the claim of accelerated recovery, while others suggest that the observed improvements may simply be due to natural recovery processes rather than the technologies themselves. This controversial debate underscores the urgent need for the development of a reliable, robust, and objective measure, or biomarker, for post-stroke recovery.  In response to this need, our interdisciplinary project focused on developing a novel, objective, and robust algorithmic biomarker of recovery. We aimed to establish a method to quantify the communication between and at the central nervous system (CNS) and the peripheral nervous system (PNS). We propose this as a "neurophysiological window to recovery." This term represents our focus on understanding the functional communication happening at and between the CNS and PNS.  Our research journey was divided into several key areas of focus and outcomes:  [1] We collected and used data from stroke patients and control subjects to investigate the Delta-band Movement Related Cortical Potential (MRCP), a low-frequency neural response in the brain that occurs during various motor control phases. This research resulted in the identification of the "Entropy of Nonlinear Corticomuscular Connectivity (EnCMC)" as a potential biomarker, highlighting the disability level and quantifying changes in information flow due to stroke.  [2] We introduced the concept of InfoMuNet or Information-theory-based Functional Muscle Network. This innovative concept provides a new way to understand how the central nervous system distributes motor control information across a group of muscles. We found that our neuromarker, InfoMuNet, was able to robustly quantify subtle improvements in functional muscle connectivity in stroke patients even following one session of sensory modulation.  [3] We challenged and evaluated the reliability of our biomarker which is based on functional muscle networks through a test-retest methodology, showing that the metrics generated could be reliably used for multi-session observations. This reliability indicates its potential as a biomarker during rehabilitation.  [4] Our research also involved the development of new non-parametric graphical network models to evaluate muscle connectivity. This new approach can help distinguish between peripheral dysfunctions that are caused by central issues.  [5] To better understand the information content of high-density electromyography signals (electrical activities of the muscle captured at the surface of the skin using a flexible patch of several electrodes), we developed new explainable AI modules. These models enable us to predict central movement intention through peripheral decoding, an essential aspect of gauging the power of high-density EMG for complex tasks.  [6] Finally, we introduced a new mode of mechanomyography, i.e., wearable MMG-plus-One, that measures the mechanical responses from deep muscles, offering a new robust (from a hardware point of view) way to evaluate the connectivity between the central nervous system and this new modality while bypassing classical challenges of electromyography, such as changes of electrode-skin contact conductivity due to sweating or skin hair blockage.  In summary, our research has made significant strides toward establishing a reliable, robust, and objective biomarker for post-stroke recovery. Through the establishment of our neurophysiological window of recovery, we hope to have set a transformative paradigm for the objective evaluation and assessment of recovery. This could have profound implications for improving the effectiveness and understanding of post-stroke rehabilitative technologies. As we move forward, we look forward to seeing our work have a real-world impact, enhancing the quality of life for stroke survivors.  Broader Impact:  Our project has several social and educational components, including  workshops, special issues, vertically integrated projects, and events to promote diversity as listed below.  (a) Workshops: The workshop on "NeuroHaptics: Touch with the Brain" at IEEE WorldHaptics2021. Event link; The workshop on "Intelligent Human Augmentation"  at the IEEE ISMR2021  Event link; The workshop on "Impact of COVID-19 on Medical Robotics and Wearables Research" at IEEE ICRA2021  Workshop Site Watch the session: YouTube  (b) Vertically Integrated Projects (VIP):  We designed a VIP for undergraduate students in this project. They won the Best Research Excellence Exhibit Award at NYU Tandon School of Engineering 2022. They published in IEEE Robotics and Automation Letter and presented at IROS2022 (10.1109/LRA.2022.3191238);  VIP Webpage  (c) K-12 Program: We've launched a two-year K12-STEM initiative mainly for highschool students from under-represented minority groups.  Visit: K-12 Program  (d) Special Issues:  "NeuroHaptics"  in Frontiers in Neuroscience, "Robotics and AI during COVID-19"  in Frontiers in Robotics and AI, which featured 35 published articles, 183 authors, 35K full article downloads.: Special Issue  (e) We've designed a series of workshops promoting diversity in academic careers for which we organized IEE SPS PROGRESS at ICIP2021-2022 and ICASSP 2021-2022. IEEE PROGRESS.       Last Modified: 05/18/2023       Submitted by: S Farokh Atashzar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

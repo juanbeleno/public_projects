@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Enabling Reliable Networked Microgrids for Distribution Grid Resiliency]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>143755.00</AwardTotalIntnAmount>
+<AwardAmount>143755</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aranya Chakrabortty</SignBlockName>
+<PO_EMAI>achakrab@nsf.gov</PO_EMAI>
+<PO_PHON>7032928113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project investigates novel approaches to promote reliable networked microgrid operations in the face of various cyber and physical disturbances. Power distribution grid resiliency is a challenging problem with significant economic and security impacts that has been exacerbated in recent years by the increase in extreme weather events and cyber threats. Recently, networked microgrids have become an emerging paradigm that demonstrates resiliency benefit to their local customers. However, lack of awareness of stability margin, inadequate capability to respond to grid disturbances, and vulnerabilities to communication failure, delay, and cyber-attacks can undermine the capability of networked microgrids to improve distribution grid resiliency. &lt;br/&gt;&lt;br/&gt;The research project will create and implement networked microgrids solutions on a novel cyber infrastructure to ensure distribution grid resiliency. This cyber infrastructure is based on Software-Defined Networking. Specifically, the project has three main objectives: (1) To establish a formal analysis method to tractably assess networked microgrid stability; (2) To devise a new concept of microgrid active fault management (AFM) enabled through online distributed optimization; and (3) To build a Software-Defined Networking (SDN) based architecture to enable highly resilient networked microgrids. The project will contribute new formal analysis theories for deeper understanding of microgrid stability under high levels of renewable generation. The idea of integrating distributed optimization and power electronic control will pave the way for building grid-friendly networked microgrids, significantly contributing to grid resiliency. The novel SDN-based architecture and techniques will open the door for innovations in devising secure, reliable, and fault-tolerant algorithms for managing resilient networked microgrids and active distribution networks. Overall, the proposed new model-based and data-intensive technologies together will provide scalable, dependable and intelligent solutions to otherwise intractable problems in integrating complex networked microgrids. Building on the team's successes in minority student recruitment and undergraduate education and leveraging existing resources, the education plan targets underrepresented minorities and pre-college students to contribute to the preparation of the next-generation workforce in power engineering. The research results will be integrated in new Microgrids courses for educating university students and power engineering professionals.]]></AbstractNarration>
+<MinAmdLetterDate>03/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002897</AwardID>
+<Investigator>
+<FirstName>Peng</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peng Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[p.zhang@stonybrook.edu]]></EmailAddress>
+<NSF_ID>000587747</NSF_ID>
+<StartDate>03/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>STONY BROOK</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>W5510 FRANKS MELVILLE MEMORIAL L</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M746VC6XMNH9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>117940001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>155E</Code>
+<Text>Electric power networks</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0116</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001617DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2016~143755</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>As an emerging paradigm for resilient power and energy supply, networked microgrids faces several major technical challenges. For instances, lack of awareness of stability margin, inadequate capability to respond to grid disturbances, and vulnerabilities to communication failure, delay, and cyber-attacks all contribute to undermine the capability of networked microgrids to improve distribution grid resiliency.</p> <p>This project has established a solid foundation for reliable networked microgrids operations and analysis in face of various cyber and physical disturbances. It has contributed new formal analysis theories for deeper understanding of microgrid stability under high level of renewable generation. The active fault management method developed in this project integrates distributed control with power electronic inverters, which is promising to pave the road for building grid-friendly networked microgrids significantly contributing to grid resiliency. The novel Software Defined Networking (SDN) based architecture and techniques has opened the door for innovations in devising secure, reliable, and fault-tolerate algorithms for managing resilient networked microgrids and active distribution network.</p> <p>This project has produced 30+ journal and conference publications and 1 awarded US patent (Zhang, Wang, Luh, et al, Enabling resilient microgrid through ultra-fast programmable network, US Patent No. 10,505,853). The main findings of this project have been systematically summarized in the PI?s new book<em> Networked Microgrids</em> (ISBN: 9781108497657; Online ISBN: 9781108596589) published by Cambridge University Press in July 2021. The products of this project can be summarized in the attached figure.</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/16/2022<br>      Modified by: Peng&nbsp;Zhang</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2002897/2002897_10453642_1642321587433_EPCNprojectfigure--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2002897/2002897_10453642_1642321587433_EPCNprojectfigure--rgov-800width.jpg" title="Summary of networked microgrids research."><img src="/por/images/Reports/POR/2022/2002897/2002897_10453642_1642321587433_EPCNprojectfigure--rgov-66x44.jpg" alt="Summary of networked microgrids research."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Summary of networked microgrids research.</div> <div class="imageCredit">Peng Zhang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Peng&nbsp;Zhang</div> <div class="imageTitle">Summary of networked microgrids research.</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ As an emerging paradigm for resilient power and energy supply, networked microgrids faces several major technical challenges. For instances, lack of awareness of stability margin, inadequate capability to respond to grid disturbances, and vulnerabilities to communication failure, delay, and cyber-attacks all contribute to undermine the capability of networked microgrids to improve distribution grid resiliency.  This project has established a solid foundation for reliable networked microgrids operations and analysis in face of various cyber and physical disturbances. It has contributed new formal analysis theories for deeper understanding of microgrid stability under high level of renewable generation. The active fault management method developed in this project integrates distributed control with power electronic inverters, which is promising to pave the road for building grid-friendly networked microgrids significantly contributing to grid resiliency. The novel Software Defined Networking (SDN) based architecture and techniques has opened the door for innovations in devising secure, reliable, and fault-tolerate algorithms for managing resilient networked microgrids and active distribution network.  This project has produced 30+ journal and conference publications and 1 awarded US patent (Zhang, Wang, Luh, et al, Enabling resilient microgrid through ultra-fast programmable network, US Patent No. 10,505,853). The main findings of this project have been systematically summarized in the PI?s new book Networked Microgrids (ISBN: 9781108497657; Online ISBN: 9781108596589) published by Cambridge University Press in July 2021. The products of this project can be summarized in the attached figure.          Last Modified: 01/16/2022       Submitted by: Peng Zhang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

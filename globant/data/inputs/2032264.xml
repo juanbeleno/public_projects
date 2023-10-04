@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: COVID-19 comparative modeling and analyses of outbreaks using mechanistic and ensemble machine learning and the development of a platform for projection and management]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+<PO_EMAI>kdittmar@nsf.gov</PO_EMAI>
+<PO_PHON>7032927799</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Numerical projections of reliable infection and disease mortality rates within cities, counties, states, and countries, as well as identification of the factors most responsible for these rates are critical to rational management of the ongoing Covid-19 pandemic.  In the absence of effective therapeutics and vaccines, a deeper understanding of the impact of societal measures (distancing, contact tracing, quarantining, etc.) on local Covid-19 outbreaks are needed  by administrators and healthcare professionals in making decisions that affect the tradeoff between the physical health of individuals and the economic health of communities.  The aims of the proposal are twofold. First, to use cutting-edge statistical models to uncover the factors that most affect SARS-CoV-2 transmission and mortality rates. Second, to provide decisions makers with a simple-to-use, extensive instruction supported, data and scenario analysis (DASA) platform for evaluating the implications of different policy measures, including the implementation and relaxation of social distancing behavior, surveillance, contact tracing, patient isolation, and vaccination (once suitable vaccines are available).  Additionally, this DASA platform will be suitable for training students at the undergraduate and graduate levels in public health and allied programs, as well as providing an analytical tool for students carrying out epidemiological research.&lt;br/&gt;&lt;br/&gt;The epidemiological model that underpins the Numerus Model Builder DASA Covid-19 platform includes modifications of the standard SEIR (Susceptible, Exposed/Latent, Infectious, Recovered) formulation to incorporate an explicit contact (C) class, as well as dividing infectious individuals into pre/asymptomatic (A) and symptomatic infectious (I) disease states to yield a SCLAIV model (where V refers to naturally vaccinated/recovered class). Individuals in the C class can either thwart (return to the S class) or succumb to (move onto the L=E class) pathogen invasion after making contact with the SARS-CoV-2 pathogen.  The formulation also includes a parallel series of Sr, Cr, Lr, Ar, Ir and Vr classes that correspond to individuals moving into these reduced-exposure SCLAIV-response classes at rates determined by the driving actions of Covid-19 policy measures that have been put in place. The values of the SCLAIV+reponse model parameters are influenced by various factors that will be identified using statistical machine learning methods.  In particular, “superlearners” that are a mix of parametric and nonparametric ensemble machine learning methods will be used to identify the factors responsible for observed spatio-temporal patterns across different, regional Covid-19 outbreaks, using appropriate data scraped from the worldwide web. This RAPID award is made by the Ecology and Evolution of Infectious Disease Program in the Division of Environmental Bioloy, using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032264</AwardID>
+<Investigator>
+<FirstName>Wayne</FirstName>
+<LastName>Getz</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wayne M Getz</PI_FULL_NAME>
+<EmailAddress><![CDATA[wgetz@berkeley.edu]]></EmailAddress>
+<NSF_ID>000417575</NSF_ID>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>Hubbard</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alan Hubbard</PI_FULL_NAME>
+<EmailAddress><![CDATA[hubbard@berkeley.edu]]></EmailAddress>
+<NSF_ID>000780565</NSF_ID>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>1608 4TH ST STE 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>Berkeley</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947203370</ZipCode>
+<StreetAddress><![CDATA[CEND, 344A Li Ka Shing Center]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project had two central aims: 1. To contrast a mechanistic with statistical approach to understanding aspects of the COVID-19 outbreaks across US counties and regions of the world; 2. To provide stakeholders with a simulation platform for exploring the implications of different policy measures on incidence, prevalence and mortality rates arising from health care directives that include relaxing social distancing and increasing surveillance, contact tracing and isolation of infectious individuals. Both aims were accomplished in the available time frame and with the allocated funds.&nbsp; First, our statistical model and analysis published in the <strong>Scientific Reports</strong>, 2021, identified public transportation use and proportion of Black/African American individuals in a county as the strongest predictors of outbreak rates and intensities across 2,620 counties within the US.&nbsp; Second, our mechanistic model, implemented as a web application that became available for use by stakeholders and published in the <strong>Journal of Translational Medicine</strong>, 2021, was fitted to outbreaks in Israel, South Africa, and England. This model was able to establish the degree to which social distancing and other mitigation measures was responsible for flattening the epidemic curve and then the relaxation of these measures responsible for second and subsequent waves of the epidemic.&nbsp; A third publication in the journal <strong>Epidemics</strong>, 2021, combined fittings of statistical and a mechanistic models to 29 Combined Statistical Areas in the US. This analysis allowed us to estimate epidemic flattening indices for these 29 areas and cluster them into two groups: weak and strong social distancing groups. We demonstrated that his categorization provided a better estimate of the course of the epidemic than the traditional R-zero (the expected number of new cases arising from the initiating or patient zero</p> <p>case) measures used to assess the potency of outbreaks.&nbsp; Beyond these three studies, we developed a multi-strain model published in <strong>Epidemics</strong>, 2021, that we used to investigate the role escape mutations play in fueling the intensity and longevity of outbreaks.&nbsp; This model is the first to integrate both antigenic drift from escape mutations and waning immunity in mechanistic models. With these model we were able to show that: i) There are few escape mutations during the first epidemic peak and no effect of drifting parameters on the size of that wave; ii) After the first epidemic peak, escape mutations accumulate rapidly and amplify other escape mutations by raising the frequency of reinfections.&nbsp;</p> <p>&nbsp;</p> <p>In the process of building mechanistic models, we developed an individual-based epidemic model package implementing a novel Java Runtime-Alterable-Model Platform technology.&nbsp; This work, published in the <strong>Journal Royal Society Interface</strong>, 2021,<strong> </strong>outlines a model that includes adaptive contact rates, pathogen genetic drift, waning and cross-immunity, as well as the impacts of treatment and vaccination on the epidemic. Besides allowing parameter values, process descriptions and scriptable runtime drivers to be easily modified during simulations, our RAMP can used within R-Studio and other computational platforms. We then used our RAMP technology to build simplified epidemic compartmental models and presented these in a publication in the journal <strong>BMC Medical Education</strong>, 2022, aimed at supporting epidemiological and research.&nbsp;&nbsp; The topics covered include: i) disease prevalence curves of unmitigated outbreaks; ii) waning immunity and endemic states; iii) the impact of <em>R</em><sub>0</sub> on the steepness and location of the peak of the prevalence curve, as well as the probability of an epidemic outbreak; iv) the effects of adaptive contact rates on flattening of the prevalence and future outbreaks; v) the complexities of treatment in effecting transmission, recovery and mortality; vi) the impacts of vaccination policies.</p> <p>&nbsp;</p><br> <p>            Last Modified: 02/16/2023<br>      Modified by: Wayne&nbsp;M&nbsp;Getz</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The project had two central aims: 1. To contrast a mechanistic with statistical approach to understanding aspects of the COVID-19 outbreaks across US counties and regions of the world; 2. To provide stakeholders with a simulation platform for exploring the implications of different policy measures on incidence, prevalence and mortality rates arising from health care directives that include relaxing social distancing and increasing surveillance, contact tracing and isolation of infectious individuals. Both aims were accomplished in the available time frame and with the allocated funds.  First, our statistical model and analysis published in the Scientific Reports, 2021, identified public transportation use and proportion of Black/African American individuals in a county as the strongest predictors of outbreak rates and intensities across 2,620 counties within the US.  Second, our mechanistic model, implemented as a web application that became available for use by stakeholders and published in the Journal of Translational Medicine, 2021, was fitted to outbreaks in Israel, South Africa, and England. This model was able to establish the degree to which social distancing and other mitigation measures was responsible for flattening the epidemic curve and then the relaxation of these measures responsible for second and subsequent waves of the epidemic.  A third publication in the journal Epidemics, 2021, combined fittings of statistical and a mechanistic models to 29 Combined Statistical Areas in the US. This analysis allowed us to estimate epidemic flattening indices for these 29 areas and cluster them into two groups: weak and strong social distancing groups. We demonstrated that his categorization provided a better estimate of the course of the epidemic than the traditional R-zero (the expected number of new cases arising from the initiating or patient zero  case) measures used to assess the potency of outbreaks.  Beyond these three studies, we developed a multi-strain model published in Epidemics, 2021, that we used to investigate the role escape mutations play in fueling the intensity and longevity of outbreaks.  This model is the first to integrate both antigenic drift from escape mutations and waning immunity in mechanistic models. With these model we were able to show that: i) There are few escape mutations during the first epidemic peak and no effect of drifting parameters on the size of that wave; ii) After the first epidemic peak, escape mutations accumulate rapidly and amplify other escape mutations by raising the frequency of reinfections.      In the process of building mechanistic models, we developed an individual-based epidemic model package implementing a novel Java Runtime-Alterable-Model Platform technology.  This work, published in the Journal Royal Society Interface, 2021, outlines a model that includes adaptive contact rates, pathogen genetic drift, waning and cross-immunity, as well as the impacts of treatment and vaccination on the epidemic. Besides allowing parameter values, process descriptions and scriptable runtime drivers to be easily modified during simulations, our RAMP can used within R-Studio and other computational platforms. We then used our RAMP technology to build simplified epidemic compartmental models and presented these in a publication in the journal BMC Medical Education, 2022, aimed at supporting epidemiological and research.   The topics covered include: i) disease prevalence curves of unmitigated outbreaks; ii) waning immunity and endemic states; iii) the impact of R0 on the steepness and location of the peak of the prevalence curve, as well as the probability of an epidemic outbreak; iv) the effects of adaptive contact rates on flattening of the prevalence and future outbreaks; v) the complexities of treatment in effecting transmission, recovery and mortality; vi) the impacts of vaccination policies.          Last Modified: 02/16/2023       Submitted by: Wayne M Getz]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Leveraging smartphone data to improve clinical decisions in concussion care]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>216269.00</AwardTotalIntnAmount>
+<AwardAmount>216269</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to develop a more objective measure of symptoms after a concussion. Each year, 42 million individuals worldwide suffer a concussion, and cost $1.3 billion per year in direct medical costs in the United States. Concussions represent a clinical scenario that can highly benefit from advanced remote monitoring tools. Symptom tracking (i.e. headaches, dizziness, fatigue, etc.) is the most relied upon assessment clinicians use for critical decisions regarding concussion diagnosis and rehabilitation. Unfortunately, symptoms can fluctuate based on the time of day, activity, sleep, or other non-concussion related factors. In addition, symptom evaluations often are also susceptible to recall bias. These limitations lead to incomplete and inaccurate symptom evaluations that hamper a clinicians ability to properly manage treatment strategies. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to develop software to remotely monitor concussion symptoms using an individual’s smartphone. This concept of digital phenotyping has been used for mental health disorders but has not yet been applied to concussions. Studies investigating digital phenotyping for mental health demonstrate improved diagnosis and treatment by reducing time to treatment and developing objective measures. Applying digital phenotyping to concussion symptoms can solve similar issues: 1) time to treatment and 2) objectivity. The proposed solution uses real-time monitoring to collect data from a smartphone’s sensors. Feature engineering and supervised machine learning techniques are applied to the sensor data to develop a model to predict concussion symptoms. The current proposal will leverage established techniques from the digital phenotyping literature but will evaluate other metrics and techniques for this novel application.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051965</AwardID>
+<Investigator>
+<FirstName>Kathryn</FirstName>
+<LastName>Van Pelt</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kathryn L Van Pelt</PI_FULL_NAME>
+<EmailAddress><![CDATA[kate.vanpelt@synaptek.io]]></EmailAddress>
+<NSF_ID>000837244</NSF_ID>
+<StartDate>06/30/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SYNAPTEK LLC</Name>
+<CityName>LEXINGTON</CityName>
+<ZipCode>405092321</ZipCode>
+<PhoneNumber>7325978415</PhoneNumber>
+<StreetAddress>3121 BOULDER CT</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KY06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2A4A5LDL7T4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SYNAPTEK LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SYNAPTEK LLC]]></Name>
+<CityName>Lexington</CityName>
+<StateCode>KY</StateCode>
+<ZipCode>405092321</ZipCode>
+<StreetAddress><![CDATA[3121 Boulder Ct.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KY06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~216269</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-c755f546-7fff-1aca-14cd-27c532c059ad"> </span></p> <p dir="ltr"><strong>Description of Project and Significance</strong></p> <p dir="ltr"><span>There can be detrimental neurological health consequences for patients if concussions are not properly diagnosed and treated, which include permanent neurological dysfunction, dementia, mental health disorders, or Chronic Traumatic Encephalopathy. Symptom tracking is one of the most relied upon methods for diagnosing concussions and tracking recovery (i.e. headaches, dizziness, fatigue, etc.). There are a plethora of factors that can impact these symptoms that are not related to a concussion, however, such as time of day, activity, sleep, and more. Additionally, symptom evaluations are susceptible to recall bias and errors when an athlete is asked to recall their number and severity of symptoms from the past 24-48 hours. The limitations in symptom assessment and tracking hamper a clinician&rsquo;s ability to properly manage concussion diagnosis and treatment strategies. With seven concussions occurring in the United States alone, the problems impeding symptom tracking in concussion care need to be solved.</span></p> <p dir="ltr"><span>Digital phenotyping can help overcome the limitations of current concussion-related symptom assessment by improving the precision, individualization, and real-time monitoring of concussion symptoms. Digital phenotyping uses real-time data from devices, particularly smartphones, to quantify the health of an individual. The purpose of this project was to develop and test the feasibility of digital phenotyping to continuously and more objectively quantify concussion symptoms using data collected from individuals&rsquo; smartphones. Successfully developing a Digital Phenotyping system will help clinicians make better-informed healthcare decisions during concussion diagnosis and rehabilitation and ultimately, improve health outcomes and recovery trajectories for athletes. Furthermore, there is potential to expand Synaptek&rsquo;s Digital Phenotyping system to other health and athletic performance domains.</span></p> <p>&nbsp;</p> <p dir="ltr"><strong>Outcomes and Findings</strong></p> <p dir="ltr"><span><span> </span></span><span>The primary outcomes and findings from this Phase I SBIR project successfully showed feasibility in using digital phenotyping to predict symptoms that are used for concussion diagnosis and rehabilitation. The feasibility of the proposed idea was shown upon successful completion of the project&rsquo;s two primary objectives: 1) Process data collected from smartphone sensors to determine which are associated with concussion symptoms; 2) Develop machine learning algorithms that accurately and reliably predict symptom scores.&nbsp;</span></p> <p dir="ltr"><span>We had three pre-defined goals for objective 1 in order to classify the objective as a success. We met all three goals by ensuring participants completed enough surveys to represent their symptoms during daily living, monitoring participant response times to make sure participants paid attention when completing symptom surveys thereby generating a valid response, and identifying smartphone-derived data that was associated with concussion symptoms.&nbsp;</span></p> <p dir="ltr"><span>To achieve the success of objective 2 we tested several thousand machine learning models consisting of data engineering steps, iterative model fitting and calibration, and internal model validation. These models were developed to predict participants' symptom presentation as a function of their real-time smartphone activity. All models were assessed based on their prediction accuracy, interpretability, and generalizability. The models developed accurately and reliably predict symptom scores and have set the stage for further work in a Phase II project to refine and test in a larger sample population to ensure the models generalize and work well with other individuals.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><strong>Products Resulting from Project</strong></p> <p dir="ltr"><span><span> </span></span><span>The current project generated multiple products including data, code, and knowledge. First, the project generated a unique dataset of concussion symptoms assessed multiple times per day over a 14-day period. To date, there is no published dataset that compares in terms of duration and frequency of concussion assessment. This dataset has already helped contribute to the literature by providing the data for two abstract submissions for the 6th International Consensus Conference on Concussion in Sport.&nbsp;</span></p> <p dir="ltr"><span><span> </span></span><span>With the unique dataset came data processing code to format and work with the smartphone data before it was fed into the machine learning models. This pre-processing code is an essential part of the digital phenotyping process and will lay the foundation for the commercialization of Synaptek&rsquo;s digital phenotyping product. Secondly, the machine learning code provides Synaptek with an efficient method to compare model performance but is also the code that will generate the model(s) for Synaptek&rsquo;s digital phenotyping product.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><strong>Summary</strong></p> <p dir="ltr"><span>Synaptek was able to successfully achieve the objectives of this Phase I project. The results from this project support the development and utility of a digital phenotyping system to transform subjective and episodic symptom assessments into objective, continuous, and individualized digital biomarkers to improve concussion care, increase concussion identification, and reduce healthcare costs.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/22/2022<br>      Modified by: Kathryn&nbsp;L&nbsp;Van Pelt</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Description of Project and Significance There can be detrimental neurological health consequences for patients if concussions are not properly diagnosed and treated, which include permanent neurological dysfunction, dementia, mental health disorders, or Chronic Traumatic Encephalopathy. Symptom tracking is one of the most relied upon methods for diagnosing concussions and tracking recovery (i.e. headaches, dizziness, fatigue, etc.). There are a plethora of factors that can impact these symptoms that are not related to a concussion, however, such as time of day, activity, sleep, and more. Additionally, symptom evaluations are susceptible to recall bias and errors when an athlete is asked to recall their number and severity of symptoms from the past 24-48 hours. The limitations in symptom assessment and tracking hamper a clinician’s ability to properly manage concussion diagnosis and treatment strategies. With seven concussions occurring in the United States alone, the problems impeding symptom tracking in concussion care need to be solved. Digital phenotyping can help overcome the limitations of current concussion-related symptom assessment by improving the precision, individualization, and real-time monitoring of concussion symptoms. Digital phenotyping uses real-time data from devices, particularly smartphones, to quantify the health of an individual. The purpose of this project was to develop and test the feasibility of digital phenotyping to continuously and more objectively quantify concussion symptoms using data collected from individuals’ smartphones. Successfully developing a Digital Phenotyping system will help clinicians make better-informed healthcare decisions during concussion diagnosis and rehabilitation and ultimately, improve health outcomes and recovery trajectories for athletes. Furthermore, there is potential to expand Synaptek’s Digital Phenotyping system to other health and athletic performance domains.    Outcomes and Findings  The primary outcomes and findings from this Phase I SBIR project successfully showed feasibility in using digital phenotyping to predict symptoms that are used for concussion diagnosis and rehabilitation. The feasibility of the proposed idea was shown upon successful completion of the project’s two primary objectives: 1) Process data collected from smartphone sensors to determine which are associated with concussion symptoms; 2) Develop machine learning algorithms that accurately and reliably predict symptom scores.  We had three pre-defined goals for objective 1 in order to classify the objective as a success. We met all three goals by ensuring participants completed enough surveys to represent their symptoms during daily living, monitoring participant response times to make sure participants paid attention when completing symptom surveys thereby generating a valid response, and identifying smartphone-derived data that was associated with concussion symptoms.  To achieve the success of objective 2 we tested several thousand machine learning models consisting of data engineering steps, iterative model fitting and calibration, and internal model validation. These models were developed to predict participants' symptom presentation as a function of their real-time smartphone activity. All models were assessed based on their prediction accuracy, interpretability, and generalizability. The models developed accurately and reliably predict symptom scores and have set the stage for further work in a Phase II project to refine and test in a larger sample population to ensure the models generalize and work well with other individuals.     Products Resulting from Project  The current project generated multiple products including data, code, and knowledge. First, the project generated a unique dataset of concussion symptoms assessed multiple times per day over a 14-day period. To date, there is no published dataset that compares in terms of duration and frequency of concussion assessment. This dataset has already helped contribute to the literature by providing the data for two abstract submissions for the 6th International Consensus Conference on Concussion in Sport.   With the unique dataset came data processing code to format and work with the smartphone data before it was fed into the machine learning models. This pre-processing code is an essential part of the digital phenotyping process and will lay the foundation for the commercialization of Synaptek’s digital phenotyping product. Secondly, the machine learning code provides Synaptek with an efficient method to compare model performance but is also the code that will generate the model(s) for Synaptek’s digital phenotyping product.     Summary Synaptek was able to successfully achieve the objectives of this Phase I project. The results from this project support the development and utility of a digital phenotyping system to transform subjective and episodic symptom assessments into objective, continuous, and individualized digital biomarkers to improve concussion care, increase concussion identification, and reduce healthcare costs.               Last Modified: 08/22/2022       Submitted by: Kathryn L Van Pelt]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

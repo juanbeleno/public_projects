@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Real-Time Survey for Rapid Source Variability in Astronomical Objects using the Very Large Array]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>433370.00</AwardTotalIntnAmount>
+<AwardAmount>433370</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zoran Ninkov</SignBlockName>
+<PO_EMAI>zninkov@nsf.gov</PO_EMAI>
+<PO_PHON>7032922533</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The study of sources showing rapidly time variability is one of last frontiers of astronomy. This covers a wide range of wavelengths. In the radio range, variations had been found for our Sun in the 1940s. In the 1960s, slow time variations of astronomical sources were discovered. Later, radio sources emitting regular pulses were found. In the last few years, non-repeating, bursting sources have been found. One group of the most energetic radio sources is Fast Radio Bursts, or FRBs. FRBs are a rare phenomenon. The study of FRBs is a new one, and their distance and exact location is an open question. If the FRBs are located in other galaxies, the energy of such outbursts would reach the limits of possible emission mechanisms. The appeal of transient phenomena should provide wide public interest. There will be student in topics such as time variable astrophysics, high performance computing and efficient algorithms. &lt;br/&gt;&lt;br/&gt;This project will construct a system to search for transient phenomena during scheduled imaging observations made with the Very Large Array (VLA). Images are produced from the average of data over many hours. However, the evidence for rapid variations is lost in the averaging process. This project will construct a system designed to search the data for variability on time scales from 50 milliseconds to minutes, in parallel with scheduled astronomical programs. These searches will be carried out in real time. With the real-time system, only those samples showing significant bursts of radio energy would be stored. This system will be in use at all times when standard scientific programs are carried out, that is, a commensal system. In this, the data stream from the VLA will be searched for significant, short term bursts of radio energy with a powerful, especially designed system. This will not affect the normal scientific observations made with the VLA. The VLA can easily provide FRB positions that have errors smaller than 1 arc second, allowing optical identifications. This system will take advantage of the large amount of observing time available at the VLA, including the 6000 hours to be allocated to the already-planned VLA Sky Survey. This project is a precursor for larger facilities planned for the future, such as the Square Kilometer Array. There will be many opportunities for student training in the algorithms used to search for transient events in large data sets, and there will be outreach at the website of the National Radio Astronomy Observatory.]]></AbstractNarration>
+<MinAmdLetterDate>03/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022546</AwardID>
+<Investigator>
+<FirstName>Casey</FirstName>
+<LastName>Law</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Casey Law</PI_FULL_NAME>
+<EmailAddress><![CDATA[claw@astro.caltech.edu]]></EmailAddress>
+<NSF_ID>000601748</NSF_ID>
+<StartDate>03/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E CALIFORNIA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>Pasadena</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250600</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1218</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~96388</FUND_OBLG>
+<FUND_OBLG>2018~336982</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span style="caret-color: #212121; color: #212121; font-family: Calibri; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; text-decoration: none; display: inline !important; float: none;">Fast Radio Bursts (FRBs) are brief flashes of radio light that come from sources far outside of our galaxy. To be seen at such large distances implies that the source that emits them is incredibly powerful; FRBs are millions of times more powerful than radio flashes from pulsars in our own Galaxy. Radio interferometers can discovery FRBs and localize them well enough to associate them with their host galaxy. We built and pioneered science with the <em>realfast</em> instrument at the Very Large Array, a premier radio observatory operated by the National Radio Astronomy Observatory. This instrument can search for FRBs in parallel ("commensally") with normal observations and processes a massive data stream in real time. This made possible by integrating a dedicated cluster of Graphics Processing Units with the VLA observing system and building custom FRB search software. The <em>realfast</em> instrument has discovered or localized eight new FRBs, which is a significant fraction of the FRBs with precise localizations (see Figure). We also developed a rapid alert system with realfast, which was used to trigger a rapid high-energy search for a an FRB counterpart (see Figure).<br /></span></p> <p><span style="caret-color: #212121; color: #212121; font-family: Calibri; font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; text-decoration: none; display: inline !important; float: none;">The FRB discoveries have included some surprises. Two of the <em>realfast</em> FRB localizations were associated with persistent radio sources (PRS). The properties of these sources have been used to test models for FRB origin as well as constraining the age and energy of the FRB source. In one case, the polaized emission from the FRB includes a strong time variability that tells us about the environment immediately near the source (see Figure). As new FRBs are discovered, new PRS have been detected and strict upper limits have been measured. This opens new questions about the potential for multiple origins for FRBs. Large radio surveys (VLASS, RACS, LoTSS) are increasing our ability to discover and study FRB radio counterparts (see Figure).<br /></span></p><br> <p>            Last Modified: 03/12/2023<br>      Modified by: Casey&nbsp;Law</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2022546/2022546_10460032_1678660401362_ScreenShot2023-03-12at3.30.31PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2022546/2022546_10460032_1678660401362_ScreenShot2023-03-12at3.30.31PM--rgov-800width.jpg" title="VLA/realfast and Swift/GUANO"><img src="/por/images/Reports/POR/2023/2022546/2022546_10460032_1678660401362_ScreenShot2023-03-12at3.30.31PM--rgov-66x44.jpg" alt="VLA/realfast and Swift/GUANO"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Rapid high-energy observation of a candidate Fast Radio Burst. The radio detection by realfast was automatically sent to the GUANO system on the Swift X-ray Observatory.</div> <div class="imageCredit">Casey Law</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Casey&nbsp;Law</div> <div class="imageTitle">VLA/realfast and Swift/GUANO</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2022546/2022546_10460032_1678661414807_ScreenShot2023-03-12at3.31.00PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2022546/2022546_10460032_1678661414807_ScreenShot2023-03-12at3.31.00PM--rgov-800width.jpg" title="Persistent radio counterparts to FRB"><img src="/por/images/Reports/POR/2023/2022546/2022546_10460032_1678661414807_ScreenShot2023-03-12at3.31.00PM--rgov-66x44.jpg" alt="Persistent radio counterparts to FRB"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Measured radio luminosity (or limits) on persistent counterparts to Fast Radio Bursts.</div> <div class="imageCredit">Casey Law</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Casey&nbsp;Law</div> <div class="imageTitle">Persistent radio counterparts to FRB</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2022546/2022546_10460032_1678661546382_ScreenShot2023-03-12at3.31.25PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2022546/2022546_10460032_1678661546382_ScreenShot2023-03-12at3.31.25PM--rgov-800width.jpg" title="Polarimetric Rotation measure variability"><img src="/por/images/Reports/POR/2023/2022546/2022546_10460032_1678661546382_ScreenShot2023-03-12at3.31.25PM--rgov-66x44.jpg" alt="Polarimetric Rotation measure variability"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Measurements of rotation measure induced in polarized radio emission as a function of time. Different sources show different behavior, which demonstrates that the medium near FRB sources is turbulent and magnetized.</div> <div class="imageCredit">Reshma Anna-Thomas</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Casey&nbsp;Law</div> <div class="imageTitle">Polarimetric Rotation measure variability</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2022546/2022546_10460032_1678662281515_frb_2row--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2022546/2022546_10460032_1678662281515_frb_2row--rgov-800width.jpg" title="realfast FRB discoveries"><img src="/por/images/Reports/POR/2023/2022546/2022546_10460032_1678662281515_frb_2row--rgov-66x44.jpg" alt="realfast FRB discoveries"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Four FRB discoveries shown both as radio spectra and radio images. The localization from the images have a precision of about 1 arcsecond, which is precise enough to identify a host galaxy for the FRB.</div> <div class="imageCredit">Casey Law</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Casey&nbsp;Law</div> <div class="imageTitle">realfast FRB discoveries</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Fast Radio Bursts (FRBs) are brief flashes of radio light that come from sources far outside of our galaxy. To be seen at such large distances implies that the source that emits them is incredibly powerful; FRBs are millions of times more powerful than radio flashes from pulsars in our own Galaxy. Radio interferometers can discovery FRBs and localize them well enough to associate them with their host galaxy. We built and pioneered science with the realfast instrument at the Very Large Array, a premier radio observatory operated by the National Radio Astronomy Observatory. This instrument can search for FRBs in parallel ("commensally") with normal observations and processes a massive data stream in real time. This made possible by integrating a dedicated cluster of Graphics Processing Units with the VLA observing system and building custom FRB search software. The realfast instrument has discovered or localized eight new FRBs, which is a significant fraction of the FRBs with precise localizations (see Figure). We also developed a rapid alert system with realfast, which was used to trigger a rapid high-energy search for a an FRB counterpart (see Figure).   The FRB discoveries have included some surprises. Two of the realfast FRB localizations were associated with persistent radio sources (PRS). The properties of these sources have been used to test models for FRB origin as well as constraining the age and energy of the FRB source. In one case, the polaized emission from the FRB includes a strong time variability that tells us about the environment immediately near the source (see Figure). As new FRBs are discovered, new PRS have been detected and strict upper limits have been measured. This opens new questions about the potential for multiple origins for FRBs. Large radio surveys (VLASS, RACS, LoTSS) are increasing our ability to discover and study FRB radio counterparts (see Figure).        Last Modified: 03/12/2023       Submitted by: Casey Law]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

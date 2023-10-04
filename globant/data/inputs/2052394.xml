@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Technology Translation of a Universal Summarization System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>276000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to make machine-learning (ML) and artificial intelligence (AI) less costly, less biased, more accurate, more scalable, and easier to use through the process of commercializing “universal data summarization.” This summarization process works on any kind of data and significantly reduces dataset size without loss of information. Cost reductions include computational, core memory, storage, labor, and energy, all while reducing AI's environmental impact to provide "green AI." Universal summarization can also be used to measure and remove bias in data used to train AI/ML systems. Biases, caused by concepts in the data that are vastly over-represented while others are under-represented, will be reduced since for a small summary to be representative, it must be diverse and inclusive. In addition, accuracy will be increased by improving human analytics. Many data science tasks involve analysis by humans who must examine data to discover insight. These are arduous, expensive, time-consuming, and error-prone tasks made worse by human alert and decision fatigue caused by redundancy and repetitiveness. By reducing size and eliminating redundancy, human fatigue is reduced, human accuracy and efficiency are increased, and annotation costs are mitigated. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will develop and commercialize the ability to simply and affordably perform universal summarization of massive datasets. A summarization is a process that selects from a dataset a small subset of data items – the few selected summary items accurately represent the information contained in the many remaining unselected items. The innovation is called “calibrated submodular summarization,” a technology that involves quickly, cost-effectively, and accurately measuring information in subsets of data, and then algorithmically selecting small subsets that have mathematical information content guarantees. This technology strips away redundancy, leaving behind an efficient representation of the core information in the dataset. The proposed activities will create a commercial service that can summarize massive amounts of data (of any kind) quickly, easily, and without requiring user expertise in machine learning, data science, or submodularity. This will greatly reduce costs, time-to-market, environmental impact and data bias for any data-rich industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/23/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>02/28/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052394</AwardID>
+<Investigator>
+<FirstName>Mehraveh</FirstName>
+<LastName>Salehi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mehraveh Salehi</PI_FULL_NAME>
+<EmailAddress><![CDATA[msalehi@smr.ai]]></EmailAddress>
+<NSF_ID>000837459</NSF_ID>
+<StartDate>07/23/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUMMARY ANALYTICS INC.</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981035913</ZipCode>
+<PhoneNumber>2065277955</PhoneNumber>
+<StreetAddress>1826 N 57TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJRVC9JHM1R1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SUMMARY ANALYTICS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUMMARY ANALYTICS INC.]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981035913</ZipCode>
+<StreetAddress><![CDATA[1826 N. 57th St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<FUND_OBLG>2022~20000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-05f76817-7fff-dbfe-4413-4aa746c8fc60"> </span></p> <p dir="ltr"><span>During the SBIR Phase I project, we have developed, made accessible, and commercialized the ability to perform universal summarization of massive uni- and multi-modal datasets. We define a summarization as a process that selects, from a dataset, a small subset of data items -- the few selected items represent the information contained in the many remaining unselected items. Our developed summarization technology, called SMRaiz, is based on "mathematically proven artificial intelligence (AI) techniques" that measure the diminishing marginal returns of the information contained in each record of a dataset and rank orders the records accordingly such that it prioritizes the records having the most unique information while relegating more redundant records to the end. SMRaiz thus transforms data into a state of "information efficiency", the ability to maximize the ratio of information to data. This will reduce the size of any big dataset without loss of fidelity -- delivering better insight while reducing time and costs for any data-rich industry. SMRaiz is extremely fast with even on the largest datasets, but some of our customers are using it with many millions of separate smaller datasets, or high value datasets, or wherever high speed or low latency is critical.</span></p> <p dir="ltr"><span>In addition to SMRaiz, we have developed, made accessible, and commercialized the ability to establish connections between the few selected summary items (delegates) and the many remaining unselected items (constituents). Our linkage technology, called LINKaiz, provides an explanation of the data in its entirety through a few representative points, thereby making any data exploration tasks fast and efficient.</span></p> <p dir="ltr"><span>Our summarization and linkage is based on our proprietary Calibrated SubModular (CaSM) function technology. Submodularity encompasses natural, expressive, mathematically rich, practical, and scalable sets of techniques for data summarization. Submodularity, however, is challenging to master even for the machine learning expert, let alone a customer wishing to exploit its capabilities. We developed an efficient, fast, and easy-to-use process for defining and calibrating a wide range of submodular functions and using them to summarize massive datasets. Our softwares combined state-of-the-art submodular algorithmics with state-of-the-art high performance low-level C++ optimization, a synergy that made it possible to summarize unprecedentedly massive (e.g., hundreds of petabytes) datasets. Our current commercialization and distribution channel uses Docker containerized services which can be deployed both on the cloud and also on-premises, ideal for data privacy and security legislations.</span></p> <p dir="ltr"><span>In terms of broader impacts, our summarization technology reduces computational, core memory, storage, energy, and thus financial and environmental costs for companies wishing to utilize AI and ML. Given that a summary is diverse and representative in nature, it also helps reduce bias in AI/ML systems, which is a very common and systematic issue in most AI/ML systems causing catastrophic failures and bad AI/ML decision making. Finally, the combination of summarization and linkage can significantly improve the performance of the human analysts wishing to explore, understand and visualize massive data. By removing redundancy and reducing size, we help analysts focus on the most important records, avoiding boredom, enhancing the vibrance of information, and reducing alert and decision fatigue errors.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 08/19/2022<br>      Modified by: Mehraveh&nbsp;Salehi</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   During the SBIR Phase I project, we have developed, made accessible, and commercialized the ability to perform universal summarization of massive uni- and multi-modal datasets. We define a summarization as a process that selects, from a dataset, a small subset of data items -- the few selected items represent the information contained in the many remaining unselected items. Our developed summarization technology, called SMRaiz, is based on "mathematically proven artificial intelligence (AI) techniques" that measure the diminishing marginal returns of the information contained in each record of a dataset and rank orders the records accordingly such that it prioritizes the records having the most unique information while relegating more redundant records to the end. SMRaiz thus transforms data into a state of "information efficiency", the ability to maximize the ratio of information to data. This will reduce the size of any big dataset without loss of fidelity -- delivering better insight while reducing time and costs for any data-rich industry. SMRaiz is extremely fast with even on the largest datasets, but some of our customers are using it with many millions of separate smaller datasets, or high value datasets, or wherever high speed or low latency is critical. In addition to SMRaiz, we have developed, made accessible, and commercialized the ability to establish connections between the few selected summary items (delegates) and the many remaining unselected items (constituents). Our linkage technology, called LINKaiz, provides an explanation of the data in its entirety through a few representative points, thereby making any data exploration tasks fast and efficient. Our summarization and linkage is based on our proprietary Calibrated SubModular (CaSM) function technology. Submodularity encompasses natural, expressive, mathematically rich, practical, and scalable sets of techniques for data summarization. Submodularity, however, is challenging to master even for the machine learning expert, let alone a customer wishing to exploit its capabilities. We developed an efficient, fast, and easy-to-use process for defining and calibrating a wide range of submodular functions and using them to summarize massive datasets. Our softwares combined state-of-the-art submodular algorithmics with state-of-the-art high performance low-level C++ optimization, a synergy that made it possible to summarize unprecedentedly massive (e.g., hundreds of petabytes) datasets. Our current commercialization and distribution channel uses Docker containerized services which can be deployed both on the cloud and also on-premises, ideal for data privacy and security legislations. In terms of broader impacts, our summarization technology reduces computational, core memory, storage, energy, and thus financial and environmental costs for companies wishing to utilize AI and ML. Given that a summary is diverse and representative in nature, it also helps reduce bias in AI/ML systems, which is a very common and systematic issue in most AI/ML systems causing catastrophic failures and bad AI/ML decision making. Finally, the combination of summarization and linkage can significantly improve the performance of the human analysts wishing to explore, understand and visualize massive data. By removing redundancy and reducing size, we help analysts focus on the most important records, avoiding boredom, enhancing the vibrance of information, and reducing alert and decision fatigue errors.          Last Modified: 08/19/2022       Submitted by: Mehraveh Salehi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Enabling Adaptive Voltage Regulation: Control, Machine Learning, and Circuit Design]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>304174.00</AwardTotalIntnAmount>
+<AwardAmount>304174</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ale Lukaszew</SignBlockName>
+<PO_EMAI>rlukasze@nsf.gov</PO_EMAI>
+<PO_PHON>7032928103</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Supply voltage regulation serves the critical role of delivering power to on-chip devices at well-regulated voltage levels. Voltage regulation presents key design challenges of electronic systems ranging from high-performance microprocessors to mobile system-on-a-chips. In such systems, the ever-growing need for processing capability must be fulfilled while staying within specified power, thermal, and battery-life limits.  Power must be managed and delivered while maximizing system power efficiency in every possible way. The proposed research aims to address the above voltage regulation challenges by taking an interdisciplinary approach.  Innovations in control, machine learning, and circuit design will be developed to enable adaptive supply voltage regulation systems involving a variety of on-chip/off-chip voltage regulators. The expected outcomes of this project will help build new generations of highly efficient circuits and systems that can self-adapt to varying operating conditions. The synergies between circuit/system design, control-theoretical exploration, and machine learning as pursued in this project will promote a new interdisciplinary direction for advancing electronic system design.  The depth and breadth of this research will expose students to outstanding educational and training opportunities. Participation from undergraduate and underrepresented students is an important education mission of this project and will be promoted through recruiting and outreaching. The anticipated results from this project are expected to be broad and will be widely disseminated as well as brought to classroom to benefit undergraduate and graduate curriculum.  Collaboration and interaction with industry constitutes an important channel for this project to impact the real world, which will be actively pursued.  &lt;br/&gt;&lt;br/&gt;This project is based on the vision that the ultimate quality and efficiency in supply voltage regulation may be best achieved via a heterogeneous chain of voltage processing starting from on-board switching voltage regulators (VRs), to in-package/on-chip switching VRs, and finally to networks of distributed on-chip linear VRs.  Heterogeneous voltage regulation (HVR) systems are promising as they encompass regulators with complimentary tradeoffs in response time, size, efficiency, and cost. The ultimate aim of this project is to enable HVR systems that will guarantee power integrity, incur minimal power loss, and autonomously adapt to workload changes and system/environmental uncertainties at multiple temporal scales.  The above goal will be achieved by pursuing an integrated solution of novel control theory, circuits, and machine-learning enabled autonomous adaptation. Rigorous design techniques for decentralized and centralized control will be developed for distributed on-chip linear regulator networks and the HVR system with guaranteed stability and regulation performance.  Efficient machine-learning algorithms and their on-chip integration will be employed to provide accurate real-time prediction of time-varying load currents. Autonomous adaptation of the HVR system will be supported by power-efficient control policies that preemptively adapt on-chip linear regulator networks and on-chip/off-chip VRs based on machine-learning predicted future current loads.  Coping with system uncertainties is another key objective and will be achieved via deployment of control policies that are self-tuned by machine learning to attain the optimal power efficiency.  The project will explore system-level design optimization to jointly optimize regulation performance, power efficiency, and design overhead across all voltage processing stages in a HVR system.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/16/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>10/16/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2000851</AwardID>
+<Investigator>
+<FirstName>Peng</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peng Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[lip@ece.ucsb.edu]]></EmailAddress>
+<NSF_ID>000388188</NSF_ID>
+<StartDate>10/16/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>3227 CHEADLE HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>931062050</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>106E</Code>
+<Text>Mixed signal technologies</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~304174</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Voltage regulation and power delivery serves the critical role of distributing power to on-die devices, and manifests itself a first-class design problem for a very broad spectrum of today?s low-power electronics including microprocessors. In such systems, the ever-growing need in compute performance must be fulfilled while staying within specified power and thermal limits. Efficient power management must be leveraged to improve the overall system power efficiency in every possible way. Supply voltage shall be regulated across the power delivery network to support sophisticated power managements such as dynamic voltage scaling (DVS) at varying temporal and spatial granularities. As such, PDNs shall be agile (i.e. settle fast), robust (i.e. well suppress voltage droops), efficient (i.e. incur minimal power loss), and adaptive (i.e. adapt to workload change). To cope with the above challenges, this project aims to explore novel power delivery networks employing diverse voltage regulators, referred to as heterogenous voltage regulation (HVR), and energy-efficient PDN/power management control policies. Broadly, this work supports the development of general-purpose and dedicated hardware processing systems with improved energy efficiency. This report summarizes our research outcomes, as follows:</p> <p>&nbsp;</p> <p>(a)&nbsp; By exploring the rich heterogeneity and tunability in HVR, developed systematic workload-aware power management policies to adapt heterogeneous VRs with respect to workload change at multiple temporal scales to significantly improve system power efficiency while providing a guarantee for power integrity. The proposed techniques were supported by hardware-accelerated machine learning (ML) prediction of nonuniform spatial workload distributions for more accurate HVR adaptation at fine time granularity.</p> <p>(b)&nbsp; Proposed a centralized controller with the aim of rendering such power delivery networks (PDN) stable without compromising their performance. Theoretical results were confirmed with extensive transistor-level simulations and demonstrate that the controller is capable of stabilizing PDNs with much greater area efficiency than conventional techniques.</p> <p>&nbsp;</p> <p>(c)&nbsp;&nbsp; Investigated and assessed the feasibility and performance of a three-stage heterogeneous voltage regulation (HVR) system design based on extended circuit modeling, control methodology and a coupled circuit/architectural simulation evaluation platform while taking the important effects of process variations into account.</p> <p>&nbsp;</p> <p>(d)&nbsp; Developed the first work on HVR based power delivery network (PDN) architecture and control for domain specific processor system design, more specifically, systolic array deep neural network (DNN) accelerators, leading to a more than 5-fold reduction of leakage energy and PDN energy overhead.</p> <p>(e)&nbsp; Developed the first work applying HVR based PDN systems for spiking neural networks (SNNs) to maximize system energy efficiency while ensuring power integrity. We have proposed a novel sparse-workload-aware dynamic PDN control policy, which enables high energy efficiency of sparse spiking computation on a systolic array.</p> <p>(f)&nbsp;&nbsp;&nbsp; Proposed a novel hardware accelerator architecture that significantly improves utilization and data movement while efficiently handling temporal sparsity of SNNs on systolic arrays. We packed multiple time points into a single time window (TW) and processed the computations induced by active synaptic inputs falling under several TWs in parallel. This architecture delivered 248X energy-delay product (EDP) improvement on average compared to an SNN baseline for accelerating various networks.</p> <p>(g)&nbsp; Developed an innovative mixed-mode low dropout regulator (LDO) for high power efficiency across a wide range of load currents (0-200mA). The system consists of three total LDOs coherently operating. A very low power efficient block operates while in standby or delivering under 2mA; power dissipation is under 1mW. The transition between standby and large power delivery is handled by a fast digital LDO; although not precise this topology avoids the generation of large spikes. The third reconfiguration is optimized for high power mode of operation. The high-power mode is regulated by the high power LDO and digital LDO working simultaneously taking full advantage of the analog and digital processors. The design has been fabricated in a CMOS 40nm technology and the chip is currently under characterization.</p> <p>The research outcomes of this work have been disseminated in a sequence of publications at leading venues for circuit design, VLSI system integration, electronic design automation, neural networks, and computer architectures, as well as via graduate-level teaching. Under PI Li?s advising or joint advising, one MS student and three PhD students have graduated; they are now full-time engineers at Cirrus Logic, Cadence Design Systems, Micron (a student of Dr. Edgar Sanchez, the former Co-PI), and Meta (Facebook), working on chip design and electronic design automation, respectively. Among these students, Jeong-Jun Lee was awarded a UCSB ECE Ph.D. dissertation Fellowship. Wenrui Zhang joined Meta as research scientist.</p> <p>At TAMU, Troy Buhr and Thomas Janes completed the mixed-mode LDO design advised by Dr. Silva and Dr. Karsilayan. Troy is currently a PhD student and will be continuing his research program. Thomas is graduating with his Master?s degree in December 2022 after which he will begin full-time work at Cirrus Logic as an analog design engineer. The design of this LDO is the core of Thomas thesis.</p> <p>&nbsp;</p><br> <p>            Last Modified: 11/22/2022<br>      Modified by: Peng&nbsp;Li</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Voltage regulation and power delivery serves the critical role of distributing power to on-die devices, and manifests itself a first-class design problem for a very broad spectrum of today?s low-power electronics including microprocessors. In such systems, the ever-growing need in compute performance must be fulfilled while staying within specified power and thermal limits. Efficient power management must be leveraged to improve the overall system power efficiency in every possible way. Supply voltage shall be regulated across the power delivery network to support sophisticated power managements such as dynamic voltage scaling (DVS) at varying temporal and spatial granularities. As such, PDNs shall be agile (i.e. settle fast), robust (i.e. well suppress voltage droops), efficient (i.e. incur minimal power loss), and adaptive (i.e. adapt to workload change). To cope with the above challenges, this project aims to explore novel power delivery networks employing diverse voltage regulators, referred to as heterogenous voltage regulation (HVR), and energy-efficient PDN/power management control policies. Broadly, this work supports the development of general-purpose and dedicated hardware processing systems with improved energy efficiency. This report summarizes our research outcomes, as follows:     (a)  By exploring the rich heterogeneity and tunability in HVR, developed systematic workload-aware power management policies to adapt heterogeneous VRs with respect to workload change at multiple temporal scales to significantly improve system power efficiency while providing a guarantee for power integrity. The proposed techniques were supported by hardware-accelerated machine learning (ML) prediction of nonuniform spatial workload distributions for more accurate HVR adaptation at fine time granularity.  (b)  Proposed a centralized controller with the aim of rendering such power delivery networks (PDN) stable without compromising their performance. Theoretical results were confirmed with extensive transistor-level simulations and demonstrate that the controller is capable of stabilizing PDNs with much greater area efficiency than conventional techniques.     (c)   Investigated and assessed the feasibility and performance of a three-stage heterogeneous voltage regulation (HVR) system design based on extended circuit modeling, control methodology and a coupled circuit/architectural simulation evaluation platform while taking the important effects of process variations into account.     (d)  Developed the first work on HVR based power delivery network (PDN) architecture and control for domain specific processor system design, more specifically, systolic array deep neural network (DNN) accelerators, leading to a more than 5-fold reduction of leakage energy and PDN energy overhead.  (e)  Developed the first work applying HVR based PDN systems for spiking neural networks (SNNs) to maximize system energy efficiency while ensuring power integrity. We have proposed a novel sparse-workload-aware dynamic PDN control policy, which enables high energy efficiency of sparse spiking computation on a systolic array.  (f)    Proposed a novel hardware accelerator architecture that significantly improves utilization and data movement while efficiently handling temporal sparsity of SNNs on systolic arrays. We packed multiple time points into a single time window (TW) and processed the computations induced by active synaptic inputs falling under several TWs in parallel. This architecture delivered 248X energy-delay product (EDP) improvement on average compared to an SNN baseline for accelerating various networks.  (g)  Developed an innovative mixed-mode low dropout regulator (LDO) for high power efficiency across a wide range of load currents (0-200mA). The system consists of three total LDOs coherently operating. A very low power efficient block operates while in standby or delivering under 2mA; power dissipation is under 1mW. The transition between standby and large power delivery is handled by a fast digital LDO; although not precise this topology avoids the generation of large spikes. The third reconfiguration is optimized for high power mode of operation. The high-power mode is regulated by the high power LDO and digital LDO working simultaneously taking full advantage of the analog and digital processors. The design has been fabricated in a CMOS 40nm technology and the chip is currently under characterization.  The research outcomes of this work have been disseminated in a sequence of publications at leading venues for circuit design, VLSI system integration, electronic design automation, neural networks, and computer architectures, as well as via graduate-level teaching. Under PI Li?s advising or joint advising, one MS student and three PhD students have graduated; they are now full-time engineers at Cirrus Logic, Cadence Design Systems, Micron (a student of Dr. Edgar Sanchez, the former Co-PI), and Meta (Facebook), working on chip design and electronic design automation, respectively. Among these students, Jeong-Jun Lee was awarded a UCSB ECE Ph.D. dissertation Fellowship. Wenrui Zhang joined Meta as research scientist.  At TAMU, Troy Buhr and Thomas Janes completed the mixed-mode LDO design advised by Dr. Silva and Dr. Karsilayan. Troy is currently a PhD student and will be continuing his research program. Thomas is graduating with his Master?s degree in December 2022 after which he will begin full-time work at Cirrus Logic as an analog design engineer. The design of this LDO is the core of Thomas thesis.          Last Modified: 11/22/2022       Submitted by: Peng Li]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

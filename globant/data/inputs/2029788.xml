@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Campus Coronavirus Response]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>133934.00</AwardTotalIntnAmount>
+<AwardAmount>133934</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lara Campbell</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This COVID-19 RAPID research project will assist hospitals and first responders throughout the United States as the country responds to the global pandemic. As COVID-19 cases continue to strain limited hospital resources, college campuses with largely vacated dormitories are in a unique position to provide additional beds and facilities to hospitals. Dormitories can be repurposed as alternative hospital sites to house recovering patients, or other non-critical-care patients, and can offer temporary lodging to medical personnel – all coordinated through health systems and hospital networks across each state. The project team has initiated a mathematical model and mapping tool to efficiently match patients and medical personnel to vacant college dormitory beds. This project is poised to make a meaningful impact mitigating the burdens on hospitals, initially in Massachusetts and the Northeastern U.S. and then expanding across the U.S.  The tools developed have potential to be useful immediately as well as in potential future “second waves” of COVID-19 infections. In addition, the model design and the visual tools are adaptable to other emergency response efforts. The tools this project develops have the potential to support decision-making any time one type of institution needs to turn to a second type of institution to expand its capacity.&lt;br/&gt;&lt;br/&gt;The project team has formulated their approach as a transport issue primarily, which they solve through a mixed integer program based on minimizing travel time. Their model primarily considers acute-care hospitals, although it could expand to include additional types of hospitals based on needs. The research effort behind this disaster assistance project includes investigating how various kinds of regularizations can be used to promote sparser matching in the linear integer program. Sparser matching would ensure that each hospital would collaborate with only one or a small number of universities and each university would receive patients/staff from only one or a small number of hospitals. Additional refinements may take hospitals with shared planning or logistics infrastructure into account, clustering them with the same universities. The team already developed a model for Massachusetts which they plan to scale to all 50 states using national datasets and engaging with appropriate hospital, university, and emergency management partners in those states.&lt;br/&gt;&lt;br/&gt;This RAPID award is made by the Convergence Accelerator program in the Office of Integrative Activities and is associated with the Convergence Accelerator Track A: Open Knowledge Networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029788</AwardID>
+<Investigator>
+<FirstName>Moon</FirstName>
+<LastName>Duchin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Moon Duchin</PI_FULL_NAME>
+<EmailAddress><![CDATA[moon.duchin@tufts.edu]]></EmailAddress>
+<NSF_ID>000603493</NSF_ID>
+<StartDate>05/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tufts University</Name>
+<CityName>SOMERVILLE</CityName>
+<ZipCode>021442401</ZipCode>
+<PhoneNumber>6176273696</PhoneNumber>
+<StreetAddress>169 HOLLAND ST FL 3</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WL9FLBRVPJJ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF TUFTS COLLEGE INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WL9FLBRVPJJ7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Tisch College at Tufts Univ.]]></Name>
+<CityName>Medford</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021555815</ZipCode>
+<StreetAddress><![CDATA[163 Packard Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>095Y</Code>
+<Text>CA-HDR: Convergence Accelerato</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~133934</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The RAPID grant supported the development and maintenance of numerous models and planning tools for COVID response.</p> <p><span id="docs-internal-guid-54b53ed1-7fff-9779-8f48-3bcfaabdeddc"> <p dir="ltr"><strong>CampusKey.</strong><span> In collaboration with the MIT Broad Institute, Tufts IT, and a design firm, the project developed a mobile app called CampusKey, to support the return to campus at Tufts University and Wellesley College. This app served as a hub for students, staff, and faculty to interface with the testing regime on campus by organizing user availability information, interfacing with our mathematical model assigning load-balanced scheduling, providing user access to test results, and displaying a badge indicating that the user is in compliance with their assigned testing schedule.</span></p> <p dir="ltr"><strong>Testing Calculator.</strong><span> We created up a University Testing Calculator, a scenario-building tool to help university leadership arrive at plans for COVID testing cohorts and frequency for the Fall 2020 semester.</span></p> <p dir="ltr"><strong>Queueing Tool. </strong><span>With models from queueing theory (Markov chain M/d/c) we allowed the user to simulate wait times at campus testing stations. This front-end web tool was used by campuses around the state to make informed decisions about setting up stations to efficiently handle expected testing load.</span></p> <p dir="ltr"><strong>Incoming COVID+ Estimator. </strong><span>The project team developed a tool to help university leadership estimate how many students will test positive for COVID-19 upon arrival to campus.</span></p> </span></p> <p><strong>Spatial Match.</strong><span> There are numerous applications for making a travel-minimizing spatial match from hospitals and labs to college campuses. In March, we built a spatial match tool (with a linear program under the hood) to connect hospitals to nearby college campuses. At the time, the intended use case was to relieve the bed strain on hospitals. As we plan for Fall, the same model can be used to match campuses to nearby CLIA-certified labs to do their COVID testing.</span></p> <p>&nbsp;</p> <p>Collectively, these tools had many thousands of users and helped support the highly effective campus COVID response in Massachusetts.</p> <p>All tools are public (in GitHub repositories) and well documented for future use.&nbsp;&nbsp;</p> <p><span><br /></span></p><br> <p>            Last Modified: 11/23/2021<br>      Modified by: Moon&nbsp;Duchin</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The RAPID grant supported the development and maintenance of numerous models and planning tools for COVID response.   CampusKey. In collaboration with the MIT Broad Institute, Tufts IT, and a design firm, the project developed a mobile app called CampusKey, to support the return to campus at Tufts University and Wellesley College. This app served as a hub for students, staff, and faculty to interface with the testing regime on campus by organizing user availability information, interfacing with our mathematical model assigning load-balanced scheduling, providing user access to test results, and displaying a badge indicating that the user is in compliance with their assigned testing schedule. Testing Calculator. We created up a University Testing Calculator, a scenario-building tool to help university leadership arrive at plans for COVID testing cohorts and frequency for the Fall 2020 semester. Queueing Tool. With models from queueing theory (Markov chain M/d/c) we allowed the user to simulate wait times at campus testing stations. This front-end web tool was used by campuses around the state to make informed decisions about setting up stations to efficiently handle expected testing load. Incoming COVID+ Estimator. The project team developed a tool to help university leadership estimate how many students will test positive for COVID-19 upon arrival to campus.   Spatial Match. There are numerous applications for making a travel-minimizing spatial match from hospitals and labs to college campuses. In March, we built a spatial match tool (with a linear program under the hood) to connect hospitals to nearby college campuses. At the time, the intended use case was to relieve the bed strain on hospitals. As we plan for Fall, the same model can be used to match campuses to nearby CLIA-certified labs to do their COVID testing.     Collectively, these tools had many thousands of users and helped support the highly effective campus COVID response in Massachusetts.  All tools are public (in GitHub repositories) and well documented for future use.            Last Modified: 11/23/2021       Submitted by: Moon Duchin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

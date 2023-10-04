@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PFI (RAPID): Assessment for COVID-19 RNA in Large Populations with Low-Cost, Mail-Safe, Fast-Scan Sensor Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>199999.00</AwardTotalIntnAmount>
+<AwardAmount>199999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Partnerships for Innovation (PFI)– RAPID Project is to develop a diagnostic platform that is well-suited for widespread monitoring of infection during pandemics, such as the current COVID-19 threat.  It consists of a low-cost mailer that can be used at home, returned in the mail in a safely-sealed, confidential envelope and quickly scanned upon receipt without opening to diagnose infection.  These results can be relayed to the user immediately and a real-time outbreak map along with affected demographics can be produced.  This approach off-loads the burden of diagnostics from health workers, eliminates the increased use of limited personal protective equipment, and provides a better response to outbreaks.  Resources could be more efficiently allocated by local and federal governments, and workers could make more informed decisions on staying at home or going to work.  Moreover, this project will train a team of four students to collaborate quickly together to meet the design constraints of an actual product based on technologies from their thesis work. Commercial impact beyond COVID-19 would be a highly modular platform that can be rapidly adapted to other current diagnostic needs (HIV, tropical diseases) as well as future pandemics.  &lt;br/&gt;&lt;br/&gt;The proposed project overcomes the current methods of COVID-19 detection which are limited by 1) healthcare workers having to collect samples, 2) shipment of biological specimens, and 3) bottleneck of assessment with current RT-PCR techniques. What is needed is a more rapid method of widespread genetic testing for epidemic control that overcomes these limitations. Here we propose a new sensor system that relies on embedded contact-free sensors and sensitive RNA detection and amplification in a low-cost, passive (no onboard power) solution that allows for the user to collect sample and safely carry or mail to a local scanner. In this work we will design genetic switches sensitive to COVID-19 RNA (aim 1), implement these switches on paper substrates with cell free protein production (aim 2), and integrate them with a resonant sensor RF transducer (aim 3).  The project deliverable will be a working prototype that is tested in our collaborative labs, along with a first generation data visualization interface.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029532</AwardID>
+<Investigator>
+<FirstName>Nigel</FirstName>
+<LastName>Reuel</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nigel F Reuel</PI_FULL_NAME>
+<EmailAddress><![CDATA[reuel@iastate.edu]]></EmailAddress>
+<NSF_ID>000733197</NSF_ID>
+<StartDate>04/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Green</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander A Green</PI_FULL_NAME>
+<EmailAddress><![CDATA[aagreen@bu.edu]]></EmailAddress>
+<NSF_ID>000700230</NSF_ID>
+<StartDate>04/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112103</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>1350 BEARDSHEAR HALL</StreetAddress>
+<StreetAddress2><![CDATA[515 MORRILL ROAD]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DQDBM7FGJPC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Iowa State University]]></Name>
+<CityName>Ames</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500112230</ZipCode>
+<StreetAddress><![CDATA[1138 Pearson]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>IA"</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This PFI (RAPID) award supported the design and testing of a new diagnostic platform to help manage viral outbreaks.&nbsp; The goal was to design a card that could accept a saliva sample at home and then be mailed or carried to a centralized reader in a sealed envelope. This sealed envelope would then be scanned, and diagnosis of virus presence would be reported to the user and uploaded to a public health database.&nbsp; Such a platform could reduce the amount of plastic waste used in current at home tests, improve level of accuracy (RNA test vs. rapid antigen test), and eliminate any transport of hazardous, infected materials. The designed solution consisted of an RNA-based switch that produced a protease in a cell lysate reaction when the target RNA was detected. This protease then degraded a coating on a resonant coil. This caused a change in the resonant frequency that was reported through the closed envelope. The team was largely successful in demonstrating this with a proof-of concept device that was mailed between research sites and allowed for detection of SARS-CoV-2. However, the platform still required off-card extraction and amplification of the virus. Fundamental advances supported by this work have led to subsequent patents and methods, some of which have been successfully commercialized, such as the frugal extract protocols which are now being applied to drug discovery and improved riboregulators for future viral outbreaks. This work supported the training of five graduate students and led to much public discussion on importance of diagnostics via popular press articles and television interviews.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/30/2022<br>      Modified by: Nigel&nbsp;F&nbsp;Reuel</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This PFI (RAPID) award supported the design and testing of a new diagnostic platform to help manage viral outbreaks.  The goal was to design a card that could accept a saliva sample at home and then be mailed or carried to a centralized reader in a sealed envelope. This sealed envelope would then be scanned, and diagnosis of virus presence would be reported to the user and uploaded to a public health database.  Such a platform could reduce the amount of plastic waste used in current at home tests, improve level of accuracy (RNA test vs. rapid antigen test), and eliminate any transport of hazardous, infected materials. The designed solution consisted of an RNA-based switch that produced a protease in a cell lysate reaction when the target RNA was detected. This protease then degraded a coating on a resonant coil. This caused a change in the resonant frequency that was reported through the closed envelope. The team was largely successful in demonstrating this with a proof-of concept device that was mailed between research sites and allowed for detection of SARS-CoV-2. However, the platform still required off-card extraction and amplification of the virus. Fundamental advances supported by this work have led to subsequent patents and methods, some of which have been successfully commercialized, such as the frugal extract protocols which are now being applied to drug discovery and improved riboregulators for future viral outbreaks. This work supported the training of five graduate students and led to much public discussion on importance of diagnostics via popular press articles and television interviews.          Last Modified: 08/30/2022       Submitted by: Nigel F Reuel]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

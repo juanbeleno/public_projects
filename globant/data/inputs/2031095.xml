@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[III: RAPID: Stay-at-home attitudes and their impact on the COVID-19 pandemic]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>99338.00</AwardTotalIntnAmount>
+<AwardAmount>99338</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The rapid spread of the novel SARS-CoV-2 coronavirus has paralyzed societies and strained health care systems, with a rising death toll and severe economic consequences. Stay-at-home orders around the globe have been embraced by some and protested by others. At the same time, little is known about the spectrum of attitudes towards these orders and people's justifications for following or resisting them. This research will develop algorithms for analyzing stay-at-home attitudes on social media, connecting these attitudes to pandemic impact through a novel visual representation that takes geographical location and socioeconomic context into account. This research will bring greater awareness to the public about the role of values that protect life in public discourse and their influence on citizens' appraisal of policies that affect their own well-being. Shared values, beliefs, and understandings build the social cohesion and cooperation needed to build greater economic prosperity. The results of this project will help policy makers craft more persuasive public health directives to enhance public health.&lt;br/&gt;&lt;br/&gt;Framing--highlighting certain aspects of an issue or event--can have a significant impact on the formation of perspective. To address the complexity of modern information networks, this project will develop algorithms that automatically detect frames propagated through social media. It focuses on value frames because people use those values to justify a position and issues can be re-framed accordingly to appeal to and change the opinions of target audiences. Creating the first dataset of its kind, this project will collect and annotate tweets that include stay-at-home attitudes and core value frames. Current state-of-the-art approaches to detecting attitudes in tweets are limited to binary or ternary classification of either sentiment (positive, negative, neutral) or language type (abusive versus "normal"). By bringing together state-of-the-art deep learning models with models that have more explanatory power, this project will devise a novel methodology for identifying values frames in microblogs that takes advantage of semantic and discourse structure information. By enabling statistical computing and analysis over geospatial data, for which few techniques exist currently, this research will make it possible to analyze datasets at multiple levels of spatial aggregation and to compare temporal and spatial differences to enhance participation and promote positive public health outcomes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031095</AwardID>
+<Investigator>
+<FirstName>Elena</FirstName>
+<LastName>Zheleva</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elena Zheleva</PI_FULL_NAME>
+<EmailAddress><![CDATA[ezheleva@uic.edu]]></EmailAddress>
+<NSF_ID>000758901</NSF_ID>
+<StartDate>05/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Barbara</FirstName>
+<LastName>DiEugenio</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Barbara DiEugenio</PI_FULL_NAME>
+<EmailAddress><![CDATA[bdieugen@uic.edu]]></EmailAddress>
+<NSF_ID>000192544</NSF_ID>
+<StartDate>05/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Georgeta-Elisab</FirstName>
+<LastName>Marai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Georgeta-Elisab Marai</PI_FULL_NAME>
+<EmailAddress><![CDATA[gmarai@uic.edu]]></EmailAddress>
+<NSF_ID>000678160</NSF_ID>
+<StartDate>05/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Rojecki</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew Rojecki</PI_FULL_NAME>
+<EmailAddress><![CDATA[arojecki@uic.edu]]></EmailAddress>
+<NSF_ID>000504394</NSF_ID>
+<StartDate>05/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress>809 S MARSHFIELD AVE M/C 551</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>W8XEAJDKMXH3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Chicago]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606124305</ZipCode>
+<StreetAddress><![CDATA[809 S. Marshfield Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~99338</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-ebfe8efc-7fff-e844-05bb-847229145685"> <p dir="ltr"><span>With the onset of the COVID-19 pandemic, a number of public policy measures have been developed to curb the spread of the virus. </span><span>Stay-at-home orders around the globe have been embraced by some and protested by others. </span><span>To understand the attitudes towards mandated quarantining, we analyzed the prevalence and framing of attitudes towards stay-at-home policies expressed on social media in the early months of the pandemic. We collected 6.7 million tweets related to stay-at-home, annotated a subset of the tweets, and used machine learning to perform large-scale analysis of the relationship between tweet frames and stay-at-home attitudes and their temporal evolution. Our findings suggest that measuring value-inflected responses improve upon conventional measures of public opinion for their spontaneity, granularity, and capacity to be tracked in real-time over an extended period. We found majority support for stay-at-home orders in early months, the overwhelming influence of the care dimension of value judgment, and the leading edge of signs of resistance that previewed more serious political opposition to future government mandates.&nbsp;</span></p> <p dir="ltr"><span>To aid our analysis, we developed a general visual computing framework for analyzing value rhetoric on social media around controversial topics. Our methodology deconstructed and visualized the when, where, and who behind each of these value dimensions as expressed in microblog data. We characterized the design of this framework, developed in collaboration with experts from information visualization, language processing, communications, and causal inference. Our approach integrated microblog data with multiple sources of geospatial and temporal data, and leverages unsupervised machine learning to support collaborative hypothesis discovery and testing. Through detailed case studies and discussions with collaborators, we identified several insights regarding the different drivers of value sentiment towards stay-at-home policies in social media during the COVID-19 pandemic in the United States. Our results indicated that our visual approach supports rapid, collaborative hypothesis testing, and can help give insights into the underlying values behind controversial political issues.</span></p> <p dir="ltr"><span>This project is an interdisciplinary collaboration between Computer Science and Communication. </span><span>The project advances our understanding of the value of social media as real-time indicators of spontaneous public opinion over a duration of time on policies that affect the entire population. It also responds to the value dimension of citizen attitudes, a quality that uniquely distinguishes the content of social media. It thereby folds into a burgeoning program of research on moral foundations theory as well as frame analysis methodology. The latter permits standardization of methods that lend themselves to Natural Language Processing (NLP), and stretches the limits of current state-of-the art NLP approaches.&nbsp; The data used by this project permits the design of new visual encodings in the field of Data Visualization.</span></p> <span>The results of this project can help policy makers craft more persuasive public health directives to enhance public health. </span><span>The results of this research have been disseminated through political science, visualization, natural language processing, and data science conferences and professional meetings. Two manuscripts have been published and two are in the process of being published. The project has also contributed to the professional development of graduate students through the deep interaction between the PIs and their students across the disciplines of Communication and Computer Science and different sub-disciplines within computer sciences. In addition, two seminars have been developed on the spread of opinion and misinformation in the information system.</span></span></p><br> <p>            Last Modified: 07/26/2022<br>      Modified by: Elena&nbsp;Zheleva</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  With the onset of the COVID-19 pandemic, a number of public policy measures have been developed to curb the spread of the virus. Stay-at-home orders around the globe have been embraced by some and protested by others. To understand the attitudes towards mandated quarantining, we analyzed the prevalence and framing of attitudes towards stay-at-home policies expressed on social media in the early months of the pandemic. We collected 6.7 million tweets related to stay-at-home, annotated a subset of the tweets, and used machine learning to perform large-scale analysis of the relationship between tweet frames and stay-at-home attitudes and their temporal evolution. Our findings suggest that measuring value-inflected responses improve upon conventional measures of public opinion for their spontaneity, granularity, and capacity to be tracked in real-time over an extended period. We found majority support for stay-at-home orders in early months, the overwhelming influence of the care dimension of value judgment, and the leading edge of signs of resistance that previewed more serious political opposition to future government mandates.  To aid our analysis, we developed a general visual computing framework for analyzing value rhetoric on social media around controversial topics. Our methodology deconstructed and visualized the when, where, and who behind each of these value dimensions as expressed in microblog data. We characterized the design of this framework, developed in collaboration with experts from information visualization, language processing, communications, and causal inference. Our approach integrated microblog data with multiple sources of geospatial and temporal data, and leverages unsupervised machine learning to support collaborative hypothesis discovery and testing. Through detailed case studies and discussions with collaborators, we identified several insights regarding the different drivers of value sentiment towards stay-at-home policies in social media during the COVID-19 pandemic in the United States. Our results indicated that our visual approach supports rapid, collaborative hypothesis testing, and can help give insights into the underlying values behind controversial political issues. This project is an interdisciplinary collaboration between Computer Science and Communication. The project advances our understanding of the value of social media as real-time indicators of spontaneous public opinion over a duration of time on policies that affect the entire population. It also responds to the value dimension of citizen attitudes, a quality that uniquely distinguishes the content of social media. It thereby folds into a burgeoning program of research on moral foundations theory as well as frame analysis methodology. The latter permits standardization of methods that lend themselves to Natural Language Processing (NLP), and stretches the limits of current state-of-the art NLP approaches.  The data used by this project permits the design of new visual encodings in the field of Data Visualization. The results of this project can help policy makers craft more persuasive public health directives to enhance public health. The results of this research have been disseminated through political science, visualization, natural language processing, and data science conferences and professional meetings. Two manuscripts have been published and two are in the process of being published. The project has also contributed to the professional development of graduate students through the deep interaction between the PIs and their students across the disciplines of Communication and Computer Science and different sub-disciplines within computer sciences. In addition, two seminars have been developed on the spread of opinion and misinformation in the information system.       Last Modified: 07/26/2022       Submitted by: Elena Zheleva]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

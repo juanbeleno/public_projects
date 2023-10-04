@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CEDAR: Resolving Thermosphere Response Times to Auroral and Solar Energy Inputs and Improving Neutral Density Predictions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>257836.00</AwardTotalIntnAmount>
+<AwardAmount>257836</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020201</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shikha Raizada</SignBlockName>
+<PO_EMAI>sraizada@nsf.gov</PO_EMAI>
+<PO_PHON>7032928963</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project is to refine and enhance a new computer model that provides temperatures in the thermosphere (the atmosphere region from about 80 to 600 km above sea level).  The temperature in the thermosphere varies in response to solar energy input and auroral events at high latitudes and is also closely related to the atmospheric density.  This improved model will help better predict the atmospheric temperature and density in the thermosphere.  Since the density is the key parameter that determines satellite drag, this improvement will help better predict satellite drag and space weather in response to changes in solar radiation and associated disturbances in Earth’s electromagnetic field.&lt;br/&gt;&lt;br/&gt;The new model is referred to with the acronym EXTEMPLAR, for EXospheric TEMperatures on a PoLyhedrAl gRid. The method relies on converting satellite density measurements into exospheric temperatures and sorting these values into bins based on their location on a geodesic grid. By fitting the data in each bin to the environmental conditions at the time, maps of the exospheric temperature can be obtained from the regression coefficients. These temperatures can be used to obtain neutral densities at any location and altitude, by substituting for the values in the empirical model of the thermosphere by the Naval Research Laboratory.&lt;br/&gt;&lt;br/&gt;Project activities include: (1) Measuring the time delays between auroral energy inputs and exospheric temperature response, and how these delays vary around the globe. (2) Investigating the occurrence of regions having decreasing density during major heating events. (3) Improving the modeling of the thermosphere's response to variable solar radiation. (4) Construction of an improved neutral density prediction model. (5) Validate the neutral density predictions with comparisons to measurements.&lt;br/&gt;&lt;br/&gt;The project has the potential to advance the knowledge and understanding of how the thermosphere responds on regional and global scales to energy that is transferred from both solar radiation and auroral electrodynamic heating. The timings between the energy input and the thermosphere's response will be established as a function of global coordinates. The development of methods using triangulated geodesic grids has the potential to transform modeling and analysis techniques within the space science community.&lt;br/&gt;&lt;br/&gt;The successful conclusion to this project will result in an empirical model that will be useful to other research in the scientific community, particularly those related to the objectives of the NSF CEDAR program, including simulations of the coupled, ionosphere/thermosphere system. The research has potential benefits to society at large, such as through better predictions of the variations in neutral mass density that can change the orbits of satellites. This capability is important to national security, the success of commercial space enterprises, as well as the safety of human spaceflight.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019465</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Weimer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel Weimer</PI_FULL_NAME>
+<EmailAddress><![CDATA[dweimer@vt.edu]]></EmailAddress>
+<NSF_ID>000327779</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[National Institute of Aerospace]]></Name>
+<CityName>Hampton</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>236666266</ZipCode>
+<StreetAddress><![CDATA[100 Exploration Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1521</Code>
+<Text>AERONOMY</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~257836</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The interaction of the solar wind with the Earth's magnetosphere causes varying levels of heating in the ionosphere. This heating is produced by auroral currents at high latitudes, which in turn causes the density of the upper atmosphere to change. A topic of importance is to determine how rapidly the density can increase at different locations around the globe following a surge in the heating, which can be calculated from measurements of the solar wind velocity and embedded magnetic fields.&nbsp; This project used measurements of the atmospheric density on two satellite missions known as CHAMP and GRACE. The results show that the density increases first near the poles, and much longer at lower latitudes, as expected.&nbsp; The time lags between changes in the energy input and the density response have been determined for the first time on a global scale. Maps of the time lags are derived. Near the equator the lags are shorter near local noon, and longer before local midnight.</p> <p>The time lag maps can used to improve empirical and numerical models of the thermosphere.&nbsp; More accurate models are needed for more precise predictions of the drag that satellites will encounter, and the subsequent changes in their orbits.&nbsp; The time-lag results were incorporated into a computer model that can predict the density of the upper atmosphere, in the region known as the thermosphere. Changes in this density following geomagnetic storms can perturb the orbits of the many satellites in this region, leading to imprecise knowledge of their paths and risk of collisions. Our computer model uses measurements of the solar wind and the embedded magnetic field to predict the level of heating in the upper atmosphere, and the resulting changes in the density throughout the thermosphere.&nbsp; This prediction capability is accomplished by the calculation of global maps of the temperature at the top of the thermosphere, known as the exosphere. These temperature values are entered into an empirical model known as NRL MSIS 2.0, which was produced by the Naval Research Laboratory, which then calculates the density at any location and altitude.&nbsp; The densities calculated in this manner are generally more accurate than those from the MSIS model alone, without use of the improved exospheric temperature calculations.</p> <p>In order to test the capabilities of the new model, its calculations were compared with density values derived by an Air Force data assimilation system based on radar tracking of multiple objects in Earth orbit over a 20-year period,&nbsp;which is referred to as the High Accuracy Drag Model (HASDM).&nbsp; The results of this comparison show that the model performance is excellent, particularly at the higher altitudes where geomagnetic storms have the greatest influence.</p><br> <p>            Last Modified: 06/22/2023<br>      Modified by: Daniel&nbsp;Weimer</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2019465/2019465_10681133_1687449060042_Outcome_Figure1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2019465/2019465_10681133_1687449060042_Outcome_Figure1--rgov-800width.jpg" title="Map of Thermosphere Time Delays"><img src="/por/images/Reports/POR/2023/2019465/2019465_10681133_1687449060042_Outcome_Figure1--rgov-66x44.jpg" alt="Map of Thermosphere Time Delays"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Map of time lags between Joule heating and exospheric temperatures. (a) Original results. (b) After smoothing three times, using mean value of each grid cell combined with all adjacent cells.</div> <div class="imageCredit">Daniel Weimer</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Daniel&nbsp;Weimer</div> <div class="imageTitle">Map of Thermosphere Time Delays</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2019465/2019465_10681133_1687450015535_Outcome_Figure2--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2019465/2019465_10681133_1687450015535_Outcome_Figure2--rgov-800width.jpg" title="Neutral density maps comparing new model (top) with HASDM model."><img src="/por/images/Reports/POR/2023/2019465/2019465_10681133_1687450015535_Outcome_Figure2--rgov-66x44.jpg" alt="Neutral density maps comparing new model (top) with HASDM model."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Example of neutral densities from EXTEMPLAR (top) and HASDM (bottom), mapped at 400 km altitude. Values are calculated for 26 October 2003, at 6 hr UT. The values in the upper right corners show the mean values of the densities at this altitude, with minimum and maximum values indicated in the lower</div> <div class="imageCredit">Daniel Weimer</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Daniel&nbsp;Weimer</div> <div class="imageTitle">Neutral density maps comparing new model (top) with HASDM model.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2019465/2019465_10681133_1687450643519_Outcome_Figure3--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2019465/2019465_10681133_1687450643519_Outcome_Figure3--rgov-800width.jpg" title="Long-term model comparison"><img src="/por/images/Reports/POR/2023/2019465/2019465_10681133_1687450643519_Outcome_Figure3--rgov-66x44.jpg" alt="Long-term model comparison"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Mean values of densities graphed as a function of time, using a logarithmic scale, for the time period from 1 January 2001 through 31 December 2004. HASDM results are shown in black, EXTEMPLAR in red, and NRLMSIS 2.0 values in blue, for altitudes of 800, 600, 400, and 300 km (top to bottom).</div> <div class="imageCredit">Daniel Weimer</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Daniel&nbsp;Weimer</div> <div class="imageTitle">Long-term model comparison</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The interaction of the solar wind with the Earth's magnetosphere causes varying levels of heating in the ionosphere. This heating is produced by auroral currents at high latitudes, which in turn causes the density of the upper atmosphere to change. A topic of importance is to determine how rapidly the density can increase at different locations around the globe following a surge in the heating, which can be calculated from measurements of the solar wind velocity and embedded magnetic fields.  This project used measurements of the atmospheric density on two satellite missions known as CHAMP and GRACE. The results show that the density increases first near the poles, and much longer at lower latitudes, as expected.  The time lags between changes in the energy input and the density response have been determined for the first time on a global scale. Maps of the time lags are derived. Near the equator the lags are shorter near local noon, and longer before local midnight.  The time lag maps can used to improve empirical and numerical models of the thermosphere.  More accurate models are needed for more precise predictions of the drag that satellites will encounter, and the subsequent changes in their orbits.  The time-lag results were incorporated into a computer model that can predict the density of the upper atmosphere, in the region known as the thermosphere. Changes in this density following geomagnetic storms can perturb the orbits of the many satellites in this region, leading to imprecise knowledge of their paths and risk of collisions. Our computer model uses measurements of the solar wind and the embedded magnetic field to predict the level of heating in the upper atmosphere, and the resulting changes in the density throughout the thermosphere.  This prediction capability is accomplished by the calculation of global maps of the temperature at the top of the thermosphere, known as the exosphere. These temperature values are entered into an empirical model known as NRL MSIS 2.0, which was produced by the Naval Research Laboratory, which then calculates the density at any location and altitude.  The densities calculated in this manner are generally more accurate than those from the MSIS model alone, without use of the improved exospheric temperature calculations.  In order to test the capabilities of the new model, its calculations were compared with density values derived by an Air Force data assimilation system based on radar tracking of multiple objects in Earth orbit over a 20-year period, which is referred to as the High Accuracy Drag Model (HASDM).  The results of this comparison show that the model performance is excellent, particularly at the higher altitudes where geomagnetic storms have the greatest influence.       Last Modified: 06/22/2023       Submitted by: Daniel Weimer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

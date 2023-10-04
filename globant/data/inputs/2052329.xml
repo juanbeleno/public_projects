@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  Mobile manipulation platform for rebar tying]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1199999</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ela Mirowski</SignBlockName>
+<PO_EMAI>emirowsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032922936</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is the development of a robotic solution to automate a dangerous and repetitive rebar tying task in construction. Rebar tying is performed by “rodbusters”, 88% of whom reported that they suffered some form of musculoskeleton disorder during their career. Removing the repetitive bending over and tying actions can have significant impacts on the quality life of the workers who commonly suffer from carpal tunnel complications and back injuries. The market for rebar tying services solely for bridge decks in the US is valued at over $370 million across the next ten years. The general construction market is estimated to spend at least $1.3 billion annually for rebar tying. A quality transportation infrastructure has direct impacts on national defense readiness, economic competitiveness, disaster response, exchange of goods, and standards of living. However, at present, the US has a growing backlog of bridges deemed deficient. A successful Phase II project may play a key role in addressing the infrastructure maintenance backlog and allowing a key foundation of the national economic engine to function properly.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project seeks to demonstrate multiple robots to perform automated rebar tying. Many construction projects have thousands of rebar intersections that need to be tied; A system to detect these intersections is proposed. Various algorithms for detecting rebar will be improved and integrated to build a semi-automated rebar map building software. The research project will build an aircraft configuration and develop various computer vision and controls algorithms to demonstrate that a drone can fly over placed rebar, identify the intersections to tie, land on top of them and tie the rebar together. A small swarm of the customized drone prototypes will be built for demonstration. Speed in executing the job is critical for most construction projects implying that each intersection has to be tied in a matter of seconds for viable adoption of the proposed technology. The success of this project may result in the first commercially-viable swarm of mobile manipulation robots for unstructured environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>11/29/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052329</AwardID>
+<Investigator>
+<FirstName>Eohan</FirstName>
+<LastName>George</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eohan George</PI_FULL_NAME>
+<EmailAddress><![CDATA[eg@skymul.com]]></EmailAddress>
+<NSF_ID>000749511</NSF_ID>
+<StartDate>09/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>RotoYe LLC</Name>
+<CityName>MARIETTA</CityName>
+<ZipCode>300677168</ZipCode>
+<PhoneNumber>5402336426</PhoneNumber>
+<StreetAddress>866 BONNIE GLEN DR SE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MZT8TJKK5FD7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ROTOYE LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[RotoYe LLC]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303395016</ZipCode>
+<StreetAddress><![CDATA[2030 Powers ferry rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>169E</Code>
+<Text>SBIR Tech Enhan Partner (TECP)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7632</Code>
+<Text>HUMAN-ROBOT INTERACTION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~1000000</FUND_OBLG>
+<FUND_OBLG>2023~199999</FUND_OBLG>
+</Award>
+</rootTag>

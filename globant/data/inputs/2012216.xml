@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Commutativity in Numerical Computation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>64552.00</AwardTotalIntnAmount>
+<AwardAmount>64552</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project concerns consistency in scientific inferences. Multiple observations of the same phenomenon rarely produce identical results. Statistical noise may be the first complication that comes to mind, but there are plenty of other possible discrepancies as well: different antenna arrangements; different camera angles; different modalities, e.g., images and text; and more. Inferring the true underlying phenomenon requires sophisticated mathematics. This project focuses on matrix methods. Hiding within the simple numerical entries of a matrix are intricate patterns called eigenvectors that are connected to the harmonics of musical instruments. Even though different kinds of measurements may produce different numerical values, they may share the same eigenvectors when observing the same objects. One of the goals of the project is to pull consistency out of inconsistent data. In theory, measurements on the same object from different instruments should agree in certain ways, but because of statistical noise and other sources of error and uncertainty, each instrument provides an inexact view of the world, and the two instruments will not agree perfectly with each other. The goal is to bring the measurements into alignment using mathematics and therefore likely into better agreement with the true state of the universe. The project will be completed at a Primarily Undergraduate Institution, and introducing undergraduate students to research in STEM fields is a primary objective.&lt;br/&gt;&lt;br/&gt;The mathematical focus of the project is simultaneous diagonalization of commuting Hermitian matrices. In theory, commuting Hermitian matrices share a common eigenvector matrix. However, numerically-computed eigenvectors may differ wildly in the presence of ill conditioning. A numerical method for simultaneous diagonalization seeks, either explicitly or implicitly, small perturbations of the input matrices that commute exactly. The project objectives include contributions to theory, method, and application. First, a reconsideration of "near commutativity" is planned, in which eigenvalues are fixed in place and attention shifts from the space of Hermitian matrices to the unitary group of eigenvector matrices. Second, the project will pursue new numerical methods for simultaneous diagonalization, motivated in part by relatively recent spectral divide-and-conquer methods. Third, the new approaches will be applied to applications such as independent component analysis and unsupervised machine learning with multimodal data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012216</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Sutton</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian D Sutton</PI_FULL_NAME>
+<EmailAddress><![CDATA[bsutton@rmc.edu]]></EmailAddress>
+<NSF_ID>000519203</NSF_ID>
+<StartDate>06/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Randolph-Macon College</Name>
+<CityName>ASHLAND</CityName>
+<ZipCode>230051502</ZipCode>
+<PhoneNumber>8047527268</PhoneNumber>
+<StreetAddress>204 HENRY ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HPCLFGJ7JH26</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RANDOLPH-MACON COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>HPCLFGJ7JH26</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Randolph-Macon College]]></Name>
+<CityName>Ashland</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>230051502</ZipCode>
+<StreetAddress><![CDATA[310 N. Center Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~64552</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Eigenvalues and eigenvectors arise throughout science and engineering, for example, in the resonant frequencies and vibrational modes of a physical structure. This project considered situations in which two or more systems share eigenvectors. This can happen, for instance, when the systems arise from different views of the same underlying phenomenon. Often, the combination of observations provides a deeper and clearer view than any one of the observations alone. At the same time, this opportunity presents a challenge: for the results to make any sense, a mathematical or computational method must recover consistency from potentially noisy observations.</p> <p>The project work focused on new mathematical and computational methods for the simultaneous eigenvector problem. The outcomes include new algorithms capable of handling much larger problems than have been feasible in the recent past. The algorithms are also quite flexible, leveraging existing methods for the single matrix problem: as advances continue to be made on the single-input problem, the new algorithm will automatically benefit.</p> <p>The impacts of our algorithm may be felt in areas such as data science and physics. An example application to data science is multimodal classification, in which different kinds of views of the same object, e.g., images and verbal descriptions, are combined to organize unstructured data sets. Within physics, there are sensitive systems and special symmetries that benefit from our algorithm's ability to balance multiple inputs.</p> <p>The work was supported by the program "Facilitating Research at Primarily Undergraduate Institutions," and four of the participating researchers were undergraduate students. They participated in an intense summer-long research experience, during which they collaboratively investigated original research questions and shared their findings in writing and through oral presentations. Participants have also presented their work at conferences and have prepared a technical article.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/16/2022<br>      Modified by: Brian&nbsp;D&nbsp;Sutton</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Eigenvalues and eigenvectors arise throughout science and engineering, for example, in the resonant frequencies and vibrational modes of a physical structure. This project considered situations in which two or more systems share eigenvectors. This can happen, for instance, when the systems arise from different views of the same underlying phenomenon. Often, the combination of observations provides a deeper and clearer view than any one of the observations alone. At the same time, this opportunity presents a challenge: for the results to make any sense, a mathematical or computational method must recover consistency from potentially noisy observations.  The project work focused on new mathematical and computational methods for the simultaneous eigenvector problem. The outcomes include new algorithms capable of handling much larger problems than have been feasible in the recent past. The algorithms are also quite flexible, leveraging existing methods for the single matrix problem: as advances continue to be made on the single-input problem, the new algorithm will automatically benefit.  The impacts of our algorithm may be felt in areas such as data science and physics. An example application to data science is multimodal classification, in which different kinds of views of the same object, e.g., images and verbal descriptions, are combined to organize unstructured data sets. Within physics, there are sensitive systems and special symmetries that benefit from our algorithm's ability to balance multiple inputs.  The work was supported by the program "Facilitating Research at Primarily Undergraduate Institutions," and four of the participating researchers were undergraduate students. They participated in an intense summer-long research experience, during which they collaboratively investigated original research questions and shared their findings in writing and through oral presentations. Participants have also presented their work at conferences and have prepared a technical article.          Last Modified: 10/16/2022       Submitted by: Brian D Sutton]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

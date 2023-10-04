@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[COVID 19: RAPID: Informed Decision Making for Pandemic Management]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>146274.00</AwardTotalIntnAmount>
+<AwardAmount>146274</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Goldberg</SignBlockName>
+<PO_EMAI>lgoldber@nsf.gov</PO_EMAI>
+<PO_PHON>7032928339</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The primary goal of the proposal is to develop a set of tools to inform and advise decision makers to control large-scale global pandemics. Specific research problems to be addressed include (1) Making reliable predictions for the state of the pandemic in the next few days/weeks/months. (2) Estimating the effect of governmental measures in the dynamics of the pandemic. (3) Designing protocols for effective control of a pandemic to prevent overloading the healthcare system. Efficient management of large-scale epidemics that are likely to overwhelm the health care system on a national scale, which would surely lead to a significant increase in the loss of human lives, including deaths not related to the specific pathogen causing the epidemic. &lt;br/&gt;&lt;br/&gt;This project will make contributions to the fundamental research on developing actionable models for epidemic estimation and control. Specifically, the focus is on models that are amenable to (i) the estimation of model parameters, (ii) the estimation of the state of the epidemic, and (iii) computing optimal intervention policies; all three with high degrees of confidence based on the relatively small datasets that are available while an epidemic is evolving. The research includes data-driven techniques to determine the impact of non-pharmaceutical social measures for epidemic management. A key challenge in this area is to reliably infer causal relationships between social measures and their effect in the epidemic dynamics. Methods will be developed to determine intervention policies that minimize the loss of human life and economic impact, without overwhelming the healthcare system. The existence of delays from actuation (e.g., through social measures) to effects (e.g., in changes of infection rates) and the large uncertainty in the actuation mechanisms pose significant technical challenges that must be addressed through robust decision policies. This project will also provide training opportunities for students in the areas of system modeling, identification, and control.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029985</AwardID>
+<Investigator>
+<FirstName>Joao</FirstName>
+<LastName>Hespanha</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joao P Hespanha</PI_FULL_NAME>
+<EmailAddress><![CDATA[hespanha@ece.ucsb.edu]]></EmailAddress>
+<NSF_ID>000111915</NSF_ID>
+<StartDate>05/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>3227 CHEADLE HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>931069560</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>092E</Code>
+<Text>Control systems &amp; applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~146274</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The primary goal of this RAPID proposal was to develop a set of tools to inform and advise decision makings for the control of large-scale global pandemics. Specific research problems to be addressed include&nbsp;</p> <ol> <li>Making reliable predictions for the state of the pandemic in the next few days/weeks/months.&nbsp;</li> <li>Designing protocols for effective control of a pandemic to prevent overloading the healthcare system.&nbsp;</li> </ol> <p><em>Forecasting:</em></p> <p>We addressed the prediction of the number of new cases and deaths for the coronavirus disease 2019 (COVID-19) over a future horizon from historical data (forecasting). We used a model-based approach based on a stochastic Susceptible-Infections-Removed (SIR) model with time-varying parameters, which captures the evolution of the disease dynamics in response to changes in social behavior, non-pharmaceutical interventions, and testing rates.&nbsp;</p> <p>Our work showed that it is possible to construct reliable forecasts for the evolution of an epidemic purely from time series of new cases and deaths. This is particularly important in scenarios where social behavior and nonpharmaceutical interventions cause a continuous change in epidemic parameters such as the infection and reporting rates. A distinguishing feature of this work is that our forecasts are characterized by reliable measured of confidence to enable decision makers to plan for worst-case scenarios.&nbsp;</p> <p>Our modeling and forecasting approaches were validated on an extensive collection of COVID-19 datasets. For 144 regions around the world, we computed weekly 7, 14, and 21 days-ahead forecasts from March to December of 2020 for the number of new cases and deaths due to COVID-19. These forecasts and all the associated initial conditions and parameter estimates were computed solely using past data and then compared with the actual (future) data. We started to produce forecasts with as little as 21 days of data, but it generally took 4-5 weeks of data to start getting confidence intervals that are somewhat tight.&nbsp;</p> <p>We produced forecasts for every country represented in the European Center for Disease Prevention and Control (ECDPC) and Center for Systems Science and Engineering (CSSE) at Johns Hopkins University&nbsp;&nbsp;datasets that, at some point in time, reported more than 10 new COVID-19 cases in one day. For a few countries, including the United States of America and Brazil, we had available data at the state/province/city level and produced forecasts at finer regional levels. &nbsp;</p> <p><em>Vaccination policies:</em></p> <p>We addressed the model identification and the computation of optimal vaccination policies for the coronavirus disease 2019 (COVID-19). We considered a stochastic Susceptible?Infected?Removed (SIR) model that captures the effect of multiple vaccine treatments, each requiring a different number of doses and providing different levels of protection against the disease. We showed that the inclusion of vaccination data enables the estimation of the state of the model and key model parameters that are otherwise not identifiable. This estimates can, in turn, be used to design strategic approaches to vaccination that aim at minimizing the number of deaths and the economic cost of the disease.&nbsp;</p> <p>Our work was published on a special issue of the Journal Annual Reviews in Control (ARC) devoted to&nbsp;Systems &amp; Control Research Efforts Against COVID-19 and Future Pandemic.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 06/15/2022<br>      Modified by: Joao&nbsp;P&nbsp;Hespanha</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2029985/2029985_10667649_1655333132260_rapid-2029985-Final-Outcomes--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2029985/2029985_10667649_1655333132260_rapid-2029985-Final-Outcomes--rgov-800width.jpg" title="Epidemic forecasts for California, US"><img src="/por/images/Reports/POR/2022/2029985/2029985_10667649_1655333132260_rapid-2029985-Final-Outcomes--rgov-66x44.jpg" alt="Epidemic forecasts for California, US"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Prediction of the number of new cases and daily deaths in California for the Corona virus COVID-19 outbreak. These forecasts were obtained using a parameter-varying stochastic SIR model.</div> <div class="imageCredit">Joao Hespanha</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Joao&nbsp;P&nbsp;Hespanha</div> <div class="imageTitle">Epidemic forecasts for California, US</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The primary goal of this RAPID proposal was to develop a set of tools to inform and advise decision makings for the control of large-scale global pandemics. Specific research problems to be addressed include   Making reliable predictions for the state of the pandemic in the next few days/weeks/months.  Designing protocols for effective control of a pandemic to prevent overloading the healthcare system.    Forecasting:  We addressed the prediction of the number of new cases and deaths for the coronavirus disease 2019 (COVID-19) over a future horizon from historical data (forecasting). We used a model-based approach based on a stochastic Susceptible-Infections-Removed (SIR) model with time-varying parameters, which captures the evolution of the disease dynamics in response to changes in social behavior, non-pharmaceutical interventions, and testing rates.   Our work showed that it is possible to construct reliable forecasts for the evolution of an epidemic purely from time series of new cases and deaths. This is particularly important in scenarios where social behavior and nonpharmaceutical interventions cause a continuous change in epidemic parameters such as the infection and reporting rates. A distinguishing feature of this work is that our forecasts are characterized by reliable measured of confidence to enable decision makers to plan for worst-case scenarios.   Our modeling and forecasting approaches were validated on an extensive collection of COVID-19 datasets. For 144 regions around the world, we computed weekly 7, 14, and 21 days-ahead forecasts from March to December of 2020 for the number of new cases and deaths due to COVID-19. These forecasts and all the associated initial conditions and parameter estimates were computed solely using past data and then compared with the actual (future) data. We started to produce forecasts with as little as 21 days of data, but it generally took 4-5 weeks of data to start getting confidence intervals that are somewhat tight.   We produced forecasts for every country represented in the European Center for Disease Prevention and Control (ECDPC) and Center for Systems Science and Engineering (CSSE) at Johns Hopkins University  datasets that, at some point in time, reported more than 10 new COVID-19 cases in one day. For a few countries, including the United States of America and Brazil, we had available data at the state/province/city level and produced forecasts at finer regional levels.    Vaccination policies:  We addressed the model identification and the computation of optimal vaccination policies for the coronavirus disease 2019 (COVID-19). We considered a stochastic Susceptible?Infected?Removed (SIR) model that captures the effect of multiple vaccine treatments, each requiring a different number of doses and providing different levels of protection against the disease. We showed that the inclusion of vaccination data enables the estimation of the state of the model and key model parameters that are otherwise not identifiable. This estimates can, in turn, be used to design strategic approaches to vaccination that aim at minimizing the number of deaths and the economic cost of the disease.   Our work was published on a special issue of the Journal Annual Reviews in Control (ARC) devoted to Systems &amp; Control Research Efforts Against COVID-19 and Future Pandemic.                Last Modified: 06/15/2022       Submitted by: Joao P Hespanha]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative: Transfer Learning Techniques for Better Response to COVID-19 in the US]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Von Lehmen</SignBlockName>
+<PO_EMAI>avonlehm@nsf.gov</PO_EMAI>
+<PO_PHON>7032924756</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project will use available data sets for COVID-19 in other countries, and in NYC, Virginia, and Maryland to build compartmental and metapopulation models to quantify the events that transpired there, and what interventions at various stages may have achieved. This will permit gaining control of future situations earlier.  The epidemic models developed during this project will lead to innovations in computational epidemiology and enable approaches that mitigate the negative effects of COVID-19 on public health, society, and the economy.&lt;br/&gt;&lt;br/&gt;Based on publicly available data sets for COVID-19 in other countries, and in NYC, Virginia, and Maryland, the researchers propose to build compartmental and metapopulation models to quantify the events that transpired there, understand the impacts of interventions at various stages, and develop optimal strategies for containing the pandemic. The basic model will subdivide the population into classes according to age, gender, and infectious status; examine the impact of the quarantine that was imposed; and then consider additional strategies that could have been imposed, in particular to reduce contact rates.  The project will apply and extend the approach of "transfer learning" to this problem.  The research team is well positioned to conduct this research; they have a long history of experience tracking and modeling infectious disease spread (e.g., Ebola, SARS) and are already participating in the CDC forecasting challenge for COVID-19.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027984</AwardID>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Blaser</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin Blaser</PI_FULL_NAME>
+<EmailAddress><![CDATA[martin.blaser@cabm.rutgers.edu]]></EmailAddress>
+<NSF_ID>000688195</NSF_ID>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers, The State University of New Jersey-RBHS-Robert Wood</Name>
+<CityName>PISCATAWAY</CityName>
+<ZipCode>088548021</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>675 HOES LN</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MG5BM5RM42J9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M1LVPE5GLSD9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[rutgers, the state university of new jersey]]></Name>
+<CityName>piscatway</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>088548020</ZipCode>
+<StreetAddress><![CDATA[679 hoes lane west]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~25000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="WordSection1"> <p><span style="text-decoration: underline;">GNN Outcomes:</span></p> <p>(i) Human mobility evaluation: We first analyzed the joint effects of social-distancing guidelines and mobility patterns at US state levels using an integrated map of mobility flows, COVID-19 Surveillance data, and data on social distancing guidelines. We showed that COVID-19 disease dynamics co-evolved with mobility behavior during the pandemic. This also conforms with our assumption that using mobility flow data to facilitate model learning is a promising way to better understand the disease dynamics. (ii) Forecasting model: The GNN-based US state level daily new cases forecast model shows better forecasting performance when compared with its variants as well as several existing classic and state-of-the-art time series methods. The proposed model is flexible to account for various static and dynamic spatiotemporal signals and can be extended to forecast other disease dynamics.</p> <p><span style="text-decoration: underline;">EpiHiper:</span> A manuscript on COVID-19 Scenario Modeling Hub round 6/7 results has been submitted to eLife for publication. Truelove S, Smith C, et al. Projected resurgence of COVID-19 in the United States resulting from variants with increased transmissibility and faltering vaccination. Submitted to <em>eLife</em>.</p> <p>Adiga A, Wang L, Hurt B, Peddireddy A, Porebski P, Venkatramanan S, Lewis B, Marathe M. All Models Are Useful: Bayesian Ensembling for Robust High Resolution COVID-19 Forecasting. Proceedings of the SIGKDD 2021.</p> <p>Wang L, Ben X, Adiga A, Sadilek A, Tendulkar A, Venkatramanan S, Vullikanti A, Aggarwal G, Talekar A, Chen J, Lewis BL, Swarup S, Kapoor A, Tambe M, Marathe M. (2020). Using Mobility</p> </div> <p>Data to Understand and Forecast COVID19 Dynamics. <em>medRxiv</em>.<a href="https://doi.org/10.1101/2020.12.13.20248129"> https://doi.org/10.1101/2020.12.13.20248129</a></p> <p>Washington, N.L., Gangavarapu, K., Zeller, M., Bolze, A., Cirulli, E.T., Barrett, K.M.S., Larsen, B.B., Anderson, C., White, S., Cassens, T. and Jacobs, S., 2021. Emergence and rapid transmission of SARS-CoV-2 B. 1.1. 7 in the United States. <em>Cell</em>, <em>184</em>(10), pp.2587-2594.</p> <p>The results have been published in various venues listed below. We have also given over 15 invited presentations where results discussed here were presented.</p> <p><em>Science, Journal of the Indian Institute of Science</em>, <em>Proceedings of the SIGKDD 2021, Proceedings of the AAAI Conference on Artificial Intelligence, Royal Society Open Science, Journal of the Royal Society Interface</em>, <em>Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems, 2020 IEEE International Conference on Big Data, </em>and <em>Harvard Data Science Review</em>.<span style="text-decoration: underline;"> </span></p> <p>&nbsp;</p><br> <p>            Last Modified: 09/27/2021<br>      Modified by: Martin&nbsp;Blaser</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  GNN Outcomes:  (i) Human mobility evaluation: We first analyzed the joint effects of social-distancing guidelines and mobility patterns at US state levels using an integrated map of mobility flows, COVID-19 Surveillance data, and data on social distancing guidelines. We showed that COVID-19 disease dynamics co-evolved with mobility behavior during the pandemic. This also conforms with our assumption that using mobility flow data to facilitate model learning is a promising way to better understand the disease dynamics. (ii) Forecasting model: The GNN-based US state level daily new cases forecast model shows better forecasting performance when compared with its variants as well as several existing classic and state-of-the-art time series methods. The proposed model is flexible to account for various static and dynamic spatiotemporal signals and can be extended to forecast other disease dynamics.  EpiHiper: A manuscript on COVID-19 Scenario Modeling Hub round 6/7 results has been submitted to eLife for publication. Truelove S, Smith C, et al. Projected resurgence of COVID-19 in the United States resulting from variants with increased transmissibility and faltering vaccination. Submitted to eLife.  Adiga A, Wang L, Hurt B, Peddireddy A, Porebski P, Venkatramanan S, Lewis B, Marathe M. All Models Are Useful: Bayesian Ensembling for Robust High Resolution COVID-19 Forecasting. Proceedings of the SIGKDD 2021.  Wang L, Ben X, Adiga A, Sadilek A, Tendulkar A, Venkatramanan S, Vullikanti A, Aggarwal G, Talekar A, Chen J, Lewis BL, Swarup S, Kapoor A, Tambe M, Marathe M. (2020). Using Mobility   Data to Understand and Forecast COVID19 Dynamics. medRxiv. https://doi.org/10.1101/2020.12.13.20248129  Washington, N.L., Gangavarapu, K., Zeller, M., Bolze, A., Cirulli, E.T., Barrett, K.M.S., Larsen, B.B., Anderson, C., White, S., Cassens, T. and Jacobs, S., 2021. Emergence and rapid transmission of SARS-CoV-2 B. 1.1. 7 in the United States. Cell, 184(10), pp.2587-2594.  The results have been published in various venues listed below. We have also given over 15 invited presentations where results discussed here were presented.  Science, Journal of the Indian Institute of Science, Proceedings of the SIGKDD 2021, Proceedings of the AAAI Conference on Artificial Intelligence, Royal Society Open Science, Journal of the Royal Society Interface, Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems, 2020 IEEE International Conference on Big Data, and Harvard Data Science Review.           Last Modified: 09/27/2021       Submitted by: Martin Blaser]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

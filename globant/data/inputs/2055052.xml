@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Leveraging Building Information Modeling (BIM) for More Accurate Indoor Positioning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255997.00</AwardTotalIntnAmount>
+<AwardAmount>255997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the ability for case investigation and contact tracing as core disease control measures during times of viral outbreak. This technology enables facilities to track and adhere to capacity limits for indoor spaces. The data generated will allow facilities to ensure a higher degree of safety during instances of high viral transmission risk as seen during the COVID-19 pandemic.  This technology is marketable as one of the many advances possible in newly built or renovated “smart buildings” as it will offer innovations in mobile computing, the Internet of Things, and cyber-physical systems. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project proposes a more accurate indoor positioning method, utilizing the numerical propagation model, semantic model, and Building Information Modeling (BIM) to solve multi-objective optimization problems. Currently available tracking models cannot accurately ascertain the number and location of occupants in a given space. The research objectives of this proposal involve using environmental information stored within 3D models including wall and floor location,  materials composition, dimensional analysis, and furniture layouts to detect occupants accurately. The semantic information will be gathered based on the building configuration and user profiles. Three parameters: physical obstacles, previous positions, and job functions will be used to calculate the probability of the target being in a given location. The anticipated technical result will be the creation of a 3D probability map that can search the environment for real-time indoor positioning. This will enable building managers to track how many occupants are in any given location to more accurately comply with capacity restrictions, especially in times of severe viral outbreaks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/17/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>12/13/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2055052</AwardID>
+<Investigator>
+<FirstName>Marjan</FirstName>
+<LastName>Sadeghi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marjan Sadeghi</PI_FULL_NAME>
+<EmailAddress><![CDATA[marjan.sadeghi@viatechnik.com]]></EmailAddress>
+<NSF_ID>000836464</NSF_ID>
+<StartDate>11/17/2021</StartDate>
+<EndDate>12/13/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maria</FirstName>
+<LastName>Laguarda-Mallo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maria Laguarda-Mallo</PI_FULL_NAME>
+<EmailAddress><![CDATA[maria.laguarda-mallo@viatechnik.com]]></EmailAddress>
+<NSF_ID>000918723</NSF_ID>
+<StartDate>12/13/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>VIATECHNIK LLC</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606071018</ZipCode>
+<PhoneNumber>3124621060</PhoneNumber>
+<StreetAddress>1500 W CARROLL AVE</StreetAddress>
+<StreetAddress2><![CDATA[STE 500]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TDJ1TD7PQWS1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIATECHNIK LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>R8QYNZTUJLL9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[VIATECHNIK LLC]]></Name>
+<CityName>CHICAGO</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606071018</ZipCode>
+<StreetAddress><![CDATA[1500 W CARROLL AVE # 5]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4097</Code>
+<Text>NETWORKING RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~255997</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p style="text-align: center;"><span style="text-decoration: underline;"><strong>Project Outcomes Report</strong></span></p> <p>&nbsp;</p> <p style="text-align: center;"><strong>Leveraging Building Information Modeling (BIM) </strong></p> <p style="text-align: center;"><strong>for More Accurate Indoor Positioning</strong></p> <p style="text-align: center;"><strong><br /></strong></p> <p>The widespread adoption of Building Information Models (BIM) and the recent emergence of Internet of Things (IoT) applications offer the opportunity to harness the power of true Digital Twins in interacting with, and managing the data created by the built environment. The real-time connectivity and visualization of real-world data in the virtual world provides opportunity to revolutionize the way the physical world interacts with the virtual world. This live synchronization and visualization of real-world data in the virtual world provides an understanding of how occupants utilize and move around the space and unlocks opportunities to optimize this interaction.</p> <p>This research done by VIATechnik, leveraged Building Information Models (BIM) and the Internet of Things (IOT) to collect and interpret data on how occupants interact with the built environment. We developed a Minimum Viable Product (MVP) (featuring a mobile application and a web application) that generates a more accurate indoor position location utilizing nothing more than existing hardware infrastructure (cellphones, Wi-Fi Access Points) and the BIM. Our solution collects additional information on the propagation environment, spatial information, and user profiles in three models: Building Information Model, the Semantic model, and the Propagation model. Using the spatial information provided by the BIM, our team developed a positioning system comprising three components/features: 1) signal strength map for each AP, 2) wave propagation model to calculate an object's coordinate in the space that incorporates BIM data, 3) mobile application to measure the RSSI values for each AP. The MVP compared the Received Signal Strength Indicator (RSSI) as a measure for signal quality with adjustments to the location prediction based on BIM data related to material thickness and material type to a signal strength value.</p> <p>As part of this phase, we collected experimental data and tested the viability of the developed algorithm in two test environments utilizing two different cellphone models. The results proved that the implementation of BIM improves the accuracy of indoor localization by 20%-65% compared to without BIM.&nbsp; Based on this improvement, there exists an opportunity to understand how occupants utilize indoor spaces better thereby unlocking opportunities for more efficient space planning and revenue optimization for retailers</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/15/2022<br>      Modified by: Maria&nbsp;Laguarda-Mallo</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[Project Outcomes Report    Leveraging Building Information Modeling (BIM)  for More Accurate Indoor Positioning    The widespread adoption of Building Information Models (BIM) and the recent emergence of Internet of Things (IoT) applications offer the opportunity to harness the power of true Digital Twins in interacting with, and managing the data created by the built environment. The real-time connectivity and visualization of real-world data in the virtual world provides opportunity to revolutionize the way the physical world interacts with the virtual world. This live synchronization and visualization of real-world data in the virtual world provides an understanding of how occupants utilize and move around the space and unlocks opportunities to optimize this interaction.  This research done by VIATechnik, leveraged Building Information Models (BIM) and the Internet of Things (IOT) to collect and interpret data on how occupants interact with the built environment. We developed a Minimum Viable Product (MVP) (featuring a mobile application and a web application) that generates a more accurate indoor position location utilizing nothing more than existing hardware infrastructure (cellphones, Wi-Fi Access Points) and the BIM. Our solution collects additional information on the propagation environment, spatial information, and user profiles in three models: Building Information Model, the Semantic model, and the Propagation model. Using the spatial information provided by the BIM, our team developed a positioning system comprising three components/features: 1) signal strength map for each AP, 2) wave propagation model to calculate an object's coordinate in the space that incorporates BIM data, 3) mobile application to measure the RSSI values for each AP. The MVP compared the Received Signal Strength Indicator (RSSI) as a measure for signal quality with adjustments to the location prediction based on BIM data related to material thickness and material type to a signal strength value.  As part of this phase, we collected experimental data and tested the viability of the developed algorithm in two test environments utilizing two different cellphone models. The results proved that the implementation of BIM improves the accuracy of indoor localization by 20%-65% compared to without BIM.  Based on this improvement, there exists an opportunity to understand how occupants utilize indoor spaces better thereby unlocking opportunities for more efficient space planning and revenue optimization for retailers             Last Modified: 12/15/2022       Submitted by: Maria Laguarda-Mallo]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Development of a Nonlinear Activity Response Model for Coronavirus (COVID-19) Scenario Projections Based on the Observations of the Shutdown-Reopening Cycle of China]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>199811.00</AwardTotalIntnAmount>
+<AwardAmount>199811</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020104</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Edgerton</SignBlockName>
+<PO_EMAI>sedgerto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928522</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This RAPID project will investigate the cycle of shutdown and reopening of businesses in China due to COVID-19, and assess the usefulness of studying this cycle for providing guidance for policymaking in the U.S., European countries, and the countries where the medical testing capability is severely limited. The response to COVID-19 has varied significantly from the epicenter (Wuhan and Hunan province) to the other 25 provinces, 4 provincial-level megacities (Beijing, Shanghai, Tianjin, and Chongqing), and 5 autonomous regions for minority ethnic groups. The proxy data for response activities includes the processed TROPOMI tropospheric vertical NO2 column data and inverse modeling of daily NOx emissions in China.  &lt;br/&gt;&lt;br/&gt;The hypotheses of this project are that (1) the COVID-19 infection data (including coronavirus positive test, hospitalization, and mortality data) and government policies largely shape the responses by the society and businesses; (2) near real-time monitoring of tropospheric column NO2 provide timely high spatiotemporal data for gauging the activity responses by the society and businesses, which are unavailable through conventional means; (3) with the large datasets of varying degrees of COVID-19 infection, governmental policy, and activity responses in different regions of China, a nonlinear response model will be developed and this model can later be corrected with data from US and other countries to provide policymaking guidance through scenario analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030425</AwardID>
+<Investigator>
+<FirstName>Yuhang</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yuhang Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yuhang.wang@eas.gatech.edu]]></EmailAddress>
+<NSF_ID>000414032</NSF_ID>
+<StartDate>05/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>Atmospheric Chemistry</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199811</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Initially identified in Wuhan, China, in December 2019, the coronavirus infections quickly spread from Wuhan to the rest of China, leading to city-, provincial-, and effectively national lockdowns beginning on January 23, 2020. The effective national lockdown ended on February 10. Provincial lockdowns relaxed and ended gradually in China. The epic center, Wuhan, recently ended its lockdown on April 8. The global pandemic is still raging, however. Many countries in Africa do not have the medical testing capability to even know their rates of infection.&nbsp; The central question to be addressed in this project is if the nearly complete cycle of COVID-19 shutdown and reopening in China provides useful guidance for policymaking in the U.S., European countries, and the countries where the medical testing capability is severely limited. The key observation data that will be processed is satellite monitoring of NO2, the level of which provides a good indicator for traffic, industrial, and business activities. This project will demonstrate that these data will be central to avoid the kind of &ldquo;flying blind&rdquo; policymaking which is rampant around the world.</p> <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>We find that trace gas observations can help quantify societal responses to the threat of COVID-19 pandemic. By comparing the observations between different trace gases and between China and United States, we found several characteristics:</p> <p>(1)&nbsp;&nbsp; The societal responses as reflected in atmospheric trace gas concentrations vary greatly from region to region. The geographical variation in emission source is large.</p> <p>(2)&nbsp;&nbsp; The differentiation of trace gas changes due to societal responses to COVID-19 among different chemical species provides some observational constraints on the changes of different industrial sectors.</p> <p>(3)&nbsp;&nbsp; COVID-19 lockdown in China overlapped with the Chinese New Year holiday season, resulting in more severe emission reductions. Consequently, separating the effect of the holiday season from the lockdown measures requires careful analysis.</p> <p>(4)&nbsp;&nbsp; A large number of publications attributed an increase of ozone concentrations in China in 2020 to COVID-related emission reductions and a VOC-limited ozone production regime in which lower NOx emissions led to higher ozone concentrations. Detailed modeling and data analysis in this project over an extended observation period from 2014 to 2022 raise serious questions on that claim. It is likely that a limited set of observations was misinterpreted with modeling simulations.</p> <p>(5)&nbsp;&nbsp; The overall reduction of NOx emissions in the United States was considerably less than in China. The average reduction during the 20-day period after the stay-at-home orders in the major U.S. cities were comparable to the reduction during the 20 days after the lockdown order was lifted in China.</p> <p>(6)&nbsp;&nbsp; . Our ongoing research suggests that a fundamental change of the widely used SEIR model formulation is necessary if vaccination and prior recovery from a COVID infection can significantly reduce the mortality probability of later infections within a period of 3 months.</p> <h3>&nbsp;</h3> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 05/18/2023<br>      Modified by: Yuhang&nbsp;Wang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[             Initially identified in Wuhan, China, in December 2019, the coronavirus infections quickly spread from Wuhan to the rest of China, leading to city-, provincial-, and effectively national lockdowns beginning on January 23, 2020. The effective national lockdown ended on February 10. Provincial lockdowns relaxed and ended gradually in China. The epic center, Wuhan, recently ended its lockdown on April 8. The global pandemic is still raging, however. Many countries in Africa do not have the medical testing capability to even know their rates of infection.  The central question to be addressed in this project is if the nearly complete cycle of COVID-19 shutdown and reopening in China provides useful guidance for policymaking in the U.S., European countries, and the countries where the medical testing capability is severely limited. The key observation data that will be processed is satellite monitoring of NO2, the level of which provides a good indicator for traffic, industrial, and business activities. This project will demonstrate that these data will be central to avoid the kind of "flying blind" policymaking which is rampant around the world.              We find that trace gas observations can help quantify societal responses to the threat of COVID-19 pandemic. By comparing the observations between different trace gases and between China and United States, we found several characteristics:  (1)   The societal responses as reflected in atmospheric trace gas concentrations vary greatly from region to region. The geographical variation in emission source is large.  (2)   The differentiation of trace gas changes due to societal responses to COVID-19 among different chemical species provides some observational constraints on the changes of different industrial sectors.  (3)   COVID-19 lockdown in China overlapped with the Chinese New Year holiday season, resulting in more severe emission reductions. Consequently, separating the effect of the holiday season from the lockdown measures requires careful analysis.  (4)   A large number of publications attributed an increase of ozone concentrations in China in 2020 to COVID-related emission reductions and a VOC-limited ozone production regime in which lower NOx emissions led to higher ozone concentrations. Detailed modeling and data analysis in this project over an extended observation period from 2014 to 2022 raise serious questions on that claim. It is likely that a limited set of observations was misinterpreted with modeling simulations.  (5)   The overall reduction of NOx emissions in the United States was considerably less than in China. The average reduction during the 20-day period after the stay-at-home orders in the major U.S. cities were comparable to the reduction during the 20 days after the lockdown order was lifted in China.  (6)   . Our ongoing research suggests that a fundamental change of the widely used SEIR model formulation is necessary if vaccination and prior recovery from a COVID infection can significantly reduce the mortality probability of later infections within a period of 3 months.               Last Modified: 05/18/2023       Submitted by: Yuhang Wang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

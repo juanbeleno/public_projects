@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MLWiNS: Wireless On-the-Edge Training of Deep Networks Using Independent Subnets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Neural networks (NN) have led to many recent successes in machine learning (ML). However, this success comes at a prohibitive cost: to obtain better ML models, larger and larger NNs need to be trained and deployed. This is a problem for mobile ML applications, where model training and inference need to be carried out in a timely fashion on a computation-/communication-light, and energy-limited platform. Such applications must run on handheld devices or drones and edge infrastructure and introduce new challenges: the heterogeneity of edge networks, the unreliability of the mobile devices, the computational and energy restrictions on such devices, and the communication bottlenecks in wireless networks. This project will address these challenges by investigating a new paradigm for computation- and communication-light, energy-limited distributed NN learning. Success in this project will produce fundamental ideas and tools that will make mobile distributed learning practical. Further, the project will generate courses and open-education resources that can attract diverse groups of students. &lt;br/&gt;&lt;br/&gt;The specific idea investigated is a new class of distributed NN training algorithms, called independent subnetwork training (IST). IST decomposes a NN into a set of independent subnetworks. Each of those subnetworks is trained at a different device, for one or more backpropagation steps, before a synchronization step. Updated subnetworks are sent from edge-devices to the parameter server for reassembly into the original NN, before the next round of decomposition and local training. Because the subnetworks share no parameters, synchronization requires no aggregation—it is just an exchange of parameters. Moreover, each of the subnetworks is a fully operational classifier by itself; no synchronization pipelines between subnetworks are required. Key benefits of the proposed IST are that: i) IST assigns fewer training parameters to each mobile node per iteration, significantly reducing the communication overhead, and ii) each device trains a much smaller model, resulting in less computational costs and better energy consumption. Thus, there is good reason to expect that IST will scale much better than classic training algorithms for mobile applications. The project will investigate how to incorporate/extend IST to various NN architectures, develop new theories that explain the efficiency of IST, and unify theory with practice by proposing hardware-level system implementations that scale up and out for mobile applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003137</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Jermaine</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher M Jermaine</PI_FULL_NAME>
+<EmailAddress><![CDATA[Christopher.m.jermaine@rice.edu]]></EmailAddress>
+<NSF_ID>000439407</NSF_ID>
+<StartDate>05/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yingyan</FirstName>
+<LastName>Lin</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yingyan C Lin</PI_FULL_NAME>
+<EmailAddress><![CDATA[celine.lin@gatech.edu]]></EmailAddress>
+<NSF_ID>000758624</NSF_ID>
+<StartDate>05/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anastasios</FirstName>
+<LastName>Kyrillidis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anastasios Kyrillidis</PI_FULL_NAME>
+<EmailAddress><![CDATA[anastasios@rice.edu]]></EmailAddress>
+<NSF_ID>000790148</NSF_ID>
+<StartDate>05/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>William Marsh Rice University</Name>
+<CityName>Houston</CityName>
+<ZipCode>770051827</ZipCode>
+<PhoneNumber>7133484820</PhoneNumber>
+<StreetAddress>6100 MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>K51LECU1G8N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WILLIAM MARSH RICE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>K51LECU1G8N3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[William Marsh Rice University]]></Name>
+<CityName/>
+<StateCode>TX</StateCode>
+<ZipCode>770051827</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7484</Code>
+<Text>IIS Special Projects</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>021Z</Code>
+<Text>Industry Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8585</Code>
+<Text>NSF/Intel Partnership Projects</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1"><strong>Overview</strong>: Neural networks are ubiquitous, and have led to the recent success of machine learning. This surge, though, for ever increasing performance comes at a cost: to obtain better models, larger neural networks need to be trained and utilized. In stark contrast, for many applications, model training and inference need to be carried out in a timely fashion on a computation-/communication-light, and energy-limited platform. Optimizing training in terms of computation/communication/energy efficiency, while retaining competitive accuracy, has become a fundamental challenge.<span>&nbsp;</span></p> <p class="p2">&nbsp;<strong>Purpose of this proposal:</strong> This proposal studies, develops and optimizes a new way of training machine learning models. This new class of&nbsp; training algorithms, called independent subnetwork training (IST).&nbsp; IST decomposes the model into a set of independent submodels. Each of those submodels is trained at a different device, for one or more backpropagation steps, before a synchronization step. Updated submodels are sent from edge-devices to the parameter server for reassembly into the original NN, before the next round of decomposition and local training.&nbsp;</p> <p class="p2">&nbsp;<strong>Intellectual merit: </strong>To the best of our knowledge, this is one of the few cases that one deviates from the classical full-model gradient descent training trajectories. Our goal was and is to study alternative training procedures that move significantly away from the traditional methods used and known. Intellectually, some of our findings are the following:</p> <p class="p2">&nbsp;- Focusing on the simplest ML model on neural networks, the multilayer perceptron (MLP), our findings justified our initial intuition: i) decomposing a NN into more submodels means that each device receives fewer parameters, as well as reduces the cost of the synchronization step, and ii) each device trains a much smaller model, resulting in less computational costs and better energy consumption. Thus, there is good reason to expect that IST will scale much better than a &ldquo;data parallel&rdquo; algorithm for mobile applications.&nbsp;</p> <p class="p2">&nbsp;- Our team worked on the universality of our approach: i.e., beyond the MLPs, can we use the same ideas for other architectures. Unfortunately, our idea does not apply seamlessly without further tuning on other neural network architecture. This justifies the fact that, from this project, we have 5 different publications/drafts focusing on different neural network architectures: MLPs (accepted at VLDB), ResNets (accepted at UAI), Graph Neural networks (accepted at a Special issue on Data Science on Graphs, Springer, Nature), Convolutional Neural networks (accepted at AISTATS) and Transformers (draft - submitted at an ML conference).&nbsp;</p> <p class="p2">&nbsp;- For all the cases, the team has developed efficient open-source software packages and the whole project is being available online at: http://akyrillidis.github.io/ist. We provide support to colleagues and researchers, when needed regarding the use of these codebases.&nbsp;</p> <p class="p2">&nbsp;- Our team provided rigorous theoretical understanding of IST, which can be categorized in the general scenario of distributed dropout regularization. The theory has dictated interesting connections between dropping ratio, number of workers in a distributed system and size of the model.&nbsp;</p> <p class="p2">&nbsp;- Interesting consequences of the above work was the study of IST on scenarios beyond model selection. Some highlights include the study of IST in asynchronous distributed training (accepted at AISTATS), the study of how IST connects with the lottery ticket hypothesis (accepted at AISTATS), and how IST can beneficial in Federated Learning scenarios (accepted at ICCV). On going works include the studies of IST on sparsified inputs and how IST can be the basis of an efficient solver for linear system of equations Ax = b.&nbsp;</p> <p class="p2">&nbsp;<strong>Broader impacts: </strong>This proposal will produce fundamental ideas and tools that will make mobile distributed learning practical. Our goal is to provide the abstraction to accelerate the performance of large-scale distributed learning in traditional clusters, where a larger number of GPUs is utilized, but as well to make training of neural networks on edge-devices plausible.&nbsp; To ensure broad impact, our ideas are implemented and distributed within the context of an open source software package.&nbsp;<strong>Outcomes</strong>:&nbsp;</p> <p class="p1">- 5 Conference papers, 2 journal papers (see above)</p> <p class="p1">- 4 On going projects that extend IST in various ways</p> <p class="p1">- Chen Dun (Rice CS) will heavily base his PhD thesis on the IST ideas - expected to graduate on May 2024</p> <p class="p1">- Jasper Liao (Rice CS) has contributed in the theoretical understanding of IST - to be included in his thesis - expected to graduate on May 2025</p> <p class="p1">- Cameron R. Wolfe (Rice CS) has contributed in the extension of IST on various neural network architectures - his PhD thesis includes IST ideas and he is expected to graduate on August 2023.</p> <p class="p1">- Yuxin Tang (Rice CS) has helped on the extension of IST for FL scenarios.</p> <p class="p1">- Eroding Hu (Rice CS) has started working on IST for FL scenarios leading to a publication at ICCV</p> <p class="p1">- The IST library includes several codebases that are available online as open-source packages.<span>&nbsp;</span></p><br> <p>            Last Modified: 08/29/2023<br>      Modified by: Anastasios&nbsp;Kyrillidis</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[Overview: Neural networks are ubiquitous, and have led to the recent success of machine learning. This surge, though, for ever increasing performance comes at a cost: to obtain better models, larger neural networks need to be trained and utilized. In stark contrast, for many applications, model training and inference need to be carried out in a timely fashion on a computation-/communication-light, and energy-limited platform. Optimizing training in terms of computation/communication/energy efficiency, while retaining competitive accuracy, has become a fundamental challenge.   Purpose of this proposal: This proposal studies, develops and optimizes a new way of training machine learning models. This new class of  training algorithms, called independent subnetwork training (IST).  IST decomposes the model into a set of independent submodels. Each of those submodels is trained at a different device, for one or more backpropagation steps, before a synchronization step. Updated submodels are sent from edge-devices to the parameter server for reassembly into the original NN, before the next round of decomposition and local training.   Intellectual merit: To the best of our knowledge, this is one of the few cases that one deviates from the classical full-model gradient descent training trajectories. Our goal was and is to study alternative training procedures that move significantly away from the traditional methods used and known. Intellectually, some of our findings are the following:  - Focusing on the simplest ML model on neural networks, the multilayer perceptron (MLP), our findings justified our initial intuition: i) decomposing a NN into more submodels means that each device receives fewer parameters, as well as reduces the cost of the synchronization step, and ii) each device trains a much smaller model, resulting in less computational costs and better energy consumption. Thus, there is good reason to expect that IST will scale much better than a "data parallel" algorithm for mobile applications.   - Our team worked on the universality of our approach: i.e., beyond the MLPs, can we use the same ideas for other architectures. Unfortunately, our idea does not apply seamlessly without further tuning on other neural network architecture. This justifies the fact that, from this project, we have 5 different publications/drafts focusing on different neural network architectures: MLPs (accepted at VLDB), ResNets (accepted at UAI), Graph Neural networks (accepted at a Special issue on Data Science on Graphs, Springer, Nature), Convolutional Neural networks (accepted at AISTATS) and Transformers (draft - submitted at an ML conference).   - For all the cases, the team has developed efficient open-source software packages and the whole project is being available online at: http://akyrillidis.github.io/ist. We provide support to colleagues and researchers, when needed regarding the use of these codebases.   - Our team provided rigorous theoretical understanding of IST, which can be categorized in the general scenario of distributed dropout regularization. The theory has dictated interesting connections between dropping ratio, number of workers in a distributed system and size of the model.   - Interesting consequences of the above work was the study of IST on scenarios beyond model selection. Some highlights include the study of IST in asynchronous distributed training (accepted at AISTATS), the study of how IST connects with the lottery ticket hypothesis (accepted at AISTATS), and how IST can beneficial in Federated Learning scenarios (accepted at ICCV). On going works include the studies of IST on sparsified inputs and how IST can be the basis of an efficient solver for linear system of equations Ax = b.   Broader impacts: This proposal will produce fundamental ideas and tools that will make mobile distributed learning practical. Our goal is to provide the abstraction to accelerate the performance of large-scale distributed learning in traditional clusters, where a larger number of GPUs is utilized, but as well to make training of neural networks on edge-devices plausible.  To ensure broad impact, our ideas are implemented and distributed within the context of an open source software package. Outcomes:  - 5 Conference papers, 2 journal papers (see above) - 4 On going projects that extend IST in various ways - Chen Dun (Rice CS) will heavily base his PhD thesis on the IST ideas - expected to graduate on May 2024 - Jasper Liao (Rice CS) has contributed in the theoretical understanding of IST - to be included in his thesis - expected to graduate on May 2025 - Cameron R. Wolfe (Rice CS) has contributed in the extension of IST on various neural network architectures - his PhD thesis includes IST ideas and he is expected to graduate on August 2023. - Yuxin Tang (Rice CS) has helped on the extension of IST for FL scenarios. - Eroding Hu (Rice CS) has started working on IST for FL scenarios leading to a publication at ICCV - The IST library includes several codebases that are available online as open-source packages.        Last Modified: 08/29/2023       Submitted by: Anastasios Kyrillidis]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

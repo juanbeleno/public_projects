@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: OpenDendro - Advanced Open-source Tools for Paleoenvironmental Reconstruction]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>73538.00</AwardTotalIntnAmount>
+<AwardAmount>73538</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Verardo</SignBlockName>
+<PO_EMAI>dverardo@nsf.gov</PO_EMAI>
+<PO_PHON>7032924695</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The research team aims to create openDendro as an open-source framework of the base analytic software tools used in dendrochronology in both the R and Python programming languages.  The research goal is to create and curate a unified set of critical tools in open-source environments that will provide the necessary baseline for researchers using tree-ring data to adopt open-science practices and increase both rigor and transparency in dendrochronology.&lt;br/&gt;&lt;br/&gt;Much of the software used in dendrochronology are in legacy programming languages and have been maintained by a small number of volunteers for decades.  The codes are at risk of becoming inoperable or incompatible as advances in computing architecture accelerate. The techniques and tools adversely impacted include specialized data input and output, detrending, cross-dating, chronology building, spectral modeling, descriptive statistics, and other common data-handling and data-processing tasks. &lt;br/&gt;&lt;br/&gt;The research team argues that this situation could be addressed by incorporating these legacy programs into a modern open-source and open-science framework.  While some of this work has been completed in the R package dplR, many of the tools most needed by the broader research community are still not widely available in R (including signal free standardization) and virtually none are implemented in the Python ecosystem. &lt;br/&gt;&lt;br/&gt;The potential Broader Impacts include creating a modern open-source software base that will be immediately usable by paleoclimatologists using tree-ring data for paleoclimate research.  Modernizing and enhancing this software will also extend both their reach and utility beyond the dendrochronology community and allow integration into related initiatives in the atmospheric and earth sciences including LinkedEarth and Pangeo.  Making these tools open source will also facilitate further collaborative development, broaden the responsibility for collective maintenance and enhancement of this software, and ensure the persistence of these unique tools. This project provides training opportunities for the next generation of paleoenvironmental scientists with a coding `bootcamp' on the openDendro toolkit and broadly models the application of open-science concepts and practices within dendrochronology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/15/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2054515</AwardID>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Cook</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edward R Cook</PI_FULL_NAME>
+<EmailAddress><![CDATA[drdendro@ldeo.columbia.edu]]></EmailAddress>
+<NSF_ID>000200158</NSF_ID>
+<StartDate>03/15/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>202 LOW LIBRARY 535 W 116 ST MC</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F4N1QNPB95M4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Lamont Doherty Earth Observatory]]></Name>
+<CityName>Palisades</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>109641707</ZipCode>
+<StreetAddress><![CDATA[61 Route -9W]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1530</Code>
+<Text>Paleoclimate</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~73538</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="page" title="Page 1"> <div class="layoutArea"> <div class="column"> <p>This work has been conducted in collaboration with<span style="font-size: 11.000000pt; font-family: 'TimesNewRomanPSMT';"> Kevin Anchukaitis and Tyson Swetnam (University of Arizona, Tucson) and Andrew Bunn (Western Washington University, Bellingham) where the outcomes described below are now being completed. </span></p> <p><span style="font-size: 11.000000pt; font-family: 'TimesNewRomanPSMT';">Much of the computer software used in dendrochronology (a.k.a. tree-ring analysis) was originally written in the Fortran programming language, a legacy computer language that is rarely used today or even taught in universities anymore. These specialized programs have been maintained by a small number of volunteers (including PI Cook) for decades, but are now at risk of becoming inoperable or incompatible as advances in computing architecture accelerate. In this project we are creating openDendro ? an open- source library of basic computer software tools used in dendrochronology that are written in the modern and widely used R and Python programming languages. Many of the tools most needed by the community are still not widely available in R and virtually none are implemented in Python. Hence there is the vital need to port important legacy programs used in dendrochronology, written only in Fortran, over to these much more modern programming platforms. This will allow these programs to exist in an open-source environment that is amenable to further development and use in the future by the global tree-ring research community. </span></p> <p><span style="font-size: 11.000000pt; font-family: 'TimesNewRomanPSMT';">Perhaps the single most important program to fully port over to R and Python was the ARSTAN program written in Fortran by PI Cook as part of his PhD dissertation research. ARSTAN has for over 30 years been the de facto standard computer program for processing tree-ring measurements into chronologies useful for paleoenvironmental analysis and reconstruction. But for all the usefulness of ARSTAN, it is an incompletely documented program with no maintained and updated user manual. To compensate for this deficiency there is a great deal of embedded ?help? in the program as it is being set up to run, but that is not enough. In contrast, both R and Python require strong documentation as part of their open-source requirements, which is a great advantage for users now and in the future. Much of what can be done in ARSTAN can already be accomplished in the omnibus dplR (dendrochronology program library in R) program written by co-PI Bunn, but there were still some difficult-to-program procedures in ARSTAN that proved daunting to add to dplR. This included a method of estimating the common year-to-year persistence (pooled autoregression) between all tree-ring series being processed, which is essential for reproducing the exact ARSTAN method of tree- ring chronology development created by PI Cook. To do so required face-to-face interaction between the project PIs over periods of time, with great attention paid to exactly reproduce the pooled autoregression results from ARSTAN in dplR. As a consequence, dplR can now reproduce all of the important elements of ARSTAN as a tree-ring chronology development tool while at the same time being highly documented in a user-friendly way. In addition, a great deal of effort has been made to add to dplR other tree-ring analysis capabilities written originally in Fortran by PI Cook. These include improvements to the ?signal- free? method of tree-ring chronology development and use of age-dependent cubic smoothing spline detrending. </span></p> <p><span style="font-size: 11.000000pt; font-family: 'TimesNewRomanPSMT';">The above efforts will allow dplR to be ported directly over to Python as a version called dplPy, thus providing a suite of well documented and easily extensible open-source tree-ring analysis programs in two modern programming languages. These open-source program libraries will be freely available for use by the paleoenvironmental research community and others once they are completed and throughly tested for functionality and accuracy.<br /></span></p> </div> </div> </div><br> <p>            Last Modified: 08/24/2023<br>      Modified by: Edward&nbsp;R&nbsp;Cook</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[    This work has been conducted in collaboration with Kevin Anchukaitis and Tyson Swetnam (University of Arizona, Tucson) and Andrew Bunn (Western Washington University, Bellingham) where the outcomes described below are now being completed.   Much of the computer software used in dendrochronology (a.k.a. tree-ring analysis) was originally written in the Fortran programming language, a legacy computer language that is rarely used today or even taught in universities anymore. These specialized programs have been maintained by a small number of volunteers (including PI Cook) for decades, but are now at risk of becoming inoperable or incompatible as advances in computing architecture accelerate. In this project we are creating openDendro ? an open- source library of basic computer software tools used in dendrochronology that are written in the modern and widely used R and Python programming languages. Many of the tools most needed by the community are still not widely available in R and virtually none are implemented in Python. Hence there is the vital need to port important legacy programs used in dendrochronology, written only in Fortran, over to these much more modern programming platforms. This will allow these programs to exist in an open-source environment that is amenable to further development and use in the future by the global tree-ring research community.   Perhaps the single most important program to fully port over to R and Python was the ARSTAN program written in Fortran by PI Cook as part of his PhD dissertation research. ARSTAN has for over 30 years been the de facto standard computer program for processing tree-ring measurements into chronologies useful for paleoenvironmental analysis and reconstruction. But for all the usefulness of ARSTAN, it is an incompletely documented program with no maintained and updated user manual. To compensate for this deficiency there is a great deal of embedded ?help? in the program as it is being set up to run, but that is not enough. In contrast, both R and Python require strong documentation as part of their open-source requirements, which is a great advantage for users now and in the future. Much of what can be done in ARSTAN can already be accomplished in the omnibus dplR (dendrochronology program library in R) program written by co-PI Bunn, but there were still some difficult-to-program procedures in ARSTAN that proved daunting to add to dplR. This included a method of estimating the common year-to-year persistence (pooled autoregression) between all tree-ring series being processed, which is essential for reproducing the exact ARSTAN method of tree- ring chronology development created by PI Cook. To do so required face-to-face interaction between the project PIs over periods of time, with great attention paid to exactly reproduce the pooled autoregression results from ARSTAN in dplR. As a consequence, dplR can now reproduce all of the important elements of ARSTAN as a tree-ring chronology development tool while at the same time being highly documented in a user-friendly way. In addition, a great deal of effort has been made to add to dplR other tree-ring analysis capabilities written originally in Fortran by PI Cook. These include improvements to the ?signal- free? method of tree-ring chronology development and use of age-dependent cubic smoothing spline detrending.   The above efforts will allow dplR to be ported directly over to Python as a version called dplPy, thus providing a suite of well documented and easily extensible open-source tree-ring analysis programs in two modern programming languages. These open-source program libraries will be freely available for use by the paleoenvironmental research community and others once they are completed and throughly tested for functionality and accuracy.           Last Modified: 08/24/2023       Submitted by: Edward R Cook]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

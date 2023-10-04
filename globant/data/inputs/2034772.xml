@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Motif-based Classification and Systems Analysis of CoV-2 Virulence Mechanism]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>198043.00</AwardTotalIntnAmount>
+<AwardAmount>198043</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Rockcliffe</SignBlockName>
+<PO_EMAI>drockcli@nsf.gov</PO_EMAI>
+<PO_PHON>7032927123</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The COVID-19 pandemic demands intensive fundamental research to decipher how the SARS-CoV-2 virus has adapted to infect humans and spread globally. The research supported through this RAPID award uncovers new insights into how SARS-CoV-2 and other viruses mimic human biology to facilitate infection and adaptation strategies. Previous research has revealed that host mimicry is essential for viral infection mechanisms yet currently there is a deficiency of tools to comprehensively identify and classify ‘signatures’ of host mimicry in viral sequence data. Identifying and classifying these sequence signatures (motifs) enable researchers to more accurately predict host targets based on viral adaptation strategies that underly the transmission and spread of COVID-19. This project delivers new data on human mimicry by the SARS-CoV-2 virus and open-source algorithms with supporting information to the scientific community through web-based resources. Discoveries from this project have potential use to guide the development of novel treatment strategies for SARS-CoV-2 and other viruses. This project also offers a training opportunity for an undergraduate student in systems virology.&lt;br/&gt;&lt;br/&gt;A growing body of literature documents how viruses mimic host motifs to hijack cells, particularly through evasion of host immune functions. Motifs are small in size (3-10 amino acids in disordered proteins or regions) and hence require only a limited number of mutations for rapidly evolving viruses to acquire host motifs. Against this backdrop, this project is designed to develop a viral classification system based on motifs to identify host mimicry elements in SARS-CoV-2 and other viruses. The project then infers target host pathways used in viral mechanisms that are illustrated in a use case. Curation of existing data from viral sequence databases, newly published sequences, along with the collection of motif types from the Eukaryotic Linear Motif (ELM) resource, provides training data for machine-learning (ML) algorithm development. The algorithm in turn provides a classifier that i) makes predictions of host motifs in viruses, ii) defines enrichment and co-occurrence of motif types, iii) defines association of motifs with structured and disordered viral protein domains, and iv) predicts host targets and pathways. In the use case, evaluation of precision and recall against selected viruses with known mechanisms of action, supported by a knowledge base of experimental evidence, provides a test of the classification method.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034772</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>O'Maille</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Paul E O'Maille</PI_FULL_NAME>
+<EmailAddress><![CDATA[paul.omaille@sri.com]]></EmailAddress>
+<NSF_ID>000764788</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carolyn</FirstName>
+<LastName>Talcott</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carolyn Talcott</PI_FULL_NAME>
+<EmailAddress><![CDATA[clt@csl.sri.com]]></EmailAddress>
+<NSF_ID>000412710</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SRI International</Name>
+<CityName>MENLO PARK</CityName>
+<ZipCode>940253453</ZipCode>
+<PhoneNumber>7032478529</PhoneNumber>
+<StreetAddress>333 RAVENSWOOD AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SRG2J1WS9X63</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SRI INTERNATIONAL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SRG2J1WS9X63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SRI International]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>940253493</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~198043</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This grant supported the development of computational tools to classify viruses according to their ability to mimic host proteins. The premise for the project was based on the observation that viral proteins are rife with many short linear motifs (SLiMs) ? short patterns of three to ten consecutive amino acids. These SLiMs are normally found in host proteins; host cells use SLiMs to organize numerous, essential cellular processes (e.g., immunity, homeostasis, stress responses, etc.). By mimicking the SLiMs found in host proteins, viruses are able to insert themselves into cellular processes of the host, thereby subverting the cell in order to evade the host immune response and modulate the cell for viral replication and transmission.</p> <p>&nbsp;</p> <p>To initiate the project, we assembled a data set of viral sequences from UniProt, a comprehensive resource for protein sequences and annotation data. We then built a pipeline of using available tools that extract SLiMs from viral sequences based on their location in disordered proteins or disordered regions of proteins. For a SLiM to be functional, it must be physically accessible (in a disordered region) to interact with other proteins in the cell. After testing and validating our pipeline on a small set of experimentally characterized SLiMs, we applied our pipeline to analyze UniProt reviewed viral sequence (17,741 sequences from 281 viral families). Using this approach, we produced a dataset containing extracted SLiMs, each sequence linked to the virus host ? a resource that enabled us to perform a deeper analysis of viral SLiMs in the project.</p> <p>&nbsp;</p> <p>Using our SLiMs resource as a training set, we developed a machine learning (ML) algorithm to predict the virus host based on SLiMs. We focused on mouse, chicken and human viruses. Our algorithm was able to accurately distinguish human infecting viruses from mouse and chicken infecting viruses. Distinguishing between mouse and chicken infecting viruses met with modest success by comparison, owing to the smaller number of viruses in our dataset ? an area of future expansion. Focusing on human infecting viruses, we examined the SLiMs in our ML algorithm that were most predictive of human infectivity. We found a subset of SLiMs were enriched in human infecting viruses. Further analysis revealed that these viruses specialize in interrupting a combination of host biological processes that includes cell division, signaling, replication, trafficking, and autophagy. The latter is an ancient homeostatic process that is responsible for recycling cell components and serves as a cellular immune system by degrading pathogens. We further observed that motifs associated with autophagy are highly enriched in coronavirus, influenza, and several hemorrhagic fever viruses, suggesting a common host vulnerability exploited by human infecting viruses.</p> <p>&nbsp;</p> <p>Finally, we developed a use case with CoV-2 where we mapped our analysis of coronavirus SLiMs onto host targets using SRI's Pathway Logic, a symbolic systems biology model of the human cell. Given the importance of autophagy, we built this pathway into our Pathway Logic model and focused our analysis on the impact of CoV-2 proteins on autophagy. From our model, we were able to infer several candidate CoV-2 proteins that, by virtue of having autophagy SLiMs, can displace many host proteins to modulate this vital host pathway. Thus, our model provides testable hypotheses for experimental verification to deepen our understanding of CoV-2 virulence mechanisms.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/25/2021<br>      Modified by: Paul&nbsp;E&nbsp;O'maille</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2034772/2034772_10681095_1635177951336_NSF_RAPID_SLIMS-concept--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2034772/2034772_10681095_1635177951336_NSF_RAPID_SLIMS-concept--rgov-800width.jpg" title="Motif-based Classification and Systems Analysis of CoV-2 Virulence Mechanism"><img src="/por/images/Reports/POR/2021/2034772/2034772_10681095_1635177951336_NSF_RAPID_SLIMS-concept--rgov-66x44.jpg" alt="Motif-based Classification and Systems Analysis of CoV-2 Virulence Mechanism"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Viruses mimic host short linear motifs (SLiMs). Viral proteins (orange) contain numerous host SLiMs (green). When expressed in a human cell, viral SLiMs can bind to specific host proteins and thereby alter the cell to promote viral replication and transmission. Our project comprehensively characteri</div> <div class="imageCredit">Paul O'Maille</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Paul&nbsp;E&nbsp;O'maille</div> <div class="imageTitle">Motif-based Classification and Systems Analysis of CoV-2 Virulence Mechanism</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This grant supported the development of computational tools to classify viruses according to their ability to mimic host proteins. The premise for the project was based on the observation that viral proteins are rife with many short linear motifs (SLiMs) ? short patterns of three to ten consecutive amino acids. These SLiMs are normally found in host proteins; host cells use SLiMs to organize numerous, essential cellular processes (e.g., immunity, homeostasis, stress responses, etc.). By mimicking the SLiMs found in host proteins, viruses are able to insert themselves into cellular processes of the host, thereby subverting the cell in order to evade the host immune response and modulate the cell for viral replication and transmission.     To initiate the project, we assembled a data set of viral sequences from UniProt, a comprehensive resource for protein sequences and annotation data. We then built a pipeline of using available tools that extract SLiMs from viral sequences based on their location in disordered proteins or disordered regions of proteins. For a SLiM to be functional, it must be physically accessible (in a disordered region) to interact with other proteins in the cell. After testing and validating our pipeline on a small set of experimentally characterized SLiMs, we applied our pipeline to analyze UniProt reviewed viral sequence (17,741 sequences from 281 viral families). Using this approach, we produced a dataset containing extracted SLiMs, each sequence linked to the virus host ? a resource that enabled us to perform a deeper analysis of viral SLiMs in the project.     Using our SLiMs resource as a training set, we developed a machine learning (ML) algorithm to predict the virus host based on SLiMs. We focused on mouse, chicken and human viruses. Our algorithm was able to accurately distinguish human infecting viruses from mouse and chicken infecting viruses. Distinguishing between mouse and chicken infecting viruses met with modest success by comparison, owing to the smaller number of viruses in our dataset ? an area of future expansion. Focusing on human infecting viruses, we examined the SLiMs in our ML algorithm that were most predictive of human infectivity. We found a subset of SLiMs were enriched in human infecting viruses. Further analysis revealed that these viruses specialize in interrupting a combination of host biological processes that includes cell division, signaling, replication, trafficking, and autophagy. The latter is an ancient homeostatic process that is responsible for recycling cell components and serves as a cellular immune system by degrading pathogens. We further observed that motifs associated with autophagy are highly enriched in coronavirus, influenza, and several hemorrhagic fever viruses, suggesting a common host vulnerability exploited by human infecting viruses.     Finally, we developed a use case with CoV-2 where we mapped our analysis of coronavirus SLiMs onto host targets using SRI's Pathway Logic, a symbolic systems biology model of the human cell. Given the importance of autophagy, we built this pathway into our Pathway Logic model and focused our analysis on the impact of CoV-2 proteins on autophagy. From our model, we were able to infer several candidate CoV-2 proteins that, by virtue of having autophagy SLiMs, can displace many host proteins to modulate this vital host pathway. Thus, our model provides testable hypotheses for experimental verification to deepen our understanding of CoV-2 virulence mechanisms.          Last Modified: 10/25/2021       Submitted by: Paul E O'maille]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

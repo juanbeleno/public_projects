@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Secure blockchain communication for federal benefit assessments during COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to simplify how Americans in need of assistance during COVID-19 obtain government benefits in a secure, safe transaction. The platform will use new blockchain technologies for security.  The platform will streamline eligibility screening, facilitate enrollment and expedite review timelines. Furthermore, it will enable rapid access to disadvantaged populations.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project proposes to develop an end-to-end platform using distributed ledger technology (DLT) to facilitate transactions with the federal government in a secure fashion. Subsequently, the platform will consolidate redundancies into a uniform system.  The proposed work will identify technical requirements and implement DLT.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031813</AwardID>
+<Investigator>
+<FirstName>Aristotle</FirstName>
+<LastName>Mannan</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aristotle M Mannan</PI_FULL_NAME>
+<EmailAddress><![CDATA[aristotle@boswell.io]]></EmailAddress>
+<NSF_ID>000698305</NSF_ID>
+<StartDate>09/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>bosWell, Inc.</Name>
+<CityName>PROVIDENCE</CityName>
+<ZipCode>029034752</ZipCode>
+<PhoneNumber>4012167539</PhoneNumber>
+<StreetAddress>10 DAVOL SQ</StreetAddress>
+<StreetAddress2><![CDATA[STE 100]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>RI01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TQ8KHCC8CG49</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOSWELL INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[bosWell, Inc.]]></Name>
+<CityName>Providence</CityName>
+<StateCode>RI</StateCode>
+<ZipCode>029034752</ZipCode>
+<StreetAddress><![CDATA[10 Davol Square Unit 100]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>RI01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This Small Business Innovation Research (SBIR) Phase I project supported the development of the Virtual Benefits Assistant (VBA), a platform that enables Americans seeking government welfare benefits to efficiently screen for eligibility and seamlessly enroll into designated programs.&nbsp; Existing systems to access government welfare programs are both antiquated and burdened with bottlenecks that hinder the ability of Americans obtain benefits in a timely manner.&nbsp; VBA serves to streamline eligibility screening through a comprehensive intake assessment that enables applicants to simultaneously query for suitable benefits.&nbsp;&nbsp; Subsequently, the VBA leverages smart contracts ? enabled by blockchain technology ? to expedite the submission of enrollment application and the settlement of benefits for recipients.&nbsp;</p> <p>Over the duration of this SBIR Phase I project, an initial prototype of the VBA was developed to enable Americans seeking benefits to simplify determination of eligibility while evaluating the feasibility of implementing smart contracts on the blockchain.&nbsp; Regarding the latter, potential commercial applications and value propositions of the VBA were identified to ensure its sustainability.&nbsp; More specifically, the VBA offers the potential to expedite access to government welfare benefits while reducing unclaimed funds.&nbsp; Local governments ? particularly at the state level ? are highly incentivized to boost enrollment into federal programs (cash assistance, food stamps, housing vouchers, etc) that serve to stabilize constituents while bringing in critical funds that are ultimately recycled into the local economy.</p> <p>Beyond Phase I, the VBA can modernize the nation?s welfare system ? currently built on outdated infrastructure ? and enable tremendous societal impacts by ensuring Americans in need of support services can access benefits in a timely manner.&nbsp; Not only would the VBA create efficiency within the welfare system, but it also offers the potential to reduce taxpayer burdens through the automation of benefits distribution through decentralized smart contracts.&nbsp; Numerous channels exist for the VBA?s deployment and its effective distribution could serve as a catalyst for assisting Americans that have been particularly affected by the economic consequences of the COVID19 pandemic.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/12/2022<br>      Modified by: Aristotle&nbsp;M&nbsp;Mannan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This Small Business Innovation Research (SBIR) Phase I project supported the development of the Virtual Benefits Assistant (VBA), a platform that enables Americans seeking government welfare benefits to efficiently screen for eligibility and seamlessly enroll into designated programs.  Existing systems to access government welfare programs are both antiquated and burdened with bottlenecks that hinder the ability of Americans obtain benefits in a timely manner.  VBA serves to streamline eligibility screening through a comprehensive intake assessment that enables applicants to simultaneously query for suitable benefits.   Subsequently, the VBA leverages smart contracts ? enabled by blockchain technology ? to expedite the submission of enrollment application and the settlement of benefits for recipients.   Over the duration of this SBIR Phase I project, an initial prototype of the VBA was developed to enable Americans seeking benefits to simplify determination of eligibility while evaluating the feasibility of implementing smart contracts on the blockchain.  Regarding the latter, potential commercial applications and value propositions of the VBA were identified to ensure its sustainability.  More specifically, the VBA offers the potential to expedite access to government welfare benefits while reducing unclaimed funds.  Local governments ? particularly at the state level ? are highly incentivized to boost enrollment into federal programs (cash assistance, food stamps, housing vouchers, etc) that serve to stabilize constituents while bringing in critical funds that are ultimately recycled into the local economy.  Beyond Phase I, the VBA can modernize the nation?s welfare system ? currently built on outdated infrastructure ? and enable tremendous societal impacts by ensuring Americans in need of support services can access benefits in a timely manner.  Not only would the VBA create efficiency within the welfare system, but it also offers the potential to reduce taxpayer burdens through the automation of benefits distribution through decentralized smart contracts.  Numerous channels exist for the VBA?s deployment and its effective distribution could serve as a catalyst for assisting Americans that have been particularly affected by the economic consequences of the COVID19 pandemic.           Last Modified: 03/12/2022       Submitted by: Aristotle M Mannan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

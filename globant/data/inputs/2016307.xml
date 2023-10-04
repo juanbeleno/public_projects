@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Statistical Methods for Intra-Tumor Heterogeneity Studies Using Sequencing Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>146298.00</AwardTotalIntnAmount>
+<AwardAmount>146298</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Tumor heterogeneity refers to the observation that tumor cells can display distinct phenotypic and morphological characteristics, such as gene expression, metabolism, cellular morphology proliferation, motility, and metastatic potential. This phenomenon occurs both between tumors (inter-tumor heterogeneity) and within tumors (intra-tumor heterogeneity). Understanding tumor heterogeneity is a prerequisite for personalized tumor diagnosis and treatment. The objective of this project is to develop statistical methods to study the intra-tumor heterogeneity using next generation sequencing data. These methods will address important statistical, computational, and biological challenges that arise from recent cancer genomics studies. The applications will further our understanding of mechanisms underlying tumor heterogeneity as well as its clinical consequences. The research will provide opportunities to attract and nurture diverse future scientists to work at the frontiers of computational cancer genomics. The project will also provide research training opportunities for undergraduate and graduate students. User-friendly open-source software implementing the research methods will be developed, distributed, and supported to benefit the genomics and statistics community.&lt;br/&gt;&lt;br/&gt;This project will develop clonality analysis methods with a firm statistical footing and tailored for the characteristics of data from different sequencing technologies. A new stochastic process will be developed to model clonal expansion. Using likelihood-based approaches, the PI will construct clonal history empowered by several novel strategies: 1) incorporating phase information bridges cancer genomics studies with rich germline variant resources profiled by consortium such as the 1000 Genome Project; (2) integrating single cell RNA sequencing and bulk tissue DNA sequencing data; (3) adjusting for characteristics of local sequences. These analyses can also potentially open up new opportunities for joint analysis of tumor heterogeneity and a rich list of epigenomic features such as DNA accessibility and methylation. Successful achievement of all aims will dramatically increase the power of subclone identification in cancer genomics studies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016307</AwardID>
+<Investigator>
+<FirstName>Mengjie</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mengjie Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[mengjiechen@uchicago.edu]]></EmailAddress>
+<NSF_ID>000730181</NSF_ID>
+<StartDate>06/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>5801 S ELLIS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606372612</ZipCode>
+<StreetAddress><![CDATA[5841 South Maryland Avenue, N417]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7454</Code>
+<Text>MSPA-INTERDISCIPLINARY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~146298</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Overall, the project focused on three key objectives. First, we devised a novel stochastic process to accurately identify subclones from bulk tissue DNA sequencing data. This groundbreaking approach considered somatic point mutations and copy number aberrations simultaneously, providing a more comprehensive understanding of tumor heterogeneity. Second, we pioneered an integrative analysis of single-cell RNA sequencing and bulk tissue DNA sequencing data, establishing links between genetic and transcriptional heterogeneity. This approach offered insights into the intricate relationships between genomic changes and gene expression. Third, we developed methods to evaluate intra-tumor heterogeneity from low-coverage single-cell sequencing data, enhancing our ability to glean meaningful information from data with lower resolution.</p> <p>By addressing gaps in existing methods and tailoring techniques for specific data characteristics, the outcome of this award significantly advanced our understanding of tumor heterogeneity. These outcomes hold promise for improved cancer treatment strategies, particularly in the realm of personalized therapies and immune therapy responses. Moreover, the research team's commitment to creating user-friendly, open-source software ensures that their advancements are accessible to the wider genomics and statistics community. This not only fosters collaboration but also empowers researchers and practitioners to contribute to the ongoing fight against cancer. Beyond the technical achievements, the project also had a broader impact on diversity and inclusion. Through outreach and mentoring, the research program worked to attract and support underrepresented groups, contributing to the growth of a more diverse scientific community at the forefront of computational cancer genomics.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/30/2023<br>      Modified by: Mengjie&nbsp;Chen</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Overall, the project focused on three key objectives. First, we devised a novel stochastic process to accurately identify subclones from bulk tissue DNA sequencing data. This groundbreaking approach considered somatic point mutations and copy number aberrations simultaneously, providing a more comprehensive understanding of tumor heterogeneity. Second, we pioneered an integrative analysis of single-cell RNA sequencing and bulk tissue DNA sequencing data, establishing links between genetic and transcriptional heterogeneity. This approach offered insights into the intricate relationships between genomic changes and gene expression. Third, we developed methods to evaluate intra-tumor heterogeneity from low-coverage single-cell sequencing data, enhancing our ability to glean meaningful information from data with lower resolution.  By addressing gaps in existing methods and tailoring techniques for specific data characteristics, the outcome of this award significantly advanced our understanding of tumor heterogeneity. These outcomes hold promise for improved cancer treatment strategies, particularly in the realm of personalized therapies and immune therapy responses. Moreover, the research team's commitment to creating user-friendly, open-source software ensures that their advancements are accessible to the wider genomics and statistics community. This not only fosters collaboration but also empowers researchers and practitioners to contribute to the ongoing fight against cancer. Beyond the technical achievements, the project also had a broader impact on diversity and inclusion. Through outreach and mentoring, the research program worked to attract and support underrepresented groups, contributing to the growth of a more diverse scientific community at the forefront of computational cancer genomics.          Last Modified: 08/30/2023       Submitted by: Mengjie Chen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

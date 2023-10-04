@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I (COVID-19):  Identifying Medical Supply Shortages on Social Media for Fast and Effective Disaster Response]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>255207.00</AwardTotalIntnAmount>
+<AwardAmount>255207</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project consists of providing immediate help during the COVID-19 crisis by identifying the needs of medical providers and compiling reports for government agencies and medical equipment suppliers and manufacturers. The proposed Natural Language Processing methodology will help (1) hospitals and clinics seeking medical supplies, personal protective equipment, and testing supplies to meet their needs; (2) the government coordinating response; (3) manufacturers and suppliers seeking information regarding needs.  Additionally, it can be used to identify other non-medical supply shortages and can be adapted to provide an efficient response for other disasters or outbreaks.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will leverage recent advances in natural language processing and machine learning to identify at scale needs in medical equipment and supplies, based on insights derived from free text in social media, and convert these needs into a centralized, easily accessible structured data format.  The technology will identify expressions of needs on social media; identify users, their specific needs, and locations; and generate geographically sorted actionable formatted lists.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030482</AwardID>
+<Investigator>
+<FirstName>Carmen</FirstName>
+<LastName>Banea</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carmen Banea</PI_FULL_NAME>
+<EmailAddress><![CDATA[carmenbanea@initium.ai]]></EmailAddress>
+<NSF_ID>000710387</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate>10/14/2021</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Spencer</FirstName>
+<LastName>Vagg</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Spencer Vagg</PI_FULL_NAME>
+<EmailAddress><![CDATA[spencer.vagg@initium.ai]]></EmailAddress>
+<NSF_ID>000864455</NSF_ID>
+<StartDate>10/14/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>INITIUM AI INC.</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481039525</ZipCode>
+<PhoneNumber>9403670207</PhoneNumber>
+<StreetAddress>245 HUNTERS TRL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KNCLR3N4LDF9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>INITIUM AI INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[INITIUM AI INC.]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481039525</ZipCode>
+<StreetAddress><![CDATA[245 Hunters Trail]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5383</Code>
+<Text>HUMAN &amp;/OR BIOLOGICAL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~255207</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The recent COVID-19 outbreak highlighted the unique role that social media can play with filling in information gaps related to the COVID crisis, especially given the decentralized healthcare delivery system used in the United States. Through this project, we leveraged recent advances in Natural Language Processing and Machine Learning to identify needs during the COVID-19 pandemic as expressed in online interactions on social media, as well as to organize these needs into an easily accessible structured data format.&nbsp;<br /><br />Intellectual Merit. Initium AI is building an intelligent platform that can effectively identify and organize important information shared in online interactions. Using our proprietary technologies and datasets, during this SBIR Phase I project we developed novel methods and tools to: (1) Identify need expressions in online interactions, specifically pertaining to the COVID-19 pandemic; (2) Map need expressions to structured representations that can be easily processed and shared, including topic (e.g., Health, Food, Money), metadata, and other characteristics; and (3) Analyze&nbsp; characteristics of online interactions containing need expressions with respect to dimensions such as empathy and sentiment. Our work has resulted in two MVPs directly accessible through API calls.&nbsp;&nbsp;<br /><br />Broader Impacts. The Initium AI platform will revolutionize the way we approach the identification and organization of information in online interactions. Our platform is expected to lead to better and faster access to information, which is especially critical during times of crisis. Our technology is also more broadly applicable to other data sources, by providing effective ways to access and structure such online interactions.&nbsp;</p> <p><br />Initium AI is a majority women-owned software company. In our Phase I work, we have involved women and under-represented minorities. Initium AI is located in Ann Arbor, Michigan, and its success will help increase tech-related employment opportunities in and around Detroit, also providing a venue to retain graduates in technical fields in Michigan.</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/30/2023<br>      Modified by: Spencer&nbsp;Vagg</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The recent COVID-19 outbreak highlighted the unique role that social media can play with filling in information gaps related to the COVID crisis, especially given the decentralized healthcare delivery system used in the United States. Through this project, we leveraged recent advances in Natural Language Processing and Machine Learning to identify needs during the COVID-19 pandemic as expressed in online interactions on social media, as well as to organize these needs into an easily accessible structured data format.   Intellectual Merit. Initium AI is building an intelligent platform that can effectively identify and organize important information shared in online interactions. Using our proprietary technologies and datasets, during this SBIR Phase I project we developed novel methods and tools to: (1) Identify need expressions in online interactions, specifically pertaining to the COVID-19 pandemic; (2) Map need expressions to structured representations that can be easily processed and shared, including topic (e.g., Health, Food, Money), metadata, and other characteristics; and (3) Analyze  characteristics of online interactions containing need expressions with respect to dimensions such as empathy and sentiment. Our work has resulted in two MVPs directly accessible through API calls.    Broader Impacts. The Initium AI platform will revolutionize the way we approach the identification and organization of information in online interactions. Our platform is expected to lead to better and faster access to information, which is especially critical during times of crisis. Our technology is also more broadly applicable to other data sources, by providing effective ways to access and structure such online interactions.    Initium AI is a majority women-owned software company. In our Phase I work, we have involved women and under-represented minorities. Initium AI is located in Ann Arbor, Michigan, and its success will help increase tech-related employment opportunities in and around Detroit, also providing a venue to retain graduates in technical fields in Michigan.          Last Modified: 01/30/2023       Submitted by: Spencer Vagg]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

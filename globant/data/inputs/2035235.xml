@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative Proposal: Development of Digital Models of Minerals and Rocks for Online Geoscience Classes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>16864.00</AwardTotalIntnAmount>
+<AwardAmount>16864</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jennifer Wade</SignBlockName>
+<PO_EMAI>jwade@nsf.gov</PO_EMAI>
+<PO_PHON>7032924739</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The sudden shift to remote online teaching due to the COVID-19 crisis has especially impacted laboratory classes. Petrologists and mineralogists have created three-dimensional models of rock and mineral specimens, which are available online. The commercial site that hosts these does not include a searchable database. This project will create a searchable database and copy the models to a university-hosted server. Additional specimens will be added. &lt;br/&gt;&lt;br/&gt;Image-processing has become routine, which has made it practical to create visually and topologically accurate representation of geologic specimens. Teachers have been creating these images and putting them on a commercial website for the use of the wider community. The problem is that this collection of hundreds of virtual specimens is not searchable. The PIs will create a searchable database with the specific metadata that will be useful to science teachers. Moreover, the virtual specimens will also be copied to a university-hosted server, which will assure access for years. Additional specimens will be imaged. This virtual collection has become vital in the time of COVID-19 and a shift to widespread online instruction.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035235</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Brueseke</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew E Brueseke</PI_FULL_NAME>
+<EmailAddress><![CDATA[brueseke@ksu.edu]]></EmailAddress>
+<NSF_ID>000294739</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kansas State University</Name>
+<CityName>MANHATTAN</CityName>
+<ZipCode>665062504</ZipCode>
+<PhoneNumber>7855326804</PhoneNumber>
+<StreetAddress>1601 VATTIER STREET</StreetAddress>
+<StreetAddress2><![CDATA[103 FAIRCHILD HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CFMMM5JM7HJ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>KANSAS STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Kansas State University]]></Name>
+<CityName/>
+<StateCode>KS</StateCode>
+<ZipCode>665061103</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1573</Code>
+<Text>Petrology and Geochemistry</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~16864</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The abrupt switch from in-person learning due to the COVID-19 pandemic, caused an immediate need to support hybrid or remote geoscience instruction. A key part of geoscience education centers on students handling, inspecting, and testing physical mineral and rock samples, because minerals and rocks are how elements are arranged in and on Earth (and other planets). The dependence on physical samples used for these learning efforts became a liability during the switch to remote instruction at the start of the pandemic.&nbsp;</p> <p>To help these efforts, we developed and disseminated a searchable Google Sheet database of freely available 3D digital rock and mineral models (<a href="https://zenodo.org/record/3988525#.YR6oXNNKiWZ">https://zenodo.org/record/3988525#.YR6oXNNKiWZ</a>) hosted on Sketchfab.com.&nbsp; These kinds of 3D models are digital alternatives for actual rock and mineral samples and are ideally suited for remote/online teaching. Models can be imbedded into instructional websites, online quizzes, and lecture presentations and be used for quantitative analysis of mineral identification, grain size, and modal mineralogy.&nbsp;</p> <p>We also started social media accounts (Rocking3DResources - @rocking3d) on Twitter and Instagram where links to existing 3D models were routinely posted to highlight models and the searchable database, and created a free-to-download K-12 lesson-plan (aimed at Grades 6-12) using 3D digital rock and mineral models.&nbsp; Because the disruption due to the pandemic is still ongoing (and has influenced significant changes in instructional modality across all levels of education), 3D digital models of rocks and minerals are a useful teaching tool. This RAPID grant allowed us to promote existing models, make new models, and helped the educational community adjust to remote learning.</p><br> <p>            Last Modified: 01/20/2023<br>      Modified by: Matthew&nbsp;E&nbsp;Brueseke</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2035235/2035235_10690690_1674234193072_ScreenShot2021-08-19at2.16.11PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2035235/2035235_10690690_1674234193072_ScreenShot2021-08-19at2.16.11PM--rgov-800width.jpg" title="Instagram account for 3D mineral and rock models"><img src="/por/images/Reports/POR/2023/2035235/2035235_10690690_1674234193072_ScreenShot2021-08-19at2.16.11PM--rgov-66x44.jpg" alt="Instagram account for 3D mineral and rock models"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Screenshot of Instagram account where we highlighted Sketchfab.com 3D mineral and rock models</div> <div class="imageCredit">M Brueseke</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Matthew&nbsp;E&nbsp;Brueseke</div> <div class="imageTitle">Instagram account for 3D mineral and rock models</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2035235/2035235_10690690_1674233538066_ScreenShot2021-08-19at2.14.29PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2035235/2035235_10690690_1674233538066_ScreenShot2021-08-19at2.14.29PM--rgov-800width.jpg" title="Twitter account screenshot"><img src="/por/images/Reports/POR/2023/2035235/2035235_10690690_1674233538066_ScreenShot2021-08-19at2.14.29PM--rgov-66x44.jpg" alt="Twitter account screenshot"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Screenshot of Rocking3DResources Twitter account - used to highlight 3D rock and mineral models.</div> <div class="imageCredit">MBrueseke</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Matthew&nbsp;E&nbsp;Brueseke</div> <div class="imageTitle">Twitter account screenshot</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2035235/2035235_10690690_1674234335309_ScreenShot2023-01-20at11.03.35AM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2035235/2035235_10690690_1674234335309_ScreenShot2023-01-20at11.03.35AM--rgov-800width.jpg" title="Comparing Rocks and Minerals: K-12 activity"><img src="/por/images/Reports/POR/2023/2035235/2035235_10690690_1674234335309_ScreenShot2023-01-20at11.03.35AM--rgov-66x44.jpg" alt="Comparing Rocks and Minerals: K-12 activity"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Screenshot of free K-12 activity developed to use our database and 3D models of rocks-minerals on Sketchfab.com</div> <div class="imageCredit">M Brueseke</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Matthew&nbsp;E&nbsp;Brueseke</div> <div class="imageTitle">Comparing Rocks and Minerals: K-12 activity</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The abrupt switch from in-person learning due to the COVID-19 pandemic, caused an immediate need to support hybrid or remote geoscience instruction. A key part of geoscience education centers on students handling, inspecting, and testing physical mineral and rock samples, because minerals and rocks are how elements are arranged in and on Earth (and other planets). The dependence on physical samples used for these learning efforts became a liability during the switch to remote instruction at the start of the pandemic.   To help these efforts, we developed and disseminated a searchable Google Sheet database of freely available 3D digital rock and mineral models (https://zenodo.org/record/3988525#.YR6oXNNKiWZ) hosted on Sketchfab.com.  These kinds of 3D models are digital alternatives for actual rock and mineral samples and are ideally suited for remote/online teaching. Models can be imbedded into instructional websites, online quizzes, and lecture presentations and be used for quantitative analysis of mineral identification, grain size, and modal mineralogy.   We also started social media accounts (Rocking3DResources - @rocking3d) on Twitter and Instagram where links to existing 3D models were routinely posted to highlight models and the searchable database, and created a free-to-download K-12 lesson-plan (aimed at Grades 6-12) using 3D digital rock and mineral models.  Because the disruption due to the pandemic is still ongoing (and has influenced significant changes in instructional modality across all levels of education), 3D digital models of rocks and minerals are a useful teaching tool. This RAPID grant allowed us to promote existing models, make new models, and helped the educational community adjust to remote learning.       Last Modified: 01/20/2023       Submitted by: Matthew E Brueseke]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

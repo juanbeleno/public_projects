@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  IM3UNE: A Platform for Integrated Monitoring, Mapping, Modeling and Understanding of Novel Epidemics Like COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255631.00</AwardTotalIntnAmount>
+<AwardAmount>255631</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact /commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to assist with preparedness and decision-making for situations like the COVID-19 pandemic. This health crisis has been exacerbated by a lack of real-time information or predictive information about the extent, location, and spread of the disease. This Phase I project ingests data streams from government agencies, healthcare providers, and the general public, returning real-time, actionable information to assist in guiding a broad and coordinated response. While this platform is particularly relevant in the COVID-19 pandemic, it is disease agnostic, and will have utility for seasonal influenza and other infectious diseases, positively impacting public health.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will create a platform aimed at providing real-time identification of infectious disease outbreaks and predictions of disease spread, with an initial focus on COVID-19. Among the gaps in the response to the COVID-19 pandemic is capability to accurately track the magnitude, location, and spread of infectious agents. This project aims to assess and demonstrate the value of leveraging multiple modalities and sources of data for early detection and prediction of disease outbreaks, with focus on COVID-19. The approach will combine data fusion methods and epidemiological modeling approaches with continual input from subject matter experts in an effort to generate actionable information and predictive models related to disease spread. A variety of data streams providing information on disease incidence, transportation data, and sub-population interaction data will be used to construct progressively more sophisticated SEIR models. These efforts will result in an improved understanding of the utility and applicability of various data streams to epidemiological monitoring and forecasting, as well as platform for users of various levels of technical expertise.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029153</AwardID>
+<Investigator>
+<FirstName>Ashlee</FirstName>
+<LastName>Valente</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ashlee M Valente</PI_FULL_NAME>
+<EmailAddress><![CDATA[ashlee.valente@geomdata.com]]></EmailAddress>
+<NSF_ID>000824635</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>GEOMETRIC DATA ANALYTICS</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277013215</ZipCode>
+<PhoneNumber>9194487871</PhoneNumber>
+<StreetAddress>343 W MAIN ST UNIT 2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H5LCX878KRB7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEOMETRIC DATA ANALYTICS INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[GEOMETRIC DATA ANALYTICS]]></Name>
+<CityName>Durham</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277013215</ZipCode>
+<StreetAddress><![CDATA[343 W Main Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1718</Code>
+<Text>BIOINFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5383</Code>
+<Text>HUMAN &amp;/OR BIOLOGICAL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7602</Code>
+<Text>INFORMATION INTEGRATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~255631</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This phase I SBIR award aimed to produce a platform for diverse data sources and, using advanced analytics and machine learning, providing timely information on the detection, localization, predictions of future disease spread. We aimed to ensure the platform developed was disease-agnostic, and ultimately, furnish a service to experts and decision-makers in civil government agencies (e.g. CDC), healthcare providers, pharmacies, military, and the public, with an initial focus on developing information and modeling tools to benefit healthcare providers.&nbsp;The goal was not to create novel epidemiological models, but to enable enhanced exploration of multi-modal datasets for hypothesis generation, and adapt and optimize data sources to support existing modeling approaches.</p> <p>Data processing and storage capabilities were created for population and demographics, county centroids (for simplified distance calculations) COVID19 cases, deaths, recovered, hospitalizations, and tests performed, hospital bed capacity, Google symptom search trends, relevant web article access counts, mobility data, social interaction estimates by age, non-pharmaceutical interventions, and air travel.&nbsp;All data were anonymous and publicly accessible.</p> <p>To support epidemiological modeling with enhanced exploration of these diverse datasets, we adapted several "data fusion" approaches - or approaches that utilize multiple types of data in concert - to the specific data types and modeling needs.&nbsp;</p> <p>We began with a simple, yet powerful data comparison approach to allow examination of temporally-shifted or "lagged: relationships between data sets&nbsp;(e.g. the expected delay between infection and recovery, or infection and death).&nbsp;We have leveraged this approach to inform initial parameter settings in compartment epidemiological models&nbsp;</p> <p>In addition to understanding temporal relationships between data sources, understanding which new data sources offer additional information is a critical step for epidemiologists looking to refine their models. As with any real-world data, epidemiological data is high-dimensional. However, some of the data sources contain redundant information (e.g. as travel increases, mobile phone-based mobility increases) and thus do not all need to be included in a model. This redundancy in information is not always obvious and may be uncovered by examining the inherent dimensionality of the full data set (e.g. are the three dimensions in this dataset critical, or can the same information be represented with 2 dimensions?). We implemented an approach that explores dimensionality on subsets of the data, offering researchers the capability to explore data through time or in certain geographic regions, and determine if the addition of a new data set has an impact on the potential utility.</p> <p>In addition to exploring these approaches with epidemiological models currently in use for the COVID-19 pandemic, we&nbsp;sought to&nbsp;further support modeling efforts by providing a framework for moving&nbsp;beyond pre-defined&nbsp;geographical&nbsp;boundaries (e.g. county lines).&nbsp;While a significant portion of data collection, visualization, and modeling efforts are at the county level, this can be problematic for epidemiological monitoring and modeling. These are not meaningful boundaries for disease spread, as we are all impacted by our neighbors and the places we visit. In addition, there are significant differences in data availability and reliability county-by-county.&nbsp;We address these challenges with geospatial modeling approaches and&nbsp;intuitive visualizations that do not explicitly segregate data by&nbsp;geographical boundaries.&nbsp;One important risk factor for exposure to COVID-19 is proximity to areas with high incidence&nbsp;&#19968;&nbsp;holding all other factors constant, being geographically closer to a major outbreak puts one at higher risk. Depending on the scale of data available, we can think of a high-incidence location abstractly as a collective city, or we can instead think of smaller-scale circumstances, for example the precise locations of superspreader events.&nbsp;To represent the risk level as distance increases away from a&nbsp;location, we build a&nbsp;<em>Risk Decay Function (RDF)&nbsp;</em>centered at&nbsp;a location of interest. As the distance from the&nbsp;locationincreases, we&nbsp;model a decline in risk. These RDFs are then aggregated over all&nbsp;locations&nbsp;to generate an&nbsp;<em>Aggregate Risk Field (ARF)</em>. Thresholding the resulting ARF leads to a set of&nbsp;<em>Hot Spots</em>, which represent the areas of expected highest aggregate risk for Covid-19 exposure&nbsp;(example shown in Figure 1).</p> <p>The work completed in this Phase I award provides epidemiologists with new approaches for diverse time series data comparison and evaluating the potential utility of new data sources, providing opportunities to optimally leverage data by estimating model parameters and supporting decisions to incorporate additional data streams with greater efficiency. We also provide generalizable methods for taking geographically partitioned public health data and modeling geospatial spread.&nbsp;</p> <p>While the impact is not immediate, we anticipate this work will contribute to supporting the healthcare industry by enabling resource needs modeling by health data scientists, helping healthcare providers plan for infectious disease patient surges and schedule elective procedures. We also anticipate the exploratory data analysis capabilities and visualizations will enable epidemiologists and public health directors to optimally triage and leverage additional data sources, improve situational awareness, and communicate results to local decision makers.</p><br> <p>            Last Modified: 09/15/2021<br>      Modified by: Ashlee&nbsp;M&nbsp;Valente</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2029153/2029153_10692727_1631717692113_Fig1--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2029153/2029153_10692727_1631717692113_Fig1--rgov-800width.jpg" title="Figure 1"><img src="/por/images/Reports/POR/2021/2029153/2029153_10692727_1631717692113_Fig1--rgov-66x44.jpg" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Weather radar-inspired hotspot visualization � �COVID Radar�.</div> <div class="imageCredit">GDA</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Ashlee&nbsp;M&nbsp;Valente</div> <div class="imageTitle">Figure 1</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This phase I SBIR award aimed to produce a platform for diverse data sources and, using advanced analytics and machine learning, providing timely information on the detection, localization, predictions of future disease spread. We aimed to ensure the platform developed was disease-agnostic, and ultimately, furnish a service to experts and decision-makers in civil government agencies (e.g. CDC), healthcare providers, pharmacies, military, and the public, with an initial focus on developing information and modeling tools to benefit healthcare providers. The goal was not to create novel epidemiological models, but to enable enhanced exploration of multi-modal datasets for hypothesis generation, and adapt and optimize data sources to support existing modeling approaches.  Data processing and storage capabilities were created for population and demographics, county centroids (for simplified distance calculations) COVID19 cases, deaths, recovered, hospitalizations, and tests performed, hospital bed capacity, Google symptom search trends, relevant web article access counts, mobility data, social interaction estimates by age, non-pharmaceutical interventions, and air travel. All data were anonymous and publicly accessible.  To support epidemiological modeling with enhanced exploration of these diverse datasets, we adapted several "data fusion" approaches - or approaches that utilize multiple types of data in concert - to the specific data types and modeling needs.   We began with a simple, yet powerful data comparison approach to allow examination of temporally-shifted or "lagged: relationships between data sets (e.g. the expected delay between infection and recovery, or infection and death). We have leveraged this approach to inform initial parameter settings in compartment epidemiological models   In addition to understanding temporal relationships between data sources, understanding which new data sources offer additional information is a critical step for epidemiologists looking to refine their models. As with any real-world data, epidemiological data is high-dimensional. However, some of the data sources contain redundant information (e.g. as travel increases, mobile phone-based mobility increases) and thus do not all need to be included in a model. This redundancy in information is not always obvious and may be uncovered by examining the inherent dimensionality of the full data set (e.g. are the three dimensions in this dataset critical, or can the same information be represented with 2 dimensions?). We implemented an approach that explores dimensionality on subsets of the data, offering researchers the capability to explore data through time or in certain geographic regions, and determine if the addition of a new data set has an impact on the potential utility.  In addition to exploring these approaches with epidemiological models currently in use for the COVID-19 pandemic, we sought to further support modeling efforts by providing a framework for moving beyond pre-defined geographical boundaries (e.g. county lines). While a significant portion of data collection, visualization, and modeling efforts are at the county level, this can be problematic for epidemiological monitoring and modeling. These are not meaningful boundaries for disease spread, as we are all impacted by our neighbors and the places we visit. In addition, there are significant differences in data availability and reliability county-by-county. We address these challenges with geospatial modeling approaches and intuitive visualizations that do not explicitly segregate data by geographical boundaries. One important risk factor for exposure to COVID-19 is proximity to areas with high incidence &#19968; holding all other factors constant, being geographically closer to a major outbreak puts one at higher risk. Depending on the scale of data available, we can think of a high-incidence location abstractly as a collective city, or we can instead think of smaller-scale circumstances, for example the precise locations of superspreader events. To represent the risk level as distance increases away from a location, we build a Risk Decay Function (RDF) centered at a location of interest. As the distance from the locationincreases, we model a decline in risk. These RDFs are then aggregated over all locations to generate an Aggregate Risk Field (ARF). Thresholding the resulting ARF leads to a set of Hot Spots, which represent the areas of expected highest aggregate risk for Covid-19 exposure (example shown in Figure 1).  The work completed in this Phase I award provides epidemiologists with new approaches for diverse time series data comparison and evaluating the potential utility of new data sources, providing opportunities to optimally leverage data by estimating model parameters and supporting decisions to incorporate additional data streams with greater efficiency. We also provide generalizable methods for taking geographically partitioned public health data and modeling geospatial spread.   While the impact is not immediate, we anticipate this work will contribute to supporting the healthcare industry by enabling resource needs modeling by health data scientists, helping healthcare providers plan for infectious disease patient surges and schedule elective procedures. We also anticipate the exploratory data analysis capabilities and visualizations will enable epidemiologists and public health directors to optimally triage and leverage additional data sources, improve situational awareness, and communicate results to local decision makers.       Last Modified: 09/15/2021       Submitted by: Ashlee M Valente]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

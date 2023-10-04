@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantitative Measurement of Wildfire Behavior in the Field: Leveraging Remote Sensing for Reproducible Observation and Improved Understanding]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>393086.00</AwardTotalIntnAmount>
+<AwardAmount>393086</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jacqueline Meszaros</SignBlockName>
+<PO_EMAI>jmeszaro@nsf.gov</PO_EMAI>
+<PO_PHON>7032927261</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The increasing social, ecological and economic impact of wildfires in multiple regions of the world, including the western United States, has spurred research into fire behavior principles in order to better understand, predict and mitigate the undesired effects of wildland fire. This research has resulted in the development of a number of fire models intended to support global resilience to wildfire. Additionally, extensive experimental campaigns have been conducted to acquire observations that can be used for model development and validation. While laboratory studies are useful to understand the fundamentals of fire behavior, the complexity of physical and chemical phenomena involved in fire dynamics further requires extensive observation in the field to corroborate and extrapolate laboratory findings. However, measuring wildfire behavior in the field involves significant challenges and the amount of quantitative data about wildfire behavior acquired in the field is still scarce. When such data is collected, fire behavior is usually characterized by broad spatial and temporal average values, which prevents the detailed study of fire response to vegetation, terrain and weather. This data void hinders the development of models and simulators that would allow predicting the evolution of an active fire as well as its effects on the environment. To overcome this limitation, this project will leverage modern sensor technology and state-of-the-art data processing algorithms to automate the acquisition of detailed fire behavior information.&lt;br/&gt;&lt;br/&gt;The main goal of this project is to develop remote sensing tools and techniques to facilitate the automated and quantitative measurement of wildfire behavior in the field. Firstly, a portable and affordable system will be built using commercial off-the-shelf (COTS) sensors. The remote sensing system will be designed for versatility so that it can be operated from a variety of platforms, including unmanned aerial vehicles (UAVs). Secondly, scientific software will be developed to derive temporally and spatially explicit fire behavior metrics, such as Rate of Spread (ROS), Fire Radiative Power (FRP), fire Residence Time (RT) and flame and front geometry, from the raw sensor data. Special attention will be paid to image direct georeferencing and the fusion of data acquired at different times and from different observation points. Thirdly, a data visualization platform will be designed based on a Geographic Information System (GIS) to support the analysis of fire behavior data in conjunction with information about plume dynamics, vegetation, terrain, and weather. Finally, the monitoring system, the data analysis software and the data visualization platform will be deployed in two field experiments. The outcomes of this project will fill a critical gap in data availability and are bound to support fire behavior studies and fire model development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/01/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2053619</AwardID>
+<Investigator>
+<FirstName>Mario Miguel</FirstName>
+<LastName>Valero</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mario Miguel Valero</PI_FULL_NAME>
+<EmailAddress><![CDATA[mm.valero@sjsu.edu]]></EmailAddress>
+<NSF_ID>000835945</NSF_ID>
+<StartDate>09/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>San Jose State University Foundation</Name>
+<CityName>SAN JOSE</CityName>
+<ZipCode>951125569</ZipCode>
+<PhoneNumber>4089241400</PhoneNumber>
+<StreetAddress>210 4TH ST 3RD FL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LJBXV5VF2BT9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SAN JOSE STATE UNIVERSITY RESEARCH FOUNDATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LJBXV5VF2BT9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[San Jose State University]]></Name>
+<CityName>San Jose</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>951921001</ZipCode>
+<StreetAddress><![CDATA[One Washington Square]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>198Y</Code>
+<Text>DRRG-Disaster Resilience Res G</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~188197</FUND_OBLG>
+<FUND_OBLG>2022~155872</FUND_OBLG>
+<FUND_OBLG>2023~49017</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Rapid: Collaborative Research: Agile and effective responses to emerging pathogen threats through open data and open analytics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter McCartney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The same types of questions arise during every emergent viral outbreak regarding its origin, its evolution, the manner of spread, and how to detect and mitigate it. Many, if not all, of these questions depend on rapid and reliable genomic analysis of diverse viral sample sequences by multiple laboratories. Early viral investigation is often impaired lack of reproducibility, rigor, and data/analytic sharing; the current investigation of COVID-19 is no different. Essential questions such as the extent of intra-host genomic variability (indicative of adaptation or multiple infection), viral evolution (selection, recombination), transmission (phylogentic and phylogeographic) cannot be answered reliably if researchers cannot trust/replicate the source data and analytical approaches. The goal of this award is to develop, deploy, and continuously update viral genomic analysis workflows to enable the analysis and monitoring of viral evolution and dynamics for SARS-CoV-2, and to use the lessons learned to prepare capacity for future outbreaks.&lt;br/&gt; &lt;br/&gt;Bioinformatics workflows for critical tasks in investigating COVID-19 and future viral outbreaks will be developed and COVID-19 deep sequencing data will be analyzed and shared openly via Galaxy and Datamonkey to facilitate and accelerate evolutionary discovery and enable the study of and response to inevitable future infectious disease outbreaks. In an age of digital connectivity, open and accessible shared data and analysis platforms have the potential to transform the way biomedical research is done, opening the way to ‘global research markets’, where competition arises from deriving understanding rather than access to samples and data. By enabling any researcher with an Internet connection to perform the same analyses as are done by top-flight research groups in resource-rich countries, this award will deliver critical components to resource limited settings, which are often those that are first and disproportionately affected by viral outbreaks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/25/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027194</AwardID>
+<Investigator>
+<FirstName>Anton</FirstName>
+<LastName>Nekrutenko</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anton Nekrutenko</PI_FULL_NAME>
+<EmailAddress><![CDATA[anton@bx.psu.edu]]></EmailAddress>
+<NSF_ID>000491863</NSF_ID>
+<StartDate>03/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>201 OLD MAIN</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>University Park</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168027000</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>PA"</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>085Y</Code>
+<Text>ICB: Infrastructure Capacity f</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-1740f0f4-7fff-0e69-f46a-606523ce03f3"> <p dir="ltr"><span>The scientific response to the COVID-19 pandemic has been enormous with over 200,000 publications and preprints produced in 2020-2021. This is also the first global infectious disease crisis coinciding with nearly universal availability of low cost sequencing resulting in ~10 million SARS-CoV2 viral genomes. While these numbers underscore the sheer scale of the worldwide biomedical research enterprise, they also expose scientific and infrastructural challenges in responding to global health emergencies. A closer look at the COVID-19 publications shows that there are no uniform practices for even foundational analyses, such as genome assembly or variant identification. The volume of existing sequence data is so massive that existing tools simply do not scale, even when deployed on the appropriate computational infrastructure, which, in turn, is only accessible to a small fraction of researchers at superbly resourced institutions. </span></p> <p dir="ltr">By completingthis project we have addressed three principal challenges plaguing COVID-19 (and future pandemic) responce&mdash;(1) lack of best practices for primary analyses, (2) limited scalability of analysis tools, and (3) sparse access to appropriate computational infrastructure&mdash;using Galaxy, which has worked for more than a decade to solve key issues plaguing modern data-intensive biology and is supported by a global community of computational scientists, biomedical researchers, and educators. We have built a globally accessible platform for pandemic data analysis that deploys the best open source tools and workflows on powerful, public, and freely accessible computational infrastructure and allows anyone to run analyses of thousands of samples from anywhere in the world. The platform is supported by a comprehensive training portfolio containing numerous interactive tutorials as well as logistical support for organization of demonstrations and workshops.&nbsp;</p> <div><span><br /></span></div> </span></p> <p>&nbsp;</p><br> <p>            Last Modified: 08/22/2022<br>      Modified by: Anton&nbsp;Nekrutenko</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The scientific response to the COVID-19 pandemic has been enormous with over 200,000 publications and preprints produced in 2020-2021. This is also the first global infectious disease crisis coinciding with nearly universal availability of low cost sequencing resulting in ~10 million SARS-CoV2 viral genomes. While these numbers underscore the sheer scale of the worldwide biomedical research enterprise, they also expose scientific and infrastructural challenges in responding to global health emergencies. A closer look at the COVID-19 publications shows that there are no uniform practices for even foundational analyses, such as genome assembly or variant identification. The volume of existing sequence data is so massive that existing tools simply do not scale, even when deployed on the appropriate computational infrastructure, which, in turn, is only accessible to a small fraction of researchers at superbly resourced institutions.  By completingthis project we have addressed three principal challenges plaguing COVID-19 (and future pandemic) responce&mdash;(1) lack of best practices for primary analyses, (2) limited scalability of analysis tools, and (3) sparse access to appropriate computational infrastructure&mdash;using Galaxy, which has worked for more than a decade to solve key issues plaguing modern data-intensive biology and is supported by a global community of computational scientists, biomedical researchers, and educators. We have built a globally accessible platform for pandemic data analysis that deploys the best open source tools and workflows on powerful, public, and freely accessible computational infrastructure and allows anyone to run analyses of thousands of samples from anywhere in the world. The platform is supported by a comprehensive training portfolio containing numerous interactive tutorials as well as logistical support for organization of demonstrations and workshops.              Last Modified: 08/22/2022       Submitted by: Anton Nekrutenko]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

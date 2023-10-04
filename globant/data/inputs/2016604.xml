@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CCRI: Planning: Collaborative Research: A Platform for Conducting Software Engineering User Studies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>28000.00</AwardTotalIntnAmount>
+<AwardAmount>28000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol Greenspan</SignBlockName>
+<PO_EMAI>sgreensp@nsf.gov</PO_EMAI>
+<PO_PHON>7032927841</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A key goal of software engineering and programming languages research is to create new environments, tools, languages, and techniques through which software engineers create software. Evaluating claims with direct evidence about the expected value of a tool or language for developers requires conducting user studies with developers. Yet researchers looking to conduct these studies face a number of significant barriers, including recruiting participants, administering tasks, and reusing materials. As a result, conducting user studies of software engineering tools and programming languages remains infrequent. Reducing these barriers may increase the frequency of these studies, increasing the ability of tools and languages to support developers and enabling developers to be more productive and effective in their work.&lt;br/&gt;&lt;br/&gt;This project encompasses planning activities to construct a shared community infrastructure for conducting user studies of developers. Planning activities will be conducted to gather community input to better understand the nature of the problem and obtain feedback on ways in which a future community infrastructure for conducting studies might reduce the barriers researchers face. Community feedback will be obtained on potential configurable components addressing key barriers. A survey and interviews of software engineering and programming languages researchers will be conducted to understand the barriers researchers face and how infrastructure might reduce these barriers. A workshop will facilitate exchange of best practices, and a working group will explore the detailed design of the infrastructure with researchers experienced in user studies. Finally, a summative survey will assess the ability of potential infrastructure to support the studies researchers conduct.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016604</AwardID>
+<Investigator>
+<FirstName>Xiaoyin</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaoyin Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[Xiaoyin.Wang@UTSA.EDU]]></EmailAddress>
+<NSF_ID>000653136</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at San Antonio</Name>
+<CityName>SAN ANTONIO</CityName>
+<ZipCode>782491644</ZipCode>
+<PhoneNumber>2104584340</PhoneNumber>
+<StreetAddress>1 UTSA CIRCLE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U44ZMVYU52U6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT SAN ANTONIO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at San Antonio]]></Name>
+<CityName/>
+<StateCode>TX</StateCode>
+<ZipCode>782491644</ZipCode>
+<StreetAddress><![CDATA[One UTSA Circle]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>CCRI-CISE Cmnty Rsrch Infrstrc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~28000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>A key goal of software engineering and programming languages research is to create new environments, tools, languages, and techniques through which software engineers create software. Evaluating claims about the expected value of a software tool for developers requires human developers for direct evidence. Yet these studies today are infrequent due to the substantial barriers that researchers face in conducting these studies.</p> <p><br />This planning project explored the potential for a future community infrastructure for conducting programming user studies. By engaging with potential researchers who might use such a platform, as well as developers who might participate in studies conducted using the platform, we worked to better understand the barriers researchers face and the ways in which new infrastructure might help to reduce these barriers. We conducted interviews with senior and junior researchers as well as developers to examine barriers and best practices in programming user studies. We then conducted 3 working groups with 12 researchers focused on three specific barriers: recruiting participants, knowledge needed, and effort required. From this, we identified 18 barriers researchers encounter, 23 solution strategies that experienced researchers used to address these barriers today, and ways in which future infrastructure might help more broadly reduce these barriers. Finally, we conducted a 1 day in-person workshop bringing together software engineering, human-computer interaction, programming languages researchers, and behavioral science researchers to explore the potential for future infrastructure.</p> <p>To examine the potential for specific infrastructure, we developed two early prototypes. Building on top of the successful JsPsych platform for conducting psychology user studies, we developed a JsPysch-SE-Plugin which enables a participant to view, edit and run code and answer study questions from anywhere in the world as long as she has access to a browser. And we developed AWS StudyHosts, which creates a virtual machine with a pre-installed IDE, system monitors, and programming tool which is being studied. This prototype supports remote deployment of heavy-weight tasks which require a traditional desktop IDE, such as evaluations of IDE plugins.<br />Interactions with researchers revealed the potential for future programming user study infrastructure to greatly expand the number of user studies of programming which are conducted. Among 58 researchers responding to our survey, 95% (55) reported they would definitely (28, 48%) or probably (27, 47%) consider using community infrastructure to conduct programming user studies.</p><br> <p>            Last Modified: 05/24/2023<br>      Modified by: Xiaoyin&nbsp;Wang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ A key goal of software engineering and programming languages research is to create new environments, tools, languages, and techniques through which software engineers create software. Evaluating claims about the expected value of a software tool for developers requires human developers for direct evidence. Yet these studies today are infrequent due to the substantial barriers that researchers face in conducting these studies.   This planning project explored the potential for a future community infrastructure for conducting programming user studies. By engaging with potential researchers who might use such a platform, as well as developers who might participate in studies conducted using the platform, we worked to better understand the barriers researchers face and the ways in which new infrastructure might help to reduce these barriers. We conducted interviews with senior and junior researchers as well as developers to examine barriers and best practices in programming user studies. We then conducted 3 working groups with 12 researchers focused on three specific barriers: recruiting participants, knowledge needed, and effort required. From this, we identified 18 barriers researchers encounter, 23 solution strategies that experienced researchers used to address these barriers today, and ways in which future infrastructure might help more broadly reduce these barriers. Finally, we conducted a 1 day in-person workshop bringing together software engineering, human-computer interaction, programming languages researchers, and behavioral science researchers to explore the potential for future infrastructure.  To examine the potential for specific infrastructure, we developed two early prototypes. Building on top of the successful JsPsych platform for conducting psychology user studies, we developed a JsPysch-SE-Plugin which enables a participant to view, edit and run code and answer study questions from anywhere in the world as long as she has access to a browser. And we developed AWS StudyHosts, which creates a virtual machine with a pre-installed IDE, system monitors, and programming tool which is being studied. This prototype supports remote deployment of heavy-weight tasks which require a traditional desktop IDE, such as evaluations of IDE plugins. Interactions with researchers revealed the potential for future programming user study infrastructure to greatly expand the number of user studies of programming which are conducted. Among 58 researchers responding to our survey, 95% (55) reported they would definitely (28, 48%) or probably (27, 47%) consider using community infrastructure to conduct programming user studies.       Last Modified: 05/24/2023       Submitted by: Xiaoyin Wang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

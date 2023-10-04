@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC* Compute: GPU-based Computation and Data Enabled Research and Education (G-CoDERE) at PSU]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>395926.00</AwardTotalIntnAmount>
+<AwardAmount>395926</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+<PO_EMAI>kthompso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924220</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Data and computationally intensive research and education is increasingly important at Portland State University (PSU). Scientists and students at PSU are producing massive quantities of data and investigating machine learning and data science approaches to research problems in many different fields. Graphics processing units (GPUs) excel at large-scale parallel computing and are critical for analyzing and visualizing such massive quantities of research data and developing data-driven technologies. This project establishes PSU's first GPU computing infrastructure and will support PSU research groups in a wide variety of fields, including Computer Science, ECE, Physics, Chemistry, Statistics, and Speech &amp; Hearing Science, and benefit researchers in partner universities, including Oregon Health and Science University and Lewis &amp; Clark University. It provides undergraduates, graduate students, and postdoctoral researchers new training opportunities for data-driven research; enables the creation of new machine learning, data analytics, and visualization courses; and supports upgrading existing courses with emerging data-driven paradigm. It facilitates the K12 outreach programs such as Oregon Mathematics, Engineering, Science Achievement and Saturday Academy’s Apprenticeships in Science and Engineering with GPU-enabled project and internship opportunities. This infrastructure allows PSU, Oregon's most diverse public university, to provide the state-of-the-art GPU facility and learning opportunities to students from underrepresented groups.&lt;br/&gt;&lt;br/&gt;This project establishes PSU's first GPU computing infrastructure by acquiring twenty GPU servers with the related high-performance data storage. This GPU infrastructure complements PSU's Coeus high-performance computing cluster to support GPU-enabled research and education at PSU and share with external users through the Open Science Grid.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019216</AwardID>
+<Investigator>
+<FirstName>Christof</FirstName>
+<LastName>Teuscher</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christof Teuscher</PI_FULL_NAME>
+<EmailAddress><![CDATA[teuscher@pdx.edu]]></EmailAddress>
+<NSF_ID>000514756</NSF_ID>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Feng</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Feng Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[fliu@pdx.edu]]></EmailAddress>
+<NSF_ID>000580498</NSF_ID>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jay</FirstName>
+<LastName>Nadeau</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jay L Nadeau</PI_FULL_NAME>
+<EmailAddress><![CDATA[nadeau@pdx.edu]]></EmailAddress>
+<NSF_ID>000700604</NSF_ID>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bruno</FirstName>
+<LastName>Jedynak</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruno Jedynak</PI_FULL_NAME>
+<EmailAddress><![CDATA[bruno.jedynak@pdx.edu]]></EmailAddress>
+<NSF_ID>000714985</NSF_ID>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steve</FirstName>
+<LastName>Reichow</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steve L Reichow</PI_FULL_NAME>
+<EmailAddress><![CDATA[reichow@pdx.edu]]></EmailAddress>
+<NSF_ID>000798523</NSF_ID>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Portland State University</Name>
+<CityName>PORTLAND</CityName>
+<ZipCode>972015522</ZipCode>
+<PhoneNumber>5037259900</PhoneNumber>
+<StreetAddress>1600 SW 4TH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H4CAHK2RD945</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PORTLAND STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4CAHK2RD945</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Portland State University]]></Name>
+<CityName>Portland</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>972070751</ZipCode>
+<StreetAddress><![CDATA[1600 SW 4th Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~395926</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project established PSU's first GPU computing infrastructure. This GPU infrastructure includes ten (10) GPU servers, each with four (4) Nvidia GPUs, and the supporting storage and networking equipment. It is now a critical component of PSU's whole research computing infrastructure. This GPU infrastructure is also integrated with the Open Science Grid and shares 20% of the GPU servers with external users.&nbsp;</p> <p>This GPU infrastructure has already supported various research projects in many fields at PSU, such as Computer Vision, Computer Graphics, Statistics, Machine Learning and Molecular Modeling/Simulations. This infrastructure has also provided training opportunities for many students across the PSU campus and professional development opportunities for PSU's Central IT research computing support staff and systems administrators. External users have already been actively using this infrastructure through the Open Science Grid. In the future, it is expected to 1) further support PSU research groups in a wide variety of fields and benefit researchers in partner universities, 2) provide undergraduates, graduate students, and postdoctoral researchers new training opportunities for data-driven research, 3) create new machine learning, data analytics, and visualization courses, and 4) facilitate the K12 outreach programs with GPU-enabled project and internship opportunities and provide the state-of-the-art GPU facility and learning opportunities to students from underrepresented groups.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/15/2022<br>      Modified by: Feng&nbsp;Liu</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project established PSU's first GPU computing infrastructure. This GPU infrastructure includes ten (10) GPU servers, each with four (4) Nvidia GPUs, and the supporting storage and networking equipment. It is now a critical component of PSU's whole research computing infrastructure. This GPU infrastructure is also integrated with the Open Science Grid and shares 20% of the GPU servers with external users.   This GPU infrastructure has already supported various research projects in many fields at PSU, such as Computer Vision, Computer Graphics, Statistics, Machine Learning and Molecular Modeling/Simulations. This infrastructure has also provided training opportunities for many students across the PSU campus and professional development opportunities for PSU's Central IT research computing support staff and systems administrators. External users have already been actively using this infrastructure through the Open Science Grid. In the future, it is expected to 1) further support PSU research groups in a wide variety of fields and benefit researchers in partner universities, 2) provide undergraduates, graduate students, and postdoctoral researchers new training opportunities for data-driven research, 3) create new machine learning, data analytics, and visualization courses, and 4) facilitate the K12 outreach programs with GPU-enabled project and internship opportunities and provide the state-of-the-art GPU facility and learning opportunities to students from underrepresented groups.          Last Modified: 10/15/2022       Submitted by: Feng Liu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

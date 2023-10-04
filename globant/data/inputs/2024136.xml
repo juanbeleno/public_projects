@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[2020 hackseq RNA Workshop]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>49992.00</AwardTotalIntnAmount>
+<AwardAmount>49992</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jean Gao</SignBlockName>
+<PO_EMAI>jgao@nsf.gov</PO_EMAI>
+<PO_PHON>7032927253</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The genetic material or “genomes” of all living things is made of DNA and carries the instructions for creating each individual. A large part of each genome does not code for any protein and was previously thought to be “junk”. We now understand that these “non-coding” regions of the genomes are often copied into RNA, and contain an important part of the instructions that define each species, such as the different tissues of the body or adaptation to different growth conditions.  Deciphering the information contained in the non-coding genome and the RNA molecules that it produces is an enormous challenge today. We lack computer software that can analyze non-coding RNA sequences for patterns that will allow us to understand what the sequences mean and how these RNA molecules act in the cell. This project supports young US scientists to participate in an RNA bioinformatics “hackathon”, planned to be held in May of 2020. The hackathon involves 8-10 teams that work for three days to develop software prototypes that solve one or more challenges in RNA sequence analysis (bioinformatics) and in deciphering the non-coding genome. The scientists will also participate in the RNA 2020 conference following the hackathon, where the latest research on non-coding RNA will be presented. This project will increase US competitiveness in biotechnology by creating a base for the development of commercial software for genetics analysis. It will also expand and diversify the US workforce in RNA bioinformatics by exposing computer science students from under-represented groups to the science of non-coding RNA. &lt;br/&gt;&lt;br/&gt;This proposal aims to support the first "RNA bioinformatics hackathon” and to advance the integration of the state-of-the-art computational techniques with the challenge of deciphering non-coding RNA and the “dark” genome. The hackathon will be a three-day coding intensive workshop where graduate students, post-docs and PIs prototype novel ideas and software specifically focused on RNA sequence and structure. Following the hackathon, participants will attend the RNA Society meeting. The RNA hackathon will leverage an established infrastructure for hackathons at the University of British Columbia. It will also leverage the convention of world-experts in RNA science at the RNA Society meeting in Vancouver.  The RNA hackathon is intended to produce new software or computational methods for analyzing RNA sequencing data.  The hackathon operates on an open source platform, and all products of the hackathon will be made available to the public on github. Some projects are expected to ultimately lead to professional software that will advance the development of technology companies in the US.  The results of this project will be available at https://github.com/hackseq.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024136</AwardID>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Woodson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sarah Woodson</PI_FULL_NAME>
+<EmailAddress><![CDATA[swoodson@jhu.edu]]></EmailAddress>
+<NSF_ID>000331968</NSF_ID>
+<StartDate>05/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alain</FirstName>
+<LastName>Laederach</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alain Laederach</PI_FULL_NAME>
+<EmailAddress><![CDATA[alain@unc.edu]]></EmailAddress>
+<NSF_ID>000730065</NSF_ID>
+<StartDate>05/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Johns Hopkins University</Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress>3400 N CHARLES ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>JOHNS HOPKINS UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FTMTDMBR29C7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName>Baltimore</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212182686</ZipCode>
+<StreetAddress><![CDATA[3400 N. Charles Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>084Y</Code>
+<Text>IIBR: Infrastructure Innovatio</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~49992</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>A contemporary challenge in life science research remains understanding the role of the "dark" genome that are copied into RNA but that do not code for a protein. To understand how this ?dark? genome functions requires cooperation between state-of-the-art computer science and biologists. To encourage a dialog between computer scientists and RNA biologists, this project aimed to support the participation of young scientists in the US in computing projects related to RNA and the dark genome, such as the Grand Challenges in RNA Bioinformatics that was associated with the annual meeting of the RNA Society, May 25-June 4, 2021. The meeting also featured sessions related to RNA bioinformatics, computation, high-throughput sequencing data and structural modeling. The goal was to encourage cross-fertilization of computational scientists and RNA scientists and contribute to new prototype software and computational platforms for the analysis of RNA sequences and structures.&nbsp;</p> <p>The main objects were to (1) support participant costs in the RNA 2021 Meeting Online with priority for those presenting or working in the area of bioinformatics and modeling, (2) support and encourage the participation of under-represented minority and first-generation students, and (3) contribute to the competitiveness of the US STEM work force through dissemination of advances in computer science analysis of non-coding RNA.</p> <p>As a result of this project, online registration was reimbursed for 407 US participants in the RNA 2021 online meeting. These participants were graduate students and postdoctoral fellows based in the US, or instructors at universities and colleges that do not support research.&nbsp;&nbsp;This contributed to a doubling of the total number of junior scientists able to participate in the meeting. This project also supported 31 US participants from under-represented or disadvantaged backgrounds, and 14 attendees from schools without major research support.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/03/2022<br>      Modified by: Sarah&nbsp;A&nbsp;Woodson</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ A contemporary challenge in life science research remains understanding the role of the "dark" genome that are copied into RNA but that do not code for a protein. To understand how this ?dark? genome functions requires cooperation between state-of-the-art computer science and biologists. To encourage a dialog between computer scientists and RNA biologists, this project aimed to support the participation of young scientists in the US in computing projects related to RNA and the dark genome, such as the Grand Challenges in RNA Bioinformatics that was associated with the annual meeting of the RNA Society, May 25-June 4, 2021. The meeting also featured sessions related to RNA bioinformatics, computation, high-throughput sequencing data and structural modeling. The goal was to encourage cross-fertilization of computational scientists and RNA scientists and contribute to new prototype software and computational platforms for the analysis of RNA sequences and structures.   The main objects were to (1) support participant costs in the RNA 2021 Meeting Online with priority for those presenting or working in the area of bioinformatics and modeling, (2) support and encourage the participation of under-represented minority and first-generation students, and (3) contribute to the competitiveness of the US STEM work force through dissemination of advances in computer science analysis of non-coding RNA.  As a result of this project, online registration was reimbursed for 407 US participants in the RNA 2021 online meeting. These participants were graduate students and postdoctoral fellows based in the US, or instructors at universities and colleges that do not support research.  This contributed to a doubling of the total number of junior scientists able to participate in the meeting. This project also supported 31 US participants from under-represented or disadvantaged backgrounds, and 14 attendees from schools without major research support.          Last Modified: 10/03/2022       Submitted by: Sarah A Woodson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

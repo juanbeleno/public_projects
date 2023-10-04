@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER/Collaborative Research: Enable Elastic Capacity for Transportation Infrastructure through a Transmodal Modular Autonomous Vehicle System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>111940.00</AwardTotalIntnAmount>
+<AwardAmount>111940</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yueyue Fan</SignBlockName>
+<PO_EMAI>yfan@nsf.gov</PO_EMAI>
+<PO_PHON>7032924453</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[While roadway infrastructure provides limited capacity, vehicles operating on roads dominated by passenger cars may easily exceed road capacity over peak hours, causing traffic congestion, excessive energy consumption and increased safety risks. In observing that a passenger car takes much space on a roadway due to the relatively long gap following a preceding vehicle, this EArly-concept Grant for Exploratory Research (EAGER) project explores emerging modular autonomous vehicle (MAV) technology that can dynamically adjust gaps between vehicles. With the MAV technology, vehicles composed of multiple modular pods can be dynamically docked and separated during operations. For example, during peak hours, modular pods will be docked into longer MAVs, resulting in zero gaps between the modular pods docked together, which obviously improves highway throughput and reduces congestion. Whereas during off-peak hours, a long MAV may separate into shorter MAVs to ensure flexible system accessibility and reduce vehicle operation costs. This way, the MAV service equivalently creates “elastic” capacity for fixed transportation infrastructure to adapt spatiotemporally-varying travel demand. This project is for a new transmodal MAV system paradigm to realize such elastic capacity of a road transportation system. &lt;br/&gt;&lt;br/&gt;To realize this vision, we will adapt multidisciplinary theoretical methods (e.g., time-geography, queuing theory, traffic flow theory, and homogeneous analysis) to understand and formulate operations of an MAV system. Then we will build mathematical models for the optimal design and operations of an MAV system at various scales by synchronizing demands and modular pods over time and space. The major challenge is to deal with continuous time and space as opposed to traditional fleet management problems with discrete time-space states. This challenge will be overcome by integrating microscopic trajectory control into macroscopic fleet management. If successful, this project will provide transmodal concepts to improve transportation and other related systems that are currently segregated into different modes. It will help boost the MAV service from a startup stage to a sustainable industry. The results will help transportation stakeholders understand feasibility and benefits of the MAV service and devise measures to incorporate it in their future planning, which may result in profound positive impacts on surface transportation including transit and freight operations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022967</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Chow</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph Chow</PI_FULL_NAME>
+<EmailAddress><![CDATA[joseph.chow@nyu.edu]]></EmailAddress>
+<NSF_ID>000700281</NSF_ID>
+<StartDate>04/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1631</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>039E</Code>
+<Text>STRUCTURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~111940</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In investigating the potential of modular vehicles that can allow en-route transfers, we made several discoveries.&nbsp;</p> <p>1. Modular vehicles operated as a transit service can function as a microtransit operation with door-to-door service, as a feeder service connecting last mile communities to a commuter transit line, or as a hub-and-spoke structured transit service collecting commuters at a last mile area and transporting them together in a platoon to the central business district. Simulation studies suggest that the first design offers the highest profit potential for an operator while the last design benefits the travelers the most.</p> <p>2. En-route transfers can potentially improve vehicle travel distance by as much as 20% for large scale networks, and this improvement is dependent on density.</p> <p>3. Simulation tests on the Anaheim network suggest that modular platooning can improve vehicle travel costs by 52%, passenger service times by 36%, and total cost by 29% relative to on-demand services without platooning (assuming each additional platooning vehicle can improve operating costs by 10%).</p> <p>4. Clustering of pickups and drop-offs within a dense neighborhood is likely to increase savings for platooning. Smaller vehicle capacities also benefit platooning. These results suggest that platooning is best used to provide service connecting a major residential enclave with the central business district, operating as a hub-and-spoke system.&nbsp;</p> <p>The research led to publications of three journal articles, several conference proceedings, a working paper under review at another journal, one MS thesis and two PhD dissertations. The PI was invited to chair a sesson on "Modular Vehicle Operations" at the Conference on Advanced Systems in Public Transport and Transit at Tel Aviv in 2022. He was also invited to give lectures at University of South Florida, Chulalongkorn University, and the IPAM Workshop III on Large Scale Autonomy: Connectivity and Mobility Networks at UCLA.</p> <p>Through this project, the PI has supervised one MS student and two PhD students, as well as collaborated with colleagues at NYU Abu Dhabi.&nbsp;</p> <p>The project led to further funding from MOIA/Volkswagen, one of top 5 microtransit providers in the world, to develop a dynamic routing algorithm that allows passenger transfers, and on a project with US DOT in collaboration with Via to develop upscaled data for microtransit deployment. It also led to the PI serving as a National Expert on a team awarded an on-call agreement to support the Bureau of Transportation Statistics.&nbsp;</p><br> <p>            Last Modified: 12/02/2022<br>      Modified by: Joseph&nbsp;Chow</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2022967/2022967_10663611_1670017455516_Clustering--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2022967/2022967_10663611_1670017455516_Clustering--rgov-800width.jpg" title="Computational tests on 378-node Anaheim network"><img src="/por/images/Reports/POR/2022/2022967/2022967_10663611_1670017455516_Clustering--rgov-66x44.jpg" alt="Computational tests on 378-node Anaheim network"></a> <div class="imageCaptionContainer"> <div class="imageCaption">240 generated instances on a 378-node Anaheim network show that platooning can benefit most under clustered demand patterns, which suggest the use of platoon-based technologies for connecting different enclaves together using a hub-and-spoke design.</div> <div class="imageCredit">Fu and Chow (2022)</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Joseph&nbsp;Chow</div> <div class="imageTitle">Computational tests on 378-node Anaheim network</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2022967/2022967_10663611_1670017238129_Transfers--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2022967/2022967_10663611_1670017238129_Transfers--rgov-800width.jpg" title="Computational tests with synthetic 200x200 grid network of candidate en-route transfers"><img src="/por/images/Reports/POR/2022/2022967/2022967_10663611_1670017238129_Transfers--rgov-66x44.jpg" alt="Computational tests with synthetic 200x200 grid network of candidate en-route transfers"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Computational tests with synthetic 200x200 grid network of candidate en-route transfers shows that such activities can reduce vehicle travel distances by up to 20%, lending support for en-route transfers.</div> <div class="imageCredit">Fu and Chow (2022)</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Joseph&nbsp;Chow</div> <div class="imageTitle">Computational tests with synthetic 200x200 grid network of candidate en-route transfers</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ In investigating the potential of modular vehicles that can allow en-route transfers, we made several discoveries.   1. Modular vehicles operated as a transit service can function as a microtransit operation with door-to-door service, as a feeder service connecting last mile communities to a commuter transit line, or as a hub-and-spoke structured transit service collecting commuters at a last mile area and transporting them together in a platoon to the central business district. Simulation studies suggest that the first design offers the highest profit potential for an operator while the last design benefits the travelers the most.  2. En-route transfers can potentially improve vehicle travel distance by as much as 20% for large scale networks, and this improvement is dependent on density.  3. Simulation tests on the Anaheim network suggest that modular platooning can improve vehicle travel costs by 52%, passenger service times by 36%, and total cost by 29% relative to on-demand services without platooning (assuming each additional platooning vehicle can improve operating costs by 10%).  4. Clustering of pickups and drop-offs within a dense neighborhood is likely to increase savings for platooning. Smaller vehicle capacities also benefit platooning. These results suggest that platooning is best used to provide service connecting a major residential enclave with the central business district, operating as a hub-and-spoke system.   The research led to publications of three journal articles, several conference proceedings, a working paper under review at another journal, one MS thesis and two PhD dissertations. The PI was invited to chair a sesson on "Modular Vehicle Operations" at the Conference on Advanced Systems in Public Transport and Transit at Tel Aviv in 2022. He was also invited to give lectures at University of South Florida, Chulalongkorn University, and the IPAM Workshop III on Large Scale Autonomy: Connectivity and Mobility Networks at UCLA.  Through this project, the PI has supervised one MS student and two PhD students, as well as collaborated with colleagues at NYU Abu Dhabi.   The project led to further funding from MOIA/Volkswagen, one of top 5 microtransit providers in the world, to develop a dynamic routing algorithm that allows passenger transfers, and on a project with US DOT in collaboration with Via to develop upscaled data for microtransit deployment. It also led to the PI serving as a National Expert on a team awarded an on-call agreement to support the Bureau of Transportation Statistics.        Last Modified: 12/02/2022       Submitted by: Joseph Chow]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

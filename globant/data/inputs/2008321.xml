@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CNS Core: Small: Operating Systems Abstractions for Serverless Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>499986.00</AwardTotalIntnAmount>
+<AwardAmount>499986</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jason Hallstrom</SignBlockName>
+<PO_EMAI>jhallstr@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Serverless functions, or Functions as a Service (FaaS), are a cloud computing feature whose popularity has been increasing in recent years. This project will improve serverless functions with a sophisticated runtime system that will allow users to run code efficiently while keeping serverless functions economically viable to providers.  While keeping the programming model simple, a more sophisticated runtime will provide features such as efficient caching of intermediate results and fault tolerance.  Meanwhile hardware acceleration (e.g., graphical processing units (GPUs)) will be transparently enabled.  As a consequence, serverless functions will be made efficient for new classes of workloads such as video processing and machine learning inference.&lt;br/&gt;&lt;br/&gt;Achieving efficient execution with a simple programming model requires a technically sophisticated runtime system.  Organizing the computation as a data flow graph allows the user to provide only simple data dependencies while the runtime simultaneously schedules local storage and computational accelerators along with more traditional resources such as the Central Processing Unit (CPU) cores and memory.  Serverless workloads require high parallelism and short run times to make the platform worthwhile.  However, maintaining high levels of parallelism can be difficult because of input-dependent processing requirements and GPU acceleration.  Load imbalance arises when the stages specified in a data flow graph have data-dependent processing requirements.  This is common in some machine learning (ML) related tasks, e.g., face recognition. GPUs may make the problem worse because a data flow graph that is balanced for CPU execution might become unbalanced when some stages are executed on a GPU where execution is much faster.&lt;br/&gt;&lt;br/&gt;This project will provide the necessary tools, techniques, and infrastructure to bring serverless functions to new workloads with unprecedented levels of performance.  This allows the continued exponential evolution and innovation for systems that rely on machine learning and other compute-intensive computations. This project will also provide an opportunity for doctoral students to work as graduate research assistants while gaining broad exposure to interdisciplinary research that draws from multiple areas of computer science, including operating systems, virtualization and GPUs.&lt;br/&gt;&lt;br/&gt;Results from this project will be made public where they can be archived.  All published material from the project will be distributed for free from the authors' web site.  Research artifacts are likely to include modified source code and workloads.  Research publications will be available at https://www.cs.utexas.edu/users/witchel/.  Source code, workloads, and other artifacts will be available at https://github.com/ut-osa/.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008321</AwardID>
+<Investigator>
+<FirstName>Emmett</FirstName>
+<LastName>Witchel</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Emmett Witchel</PI_FULL_NAME>
+<EmailAddress><![CDATA[witchel@cs.utexas.edu]]></EmailAddress>
+<NSF_ID>000164959</NSF_ID>
+<StartDate>07/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787595316</ZipCode>
+<StreetAddress><![CDATA[3925 W Braker Lane, Suite 3340]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~499986</FUND_OBLG>
+</Award>
+</rootTag>

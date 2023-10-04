@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Transmission and Immunology of COVID-19 in the Pandemic and Post-Pandemic Phase: Real-time Assessment of Social Distancing &amp; Protective Immunity</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199992.00</AwardTotalIntnAmount>
+<AwardAmount>199992</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+<PO_EMAI>kdittmar@nsf.gov</PO_EMAI>
+<PO_PHON>7032927799</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>In March 2020 the COVID-19 pandemic took hold in the United States and threatened the lives a livelihood of all Americans. At this time, the pandemic is being driven by person-to-person transmission of the coronavirus known as SARS-CoV-2. The U.S. government, both state and federal, responded to the pandemic by launching social distancing as an intervention, ordering schools and non-essential businesses to close throughout most of the country. Mathematical models are required in order to measure the transmission of COVID-19 in the U.S. This research focuses on building mathematical models that include data on social distancing to measure how effective the intervention is at slowing the disease. The researchers will also evaluate strategies for reopening schools and workplaces. Importantly, the researchers will measure the risk for a second pandemic wave by accounting for how the immune system reacts to the infection. This research is important because it will provide the U.S. government with models that it can use to choose among options for reopening cities. These models will also reveal the number of deaths averted by social distancing policies. In addition to the great societal benefit of this research, it also brings scientific advancement and broader impacts by demonstrating how novel datasets can be collected in real-time and models can be deployed during a public health emergency. This project provides professional development opportunities for an early career scientist. &lt;br/&gt;&lt;br/&gt;Transmission models will be used to explore creative ways for phased reopening of cities in order to minimize disease-induced mortality and overburdening of hospitals. The researchers will focus on the 62 counties in New York state, the current epicenter of the pandemic. The researchers will fit a city-level COVID-19 transmission model which accounts for social distancing quantified by Google traffic data, and ground-truthed by public transportation data, live-webcam streams, and Google trends indicating individuals are staying home. The researchers will explore transmission dynamics and hospitalization trajectories under different scenarios of adaptive immunity (e.g., long-lived sterilizing immunity, waning immunity, and immunity that reduces symptoms in subsequent infections). Models will be parameterized using data on testing, COVID-19 clinical cases, hospitalizations, and mortality via Maximum Likelihood by Iterated Particle Filtering (MIF). Modeling will be done in real time, requiring the statistical inference pipeline to be sufficiently nimble to account for the rapidly changing epidemiological situation. The researchers are interfacing with policy makers as part of CDC working groups on modeling COVID-19 and will actively share data through the NIH MIDAS coordination network.&lt;br/&gt;&lt;br/&gt;This RAPID award is made by the Ecology and Evolution of Infectious Diseases Program in the Division of Environmental Biology, using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029421</AwardID>
+<Investigator>
+<FirstName>Markus</FirstName>
+<LastName>Hilpert</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Markus Hilpert</PI_FULL_NAME>
+<EmailAddress>mh3632@columbia.edu</EmailAddress>
+<NSF_ID>000249505</NSF_ID>
+<StartDate>04/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Micaela</FirstName>
+<LastName>Martinez</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Micaela E Martinez</PI_FULL_NAME>
+<EmailAddress>micaela.elvira.martinez@emory.edu</EmailAddress>
+<NSF_ID>000686816</NSF_ID>
+<StartDate>04/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>049179401</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>049179401</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Trustees of Columbia University in the City of New York]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100323702</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199992</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>With this grant funding we conducted research on COVID-19 transmission, mobility, social distancing, racial and socioeconomic health disparities, and immunology. Our team provided real-time information and tools for scientists, the public health community, the press, and the public. First, we provided information about how neighborhood mobility, essential work, racial/ethnic demographics, and poverty shaped COVID-19 cases in NYC neighborhoods. This research is detailed in our manuscript titled <em>Socioeconomic Disparities in Subway Use and COVID-19 Outcomes in New York City, </em>published in the American Journal of Epidemiology. Prior to publication, this manuscript was made available online at medRxiv and was covered in the media, including ABC News. Our study was one of the first to demonstrate that the most socially disadvantaged are not only at an increased risk for COVID-19 infection, but lack the privilege to fully engage in social distancing interventions.</p> <p>Second, we developed an algorithm to explore the closure and reawaking of cities as lock-downs were being implemented and lifted. Our novel algorithm allowed us to quantify changes in mobility real-time (every 15 minutes) by applying image processing to Google maps in order to measure the amount of traffic on each street within a city. We deployed this algorithm during the pandemic to measure mobility in NYC, which was the early epicenter of the pandemic. We used time series decomposition and generalized additive models to quantify changes in rush hour/non-rush hour, and weekday/weekend traffic, pre-pandemic and following the roll-out of multiple social distancing interventions. We found that mobility decreased sharply on March 14, 2020 following declaration of the pandemic. However, traffic levels began rebounding by approximately April 13, almost 2 months before stay-at- home orders were lifted in NYC, indicating premature increase in mobility, which we term social-distancing fatigue. By September, traffic congestion rebounded to approximately 75% of pre-pandemic levels. Our Google traffic data mining algorithm can be used in planning and evaluating large-scale social distancing interventions in the future.</p> <p>Our broader impacts included raising awareness about the racial/ethnic and socioeconomic disparities in the pandemic which we became aware of once we started to analyze data for our NSF-funded project. Our work has been covered by national news outlets and was presented to the New York City council as well as federal agencies (CDC and HHS) to address the health disparities in the pandemic. Dr. Martinez (PI) also disseminated information to the public about COVID-19 vaccination and immunology including at the NYC Dept. of Health webinar <em>Building Vaccine Trustworthiness for an Equitable COVID-19 Recovery (</em><a href="https://ko-kr.facebook.com/nychealth/videos/building-vaccine-trustworthiness-for-an-equitable-covid-19-recovery/198895675368773/">https://ko-kr.facebook.com/nychealth/videos/building-vaccine-trustworthiness-for-an-equitable-covid-19-recovery/198895675368773/</a>), and was a panelist for <em>Sisters Who Vote presents Diverse Women Speak: Science, Policy and Civic Engagement Forum: Bringing scientists and advocates together to discuss the importance of science in the 2020 Election</em>, and the Columbia University webinar <em>Structural Racism and the COVID-19 Vaccine</em> (<a href="https://youtu.be/8a0RvK6IoJ0">https://youtu.be/8a0RvK6IoJ0</a>). Dr. Martinez (PI) was also interviewed by multiple media outlets including, but not limited to: ABC News (<a href="https://abcnews.go.com/Health/social-distancing-nuisance-privilege/story?id=71436612">https://abcnews.go.com/Health/social-distancing-nuisance-privilege/story?id=71436612</a>), NBC News (<a href="https://www.nbcnews.com/science/science-news/will-coronavirus-surge-winter-experts-just-don-t-know-yet-n1241739">https://www.nbcnews.com/science/science-news/will-coronavirus-surge-winter-experts-just-don-t-know-yet-n1241739</a>); National Geographic (<a href="https://www.nationalgeographic.com/science/article/coronavirus-why-cold-winter-weather-makes-it-harder-to-fight-respiratory-infections">https://www.nationalgeographic.com/science/article/coronavirus-why-cold-winter-weather-makes-it-harder-to-fight-respiratory-infections</a>); The Gothamist (<a href="https://gothamist.com/news/how-nyc-preparing-roll-out-covid-19-vaccines">https://gothamist.com/news/how-nyc-preparing-roll-out-covid-19-vaccines</a>); The New York Times (<a href="https://www.nytimes.com/interactive/2020/05/18/us/coronavirus-underlying-conditions.html">https://www.nytimes.com/interactive/2020/05/18/us/coronavirus-underlying-conditions.html</a>); CBC News (<a href="https://www.cbc.ca/news/health/covid19-seasonal-1.5516685">https://www.cbc.ca/news/health/covid19-seasonal-1.5516685</a>); Teen Vogue (<a href="https://www.teenvogue.com/story/what-will-life-after-the-covid-19-vaccine-look-like">https://www.teenvogue.com/story/what-will-life-after-the-covid-19-vaccine-look-like</a>); The Guardian (<a href="https://www.theguardian.com/world/2020/apr/05/scientists-ask-could-summer-heat-help-beat-covid-19">https://www.theguardian.com/world/2020/apr/05/scientists-ask-could-summer-heat-help-beat-covid-19</a>); BBC News (<a href="https://www.bbc.co.uk/sounds/play/w3cszl3r">https://www.bbc.co.uk/sounds/play/w3cszl3r</a>); The Smithsonian Magazine (<a href="https://www.smithsonianmag.com/science-nature/why-warm-weather-probably-wont-snuff-out-covid-19-180974482/">https://www.smithsonianmag.com/science-nature/why-warm-weather-probably-wont-snuff-out-covid-19-180974482/</a>); ABC News (<a href="https://abcnews.go.com/Health/poverty-pollution-neglect-bronx-coronavirus-formula-disaster/story?id=70084738">https://abcnews.go.com/Health/poverty-pollution-neglect-bronx-coronavirus-formula-disaster/story?id=70084738</a>); The Wall Street Journal (<a href="https://www.wsj.com/articles/new-york-reaches-coronavirus-case-milestone-declines-11590766723">https://www.wsj.com/articles/new-york-reaches-coronavirus-case-milestone-declines-11590766723</a>); The New Yorker (<a href="https://www.newyorker.com/culture/personal-history/when-sars-ended">https://www.newyorker.com/culture/personal-history/when-sars-ended</a>); The Wall Street Journal (<a href="https://www.wsj.com/articles/coronavirus-outbreaks-could-become-seasonal-woe-some-researchers-find-11584955802">https://www.wsj.com/articles/coronavirus-outbreaks-could-become-seasonal-woe-some-researchers-find-11584955802</a>).</p> <p>&nbsp;</p> <p>The intellectual merit of our research was twofold. Our research on social distancing interventions was an intellectual contribution to the field of infectious disease ecology because we showed that social distancing inequity can act in conjunction with chronic disease health disparities to amplify COVID-19 morbidity and mortality. This was a major contribution because racial and ethnic disparities have not been a major focus within the study of acute infectious disease systems and we demonstrated the pathways for health disparities in acute disease systems.</p> <p>Our algorithm for image processing to Google maps to measure traffic and mobility on city streets is broadly applicable in environmental science. Any researcher needing measures of mobility or traffic at the scale of a single road or an entire city, county, or nation, would be able to use our algorithm to collect data in real-time. There are endless applications for this algorithm beyond pandemic planning and response.</p><br> <p>            Last Modified: 12/06/2021<br>      Modified by: Micaela&nbsp;E&nbsp;Martinez</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ With this grant funding we conducted research on COVID-19 transmission, mobility, social distancing, racial and socioeconomic health disparities, and immunology. Our team provided real-time information and tools for scientists, the public health community, the press, and the public. First, we provided information about how neighborhood mobility, essential work, racial/ethnic demographics, and poverty shaped COVID-19 cases in NYC neighborhoods. This research is detailed in our manuscript titled Socioeconomic Disparities in Subway Use and COVID-19 Outcomes in New York City, published in the American Journal of Epidemiology. Prior to publication, this manuscript was made available online at medRxiv and was covered in the media, including ABC News. Our study was one of the first to demonstrate that the most socially disadvantaged are not only at an increased risk for COVID-19 infection, but lack the privilege to fully engage in social distancing interventions.  Second, we developed an algorithm to explore the closure and reawaking of cities as lock-downs were being implemented and lifted. Our novel algorithm allowed us to quantify changes in mobility real-time (every 15 minutes) by applying image processing to Google maps in order to measure the amount of traffic on each street within a city. We deployed this algorithm during the pandemic to measure mobility in NYC, which was the early epicenter of the pandemic. We used time series decomposition and generalized additive models to quantify changes in rush hour/non-rush hour, and weekday/weekend traffic, pre-pandemic and following the roll-out of multiple social distancing interventions. We found that mobility decreased sharply on March 14, 2020 following declaration of the pandemic. However, traffic levels began rebounding by approximately April 13, almost 2 months before stay-at- home orders were lifted in NYC, indicating premature increase in mobility, which we term social-distancing fatigue. By September, traffic congestion rebounded to approximately 75% of pre-pandemic levels. Our Google traffic data mining algorithm can be used in planning and evaluating large-scale social distancing interventions in the future.  Our broader impacts included raising awareness about the racial/ethnic and socioeconomic disparities in the pandemic which we became aware of once we started to analyze data for our NSF-funded project. Our work has been covered by national news outlets and was presented to the New York City council as well as federal agencies (CDC and HHS) to address the health disparities in the pandemic. Dr. Martinez (PI) also disseminated information to the public about COVID-19 vaccination and immunology including at the NYC Dept. of Health webinar Building Vaccine Trustworthiness for an Equitable COVID-19 Recovery (https://ko-kr.facebook.com/nychealth/videos/building-vaccine-trustworthiness-for-an-equitable-covid-19-recovery/198895675368773/), and was a panelist for Sisters Who Vote presents Diverse Women Speak: Science, Policy and Civic Engagement Forum: Bringing scientists and advocates together to discuss the importance of science in the 2020 Election, and the Columbia University webinar Structural Racism and the COVID-19 Vaccine (https://youtu.be/8a0RvK6IoJ0). Dr. Martinez (PI) was also interviewed by multiple media outlets including, but not limited to: ABC News (https://abcnews.go.com/Health/social-distancing-nuisance-privilege/story?id=71436612), NBC News (https://www.nbcnews.com/science/science-news/will-coronavirus-surge-winter-experts-just-don-t-know-yet-n1241739); National Geographic (https://www.nationalgeographic.com/science/article/coronavirus-why-cold-winter-weather-makes-it-harder-to-fight-respiratory-infections); The Gothamist (https://gothamist.com/news/how-nyc-preparing-roll-out-covid-19-vaccines); The New York Times (https://www.nytimes.com/interactive/2020/05/18/us/coronavirus-underlying-conditions.html); CBC News (https://www.cbc.ca/news/health/covid19-seasonal-1.5516685); Teen Vogue (https://www.teenvogue.com/story/what-will-life-after-the-covid-19-vaccine-look-like); The Guardian (https://www.theguardian.com/world/2020/apr/05/scientists-ask-could-summer-heat-help-beat-covid-19); BBC News (https://www.bbc.co.uk/sounds/play/w3cszl3r); The Smithsonian Magazine (https://www.smithsonianmag.com/science-nature/why-warm-weather-probably-wont-snuff-out-covid-19-180974482/); ABC News (https://abcnews.go.com/Health/poverty-pollution-neglect-bronx-coronavirus-formula-disaster/story?id=70084738); The Wall Street Journal (https://www.wsj.com/articles/new-york-reaches-coronavirus-case-milestone-declines-11590766723); The New Yorker (https://www.newyorker.com/culture/personal-history/when-sars-ended); The Wall Street Journal (https://www.wsj.com/articles/coronavirus-outbreaks-could-become-seasonal-woe-some-researchers-find-11584955802).     The intellectual merit of our research was twofold. Our research on social distancing interventions was an intellectual contribution to the field of infectious disease ecology because we showed that social distancing inequity can act in conjunction with chronic disease health disparities to amplify COVID-19 morbidity and mortality. This was a major contribution because racial and ethnic disparities have not been a major focus within the study of acute infectious disease systems and we demonstrated the pathways for health disparities in acute disease systems.  Our algorithm for image processing to Google maps to measure traffic and mobility on city streets is broadly applicable in environmental science. Any researcher needing measures of mobility or traffic at the scale of a single road or an entire city, county, or nation, would be able to use our algorithm to collect data in real-time. There are endless applications for this algorithm beyond pandemic planning and response.       Last Modified: 12/06/2021       Submitted by: Micaela E Martinez]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

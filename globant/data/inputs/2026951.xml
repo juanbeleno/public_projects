@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EarthCube Capabilities: Cloud-Based Accessible and Reproducible Modeling for Water and Sediment Research]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>189733.00</AwardTotalIntnAmount>
+<AwardAmount>189733</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06010000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>RISE</Abbreviation>
+<LongName>Div of Res, Innovation, Synergies, &amp; Edu</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eva Zanzerkia</SignBlockName>
+<PO_EMAI>ezanzerk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924734</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Natural processes influence the United States’ population, economy, and infrastructure. Many of these processes center around water and soil. Examples include flooding, groundwater movement, soil erosion, landsliding, permafrost thaw, and coastline change. In managing the risks and maximizing the resource potential associated with these types of process, computer simulation modeling and digital data analysis provide vital technologies. Researchers use computer simulations together with digital data to perform a variety of functions, ranging from fundamental research and discovery, to forecasting and “what if” scenario planning. However, certain technical barriers inhibit finding, accessing, and operating modeling software and related tools and data sets. This project seeks to enhance research capabilities by combining the strengths of two complementary technologies: an existing web-based platform for finding and sharing water-related data, HydroShare, and an existing suite of computer simulation tools for water- and soil-related processes, the tool suite, developed by the Community Surface Dynamics Modeling System (CSDMS). Integrating the CSDMS Workbench simulation modeling tools with the HydroShare platform will increase research productivity by simplifying the processes of finding, learning, and running appropriate models; by bringing models and data together on the same computer system; and by making it easier to package, share, and re-use the digital data files and software that result from published research.&lt;br/&gt;&lt;br/&gt;Progress in understanding and predicting processes near the Earth's surface requires an ongoing integration of data and numerical models. Advances are currently hampered by technical barriers that inhibit finding, accessing, and operating modeling software and related tools and data sets. This project tests the feasibility of a cloud-based platform for accessing and running models, developing model-data workflows, and sharing reproducible results. The project brings together cyberinfrastructure developed by two important community facilities: HydroShare, which is the online collaboration environment for the Consortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI), and the Community Surface Dynamics Modeling System (CSDMS), which represents a community of about 1800 Earth surface process scientists. Hosting CSDMS models and tools on the HydroShare platform will foster open, accessible, and reproducible model-data integration for the sciences that deal with water, soil, and sediment at and near Earth's surface. In addition to its direct impact on research in these domains, the project will promote teaching, training, and learning by providing a series of community workshops on the prototype CSDMS@HydroShare Workbench. These outreach and training opportunities will include national meetings that represent the two primary communities involved, as well as a geoscience-oriented “hack week” event. The Workbench will also be tested in two graduate-level computing-oriented courses. In addition, an introductory webinar about the new platform will be presented, recorded, and shared online for later access, and the tutorials developed for this pilot project will be published openly on HydroShare. The project will also provide professional development opportunities for two postdoctoral scientists.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026951</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Tucker</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory E Tucker</PI_FULL_NAME>
+<EmailAddress><![CDATA[gtucker@colorado.edu]]></EmailAddress>
+<NSF_ID>000196299</NSF_ID>
+<StartDate>07/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric W</FirstName>
+<LastName>Hutton</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric W H Hutton</PI_FULL_NAME>
+<EmailAddress><![CDATA[eric.hutton@colorado.edu]]></EmailAddress>
+<NSF_ID>000596951</NSF_ID>
+<StartDate>07/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>BOULDER</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 MARINE ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Regents of the University of Colorado]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803031058</ZipCode>
+<StreetAddress><![CDATA[3100 Marine Street, Room 481]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8074</Code>
+<Text>EarthCube</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~189733</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-c3e18236-7fff-4bf1-e56d-9674bf2dd313">&nbsp;</span></p> <p dir="ltr"><span>Earth&rsquo;s surface acts as the stage for natural processes that impact our lives. As the global population grows and infrastructure expands, the need to understand and predict processes at and near the Earth&rsquo;s surface, such as water cycling, landsliding, flooding, permafrost thaw, and coastal change becomes increasingly acute. Progress in understanding and predicting these systems requires an ongoing integration of data and numerical models. However, technical barriers exist that inhibit finding, accessing, and operating modeling software tools and related datasets to simulate the complex Earth system that drives the movement of water and shapes the planet&rsquo;s surface.</span></p> <p dir="ltr">&nbsp;</p> <p dir="ltr"><span>The Community Surface Dynamics Modeling System (CSDMS) leverages the strength of two major geoscience cyberinfrastructure projects &ndash; CSDMS and HydroShare &ndash; to create an accessible, cloud-based platform for finding, accessing, operating and sharing data-model integration tools and the results of model-related research. We developed new Data Components that can access widely used research datasets to support data-model integration for Earth surface processes modeling. We created tutorials and use cases for the Data Components, which are documented as Jupyter Notebooks and shared in HydroShare. We also installed the CSDMS software stack on the CUAHSI JupyterHub. All these efforts enable interested geoscience researchers to discover, execute, study, copy, or modify the tutorials and use cases through the cloud platform. Researchers can also create their own data-model integration workflows using the CSDMS software tools and share them as Jupyter Notebooks in HydroShare to improve the findability, accessibility, interoperability, and reusability (the FAIR principles) for their computational modeling research.</span></p> <p dir="ltr">&nbsp;</p> <p dir="ltr"><span>Specifically, over the past 3 years, the Community Surface Dynamics Modeling System has:</span></p> <p dir="ltr">&nbsp;</p> <p dir="ltr"><span>Computing</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>Created a server option on CUAHSI JupyterHub, which installs Landlab, pymt, Data Components, and widely used scientific Python packages (e.g., matplotlib, xarray, numpy).</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Produced software products of Data Components to access a variety of research datasets, including: 1) Topography Data Component for terrain elevation data, 2) ERA5 Data Component for meteorological data,&nbsp; 3) NWIS Data Component for observational hydrologic data, 4) gridMET Data Component for meteorological data,&nbsp; 5) SoilGrids Data Component for soil property data, 6) GeoTiff Data Component for raster data from a geotiff file, 7) WAVEWATCH III Data Component for wave property data, 8) ROMS Data Component for ocean model data.&nbsp;&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Created target use cases to demonstrate the application of the Data Components, which include the topics of landslide mapping, modeling of overland flow in a wildfire-impacted catchment, permafrost landscapes processes, and wave power analysis.&nbsp;</span></p> </li> </ul> <p>&nbsp;</p> <p dir="ltr"><span>Outreach and Training</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>Shared tutorial and use case notebooks in HydroShare as self-paced learning materials.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Presented the Data Components and their use cases as posters at conferences.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Provided webinar and training workshops to introduce the capability and application of the Data Components.</span></p> </li> </ul> <p>&nbsp;</p> <p dir="ltr"><span>Dissemination</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>Promoted the Data Components via the CSDMS Newsletter and Twitter account.&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Prepared a manuscript to describe the design, development, and application of the Data Components. The manuscript will be published in a computational geoscience-oriented journal.</span></p> </li> </ul> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 06/01/2023<br>      Modified by: Gregory&nbsp;E&nbsp;Tucker</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Earth’s surface acts as the stage for natural processes that impact our lives. As the global population grows and infrastructure expands, the need to understand and predict processes at and near the Earth’s surface, such as water cycling, landsliding, flooding, permafrost thaw, and coastal change becomes increasingly acute. Progress in understanding and predicting these systems requires an ongoing integration of data and numerical models. However, technical barriers exist that inhibit finding, accessing, and operating modeling software tools and related datasets to simulate the complex Earth system that drives the movement of water and shapes the planet’s surface.   The Community Surface Dynamics Modeling System (CSDMS) leverages the strength of two major geoscience cyberinfrastructure projects &ndash; CSDMS and HydroShare &ndash; to create an accessible, cloud-based platform for finding, accessing, operating and sharing data-model integration tools and the results of model-related research. We developed new Data Components that can access widely used research datasets to support data-model integration for Earth surface processes modeling. We created tutorials and use cases for the Data Components, which are documented as Jupyter Notebooks and shared in HydroShare. We also installed the CSDMS software stack on the CUAHSI JupyterHub. All these efforts enable interested geoscience researchers to discover, execute, study, copy, or modify the tutorials and use cases through the cloud platform. Researchers can also create their own data-model integration workflows using the CSDMS software tools and share them as Jupyter Notebooks in HydroShare to improve the findability, accessibility, interoperability, and reusability (the FAIR principles) for their computational modeling research.   Specifically, over the past 3 years, the Community Surface Dynamics Modeling System has:   Computing   Created a server option on CUAHSI JupyterHub, which installs Landlab, pymt, Data Components, and widely used scientific Python packages (e.g., matplotlib, xarray, numpy).   Produced software products of Data Components to access a variety of research datasets, including: 1) Topography Data Component for terrain elevation data, 2) ERA5 Data Component for meteorological data,  3) NWIS Data Component for observational hydrologic data, 4) gridMET Data Component for meteorological data,  5) SoilGrids Data Component for soil property data, 6) GeoTiff Data Component for raster data from a geotiff file, 7) WAVEWATCH III Data Component for wave property data, 8) ROMS Data Component for ocean model data.     Created target use cases to demonstrate the application of the Data Components, which include the topics of landslide mapping, modeling of overland flow in a wildfire-impacted catchment, permafrost landscapes processes, and wave power analysis.       Outreach and Training   Shared tutorial and use case notebooks in HydroShare as self-paced learning materials.   Presented the Data Components and their use cases as posters at conferences.   Provided webinar and training workshops to introduce the capability and application of the Data Components.      Dissemination   Promoted the Data Components via the CSDMS Newsletter and Twitter account.    Prepared a manuscript to describe the design, development, and application of the Data Components. The manuscript will be published in a computational geoscience-oriented journal.               Last Modified: 06/01/2023       Submitted by: Gregory E Tucker]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

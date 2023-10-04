@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  A Provable Data Lineage System for Scaling the Data-Sharing Economy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) is to increase the quality of consumer products and services by scaling the data sharing economy. Data sharing and reuse increases revenue streams and allows companies to realize a 8-15x return on investment in improved products and services. Despite these benefits, growth in data sharing is stymied because approximately 60% of companies are unable to access needed data, and only about 30% have taken first steps towards data sharing to realize its potential returns. The major challenges of widespread sharing are “messy" data and the legal issues surrounding ownership and utilization. Some organizations have addressed these challenges internally with “feature stores,” which support data processing pipelines that extract insights. While the current generation of feature stores works well for a single organization, their centralized design assumes a level of trust absent across multiple organizations.  This proposed work will develop a feature store that supports the trust requirements needed for inter-organizational workflows to enable realizing the significant returns from data sharing.&lt;br/&gt;&lt;br/&gt;This SBIR Phase II project proposes to implement a decentralized feature store (DeFS) by solving two primary technical challenges. First, a DeFS requires fast, reliable, and provably correct data storage. While layer-1 blockchain storage is provably correct, it does not provide the required write speed nor long-term availability if miners abandon it. This project's proposed approach will meet the reliability requirement by signing data on a virtual blockchain that can span and migrate between layer-1 blockchains. The continuity of the virtual blockchain allows it to survive as layer-1 chains fail and improve as new chains come online.  Moreover, the virtual blockchain meets speed requirements by creating virtual blocks quickly on a private blockchain and periodically migrating to layer-1. Second, a DeFS requires integrating multiple data sources and pipeline code without leaking either. While interactive proof techniques satisfy privacy, they do not scale to large data sets. This project will support data processing pipelines, such as data wrangling and model fitting, by developing a scalable and secure computing framework. The framework preserves the privacy of both data and pipeline code evaluated on virtualized trusted execution environments and controlled by a trustless distributed protocol built around a virtual blockchain commitment scheme.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/26/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>11/26/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052375</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Heinecke</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan Heinecke</PI_FULL_NAME>
+<EmailAddress><![CDATA[jon.heinecke@gmail.com]]></EmailAddress>
+<NSF_ID>000781049</NSF_ID>
+<StartDate>11/26/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>BLOCKY INC.</Name>
+<CityName>BOZEMAN</CityName>
+<ZipCode>597154731</ZipCode>
+<PhoneNumber>4062617307</PhoneNumber>
+<StreetAddress>321 E MAIN ST STE 206</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>X1JXMWABHKJ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BLOCKY INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[BLOCKY INC.]]></Name>
+<CityName>Bozeman</CityName>
+<StateCode>MT</StateCode>
+<ZipCode>597154731</ZipCode>
+<StreetAddress><![CDATA[321 East Main Street, Suite 206]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~1000000</FUND_OBLG>
+</Award>
+</rootTag>

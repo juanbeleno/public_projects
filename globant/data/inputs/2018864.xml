@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[The Status Reports on Computer and Information Sciences Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>599217.00</AwardTotalIntnAmount>
+<AwardAmount>599217</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeffrey Forbes</SignBlockName>
+<PO_EMAI>jforbes@nsf.gov</PO_EMAI>
+<PO_PHON>7032925301</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[There has been an explosive growth in the number of Internet-connected devices. The end-device users have also built a stack of rich and complex networks, derived from their social, personal and work groups. The prolific connections to end-devices and users, however, can be exploited as devastating vehicles for malware and worm attacks. Since exploiting the network connectivity lies at the heart of malware distribution, it becomes crucial to understand how the underlying network structure affects the malware propagation. Despite abundant literature on epidemic modeling and analysis, there is still a huge gap between theory and practice. This project aims to bridge the gap to better understand and combat epidemic spreading on large-scale networks with realistic cost constraints.&lt;br/&gt;&lt;br/&gt;This collaborative project brings together investigators from Texas State University and North Carolina State University to investigate the following inter-related research thrusts. It will (1) develop a theoretical framework to fully characterize the transient dynamics of epidemic spreading on a general graph (as opposed to a complete graph) to estimate and predict the likelihood of each node being infected for the future time, (2) develop a suite of readily usable algorithms to mitigate the spread of an epidemic to the extent possible under realistic constraints, and (3) develop a set of algorithms for efficient estimation and inference of network and epidemic parameters from incomplete and noisy data of epidemic cascades.&lt;br/&gt;&lt;br/&gt;This project could potentially have a high impact on a vast range of multi-disciplinary areas and applications where the study of epidemics has been necessary and crucial, including epidemiology, percolation in physics and chemistry, rumor spreading, information cascades, viral marketing, and spread of misinformation and fake news. In addition, this project will integrate research findings into education by curriculum development, involve diverse undergraduate and graduate students, especially women and students of underrepresented groups, and have them trained to thrive and contribute to the society in industrial and academic settings after graduation.&lt;br/&gt;&lt;br/&gt;All products developed during the course of this project will be publicly available and hosted at https://sites.google.com/view/nsf-cns-eun-lee-epidemic for at least three years after the closing of the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/31/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/02/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018864</AwardID>
+<Investigator>
+<FirstName>Bernard</FirstName>
+<LastName>Mair</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bernard Mair</PI_FULL_NAME>
+<EmailAddress><![CDATA[bmair@aplu.org]]></EmailAddress>
+<NSF_ID>000857848</NSF_ID>
+<StartDate>09/02/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eugene</FirstName>
+<LastName>Anderson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eugene Anderson</PI_FULL_NAME>
+<EmailAddress><![CDATA[eanderson@aplu.org]]></EmailAddress>
+<NSF_ID>000728988</NSF_ID>
+<StartDate>03/31/2020</StartDate>
+<EndDate>09/02/2021</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Association of Public and Land-Grant Universities</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200054825</ZipCode>
+<PhoneNumber>2024786084</PhoneNumber>
+<StreetAddress>1220 L ST NW STE 1000</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HKWACGZ96DK5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ASSOCIATION OF PUBLIC AND LAND-GRANT UNIVERSITIES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Association of Public and Land-Grant Universities]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200054722</ZipCode>
+<StreetAddress><![CDATA[1307 New York Ave., NW, Suite 40]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1713</Code>
+<Text>WORKFORCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~599217</FUND_OBLG>
+</Award>
+</rootTag>

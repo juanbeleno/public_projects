@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  A Machine-Learning Tool for Social-Emotional Learning, Development, and Intervention for Remote or Hybrid Child Development Support (COVID-19)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>276000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to detect social-emotional issues in children (ages 5-12) for early intervention. A growing trend in juvenile mental health concerns was exacerbated by the recent COVID-19 pandemic and the associated disruption in child development. This project proposes a machine learning (ML) system that learns from interactions with the child and parent independently and can detect potential social-emotional concerns.  The ML system enables personalized evaluation and monitoring outside a clinical setting in a remote or hybrid context.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project advances algorithms for integration into a social-emotional skill building curriculum.  The project proposes: 1) User segmentation based on a comprehensive assessment of social-emotional functioning, 2) Correlation of the relevancy and effectiveness of modules to segmented users, and 3) Collection of information to identify social emotional deficits (red flags). These activities enable a feedback loop to learn and deliver recommendations for each child-parent dyad, personalizing learning in real-time. These algorithms learn from behavioral, social, and emotional inputs from both the parent and child when they engage with the technology. The system will also detect red flags correlated with social and emotional deficits, promoting early intervention.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>10/24/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039090</AwardID>
+<Investigator>
+<FirstName>Nicole</FirstName>
+<LastName>Lipkin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicole Lipkin</PI_FULL_NAME>
+<EmailAddress><![CDATA[nicole@hey-kiddo.com]]></EmailAddress>
+<NSF_ID>000780646</NSF_ID>
+<StartDate>08/10/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>HEYKIDDO, LLC</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191473417</ZipCode>
+<PhoneNumber>2153705564</PhoneNumber>
+<StreetAddress>123 BECK ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C91SYCRLUG97</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>HEYKIDDO, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[HeyKiddo, LLC]]></Name>
+<CityName>Philadelphia</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191473417</ZipCode>
+<StreetAddress><![CDATA[123 Beck Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1707</Code>
+<Text>ADVANCED LEARNING TECHNOLOGIES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<FUND_OBLG>2022~20000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-b4db4132-7fff-2f25-d20c-4db9fc67acfa"> </span></p> <p dir="ltr"><span>Children are experiencing unprecedented mental, social, and emotional health challenges. Approximately 5.7 million children ages 5-12 in the U.S. are currently diagnosed with a mental health condition, with an additional 20-60% suspected as undiagnosed. Despite the importance of early intervention, the CDC notes that only about 20% of children receive treatment. Innovative smartphone solutions can reach parents from all backgrounds and down affordability barriers.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>There were three objectives for Phase I research and development of the HeyKiddo App, a smartphone coaching app for parents of elementary school-aged children, created by psychologists, to increase parent confidence and decrease problematic childhood behavior.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>The first objective was to </span><span>develop a classification algorithm that accurately delivers relevant, individualized social-emotional parent coaching content.</span><span> We satisfied this objective by building an assessment, along with associated classification weights per competency, that was able to accurately assign and deliver content based on specific items endorsed, and that could change over time with new data inputs.</span><span>The second objective was to develop an algorithm that identifies social-emotional deficits correlated with more serious mental health concerns that require greater intervention.</span><span> We satisfied this objective by flagging items within the assessment that may indicate that higher levels of care are needed, creating rules to address the issue, and successfully assigning and prioritizing the delivery of delivering content that educates parents on accessing appropriate supports.</span><span>The third objective was to develop an algorithm that measures the helpfulness of the content to adjust personalized learning based on individual social, emotional, and behavioral input.</span><span> We have satisfied this objective by designing and building an algorithm that continuously evaluates and adapts content to boost effectiveness, overtime.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>With these met objectives, we developed a minimal viable product and conducted longitudinal research with a small group of parents (</span><span>N</span><span> = 5), who used the app with their child over the course of 15 weeks. This study showed promising results concerning the potential positive impacts the app can have, including an increase in parent confidence and child social and emotional skills for 80% of participants. Most importantly, parent qualitative reports on the impact of the app included: increased knowledge around emotions and experiences of anxiety, helped create safe spaces for conversation, enhanced attunement to their child, established an enjoyable and intentional routine for connecting, increased motivation to become a better parent, increased empathy, patience, and sensitivity toward their child, enhanced child communication and emotional expression, decreased meltdowns, and promoted teamwork and cohesion within the family.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 06/07/2023<br>      Modified by: Nicole&nbsp;Lipkin</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Children are experiencing unprecedented mental, social, and emotional health challenges. Approximately 5.7 million children ages 5-12 in the U.S. are currently diagnosed with a mental health condition, with an additional 20-60% suspected as undiagnosed. Despite the importance of early intervention, the CDC notes that only about 20% of children receive treatment. Innovative smartphone solutions can reach parents from all backgrounds and down affordability barriers.     There were three objectives for Phase I research and development of the HeyKiddo App, a smartphone coaching app for parents of elementary school-aged children, created by psychologists, to increase parent confidence and decrease problematic childhood behavior.     The first objective was to develop a classification algorithm that accurately delivers relevant, individualized social-emotional parent coaching content. We satisfied this objective by building an assessment, along with associated classification weights per competency, that was able to accurately assign and deliver content based on specific items endorsed, and that could change over time with new data inputs.The second objective was to develop an algorithm that identifies social-emotional deficits correlated with more serious mental health concerns that require greater intervention. We satisfied this objective by flagging items within the assessment that may indicate that higher levels of care are needed, creating rules to address the issue, and successfully assigning and prioritizing the delivery of delivering content that educates parents on accessing appropriate supports.The third objective was to develop an algorithm that measures the helpfulness of the content to adjust personalized learning based on individual social, emotional, and behavioral input. We have satisfied this objective by designing and building an algorithm that continuously evaluates and adapts content to boost effectiveness, overtime.     With these met objectives, we developed a minimal viable product and conducted longitudinal research with a small group of parents (N = 5), who used the app with their child over the course of 15 weeks. This study showed promising results concerning the potential positive impacts the app can have, including an increase in parent confidence and child social and emotional skills for 80% of participants. Most importantly, parent qualitative reports on the impact of the app included: increased knowledge around emotions and experiences of anxiety, helped create safe spaces for conversation, enhanced attunement to their child, established an enjoyable and intentional routine for connecting, increased motivation to become a better parent, increased empathy, patience, and sensitivity toward their child, enhanced child communication and emotional expression, decreased meltdowns, and promoted teamwork and cohesion within the family.          Last Modified: 06/07/2023       Submitted by: Nicole Lipkin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Spatial Temporal Analysis of Multi-Subject Neuroimaging Data for Human Emotion Studies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>110687.00</AwardTotalIntnAmount>
+<AwardAmount>110687</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cheryl Eavey</SignBlockName>
+<PO_EMAI>ceavey@nsf.gov</PO_EMAI>
+<PO_PHON>7032927269</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This interdisciplinary research project will develop new statistical methods to analyze multi-subject, stimulus-evoked functional magnetic resonance imaging (fMRI) data collected from a psychology study of human emotion. The project will increase understanding of how human brain circuits associated with emotions function in a context that combines social support with externally generated emotional stress. Ultimately, the project will contribute knowledge of how the brain uses social support via the social regulation of emotion. This knowledge will facilitate future research in this area. The results of this research will assist clinical researchers interested in the neuropathology of many neurodevelopmental and affective disorders affecting children and adults. The project will provide the opportunity for undergraduate and graduate students (especially those from underrepresented groups) to participate in advanced statistical and multidisciplinary research involving human brain data. Project results, including scientific findings and developed software, will be made publicly available using public repositories.&lt;br/&gt;&lt;br/&gt;The statistical models and computational methods to be developed will address typical challenges in analyzing fMRI data, including massive data size, complex spatial and temporal properties, and a weak signal-to-noise ratio. The new low-rank multivariate general linear models for multi-subject, stimulus-evoked fMRI data feature the brain activity's common properties shared across different regions, subjects, and stimulus types, and they require fewer parameters than nonparametric methods to characterize variation in brain activity. As such, the new approaches to fMRI data analysis are characterized by simultaneously reduced model parameters, increased estimation efficiency, and sufficient model flexibility. This project will develop new nonconvex optimization algorithms to address the computational challenges in analyzing fMRI data. Applying the developed methods to a fMRI study of human emotion, the investigators will examine the difference in brain responses to negative emotional stimuli under different social contact conditions and identify the association between emotion-related brain functions and concomitant affective feelings under different social contact conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2048991</AwardID>
+<Investigator>
+<FirstName>Tingting</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tingting Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[TIZ67@pitt.edu]]></EmailAddress>
+<NSF_ID>000572331</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152600001</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>4200 FIFTH AVENUE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MKAGLD59JRL1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>Pitttsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133203</ZipCode>
+<StreetAddress><![CDATA[3420 Forbes Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1333</Code>
+<Text>Methodology, Measuremt &amp; Stats</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~110687</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project has developed new statistical methods to analyze large neuroimaging data of many subjects. The project results have improved our understanding of the human brain?s functional organization and its variation across the populations of normal subjects and patients with neurological disorders.</p> <p>&nbsp;</p> <p>The functional organization of the brain is governed by two principles: functional specialization and functional integration. The former indicates that different brain areas are specialized for different brain</p> <p>functions, while the latter suggests different brain areas interact with each other to process information and perform various functions. Functional integration within and between functionally specialized brain areas is through directional connectivity. Directional connectivity (also called directed functional connectivity or effective connectivity) refers to directed information flow from one brain region to another. Overall, the human brain is a high-dimensional network consisting of many regions as network nodes and edges between the nodes. Each edge in the brain network represents one connection from one region to another. To obtain a complete picture of the brain?s functional organization and its variation in the human population, we not only need to identify brain regions functionally specialized for performing different tasks, but also identify directional connections between them and evaluate the variation of the brain network across different subjects. To achieve these goals, we developed efficient statistical methods to analyze many subjects? neuroimaging data in different modalities in this project. The contributions of the project can be summarized as follows.</p> <p>&nbsp;</p> <p>First, the project developed new statistical models and computational algorithms to analyze emotion task-based functional magnetic resonance imaging (fMRI) data. fMRI is the most popular neuroimaging technology used in psychology research because it provides noninvasive measurements of human brain activity with a high spatial resolution of the entire brain. A key idea of this research on task-based fMRI data analysis is to build new models for multi-subject, stimulus-evoked fMRI data. The new models feature common spatial and temporal properties of brain activities shared across voxels and subjects. The new models use much fewer parameters than nonparametric models to accommodate the variation of brain responses across different subjects and voxels and, thus, enable addressing the challenges in fMRI data analysis. Then we developed new optimization algorithms to estimate the new models.</p> <p>&nbsp;</p> <p>We applied the developed new methods to hundreds of subjects? emotion-task-based fMRI data collected under a psychology study of the neural circuitry underlying human social behavior. We located brain regions responsive to negative emotion and examined population-wide brain responses to negative emotion under different social contact conditions. The project results enhanced our understanding of the brain?s physical and functional organization and contributed critical knowledge of the brain system supporting the social regulation of emotion in humans. This knowledge will facilitate future research in this area and assist clinical researchers interested in the neuropathology of many severe child and adult neurodevelopmental and affective disorders.</p> <p>&nbsp;</p> <p>Second, the project developed new Bayesian modeling methods for mapping high-dimensional directional networks in human brains. The new models can characterize both modules of brain regions specialized for the same or similar functions and connections between and within modules. We applied the new modeling methods to intracranial EEG data of patients with epilepsy and revealed the changes in the patients? brain networks during seizure development. The two images show a patient?s brain networks before and after the seizure onset. This project addressed the demand for robust, efficient, and flexible methods for investigating various high-dimensional directional networks in many brain network studies. The project results also enhanced our understanding of normal and abnormal brains? functional organizations and potentially improved epilepsy diagnosis and treatment.</p> <p>&nbsp;</p> <p>Third, we extended our Bayesian modeling methods to resting-state fMRI data and mapped whole-brain directional networks for many healthy subjects. The new modeling methods elucidate the human brain's complex, hierarchical functional organization by uncovering functionally specialized brain regions and functional integration between brain regions for many subjects. The project results enhance our understanding of the brain's physical and functional organizations that give rise to various brain functions and present new algorithms to address the computational challenge in studying complex functional organizations of human brains using massive neuroimaging data.</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/19/2023<br>      Modified by: Tingting&nbsp;Zhang</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2048991/2048991_10534232_1679241229627_period2--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2048991/2048991_10534232_1679241229627_period2--rgov-800width.jpg" title="Brain Network before Seizure Onset"><img src="/por/images/Reports/POR/2023/2048991/2048991_10534232_1679241229627_period2--rgov-66x44.jpg" alt="Brain Network before Seizure Onset"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Edges indicate directional connections. The node in the diamond is the seizure onset zone. A node in light blue corresponds to a region in a module containing itself only. Nodes in the same color (dark blue, green, pink, red or yellow) are regions identified to be in the same module.</div> <div class="imageCredit">Li, Huazhang, Yaotian Wang, Guofen Yan, Yinge Sun, Seiji Tanabe, Chang-Chia Liu, Mark S. Quigg, and Tingting Zhang. "A bayesian state-space approach to mapping directional brain networks." Journal of the American Statistical Association 116, no. 536 (2021): 1637-1647.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Tingting&nbsp;Zhang</div> <div class="imageTitle">Brain Network before Seizure Onset</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2048991/2048991_10534232_1679241434435_period4--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2048991/2048991_10534232_1679241434435_period4--rgov-800width.jpg" title="Brain Network after Seizure Onset"><img src="/por/images/Reports/POR/2023/2048991/2048991_10534232_1679241434435_period4--rgov-66x44.jpg" alt="Brain Network after Seizure Onset"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Edges indicate directional connections. The node in the diamond is the seizure onset zone. A node in light blue corresponds to a region in a module containing itself only. Nodes in the same color (dark blue, green, pink, red or yellow) are regions identified to be in the same module.</div> <div class="imageCredit">Li, Huazhang, Yaotian Wang, Guofen Yan, Yinge Sun, Seiji Tanabe, Chang-Chia Liu, Mark S. Quigg, and Tingting Zhang. "A bayesian state-space approach to mapping directional brain networks." Journal of the American Statistical Association 116, no. 536 (2021): 1637-1647.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Tingting&nbsp;Zhang</div> <div class="imageTitle">Brain Network after Seizure Onset</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project has developed new statistical methods to analyze large neuroimaging data of many subjects. The project results have improved our understanding of the human brain?s functional organization and its variation across the populations of normal subjects and patients with neurological disorders.     The functional organization of the brain is governed by two principles: functional specialization and functional integration. The former indicates that different brain areas are specialized for different brain  functions, while the latter suggests different brain areas interact with each other to process information and perform various functions. Functional integration within and between functionally specialized brain areas is through directional connectivity. Directional connectivity (also called directed functional connectivity or effective connectivity) refers to directed information flow from one brain region to another. Overall, the human brain is a high-dimensional network consisting of many regions as network nodes and edges between the nodes. Each edge in the brain network represents one connection from one region to another. To obtain a complete picture of the brain?s functional organization and its variation in the human population, we not only need to identify brain regions functionally specialized for performing different tasks, but also identify directional connections between them and evaluate the variation of the brain network across different subjects. To achieve these goals, we developed efficient statistical methods to analyze many subjects? neuroimaging data in different modalities in this project. The contributions of the project can be summarized as follows.     First, the project developed new statistical models and computational algorithms to analyze emotion task-based functional magnetic resonance imaging (fMRI) data. fMRI is the most popular neuroimaging technology used in psychology research because it provides noninvasive measurements of human brain activity with a high spatial resolution of the entire brain. A key idea of this research on task-based fMRI data analysis is to build new models for multi-subject, stimulus-evoked fMRI data. The new models feature common spatial and temporal properties of brain activities shared across voxels and subjects. The new models use much fewer parameters than nonparametric models to accommodate the variation of brain responses across different subjects and voxels and, thus, enable addressing the challenges in fMRI data analysis. Then we developed new optimization algorithms to estimate the new models.     We applied the developed new methods to hundreds of subjects? emotion-task-based fMRI data collected under a psychology study of the neural circuitry underlying human social behavior. We located brain regions responsive to negative emotion and examined population-wide brain responses to negative emotion under different social contact conditions. The project results enhanced our understanding of the brain?s physical and functional organization and contributed critical knowledge of the brain system supporting the social regulation of emotion in humans. This knowledge will facilitate future research in this area and assist clinical researchers interested in the neuropathology of many severe child and adult neurodevelopmental and affective disorders.     Second, the project developed new Bayesian modeling methods for mapping high-dimensional directional networks in human brains. The new models can characterize both modules of brain regions specialized for the same or similar functions and connections between and within modules. We applied the new modeling methods to intracranial EEG data of patients with epilepsy and revealed the changes in the patients? brain networks during seizure development. The two images show a patient?s brain networks before and after the seizure onset. This project addressed the demand for robust, efficient, and flexible methods for investigating various high-dimensional directional networks in many brain network studies. The project results also enhanced our understanding of normal and abnormal brains? functional organizations and potentially improved epilepsy diagnosis and treatment.     Third, we extended our Bayesian modeling methods to resting-state fMRI data and mapped whole-brain directional networks for many healthy subjects. The new modeling methods elucidate the human brain's complex, hierarchical functional organization by uncovering functionally specialized brain regions and functional integration between brain regions for many subjects. The project results enhance our understanding of the brain's physical and functional organizations that give rise to various brain functions and present new algorithms to address the computational challenge in studying complex functional organizations of human brains using massive neuroimaging data.          Last Modified: 03/19/2023       Submitted by: Tingting Zhang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

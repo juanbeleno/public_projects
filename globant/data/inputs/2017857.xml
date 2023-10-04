@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  A data capture and management technology to transform data access, structure, and security</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project investigates applications of technologies describing health and wellness data. Researchers conducting clinical trials can use this technology to capture real-world patient data and streamline large-scale late phase trials, accelerating the development of new pharmaceuticals and treatment modalities. Life scientists could use this technology to accelerate basic science discovery and facilitate translation of these findings from the bench to bedside. Human resources personnel could better track, manage, and act on data generated in employee wellness programming toward fewer sick days, more productivity, and higher employee satisfaction. Health program coordinators could potentially facilitate public health interventions and perform research. Care managers and clinicians could deploy and manage remote management services to chronic disease populations, preventing unnecessary hospitalizations, improving health outcomes, and lowering the cost of care management. &lt;br/&gt;&lt;br/&gt;This I-Corps project explores the trade space of a data capture and management technology to transform data access, structure, and security. This technology consists of several core components, including (1) A universal wrapper application program interface (API) that scales with existing and future hardware, software, and other data sources; (2) A data normalization algorithm and entity relationship model to structure data and affiliate it with the data source; (3) Security and privacy controls to protect data source privacy and end-user regulatory compliance; (4) Machine learning and predictive analytics using data in different modalities to translate data into actionable insights for a variety of commercial uses.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2017857</AwardID>
+<Investigator>
+<FirstName>Ahmed</FirstName>
+<LastName>Gomaa</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ahmed A Gomaa</PI_FULL_NAME>
+<EmailAddress>ahmed.gomaa@scranton.edu</EmailAddress>
+<PI_PHON>5709417760</PI_PHON>
+<NSF_ID>000819537</NSF_ID>
+<StartDate>05/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Scranton</Name>
+<CityName>SCRANTON</CityName>
+<ZipCode>185102429</ZipCode>
+<PhoneNumber>5709416362</PhoneNumber>
+<StreetAddress>800 LINDEN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WV3XJPNFUL58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SCRANTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>WV3XJPNFUL58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Scranton]]></Name>
+<CityName>Scranton</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>185102429</ZipCode>
+<StreetAddress><![CDATA[320 Madison Avenue, Brennan Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The I-Corp Teams spring 2020 cohort took place between March 31st and May 15th 2020. The team received financial support to perform customer discovery. The project was titled &ldquo; Transforming Data Access, Structure, Security, and Application for Commercial Purposes.&rdquo;</p> <p>During the NSF I-Corps seven-week program, the team conducted 102 customer discovery interviews in the pharmaceutical and healthcare industries. The team survey of stakeholders confirmed the need to address information &ldquo;silos&rdquo; problem among the different parties, such as specialized and primary health care providers, hospitals and health information collected by pharmaceutical companies through clinical trials, as well as personal health data collected by various wellness applications. The team research also confirmed concerns of information bias from the various sources and health information security requirements.</p> <p>Through the initial and subsequent interviews after the program, the team decided that a more immediate problem was to focus on connecting patients with their physicians, instead of connecting participants with clinical trial researchers. A spinoff the initial hypothesis considers the usage of blockchain technology to streaming connecting patients with physicans.</p> <p>The team participation in the program led to updating the Entrepreneutship curiculum at the University of Scranton, and introducing the I-Corps seven weeks program concepts in a classroom environment and the University Business Incubator.</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/21/2022<br>      Modified by: Ahmed&nbsp;A&nbsp;Gomaa</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The I-Corp Teams spring 2020 cohort took place between March 31st and May 15th 2020. The team received financial support to perform customer discovery. The project was titled " Transforming Data Access, Structure, Security, and Application for Commercial Purposes."  During the NSF I-Corps seven-week program, the team conducted 102 customer discovery interviews in the pharmaceutical and healthcare industries. The team survey of stakeholders confirmed the need to address information "silos" problem among the different parties, such as specialized and primary health care providers, hospitals and health information collected by pharmaceutical companies through clinical trials, as well as personal health data collected by various wellness applications. The team research also confirmed concerns of information bias from the various sources and health information security requirements.  Through the initial and subsequent interviews after the program, the team decided that a more immediate problem was to focus on connecting patients with their physicians, instead of connecting participants with clinical trial researchers. A spinoff the initial hypothesis considers the usage of blockchain technology to streaming connecting patients with physicans.  The team participation in the program led to updating the Entrepreneutship curiculum at the University of Scranton, and introducing the I-Corps seven weeks program concepts in a classroom environment and the University Business Incubator.          Last Modified: 01/21/2022       Submitted by: Ahmed A Gomaa]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

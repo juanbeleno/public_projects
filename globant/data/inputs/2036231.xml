@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corp: A Data-Driven Cloud Optimization Tool]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of cloud management software using machine learning algorithms and optimization/reasoning to adapt to different application environments/demands, enable advanced forecasting and analytics, and automatically-generated, actionable recommendations.  As more businesses and organizations continue to adopt a cloud-centric Information Technology (IT) infrastructure, there is an increasing demand for solutions to help optimize their cloud operations with the goal of improving the cost and operation efficiency of the infrastructure with advanced alerts, maximizing resource utilization and incident reporting/forecasting, and ensuring security compliance, e.g., access control and abnormal behavior detection. While there are some cloud management tools available on the market, they often lack the required intelligence to adapt to different application environments/demands, to enable advanced forecasting and analytics, or to automatically generate actionable recommendations on the fly. An automated and intelligent cloud management tool will address the needs of these customers. The tool will enable small- and medium-sized businesses to offer cloud-based services in a reliable and secure fashion.&lt;br/&gt;&lt;br/&gt;This I-Corps project will explore the translation of new developments of Reliability-as-a-Service (RaaS) technologies.  RaaS are cloud management software technologies that address security and reliability. To enable fully automated, unsupervised operation of RaaS, the goal is to leverage multiple Recurrent Neural Networks (RNNs) to mine and decompose various trends (e.g., business growth and demand peaks) from rich cloud statistics. This mining and reduction process will allow the proposed artificial intelligence (AI) reasoning engine to identify complex underlying trends and analyze them in a synergistic fashion to obtain the most accurate analytics. The AI reasoning engine provides four functionalities in cloud management – Infrastructure Monitor, Cost Control, Efficiency Optimization, and Security Compliance.  In addition, preliminary results show that the Infrastructure Monitor may predict cloud anomalies with an accuracy of over 91%.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036231</AwardID>
+<Investigator>
+<FirstName>Tian</FirstName>
+<LastName>Lan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tian Lan</PI_FULL_NAME>
+<EmailAddress><![CDATA[tlan@gwu.edu]]></EmailAddress>
+<NSF_ID>000610915</NSF_ID>
+<StartDate>08/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200520042</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress>1918 F ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECR5E2LU5BL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE WASHINGTON UNIVERSITY (THE)</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The George Washington University]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200520086</ZipCode>
+<StreetAddress><![CDATA[800 22nd St NW, Science and Engi]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Cloud computing offers many benefits such as rapid service provisioning and easy deployment, but many concerns regarding security and reliability remain. In public clouds like the EC2 Cloud by Amazon Web Services (AWS), reliability is only provided as an inelastic and predetermined service parameter. It is up to the cloud customers to harden the operating system and the applications running within their virtual machine instances, in order to enhance reliability for crucial applications (e.g., Oracle&rsquo;s payroll and general ledger programs). This presents a unique opportunity to develop a Reliability-as-a-Service (RaaS) product, which can continuously monitor the status of diverse cloud applications and services through an easy-to-use interface, harness relevant statistics to generate performance and anomaly predictions with high confidence, and provide actionable analytics and recommendations on the fly with the goal of both enabling better reliability and mitigating cloud operation costs.</p> <p>To this end, our I-Corp team aim to develop FrugalBot, a novel cloud tool empowered by RaaS technologies. It leverages the power of ML/AI to support a&nbsp;fully automated, unsupervised operation. FrugalBot&rsquo;s AI reasoning engine not only identifies complex underlying trends in cloud data, but also jointly analyze them in a synergistic fashion to obtain the most accurate analytics. The AI reasoning engine provides 4 functionalities in cloud management &ndash; Infrastructure Monitor, Cost Control, Efficiency Optimization, and Security Compliance. In particular, FrugalBot&rsquo;s Infrastructure Monitor can predict cloud anomalies with an accuracy of over 91%, in our preliminary results. During the I-Corp project, the team successfully completed the I-Corp cohort, developed a solid business plan, and conducted 100+ customer discovery interviews through attending technical events and meeting with potential customers.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/22/2023<br>      Modified by: Tian&nbsp;Lan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Cloud computing offers many benefits such as rapid service provisioning and easy deployment, but many concerns regarding security and reliability remain. In public clouds like the EC2 Cloud by Amazon Web Services (AWS), reliability is only provided as an inelastic and predetermined service parameter. It is up to the cloud customers to harden the operating system and the applications running within their virtual machine instances, in order to enhance reliability for crucial applications (e.g., Oracle’s payroll and general ledger programs). This presents a unique opportunity to develop a Reliability-as-a-Service (RaaS) product, which can continuously monitor the status of diverse cloud applications and services through an easy-to-use interface, harness relevant statistics to generate performance and anomaly predictions with high confidence, and provide actionable analytics and recommendations on the fly with the goal of both enabling better reliability and mitigating cloud operation costs.  To this end, our I-Corp team aim to develop FrugalBot, a novel cloud tool empowered by RaaS technologies. It leverages the power of ML/AI to support a fully automated, unsupervised operation. FrugalBot’s AI reasoning engine not only identifies complex underlying trends in cloud data, but also jointly analyze them in a synergistic fashion to obtain the most accurate analytics. The AI reasoning engine provides 4 functionalities in cloud management &ndash; Infrastructure Monitor, Cost Control, Efficiency Optimization, and Security Compliance. In particular, FrugalBot’s Infrastructure Monitor can predict cloud anomalies with an accuracy of over 91%, in our preliminary results. During the I-Corp project, the team successfully completed the I-Corp cohort, developed a solid business plan, and conducted 100+ customer discovery interviews through attending technical events and meeting with potential customers.           Last Modified: 03/22/2023       Submitted by: Tian Lan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

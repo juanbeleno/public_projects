@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Digital Instrumentation for the Research Community: The Next Generation of CASPER]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1017682.00</AwardTotalIntnAmount>
+<AwardAmount>1017682</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zoran Ninkov</SignBlockName>
+<PO_EMAI>zninkov@nsf.gov</PO_EMAI>
+<PO_PHON>7032922533</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project, led by astronomers at the University of California – Berkeley, involves an international community of astronomers, physicists, engineers, and computer scientists working together to develop high performance digital instrumentation for radio astronomy research.  The collaboration develops open source hardware, software, libraries, tools, and instrument designs, enabling researchers to implement the instrumentation needed to achieve their science goals in a cost effective and timely manner.  These products provide support for developments in radio astronomy ranging from small experiments in undergraduate teaching labs to telescopes at the frontier of astronomy research such as the Event Horizon Telescope.  The instrumentation provided by this collaboration is also used in brain research, genomics, radar applications, and neutron and magnetic field imaging.&lt;br/&gt;&lt;br/&gt;Research from the Collaboration for Astronomy Signal Processing and Electronics Research (CASPER) has revolutionized the cost and time scale for development of radio astronomy signal processing instrumentation. Over a thousand CASPER-designed Field Programmable Gate Array (FPGA) platforms have been deployed in roughly one hundred instruments around the world. CASPER infrastructure has supported a range of cutting edge radio astronomy programs such as; detecting the Epoch of Reionization (learning how the first stars and galaxies formed), NANOGrav (utilizing pulsars as gravitational wave detectors), and the Event Horizon Telescope (imaging the black hole at the center of our galaxy). CASPER owes its success to its software tools and libraries, which were designed with the goal of streamlining instrument development, and lowering the barriers of entry to new instrument designers. This proposal will leverage this past work of the CASPER community, in tandem with the current developments in the super-computing industry, to provide the infrastructure to cost effectively build the next generation of astronomical instrumentation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009537</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>DeBoer</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David R DeBoer</PI_FULL_NAME>
+<EmailAddress><![CDATA[ddeboer@berkeley.edu]]></EmailAddress>
+<NSF_ID>000599557</NSF_ID>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dan</FirstName>
+<LastName>Werthimer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dan Werthimer</PI_FULL_NAME>
+<EmailAddress><![CDATA[danw@ssl.berkeley.edu]]></EmailAddress>
+<NSF_ID>000466419</NSF_ID>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>1608 4TH ST STE 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley, Space Sciences Laboratory]]></Name>
+<CityName>Berkeley</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947045940</ZipCode>
+<StreetAddress><![CDATA[7 Gauss Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1218</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~1017682</FUND_OBLG>
+</Award>
+</rootTag>

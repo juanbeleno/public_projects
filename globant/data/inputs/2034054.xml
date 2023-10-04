@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  A bioinformatic software platform for rapid microbe diagnoses in plants]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a plant disease diagnostic test that is faster to develop, quicker turn around to diagnostic results, and more reliable and sensitive than current diagnostic tools. Today’s diagnostic tests are limited and typically cannot determine which strain of flu you might have, or which cold virus, or whether what you have is a bacterially-caused sinus infection.  In addition, the ability to quickly develop a diagnostic test and prove its accuracy is critical to emergency response to a new disease outbreak. Diagnostic technology also must overcome constraints in time to result while keeping costs low.  The proposed technology may allow a health practitioner to test for multiple organisms in one test to quickly inform what actions are needed to help the patient. The proposed technology will be a test for known microbial causes of respiratory disease. all bacterial infections. It may be possible for a patient to be tested for the same cost as current technology tests for just one pathogen.  The patient may then be appropriately and specifically treated for their respiratory illness.  &lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of computing software that allows rapid development of pathogen-specific probes and in-silico query of high throughput sequence (HTS) data from any kind of sample. The technology has the potential to be applied in many fields, including veterinary and human medicine, plant pathology, water quality, food safety, and environmental monitoring for biological threats.  Current diagnostic technology requires 10-24 hours to a “yes” or “no” diagnosis per sample, per pathogen. &lt;br/&gt;The initial proof-of-concept has been conducted with 30 citrus pathogens of regulatory concern to the U.S.  The proposed technology is capable of diagnosing presence or absence of multiple pathogens in a single sample in as little as 30 minutes to 3 hours from start to finish.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034054</AwardID>
+<Investigator>
+<FirstName>Kitty</FirstName>
+<LastName>Cardwell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kitty Cardwell</PI_FULL_NAME>
+<EmailAddress><![CDATA[kitty.cardwell@okstate.edu]]></EmailAddress>
+<NSF_ID>000736112</NSF_ID>
+<StartDate>12/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oklahoma State University</Name>
+<CityName>STILLWATER</CityName>
+<ZipCode>740781031</ZipCode>
+<PhoneNumber>4057449995</PhoneNumber>
+<StreetAddress>401 WHITEHURST HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNYDFK5FTSX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OKLAHOMA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oklahoma State University]]></Name>
+<CityName>Stillwater</CityName>
+<StateCode>OK</StateCode>
+<ZipCode>740786019</ZipCode>
+<StreetAddress><![CDATA[127 Noble Research Center]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1718</Code>
+<Text>BIOINFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Microbe Finder (MiFi) is a new technology that will change the way that tests are developed and used to detect disease-causing viruses and bacteria in a sample.&nbsp; The sample can be from human, animal, plant, water, soil, or even surfaces.&nbsp; MiFi will be particularly useful when multiple types of pathogens might be present in a sample.&nbsp; For example, if a patient has respiratory symptoms, they could be caused by pneumonia bacteria or virus, a number of influenza virus strains, viruses that cause colds, covid-19 virus, sinus infection due to allergies, or even a fungal infection.&nbsp; The doctor will take a nasal swab and send to the laboratory for testing. Often due to cost and time, the test will only be for one of the possible causes. If that test is negative, the doctor will use his or her best judgement and will often prescribe antibiotics.</p> <p>With MiFi, the sample can be tested for all possible disease-causing germs at the same time for the same cost. The outcome is more specific treatment and savings from unnecessary pharmacy costs.</p> <p>The MiFi idea began as a theory, with the first proof of how the concept works demonstrated on plant diseases. The NSF I-Corps project helped to better define the conditions for which the technology was most needed and therefore most likely to be adopted.&nbsp; We started by focusing on a crop that is vulnerable to serious plant diseases around the world.&nbsp; Citrus trees have many different kinds of disease problems caused by viroids, viruses, bacteria, and fungi.&nbsp; To create new citrus varieties that bring to market new products like Halos and Cuties mandarins, citrus cuttings are moved around the world by plant breeders.&nbsp; It is necessary to prove that the cuttings are not moving plant disease causing pathogens with them.&nbsp; In the U.S. all introduced citrus budwood is tested for up to 30 different pathogens, often over many years.&nbsp; The citrus industry and plant breeders are hoping for a new technology that will speed up the process of testing.&nbsp; This is where MiFi can have a significant impact, making testing for diseases of citrus trees faster and cheaper than current methods.&nbsp; Citrus growers around the world will have faster access to planting materials that are shown to be disease free with MiFi testing.</p> <p>With MiFi, we can expect that the citrus fruits that we love and, particularly, fruit varieties that children like to eat, will be readily available in the markets, and sustainable production is assured for years to come.&nbsp; Call it delicious diversity.</p> <p>Thanks to the NSF I-Corps project funding for making this work possible.&nbsp;</p><br> <p>            Last Modified: 10/26/2022<br>      Modified by: Kitty&nbsp;Cardwell</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666801857873_MiFi_PrimaryLogo--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666801857873_MiFi_PrimaryLogo--rgov-800width.jpg" title="MiFi logo"><img src="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666801857873_MiFi_PrimaryLogo--rgov-66x44.jpg" alt="MiFi logo"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Microbe Finder (MiFi) logo</div> <div class="imageCredit">Lisa Mines, Oklahoma State University</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kitty&nbsp;Cardwell</div> <div class="imageTitle">MiFi logo</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666802475102_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666802475102_2--rgov-800width.jpg" title="Citrus diversity"><img src="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666802475102_2--rgov-66x44.jpg" alt="Citrus diversity"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Citrus varieties provide wonderful options for consumers, from tart to sweet, these fruits are healthy to eat.</div> <div class="imageCredit">U.C. Riverside Citrus Clonal Protection Program</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kitty&nbsp;Cardwell</div> <div class="imageTitle">Citrus diversity</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666802910069_industrialgraft-producedseedlingsforplanting_IMG_4285--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666802910069_industrialgraft-producedseedlingsforplanting_IMG_4285--rgov-800width.jpg" title="Citrus seedling nursery"><img src="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666802910069_industrialgraft-producedseedlingsforplanting_IMG_4285--rgov-66x44.jpg" alt="Citrus seedling nursery"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Disease-free citrus seedlings preparing to ship to growers.</div> <div class="imageCredit">Kitty Cardwell, Oklahoma State University</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kitty&nbsp;Cardwell</div> <div class="imageTitle">Citrus seedling nursery</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666803078059_PlantIndexing_IMG_4213--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666803078059_PlantIndexing_IMG_4213--rgov-800width.jpg" title="Citrus seedling production"><img src="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666803078059_PlantIndexing_IMG_4213--rgov-66x44.jpg" alt="Citrus seedling production"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Tissue culture techniques are used to clean seedlings of disease causing pathogens of citrus.</div> <div class="imageCredit">Kitty Cardwell, Oklahoma State University</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kitty&nbsp;Cardwell</div> <div class="imageTitle">Citrus seedling production</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666803575159_IMG_0286--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666803575159_IMG_0286--rgov-800width.jpg" title="Citrus taste testing"><img src="/por/images/Reports/POR/2022/2034054/2034054_10711173_1666803575159_IMG_0286--rgov-66x44.jpg" alt="Citrus taste testing"></a> <div class="imageCaptionContainer"> <div class="imageCaption">From testing to tasting - assuring that great tasting citrus from healthy trees is available for consumers</div> <div class="imageCredit">G. Vidalakis, U.C. Riverside Citrus Clonal Protection Program</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Kitty&nbsp;Cardwell</div> <div class="imageTitle">Citrus taste testing</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Microbe Finder (MiFi) is a new technology that will change the way that tests are developed and used to detect disease-causing viruses and bacteria in a sample.  The sample can be from human, animal, plant, water, soil, or even surfaces.  MiFi will be particularly useful when multiple types of pathogens might be present in a sample.  For example, if a patient has respiratory symptoms, they could be caused by pneumonia bacteria or virus, a number of influenza virus strains, viruses that cause colds, covid-19 virus, sinus infection due to allergies, or even a fungal infection.  The doctor will take a nasal swab and send to the laboratory for testing. Often due to cost and time, the test will only be for one of the possible causes. If that test is negative, the doctor will use his or her best judgement and will often prescribe antibiotics.  With MiFi, the sample can be tested for all possible disease-causing germs at the same time for the same cost. The outcome is more specific treatment and savings from unnecessary pharmacy costs.  The MiFi idea began as a theory, with the first proof of how the concept works demonstrated on plant diseases. The NSF I-Corps project helped to better define the conditions for which the technology was most needed and therefore most likely to be adopted.  We started by focusing on a crop that is vulnerable to serious plant diseases around the world.  Citrus trees have many different kinds of disease problems caused by viroids, viruses, bacteria, and fungi.  To create new citrus varieties that bring to market new products like Halos and Cuties mandarins, citrus cuttings are moved around the world by plant breeders.  It is necessary to prove that the cuttings are not moving plant disease causing pathogens with them.  In the U.S. all introduced citrus budwood is tested for up to 30 different pathogens, often over many years.  The citrus industry and plant breeders are hoping for a new technology that will speed up the process of testing.  This is where MiFi can have a significant impact, making testing for diseases of citrus trees faster and cheaper than current methods.  Citrus growers around the world will have faster access to planting materials that are shown to be disease free with MiFi testing.  With MiFi, we can expect that the citrus fruits that we love and, particularly, fruit varieties that children like to eat, will be readily available in the markets, and sustainable production is assured for years to come.  Call it delicious diversity.  Thanks to the NSF I-Corps project funding for making this work possible.        Last Modified: 10/26/2022       Submitted by: Kitty Cardwell]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

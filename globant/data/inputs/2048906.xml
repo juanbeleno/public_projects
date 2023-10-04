@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Symbolic Computation Meets Computational Geometry and Data Approximation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>149999.00</AwardTotalIntnAmount>
+<AwardAmount>86476</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland Jameson</SignBlockName>
+<PO_EMAI>ljameson@nsf.gov</PO_EMAI>
+<PO_PHON>7032924883</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Modeling of functions and data approximation are two fundamental tools in computational geometry, computer graphics, and data analytics. For example, when an airplane wing is designed, rather than modeling the wing as one large object, the wing is conceptually broken into a number of small triangles, computations are performed on these small patches, and then the results are assembled back together into a coherent result. This research project studies this technique, and others like it, using tools from computational and symbolic algebra. Results of the research are expected to advance theoretical understanding of these approximations, as well as to provide potential speed-ups to computations used in computer graphics and industrial design.&lt;br/&gt;&lt;br/&gt;This research focuses on analysis and implementation of three central methods in approximation theory and geometric modeling: generalized barycentric coordinates, multidimensional splines, and polynomial interpolation. These methods involve algebraic techniques; from the computational standpoint this means that tools of symbolic algebra are applicable. The goal in all these projects is to compute the dimension of some space of functions, generally in terms of combinatorial and geometric data, and if possible to find a basis for that space. The theoretical tools to be employed are homological algebra and algebraic geometry; the investigations also use computation as a vehicle for experiment. The project will result in development of specialized software, which will be integrated into the Macaulay2 software package.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/11/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2048906</AwardID>
+<Investigator>
+<FirstName>Henry</FirstName>
+<LastName>Schenck</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Henry K Schenck</PI_FULL_NAME>
+<EmailAddress><![CDATA[hks0015@auburn.edu]]></EmailAddress>
+<NSF_ID>000220359</NSF_ID>
+<StartDate>02/11/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Auburn University</Name>
+<CityName>AUBURN</CityName>
+<ZipCode>368490001</ZipCode>
+<PhoneNumber>3348444438</PhoneNumber>
+<StreetAddress>321-A INGRAM HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DMQNDJDHTDG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AUBURN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Auburn University]]></Name>
+<CityName>Auburn</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>368490001</ZipCode>
+<StreetAddress><![CDATA[310 Samford Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~86476</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="page" title="Page 1"> <div class="layoutArea"> <div class="column"> <p><span>The goal of this project was to apply methods of theoretical mathematics--algebra, geometry, and topology--to study problems arising in the real world (applied mathematics). Modeling of functions and data approximation are two fundamental problems in computational geometry, computer graphics, and data analytics. In particular, the proposal was focused on analysis and implementation of spline approximation and topological data analysis.</span></p> <p>Spline approximation involves subdividing a region into simpler regions, and then approximating a function with a polynomial function. The resulting objects are known as splines, and have applications that range from how Boeing analyzes airflow over the wing of an aircraft to how Pixar animates figures in movies like "Toy Story". This project resulted in new theoretical bounds (in joint work with Mike Stillman and Beihui Yuan, Cornell) for the number of spline functions, and was hailed by one expert in the field as "a major step forward".</p> <p>Topological data analysis is a new and emerging field. The objective is to extract meaning from a massive data set. Often the data consists of points (imagine a dancing cloud of mosquitoes). A new technique known as topological data analysis applies tools of abstract mathematics (topology--the study of shapes) to tackle the problem. Roughly speaking, the idea is to ``fatten'' the points until they start to overlap (visualize "connect the dots"). Surprisingly, this seemingly simple technique has led to advances in areas ranging from breast cancer pathology to viral evolution to activity in the visual cortex. One result of this grant was an advance by the PI (with Oxford mathematicians Heather Harrington, Nina Otter, and Ulrike Tillmann)&nbsp; describing the mathematical structure of the problem, using tools from yet another area: algebraic geometry.</p> <p>Over the course of the grant, the PI published 9 papers/book chapters, gave 12 invited conference talks, co-organized 2 major international conferences, created and taught several graduate classes/minicourses, and oversaw the successful completion of two PhD theses.</p> <p>While not directly financed by this proposal, the PI (a veteran himself) also partnered with the Veterans Center at Iowa State (2018-19) and Auburn (2019-21) to develop&nbsp;<span>support activities for student&nbsp;veterans. Activities include</span><br /><span>* A one-day intensive ?Math Boot Camp? to refresh student veterans on&nbsp;algebra/trigonometry skills at the start of each semester.</span><br /><span>* Extra weekly help sessions during the semester during a Pizza/Math help lunch.</span><br /><span>* Twenty hours of extra review during finals week.</span></p> </div> </div> </div> <p>&nbsp;</p><br> <p>            Last Modified: 03/07/2022<br>      Modified by: Henry&nbsp;K&nbsp;Schenck</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[    The goal of this project was to apply methods of theoretical mathematics--algebra, geometry, and topology--to study problems arising in the real world (applied mathematics). Modeling of functions and data approximation are two fundamental problems in computational geometry, computer graphics, and data analytics. In particular, the proposal was focused on analysis and implementation of spline approximation and topological data analysis.  Spline approximation involves subdividing a region into simpler regions, and then approximating a function with a polynomial function. The resulting objects are known as splines, and have applications that range from how Boeing analyzes airflow over the wing of an aircraft to how Pixar animates figures in movies like "Toy Story". This project resulted in new theoretical bounds (in joint work with Mike Stillman and Beihui Yuan, Cornell) for the number of spline functions, and was hailed by one expert in the field as "a major step forward".  Topological data analysis is a new and emerging field. The objective is to extract meaning from a massive data set. Often the data consists of points (imagine a dancing cloud of mosquitoes). A new technique known as topological data analysis applies tools of abstract mathematics (topology--the study of shapes) to tackle the problem. Roughly speaking, the idea is to ``fatten'' the points until they start to overlap (visualize "connect the dots"). Surprisingly, this seemingly simple technique has led to advances in areas ranging from breast cancer pathology to viral evolution to activity in the visual cortex. One result of this grant was an advance by the PI (with Oxford mathematicians Heather Harrington, Nina Otter, and Ulrike Tillmann)  describing the mathematical structure of the problem, using tools from yet another area: algebraic geometry.  Over the course of the grant, the PI published 9 papers/book chapters, gave 12 invited conference talks, co-organized 2 major international conferences, created and taught several graduate classes/minicourses, and oversaw the successful completion of two PhD theses.  While not directly financed by this proposal, the PI (a veteran himself) also partnered with the Veterans Center at Iowa State (2018-19) and Auburn (2019-21) to develop support activities for student veterans. Activities include * A one-day intensive ?Math Boot Camp? to refresh student veterans on algebra/trigonometry skills at the start of each semester. * Extra weekly help sessions during the semester during a Pizza/Math help lunch. * Twenty hours of extra review during finals week.             Last Modified: 03/07/2022       Submitted by: Henry K Schenck]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Cluster Analysis for High-Dimensional and Multi-Source Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Rapid technology advances in devices and computer systems continue to grow our capacity to collect and store data. Clustering is often the first stage analysis performed to discover patterns, gain insights, and extract knowledge from massive amount of data routinely faced in science, engineering, and commercial domains. For instance, in biomedical studies, clustering is used to reveal pathological subgroups and help researchers form new hypothesis for in-depth investigation.  It is thus imperative to develop new clustering methods to meet the ever-increasing challenges of data with high complexity, huge volume, and from distributed sources. In this project, novel statistical and optimization-based approaches and software packages will be developed to address these challenges. Graduate students will be trained to conduct research at the forefront of machine learning. The research results will be used to enrich courses and outreach educational materials in data science.&lt;br/&gt; &lt;br/&gt;A prominent statistical paradigm for clustering is based on mixture models, which is objective, parsimonious, not biased for known clusters, and has a probabilistic framework that can be extended and interpreted in standard ways. For high-dimensional large-scale data, existing mixture-model based methods have fundamental limitations. Furthermore, a big data environment can require the integration of clustering results at distributed sites, a problem called multi-source clustering. This research will advance cluster analysis from multiple aspects. First, hidden Markov model on variable blocks (HMM-VB), a special Gaussian mixture model (GMM), is developed to tackle high dimensionality. The estimation of HMM-VB will be enhanced by computationally efficient methods to identify the latent variable block structure and by mixture factor analyzers. Second, leveraging the latent states of HMM-VB, a new variable selection approach will be developed for clustering high-dimensional data. Third, the emerging topic of multi-source clustering will be studied. New methods based on optimal transport and Wasserstein barycenter will be developed for aggregating clustering results from multiple sources. Applications in biomedical areas will be pursued.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013905</AwardID>
+<Investigator>
+<FirstName>Jia</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Jia Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[jiali@psu.edu]]></EmailAddress>
+<NSF_ID>000486811</NSF_ID>
+<StartDate>06/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lynn</FirstName>
+<LastName>Lin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lynn Lin</PI_FULL_NAME>
+<EmailAddress><![CDATA[ll86@duke.edu]]></EmailAddress>
+<NSF_ID>000711860</NSF_ID>
+<StartDate>06/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>201 OLD MAIN</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>University Park</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168027000</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>PA"</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7454</Code>
+<Text>MSPA-INTERDISCIPLINARY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~225000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>We have published 7 journal papers on a variety of research topics covered by this project. The methodologies developed address fundamental challenges in clustering for multi-source, multi-modality, and distributed data. Experiments show that our new methods have achieved state-of-the-art performance.&nbsp;The clustering and classification methods developed in this project have wide potential applications in science and engineering. In our experiments, we focused on applications in biomedical areas. In addition, our work to improve the robustness of surrogate DNN models has wide potential impacts because surrogate models are used to approximate complex simulation models in many science and engineering fields, for instance, weather simulation models, physical simulation systems for materials.&nbsp;<span>Algorithms developed with support from this grant have been implemented and made available to the public through Github.&nbsp;</span>We describe several of the research results below.</p> <p>We have extended the framework of optimal transport (OT) to optimal transport with relaxed marginal constraints (OT-RMC). We demonstrated how this extension can bring much flexibility in various matching problems. In particular, we have developed a new method based on OT-RMC to align clusters obtained from multiple sources. We consider the case when the clusters from different sources are not all identical. In other words, each source may contain clusters unique to itself. Conventional OT excludes such cases. We have conducted experiments on several&nbsp;real-world datasets and found the algorithm competitive in both accuracy and speed.</p> <p>Multi-view data can be created from different sources, by several technologies, and in multiple modalities. Information integrated from multi-view data has set a frontier for making discoveries in many fields. Various methods have been developed for multi-view clustering. However, these methods have important limitations such as the requirement of pooling data in multiple views, the lack of choices for clustering algorithms used within each view, and the neglect of complementary information across views. We have developed a new approach for multi-view clustering, namely, covering point set merge (CPSmerge) analysis, without pooling data or concatenating variables across the views. The main idea is to maximize clustering stability by merging clusters formed by the Cartesian product of clustering labels acquired in individual views. Our method also quantifies the contribution of each view for the formation of any cluster. The method can be readily applied and incorporated with existing clustering pipelines because the algorithm adopted for any view is unrestricted. This flexibility, lacking by many multi-view clustering methods, enables us to leverage advanced single-view clustering algorithms. Importantly, our method accounts for both consensus and complementary effects between different views. In contrast, existing ensemble algorithms focus on seeking a consensus for clustering results obtained in different views, implicitly assuming that these results are variations of one clustering structure.</p> <p>We have developed a new approach to integrate clustering results from multiple sources by computing the MAW barycenter of Gaussian mixture models. The potential usage of this algorithm goes beyond integrating clustering results because the algorithm for computing the Minimized Aggregated Wasserstein (MAW) barycenter of Gaussian Mixture Models (GMMs) is a general approach to find an&nbsp;"average" of GMMs.Our proposed algorithm for clustering integration scales well with the data dimension and the number of mixture components, with complexity independent of data size.We demonstrate that the new method achieves better clustering results on several single-cell RNA-seq data sets than some other popular methods.</p> <p>By combining clustering techniques and DNN, we developed a new approach to enhance the interpretability of complex supervised learning models. Although DNN models have become very popular in machine learning, the fact they are not interpretable has limited their usages in mission-critical applications. In this work, we bridge DNNs with traditional statistical models such that we have a mechanism to tradeoff interpretability with accuracy. We proposed the novel idea of "co-supervision" by DNN models. We have successfully trained mixture of linear models that achieve accuracy close to DNN while maintaining interpretability.</p> <p>Three graduate students have conducted research in this project. This project provides them a unique opportunity to explore topics at the interface of mixture modeling, deep learning, and optimal transport. They were also exposed to applications in biomedical areas. This project also inspired the undergraduate honors thesis research topics of two students.&nbsp;One student studied the robustness of an algorithm that explains the decision of a DNN locally using linear models. The other student studied how to feedback some explanation for the DNN's decision on image classification to enhance the robustness of DNN.<em>&nbsp;</em>The graduate and undergraduate students include two female and one Hispanic students.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/01/2023<br>      Modified by: Jia&nbsp;Li</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ We have published 7 journal papers on a variety of research topics covered by this project. The methodologies developed address fundamental challenges in clustering for multi-source, multi-modality, and distributed data. Experiments show that our new methods have achieved state-of-the-art performance. The clustering and classification methods developed in this project have wide potential applications in science and engineering. In our experiments, we focused on applications in biomedical areas. In addition, our work to improve the robustness of surrogate DNN models has wide potential impacts because surrogate models are used to approximate complex simulation models in many science and engineering fields, for instance, weather simulation models, physical simulation systems for materials. Algorithms developed with support from this grant have been implemented and made available to the public through Github. We describe several of the research results below.  We have extended the framework of optimal transport (OT) to optimal transport with relaxed marginal constraints (OT-RMC). We demonstrated how this extension can bring much flexibility in various matching problems. In particular, we have developed a new method based on OT-RMC to align clusters obtained from multiple sources. We consider the case when the clusters from different sources are not all identical. In other words, each source may contain clusters unique to itself. Conventional OT excludes such cases. We have conducted experiments on several real-world datasets and found the algorithm competitive in both accuracy and speed.  Multi-view data can be created from different sources, by several technologies, and in multiple modalities. Information integrated from multi-view data has set a frontier for making discoveries in many fields. Various methods have been developed for multi-view clustering. However, these methods have important limitations such as the requirement of pooling data in multiple views, the lack of choices for clustering algorithms used within each view, and the neglect of complementary information across views. We have developed a new approach for multi-view clustering, namely, covering point set merge (CPSmerge) analysis, without pooling data or concatenating variables across the views. The main idea is to maximize clustering stability by merging clusters formed by the Cartesian product of clustering labels acquired in individual views. Our method also quantifies the contribution of each view for the formation of any cluster. The method can be readily applied and incorporated with existing clustering pipelines because the algorithm adopted for any view is unrestricted. This flexibility, lacking by many multi-view clustering methods, enables us to leverage advanced single-view clustering algorithms. Importantly, our method accounts for both consensus and complementary effects between different views. In contrast, existing ensemble algorithms focus on seeking a consensus for clustering results obtained in different views, implicitly assuming that these results are variations of one clustering structure.  We have developed a new approach to integrate clustering results from multiple sources by computing the MAW barycenter of Gaussian mixture models. The potential usage of this algorithm goes beyond integrating clustering results because the algorithm for computing the Minimized Aggregated Wasserstein (MAW) barycenter of Gaussian Mixture Models (GMMs) is a general approach to find an "average" of GMMs.Our proposed algorithm for clustering integration scales well with the data dimension and the number of mixture components, with complexity independent of data size.We demonstrate that the new method achieves better clustering results on several single-cell RNA-seq data sets than some other popular methods.  By combining clustering techniques and DNN, we developed a new approach to enhance the interpretability of complex supervised learning models. Although DNN models have become very popular in machine learning, the fact they are not interpretable has limited their usages in mission-critical applications. In this work, we bridge DNNs with traditional statistical models such that we have a mechanism to tradeoff interpretability with accuracy. We proposed the novel idea of "co-supervision" by DNN models. We have successfully trained mixture of linear models that achieve accuracy close to DNN while maintaining interpretability.  Three graduate students have conducted research in this project. This project provides them a unique opportunity to explore topics at the interface of mixture modeling, deep learning, and optimal transport. They were also exposed to applications in biomedical areas. This project also inspired the undergraduate honors thesis research topics of two students. One student studied the robustness of an algorithm that explains the decision of a DNN locally using linear models. The other student studied how to feedback some explanation for the DNN's decision on image classification to enhance the robustness of DNN. The graduate and undergraduate students include two female and one Hispanic students.          Last Modified: 08/01/2023       Submitted by: Jia Li]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

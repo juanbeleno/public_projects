@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Identifying Biophysical Determinants of Binding to the SARS-CoV-2 Main Viral Protease]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199999.00</AwardTotalIntnAmount>
+<AwardAmount>199999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michel Dupuis</SignBlockName>
+<PO_EMAI>mdupuis@nsf.gov</PO_EMAI>
+<PO_PHON>7032922919</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[John Chodera of the Sloan Kettering Institute for Cancer Research is supported by an award from the Chemical Theory, Models and Computational Methods program in the Division of  Chemistry to identify the biophysical determinants of inhibition for the SARS-CoV-2 main viral protease (Mpro).  Mpro is an essential enzyme in the virus that causes COVID-19. The Chodera lab develops physical models accelerated by inexpensive consumer-grade graphics processing units (GPUs) to predict which small molecules might bind and inhibit disease-relevant proteins.  The Chodera lab is part of the Folding@home Consortium, a research collaboration that uses the Folding@home distributed computing environment to run these calculations.  This computing resource is donated by a network of volunteers around the world. Recently, in response to the COVID-19 pandemic, Folding@home became the largest computing platform of any kind in the world, with &gt;25M CPU cores and &gt;600K GPUs participating at any given time. The Chodera lab will use Folding@home to integrate computation and experiment to rapidly identify high-affinity inhibitors of Mpro and to elucidate key interactions required for effective inhibition.  They work with collaborators at Informatics Matters (a team that works to enumerates synthetically feasible compounds), Enamine (to synthesize compounds), the Diamond Light Source (to crystallize chemical compounds), the London lab at the Weizmann (to assay compounds), and PostEra (to make the results rapidly and publicly available in a manner that can accelerate research on Mpro inhibition in other research laboratories and pharmaceutical companies).&lt;br/&gt; &lt;br/&gt;Over the last two months, Folding@home has become the world’s largest computing resource (&gt;2.5 exaflops, &gt;25M CPU cores, &gt;600K GPUs) in service of COVID-19 specific research. John Chodera, a founding investigator in the Folding@home Consortium, and collaborators have established a rapid pipeline to go from the selection of molecules within the 14B compound Enamine REAL Space virtual synthetic library to key biophysical data (X-ray structures and affinities) to SARS-CoV-2 main viral protease (Mpro) with ~2 week turnaround time. His laboratory is now using relative alchemical free energy methods to assess strategies for rapidly progressing an initial set of 68 small molecule X-ray structures from an initial screen for weak inhibitors toward high-affinity ligands.  The team also identifies key biophysical determinants of high-affinity ligand binding within the active site of Mpro, and benchmark the propsective accuracy of small molecule force fields to inform the development of next-generation force fields. The laboratory is selecting molecules from Enamine REAL Space to be synthesized, soaked to produce X-ray structures by DiamondMX/XChem, and assayed for Mpro inhibition by the London lab at the Weizmann Institute via collaborations already in place. All computational data is being rapidly disseminated online via the NSF-funded Molecular Sciences Software Institute (MolSSI) COVID-19 Molecular Structures and Therapeutics Hub and the open science COVID Moonshot program to maximize multiple downstream uses for fundamental research and the opportunity for broader impacts in applied and translational areas.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033426</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Chodera</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John D Chodera</PI_FULL_NAME>
+<EmailAddress><![CDATA[john.chodera@choderalab.org]]></EmailAddress>
+<NSF_ID>000678930</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Sloan Kettering Institute For Cancer Research</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100656007</ZipCode>
+<PhoneNumber>6462273273</PhoneNumber>
+<StreetAddress>1275 YORK AVENUE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KUKXRCZ6NZC2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SLOAN-KETTERING INSTITUTE FOR CANCER RESEARCH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Sloan Kettering Institute For Cancer Research]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100656007</ZipCode>
+<StreetAddress><![CDATA[1275 York Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>6881</Code>
+<Text>Chem Thry, Mdls &amp; Cmptnl Mthds</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This RAPID award supported our effort to use Folding@home, a worldwide volunteer distributed computing effort, to aid the prioritization of potent new inhibitors of the SARS-CoV-2 main viral protease, an essential protein in the life-cycle of the virus that causes COVID-19 dieases that is of high interest for the development of new antivirals. This work was done in close collaboration with the COVID Moonshot [http://postera.ai/covid], a global open science collaboration aiming to develop a new oral antiviral to end the COVID-19 pandemic.</p> <p>Our primary goals were to:</p> <ul> <li>Learn about the kinds of compounds that could bind tightly to and inhibit the SARS-CoV-2 main viral protease (Mpro) to develop a "chemical atlas"</li> <li>Assess the accuracy of current-generation predictive force field based models (alchemical free energy calculations with the public Open Force Field Initiative force fields) to enable researchers to systematically improve their accuracy</li> <li>Aid the ability of a rapidly-moving open science drug discovery project to produce a new oral antiviral capable of swiftly bringing an end to the COVID-19 pandemic to enter clinical trials&nbsp;</li> </ul> <p>The award financially supported a software scientist, who engineered the infrastructure required to run high-throughput alchemical free energy calculations on Folding@home to prioritize compound designs submitted by medicinal chemists and scientists around the world to the COVID Moonshot website. In addition, this award funded some of the synthesis of compounds that had been prioritized by these free energy calculations.</p> <p><span style="text-decoration: underline;"><strong>Key outcomes:</strong></span></p> <p><strong>Advancement to preclinical phase</strong></p> <p>This RAPID award contributed to the COVID Moonshot open science project rapidly completing the discovery phase for&nbsp;a novel oral SARS-CoV-2 antiviral. The Moonshot has now secured an $11M grant from the Wellcome Trust to enter the preclinical phase to receive approval to begin clinical trials once preclinical safety studies are completed. This work is being carried out under an open-IP model that aims to avoid patenting the antiviral so that manufacturers around the world can produce the therapeutic once it is approved.</p> <p>The discovery phase is summarized in this preprint:</p> <p>https://www.biorxiv.org/content/10.1101/2020.10.29.339317v2</p> <p><strong>Discovery of novel, potent noncovalent compounds with the ability to inhibit the SARS-CoV-2 main viral protease (Mpro):</strong></p> <p>Compounds prioritized and synthesized by thie RAPID award have activity data [https://covid.postera.ai/covid/activity_data] and structures [https://covid.postera.ai/covid/structures] reported publicly, with all data summarized in this preprint:</p> <p>https://www.biorxiv.org/content/10.1101/2020.10.29.339317v2</p> <p>All compounds are available for purchase through Enamine [https://enamine.net/] for research use without the need for a materials transfer agreement.</p> <p><strong>Folding@home COVID Moonshot dashboards:</strong></p> <p>Every batch of calculations ("Sprint") is summarized in a public web dashboard displaying the results of calculations, allowing the Moonshot medicinal chemistry team to select optimal molecules and researchers around the world to analyze this data. The most recent example is Sprint 10:</p> <p>https://fah-public-data-covid19-moonshot-sprints.s3.us-east-2.amazonaws.com/dashboards/sprint-10/sprint-10-2021-07-26-x10959-dimer-neutral-restrained/retrospective_microstate_transformations/index.html</p> <p>All code and scripts developed for this project are available onine, and all dashboards and calculations will be indexed here shortly:</p> <p>https://github.com/foldingathome/covid-moonshot</p> <p>This infrastructure will be reused to continue supporting the development of noval antivirals, producing large datasets on the accuracy of alchemical free energy calculations (to aid in their improvement) in the process.</p> <p><strong>Folding@home free energy calculation datasets:</strong></p> <p>All Folding@home datasets from this project are shared online through the AWS Public Dataset program, indexed here:&nbsp;</p> <p>https://registry.opendata.aws/foldingathome-covid19/</p> <p><span style="text-decoration: underline;"><strong>Further work</strong></span></p> <p>Analysis of the wealth of data generated by this project is still ongoing, and will be disseminated via preprints and public code and dataset repositories in the coming months.</p><br> <p>            Last Modified: 10/31/2021<br>      Modified by: John&nbsp;D&nbsp;Chodera</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2033426/2033426_10680091_1635700731075_fah-sprint-10-dashboard--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2033426/2033426_10680091_1635700731075_fah-sprint-10-dashboard--rgov-800width.jpg" title="Folding@home COVID Moonshot Sprint 10 Dashboard example view"><img src="/por/images/Reports/POR/2021/2033426/2033426_10680091_1635700731075_fah-sprint-10-dashboard--rgov-66x44.jpg" alt="Folding@home COVID Moonshot Sprint 10 Dashboard example view"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The Folding@home COVID Moonshot Sprint dashboards, such as this one, present all free energy calculation data generated by Folding@Home in a convenient form for viewing and downloading summary data.</div> <div class="imageCredit">John Chodera</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">John&nbsp;D&nbsp;Chodera</div> <div class="imageTitle">Folding@home COVID Moonshot Sprint 10 Dashboard example view</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2033426/2033426_10680091_1635700932067_image1--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2033426/2033426_10680091_1635700932067_image1--rgov-800width.jpg" title="Timeline of COVID Moonshot discovery activities"><img src="/por/images/Reports/POR/2021/2033426/2033426_10680091_1635700932067_image1--rgov-66x44.jpg" alt="Timeline of COVID Moonshot discovery activities"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This figure illustrates the timeline of activities for the COVID Moonshot open science project, to which this RAPID award contributed to the accelerated discovery of inhibitors.</div> <div class="imageCredit">Alpha Lee</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">John&nbsp;D&nbsp;Chodera</div> <div class="imageTitle">Timeline of COVID Moonshot discovery activities</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2033426/2033426_10680091_1635701320518_sprint-2-compounds--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2033426/2033426_10680091_1635701320518_sprint-2-compounds--rgov-800width.jpg" title="Folding@home COVID Moonshot Sprint 2 identified more potent inhibitors"><img src="/por/images/Reports/POR/2021/2033426/2033426_10680091_1635701320518_sprint-2-compounds--rgov-66x44.jpg" alt="Folding@home COVID Moonshot Sprint 2 identified more potent inhibitors"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Folding@home COVID Moonshot Sprint 2 identified a number of inhibitors more potent than the parent compound (upper right) with alchemical free energy calculations (left, red). See https://foldingathome.org/2020/08/17/join-the-second-covid-moonshot-weekly-sprint/?lng=en for more details.</div> <div class="imageCredit">John Chodera</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">John&nbsp;D&nbsp;Chodera</div> <div class="imageTitle">Folding@home COVID Moonshot Sprint 2 identified more potent inhibitors</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This RAPID award supported our effort to use Folding@home, a worldwide volunteer distributed computing effort, to aid the prioritization of potent new inhibitors of the SARS-CoV-2 main viral protease, an essential protein in the life-cycle of the virus that causes COVID-19 dieases that is of high interest for the development of new antivirals. This work was done in close collaboration with the COVID Moonshot [http://postera.ai/covid], a global open science collaboration aiming to develop a new oral antiviral to end the COVID-19 pandemic.  Our primary goals were to:  Learn about the kinds of compounds that could bind tightly to and inhibit the SARS-CoV-2 main viral protease (Mpro) to develop a "chemical atlas" Assess the accuracy of current-generation predictive force field based models (alchemical free energy calculations with the public Open Force Field Initiative force fields) to enable researchers to systematically improve their accuracy Aid the ability of a rapidly-moving open science drug discovery project to produce a new oral antiviral capable of swiftly bringing an end to the COVID-19 pandemic to enter clinical trials    The award financially supported a software scientist, who engineered the infrastructure required to run high-throughput alchemical free energy calculations on Folding@home to prioritize compound designs submitted by medicinal chemists and scientists around the world to the COVID Moonshot website. In addition, this award funded some of the synthesis of compounds that had been prioritized by these free energy calculations.  Key outcomes:  Advancement to preclinical phase  This RAPID award contributed to the COVID Moonshot open science project rapidly completing the discovery phase for a novel oral SARS-CoV-2 antiviral. The Moonshot has now secured an $11M grant from the Wellcome Trust to enter the preclinical phase to receive approval to begin clinical trials once preclinical safety studies are completed. This work is being carried out under an open-IP model that aims to avoid patenting the antiviral so that manufacturers around the world can produce the therapeutic once it is approved.  The discovery phase is summarized in this preprint:  https://www.biorxiv.org/content/10.1101/2020.10.29.339317v2  Discovery of novel, potent noncovalent compounds with the ability to inhibit the SARS-CoV-2 main viral protease (Mpro):  Compounds prioritized and synthesized by thie RAPID award have activity data [https://covid.postera.ai/covid/activity_data] and structures [https://covid.postera.ai/covid/structures] reported publicly, with all data summarized in this preprint:  https://www.biorxiv.org/content/10.1101/2020.10.29.339317v2  All compounds are available for purchase through Enamine [https://enamine.net/] for research use without the need for a materials transfer agreement.  Folding@home COVID Moonshot dashboards:  Every batch of calculations ("Sprint") is summarized in a public web dashboard displaying the results of calculations, allowing the Moonshot medicinal chemistry team to select optimal molecules and researchers around the world to analyze this data. The most recent example is Sprint 10:  https://fah-public-data-covid19-moonshot-sprints.s3.us-east-2.amazonaws.com/dashboards/sprint-10/sprint-10-2021-07-26-x10959-dimer-neutral-restrained/retrospective_microstate_transformations/index.html  All code and scripts developed for this project are available onine, and all dashboards and calculations will be indexed here shortly:  https://github.com/foldingathome/covid-moonshot  This infrastructure will be reused to continue supporting the development of noval antivirals, producing large datasets on the accuracy of alchemical free energy calculations (to aid in their improvement) in the process.  Folding@home free energy calculation datasets:  All Folding@home datasets from this project are shared online through the AWS Public Dataset program, indexed here:   https://registry.opendata.aws/foldingathome-covid19/  Further work  Analysis of the wealth of data generated by this project is still ongoing, and will be disseminated via preprints and public code and dataset repositories in the coming months.       Last Modified: 10/31/2021       Submitted by: John D Chodera]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

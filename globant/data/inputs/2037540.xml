@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Enhancing Power System Resilience via Data-Driven Optimization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>93400.00</AwardTotalIntnAmount>
+<AwardAmount>93400</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+<PO_EMAI>gaklutke@nsf.gov</PO_EMAI>
+<PO_PHON>7032922443</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As the backbone of the U.S. energy infrastructure, the electric grid transmits power to the nation, with a revenue of around 400 billion dollars annually.  The electric grid is vulnerable to a variety of weather-related natural disasters.  The evaluation and mitigation of disruption-related risks and impacts are often computationally prohibitive due to the complexity of the power system, uncertainty of weather conditions, and the combinatorial nature of component failures.  This project will advance the use of analytical models and scalable solution methods to assist system operators to better evaluate and mitigate disruptions.  The PIs, as well as their graduate students, will collaborate with a U.S. Department of Energy national laboratory, which will facilitate connections with power systems operators.&lt;br/&gt;&lt;br/&gt;This award will study a new class of data-driven optimization methodologies to support strategic and operational planning in power systems management.  As part of this research, the PIs will study probabilistic modeling of electricity grid disruptions based on meteorological and historical transmission availability data.  These data will be incorporated in distributionally robust optimization (DRO) models to (a) conduct risk assessment analysis, (b) harden pre-disaster electricity grid, (c) take corrective actions during disasters, and (d) conduct post-disaster self-healing and system restoration. The DRO approach will allow the consideration of an exponential number of disruptions, as well as their probabilities of occurring, to be inferred from the analysis of the data. In addition, this project will investigate new DRO solution approaches based on mixed-integer programming.]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037540</AwardID>
+<Investigator>
+<FirstName>Chaoyue</FirstName>
+<LastName>Zhao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chaoyue Zhao</PI_FULL_NAME>
+<EmailAddress><![CDATA[cyzhao@uw.edu]]></EmailAddress>
+<NSF_ID>000677992</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 BROOKLYN AVE NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF WASHINGTON VICE PR</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981950001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>006Y</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~93400</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>According to assessments by the National Research Council and the U.S. Global Change Research Program, U.S. energy infrastructure is increasingly vulnerable to severe weather due to the climate change. This project aims to address critical resilience challenges facing our nation&rsquo;s power system infrastructure under natural disasters or unexpected disruptions. More specifically, we study probabilistic modeling of power grid contingency based on meteorological and historical transmission availability data. Then, we incorporate the data analytics in distributionally robust optimization models to (1) conduct risk assessment analysis, (2) harden pre-disaster power grid, (3) take corrective actions during disasters, and (4) conduct post-disaster self-healing and system restoration.</p> <p>&nbsp;</p> <p>The research findings of this project include (1) Efficient utilization of available meteorological and transmission data to learn probabilistic models of the contingency probability distribution, (2) Reliable transmission line hardening planning framework to hedge against the risk of uncertain power flows and contingencies injected by the high penetration of renewable energy and extreme weather, (3) Effective distribution system topology plan to enhance the economic operation, resilience, and reliability of the power grid, and (4) Two reliability analysis models to quantify potential risks of having component outages for transmission system hardening plans. These research findings provide a clear picture of how we improve the resilience of power system infrastructure based on available historical data. This is particularly beneficial for maintaining the energy system reliability as natural disasters become more frequent and as renewable energy rises in the energy mix.</p> <p>&nbsp;</p> <p>The outcomes of this project have been disseminated to other researchers and practitioners by eight journal papers, two conference proceedings, two PhD dissertations, one master thesis and multiple conference presentations. The results of research outcomes are incorporated into the course works: the graduate level course "Optimization under uncertainty" in Oklahoma State University and "Integer Programming" in University of Washington. This project has trained students to utilize advanced stochastic optimization under uncertainty and integer programming techniques to solve upfront power system problems, which accordingly contributes to the professional development of graduate students.</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/30/2021<br>      Modified by: Chaoyue&nbsp;Zhao</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ According to assessments by the National Research Council and the U.S. Global Change Research Program, U.S. energy infrastructure is increasingly vulnerable to severe weather due to the climate change. This project aims to address critical resilience challenges facing our nation’s power system infrastructure under natural disasters or unexpected disruptions. More specifically, we study probabilistic modeling of power grid contingency based on meteorological and historical transmission availability data. Then, we incorporate the data analytics in distributionally robust optimization models to (1) conduct risk assessment analysis, (2) harden pre-disaster power grid, (3) take corrective actions during disasters, and (4) conduct post-disaster self-healing and system restoration.     The research findings of this project include (1) Efficient utilization of available meteorological and transmission data to learn probabilistic models of the contingency probability distribution, (2) Reliable transmission line hardening planning framework to hedge against the risk of uncertain power flows and contingencies injected by the high penetration of renewable energy and extreme weather, (3) Effective distribution system topology plan to enhance the economic operation, resilience, and reliability of the power grid, and (4) Two reliability analysis models to quantify potential risks of having component outages for transmission system hardening plans. These research findings provide a clear picture of how we improve the resilience of power system infrastructure based on available historical data. This is particularly beneficial for maintaining the energy system reliability as natural disasters become more frequent and as renewable energy rises in the energy mix.     The outcomes of this project have been disseminated to other researchers and practitioners by eight journal papers, two conference proceedings, two PhD dissertations, one master thesis and multiple conference presentations. The results of research outcomes are incorporated into the course works: the graduate level course "Optimization under uncertainty" in Oklahoma State University and "Integer Programming" in University of Washington. This project has trained students to utilize advanced stochastic optimization under uncertainty and integer programming techniques to solve upfront power system problems, which accordingly contributes to the professional development of graduate students.          Last Modified: 12/30/2021       Submitted by: Chaoyue Zhao]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

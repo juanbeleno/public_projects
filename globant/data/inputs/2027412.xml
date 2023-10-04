@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Using location-based big-data to model people's mobility patterns during the COVID-19 outbreak]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>82087.00</AwardTotalIntnAmount>
+<AwardAmount>82087</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tom Evans</SignBlockName>
+<PO_EMAI>tevans@nsf.gov</PO_EMAI>
+<PO_PHON>7032924891</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The outbreak of COVID-19 in the U.S. provides an important opportunity for researchers to study the impacts of a rapidly expanding pandemic on human mobility. This research investigates how to measure changes in collective movement of people in response to the fast-evolving COVID-19 outbreak using large datasets of passively collected location data. It examines how locations within a state respond to public policy implementation and times of critical public messaging. Detailed knowledge on movement patterns of people can help public officials identify hotspots and critically isolated populations, as well as shed light on those groups who continue to travel for work or other purposes. This research contributes to improving the public response to an emergency and contributes to bridging different stakeholder mitigation strategies.&lt;br/&gt;&lt;br/&gt;Detailed knowledge of how people respond to a fast-spreading global pandemic is very limited and our understanding of these responses is mostly for small areas. This research will use a near real-time location-based dataset passively collected through the use of location-based apps during the period of pandemic. The project will develop scalable, big location-based algorithms to extract trips and examine the evolution of mobility patterns throughout the pandemic, and identify different mobility patterns. We will develop map-reduce based distributed algorithms to scale up mobility measure calculations based on the big location-based data as well as develop entropy measures to capture the time-varying characteristics associated with the travel patterns, and design strategies to correct biases that may be present in the location data. The methods and results of this research will be useful for understanding mobility during other hazards that affect communities, such as severe flooding to understand how travel is changed as a result of imperatives stemming from both the hazard and policy directives.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/25/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027412</AwardID>
+<Investigator>
+<FirstName>Junchuan</FirstName>
+<LastName>Fan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Junchuan Fan</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcfan@umd.edu]]></EmailAddress>
+<NSF_ID>000823891</NSF_ID>
+<StartDate>04/02/2020</StartDate>
+<EndDate>03/25/2021</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kathleen</FirstName>
+<LastName>Stewart</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kathleen Stewart</PI_FULL_NAME>
+<EmailAddress><![CDATA[stewartk@umd.edu]]></EmailAddress>
+<NSF_ID>000497497</NSF_ID>
+<StartDate>04/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Debbie</FirstName>
+<LastName>Niemeier</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Debbie A Niemeier</PI_FULL_NAME>
+<EmailAddress><![CDATA[niemeier@umd.edu]]></EmailAddress>
+<NSF_ID>000230252</NSF_ID>
+<StartDate>04/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207425103</ZipCode>
+<StreetAddress><![CDATA[LeFrak Hall,7251 Preinkert Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1352</Code>
+<Text>Geography and Spatial Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~82087</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The outbreak of COVID-19 in the U.S. provides an important opportunity for researchers to study the impacts of a rapidly expanding pandemic on human mobility. With the widespread use of location-sensing devices and apps, big location-based data offer new opportunities to study mobility patterns.&nbsp;This RAPID response research project investigates&nbsp;mobility patterns over time and space&nbsp;during the COVID-19 pandemic&nbsp;in three Florida counties including Miami-Dade, Broward, and Palm Beach counties. These counties represent an urban region in the United States that is expanding, and that has a high percentage of populations vulnerable to COVID-19 including Black and Hispanic populations as well as a significant population of individuals over the age of 65, and that have experienced a high number of COVID-19 cases.&nbsp;We use a random forest model to&nbsp;identify and examine explanatory factors and their relative importance for explaining changing patterns of mobility in the context of rising COVID-19 cases during&nbsp;May to July 2020, a period that includes a rapid increase in cases in the region. We analyze origin-destination trips data computed from passively collected mobile device locations by census tract for the study area.&nbsp;We use a random forest model to determine how a set of sociodemographic (age, race and ethnicity), mobility (e.g., social distancing and work travel), and built environment factors (e.g., employment density and street network density), as well as the changing numbers of positive COVID-19 cases may be related to varying levels of mobility across census tracts in this region, as well as the relative importance of each factor with respect to mobility. We examine patterns between counties as well as patterns common to all three counties.&nbsp;From May to mid-June 2020, mobility in these counties is at a level similar to those seen in 2019, and data shows individuals are spending less time staying at home and more time going out to work, and to destinations including dining and social venues. However, as COVID-19 cases rapidly rise in late June 2020, a downward trend in mobility is found where people spend more time at home and make fewer trips to work and to social venues. Prior to this rise in COVID-19 cases, built environment factors and mobility-related factors are ranked high in importance, and as the number of COVID-19 cases begins to increase, these factors continue to rank high in importance. However the random forest model is able to discern that sociodemographic factors including age-related factors as well as the rise in the number of COVID-19 cases also are increasingly important for the movement patterns in these counties, and county differences in rankings of factors are found.&nbsp;Detailed knowledge on emerging mobility patterns can help public officials to identify mobility hotspots and shed light on those groups who continue to travel for work or other purposes. This research contributes to improving the public response to an emergency and contributes to bridging different stakeholder mitigation strategies.</p> <p>&nbsp;</p><br> <p>            Last Modified: 07/01/2022<br>      Modified by: Kathleen&nbsp;Stewart</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The outbreak of COVID-19 in the U.S. provides an important opportunity for researchers to study the impacts of a rapidly expanding pandemic on human mobility. With the widespread use of location-sensing devices and apps, big location-based data offer new opportunities to study mobility patterns. This RAPID response research project investigates mobility patterns over time and space during the COVID-19 pandemic in three Florida counties including Miami-Dade, Broward, and Palm Beach counties. These counties represent an urban region in the United States that is expanding, and that has a high percentage of populations vulnerable to COVID-19 including Black and Hispanic populations as well as a significant population of individuals over the age of 65, and that have experienced a high number of COVID-19 cases. We use a random forest model to identify and examine explanatory factors and their relative importance for explaining changing patterns of mobility in the context of rising COVID-19 cases during May to July 2020, a period that includes a rapid increase in cases in the region. We analyze origin-destination trips data computed from passively collected mobile device locations by census tract for the study area. We use a random forest model to determine how a set of sociodemographic (age, race and ethnicity), mobility (e.g., social distancing and work travel), and built environment factors (e.g., employment density and street network density), as well as the changing numbers of positive COVID-19 cases may be related to varying levels of mobility across census tracts in this region, as well as the relative importance of each factor with respect to mobility. We examine patterns between counties as well as patterns common to all three counties. From May to mid-June 2020, mobility in these counties is at a level similar to those seen in 2019, and data shows individuals are spending less time staying at home and more time going out to work, and to destinations including dining and social venues. However, as COVID-19 cases rapidly rise in late June 2020, a downward trend in mobility is found where people spend more time at home and make fewer trips to work and to social venues. Prior to this rise in COVID-19 cases, built environment factors and mobility-related factors are ranked high in importance, and as the number of COVID-19 cases begins to increase, these factors continue to rank high in importance. However the random forest model is able to discern that sociodemographic factors including age-related factors as well as the rise in the number of COVID-19 cases also are increasingly important for the movement patterns in these counties, and county differences in rankings of factors are found. Detailed knowledge on emerging mobility patterns can help public officials to identify mobility hotspots and shed light on those groups who continue to travel for work or other purposes. This research contributes to improving the public response to an emergency and contributes to bridging different stakeholder mitigation strategies.          Last Modified: 07/01/2022       Submitted by: Kathleen Stewart]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

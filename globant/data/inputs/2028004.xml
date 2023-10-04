@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative: Transfer Learning Techniques for Better Response to COVID-19 in the US]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Von Lehmen</SignBlockName>
+<PO_EMAI>avonlehm@nsf.gov</PO_EMAI>
+<PO_PHON>7032924756</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project will use available data sets for COVID-19 in other countries, and in NYC, Virginia, and Maryland to build compartmental and metapopulation models to quantify the events that transpired there, and what interventions at various stages may have achieved. This will permit gaining control of future situations earlier.  The epidemic models developed during this project will lead to innovations in computational epidemiology and enable approaches that mitigate the negative effects of COVID-19 on public health, society, and the economy.&lt;br/&gt;&lt;br/&gt;Based on publicly available data sets for COVID-19 in other countries, and in NYC, Virginia, and Maryland, the researchers propose to build compartmental and metapopulation models to quantify the events that transpired there, understand the impacts of interventions at various stages, and develop optimal strategies for containing the pandemic. The basic model will subdivide the population into classes according to age, gender, and infectious status; examine the impact of the quarantine that was imposed; and then consider additional strategies that could have been imposed, in particular to reduce contact rates.  The project will apply and extend the approach of "transfer learning" to this problem.  The research team is well positioned to conduct this research; they have a long history of experience tracking and modeling infectious disease spread (e.g., Ebola, SARS) and are already participating in the CDC forecasting challenge for COVID-19.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028004</AwardID>
+<Investigator>
+<FirstName>Bryan</FirstName>
+<LastName>Lewis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bryan Lewis</PI_FULL_NAME>
+<EmailAddress><![CDATA[brylew@virginia.edu]]></EmailAddress>
+<NSF_ID>000610286</NSF_ID>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jiangzhuo</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jiangzhuo Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[chenj@virginia.edu]]></EmailAddress>
+<NSF_ID>000105713</NSF_ID>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Madhav</FirstName>
+<LastName>Marathe</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Madhav V Marathe</PI_FULL_NAME>
+<EmailAddress><![CDATA[mvm7hz@virginia.edu]]></EmailAddress>
+<NSF_ID>000148286</NSF_ID>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Srinivasan</FirstName>
+<LastName>Venkatramanan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Srinivasan Venkatramanan</PI_FULL_NAME>
+<EmailAddress><![CDATA[srini@virginia.edu]]></EmailAddress>
+<NSF_ID>000823949</NSF_ID>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>1001 EMMET ST N</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Rector and Visitors of the University of Virginia]]></Name>
+<CityName>Charlottesville</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229044195</ZipCode>
+<StreetAddress><![CDATA[1001 Emmet Street North]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~25000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-36ae123e-7fff-5da1-0c70-27d4e40f39e2">&nbsp;</span></p> <p dir="ltr"><span>The Collaborative RAPID project &ldquo;Transfer Learning Techniques for Better Response to COVID-19&rdquo; sought to understand how the COVID-19 pandemic evolved in various parts of the world, and to see if experiences in one region could lead to better intervention strategies in another region. We anticipate the release of open source datasets we have developed that would be of use to the broader research and academic communities. And in a more expansive way, we sought to comprehend long term COVID-19 dynamics.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>In the execution of this project, we generated the following outcomes.</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>Our team has developed new AI-driven forecasting methods</span></p> </li> </ul> <ul> <li dir="ltr"> <p dir="ltr"><span>We have developed new agent-based models to study the complicated issues arising in the study of COVID-19 dynamics</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We have made significant progress in understanding the role of networks in reducing overall transmissions in a population</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We have developed methods that can lead to improved forecasts for COVID-19 dynamics, and have shared these forecasts with the CDC as part of the forecasting hub initiative</span></p> </li> </ul> <p>&nbsp;</p> <p dir="ltr"><span>The project has made the following lasting impacts on public health:</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>Our work has led to a better understanding of the role of networks in the transmission and control of epidemics, specifically herd immunity; our results shed new light on this important topic</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We are continuing to support the CDC as they respond to the COVID-19 pandemic via participation in the Forecasting Hub and the Scenario Hub; results were briefed to the national COVID-19 task force</span></p> </li> </ul> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/27/2021<br>      Modified by: Madhav&nbsp;V&nbsp;Marathe</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   The Collaborative RAPID project "Transfer Learning Techniques for Better Response to COVID-19" sought to understand how the COVID-19 pandemic evolved in various parts of the world, and to see if experiences in one region could lead to better intervention strategies in another region. We anticipate the release of open source datasets we have developed that would be of use to the broader research and academic communities. And in a more expansive way, we sought to comprehend long term COVID-19 dynamics.    In the execution of this project, we generated the following outcomes.   Our team has developed new AI-driven forecasting methods     We have developed new agent-based models to study the complicated issues arising in the study of COVID-19 dynamics   We have made significant progress in understanding the role of networks in reducing overall transmissions in a population   We have developed methods that can lead to improved forecasts for COVID-19 dynamics, and have shared these forecasts with the CDC as part of the forecasting hub initiative      The project has made the following lasting impacts on public health:   Our work has led to a better understanding of the role of networks in the transmission and control of epidemics, specifically herd immunity; our results shed new light on this important topic   We are continuing to support the CDC as they respond to the COVID-19 pandemic via participation in the Forecasting Hub and the Scenario Hub; results were briefed to the national COVID-19 task force               Last Modified: 09/27/2021       Submitted by: Madhav V Marathe]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

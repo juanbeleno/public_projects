@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: COVID: Optofluidic sensor array for rapid and sensitive detection of COVID-19 antibodies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>149225.00</AwardTotalIntnAmount>
+<AwardAmount>149225</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Svetlana Tatic-Lucic</SignBlockName>
+<PO_EMAI>staticlu@nsf.gov</PO_EMAI>
+<PO_PHON>7032924627</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[COVID-19 has caused tens of thousands of deaths and is becoming a severe threat to global health. One of the methods to detect COVID-19 infection, track the treatment effectiveness, and validate successful vaccination, is to measure the antibodies developed in human bodies. Unfortunately, current antibody detection relies on either complicated instruments in a centralized lab which is expensive and takes a long time to get the results, or a paper-based test strip, which, while quick (5-20 minutes), produces only Yes/No results, making this method very easy to generate false positives/negative and impossible to track the patients’ response to infection, treatment, and vaccination. Therefore, a portable device that can rapidly, sensitively, and accurately measure multiple COVID-19 related antibodies is urgently needed to diagnose early infection and monitoring patients’ response. The device in the project is based on a portable microfluidic system to rapidly, accurately, and sensitively measure the antibodies in blood at point-of-care, which allows for the detection of COVID-19 infection and tracking of antibody development in human bodies.&lt;br/&gt;&lt;br/&gt;The objective of the project is to combine microfluidic laser technology and microfluidic ELISA (enzyme-linked immunosorbent assay) technology to develop rapid and highly sensitive sensor array for multiplexed detection of COVID-19 related IgG and IgM using fingertip blood. There are three tasks: (1) to develop a microfluidic chip to extract serum from whole blood; (2) to integrate the laser sensing technology with traditional fluorescence ELISA to sensitively detect antibodies (IgG and IgM) with a large dynamic range; (3) to test with artificially spiked samples. The device provides the following advantages. (1) Quick turn-around time. It is highly portable and can be used to rapidly screen patients on-site, rather than sending samples to centralized labs. (2) Highly quantitative. This is critical to significantly reducing the false positives/negatives and monitoring the patients’ infection trajectories and response to treatment and vaccination. (3) Highly sensitive and large dynamic range. Combined with the lasing technology, we expect to improve the antibody detection limit 10X with 10X larger dynamic range. Higher sensitivity enables earlier diagnosis of infection, preventing wide disease spread from those asymptomatic patients. A large dynamic range enables to easily track patients’ antibody evolution over time. (4) Highly versatile. The device can be adapted to rapidly detect cytokine release syndrome (CRS), which is one of the death causes in COVID-19 patients.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029484</AwardID>
+<Investigator>
+<FirstName>Xudong</FirstName>
+<LastName>Fan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xudong Fan</PI_FULL_NAME>
+<EmailAddress><![CDATA[xsfan@umich.edu]]></EmailAddress>
+<NSF_ID>000434677</NSF_ID>
+<StartDate>04/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481092110</ZipCode>
+<StreetAddress><![CDATA[2158 Lurie Biomedical Engineerin]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>104E</Code>
+<Text>MEMS/NEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~149225</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project is to develop rapid and highly sensitive sensor array for detection of COVID-19 related antibodies.</p> <p>Through the project we developed the rapid assays for two types of COVID-19 related antibody. The first type is IgG, which indicates the infection of COVID-19 and the second type is called neutralizing antibody, which indicates the level of protection a patient acquires through infection or vaccine.</p> <p>In collaboration with Hackensack Meridian Health Hospital, we measured the abundance of IgG in nineteen COVID-19 patients in only 15 minutes. Due to the availability of the calibration standard and the large dynamic range of our assay, we were able to identify "qualified donors" for convalescent serum therapy with only one fixed dilution factor (200?). Further, in collaboration with MedRite (urgent care center in New York) and Optofluidic Bioassay, we completed a larger scale testing on approximately 100 people (~100) who did IgG testing at MedRite and then compared our results with those obtained by the third-party companies such as LabCorp and Quest Diagnostics. Again, our method shows detection of IgG in 20 min with a turn-around time of only 1-2 hours, much shorter than a few days when sending the samples to LabCorp or Quest Diagnosis</p> <p>Next, in collaboration with Prof. Pete Tessier's group at the University of Michigan, we conducted&nbsp;COVID-19 neutralizing antibody detection, as it becomes more important when more and more people have got antibody via vaccination or actual infection. Nobody knows the protection period and the efficacy of the vaccines. Our method provides a rapid evaluation of the protection level an individual may have.</p> <p>To date, we have published two peer-reviewed papers based on the outcomes from the project. The technology is in the process to translate to a start-up company for potential commercialization. In addition, we added a section in our class (BME 561) to discuss all different technologies available to detect COVID-19, including RT-PCR, antibody detection, antigen detection, neutralizing antibody detection, lateral flow assay, aerosol detection, surface-enhanced Raman spectroscopy, and breath analysis, etc. The method and technologies developed under this NSF project were also presented and discussed to show students how the improvement in technologies can help save lives.</p> <p>&nbsp;</p><br> <p>            Last Modified: 05/02/2022<br>      Modified by: Xudong&nbsp;Fan</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2029484/2029484_10666685_1651467286866_Figure1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2029484/2029484_10666685_1651467286866_Figure1--rgov-800width.jpg" title="COVID-19 antibody and antigen detection"><img src="/por/images/Reports/POR/2022/2029484/2029484_10666685_1651467286866_Figure1--rgov-66x44.jpg" alt="COVID-19 antibody and antigen detection"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Graphical illustrations of the COVID-19 related immunoassays performed with our microfluidic chemiluminescent ELISA platform. (A) Affinity evaluation of calibration antibodies. (B) detection of COVID-19 antibody IgG. (C) detection of COVID-19 antigen</div> <div class="imageCredit">Xudong Fan</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Xudong&nbsp;Fan</div> <div class="imageTitle">COVID-19 antibody and antigen detection</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2029484/2029484_10666685_1651467719405_Figure2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2029484/2029484_10666685_1651467719405_Figure2--rgov-800width.jpg" title="COVID-19 neutralizing antibody assay"><img src="/por/images/Reports/POR/2022/2029484/2029484_10666685_1651467719405_Figure2--rgov-66x44.jpg" alt="COVID-19 neutralizing antibody assay"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(Top) Photo of the chemiluminescence sensor array using in the experiment. (Bottom) Schematic of rapid in-vitro COVID-19 neutralizing antibody assay</div> <div class="imageCredit">Xudong Fan</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Xudong&nbsp;Fan</div> <div class="imageTitle">COVID-19 neutralizing antibody assay</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The project is to develop rapid and highly sensitive sensor array for detection of COVID-19 related antibodies.  Through the project we developed the rapid assays for two types of COVID-19 related antibody. The first type is IgG, which indicates the infection of COVID-19 and the second type is called neutralizing antibody, which indicates the level of protection a patient acquires through infection or vaccine.  In collaboration with Hackensack Meridian Health Hospital, we measured the abundance of IgG in nineteen COVID-19 patients in only 15 minutes. Due to the availability of the calibration standard and the large dynamic range of our assay, we were able to identify "qualified donors" for convalescent serum therapy with only one fixed dilution factor (200?). Further, in collaboration with MedRite (urgent care center in New York) and Optofluidic Bioassay, we completed a larger scale testing on approximately 100 people (~100) who did IgG testing at MedRite and then compared our results with those obtained by the third-party companies such as LabCorp and Quest Diagnostics. Again, our method shows detection of IgG in 20 min with a turn-around time of only 1-2 hours, much shorter than a few days when sending the samples to LabCorp or Quest Diagnosis  Next, in collaboration with Prof. Pete Tessier's group at the University of Michigan, we conducted COVID-19 neutralizing antibody detection, as it becomes more important when more and more people have got antibody via vaccination or actual infection. Nobody knows the protection period and the efficacy of the vaccines. Our method provides a rapid evaluation of the protection level an individual may have.  To date, we have published two peer-reviewed papers based on the outcomes from the project. The technology is in the process to translate to a start-up company for potential commercialization. In addition, we added a section in our class (BME 561) to discuss all different technologies available to detect COVID-19, including RT-PCR, antibody detection, antigen detection, neutralizing antibody detection, lateral flow assay, aerosol detection, surface-enhanced Raman spectroscopy, and breath analysis, etc. The method and technologies developed under this NSF project were also presented and discussed to show students how the improvement in technologies can help save lives.          Last Modified: 05/02/2022       Submitted by: Xudong Fan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

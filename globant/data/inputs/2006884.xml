@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Singularities and Error Bounds for Hyperbolic Equations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>356701.00</AwardTotalIntnAmount>
+<AwardAmount>356701</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Euler equations, introduced in 1755, provide a basic mathematical description of the motion of fluids. While these equations are now extensively used in physics and engineering, some fundamental theoretical issues have remained unsolved. An outstanding open question is whether this model is deterministic. In other words, knowing the present configuration of a fluid, under which conditions can we uniquely predict its future behavior? Recent numerical experiments, performed by the principal investigator and collaborators, have identified certain initial states of the fluid which lead to multiple solutions. The present project will investigate the basic mechanism for which Euler's equations may fail to determine a unique solution. Specific examples will be studied, containing one or more spiraling vortices, to understand whether a similar loss of uniqueness occurs for compressible as well as incompressible fluid flow. The analysis will be carried out by a combination of theoretical and computational techniques. Rigorous estimates will be derived on the difference between a numerically computed approximation and the corresponding exact solution. The project will provide a training ground for various graduate students and young researchers.&lt;br/&gt;&lt;br/&gt;This project will investigate singularities of solutions to nonlinear wave equations. In particular, the analysis will focus on a class of initial value problems for the Euler equations modeling a two-dimensional, inviscid, compressible, or incompressible fluid flow. Based on recent numerical simulations conducted by the PI and collaborators, initial data having an  algebraic singularity at the origin are expected to provide the simplest examples of Cauchy problems with multiple solutions, thus revealing a fundamental obstruction toward the well-posedness of the governing equations. This analysis will be carried out by a combination of theoretical and computational techniques. In a neighborhood of a spiraling vortex singularity, the solution will be studied by a suitable transformation of variables. On a domain where the solution is smooth, rigorous a posteriori error bounds for the numerical approximations will be derived. A related project will seek a posteriori error bounds for discrete numerical schemes, such as the Lax-Friedrichs and the Godunov scheme, in the computation of entropy-weak solutions to one-dimensional hyperbolic systems of conservation laws.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006884</AwardID>
+<Investigator>
+<FirstName>Alberto</FirstName>
+<LastName>Bressan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alberto Bressan</PI_FULL_NAME>
+<EmailAddress><![CDATA[bressan@math.psu.edu]]></EmailAddress>
+<NSF_ID>000416341</NSF_ID>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>201 OLD MAIN</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>University park</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168027000</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_PERF>PA"</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~356701</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1">Hyperbolic conservation laws provide the basic mathematical models in continuum physics. A primary example are the Euler equations of gas dynamics, accounting for<span>&nbsp; </span>the conservation of mass, momentum and energy.</p> <p class="p2">&nbsp;A distinguished feature of these equations is that solutions are not always smooth, but&nbsp; can develop singularities in finite time.&nbsp; In practice, these are often associated to the emergence of shock waves.</p> <p class="p1">Much of the difficulty encountered in the analysis and in the numerical solution of these equations stems from this lack of regularity. <span>&nbsp; </span>Indeed, when solutions are not smooth the performance of numerical methods is degraded. In some cases the equations may not even determine a unique solution forward in time.</p> <p class="p2">&nbsp;Aim of this project was to provide a better understanding of these issues,&nbsp;in three main directions.</p> <p class="p2">&nbsp;1. For the 2-dimensional Euler equations, the PI has identified some "simplest possible" examples of initial data leading to non-unique solutions forward in time. Several numerical simulations have been performed, first in the case of an incompressible fluid, then also for a compressible isentropic gas.&nbsp; &nbsp;In several cases, they show the presence of two distinct solutions for the same initial data. One of these solutions contains a single vortex spiral, while the second contains two separate spirals. &nbsp; Some theoretical analysis has also been performed, toward a rigorous validation of the numerical simulations.</p> <p class="p2">&nbsp;2. For some nonlinear wave equations, a detailed asymptotic analysis was performed of how new singularities arise, and how they interact with each other. Specifically, this was achieved for the so-called "Burgers-Hilbert" equation and for the 2-dimensional equations of pressureless gases.&nbsp; These results are of interest not only by themselves but also because, in the process, new geometrical tools have been developed that can now be applied to a variety of similar equations.</p> <p class="p2">&nbsp;3. For solutions to systems of conservation laws in one space dimension, a very general uniqueness theorem was proved in 2023 by the PI and collaborators. &nbsp; It applies to any weak solution with bounded total variation whose shocks satisfy the so-called "Liu admissibility condition". Indeed, it is now confirmed that any such solution coincides with the unique limit of vanishing viscosity approximations. &nbsp; &nbsp; This new uniqueness result represents a major advance, closing a gap in the basic theory that had remained open for over 20 years.&nbsp; It also has important consequences for the convergence of numerical schemes.&nbsp; &nbsp;</p> <p class="p2">During the first year of this project, the PI has proved some a posteriori error bounds, estimating the distance between the exact solution and a numerically computed one. These bounds apply to general weak solutions, possibly containing an arbitrary number of shocks. &nbsp; However, they require information about the the total strength of waves present in the approximate solution, and also on the location of wave fronts. For this reason, a "post processing" algorithm was needed. &nbsp; On the other hand, the most recent uniqueness results indicate that a "universal convergence rate" can be achieved, regardless of the location of wave fronts. This will further impact the field, opening new research directions.</p> <p class="p2">The research project has provided training for one graduate student and one postdoc at Penn State, and several young researchers. The results have now appeared in 9 papers, all available on arXiv and on the PI's web page.&nbsp; &nbsp;</p> <p class="p2">&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/05/2023<br>      Modified by: Alberto&nbsp;Bressan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[Hyperbolic conservation laws provide the basic mathematical models in continuum physics. A primary example are the Euler equations of gas dynamics, accounting for  the conservation of mass, momentum and energy.  A distinguished feature of these equations is that solutions are not always smooth, but  can develop singularities in finite time.  In practice, these are often associated to the emergence of shock waves. Much of the difficulty encountered in the analysis and in the numerical solution of these equations stems from this lack of regularity.   Indeed, when solutions are not smooth the performance of numerical methods is degraded. In some cases the equations may not even determine a unique solution forward in time.  Aim of this project was to provide a better understanding of these issues, in three main directions.  1. For the 2-dimensional Euler equations, the PI has identified some "simplest possible" examples of initial data leading to non-unique solutions forward in time. Several numerical simulations have been performed, first in the case of an incompressible fluid, then also for a compressible isentropic gas.   In several cases, they show the presence of two distinct solutions for the same initial data. One of these solutions contains a single vortex spiral, while the second contains two separate spirals.   Some theoretical analysis has also been performed, toward a rigorous validation of the numerical simulations.  2. For some nonlinear wave equations, a detailed asymptotic analysis was performed of how new singularities arise, and how they interact with each other. Specifically, this was achieved for the so-called "Burgers-Hilbert" equation and for the 2-dimensional equations of pressureless gases.  These results are of interest not only by themselves but also because, in the process, new geometrical tools have been developed that can now be applied to a variety of similar equations.  3. For solutions to systems of conservation laws in one space dimension, a very general uniqueness theorem was proved in 2023 by the PI and collaborators.   It applies to any weak solution with bounded total variation whose shocks satisfy the so-called "Liu admissibility condition". Indeed, it is now confirmed that any such solution coincides with the unique limit of vanishing viscosity approximations.     This new uniqueness result represents a major advance, closing a gap in the basic theory that had remained open for over 20 years.  It also has important consequences for the convergence of numerical schemes.    During the first year of this project, the PI has proved some a posteriori error bounds, estimating the distance between the exact solution and a numerically computed one. These bounds apply to general weak solutions, possibly containing an arbitrary number of shocks.   However, they require information about the the total strength of waves present in the approximate solution, and also on the location of wave fronts. For this reason, a "post processing" algorithm was needed.   On the other hand, the most recent uniqueness results indicate that a "universal convergence rate" can be achieved, regardless of the location of wave fronts. This will further impact the field, opening new research directions. The research project has provided training for one graduate student and one postdoc at Penn State, and several young researchers. The results have now appeared in 9 papers, all available on arXiv and on the PI's web page.               Last Modified: 09/05/2023       Submitted by: Alberto Bressan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

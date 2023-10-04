@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Divergence-Free Hybridizable Discontinuous Galerkin Methods for the Incompressible Navier-Stokes Equations on Moving Domains and Their Application to Fluid-Structure Interaction]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>263507.00</AwardTotalIntnAmount>
+<AwardAmount>263507</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Fluid-structure interaction (FSI) problems can occur in many fields of engineering, and are a crucial consideration in the design of many systems, such as stability and response of aircraft wings in the aerospace industry, flow of blood through arteries in biomedical applications, and response of bridges and tall buildings to winds in civil engineering. These problems are often too complex to solve analytically and so they have to be analyzed by means of numerical simulations. Efficient, accurate, and robust numerical methods to solve FSI problems are of fundamental importance to these applications. In this project, the PI will concentrate his efforts on the development, analysis, and implementation of high-order strongly mass-conserving finite element methods for incompressible flow problems on moving domains and their application to FSI problems. This project provides research training opportunities for graduate students.&lt;br/&gt;&lt;br/&gt;The PI will (1) develop a novel divergence-free hybridizable discontinuous Galerkin (div-free-HDG) scheme for the incompressible Navier-Stokes (INS) equations on moving domains using the Arbitrary Lagrangian-Eulerian (ALE) framework, (2) extend the ALE-div-free-HDG fluid solver to moving-domain FSI problems that model the interaction of incompressible fluids with compressible or incompressible hyperelastic structures. The div-free-HDG scheme for INS on fixed meshes enjoys features such as higher-order accuracy, global and local conservation properties, energy-stability, pressure robustness, minimal amount of numerical dissipation and computational efficiency. The extension of the div-free-HDG scheme to moving domain problems within the ALE framework poses further theoretical and numerical challenges due to the divergence-conforming velocity finite element space used therein. The PI will use a novel alternative formulation of the div-free-HDG scheme, which does not require the divergence conformity of the velocity finite element space, that can be efficiently adapted to the ALE framework for moving domain INS and FSI problems. This work will be the first systematic study of ALE strongly mass-conserving finite element methods for moving domain INS and FSI problems. Rigorous stability analysis will be derived for the methods and their convergence properties will be investigated. Various strategies to further improve the efficiency of these schemes will be studied.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012031</AwardID>
+<Investigator>
+<FirstName>Guosheng</FirstName>
+<LastName>Fu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guosheng Fu</PI_FULL_NAME>
+<EmailAddress><![CDATA[gfu@nd.edu]]></EmailAddress>
+<NSF_ID>000816142</NSF_ID>
+<StartDate>06/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465565708</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>940 Grace Hall</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FPU6XGFXMBE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NOTRE DAME DU LAC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KKBMKNFZ5PJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Notre Dame]]></Name>
+<CityName>Notre Dame</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>465565708</ZipCode>
+<StreetAddress><![CDATA[940 Grace Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~85616</FUND_OBLG>
+<FUND_OBLG>2021~87813</FUND_OBLG>
+<FUND_OBLG>2022~90078</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Over the course of this NSF-funded project, significant research outcomes were achieved, leading to the publication of 17 journal papers. These papers covered a wide range of topics, including the development of efficient structure-preserving finite element schemes for various partial differential equations (PDEs), with a specific focus on FSI and related multiphysics problems. Furthermore, the project conducted an in-depth investigation into the development of robust preconditioning strategies tailored to the linear systems that emerge within these simulations. This endeavor resulted in the formulation of optimal geometric and algebraic multigrid preconditioners specifically designed for structure-preserving HDG discretizations. This systematic exploration of robust preconditioners, spanning diverse partial differential equations such as Darcy flow, linear elasticity, and incompressible Navier-Stokes equations, is poised to become a cornerstone in the efficient implementation of this class of numerical schemes.</p> <p><br />The outcomes of this project have the potential to strongly impact the field of structure-preserving numerical simulations for PDEs in general, and FSI problems on moving domains in particular. The developed high-order mass-conserving finite element methods for fluid flows not only enhance accuracy but also does not comprise in computational efficiency compared with existing works. These advancements are poised to benefit multiple engineering disciplines, including aerospace, biomedical, and civil engineering, where multiphysics and FSI simulations are critical for design and analysis.</p><br> <p>            Last Modified: 09/04/2023<br>      Modified by: Guosheng&nbsp;Fu</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Over the course of this NSF-funded project, significant research outcomes were achieved, leading to the publication of 17 journal papers. These papers covered a wide range of topics, including the development of efficient structure-preserving finite element schemes for various partial differential equations (PDEs), with a specific focus on FSI and related multiphysics problems. Furthermore, the project conducted an in-depth investigation into the development of robust preconditioning strategies tailored to the linear systems that emerge within these simulations. This endeavor resulted in the formulation of optimal geometric and algebraic multigrid preconditioners specifically designed for structure-preserving HDG discretizations. This systematic exploration of robust preconditioners, spanning diverse partial differential equations such as Darcy flow, linear elasticity, and incompressible Navier-Stokes equations, is poised to become a cornerstone in the efficient implementation of this class of numerical schemes.   The outcomes of this project have the potential to strongly impact the field of structure-preserving numerical simulations for PDEs in general, and FSI problems on moving domains in particular. The developed high-order mass-conserving finite element methods for fluid flows not only enhance accuracy but also does not comprise in computational efficiency compared with existing works. These advancements are poised to benefit multiple engineering disciplines, including aerospace, biomedical, and civil engineering, where multiphysics and FSI simulations are critical for design and analysis.       Last Modified: 09/04/2023       Submitted by: Guosheng Fu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

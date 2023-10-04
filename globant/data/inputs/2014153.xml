@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Software Defined Networking with Partially Ordered Multipath Routing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>217973.00</AwardTotalIntnAmount>
+<AwardAmount>217973</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be a new network architecture to improve the internet. Its original connectionless, packet-switched architecture was a departure from the traditional circuit-switched model and involved significant risks. To manage these risks, the original design focused on a simple network with smart endpoints. The result was scalable, robust and supported a wide range of communications technologies; however, it is limited in its ability to meet the performance, security, and policy needs of many modern network applications. Overprovisioning and expensive, complex, and fragile add-on technology are required to meet the needs of these new applications and these solutions may not scale This project will provide an enhanced, smart network that is scalable and robust, supporting performance and policy control while making efficient use of network resources. This will improve the next generation of internet applications.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project explores the translation of networking with constraints. In this architecture, performance requirements are expressed as performance constraints, and policy requirements for security, multi-tenancy, and traffic differentiation as Boolean constraints on the resources used for an application. Routing with constraints computes the best set of paths per destination that provide the full range of performance and policies supported by the network, allowing traffic to be sent over paths that meet the needs of applications, and distributing the load more evenly over the network (simulations show a 10x increase in capacity). This approach is more robust because it is implemented as a part of the routing function, directly responding to network changes, and more efficient because it runs on the "native internet," eliminating overlays. Lastly, it improves security by implementing a default-deny communication model and is easier to configure based on its declarative, "what" configuration model. This project is focused on characterizing and mitigating risks remaining in this architecture and demonstrating the feasibility of this approach through the development of an operational proof-of-concept.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/26/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014153</AwardID>
+<Investigator>
+<FirstName>Bradley</FirstName>
+<LastName>Smith</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bradley R Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[brad@curatednetworks.com]]></EmailAddress>
+<NSF_ID>000531883</NSF_ID>
+<StartDate>05/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CURATED NETWORKS, INC</Name>
+<CityName>SANTA CRUZ</CityName>
+<ZipCode>950621988</ZipCode>
+<PhoneNumber>8313453409</PhoneNumber>
+<StreetAddress>1855 ENCINA DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLH7SXLEVPR3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CURATED NETWORKS, INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CURATED NETWORKS, INC]]></Name>
+<CityName>SANTA CRUZ</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950621988</ZipCode>
+<StreetAddress><![CDATA[1855 ENCINA DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~217973</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The goal of this project was to eliminate the need for specialized technology and expensive expertise to configure the advanced network services needed of the Internet to provide the security, performance, and resource control required by modern network applications while making efficient use of network resources. We proposed use of the Curated Multipath Routing (CMR) architecture as a promising approach to achieving this goal. CMR enhances routing to use the <em><strong>best set of paths</strong></em> to each destination, composed of the set of paths that provide the full range of performance and policy supported by the current network, and then forwards traffic over the least congested of these paths that meet the applications requirements.</p> <p>Starting with a "research prototype" that proved the viability of the basic functionality, we proposed to enhance this prototype to implement a "proof of concept" that could be deployed in live networks. In the process we would prove the feasibility of CMR and address the unanswered risks remaining in the prototype. Towards this end we made a number of changes to the prototype in this project. We implemented full support for IPv4 and IPv6 functionality. We implemented management of network resources to support sustained operation of a network. This involved recovering flow table entry (FTE) resources through the use of FTE timeouts ("idle" of "hard" timeouts, depending on the FTE's function), resulting in efficient use of flow table memory. And we added support for topology changes and host mobility. The resulting controller provides the unique capability (to our knowledge) of fine-grained policy control of transparent switching in link layer (i.e. Layer 2) subnets. Lastly, we implemented a web-based graphical user interface that provides a user-friendly interface for configuring network policy and monitoring the controller. We then ported the controller to commercial software-based physical switches. Initial ports were made to commercial switches based on Linux and the Open vSwitch software environment. Given that Linux is the control operating system for many modern network switches, the resulting controller is well positioned for integration into higher-end hardware-based switches.</p> <p>In response to feedback we received in the <em>Beat-the-Odds Bootcamp</em> customer discovery activity, we implemented a number of additional capabilities. We added the ability to prioritize traffic classes. We implemented a REST API to support the control of Boolean variable values from outside the controller. This powerful capability allows policies to be defined that are, basically, parameterized for control by external systems. And we implemented support for partial deployment of Curated switches to provide targeted protection of specific resources in the network (e.g. critical links, special devices, etc.).</p> <p>Lastly, we submitted the resulting controller to an independent test lab (https://cnlabs.in) to obtain a third-party assessment of the system with respect to our functionality and performance claims, and to perform IPv6 conformance testing of the controller. The results were a resounding success. Regarding functionality:</p> <p style="padding-left: 30px;">"<em>Evaluation of NwC features like QoS, Zero Trust, and Network Segregation [Segmentation] - verified to meet expected results. Each of the three features were evaluated independently and not in conjunction with each other. The QoS functionality of NwC effectively selects an appropriate path for different types of network traffic that have distinct bandwidth and delay requirements. The Zero Trust functionality of NwC helps implement access control for users, applications and network zones. The Network Segregation [Segmentation] functionality of NwC provides constraint-based routing in addition to enforcing access control for different zones in a network. Load-balancing selects the path with least amount of traffic, if there are multiple paths that satisfy the flow's constraints. The NwC controller efficiently uses the flow table resources by deleting flow table entries that haven't been used for a period of time.</em>"</p> <p>The controller was shown to support between 4 and 10x the load while providing similar or better performance (in terms of throughput) than traditional network technology for the tested topology (a 4x4 torus), and it largely passed the IPv6 conformance tests (the one area where it failed is due to faults in the underlying Linux environment that will be fixed as Linux is fixed).</p> <p>Societal benefits are many. Fundamentally, CMR provides dramatic improvements in security, efficient use of network resources, reduced complexity to configure advanced network services, and in the performance of network applications. We believe commercialized CMR will dramatically reduce the security threats currently faced by network services, improve the performance of current and future network applications, and reduce the barrier to entry (in terms of required expertise) for advanced network services. As CMR implementations evolve and mature we expect these improvements to result in significant improvements of information security, a democratization of advanced network services due to the improved efficiency and reduced complexity of networks, and improved performance of network applications.</p><br> <p>            Last Modified: 05/24/2022<br>      Modified by: Bradley&nbsp;R&nbsp;Smith</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The goal of this project was to eliminate the need for specialized technology and expensive expertise to configure the advanced network services needed of the Internet to provide the security, performance, and resource control required by modern network applications while making efficient use of network resources. We proposed use of the Curated Multipath Routing (CMR) architecture as a promising approach to achieving this goal. CMR enhances routing to use the best set of paths to each destination, composed of the set of paths that provide the full range of performance and policy supported by the current network, and then forwards traffic over the least congested of these paths that meet the applications requirements.  Starting with a "research prototype" that proved the viability of the basic functionality, we proposed to enhance this prototype to implement a "proof of concept" that could be deployed in live networks. In the process we would prove the feasibility of CMR and address the unanswered risks remaining in the prototype. Towards this end we made a number of changes to the prototype in this project. We implemented full support for IPv4 and IPv6 functionality. We implemented management of network resources to support sustained operation of a network. This involved recovering flow table entry (FTE) resources through the use of FTE timeouts ("idle" of "hard" timeouts, depending on the FTE's function), resulting in efficient use of flow table memory. And we added support for topology changes and host mobility. The resulting controller provides the unique capability (to our knowledge) of fine-grained policy control of transparent switching in link layer (i.e. Layer 2) subnets. Lastly, we implemented a web-based graphical user interface that provides a user-friendly interface for configuring network policy and monitoring the controller. We then ported the controller to commercial software-based physical switches. Initial ports were made to commercial switches based on Linux and the Open vSwitch software environment. Given that Linux is the control operating system for many modern network switches, the resulting controller is well positioned for integration into higher-end hardware-based switches.  In response to feedback we received in the Beat-the-Odds Bootcamp customer discovery activity, we implemented a number of additional capabilities. We added the ability to prioritize traffic classes. We implemented a REST API to support the control of Boolean variable values from outside the controller. This powerful capability allows policies to be defined that are, basically, parameterized for control by external systems. And we implemented support for partial deployment of Curated switches to provide targeted protection of specific resources in the network (e.g. critical links, special devices, etc.).  Lastly, we submitted the resulting controller to an independent test lab (https://cnlabs.in) to obtain a third-party assessment of the system with respect to our functionality and performance claims, and to perform IPv6 conformance testing of the controller. The results were a resounding success. Regarding functionality: "Evaluation of NwC features like QoS, Zero Trust, and Network Segregation [Segmentation] - verified to meet expected results. Each of the three features were evaluated independently and not in conjunction with each other. The QoS functionality of NwC effectively selects an appropriate path for different types of network traffic that have distinct bandwidth and delay requirements. The Zero Trust functionality of NwC helps implement access control for users, applications and network zones. The Network Segregation [Segmentation] functionality of NwC provides constraint-based routing in addition to enforcing access control for different zones in a network. Load-balancing selects the path with least amount of traffic, if there are multiple paths that satisfy the flow's constraints. The NwC controller efficiently uses the flow table resources by deleting flow table entries that haven't been used for a period of time."  The controller was shown to support between 4 and 10x the load while providing similar or better performance (in terms of throughput) than traditional network technology for the tested topology (a 4x4 torus), and it largely passed the IPv6 conformance tests (the one area where it failed is due to faults in the underlying Linux environment that will be fixed as Linux is fixed).  Societal benefits are many. Fundamentally, CMR provides dramatic improvements in security, efficient use of network resources, reduced complexity to configure advanced network services, and in the performance of network applications. We believe commercialized CMR will dramatically reduce the security threats currently faced by network services, improve the performance of current and future network applications, and reduce the barrier to entry (in terms of required expertise) for advanced network services. As CMR implementations evolve and mature we expect these improvements to result in significant improvements of information security, a democratization of advanced network services due to the improved efficiency and reduced complexity of networks, and improved performance of network applications.       Last Modified: 05/24/2022       Submitted by: Bradley R Smith]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

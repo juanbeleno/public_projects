@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: I-AIM: Interpretable Augmented Intelligence for Multiscale Material Discovery]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>357730.00</AwardTotalIntnAmount>
+<AwardAmount>357730</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexis Lewis</SignBlockName>
+<PO_EMAI>alewis@nsf.gov</PO_EMAI>
+<PO_PHON>7032922624</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The ability to model, predict, and improve the mechanical performance of engineering materials such as polymers, composites, and alloys can have a significant impact on manufacturing, with important economic and societal benefits. As advanced computational algorithms and data science approaches become available, they can be harnessed to disrupt the current approaches to materials modeling, and allow for the design and discovery of new high-strength, high-performance materials for manufacturing. Bringing together multidisciplinary teams of researchers can maximize the impact of these new tools and techniques. This Harnessing the Data Revolution Institutes for Data-Intensive Research in Science and Engineering (HDR-I-DIRSE) award supports the conceptualization of an Institute to develop novel data science methods, address fundamental scientific questions of Materials Engineering and Manufacturing, and build such multidisciplinary teams. The project will apply novel data science methods to advance the analysis of large sets of structural data of composite materials and alloys from the atomic scale to correlate with and predict mechanical properties. The methods are based on machine learning techniques and uncertainty quantification, and will help uncover underlying structural features in the materials that determine the properties and performance. The methods and results will help accelerate the development of ultra-high strength and lightweight carbon-based composites for aerospace applications, and multi-element superalloys for more durable engine parts, by navigating in the large possible design space and providing faster predictions than experiments and traditional simulation methods. The project will also lead to new methods and computational algorithms that will become publicly available. The investigators will train graduate and undergraduate students from various disciplines with a focus on engaging women and minorities in STEM fields, develop short courses that integrate novel Materials Science and Engineering applications and Data Science methods, and foster vertical integration of interdisciplinary research from undergraduate students to senior scientists.&lt;br/&gt;&lt;br/&gt;This project aims at building an effective and interpretable learning framework for materials data across scales to solve a major challenge in current data-driven materials design. The combined Materials Science and Data Science approaches will synergistically contribute to the development and use of interpretable and physics-informed data science methodologies to gain new understanding of mechanical properties of polymer composites and alloys, with the potential to be expanded into different property sets and different systems. The PIs will utilize available data efficiently through combination with physical rules and prior knowledge, to develop an interpretable augmented intelligent system to learn principles behind the association of input structures with material properties with uncertainty quantification. The interconnected tasks involve the (1) collection and curation of large amounts of computational and experimental data for polymer/carbon nanotube composites and alloys from open data sources and targeted calculations and experiments, (2) the development of geometric and topological methods incorporating physical principles to generate a better, more sensitive low-dimensional representation of the multidimensional data and characterize the parameter space related to mechanical properties, (3) the development of a Bayesian deep reinforcement learning framework to generate interpretable knowledge graphs that depict the relational knowledge among physical quantities with uncertainty quantification, and (4) the prediction of mechanical properties to reveal design principles to improve materials performance, evaluate and validate the methods, and develop software for dissemination. &lt;br/&gt;&lt;br/&gt;This project is part of the National Science Foundation's Harnessing the Data Revolution (HDR) Big Idea activity and is co-funded by the Division of Civil, Mechanical and Manufacturing Innovation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039794</AwardID>
+<Investigator>
+<FirstName>Yusu</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yusu Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yusuwang@ucsd.edu]]></EmailAddress>
+<NSF_ID>000250744</NSF_ID>
+<StartDate>09/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>9500 GILMAN DRIVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>920930621</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>099Y</Code>
+<Text>HDR-Harnessing the Data Revolu</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~357730</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project has advanced the development of data science tools and effective learning frameworks for materials data and properties at length scales of atoms to microstructures. The project resulted in new machine learning methods based on graph representations to predict mechanical and failure properties of carbon nanostructures and carbon-fiber cross-sections from the 3D atomic structure, using training sets of high quality reactive molecular dynamics simulations. Deep Sets-based models were developed to compute mechanical properties of alloys consisting of multiple different metals, taking advantage of available extensive databases of alloy properties from quantum mechanical simulations by density functional theory. Several new high-entropy alloys with tunable metastability and phase transformations have been discovered using thermodynamic modeling and machine learning. Machine-learned property predictions for these new materials are between 10 and 1000 times faster than using traditional simulation methods and have partially been verified by experimental measurements. Causal discovery methods were further developed to deduce constitutive laws for granular materials, including measures such as void ratio and fabric tensors. Morse graphs generated from micro-CT images with more flexible and robust low-dimensional representation of topology were developed to create a new image-to-prediction workflow for mechanics problems. Advanced methods in Bayesian networks were developed that can be used to decipher relationships among physical variables to infer material laws and accelerate designs. The efforts have created new collaborations and extended multidisciplinary team efforts at the intersection of data science and materials science, as evidenced by publications with authors from diverse backgrounds in computer science, chemistry, materials science, statistics, applied math, and medicine.<br /><br />The results of this project are documented in over 20 peer-reviewed journal or conference articles in interdisciplinary areas, of which several have appeared in top machine learning conferences, statistics, computational, and materials science journals. Broader impacts include new ways to predict mechanical properties of carbon nanostructures, high entropy alloys, plasticity of polycrystals, as well as new developments in graph neural networks, predictions of causal relationships, and sparse regression methods. 8 symposia at national meetings as well as international workshops were organized in project-related areas, as well as a webinar series &ldquo;Data Science for Materials Discovery&rdquo; on Youtube. The project supported the training of more than 10 PhD students and 3 postdocs, who obtained positions in industry, academia, and government laboratories. In addition, multiple undergraduate students and high school students were engaged in summer research programs.</p><br> <p>            Last Modified: 01/31/2023<br>      Modified by: Yusu&nbsp;Wang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The project has advanced the development of data science tools and effective learning frameworks for materials data and properties at length scales of atoms to microstructures. The project resulted in new machine learning methods based on graph representations to predict mechanical and failure properties of carbon nanostructures and carbon-fiber cross-sections from the 3D atomic structure, using training sets of high quality reactive molecular dynamics simulations. Deep Sets-based models were developed to compute mechanical properties of alloys consisting of multiple different metals, taking advantage of available extensive databases of alloy properties from quantum mechanical simulations by density functional theory. Several new high-entropy alloys with tunable metastability and phase transformations have been discovered using thermodynamic modeling and machine learning. Machine-learned property predictions for these new materials are between 10 and 1000 times faster than using traditional simulation methods and have partially been verified by experimental measurements. Causal discovery methods were further developed to deduce constitutive laws for granular materials, including measures such as void ratio and fabric tensors. Morse graphs generated from micro-CT images with more flexible and robust low-dimensional representation of topology were developed to create a new image-to-prediction workflow for mechanics problems. Advanced methods in Bayesian networks were developed that can be used to decipher relationships among physical variables to infer material laws and accelerate designs. The efforts have created new collaborations and extended multidisciplinary team efforts at the intersection of data science and materials science, as evidenced by publications with authors from diverse backgrounds in computer science, chemistry, materials science, statistics, applied math, and medicine.  The results of this project are documented in over 20 peer-reviewed journal or conference articles in interdisciplinary areas, of which several have appeared in top machine learning conferences, statistics, computational, and materials science journals. Broader impacts include new ways to predict mechanical properties of carbon nanostructures, high entropy alloys, plasticity of polycrystals, as well as new developments in graph neural networks, predictions of causal relationships, and sparse regression methods. 8 symposia at national meetings as well as international workshops were organized in project-related areas, as well as a webinar series "Data Science for Materials Discovery" on Youtube. The project supported the training of more than 10 PhD students and 3 postdocs, who obtained positions in industry, academia, and government laboratories. In addition, multiple undergraduate students and high school students were engaged in summer research programs.       Last Modified: 01/31/2023       Submitted by: Yusu Wang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SCC-CIVIC-PG Track A:CaReDeX: Enabling Disaster Resilience in Aging Communities via a  Secure Data Exchange]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>49999.00</AwardTotalIntnAmount>
+<AwardAmount>49999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda Bushnell</SignBlockName>
+<PO_EMAI>lbushnel@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Disasters over the years have shown that a disproportionate number of older adults suffer fatalities and injuries during extreme events. A large number of older adults live in age-friendly communities and senior health facilities (SHFs) that promote independent living.  During a crisis, older adults are often unable to shelter safely in place or evacuate on their own due to a range of physical conditions (need for life-sustaining equipment, impaired mobility) and cognitive afflictions (e.g. dementia, Alzheimer’s). Seamless access to information about the living facilities (e.g., floor plans, operational status, number of residents) and about the residents (e.g.,health conditions such as need for dialysis, oxygen, personal objects to reduce anxiety) can empower first responders to improve response outcomes during disasters. Such information, typically held by caregivers and in the logs maintained by the organizations, is inaccessible and/or unavailable at the time of response.  This proposal seeks to create a novel community contributed data-exchange platform, entitled CareDEX, that will empower organizations to readily assimilate, ingest, store and exchange information, both apriori and in real-time, with response agencies to protect and care for the elderly in extreme events. Using CareDEX, SHFs will be able to share information about an individual’s changing health conditions, their personalized needs and identify those in need of specialized triage and critical care.  Given the sensitive nature of personal information, e.g. health profiles, ability status, CareDEX will incorporate techniques to balance the need for individual privacy with authorized release of information to responders when needed. The pilot 4-month planning effort will involve 2 workshops and a demonstration pilot study that will focus on bringing stakeholders from the emergency response and senior living communities to identify specific information needs, design  protocols for collection and sharing of such data, and explore privacy/security concerns. The workshops and pilot will address simulated emergency scenarios, e.g a wildfire event requiring evacuation of seniors and a complex event when the fire occurs during a pandemic such as Covid19. The goal of the workshops would be to help identify the requirements which will guide the research, design, and development of CareDEX.   The planning workshops will engage a diverse group of students and postdoctoral researchers and thereby contribute to the education of the next generation of citizens in interdisciplinary topics that are relevant to communities worldwide.&lt;br/&gt;&lt;br/&gt;This project is in response to Track B - CIVIC Innovation Challenge - Resilience to Natural Disasters a collaboration with NSF and the Department of Homeland Security.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/28/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2044107</AwardID>
+<Investigator>
+<FirstName>Nikil</FirstName>
+<LastName>Dutt</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nikil D Dutt</PI_FULL_NAME>
+<EmailAddress><![CDATA[dutt@uci.edu]]></EmailAddress>
+<NSF_ID>000207740</NSF_ID>
+<StartDate>01/28/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>LIsa</FirstName>
+<LastName>Gibbs</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>LIsa M Gibbs</PI_FULL_NAME>
+<EmailAddress><![CDATA[lgibbs@hs.uci.edu]]></EmailAddress>
+<NSF_ID>000833844</NSF_ID>
+<StartDate>01/28/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sharad</FirstName>
+<LastName>Mehrotra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sharad Mehrotra</PI_FULL_NAME>
+<EmailAddress><![CDATA[sharad@ics.uci.edu]]></EmailAddress>
+<NSF_ID>000491471</NSF_ID>
+<StartDate>01/28/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julie</FirstName>
+<LastName>Rousseau</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julie M Rousseau</PI_FULL_NAME>
+<EmailAddress><![CDATA[jroussea@hs.uci.edu]]></EmailAddress>
+<NSF_ID>000831574</NSF_ID>
+<StartDate>01/28/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nalini</FirstName>
+<LastName>Venkatasubramanian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nalini Venkatasubramanian</PI_FULL_NAME>
+<EmailAddress><![CDATA[nalini@ics.uci.edu]]></EmailAddress>
+<NSF_ID>000315745</NSF_ID>
+<StartDate>01/28/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>160 ALDRICH HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California, Irvine]]></Name>
+<CityName>Irvine</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>926173213</ZipCode>
+<StreetAddress><![CDATA[Donald Bren Hall Room 2086]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA47</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~49999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-dcb2e985-7fff-b833-c8b0-367f966ac915"> <p dir="ltr"><span>This planning grant pilot addressed a critical national need -- improving the resilience of our aging populations to large disasters. &nbsp; Disasters over the years have shown us that a disproportionate number of older adults suffer fatalities and injuries during extreme events and natural disasters, from hurricanes to wildfires; morbidity and mortality is further increased in multi-hazard situations as we have experienced with the recent COVID-19 pandemic. Older adults living in retirement communities, senior health facilities (SHFs) and congregant living face specific challenges in disaster preparedness.&nbsp; Despite progress in creating age-friendly communities that promote independent living and improve longevity, continuity of care and safety for older adults during disasters is often limited to high-level emergency plans.&nbsp; During a crisis, older adults are often unable to shelter safely in place or evacuate on their own due to a range of physical conditions (need for life-sustaining equipment, impaired mobility) and cognitive afflictions (e.g. dementia, Alzheimer&rsquo;s). The recent COVID-19 events have further exposed the vulnerability of older adults -&nbsp; an added natural disaster during a pandemic requires planning that is both complex and multidimensional, and our pilot identified key areas to increase resilience for older adults.&nbsp;</span></p> <p dir="ltr"><span>This 4-month pilot initiated an effort to create information preparedness to help build disaster resilience for our aging communities.&nbsp; Seamless access to information about the living facilities&nbsp;(e.g., floor plans, operational status, number of residents) and about the residents and their changing situations &nbsp;(e.g., health conditions such as the need for dialysis, oxygen, personal objects to reduce anxiety) is typically held by caregivers at the SHF, and can empower first responders to improve response outcomes and safe evacuations during disasters. Our driving vision in our pilot was to create situational awareness for first responders using community-contributed information using emerging IoT and big data technologies.&nbsp; Acquisition and timely access of situational information about the facility (floor plans, operational status) and&nbsp; its individuals ( health profiles, care instructions) can guide responders to triage, shelter-in-place or evacuate our seniors appropriately, transforming eventual outcomes.&nbsp;</span></p> <p dir="ltr"><span>Building on past experience with disaster resilience, geriatric medicine and smart community efforts, this project launched a pilot effort by bringing together an interdisciplinary group of stakeholders (computer scientists, disaster response experts, experts in geriatric medicine and nursing, first response agencies, senior care facility partners) to address a data-centric approach to disaster resilience for the aging. The 4-month planning effort involved many focus group meetings, 2 workshops, and a demonstration pilot study, Key steps taken during the planning grant and insights that helped refine the CAREDEX vision are listed below.&nbsp;</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>Multisector Needs Assessment through Workshops with First Responders and Congregant Living Partners.&nbsp; 2&nbsp; workshops helped bring experiences and concerns from the emergency response and senior living side regarding specific information needs,&nbsp; the need to design protocols for collection and sharing of care data, and techniques to mitigate privacy concerns.&nbsp;&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Design of an initial prototype digital twin for Walnut Village,&nbsp; our partner older adult residential community, a Front Porch Senior Living community in Anaheim, CA.&nbsp; The needs assessment workshops helped us crystallize key factors to guide the research, design, and development of CareDEX.&nbsp;&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Mock Scenario Design to validate the CAREDEX platform:&nbsp; &nbsp;Working with our emergency response civic partners, the Fire Protection Research Foundation, we designed an initial simulated mock emergency scenario - a large WUI fire event with the evacuation of seniors.&nbsp; In addition to illustrating information views that would be useful in this scenario, it enabled us to refine our next stage of development and testing.</span></p> </li> <li dir="ltr"> <p dir="ltr">Multisector team formation. We developed and enhanced connections to build a multidisciplinary research and civic partner team towards the next stage of the project.&nbsp;</p> </li> </ul> <p dir="ltr"><span>From a broader impacts perspective, the planning award illustrated the increasing need to protect older adults due to changing demographics in the US (and elsewhere) that points to a&nbsp; significant rise in the population of older adults.&nbsp; The potential for information preparedness through emerging Iot and data technologies in multi hazard settings is enormous -&nbsp; from hurricanes, tornados, blizzards, tsunamis, power outages, and other unpredictable disasters both now and in the future.&nbsp; The planning grant involved Ph.D., MS, and undergraduate students at UCI who gained experience related to disaster resilience for our vulnerable populations.</span></p> <div></div> </span></p><br> <p>            Last Modified: 02/08/2022<br>      Modified by: Nalini&nbsp;Venkatasubramanian</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This planning grant pilot addressed a critical national need -- improving the resilience of our aging populations to large disasters.   Disasters over the years have shown us that a disproportionate number of older adults suffer fatalities and injuries during extreme events and natural disasters, from hurricanes to wildfires; morbidity and mortality is further increased in multi-hazard situations as we have experienced with the recent COVID-19 pandemic. Older adults living in retirement communities, senior health facilities (SHFs) and congregant living face specific challenges in disaster preparedness.  Despite progress in creating age-friendly communities that promote independent living and improve longevity, continuity of care and safety for older adults during disasters is often limited to high-level emergency plans.  During a crisis, older adults are often unable to shelter safely in place or evacuate on their own due to a range of physical conditions (need for life-sustaining equipment, impaired mobility) and cognitive afflictions (e.g. dementia, Alzheimer’s). The recent COVID-19 events have further exposed the vulnerability of older adults -  an added natural disaster during a pandemic requires planning that is both complex and multidimensional, and our pilot identified key areas to increase resilience for older adults.  This 4-month pilot initiated an effort to create information preparedness to help build disaster resilience for our aging communities.  Seamless access to information about the living facilities (e.g., floor plans, operational status, number of residents) and about the residents and their changing situations  (e.g., health conditions such as the need for dialysis, oxygen, personal objects to reduce anxiety) is typically held by caregivers at the SHF, and can empower first responders to improve response outcomes and safe evacuations during disasters. Our driving vision in our pilot was to create situational awareness for first responders using community-contributed information using emerging IoT and big data technologies.  Acquisition and timely access of situational information about the facility (floor plans, operational status) and  its individuals ( health profiles, care instructions) can guide responders to triage, shelter-in-place or evacuate our seniors appropriately, transforming eventual outcomes.  Building on past experience with disaster resilience, geriatric medicine and smart community efforts, this project launched a pilot effort by bringing together an interdisciplinary group of stakeholders (computer scientists, disaster response experts, experts in geriatric medicine and nursing, first response agencies, senior care facility partners) to address a data-centric approach to disaster resilience for the aging. The 4-month planning effort involved many focus group meetings, 2 workshops, and a demonstration pilot study, Key steps taken during the planning grant and insights that helped refine the CAREDEX vision are listed below.    Multisector Needs Assessment through Workshops with First Responders and Congregant Living Partners.  2  workshops helped bring experiences and concerns from the emergency response and senior living side regarding specific information needs,  the need to design protocols for collection and sharing of care data, and techniques to mitigate privacy concerns.     Design of an initial prototype digital twin for Walnut Village,  our partner older adult residential community, a Front Porch Senior Living community in Anaheim, CA.  The needs assessment workshops helped us crystallize key factors to guide the research, design, and development of CareDEX.     Mock Scenario Design to validate the CAREDEX platform:   Working with our emergency response civic partners, the Fire Protection Research Foundation, we designed an initial simulated mock emergency scenario - a large WUI fire event with the evacuation of seniors.  In addition to illustrating information views that would be useful in this scenario, it enabled us to refine our next stage of development and testing.   Multisector team formation. We developed and enhanced connections to build a multidisciplinary research and civic partner team towards the next stage of the project.    From a broader impacts perspective, the planning award illustrated the increasing need to protect older adults due to changing demographics in the US (and elsewhere) that points to a  significant rise in the population of older adults.  The potential for information preparedness through emerging Iot and data technologies in multi hazard settings is enormous -  from hurricanes, tornados, blizzards, tsunamis, power outages, and other unpredictable disasters both now and in the future.  The planning grant involved Ph.D., MS, and undergraduate students at UCI who gained experience related to disaster resilience for our vulnerable populations.         Last Modified: 02/08/2022       Submitted by: Nalini Venkatasubramanian]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

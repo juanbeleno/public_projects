@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Convergence Accelerator Track C: Interconnecting Quantum Computers for the Next-Generation Internet]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>930000.00</AwardTotalIntnAmount>
+<AwardAmount>930000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pradeep Fulay</SignBlockName>
+<PO_EMAI>pfulay@nsf.gov</PO_EMAI>
+<PO_PHON>7032922445</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future.  Just as the internet has transformed virtually every aspect of our lives by enabling connectivity amongst a myriad of users in different geographical locations, a quantum internet could have a similar impact.  A quantum internet would distribute quantum computing capabilities securely and broadly to a broad user base (academic and nonacademic).  Those capabilities could enable advances in various applications from cybersecurity, to data analytics, to medicine.  This program seeks to merge quantum computers over a quantum internet, whilst leveraging the current internet infrastructure.  &lt;br/&gt;&lt;br/&gt;The primary goal of this program is to enable trapped ion quantum computers to communicate over the internet.  The main technical thrusts include: i) developing a high efficiency qubit interface, ii) developing a chip scale quantum reconfigurable add-drop multiplexer, and iii) devising protocols to leverage the hardware to realize a full-scale quantum network.  The network will use Ytterbium ions for memory (data) qubits and Barium ions for the optical (interconnect) qubit.  This project is focused on developing long range (kilometer distance) quantum interconnects between remote quantum computing sites.  As such, the Mid-Atlantic Regional Quantum Internet (MARQI) network, will be formed.  This demonstration will show secure and anonymous communication beyond the current state of the art.  The ability to connect quantum computers over the internet will provide a major technological advancement. Outreach efforts to develop educational modules for the general public and industry that will educate them on the current state and future potential of quantum technology is planned.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040695</AwardID>
+<Investigator>
+<FirstName>Saikat</FirstName>
+<LastName>Guha</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Saikat Guha</PI_FULL_NAME>
+<EmailAddress><![CDATA[saikat@email.arizona.edu]]></EmailAddress>
+<NSF_ID>000752639</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dirk</FirstName>
+<LastName>Englund</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dirk R Englund</PI_FULL_NAME>
+<EmailAddress><![CDATA[englund@mit.edu]]></EmailAddress>
+<NSF_ID>000550729</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edo</FirstName>
+<LastName>Waks</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edo Waks</PI_FULL_NAME>
+<EmailAddress><![CDATA[edowaks@umd.edu]]></EmailAddress>
+<NSF_ID>000321331</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tripti</FirstName>
+<LastName>Sinha</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tripti Sinha</PI_FULL_NAME>
+<EmailAddress><![CDATA[tsinha@umd.edu]]></EmailAddress>
+<NSF_ID>000621387</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Norbert</FirstName>
+<LastName>Linke</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Norbert M Linke</PI_FULL_NAME>
+<EmailAddress><![CDATA[norbert.linke@duke.edu]]></EmailAddress>
+<NSF_ID>000827152</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland College Park]]></Name>
+<CityName/>
+<StateCode>MD</StateCode>
+<ZipCode>207423370</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~930000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This convergence accelerator program aimed to merge quantum information with the internet. We developed tools that will interconnect quantum computers coherently over a quantum internet that coexists with and leverages the vast existing infrastructure that is our current Internet. Our current focus was on trapped ion quantum computers, but the concepts and devices can be readily adapted to any other emerging optically active quantum technology.&nbsp; As part of our program, we developed the quantum interconnects required to establish kilometer distance quantum channels between remote quantum computing sites. We developed a prototype quantum modem and quantum router.&nbsp; The quantum modem takes signals from a quantum computer and converts them into telecom-wavelength photons that can propagate long distances over a quantum network.&nbsp; The modem achieves this task using a nonlinear process called quantum frequency conversion. &nbsp;The quantum router then routes the signals from the quantum modem using a reconfigurable integrated photonic circuit.&nbsp; A key outcome of our project is a systems-level demonstration of a modem-router system.&nbsp; The modem was directly connected to a small trapped ion system, and converted photons from the ion to the telecom c-band.&nbsp; The router then routed the signal to multiple endpoints, acting as a programmable switch board.&nbsp; In parallel to these efforts, we laid the groundwork for the Mid-Atlantic Regional Quantum Internet (MARQI), a local area network that interconnects quantum computers at the University of Maryland, the Army Research Laboratory, and Mid-Atlantic Crossroads (MAX), with potential for major scalability.&nbsp;The MARQI network serves as a testbed for the prototype modems and routers which we are developing and demonstrate networking over several kilometer distances.</p> <p>The results of this project could have a broad impact in the quantum community by enabling compact, turn-key building blocks for quantum networking.&nbsp; Although our initial focus was on trapped ion quantum technologies, the modem and router can be readily adapted to virtually any quantum computing technology that emits photons.&nbsp; The project converged the expertise of a broad range of stakeholders in academia, private industry, and government labs, and established strong links between the quantum information and telecommunication sectors.&nbsp; Multiple graduate students and postdocs were supported by this project, several of whom joined the quantum workforce by taking on full time positions in quantum startups.</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/25/2022<br>      Modified by: Edo&nbsp;Waks</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This convergence accelerator program aimed to merge quantum information with the internet. We developed tools that will interconnect quantum computers coherently over a quantum internet that coexists with and leverages the vast existing infrastructure that is our current Internet. Our current focus was on trapped ion quantum computers, but the concepts and devices can be readily adapted to any other emerging optically active quantum technology.  As part of our program, we developed the quantum interconnects required to establish kilometer distance quantum channels between remote quantum computing sites. We developed a prototype quantum modem and quantum router.  The quantum modem takes signals from a quantum computer and converts them into telecom-wavelength photons that can propagate long distances over a quantum network.  The modem achieves this task using a nonlinear process called quantum frequency conversion.  The quantum router then routes the signals from the quantum modem using a reconfigurable integrated photonic circuit.  A key outcome of our project is a systems-level demonstration of a modem-router system.  The modem was directly connected to a small trapped ion system, and converted photons from the ion to the telecom c-band.  The router then routed the signal to multiple endpoints, acting as a programmable switch board.  In parallel to these efforts, we laid the groundwork for the Mid-Atlantic Regional Quantum Internet (MARQI), a local area network that interconnects quantum computers at the University of Maryland, the Army Research Laboratory, and Mid-Atlantic Crossroads (MAX), with potential for major scalability. The MARQI network serves as a testbed for the prototype modems and routers which we are developing and demonstrate networking over several kilometer distances.  The results of this project could have a broad impact in the quantum community by enabling compact, turn-key building blocks for quantum networking.  Although our initial focus was on trapped ion quantum technologies, the modem and router can be readily adapted to virtually any quantum computing technology that emits photons.  The project converged the expertise of a broad range of stakeholders in academia, private industry, and government labs, and established strong links between the quantum information and telecommunication sectors.  Multiple graduate students and postdocs were supported by this project, several of whom joined the quantum workforce by taking on full time positions in quantum startups.          Last Modified: 09/25/2022       Submitted by: Edo Waks]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

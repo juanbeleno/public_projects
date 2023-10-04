@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Smart Ventilation Control May Reduce Infection Risk for COVID-19 in Public Buildings]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>125417.00</AwardTotalIntnAmount>
+<AwardAmount>125417</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+<PO_EMAI>bhamilto@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[During the current COVID-19 pandemic, airborne transmission of the virus through exhaled aerosols is a likely explanation for the rapid rate of new infections.  The risk of infection with COVID-19 could be reduced by employing feasible measures in public buildings, such as smart and enhanced Heating, Ventilation, and Air- conditioning (HVAC) design and operations, higher humidity levels, surface cleaning and hygiene protocols, revised spatial configuration, etc. This project aims to investigate a novel smart ventilation control strategy using a CO2-based indicator to operate under a normal mode and a pandemic mode as appropriate for common public buildings (e.g., office buildings, classroom buildings, retail stores). These buildings are designed and operated in normal conditions by default. The question to be studied is that, with the current HVAC equipment and systems already installed in existing public buildings, can operations be modified via smart ventilation control by diluting the air in a space with cleaner air from outdoors to reduce infection risk for occupants. &lt;br/&gt;&lt;br/&gt;Ventilation controls in public buildings under a pandemic represent significant challenges. In this project, the research team will look into the problem of potentially reducing infection risk with coronavirus through three objectives: 1) Obtain a minimum ventilation rate for different HVAC systems in most common public buildings to potentially reduce infection risk through a risk analysis with Computational Fluid Dynamics (CFD) simulations; 2) Establish a scientific correlation between CO2 concentration with the potential infection risk in spaces in public buildings to better monitor the infection risk with numerical studies and limited field experiments; and 3) Evaluate a novel smart ventilation control strategy that can switch between normal operation and operation under a pandemic through a co-simulation of energy performance and CFD simulations. COVID-19 has generated immense social-economic impact, which may be mitigated by the proposed smart ventilation control in public buildings to reduce the risk of being infected with COVID-19 during occupation of public buildings&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029690</AwardID>
+<Investigator>
+<FirstName>Qingsheng</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qingsheng Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[qwang@tamu.edu]]></EmailAddress>
+<NSF_ID>000588800</NSF_ID>
+<StartDate>04/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zheng</FirstName>
+<LastName>O'Neill</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zheng D O'Neill</PI_FULL_NAME>
+<EmailAddress><![CDATA[zoneill@tamu.edu]]></EmailAddress>
+<NSF_ID>000643008</NSF_ID>
+<StartDate>04/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>3124 TAMU</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>College Station</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778403123</ZipCode>
+<StreetAddress><![CDATA[202 Spence St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~125417</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project aims to investigate whether and how the building ventilation control helps reduce the infection risk of COVID-19 in public buildings. COVID-19 has generated immense social-economic impact, which can be mitigated by the proposed smart ventilation control in public buildings to minimize the risk of being infected by COVID-19 during staying in public buildings. This approach increases the resilience of the HVAC system in public buildings under a global pandemic. The expected influences include suggestions or guidelines for the system design and ventilation control strategy for emergency operations under the pandemic. Our results enable applications and services with significant national economic and health impacts. In addition, the results have been disseminated with international scholars and practitioners in other countries, which are key economic and social partners of the U.S. Two Ph.D. researchers were trained in this project.</p> <p>Computational Fluid Dynamics (CFD) simulations and whole-building energy simulations were conducted to understand the effects of the infection-risk-based ventilation control on building energy consumption and infection risk mitigation. The following conclusions are drawn from the simulation results.</p> <p><strong>FIRST</strong>, a parametric CFD simulation was conducted to realize whether the indoor Carbon Dioxide (CO<sub>2</sub>) concentration could serve as a proxy for estimating the COVID-19 infection risk. To ensure that the model parameters were well specified, a set of temperature and CO<sub>2</sub> sensors were deployed in a lecture room and an office complex in a university building to collect the environmental measurements. <strong><em>Figure 1</em></strong> shows the layout of the office complex and the readings of four CO<sub>2</sub> sensors.</p> <p>The collected environmental measurements (i.e., temperature and CO<sub>2</sub> concentration) were then used to calibrate the preliminary CFD models (see <strong><em>Figure 2</em></strong><strong><em>a</em></strong>). Based on the experience learned from the calibration, a total of 202 CFD models were created and simulated to obtain the indoor CO<sub>2</sub> concentrations and viral aerosol concentrations under different operating scenarios, e.g., zone dimensions, occupant densities, ratios of infectors, outdoor airflow rates, etc. One sample model of such and its simulation results of the trace of the viral aerosol were presented in <strong><em>Figure 2</em></strong><strong><em>a and </em></strong><strong><em>Figure 2</em></strong><strong><em>b</em></strong>.</p> <p>The results of the 202 parametric CFD simulations suggest that there is a positive relationship between the indoor CO<sub>2</sub> concentration and the viral aerosol concentration, as presented in <strong><em>Figure 3</em></strong><strong><em>a</em></strong>. Further, an Artificial Neural Network (ANN) model was trained to predict the COVID-19 infection risk using the inputs and results of the 202 CFD simulations. The Wells-Riley (W-R) model was used to convert the CFD simulation results to a quantified COVID-19 infection risk. The results (see <strong><em>Figure 3</em></strong><strong><em>b</em></strong>) suggest that this ANN model could achieve a high prediction accuracy, which indicates a promising potential of using the indoor CO<sub>2</sub> concentration as a control variable for the building ventilation system to mitigate the infection risk. &nbsp;</p> <p><strong>SECOND</strong>, based on the conclusion drawn from the CFD simulation, a smart ventilation control algorithm was developed to adjust the zone-level supply airflow rate and system-level outdoor airflow rate with an aim to mitigate the infection risk. Compared with simply increasing the outdoor airflow fraction to 100%, this method decreases the COVID-19 infection risk and avoids taking in too much excessive flow. The framework of the proposed control strategy is summarized in <strong><em>Figure 4</em></strong>. Generally, the ANN model developed from the CFD analysis will take inputs from the building automation system (BAS), and then output a CO<sub>2</sub> concentration setpoint for each zone on each timestep. BAS will then adjust the zone supply airflow rate and system outdoor airflow rate based on the zone CO<sub>2</sub> setpoint.</p> <p><strong>THIRD</strong>, a parametric nationwide whole-building energy simulation was conducted to investigate which climate zone benefits the most from increasing the outdoor airflow rate when it comes to infection risk mitigation. A detailed medium office model (see <strong><em>Figure 5</em></strong><strong><em>a</em></strong> and <strong><em>Figure 5</em></strong><strong><em>b</em></strong>) was used for the simulation. The framework of the parametric simulation and the values of the various variables are presented in <strong><em>Figure 5</em></strong><strong><em>c</em></strong> and <strong><em>Figure 5</em></strong><strong><em>d</em></strong>.</p> <p>The simulation results are shown in <strong><em>Figure 6</em></strong>. It could be concluded from the results that the beneficial effect of infection risk reduction in terms of increasing outdoor air fraction could vary significantly depending on the climate zone (CZ). Generally, the climate zones such as 1A (Honolulu, HI), 2B (Tucson, AZ), 3A (Atlanta, GA), and 7 (International Falls, MN) are the most energy-efficient when it comes to increasing the outdoor air fraction to reduce the COVID-19 infection risk, and the climate zones such as 6A (Rochester, MN) and 6B (Great Falls, MT) are the lease efficient.</p><br> <p>            Last Modified: 08/29/2021<br>      Modified by: Zheng&nbsp;D&nbsp;O'neill</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217142669_Picture1--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217142669_Picture1--rgov-800width.jpg" title="Figure 1"><img src="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217142669_Picture1--rgov-66x44.jpg" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(a) The layout of the office complex and the locations of the CO2 sensors and supply/return vents; (b) The hourly CO2 distributions of four selected sensors on a given day; (c) The boxplots of the hourly CO2 concentrations of the ten sensors over a period of ten days.</div> <div class="imageCredit">Zhihong Pang/Zheng O'Neill</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Zheng&nbsp;D&nbsp;O'neill</div> <div class="imageTitle">Figure 1</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217225370_Picture2--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217225370_Picture2--rgov-800width.jpg" title="Figure 2"><img src="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217225370_Picture2--rgov-66x44.jpg" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(a) The preliminary CFD model of the office complex; (b) A sample CFD model (10 m * 10 m&#65292; eight occupants, five supply vents, and four return vents) from the parametric CFD simulation analysis; (c) The simulated trace line of the aerosol particle of the sample CFD model.</div> <div class="imageCredit">Pingfan Hu/Zhihong Pang/Zheng O'Neill</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Zheng&nbsp;D&nbsp;O'neill</div> <div class="imageTitle">Figure 2</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217290216_Picture3--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217290216_Picture3--rgov-800width.jpg" title="Figure 3"><img src="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217290216_Picture3--rgov-66x44.jpg" alt="Figure 3"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(a) The correlation of the CO2 concentration and the normalized viral aerosol mass concentration obtained from the parametric CFD simulations; (b) The training and testing results of the ANN model that predicts the infection risk probability based on the parametric CFD simulation results.</div> <div class="imageCredit">Zhihong Pang/Zheng O'Neill</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Zheng&nbsp;D&nbsp;O'neill</div> <div class="imageTitle">Figure 3</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217365747_Picture4_updated--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217365747_Picture4_updated--rgov-800width.jpg" title="Figure 4"><img src="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217365747_Picture4_updated--rgov-66x44.jpg" alt="Figure 4"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The proposed ANN-in-the-loop smart ventilation control logic.</div> <div class="imageCredit">Zhihong Pang/Xing Lu/Zheng O'Neill</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Zheng&nbsp;D&nbsp;O'neill</div> <div class="imageTitle">Figure 4</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217439618_Picture5--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217439618_Picture5--rgov-800width.jpg" title="Figure 5"><img src="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217439618_Picture5--rgov-66x44.jpg" alt="Figure 5"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(a) The outlook of the detailed medium office EnergyPlus model in SketchUp; (b) The layout of the bottom and medium/top floors of the detailed medium office EnergyPlus model; (c) Flowchart of the parametric simulation plan; (d) The variables and their values for the parametric simulation plan.</div> <div class="imageCredit">Zhihong Pang/Zheng O'Neill</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Zheng&nbsp;D&nbsp;O'neill</div> <div class="imageTitle">Figure 5</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217612150_Picture6--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217612150_Picture6--rgov-800width.jpg" title="Figure 6"><img src="/por/images/Reports/POR/2021/2029690/2029690_10665471_1630217612150_Picture6--rgov-66x44.jpg" alt="Figure 6"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The relationship of the absolute HVAC energy consumption and infection risks under different outdoor air fraction scenarios ( a) q = 30 h&#8722;1 and infector fraction = 3%; (b) q = 30 h&#8722;1 and infector fraction = 3%.</div> <div class="imageCredit">Zhihong Pang/Zheng O'Neill</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Zheng&nbsp;D&nbsp;O'neill</div> <div class="imageTitle">Figure 6</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project aims to investigate whether and how the building ventilation control helps reduce the infection risk of COVID-19 in public buildings. COVID-19 has generated immense social-economic impact, which can be mitigated by the proposed smart ventilation control in public buildings to minimize the risk of being infected by COVID-19 during staying in public buildings. This approach increases the resilience of the HVAC system in public buildings under a global pandemic. The expected influences include suggestions or guidelines for the system design and ventilation control strategy for emergency operations under the pandemic. Our results enable applications and services with significant national economic and health impacts. In addition, the results have been disseminated with international scholars and practitioners in other countries, which are key economic and social partners of the U.S. Two Ph.D. researchers were trained in this project.  Computational Fluid Dynamics (CFD) simulations and whole-building energy simulations were conducted to understand the effects of the infection-risk-based ventilation control on building energy consumption and infection risk mitigation. The following conclusions are drawn from the simulation results.  FIRST, a parametric CFD simulation was conducted to realize whether the indoor Carbon Dioxide (CO2) concentration could serve as a proxy for estimating the COVID-19 infection risk. To ensure that the model parameters were well specified, a set of temperature and CO2 sensors were deployed in a lecture room and an office complex in a university building to collect the environmental measurements. Figure 1 shows the layout of the office complex and the readings of four CO2 sensors.  The collected environmental measurements (i.e., temperature and CO2 concentration) were then used to calibrate the preliminary CFD models (see Figure 2a). Based on the experience learned from the calibration, a total of 202 CFD models were created and simulated to obtain the indoor CO2 concentrations and viral aerosol concentrations under different operating scenarios, e.g., zone dimensions, occupant densities, ratios of infectors, outdoor airflow rates, etc. One sample model of such and its simulation results of the trace of the viral aerosol were presented in Figure 2a and Figure 2b.  The results of the 202 parametric CFD simulations suggest that there is a positive relationship between the indoor CO2 concentration and the viral aerosol concentration, as presented in Figure 3a. Further, an Artificial Neural Network (ANN) model was trained to predict the COVID-19 infection risk using the inputs and results of the 202 CFD simulations. The Wells-Riley (W-R) model was used to convert the CFD simulation results to a quantified COVID-19 infection risk. The results (see Figure 3b) suggest that this ANN model could achieve a high prediction accuracy, which indicates a promising potential of using the indoor CO2 concentration as a control variable for the building ventilation system to mitigate the infection risk.    SECOND, based on the conclusion drawn from the CFD simulation, a smart ventilation control algorithm was developed to adjust the zone-level supply airflow rate and system-level outdoor airflow rate with an aim to mitigate the infection risk. Compared with simply increasing the outdoor airflow fraction to 100%, this method decreases the COVID-19 infection risk and avoids taking in too much excessive flow. The framework of the proposed control strategy is summarized in Figure 4. Generally, the ANN model developed from the CFD analysis will take inputs from the building automation system (BAS), and then output a CO2 concentration setpoint for each zone on each timestep. BAS will then adjust the zone supply airflow rate and system outdoor airflow rate based on the zone CO2 setpoint.  THIRD, a parametric nationwide whole-building energy simulation was conducted to investigate which climate zone benefits the most from increasing the outdoor airflow rate when it comes to infection risk mitigation. A detailed medium office model (see Figure 5a and Figure 5b) was used for the simulation. The framework of the parametric simulation and the values of the various variables are presented in Figure 5c and Figure 5d.  The simulation results are shown in Figure 6. It could be concluded from the results that the beneficial effect of infection risk reduction in terms of increasing outdoor air fraction could vary significantly depending on the climate zone (CZ). Generally, the climate zones such as 1A (Honolulu, HI), 2B (Tucson, AZ), 3A (Atlanta, GA), and 7 (International Falls, MN) are the most energy-efficient when it comes to increasing the outdoor air fraction to reduce the COVID-19 infection risk, and the climate zones such as 6A (Rochester, MN) and 6B (Great Falls, MT) are the lease efficient.       Last Modified: 08/29/2021       Submitted by: Zheng D O'neill]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

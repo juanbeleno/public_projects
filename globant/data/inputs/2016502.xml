@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Autonomous Construction UAV Flight Controller]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to significantly decrease the cost of environmentally friendly, new home construction. Currently, more than 1/6 of American households spend over half of their income on housing. This project is developing an artificial intelligence (AI)-based autonomous heavy-lift unmanned aerial vehicle (UAV) capable of building homes out of the cheapest, most abundant building material, earth. Such homes, referred to as adobe, are historically expensive due to high labor costs. However, the hhigh precision and versatility of AI-controlled UAVs enable autonomous construction that is cost-competitive and offers significant additional benefits, such as energy efficiency, fire resistance, and soundproofing. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will prototype an autonomous heavy-lift UAV capable of performing the individual tasks necessary to build the walls of a monolithic adobe structure with a novel robotic arm. For example, forming the adobe requires pushing a still-wet wall into the desired shape with a trowel. This force transfers to the UAV which must generate an equal-but-opposite force to maintain stability. No current UAV flight controller can handle these forces while maintaining stable flight. The company will use deep reinforcement learning to train a flight controller that can handle these and related forces while remaining in stable flight.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016502</AwardID>
+<Investigator>
+<FirstName>zach</FirstName>
+<LastName>dwiel</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>zach dwiel</PI_FULL_NAME>
+<EmailAddress><![CDATA[zach@terranrobotics.ai]]></EmailAddress>
+<NSF_ID>000815950</NSF_ID>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>TERRAN ROBOTICS INC.</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474032348</ZipCode>
+<PhoneNumber>8123459107</PhoneNumber>
+<StreetAddress>408 W HOWE ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KYK6U6EELCL1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TERRAN ROBOTICS INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Terran Robotics Inc]]></Name>
+<CityName>Bloomington</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474032348</ZipCode>
+<StreetAddress><![CDATA[408 West Howe]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8022</Code>
+<Text>Sustainable Infrastructure Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-887ae91c-7fff-0856-ed09-dec0ff6d3e8d"> </span></p> <p dir="ltr"><span>During this NSF SBIR Phase I grant, Terran Robotics proved the viability of 3D printing adobe homes with autonomous, AI-controlled robots. The inherently low material costs of adobe, combined with labor savings from automation, make Terran&rsquo;s approach promising for addressing the national housing shortage in the US. In contrast with competing 3D home-printing technologies, which depend on large gantries for delivering the building material, Terran&rsquo;s system is lightweight and inexpensive, and can easily scale to accommodate large building footprints.&nbsp;</span></p> <p dir="ltr"><span>Terran produced two significant technical outcomes during this grant: 1) the design and fabrication of a custom heavy-lift drone with the capability to move and manipulate adobe building material, and 2) the development of an AI flight controller that enables the drone to achieve stable flight and interact with its physical environment using two different tool attachments. In addition to these technical outcomes, Terran conducted extensive market research and obtained commitments from multiple real estate developers to deploy this technology.&nbsp;&nbsp;</span></p> <p dir="ltr"><span>Terran is now applying the same RL-based approach to training a cable-driven robot (CDR) for 3D printing with adobe. CDR uses the same scoop and impulse hammer attachments that were designed for the drone. The general applicability of the computer vision and RL systems means that very little additional software engineering is necessary to implement it for use with CDR. And while Terran is still focused exclusively on wall-building, the same approach will eventually apply to the automation of other building systems, such as roofing and flooring.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Terran&rsquo;s technology has wide-ranging implications for the housing market. By simplifying the construction process, developers will be able to build faster and at a lower cost. Beyond cost savings, homebuyers will benefit from walls that are soundproof, fireproof, and energy efficient. Terran walls also regulate indoor humidity, enhancing air quality and eliminating the need for expensive climate control systems.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>In Phase II, Terran will continue iterating on the design and operation of CDR. In parallel, the company will push commercialization efforts forward, namely by completing its first several home building projects in partnership with regional real estate developers. Additional R&amp;D funding will accelerate the commercialization process, allowing Terran to take on larger projects sooner.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 08/16/2022<br>      Modified by: Zach&nbsp;Dwiel</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   During this NSF SBIR Phase I grant, Terran Robotics proved the viability of 3D printing adobe homes with autonomous, AI-controlled robots. The inherently low material costs of adobe, combined with labor savings from automation, make Terran’s approach promising for addressing the national housing shortage in the US. In contrast with competing 3D home-printing technologies, which depend on large gantries for delivering the building material, Terran’s system is lightweight and inexpensive, and can easily scale to accommodate large building footprints.  Terran produced two significant technical outcomes during this grant: 1) the design and fabrication of a custom heavy-lift drone with the capability to move and manipulate adobe building material, and 2) the development of an AI flight controller that enables the drone to achieve stable flight and interact with its physical environment using two different tool attachments. In addition to these technical outcomes, Terran conducted extensive market research and obtained commitments from multiple real estate developers to deploy this technology.   Terran is now applying the same RL-based approach to training a cable-driven robot (CDR) for 3D printing with adobe. CDR uses the same scoop and impulse hammer attachments that were designed for the drone. The general applicability of the computer vision and RL systems means that very little additional software engineering is necessary to implement it for use with CDR. And while Terran is still focused exclusively on wall-building, the same approach will eventually apply to the automation of other building systems, such as roofing and flooring.     Terran’s technology has wide-ranging implications for the housing market. By simplifying the construction process, developers will be able to build faster and at a lower cost. Beyond cost savings, homebuyers will benefit from walls that are soundproof, fireproof, and energy efficient. Terran walls also regulate indoor humidity, enhancing air quality and eliminating the need for expensive climate control systems.     In Phase II, Terran will continue iterating on the design and operation of CDR. In parallel, the company will push commercialization efforts forward, namely by completing its first several home building projects in partnership with regional real estate developers. Additional R&amp;D funding will accelerate the commercialization process, allowing Terran to take on larger projects sooner.          Last Modified: 08/16/2022       Submitted by: Zach Dwiel]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

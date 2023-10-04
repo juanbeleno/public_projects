@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Synthesizing Business Software Customizations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>276000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project will result from enabling small companies to enjoy affordable, customized ERP (Enterprise Resource Planning) systems. An ERP system is a platform integrating a centralized database with functionalities to support the core business processes. A customized solution can generate substantial efficiency gains, economic savings, and competitive advantage, but this has typically required specialized expertise unavailable to small firms.  This project will generate a solution to help small businesses remain competitive. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will build on recent advances in program synthesis to automate software customizations in an ERP. The specific rules and requirements of a company are expressed as a set of easy-to-write declarative rules. The ERP synthesizer will automatically ensure that a combination of tasks is guaranteed to obey all specified rules. This project will build a tool to automate most ERP customizations while minimizing many classes of software errors by construction. This project will also explore the trade-offs of using this system.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/10/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026005</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Dillig</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas W Dillig</PI_FULL_NAME>
+<EmailAddress><![CDATA[tom@big-experts.com]]></EmailAddress>
+<NSF_ID>000822238</NSF_ID>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>BLUSPHINX INC</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787481814</ZipCode>
+<PhoneNumber>5124002426</PhoneNumber>
+<StreetAddress>3215 DOE RUN</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>21</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX21</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PUXAGHJTT7W3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BLUSPHINX INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Blusphinx Inc]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787481814</ZipCode>
+<StreetAddress><![CDATA[3215 Doe Run]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>21</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX21</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~256000</FUND_OBLG>
+<FUND_OBLG>2021~20000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Normal"><span class="tm5">This project leveraged advances in program synthesis research to automatically generate a large part of the software customizations of an ERP (Enterprise Resource Planning) system. An ERP system is a business software integrating in one platform a centralized database with functionalities to support the core business processes of a company. This new technology developed has the potential to substantially lower the cost to create a customized ERP, which is currently very expensive because of manually performed customizations. Using the technology we have developed in this project will make it possible to lower the price of a customized ERP and offer it to small businesses who previously could not afford it, thereby increasing the competitiveness of small businesses.</span></p> <p class="Normal"><span class="tm5">&nbsp;</span></p> <p class="Normal"><span class="tm5">In this project, we have build a prototype system to automate the customization of an ERP system for small businesses, and evaluated its performance compared to manually performed customizations. Specifically, all business tasks handled in the ERP system are defined in terms of their inputs and outputs. The specific rules and requirements of a company are expressed as a set of easy-to-write declarative rules. The ERP synthesizer automatically generates all checks in order to ensure that every combination of tasks is always guaranteed to obey all specified rules.</span></p> <p class="Normal"><span class="tm5">&nbsp;</span></p> <p class="Normal"><span class="tm6">Before we applied for this project, we created the initial version of our ERP platform for a pilot client, without incorporating any of the newly developed synthesis synthesis technology. This experience allowed us to establish a base line on the time and effort required with a manual approach to customizations. Our overall goal of this Phase I project was to reduce the time spent on technical customization efforts by at least 75%. The results of our worked demonstrated that we are able to reduce this effort by 89%, substantially exceeding our initial goal.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 12/14/2021<br>      Modified by: Thomas&nbsp;W&nbsp;Dillig</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[This project leveraged advances in program synthesis research to automatically generate a large part of the software customizations of an ERP (Enterprise Resource Planning) system. An ERP system is a business software integrating in one platform a centralized database with functionalities to support the core business processes of a company. This new technology developed has the potential to substantially lower the cost to create a customized ERP, which is currently very expensive because of manually performed customizations. Using the technology we have developed in this project will make it possible to lower the price of a customized ERP and offer it to small businesses who previously could not afford it, thereby increasing the competitiveness of small businesses.   In this project, we have build a prototype system to automate the customization of an ERP system for small businesses, and evaluated its performance compared to manually performed customizations. Specifically, all business tasks handled in the ERP system are defined in terms of their inputs and outputs. The specific rules and requirements of a company are expressed as a set of easy-to-write declarative rules. The ERP synthesizer automatically generates all checks in order to ensure that every combination of tasks is always guaranteed to obey all specified rules.   Before we applied for this project, we created the initial version of our ERP platform for a pilot client, without incorporating any of the newly developed synthesis synthesis technology. This experience allowed us to establish a base line on the time and effort required with a manual approach to customizations. Our overall goal of this Phase I project was to reduce the time spent on technical customization efforts by at least 75%. The results of our worked demonstrated that we are able to reduce this effort by 89%, substantially exceeding our initial goal.          Last Modified: 12/14/2021       Submitted by: Thomas W Dillig]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

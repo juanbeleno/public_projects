@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: RAPID: Building a Spatiotemporal Platform for Rapid Response to COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>99956.00</AwardTotalIntnAmount>
+<AwardAmount>99956</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Behrooz Shirazi</SignBlockName>
+<PO_EMAI>bshirazi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928343</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Spatiotemporal Innovation IUCRC develops novel spatiotemporal analytical tools to enable applications of national and global significance.  In response to the COVID-19 crisis, Harvard University and George Mason University, university sites within this IUCRC, propose this collaborative project to collect and share COVID related data in near real time, conduct spatiotemporal analytics, and mine socioeconomic and environmental knowledge to facilitate decision support systems in response to the pandemic. &lt;br/&gt; &lt;br/&gt;This project will build a unique cloud-based platform composed of a data collection subsystem for collecting global, high quality COVID-19-related data; spatiotemporal analytics tools for analyzing the disease evolution and socioeconomic patterns; and, modeling tools for assessing medical supplies and logistics.  Through web access services, the platform will provide capabilities for easy access to the data collected as well as access to the developed spatiotemporal analytical and modeling tools.  Such capabilities will facilitate quick production of data-driven decision support systems for community preparedness. This project has secured participation of 50+ international researchers in developing the proposed platform.  These researchers will help collect and validate data, analyze how policies influence the outbreaks, how the Earth environment is impacted, and how to balance reopening of the economy and controlling the spreading of the disease in the U.S. based on experiences from Asia and Europe. Over 200 undergraduate volunteers, including many from underrepresented groups, are already involved in this project through Harvard’s Coronavirus Visualization Team efforts. &lt;br/&gt;&lt;br/&gt;Data, information, and knowledge accumulated in this project have been, and will continue to be, archived long term in a comprehensive gateway (covid-19.stcenter.net). Such data include spatiotemporal distribution of confirmed cases, relevant social, economic and natural information from different resources, such as authoritative reports, news releases, Earth observation, and social media. Software and tools developed are posted on GitHub for open access. Sustained online collaboration is being conducted to produce replicable research using spatiotemporal analyses to mine patterns and relations between COVID-19 and social and natural factors for community response and preparedness.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027521</AwardID>
+<Investigator>
+<FirstName>Chaowei</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chaowei Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[cyang3@gmu.edu]]></EmailAddress>
+<NSF_ID>000244260</NSF_ID>
+<StartDate>05/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Mason University</Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress>4400 UNIVERSITY DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>Fairfax</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304444</ZipCode>
+<StreetAddress><![CDATA[4400 Univ. Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~99956</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The global pandemic changes every walk of human lives on our home planet. To better understand and address the challenges, National Science Foundation funded the spatiotemporal I/UCRC to rapidly respond to COVID-19 by utilizing the spatiotemporal infrastructure built in the past 8 years. The project quickly attracted national and global attention with participation from over 100 experts and the engagement of over 400 undergraduate students from every state in the U.S., as well as every time zone around the globe through Harvard Covid Visualization Team (CVT).</p> <p>1. Collected timely spatiotemporal datasets from 100s of organizations around the world and includes Covid-19 case number, environment impact, socioeconomic, policies, and others. The data has been used 1M+ times by users from 150+ countries, including companies Pfizer and JPMorgan.</p> <p>2. Built a medical resource deficiency index and published online to aid the understanding of where the medical resource is lacking based on medical care staff, ICU, cases number and other statistics.</p> <p>3. Built an AI/ML-based individual health calculator to assess the COVID outcomes (asymptomatic, mild symptomatic, hospitalized and ICU as well as potential fatality) to aid doctors with early screening.</p> <p>4. Designed a school reopening system to simulate potential risk with various applications of policies for providing science-based decision support information to safely reopen schools. The system goes through an I-Corps Team process for customer discovery towards commercialization. A PFI-TT proposal was submitted to fully develop it as a product.</p> <p>5. Found that COVID-19 triggered lockdown reduced air pollution in China, California, and internationally, but with location and temporal variations.</p> <p>6. Identified the effectiveness of policy to control the spreading of covid-19.&nbsp;</p> <p>6. Published&nbsp;20+ papers were with ~100,000 total reads and 200+ citations within a year.</p> <p>7. Organized four series of webinars to introduce the research and engaged with 10,000 people between May 2020 and May 2021.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/21/2021<br>      Modified by: Chaowei&nbsp;Yang</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2027521/2027521_10673235_1634853551278_COVID-19ImpactEveryWalkofOurLives--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2027521/2027521_10673235_1634853551278_COVID-19ImpactEveryWalkofOurLives--rgov-800width.jpg" title="COVID-19 Impact Every Walk of Our Lives on the Home Planet"><img src="/por/images/Reports/POR/2021/2027521/2027521_10673235_1634853551278_COVID-19ImpactEveryWalkofOurLives--rgov-66x44.jpg" alt="COVID-19 Impact Every Walk of Our Lives on the Home Planet"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The spatiotemporal matrix integrates conceptually the space, time and variables represented by data, analytics for different research subjects, application domains, and society sectors, as human societies progress towards the era after COVID-19.</div> <div class="imageCredit">Yang C. et al.,</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Chaowei&nbsp;Yang</div> <div class="imageTitle">COVID-19 Impact Every Walk of Our Lives on the Home Planet</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2027521/2027521_10673235_1634853756231_pone.0240348.g004-medicaldeficiency--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2027521/2027521_10673235_1634853756231_pone.0240348.g004-medicaldeficiency--rgov-800width.jpg" title="Medical Resource Deficiency is Visualized on a Dashboard"><img src="/por/images/Reports/POR/2021/2027521/2027521_10673235_1634853756231_pone.0240348.g004-medicaldeficiency--rgov-66x44.jpg" alt="Medical Resource Deficiency is Visualized on a Dashboard"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A use case for regional visual analysis of Tennessee shows the the 1) the comparison of active COVID�19 cases and the number of overall beds; 2) the percentage of ICU beds in overall beds; and 3) the proportion of each type of Critical Care Staff.</div> <div class="imageCredit">Sha D. et al., 2020</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Chaowei&nbsp;Yang</div> <div class="imageTitle">Medical Resource Deficiency is Visualized on a Dashboard</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2027521/2027521_10673235_1634853946042_remotesensing-12-01576-ag--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2027521/2027521_10673235_1634853946042_remotesensing-12-01576-ag--rgov-800width.jpg" title="Pandemic Lockdown Reduced Air Pollution"><img src="/por/images/Reports/POR/2021/2027521/2027521_10673235_1634853946042_remotesensing-12-01576-ag--rgov-66x44.jpg" alt="Pandemic Lockdown Reduced Air Pollution"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Monthly average NTL for each province from December 2019 to March 2020 show the reduction of pollution during the Pandemic lockdown.</div> <div class="imageCredit">Liu Q., et al., 2020</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Chaowei&nbsp;Yang</div> <div class="imageTitle">Pandemic Lockdown Reduced Air Pollution</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2027521/2027521_10673235_1634854184378_fpubh-08-587937-g003--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2027521/2027521_10673235_1634854184378_fpubh-08-587937-g003--rgov-800width.jpg" title="Spatiotemporal ML Enables Fatality Prediction of COVID Patients"><img src="/por/images/Reports/POR/2021/2027521/2027521_10673235_1634854184378_fpubh-08-587937-g003--rgov-66x44.jpg" alt="Spatiotemporal ML Enables Fatality Prediction of COVID Patients"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Spatiotemporal enhanced ML methods, autoencoder, shows a 98% accuracy for predicting fatality with early patients data of COVID-19.</div> <div class="imageCredit">Li Y., 2020</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Chaowei&nbsp;Yang</div> <div class="imageTitle">Spatiotemporal ML Enables Fatality Prediction of COVID Patients</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The global pandemic changes every walk of human lives on our home planet. To better understand and address the challenges, National Science Foundation funded the spatiotemporal I/UCRC to rapidly respond to COVID-19 by utilizing the spatiotemporal infrastructure built in the past 8 years. The project quickly attracted national and global attention with participation from over 100 experts and the engagement of over 400 undergraduate students from every state in the U.S., as well as every time zone around the globe through Harvard Covid Visualization Team (CVT).  1. Collected timely spatiotemporal datasets from 100s of organizations around the world and includes Covid-19 case number, environment impact, socioeconomic, policies, and others. The data has been used 1M+ times by users from 150+ countries, including companies Pfizer and JPMorgan.  2. Built a medical resource deficiency index and published online to aid the understanding of where the medical resource is lacking based on medical care staff, ICU, cases number and other statistics.  3. Built an AI/ML-based individual health calculator to assess the COVID outcomes (asymptomatic, mild symptomatic, hospitalized and ICU as well as potential fatality) to aid doctors with early screening.  4. Designed a school reopening system to simulate potential risk with various applications of policies for providing science-based decision support information to safely reopen schools. The system goes through an I-Corps Team process for customer discovery towards commercialization. A PFI-TT proposal was submitted to fully develop it as a product.  5. Found that COVID-19 triggered lockdown reduced air pollution in China, California, and internationally, but with location and temporal variations.  6. Identified the effectiveness of policy to control the spreading of covid-19.   6. Published 20+ papers were with ~100,000 total reads and 200+ citations within a year.  7. Organized four series of webinars to introduce the research and engaged with 10,000 people between May 2020 and May 2021.          Last Modified: 10/21/2021       Submitted by: Chaowei Yang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

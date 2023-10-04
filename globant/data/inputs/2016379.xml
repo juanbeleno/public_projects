@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CCRI: ENS: Collaborative Research: ns-3 Network Simulation for Next-Generation Wireless]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>962657.00</AwardTotalIntnAmount>
+<AwardAmount>1037657</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Simulation of emerging next-generation wireless networks continues to be an invaluable component of the design, evaluation and innovation cycle as a complement to other modes such as testbeds of performance testing.  This project will focus on upgrading ns-3, the most widely used open source network simulator, to meet the challenges of efficient yet accurate simulation based performance evaluation of 5G and beyond networks.  It will do this via model building for the evolutions in Wi-Fi (notably Wi-Fi 6) and cellular (notably 5G NR) technologies and incorporating new simulation techniques targeting dense and heterogeneous network use cases.&lt;br/&gt;&lt;br/&gt;Network simulation faces fundamental challenges due to inherent increases in complexity, notably at the physical layer due to increasing bandwidth, MIMO (multiple-input, multiple-output) and multi-user operation as well as cross-layer (physical and multiple access) operation, necessary to deal with network scale and heterogeneity.  The primary objective is to develop simulation methods that achieve the desired balance between maintaining simulation run-time efficiency while preserving accuracy of measured network parameters (loss, throughput, latency) - in the face of increasing complexity. The research plan will explore a variety of techniques including efficient link-to-system mappings, pruning of network state representations that do not impact simulation accuracy, and parallelization approaches based on optimistic simulation.&lt;br/&gt;&lt;br/&gt;In addition, the project plans to improve ns-3 usability and further adoption through increased community outreach and creation of new educational material to lower barriers to entry for a new generation of ns-3 users.  The recreated ns-3 Consortium hosted by the University of Washington will foster creation of training material for both novice and advanced users, to be archived and distributed online as well as in-person at leading networking/simulation conferences. &lt;br/&gt;&lt;br/&gt;New content (educational materials and tutorials, research reports and publications) will be disseminated primarily via the ns-3 website https://www.nsnam.org/ and the two institutional lab home pages (the University of Washington - https://depts.washington.edu/funlab and Georgia Tech - http://blough.ece.gatech.edu/research/) along with other popular channels such as YouTube/Viemo for video.  Additionally, code under development will be preserved in archives such as Gitlab and announced via the ns-3 Users and Developers mailing lists.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016379</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Henderson</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas R Henderson</PI_FULL_NAME>
+<EmailAddress><![CDATA[tomhend@u.washington.edu]]></EmailAddress>
+<NSF_ID>000226383</NSF_ID>
+<StartDate>08/04/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sumit</FirstName>
+<LastName>Roy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sumit Roy</PI_FULL_NAME>
+<EmailAddress><![CDATA[roy@ee.washington.edu]]></EmailAddress>
+<NSF_ID>000448952</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate>08/04/2023</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 BROOKLYN AVE NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF WASHINGTON VICE PR</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981952500</ZipCode>
+<StreetAddress><![CDATA[4333 Brooklyn Ave. NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>Information Technology Researc</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7359</Code>
+<Text>CCRI-CISE Cmnty Rsrch Infrstrc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>044Z</Code>
+<Text>PAWR- Platforms for Advanced Wireless Re</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~962657</FUND_OBLG>
+<FUND_OBLG>2023~75000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Utilization of Moving Target Defenses in Software Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this I-Corps project is focused on exploring translation of proactive defense-in-depth technologies focused on leveraging moving target defense techniques. The global cybersecurity market is currently valued at $124 Billion with an estimated 8.7% CAGR over the next 5 years. Since most solutions focus on monitoring and reacting to attacks, an opportunity exists to explore a proactive approach. Identical software implementations for every system suggest that an attacker identifying critical vulnerabilities in one program can exploit this knowledge for every device running that program. This is the fundamental basis behind the execution of computer viruses, and the primary reason how cyber-espionage software, such as STUXNET and Pegasus, have been able to infiltrate and pivot within sensitive systems. The increased use of IoT devices in safety-critical applications creates risks beyond exfiltrating sensitive data, such as patient records and credit card information, to larger scale cyber-terrorist activities conducted remotely and inexpensively.  &lt;br/&gt;&lt;br/&gt;This I-Corps project advances the development of new cybersecurity systems.  The key avenue for exploiting safety-critical software is often stack-based exploits, most notably buffer overflows, which are directly responsible for over 60% of IoT device attacks. The key step for any stack-based cyber-attack to be successful is reconnaissance. The use of moving target defense to diversify the internal structure of applications is proposed, ensuring that every program will have a unique identity. Specifically, this project proposes mitigating stack-based vulnerabilities by utilizing stack segmentation, address space randomization, data encryption, function shuffling, dummy code insertion, stack canaries, and variable obfuscation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011066</AwardID>
+<Investigator>
+<FirstName>Deanna</FirstName>
+<LastName>Meador</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deanna Meador</PI_FULL_NAME>
+<EmailAddress><![CDATA[Deanna.N.Meador@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000743897</NSF_ID>
+<StartDate>07/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372032416</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>110 21ST AVE S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GTNBNWXJ12D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VANDERBILT UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>Nashville</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372032417</ZipCode>
+<StreetAddress><![CDATA[Sponsored Programs Administratio]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The first key outcome was that we found demand for a simple windows desktop product for mid-sized companies with a range of 100 to 2000 endpoints. Our initial hypothesis was that there would be demand for a Linux cloud solution for mid-sized companies. After customer discovery, we had to pivot to develop a windows solution. We are in the late stages of sales conversations with customers within this segment.</p> <p>The second key outcome was that we invalidated our first hypothesis that we would be able to scale through providing a Linux cloud solution. As a company, we participated in the Catalyst Defense Accelerator, in which we acquired two memorandums of understanding, one from Northern Command and one from Space Command, for interest in the Linux cloud solution. The N2X architecture for Northern command that we are working to integrate into has approximately 100,000 containers. However, the only other supporting evidence that we have to justify a Linux cloud solution was through talking to a prospective partner, D2IQ, that was interested in reselling. &nbsp;What we heard through continued customer discovery from system administrators was the easiest product fit that provides the most value to mid-sized companies is a desktop endpoint client.</p> <p>The third key outcome was that we finished our Windows desktop product. We participated in a product refinement accelerator through JPMorgan and received good feedback with respect to compliance. We have already started the process to acquire a SOC2 certification. After completing our Windows desktop product, we made our first paid sale to a local Nashville technology company, Delta Labs.</p> <p>The fourth key outcome was that we expanded our team. After validating our hypothesis that system administrators want a windows desktop product, our first hires were salespeople who would sell directly to these companies. To date, on direct sales calls, we have never received feedback that a company would prefer to have a product in a primary form other than a desktop client, continuing to confirm our hypothesis. The most recent example of a prospective customer?s infrastructure was 1300 Windows desktops, 10 Windows servers, and 10 Linux servers, clearly outlining that the type of product that would provide the most value is the Windows desktop product.</p> <p>The fifth key outcome was refining our value proposition. Our Windows desktop product protects against the 68% of zero-day attacks that are due to memory corruption vulnerabilities. Zero-day attacks by nature can bypass conventional signature-based intrusion detection systems as signature-based intrusion detection systems are biased towards attacks seen in the past. Modern memory corruption attacks can bypass conventional host-based intrusion detection systems as these types of attacks can spoof their identity on the system through hijacking already running processes. Our Windows desktop product assesses how a system resource was accessed by a process, not just what system resource was accessed, which is commonly addressed through ringfencing and access control in host-based intrusion detection systems. Through assessing how a system resource was accessed, we can determine if the calling program has been hijacked.</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/29/2022<br>      Modified by: Deanna&nbsp;Meador</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2011066/2011066_10687593_1672357918910_Catalyst_defense_accelerator--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2011066/2011066_10687593_1672357918910_Catalyst_defense_accelerator--rgov-800width.jpg" title="Team Photo- Catalyst Accelerator"><img src="/por/images/Reports/POR/2022/2011066/2011066_10687593_1672357918910_Catalyst_defense_accelerator--rgov-66x44.jpg" alt="Team Photo- Catalyst Accelerator"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Photo of the Arms Cyber team during the Catalyst Accelerator</div> <div class="imageCredit">Tim Potteiger</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Deanna&nbsp;Meador</div> <div class="imageTitle">Team Photo- Catalyst Accelerator</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The first key outcome was that we found demand for a simple windows desktop product for mid-sized companies with a range of 100 to 2000 endpoints. Our initial hypothesis was that there would be demand for a Linux cloud solution for mid-sized companies. After customer discovery, we had to pivot to develop a windows solution. We are in the late stages of sales conversations with customers within this segment.  The second key outcome was that we invalidated our first hypothesis that we would be able to scale through providing a Linux cloud solution. As a company, we participated in the Catalyst Defense Accelerator, in which we acquired two memorandums of understanding, one from Northern Command and one from Space Command, for interest in the Linux cloud solution. The N2X architecture for Northern command that we are working to integrate into has approximately 100,000 containers. However, the only other supporting evidence that we have to justify a Linux cloud solution was through talking to a prospective partner, D2IQ, that was interested in reselling.  What we heard through continued customer discovery from system administrators was the easiest product fit that provides the most value to mid-sized companies is a desktop endpoint client.  The third key outcome was that we finished our Windows desktop product. We participated in a product refinement accelerator through JPMorgan and received good feedback with respect to compliance. We have already started the process to acquire a SOC2 certification. After completing our Windows desktop product, we made our first paid sale to a local Nashville technology company, Delta Labs.  The fourth key outcome was that we expanded our team. After validating our hypothesis that system administrators want a windows desktop product, our first hires were salespeople who would sell directly to these companies. To date, on direct sales calls, we have never received feedback that a company would prefer to have a product in a primary form other than a desktop client, continuing to confirm our hypothesis. The most recent example of a prospective customer?s infrastructure was 1300 Windows desktops, 10 Windows servers, and 10 Linux servers, clearly outlining that the type of product that would provide the most value is the Windows desktop product.  The fifth key outcome was refining our value proposition. Our Windows desktop product protects against the 68% of zero-day attacks that are due to memory corruption vulnerabilities. Zero-day attacks by nature can bypass conventional signature-based intrusion detection systems as signature-based intrusion detection systems are biased towards attacks seen in the past. Modern memory corruption attacks can bypass conventional host-based intrusion detection systems as these types of attacks can spoof their identity on the system through hijacking already running processes. Our Windows desktop product assesses how a system resource was accessed by a process, not just what system resource was accessed, which is commonly addressed through ringfencing and access control in host-based intrusion detection systems. Through assessing how a system resource was accessed, we can determine if the calling program has been hijacked.          Last Modified: 12/29/2022       Submitted by: Deanna Meador]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

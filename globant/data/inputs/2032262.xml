@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Algorithms and Heuristics for Remote Food Delivery under Social Distancing Constraints]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michal Ziv-El</SignBlockName>
+<PO_EMAI>mzivel@nsf.gov</PO_EMAI>
+<PO_PHON>7032924926</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This goal of this project is to optimize processes for remote delivery of meals to persons in need. The COVID-19 pandemic has fundamentally disrupted processes of food delivery to economically depressed and vulnerable segments of the US population. With the closing of schools and the advent of social distancing practices, over 13 million low-income students who have historically relied on their school to provide daily meals are now without important nutritional support, and centralized school summer meal distribution programs are no longer viable. Similarly, low-income adults and seniors that depend on centralized distribution of meals at shelters and food banks are now being forced to cope with virus mitigation procedures that severely limit their access. Both short and long term solutions to food security for all in this new normal depend on greater reliance on remote food delivery, and although vehicle routing and pickup/delivery problems have been studied for close to 50 years, the constraints imposed by contemporary public health and social distancing concerns present new optimization challenges. This research will contribute new problem formulations and solutions to these important classes of remote food delivery problems, and through existing relationships with the Allegheny County Department of Human Services, Southwestern Pennsylvania United Way, Allies for Children and the Greater Pittsburgh Food Bank, the project will apply research results to inform their ongoing pilot food delivery efforts. More broadly, these results will stimulate future research on these problems and influence remote food delivery problems nationwide.&lt;br/&gt;&lt;br/&gt;To realize these results and impact, this project aims to develop new algorithms and heuristics that address the unique constraints and objectives presented by these geographically-dispersed food delivery problems, to provide a theoretical basis for more efficient operational practice. With respect to school bus student meal delivery, algorithms and heuristics for solving several problems will be developed and analyzed. First, the project will consider the coupled problem of assigning stops to students requiring meals and generating efficient routes to accommodate these students within a global meal time window, while enforcing social distance constraints on number of students that can be assigned to any one bus stop. Second, the research will investigate an extended formulation that additionally allows the use of smaller passenger vehicles or vans, to better service students that have difficult access to bus stops and/or long walk times. To ensure relevance, the project will utilize demand and bus route data from selected school districts in Allegheny County, PA to evaluate performance. Finally, with respect to remote distribution of food to low-income seniors, the algorithms and heuristics developed for student meal delivery will be extended and adapted to this more capacity constrained setting, where food must be moved exclusively in smaller volunteer passenger vehicles. Data obtained from the Greater Food Bank of Pittsburgh will be used to evaluate these extended research results. All data sets used and solutions results obtained will be made available to stimulate future research in this area.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032262</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Smith</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephen F Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[sfs@cs.cmu.edu]]></EmailAddress>
+<NSF_ID>000238236</NSF_ID>
+<StartDate>06/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Karen</FirstName>
+<LastName>Lightman</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Karen H Lightman</PI_FULL_NAME>
+<EmailAddress><![CDATA[kh3m@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000826336</NSF_ID>
+<StartDate>06/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 Forbes Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The original goal of this project was to "establish a basis for more efficient operational practice in delivering meals to geographically dispersed recipients, by formalizing these new types of vehicle routing problems and investigating the development of new algorithms and heuristics that address their unique constraints and objectives." It is not an exaggeration to state that this project,&nbsp;<em>Algorithms and Heuristics for Remote Food Delivery under Social Distancing Constraints,</em>&nbsp;went way beyond the original goals of the project and exceeded our expectations for addressing a real-world need in our community ? one of food insecurity for low-income families during the COVID-19 pandemic. Thanks to our pre-existing collaborations with municipal and equity partners, we were at the right place at the right time with the right algorithmic tool in order to achieve our academic/research goals while at the same time making a practical impact&nbsp;&nbsp;At its completion, the project helped to provide 6,000 meals/month and over 100,000 total meals to families in need during the COVID-19 pandemic (see Table 1 in attached images).&nbsp;</p> <p><strong>&nbsp;</strong><strong><span style="text-decoration: underline;">Local Community Collaboration Outcomes and Impact</span></strong></p> <p>The success of this project is based on the collaboration with numerous partners including United Way of Southwestern Pennsylvania (SWPA), Greater Pittsburgh Food Bank, Allegheny County Department of Human Services, ACCESS Transportation, Eat'n Park, Allies for Children, A Second Chance, the school districts of Penn Hills, McKeesport and McKees Rocks, and numerous other community groups. In January 2020, PIs Smith and Lightman started a project to use artificial intelligence (AI) algorithms to optimize school routes for non-public school children. Soon after the COVID-19 pandemic hit, we quickly pivoted to focus on addressing the immense food insecurity of school children who normally would be getting meals at school but because of the pandemic were remote learning and weren't accessing "grab and go" meals because of mobility issues.&nbsp;</p> <p><strong><span style="text-decoration: underline;">Broader Impact&nbsp;</span></strong></p> <p>Early on in our work, the project was highlighted in&nbsp;<em>Government Technology'</em>s "Innovation of the Month" for August 2020 (<a href="https://metrolabnetwork.org/projects/innovation-of-the-month/">https://metrolabnetwork.org/projects/innovation-of-the-month/</a>). In October 2020, we also caught the attention of Nutrition and Obesity Policy Research and Evaluation Network (NOPREN) (<a href="https://nopren.ucsf.edu/">https://nopren.ucsf.edu/</a>) - a collaboration of a national food nutrition consortium assembled to address food insecurity during the pandemic and we joined their monthly online meetings to share best practice; and on February 12, 2021, PIs Smith and Lightman presented to the group (<a href="https://www.cmu.edu/metro21/news-and-events/metro21-news/2021/nopren-presentation.html">https://www.cmu.edu/metro21/news-and-events/metro21-news/2021/nopren-presentation.html</a>).&nbsp;&nbsp;In November, 2020 we were featured on the front page of the Carnegie Mellon University website with a video and article "Using Machine Learning to Feed Families in Need"(<a href="https://www.cmu.edu/news/stories/archives/2020/november/machine-learning-food-deliver.html">https://www.cmu.edu/news/stories/archives/2020/november/machine-learning-food-deliver.html</a>). In January 2021, CMU's Heinz College of Public Policy and Information Systems launched a capstone on the topic of our project, with PIs Smith and Lightman as advisors to the project (<a href="https://www.cmu.edu/metro21/news-and-events/metro21-news/2021/feeding-families-capstone.html">https://www.cmu.edu/metro21/news-and-events/metro21-news/2021/feeding-families-capstone.html</a>). In addition, the PIs also authored a report to Mobilty21, the U.S. Department of Transportation University Transportation Center (UTC) at CMU, as the institute had funded the initial work of the project (<a href="https://www.cmu.edu/metro21/news-and-events/metro21-news/2020/research-recap-school-meals.html">https://www.cmu.edu/metro21/news-and-events/metro21-news/2020/research-recap-school-meals.html</a>). The project was also highlighted in a blog authored by PI Lightman for ESI Thought Lab City Age "A Way Forward for Sustainable and Resilient Cities During COVID-19 and Beyond"(<a href="https://www.riskierworld.com/latest-insights/a-way-forward-for-sustainable-and-resilient-cities-during-covid-19-and-beyond">https://www.riskierworld.com/latest-insights/a-way-forward-for-sustainable-and-resilient-cities-during-covid-19-and-beyond</a>). We also regularly highlighted this project in various presentations/lectures given by the PIs (for example -&nbsp;<a href="https://www.pdma.org/event/2021-04-26-pittsburgh-chapter-event">https://www.pdma.org/event/2021-04-26-pittsburgh-chapter-event</a>&nbsp;) as well as showcased it on the Metro21 bi-monthly newsletter as well as on Metro21's social media platforms including Twitter, LinkedIn and Instagram.&nbsp;</p> <p>Finally, to encourage further research into solving these types of vehicle routing problems, we have created a set of reference problems and made them publicly available in the Kilthub archive (<a href="https://kilthub.cmu.edu/">https://kilthub.cmu.edu</a>).</p> <p><strong><span style="text-decoration: underline;">Funding Impact&nbsp;</span></strong></p> <p>This project was seeded with $20,000 in funding from Mobilty21 to support the first month of the project and helped launch delivery in Penn Hills, Pennsylvania in July 2020. Supplemented by funding from NSF RAPID in August 2020, we were able to continue this work through the end of the project in June 2021, as well as expand into two more communities in need - McKeesport and McKees Rocks. Metro21 also received $12,000 gift from the United Way of SWPA in appreciation for its hard work on these projects.&nbsp;</p> <p><strong><span style="text-decoration: underline;">Conclusion</span></strong></p> <p>We are extremely grateful for the support of NSF through this RAPID grant and feel that this is the kind of work that researchers should be doing ? using technology (in this case newly developed techniques for optimizing remote food delivery) as a tool to improve quality of life for those who most need it.&nbsp;&nbsp;We are in conversations with several our stakeholders to expand our work in using algorithms to optimize the efficiency and delivery of goods/services to other marginalized communities while at the same time, furthering the state of the art in techniques for solving such vehicle route planning and scheduling problems.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/06/2021<br>      Modified by: Karen&nbsp;H&nbsp;Lightman</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2032262/2032262_10678870_1629406851118_FeedingFamilies-EatnPark--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2032262/2032262_10678870_1629406851118_FeedingFamilies-EatnPark--rgov-800width.jpg" title="Feeding Families in Need through Artificial Intelligence"><img src="/por/images/Reports/POR/2021/2032262/2032262_10678870_1629406851118_FeedingFamilies-EatnPark--rgov-66x44.jpg" alt="Feeding Families in Need through Artificial Intelligence"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Proving Meals to Families in Need during the COVID-19 Pandemic in collaboration with municipal, community and equity partners</div> <div class="imageCredit">Carnegie Mellon University</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Stephen&nbsp;F&nbsp;Smith</div> <div class="imageTitle">Feeding Families in Need through Artificial Intelligence</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2032262/2032262_10678870_1632859158575_Table1--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2032262/2032262_10678870_1632859158575_Table1--rgov-800width.jpg" title="Table 1"><img src="/por/images/Reports/POR/2021/2032262/2032262_10678870_1632859158575_Table1--rgov-66x44.jpg" alt="Table 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Meals Delivered Utilizing the Algorithms and Heuristics for Remote Food Delivery</div> <div class="imageCredit">Stephen F. Smith</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Stephen&nbsp;F&nbsp;Smith</div> <div class="imageTitle">Table 1</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The original goal of this project was to "establish a basis for more efficient operational practice in delivering meals to geographically dispersed recipients, by formalizing these new types of vehicle routing problems and investigating the development of new algorithms and heuristics that address their unique constraints and objectives." It is not an exaggeration to state that this project, Algorithms and Heuristics for Remote Food Delivery under Social Distancing Constraints, went way beyond the original goals of the project and exceeded our expectations for addressing a real-world need in our community ? one of food insecurity for low-income families during the COVID-19 pandemic. Thanks to our pre-existing collaborations with municipal and equity partners, we were at the right place at the right time with the right algorithmic tool in order to achieve our academic/research goals while at the same time making a practical impact  At its completion, the project helped to provide 6,000 meals/month and over 100,000 total meals to families in need during the COVID-19 pandemic (see Table 1 in attached images).    Local Community Collaboration Outcomes and Impact  The success of this project is based on the collaboration with numerous partners including United Way of Southwestern Pennsylvania (SWPA), Greater Pittsburgh Food Bank, Allegheny County Department of Human Services, ACCESS Transportation, Eat'n Park, Allies for Children, A Second Chance, the school districts of Penn Hills, McKeesport and McKees Rocks, and numerous other community groups. In January 2020, PIs Smith and Lightman started a project to use artificial intelligence (AI) algorithms to optimize school routes for non-public school children. Soon after the COVID-19 pandemic hit, we quickly pivoted to focus on addressing the immense food insecurity of school children who normally would be getting meals at school but because of the pandemic were remote learning and weren't accessing "grab and go" meals because of mobility issues.   Broader Impact   Early on in our work, the project was highlighted in Government Technology's "Innovation of the Month" for August 2020 (https://metrolabnetwork.org/projects/innovation-of-the-month/). In October 2020, we also caught the attention of Nutrition and Obesity Policy Research and Evaluation Network (NOPREN) (https://nopren.ucsf.edu/) - a collaboration of a national food nutrition consortium assembled to address food insecurity during the pandemic and we joined their monthly online meetings to share best practice; and on February 12, 2021, PIs Smith and Lightman presented to the group (https://www.cmu.edu/metro21/news-and-events/metro21-news/2021/nopren-presentation.html).  In November, 2020 we were featured on the front page of the Carnegie Mellon University website with a video and article "Using Machine Learning to Feed Families in Need"(https://www.cmu.edu/news/stories/archives/2020/november/machine-learning-food-deliver.html). In January 2021, CMU's Heinz College of Public Policy and Information Systems launched a capstone on the topic of our project, with PIs Smith and Lightman as advisors to the project (https://www.cmu.edu/metro21/news-and-events/metro21-news/2021/feeding-families-capstone.html). In addition, the PIs also authored a report to Mobilty21, the U.S. Department of Transportation University Transportation Center (UTC) at CMU, as the institute had funded the initial work of the project (https://www.cmu.edu/metro21/news-and-events/metro21-news/2020/research-recap-school-meals.html). The project was also highlighted in a blog authored by PI Lightman for ESI Thought Lab City Age "A Way Forward for Sustainable and Resilient Cities During COVID-19 and Beyond"(https://www.riskierworld.com/latest-insights/a-way-forward-for-sustainable-and-resilient-cities-during-covid-19-and-beyond). We also regularly highlighted this project in various presentations/lectures given by the PIs (for example - https://www.pdma.org/event/2021-04-26-pittsburgh-chapter-event ) as well as showcased it on the Metro21 bi-monthly newsletter as well as on Metro21's social media platforms including Twitter, LinkedIn and Instagram.   Finally, to encourage further research into solving these types of vehicle routing problems, we have created a set of reference problems and made them publicly available in the Kilthub archive (https://kilthub.cmu.edu).  Funding Impact   This project was seeded with $20,000 in funding from Mobilty21 to support the first month of the project and helped launch delivery in Penn Hills, Pennsylvania in July 2020. Supplemented by funding from NSF RAPID in August 2020, we were able to continue this work through the end of the project in June 2021, as well as expand into two more communities in need - McKeesport and McKees Rocks. Metro21 also received $12,000 gift from the United Way of SWPA in appreciation for its hard work on these projects.   Conclusion  We are extremely grateful for the support of NSF through this RAPID grant and feel that this is the kind of work that researchers should be doing ? using technology (in this case newly developed techniques for optimizing remote food delivery) as a tool to improve quality of life for those who most need it.  We are in conversations with several our stakeholders to expand our work in using algorithms to optimize the efficiency and delivery of goods/services to other marginalized communities while at the same time, furthering the state of the art in techniques for solving such vehicle route planning and scheduling problems.          Last Modified: 10/06/2021       Submitted by: Karen H Lightman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

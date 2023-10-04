@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Advanced‌ ‌Computer‌ Vision‌ ‌Methods‌ ‌for‌ ‌Mosquito‌ ‌Surveillance]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255781.00</AwardTotalIntnAmount>
+<AwardAmount>255781</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project will result from the development of new tools to prevent future mosquito disease outbreaks. Most US mosquito control organizations lack the capability or capacity to conduct routine mosquito surveillance, a necessary task for effective mosquito control. Globally, 80% of the world population is at risk for mosquito-borne disease, and mosquito surveillance, monitoring, and evaluation are widely recognized as critical public health activities o be scaled globally. The technology developed through this proposal will develop and demonstrate the feasibility of new identification methods to reduce operational mosquito surveillance costs, while improving accuracy and standardization of data. The result will be improved decisions that will reduce the incidence of mosquito-borne diseases. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will build on advances in computer vision for high accuracy identification of mosquito species in operational contexts. While high accuracy classification of mosquito species has been demonstrated using deep convolutional neural networks (CNNs), evidence has been limited to controlled laboratory environments, with small datasets of few species, or with lab reared specimens. Operational environments face a significantly more complex problem, with hundreds of potential species that may be encountered, and variation in morphology and quality of wild-caught mosquitoes. This proposal seeks to overcome and mitigate the core technical challenges unaddressed by the current state of research, including: fine-grain classification techniques required to distinguish medically relevant species from over three thousand mosquito species found in nature with significant overlapping morphology, novel species detection methods to identify when a presented specimen is from species unknown to the species classification algorithms, and characterizing the feeding state and the physical quality of specimens, such as damage to wings, legs, scales, and body.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/11/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039534</AwardID>
+<Investigator>
+<FirstName>Autumn</FirstName>
+<LastName>Goodwin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Autumn Goodwin</PI_FULL_NAME>
+<EmailAddress><![CDATA[autumn@vectech.io]]></EmailAddress>
+<NSF_ID>000830826</NSF_ID>
+<StartDate>06/11/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>VECTECH, LLC</Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212111955</ZipCode>
+<PhoneNumber>4084387733</PhoneNumber>
+<StreetAddress>3600 CLIPPER MILL RD</StreetAddress>
+<StreetAddress2><![CDATA[STE 205]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KGHKP3FBMB97</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VECTECH, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[VecTech LLC]]></Name>
+<CityName>Baltimore</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212051546</ZipCode>
+<StreetAddress><![CDATA[1812 Ashland Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7453</Code>
+<Text>GRAPHICS &amp; VISUALIZATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255781</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-4b7309ec-7fff-a93b-d778-1368edb1a621"> </span></p> <p dir="ltr"><span>Mosquitoes are one of the most dangerous animals in the world, responsible for an estimated 1 million annual deaths and significant quality of life loss due to diseases they transmit, such as Dengue, Zika, Chikungunya, Malaria, West Nile Virus, Eastern Equine Encephalitis, Yellow Fever, and many other diseases. There are an estimated 2,000 mosquito control districts in the US, responsible for surveillance and control of mosquito populations. Mosquito surveillance data is essential to making informed control decisions to protect public and environmental health. However, many of these organizations lack the resources to devote their most trained individuals to the tedious task of identifying all the specimens they capture during routine surveillance, and others lack the expertise entirely.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>This work supported the development of algorithms for mosquito species identification, bringing entomological expertise to technicians with limited training. Our approach consisted of building a large database of mosquito specimens imaged in Vectech?s standardized imaging device, IDX. This database spans 77 species, with 30 species having sufficient images for supporting early algorithm training. At the time of grant completion, data for 21 of these species had been sufficiently cleaned and validated, ready for experimentation.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Algorithm development centered on methods for creating an algorithm that would be stable in the face of variability experienced during routine operations. Although deep learning algorithms, such as convolutional neural networks, are incredibly powerful and effective at learning data patterns in images, they are also extremely susceptible to data biases. The bulk of this work focused on addressing subtle variability and data biases that occur within and between IDX devices, despite manufacturing consistency. This effect could be observed by disjointing data gathering between the training data and test data; algorithm accuracy on test data gathered at the same time as training data may be 95% accurate, but algorithm accuracy on test data gathered at a separate time may only be 50% accurate. Our work on this issue focused on minor variability in color profile of the devices and variability in the background of the image. We initially address these issues using image processing based operations for image standardization, algorithm generalization, and masking of specimens. Addressing these challenges resulted in 80% accuracy on the test set. End to end testing of the algorithm deployed in the IDX device, operated by a beta customer showed accuracy for 5 target species with significant data in the training set of 97%. Furthermore, we show initial work on unknown species detection methods applied to IDX data achieving an f1-score of 92.7%. These methods are published in </span><a href="https://doi.org/10.3389/fitd.2021.810062"><span>https://doi.org/10.3389/fitd.2021.810062</span></a><span> and </span><a href="https://doi.org/10.1038/s41598-021-92891-9"><span>https://doi.org/10.1038/s41598-021-92891-9</span></a><span>. Preliminary work was done to address the biases described above between devices using generative adversarial networks, rather than image processing techniques. This will lay the groundwork for using these methods to address data biases in specimen attributes that may be unevenly distributed among species in our datasets. These methods will be the primary focus of future Phase II work.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>The result of this work is the successful development of core algorithms for a digital microscope, IDX, for imaging and identification of mosquito specimens gathered during routine operational surveillance by mosquito control districts. IDX will enable small organizations with limited resources, or those in remote or rural areas with limited personnel, to perform high quality vector surveillance and make informed control decisions to protect the health of their constituents. Additionally, the unknown species detection methods have implications for future analysis of convolutional neural networks, in particular as it relates to open-set identification problems.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/11/2023<br>      Modified by: Adam&nbsp;Goodwin</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2039534/2039534_10739472_1673471471239_IDX_example--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2039534/2039534_10739472_1673471471239_IDX_example--rgov-800width.jpg" title="Data collection with Vectech�s IDX"><img src="/por/images/Reports/POR/2023/2039534/2039534_10739472_1673471471239_IDX_example--rgov-66x44.jpg" alt="Data collection with Vectech�s IDX"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Data collection was done with Vectech�s IDX, which has been in production since February 2021. A) The IDX device with a tray loaded into the device, and the data collection portal used to control the device. B) A close up on the specimen panel where users can enter specimen informationation.</div> <div class="imageCredit">Vectech</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Adam&nbsp;Goodwin</div> <div class="imageTitle">Data collection with Vectech�s IDX</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2039534/2039534_10739472_1673471706784_unknown_algorithm_structure--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2039534/2039534_10739472_1673471706784_unknown_algorithm_structure--rgov-800width.jpg" title="Novel unknown species detection architecture"><img src="/por/images/Reports/POR/2023/2039534/2039534_10739472_1673471706784_unknown_algorithm_structure--rgov-66x44.jpg" alt="Novel unknown species detection architecture"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A three tiered architecture and data scheme for differentiating between known and unknown species. (Published in https://doi.org/10.1038/s41598-021-92891-9)</div> <div class="imageCredit">Goodwin et. al. 2021</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Adam&nbsp;Goodwin</div> <div class="imageTitle">Novel unknown species detection architecture</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2039534/2039534_10739472_1673471851097_IDX_data_examples--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2039534/2039534_10739472_1673471851097_IDX_data_examples--rgov-800width.jpg" title="Variable examples from the IDX dataset"><img src="/por/images/Reports/POR/2023/2039534/2039534_10739472_1673471851097_IDX_data_examples--rgov-66x44.jpg" alt="Variable examples from the IDX dataset"></a> <div class="imageCaptionContainer"> <div class="imageCaption">IDX examples from three US species, showing high quality samples, with missing features, with a dirty specimen tray, and with high damage. All types of samples are used in training and testing.</div> <div class="imageCredit">Vectech</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Adam&nbsp;Goodwin</div> <div class="imageTitle">Variable examples from the IDX dataset</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Mosquitoes are one of the most dangerous animals in the world, responsible for an estimated 1 million annual deaths and significant quality of life loss due to diseases they transmit, such as Dengue, Zika, Chikungunya, Malaria, West Nile Virus, Eastern Equine Encephalitis, Yellow Fever, and many other diseases. There are an estimated 2,000 mosquito control districts in the US, responsible for surveillance and control of mosquito populations. Mosquito surveillance data is essential to making informed control decisions to protect public and environmental health. However, many of these organizations lack the resources to devote their most trained individuals to the tedious task of identifying all the specimens they capture during routine surveillance, and others lack the expertise entirely.     This work supported the development of algorithms for mosquito species identification, bringing entomological expertise to technicians with limited training. Our approach consisted of building a large database of mosquito specimens imaged in Vectech?s standardized imaging device, IDX. This database spans 77 species, with 30 species having sufficient images for supporting early algorithm training. At the time of grant completion, data for 21 of these species had been sufficiently cleaned and validated, ready for experimentation.     Algorithm development centered on methods for creating an algorithm that would be stable in the face of variability experienced during routine operations. Although deep learning algorithms, such as convolutional neural networks, are incredibly powerful and effective at learning data patterns in images, they are also extremely susceptible to data biases. The bulk of this work focused on addressing subtle variability and data biases that occur within and between IDX devices, despite manufacturing consistency. This effect could be observed by disjointing data gathering between the training data and test data; algorithm accuracy on test data gathered at the same time as training data may be 95% accurate, but algorithm accuracy on test data gathered at a separate time may only be 50% accurate. Our work on this issue focused on minor variability in color profile of the devices and variability in the background of the image. We initially address these issues using image processing based operations for image standardization, algorithm generalization, and masking of specimens. Addressing these challenges resulted in 80% accuracy on the test set. End to end testing of the algorithm deployed in the IDX device, operated by a beta customer showed accuracy for 5 target species with significant data in the training set of 97%. Furthermore, we show initial work on unknown species detection methods applied to IDX data achieving an f1-score of 92.7%. These methods are published in https://doi.org/10.3389/fitd.2021.810062 and https://doi.org/10.1038/s41598-021-92891-9. Preliminary work was done to address the biases described above between devices using generative adversarial networks, rather than image processing techniques. This will lay the groundwork for using these methods to address data biases in specimen attributes that may be unevenly distributed among species in our datasets. These methods will be the primary focus of future Phase II work.    The result of this work is the successful development of core algorithms for a digital microscope, IDX, for imaging and identification of mosquito specimens gathered during routine operational surveillance by mosquito control districts. IDX will enable small organizations with limited resources, or those in remote or rural areas with limited personnel, to perform high quality vector surveillance and make informed control decisions to protect the health of their constituents. Additionally, the unknown species detection methods have implications for future analysis of convolutional neural networks, in particular as it relates to open-set identification problems.               Last Modified: 01/11/2023       Submitted by: Adam Goodwin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

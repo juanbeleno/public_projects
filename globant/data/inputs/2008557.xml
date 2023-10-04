@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[III: Small: Combinatorial Algorithms for High-dimensional Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>395403.00</AwardTotalIntnAmount>
+<AwardAmount>395403</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Raj Acharya</SignBlockName>
+<PO_EMAI>racharya@nsf.gov</PO_EMAI>
+<PO_PHON>7032927978</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project designs a new suite of statistical learning algorithms for high-dimensional problems in which the number of observations is insufficient to support conventional methods. Solving these problems is vital for modern scientific discoveries in social and environmental issues that rely on both complex models and massive data. For example, many empirical asset pricing models can use only 10 years of daily market data, for a total of approximately 3,000 observations, to fit significantly more than 3,000 parameters. The algorithms created in the project integrate key tools from theoretical computer science with data to deliver more accurate predictions with significantly fewer samples. The suite of new algorithms will assist with data-centric problems in financial econometrics, social network analysis, recommender systems, and skillset inferences. &lt;br/&gt;&lt;br/&gt;From a technical standpoint, this project uses graph-based algorithms and average case analysis to exploit statistical patterns that cannot be addressed by existing tools. These patterns include, for instance, block diagonal structures of the learnable parameters in vector regression models, and covariance matrices of mildly correlated features that exhibit heavy-tailed spectra. The project consists of two thrusts. First is the design of learning algorithms by relating high-dimensional problems to graph-learning problems, and generalizing graph-learning techniques. Second is the construction of new algorithms based on average case analysis, motivated by (i) the avoidance of over-conservativeness by using distributional assumptions, and (ii) the use of ``promises'', a notion borrowed from theoretical computer science, that guides prediction power using input structures. Utilizing weak distributional assumptions and promises together in turn allows the design of effective algorithms for a multitude of problems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/23/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008557</AwardID>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>Stathopoulos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andreas Stathopoulos</PI_FULL_NAME>
+<EmailAddress><![CDATA[andreas@cs.wm.edu]]></EmailAddress>
+<NSF_ID>000346145</NSF_ID>
+<StartDate>02/23/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhenming</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhenming Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[zliu20@wm.edu]]></EmailAddress>
+<NSF_ID>000730307</NSF_ID>
+<StartDate>08/19/2020</StartDate>
+<EndDate>02/23/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bin</FirstName>
+<LastName>Ren</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bin Ren</PI_FULL_NAME>
+<EmailAddress><![CDATA[bren@wm.edu]]></EmailAddress>
+<NSF_ID>000753899</NSF_ID>
+<StartDate>02/23/2022</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>College of William and Mary</Name>
+<CityName>WILLIAMSBURG</CityName>
+<ZipCode>231852817</ZipCode>
+<PhoneNumber>7572213965</PhoneNumber>
+<StreetAddress>1314 S MOUNT VERNON AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EVWJPCY6AD97</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLLEGE OF WILLIAM AND MARY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[College of William and Mary]]></Name>
+<CityName/>
+<StateCode>VA</StateCode>
+<ZipCode>231878795</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~395403</FUND_OBLG>
+</Award>
+</rootTag>

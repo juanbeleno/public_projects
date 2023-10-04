@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Continuous-State Reinforcement Learning for Remanufacturing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>243670.00</AwardTotalIntnAmount>
+<AwardAmount>243670</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+<PO_EMAI>gaklutke@nsf.gov</PO_EMAI>
+<PO_PHON>7032922443</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award will contribute to the national prosperity and U.S. manufacturing competitiveness by developing new reinforcement learning (a subfield of artificial intelligence) methods to address inventory-control problems arising in remanufacturing industry. Remanufacturing is a product-management manufacturing process that aims to reduce the energy consumption and carbon footprint of traditional manufacturing. Effective production/inventory management to match the supply with the demand is a key element to the success of remanufacturing industry. However, the complexity of such problems and the uncertainties involved in the remanufacturing process make the conventional production planning methods difficult to apply.  The resulting algorithms and tools will be fully tested using real-world data collected from the industry and are expected to achieve significant savings in raw materials and energy resources, leading to practical management policies of industrial interest.  The PIs will involve both graduate and undergraduate students in this research and incorporate case studies into the advanced courses taught at different institutions.&lt;br/&gt;&lt;br/&gt;This research will be based on a fusion of techniques from reinforcement learning and the field of simulation optimization. Through novel adaptations of the-state-of-the-art variance reduction and function approximation techniques from simulation optimization, the PIs will investigate a new class of learning techniques especially tailored to remanufacturing decision-making problems. These include an extension of classical Q-learning for solving continuous-state semi-Markov decision processes and more general gradient-free actor-critic-like algorithms that overcome the local convergence of existing approaches. The algorithms developed will be studied for their theoretical properties such as convergence and performance consistency, and then assessed and validated on remanufacturing simulation models built on real-world data to investigate their practical impact.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/27/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027527</AwardID>
+<Investigator>
+<FirstName>Jiaqiao</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jiaqiao Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[jiaqiao.hu.1@stonybrook.edu]]></EmailAddress>
+<NSF_ID>000233465</NSF_ID>
+<StartDate>07/27/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>STONY BROOK</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>W5510 FRANKS MELVILLE MEMORIAL L</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M746VC6XMNH9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>Stony Brook</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>117940001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>006Y</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5514</Code>
+<Text>OPERATIONS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~243670</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CIF: Small: Deep Generative Models for Ultra High-Dimensional Communication]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>165000.00</AwardTotalIntnAmount>
+<AwardAmount>165000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+<PO_EMAI>pregalia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922981</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Future wireless communications applications like untethered virtual reality, connected vehicles, and high resolution mobile video content delivery will demand very high bit rates and reduced energy consumption. To fulfill these requirements, future wireless systems will use very high carrier frequencies enabled by deploying massive arrays of very small antennas. Such architectures are called ultra high dimensional (UHD) communication systems. This is a very challenging scenario for wireless communication, since the wireless channel is difficult to learn and the wireless energy must be radiated in a highly directional manner towards the intended receiver. Existing approaches to these problems will not scale to the UHD scenario in terms of complexity, power consumption, or overhead signaling. This exploratory project will address these challenges emerging in modern wireless communication systems. &lt;br/&gt;&lt;br/&gt;The specific focus of this project is on developing novel unsupervised learning techniques to handle these emerging challenges. In particular, this project will enable accurate and efficient channel estimation techniques, design novel data-driven beamforming schemes, and model the nonlinearities created by quantization. This project will further help in enabling power and bandwidth-efficient UHD communication systems, as well as establishing a new methodology and initializing communication over ultra high carrier frequencies (e.g., above 100 GHz).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008710</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Andrews</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey G Andrews</PI_FULL_NAME>
+<EmailAddress><![CDATA[jandrews@ece.utexas.edu]]></EmailAddress>
+<NSF_ID>000485766</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Georgios-Alex</FirstName>
+<LastName>Dimakis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Georgios-Alex Dimakis</PI_FULL_NAME>
+<EmailAddress><![CDATA[dimakis@austin.utexas.edu]]></EmailAddress>
+<NSF_ID>000515168</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName/>
+<StateCode>TX</StateCode>
+<ZipCode>787595316</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~165000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Future wireless communications applications like untethered virtual reality, connected vehicles, and high resolution mobile video content delivery will demand extremely high bit rates and reduced energy consumption. To fulfill these requirements, future wireless systems will use very high carrier frequencies enabled by deploying massive arrays of very small antennas. Such architectures are called ultra high dimensional (UHD) communication systems. This is a very challenging scenario for wireless communication, since the UHD channel is difficult to learn and the wireless energy must be radiated in a highly directional manner towards the intended receiver. Existing approaches to channel estimation and beam alignment will not scale to the UHD scenario in terms of complexity, power consumption, or overhead signaling. <br /> <br /> The specific focus of this project was to develop novel unsupervised learning techniques&nbsp;to enable accurate and efficient channel estimation techniques, design novel data-driven beamforming schemes, and model the nonlinearities created by quantization.&nbsp; We made considerable progress on each of these tasks in this short 1 year "seed project".&nbsp;&nbsp;</p> <p>Our landmark result was the  development of a new technique showing very promising accuracy and  generality for a spatially high dimensional channel estimator using a deep generative model known as a GAN.&nbsp;&nbsp; Our novel compressed sensing (CS) approach to UHD channel estimation optimizes the input to a  deep generative network.&nbsp; Our approach outperforms state-of-the-art benchmarks and also requires fewer pilot tones to be sent (which cost bandwidth and power).&nbsp; Our deep learning approach also eliminates the need of a priori knowledge of the sparsifying  basis, instead using the structure captured by the deep generative model  as a prior.</p> <p>We then extended this paper in several important directions, notably  in the frequency domain.&nbsp;&nbsp; This resulted in even further performance  improvement as frequency domain correlation could be exploited.&nbsp;&nbsp; Other to researchers in the field are also building on our promising initial results, and several leading wireless companies are also implementing or studying our approach carefully.&nbsp;&nbsp; We have submitted a new updated proposal to the NSF Rings program as well as independently continuing to pursue this novel paradigm for UHD channel estimation and communication.</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/03/2022<br>      Modified by: Jeffrey&nbsp;G&nbsp;Andrews</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Future wireless communications applications like untethered virtual reality, connected vehicles, and high resolution mobile video content delivery will demand extremely high bit rates and reduced energy consumption. To fulfill these requirements, future wireless systems will use very high carrier frequencies enabled by deploying massive arrays of very small antennas. Such architectures are called ultra high dimensional (UHD) communication systems. This is a very challenging scenario for wireless communication, since the UHD channel is difficult to learn and the wireless energy must be radiated in a highly directional manner towards the intended receiver. Existing approaches to channel estimation and beam alignment will not scale to the UHD scenario in terms of complexity, power consumption, or overhead signaling.     The specific focus of this project was to develop novel unsupervised learning techniques to enable accurate and efficient channel estimation techniques, design novel data-driven beamforming schemes, and model the nonlinearities created by quantization.  We made considerable progress on each of these tasks in this short 1 year "seed project".    Our landmark result was the  development of a new technique showing very promising accuracy and  generality for a spatially high dimensional channel estimator using a deep generative model known as a GAN.   Our novel compressed sensing (CS) approach to UHD channel estimation optimizes the input to a  deep generative network.  Our approach outperforms state-of-the-art benchmarks and also requires fewer pilot tones to be sent (which cost bandwidth and power).  Our deep learning approach also eliminates the need of a priori knowledge of the sparsifying  basis, instead using the structure captured by the deep generative model  as a prior.  We then extended this paper in several important directions, notably  in the frequency domain.   This resulted in even further performance  improvement as frequency domain correlation could be exploited.   Other to researchers in the field are also building on our promising initial results, and several leading wireless companies are also implementing or studying our approach carefully.   We have submitted a new updated proposal to the NSF Rings program as well as independently continuing to pursue this novel paradigm for UHD channel estimation and communication.          Last Modified: 01/03/2022       Submitted by: Jeffrey G Andrews]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

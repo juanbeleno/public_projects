@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: III: Multiresolution Tensor Learning for Scalable and Interpretable Spatiotemporal Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>152389.00</AwardTotalIntnAmount>
+<AwardAmount>168389</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hector Munoz-Avila</SignBlockName>
+<PO_EMAI>hmunoz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924481</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A Framework for Scalable and Interpretable Spatiotemporal Data Analysis&lt;br/&gt;&lt;br/&gt;The past few decades have witnessed an explosion of large-scale spatiotemporal data. &lt;br/&gt;At the same time, domain experts and policy makers need data analysis tools that are explainable &lt;br/&gt;in order to trust and deploy them. However, analyzing spatiotemporal data is highly challenging, &lt;br/&gt;as such data often demonstrates complex correlations, high dimensionality, and contains multiple &lt;br/&gt;spatiotemporal resolutions. Meeting this challenge will require new methods that can handle highly &lt;br/&gt;correlated data, generalize to higher dimensions, and reason at different granularities. &lt;br/&gt;To address these challenges, this project will develop a spatiotemporal data analysis framework &lt;br/&gt;that is both scalable and interpretable. The project will apply this framework to tackle challenging &lt;br/&gt;problems in climate informatics, sports analytics, and intelligent transportation. This project will &lt;br/&gt;establish a large-scale spatiotemporal data repository and distribute open source software to benchmark&lt;br/&gt;research progress. The educational component will develop new courses geared towards the intersection of &lt;br/&gt;machine learning and spatiotemporal analysis. Additionally, the principal investigator plans to continue outreach activities &lt;br/&gt;that involve giving tutorials, organizing workshops at relevant conferences.&lt;br/&gt;&lt;br/&gt;The long term goal of this project is to improve the scalability and interpretability of &lt;br/&gt;spatiotemporal analysis tools. The principal investigator has initiated a framework of tensor learning that &lt;br/&gt;can capture higher-order correlations and address high-dimensional issues. This project will &lt;br/&gt;significantly expand the framework to exploit the multiresolution nature of spatiotemporal data. &lt;br/&gt;In particular, the principal investigator will develop a multiresolution tensor learning framework and integrate this &lt;br/&gt;framework into existing models, including latent factor models, Gaussian processes and graph neural &lt;br/&gt;networks. This approach leverages fast tensor optimization algorithms to recognize spatiotemporal &lt;br/&gt;patterns at multiple granularities.  This project will lead to novel techniques to automatically &lt;br/&gt;discover latent semantics, quantify uncertainty, and learn feature representations from &lt;br/&gt;spatiotemporal data in a scalable and interpretable fashion. It will further contribute &lt;br/&gt;to our burgeoning understanding of advanced optimization and statistical tools such as &lt;br/&gt;multigrid optimization, tree-based Gaussian processes and geometric deep learning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037745</AwardID>
+<Investigator>
+<FirstName>Qi</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qi Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[roseyu@eng.ucsd.edu]]></EmailAddress>
+<NSF_ID>000767945</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>9500 GILMAN DRIVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>La Jolla</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930621</ZipCode>
+<StreetAddress><![CDATA[9500 Gilman Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~152389</FUND_OBLG>
+<FUND_OBLG>2020~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project aims to develop a scalable and interpretable multi-resolution tensor learning framework for spatiotemporal data analysis. During the funding period, the PI has completed all the proposed research activities, including the development of efficient multi-resolution tensor learning algorithms, the integration of multi-resolution learning with Gaussian processes, deep learning and latent factor models.&nbsp;</p> <p>The project has led to several publications in top machine learning and data science conference including ICML, NeurIPS, ICLR and KDD.&nbsp;The PI also led the development of TorchTS, a scalable Pytorch deep learning library for spatiotemporal data. She also initiated a large-scale spatiotemporal data repository that contains the standarized meta-data, train and test dataset split and evaluation metrics. They are in the process of combining this repository with the popular UCI machine learning repository.&nbsp;</p> <p>The project supported one graduate student and two undergraduate REU students.&nbsp; Under PI's mentorship, the graduate student won the best paper award at ``NeurIPS workshop on Machine Learning for Public Health''. the REU student was nominated as one of the finalists of ``CRA Outstanding Undergraduate Researcher Award''.&nbsp;</p> <p>The project also contributed to the PI's educational and out-reaching efforts. She has given a lecture-style tutorial at KDD on ``Physics-guided Deep Learning for Large-Scale Spatiotemporal data'', as well as many invited talks. In her deep learning class, she also introduced spatiotemporal data challenges as in-class Kaggle competition for students to better understand relevant techniques.</p><br> <p>            Last Modified: 12/27/2022<br>      Modified by: Qi&nbsp;Yu</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2037745/2037745_10622338_1671997261193_multi_fixed_full_val_F1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2037745/2037745_10622338_1671997261193_multi_fixed_full_val_F1--rgov-800width.jpg" title="multi-resolution_vs_fixed_resolution"><img src="/por/images/Reports/POR/2022/2037745/2037745_10622338_1671997261193_multi_fixed_full_val_F1--rgov-66x44.jpg" alt="multi-resolution_vs_fixed_resolution"></a> <div class="imageCaptionContainer"> <div class="imageCaption">F1 scores of our multi-resolution tensor learning algorithm vs. the  baseline fixed-resolution model on the basketball shot prediction task. The vertical lines indicate finegraining to the next resolution.</div> <div class="imageCredit">Jung Yeon Park</div> <div class="imageSubmitted">Qi&nbsp;Yu</div> <div class="imageTitle">multi-resolution_vs_fixed_resolution</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project aims to develop a scalable and interpretable multi-resolution tensor learning framework for spatiotemporal data analysis. During the funding period, the PI has completed all the proposed research activities, including the development of efficient multi-resolution tensor learning algorithms, the integration of multi-resolution learning with Gaussian processes, deep learning and latent factor models.   The project has led to several publications in top machine learning and data science conference including ICML, NeurIPS, ICLR and KDD. The PI also led the development of TorchTS, a scalable Pytorch deep learning library for spatiotemporal data. She also initiated a large-scale spatiotemporal data repository that contains the standarized meta-data, train and test dataset split and evaluation metrics. They are in the process of combining this repository with the popular UCI machine learning repository.   The project supported one graduate student and two undergraduate REU students.  Under PI's mentorship, the graduate student won the best paper award at ``NeurIPS workshop on Machine Learning for Public Health''. the REU student was nominated as one of the finalists of ``CRA Outstanding Undergraduate Researcher Award''.   The project also contributed to the PI's educational and out-reaching efforts. She has given a lecture-style tutorial at KDD on ``Physics-guided Deep Learning for Large-Scale Spatiotemporal data'', as well as many invited talks. In her deep learning class, she also introduced spatiotemporal data challenges as in-class Kaggle competition for students to better understand relevant techniques.       Last Modified: 12/27/2022       Submitted by: Qi Yu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

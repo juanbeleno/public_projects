@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RUI: Machine Learning Approaches for Accelerating Scientific Discovery in Nuclear Physics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>298947.00</AwardTotalIntnAmount>
+<AwardAmount>298947</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+<PO_EMAI>bmihaila@nsf.gov</PO_EMAI>
+<PO_PHON>7032928235</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Experiments in nuclear physics have begun producing increasingly large volumes of data. This phenomenon has been driven by various advances in technology - for example, the increased sensitivity of the instrumentation that allows detectors to record information at a higher resolution, and upgrades to particle accelerators that enables them to utilize higher luminosity beams leading to more reactions per experiment. Traditional analysis methods are thus becoming intractable. In theoretical nuclear physics, accurate calculations and predictions can be computationally expensive, and surrogate models that allow for fast predictions and functional approximations are thus desired. The PIs plan to address these challenges using tools and techniques from machine learning (ML), a field at the intersection of statistics, mathematics, and computer science that is concerned with designing, building, and studying computational systems that improve at a task with accrued experience. ML-based systems excel at extracting patterns and drawing inferences from data, and are the method of choice in a number of challenging computational domains, such as computer vision and machine translation. This work will apply cutting-edge ML techniques to standing issues in nuclear physics. The PIs will conduct this research in collaboration with undergraduate students, who will receive close mentorship and scientific training.&lt;br/&gt;&lt;br/&gt;The algorithms, statistical models, and software developed in this work is designed to aid in scientific discoveries at the Facility for Rare Isotope Beams (FRIB), Argonne National Laboratory (Argonne), Thomas Jefferson National Accelerator Facility (JLab), and the upcoming Electron Ion Collider (EIC). The PIs will use machine learning techniques to: (1) improve data analysis methods for experiments at FRIB, (2) create novel theoretical models informed by experimental data for use at JLab and the planned EIC, and (3) optimize beam delivery techniques at FRIB and Argonne. The first goal will be achieved through the adaptation and implementation of neural network architectures such as Convolutional Neural Networks and Context Encoders, which are commonly used in supervised image analysis applications. The second goal will be approached by utilizing techniques from unsupervised learning, including generative modeling methods such as Generative Adversarial Networks and Autoencoders, while leveraging methods that predict distributions like Mixture Density Networks. Finally, the third goal will be realized by applying algorithms such as Proximal Policy Optimization from the area of deep reinforcement learning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012865</AwardID>
+<Investigator>
+<FirstName>Michelle</FirstName>
+<LastName>Kuchera</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michelle P Kuchera</PI_FULL_NAME>
+<EmailAddress><![CDATA[mikuchera@davidson.edu]]></EmailAddress>
+<NSF_ID>000815062</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Raghuram</FirstName>
+<LastName>Ramanujan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Raghuram Ramanujan</PI_FULL_NAME>
+<EmailAddress><![CDATA[raramanujan@davidson.edu]]></EmailAddress>
+<NSF_ID>000813781</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Davidson College</Name>
+<CityName>DAVIDSON</CityName>
+<ZipCode>280369405</ZipCode>
+<PhoneNumber>7048942644</PhoneNumber>
+<StreetAddress>405 N MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MYR7QGXJF3J5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF DAVIDSON COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Davidson College]]></Name>
+<CityName>Davidson</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>280357149</ZipCode>
+<StreetAddress><![CDATA[Grants & Contracts, Box 7149]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1233</Code>
+<Text>NUCLEAR STRUCTURE &amp; REACTIONS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1285</Code>
+<Text>NUCLEAR THEORY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7621</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7621</Code>
+<Text>PHYSICS-BROADEN PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~105179</FUND_OBLG>
+<FUND_OBLG>2021~115487</FUND_OBLG>
+<FUND_OBLG>2022~78281</FUND_OBLG>
+</Award>
+</rootTag>

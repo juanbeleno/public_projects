@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Understanding Urban Resilience to Pluvial Floods Using Reduced-Order Modeling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>149755.00</AwardTotalIntnAmount>
+<AwardAmount>149755</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jacqueline Meszaros</SignBlockName>
+<PO_EMAI>jmeszaro@nsf.gov</PO_EMAI>
+<PO_PHON>7032927261</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Flooding is exacerbated in urban landscapes, where intense rainfall combines with high levels of impervious land cover to produce flooding in areas not immediately adjacent to rivers and their traditionally defined floodplains. Recent events across the nation have demonstrated that this type of flooding (termed ‘pluvial’) adversely affects urban resilience and is a major contributor to overall flood damage and fatalities. Despite the increasing recognition of its importance, pluvial flooding remains poorly understood because of the failure of conventional rainfall predictions and inundation assessment methods to assess the likelihood and severity of its occurrence, and the extreme computational cost of more sophisticated models that could otherwise help address this knowledge gap. By focusing on extreme summer precipitation and flooding in densely populated urban areas, this Disaster Resilience Research Grants (DRRG) project will address the precursors to and the occurrence of flooding hazard phenomena, as well as the uncertainty associated with its prediction. By enabling quantification of the likelihood of a flood hazard outside of riverine floodplains, this research will inform disaster management planning at scales of engineering practice. &lt;br/&gt;&lt;br/&gt;This project hypothesizes that (i) modern techniques in probabilistic analysis can simplify the representation of extreme rainfall processes that produce pluvial floods; that (ii) both surface drainage network and flow hydrodynamic features within an urban landscape determine the formation of floods outside of riverine areas; and that (iii) flood “surrogate” modeling combined with high-fidelity, first-principles modeling is indispensable for computational discovery in flood science and the development of practical tools to enhance the resilience of urban environments to pluvial flooding. The specific objectives of this research are (1) to demonstrate the potential for flood prediction using state-of-the-science rainfall and land surface data and hybrid modeling approaches; (2) to address the project hypotheses through a combination of state-of-the-science data, modeling, and uncertainty quantification methods; and (3) to distribute developed tools through open-source software packages. Project activities will focus on a case study urban watershed in a suburban area of Detroit identified by regional stakeholders as one key area to understand the formation and management of stormwater.&lt;br/&gt;&lt;br/&gt;This proposal is co-funded by NSF-NIST Disaster Resilience Research Grants and NSF's Hydrologic Sciences Program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/22/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>12/22/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2053358</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Wright</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel B Wright</PI_FULL_NAME>
+<EmailAddress><![CDATA[danielb.wright@wisc.edu]]></EmailAddress>
+<NSF_ID>000731822</NSF_ID>
+<StartDate>12/22/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 N PARK ST STE 6301</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LCLSJAGTNZQ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QAFKGG7YY396</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[College of Engineering]]></Name>
+<CityName>Madison</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>537061607</ZipCode>
+<StreetAddress><![CDATA[1415 Engineering Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1579</Code>
+<Text>Hydrologic Sciences</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>198Y</Code>
+<Text>DRRG-Disaster Resilience Res G</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1579</Code>
+<Text>HYDROLOGIC SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1638</Code>
+<Text>INFRAST MGMT &amp; EXTREME EVENTS</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~149755</FUND_OBLG>
+</Award>
+</rootTag>

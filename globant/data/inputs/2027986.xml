@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Random Planar Geometry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>58220.00</AwardTotalIntnAmount>
+<AwardAmount>58220</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+<PO_EMAI>tbartosz@nsf.gov</PO_EMAI>
+<PO_PHON>7032924885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A central theme in probability theory is to understand large discrete models and their scaling limits. The limiting objects, which are usually characterized by certain symmetries and spatial independence, capture the universal large-scale behavior of many models. In the last few decades, there have been great advances in random planar geometry, especially in the understanding of some fundamental two-dimensional discrete models and their scaling limits. These developments hugely expand our knowledge on the randomness of basic objects such as curves, functions, trees, and surfaces. They also revolutionize the mathematical understanding of some central pieces of physics, including conformal field theory, critical phenomena, and quantum gravity.  This project aims to broaden understanding of the fundamental mathematical underpinnings in this subject.&lt;br/&gt;&lt;br/&gt;The project will explore two research directions in random planar geometry. In the first direction, the project aims at linking two ways of constructing random surfaces: (1) through the scaling limits of random planar maps; (2) through a continuous theory called the Liouville quantum gravity (LQG). The investigator plans to prove a conjecture asserting that LQG is the scaling limit of random planar maps in a strong sense. As a tool for proving this conjecture, the project considers a statistical mechanical model called the critical percolation and aims to establish that the scaling limit of the critical percolation on the uniform random triangulation and on a regular triangular lattice are the same. The ingredients in both investigations include: (a) combinatorial bijections for planar maps that encode their geometric information; (b) a relation between fractals in quantum and Euclidean geometry called the Knizhnik-Polyakov-Zamolodchikov relation; (c) the Fourier analysis of Boolean functions. In the second direction, the investigator aims to resolve questions in the geometry of random planar maps, computational geometry, and fractal geometry. The common theme in the approaches is the application of two recently-developed machineries in continuous random planar geometry called imaginary geometry and mating of trees.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027986</AwardID>
+<Investigator>
+<FirstName>Xin</FirstName>
+<LastName>Sun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xin Sun</PI_FULL_NAME>
+<EmailAddress><![CDATA[xinsun@sas.upenn.edu]]></EmailAddress>
+<NSF_ID>000758338</NSF_ID>
+<StartDate>03/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>3451 WALNUT ST STE 440A</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GM1XX56LEP58</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>GM1XX56LEP58</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName>Philadelphia</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191046205</ZipCode>
+<StreetAddress><![CDATA[3451 Walnut Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1263</Code>
+<Text>PROBABILITY</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~58220</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The proposed research concerns random planar geometry. Two major subjects in this field are&nbsp; Schramm-Loenwer evolution (SLE) and Liouville quantum gravity (LQG).&nbsp; SLE is a&nbsp; family of random planar curves enjoying conformal symmetries, which describe the scaling limits of a large class of 2D statistical physics models at criticality. LQG is a theory of&nbsp; random surface, which originated from string theory and&nbsp; describes the scaling limit of random planar maps. Over the last two decades this field has experienced a rapid expansion and remains one of the most active fields in probability and mathematical physics. Centered around SLE and LQG, the proposed research can be divided into two themes, as summarized below.</p> <p>The first theme is the geometric aspect of SLE and LQG, and their discrete counterparts: statistical physics models and random planar maps.&nbsp; In particular, with coauthors, the PI proved that LQG describes&nbsp; the scaling limit of&nbsp; uniformly sampled random triangulations under a discrete conformal embedding. Proving such kinds of scaling limits&nbsp; is a chief goal in the study of random planar maps and LQG, as two different approaches to random surfaces. The PI also proved that site percolation on uniform triangulations converges to SLE curves, in analog to Smirnov's famous result for percolation on the triangular lattice.&nbsp;</p> <p>The second theme of the proposed research is the exactly solvable aspect of SLE and LQG, which is closely related to conformal field theory.&nbsp;Random surfaces and scaling limits of 2D statistical physics models that are nowadays studied via SLE and LQG in probability, have been studied via&nbsp; another approach called conformal field theory (CFT) since the 1980s in theoretical physics.&nbsp;In mathematics, CFT is mainly studied algebraically through representation theory.&nbsp;With various collaborators on different projects, the PI initiated the program of unifying the LQG/SLE approach and the CFT approach to random surfaces and 2D statistical physics.&nbsp; The key outputs of this program during the reporting period include the clarification of the relation between SLE/LQG&nbsp; and&nbsp; three important CFTs: Liouville CFT, minimal model and ghost CFT.&nbsp;&nbsp;Along the way, the PI and his collaborators proved several long standing predictions in theoretical physics, such as the law of the random modulus of the scaling limit of uniform triangulation on an annulus.</p> <p>For broader impact, the PI's results provide solid justifications of basic assumptions in the quantum field theory approach to 2D As demonstrated in the PI's research. The PI developed a topic course on random planar geometry for beginning graduates to work in this direction, which he taught in 2020. During the reporting period, the PI mentored two Ph.D. students at his current home institution to work on the proposed projects. He also mentored an undergraduate student to do related research through an undergraduate research program he co-founded.&nbsp; Since 2020, the PI has co-organized an online seminar on random planar geometry which has become a regular avenue for researchers around the world to share results in this field.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/31/2022<br>      Modified by: Xin&nbsp;Sun</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The proposed research concerns random planar geometry. Two major subjects in this field are  Schramm-Loenwer evolution (SLE) and Liouville quantum gravity (LQG).  SLE is a  family of random planar curves enjoying conformal symmetries, which describe the scaling limits of a large class of 2D statistical physics models at criticality. LQG is a theory of  random surface, which originated from string theory and  describes the scaling limit of random planar maps. Over the last two decades this field has experienced a rapid expansion and remains one of the most active fields in probability and mathematical physics. Centered around SLE and LQG, the proposed research can be divided into two themes, as summarized below.  The first theme is the geometric aspect of SLE and LQG, and their discrete counterparts: statistical physics models and random planar maps.  In particular, with coauthors, the PI proved that LQG describes  the scaling limit of  uniformly sampled random triangulations under a discrete conformal embedding. Proving such kinds of scaling limits  is a chief goal in the study of random planar maps and LQG, as two different approaches to random surfaces. The PI also proved that site percolation on uniform triangulations converges to SLE curves, in analog to Smirnov's famous result for percolation on the triangular lattice.   The second theme of the proposed research is the exactly solvable aspect of SLE and LQG, which is closely related to conformal field theory. Random surfaces and scaling limits of 2D statistical physics models that are nowadays studied via SLE and LQG in probability, have been studied via  another approach called conformal field theory (CFT) since the 1980s in theoretical physics. In mathematics, CFT is mainly studied algebraically through representation theory. With various collaborators on different projects, the PI initiated the program of unifying the LQG/SLE approach and the CFT approach to random surfaces and 2D statistical physics.  The key outputs of this program during the reporting period include the clarification of the relation between SLE/LQG  and  three important CFTs: Liouville CFT, minimal model and ghost CFT.  Along the way, the PI and his collaborators proved several long standing predictions in theoretical physics, such as the law of the random modulus of the scaling limit of uniform triangulation on an annulus.  For broader impact, the PI's results provide solid justifications of basic assumptions in the quantum field theory approach to 2D As demonstrated in the PI's research. The PI developed a topic course on random planar geometry for beginning graduates to work in this direction, which he taught in 2020. During the reporting period, the PI mentored two Ph.D. students at his current home institution to work on the proposed projects. He also mentored an undergraduate student to do related research through an undergraduate research program he co-founded.  Since 2020, the PI has co-organized an online seminar on random planar geometry which has become a regular avenue for researchers around the world to share results in this field.             Last Modified: 10/31/2022       Submitted by: Xin Sun]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

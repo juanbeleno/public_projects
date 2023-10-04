@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  AI-Based Tuberculosis Diagnostic Tool]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of software that will serve as an aid to the pathologist to provide more accurate diagnoses using histopathology images. The software will be deployed on the cloud so that it can be used anywhere, anytime through a web portal using a desktop, laptop, tablet, or a smart-phone. The software has the potential to dramatically speed up the disease diagnosis process with increased accuracy, which in turn will result in improved quality of care and better patient outcomes.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of novel deep learning techniques for whole-slide image analysis to aid pathologists in making a better diagnosis for diseases such as tuberculosis. Pathologists make a diagnosis based on recognizing patterns in histopathology images. Recognizing pathology patterns takes many years of training. After training, pathologists spend significant amount of time doing pattern recognition for the rest of their life. With the potential to save time and effort for pathologists, and inspired by the recent success of deep learning on natural images, there is a need to develop artificial intelligence models to recognize patterns in histopathology images. In addition to tuberculosis, the proposed techniques and software prototype could be extended to the diagnosis of other diseases in the future.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022602</AwardID>
+<Investigator>
+<FirstName>Ye</FirstName>
+<LastName>Duan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ye Duan</PI_FULL_NAME>
+<EmailAddress><![CDATA[duanye@missouri.edu]]></EmailAddress>
+<NSF_ID>000493196</NSF_ID>
+<StartDate>05/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652113020</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress>121 UNIVERSITY HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SZPJL5ZRCLF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Curators of the University of Missouri]]></Name>
+<CityName>Columbia</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>652110001</ZipCode>
+<StreetAddress><![CDATA[115 Business Loop 70W Mizzou Nor]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>During this project period, we first went through a 6-weeks virtual cohort training camp, followed by many customer discovery activities. The cohort training camp is phenomenal and totally opened our vision and mind. We conducted many customer discovery activities during and after the cohort training camp to explore the commercial potential of the deep learning technology for digital pathology. We interviewed many pathologists and attended trade shows such as the Digital Pathology &amp; AI world congress. All these activities have enabled us to </span><span>obtain a much clearer picture of what to do next for our technology. During this project period we are also able to find some potential collaborations in commercializing the technology. Overall, we are very grateful to the support of NSF. The I-Corps experience is transformative for all the project members.&nbsp;</span>Besides our initial research on AI-based TB diagnosis, we plan to develop some AI-enhanced tools for assisting pathologists for more challenging cases. This could be very beneficial to the society and definitely has market value. That will be our plan in the next phase of the project. We plan to keep working on the technology and in the meantime, we will be looking for additional funding support to enable us to continue developing the prototype product and seeking commercialization.</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/02/2023<br>      Modified by: Ye&nbsp;Duan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ During this project period, we first went through a 6-weeks virtual cohort training camp, followed by many customer discovery activities. The cohort training camp is phenomenal and totally opened our vision and mind. We conducted many customer discovery activities during and after the cohort training camp to explore the commercial potential of the deep learning technology for digital pathology. We interviewed many pathologists and attended trade shows such as the Digital Pathology &amp; AI world congress. All these activities have enabled us to obtain a much clearer picture of what to do next for our technology. During this project period we are also able to find some potential collaborations in commercializing the technology. Overall, we are very grateful to the support of NSF. The I-Corps experience is transformative for all the project members. Besides our initial research on AI-based TB diagnosis, we plan to develop some AI-enhanced tools for assisting pathologists for more challenging cases. This could be very beneficial to the society and definitely has market value. That will be our plan in the next phase of the project. We plan to keep working on the technology and in the meantime, we will be looking for additional funding support to enable us to continue developing the prototype product and seeking commercialization.          Last Modified: 01/02/2023       Submitted by: Ye Duan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

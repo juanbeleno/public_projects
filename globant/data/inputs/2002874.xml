@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: MLWiNS: A Coding-Centric Approach to Robust, Secure, and Private Distributed Learning over Wireless]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>133332.00</AwardTotalIntnAmount>
+<AwardAmount>133332</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Human and industrial automation, powered by machine learning (ML) such as Deep Neural Networks (DNNs) and the burgeoning ecosystem of billions of edge computing devices with sensors connected through the infrastructure of the internet (i.e., Internet of Things, or IoT) is shaping the future of our society. Federated learning (also known as, collaborative learning) techniques work across multiple decentralized edge devices and/or servers holding local data samples and facilitate training of the algorithms by exchanging parameters (i.e., weights associated with deep networks) instead of the actual data samples. Federated learning over wireless networks is challenging because of data loss associated with the communication characteristics. The goal of this project is to provide their critically needed augmented intelligence by enabling federated learning at the wireless edge, via an innovative framework, named coded computing. The societal impact of democratizing machine learning on low cost edge devices is also expected to be vast. For instance, smart edge networks that track safety automatically and continuously in workplaces can have a significant societal and economic impact. This project paves the path towards scalable realization of such applications.&lt;br/&gt;&lt;br/&gt;Coded computing has been hugely successful for large-scale distributed machine learning, where one can judiciously create computational redundancy in a coded manner to  efficiently deal with communication bottleneck and system disturbances such as stragglers, outages, node failures, and adversarial computations -- precisely the set of challenges that hobble distributed wireless edge computations for machine learning.  This project leads to the development of theory and algorithms for federated machine learning over wireless that are driven by fundamental principles informed by coding and information theory. In particular, this project holistically addresses the challenges of (i) wireless bandwidth costs, (ii) resiliency to wireless outages, (iii) security, and (iv) prioritizing user data privacy that is critical for large-scale user participation in wireless edge computing. Another key aspect of wireless networks is that mobile users join and leave the network arbitrarily, and user locations can change frequently. The research team will develop a federated learning framework that can adapt to such dynamic network topologies by designing a self-configurable protocol that can accommodate new users on-the-go, thereby adapting to the changes in the network topology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002874</AwardID>
+<Investigator>
+<FirstName>Murali</FirstName>
+<LastName>Annavaram</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Murali Annavaram</PI_FULL_NAME>
+<EmailAddress><![CDATA[annavara@usc.edu]]></EmailAddress>
+<NSF_ID>000496713</NSF_ID>
+<StartDate>05/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amir</FirstName>
+<LastName>Avestimehr</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amir S Avestimehr</PI_FULL_NAME>
+<EmailAddress><![CDATA[avestime@usc.edu]]></EmailAddress>
+<NSF_ID>000532667</NSF_ID>
+<StartDate>05/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900894304</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>3720 S FLOWER ST</StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900890001</ZipCode>
+<StreetAddress><![CDATA[3740 McClintock Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>2878</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>021Z</Code>
+<Text>Industry Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8585</Code>
+<Text>NSF/Intel Partnership Projects</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~133332</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project designed and developed distributed machine learning solutions at the edge. Edge based machine learning has to handle a broad range of challenges,&nbsp;including (i) wireless bandwidth limitations, (ii) edge node failures and other network outages, (iii) malicious nodes at the edge that compromise security and privacy of the computations or user data. The project relied on the novel notion of coded computing to tackle these challenges in a unified framework.</p> <p>One such work developed by this project is called&nbsp;<strong>AVCC (adapative verifiable coded computing), </strong>which allows robust distributed machine learning in the presence of&nbsp; stragglers and Byzantine workers. Much of the prior work coupled straggler toleranace and Byzantine worker detection into a single solution that used coded data redundancy. AVCC makes the observation that coupling Byzantine node detection with straggler tolerance causes substantial overheads to the overall system design. Hence,&nbsp; AVCC leverages coded computing just for handling stragglers and privacy, and then uses an orthogonal approach that leverages verifiable computing to mitigate Byzantine workers.&nbsp;</p> <p>A concurrent line of research has developed a wide range of solutions to improve the efficiency of federated learning, which is an edge-centric distributed machine learning framework. In particular, this project developed&nbsp;<strong>LightSecAgg, </strong>which is secure model aggregation technique for federated learning (FL).&nbsp; Secure aggregation protects the privacy of each user&rsquo;s individual model while allowing for their global aggregation.&nbsp; Existing secure aggregation schemes become very complex when handling&nbsp;&nbsp;user dropouts, which is a common phenomenon in FL.&nbsp;&nbsp;These protocols rely on secret sharing of the random-seeds used for mask generations at the users to enable the reconstruction and cancellation of those belonging to the dropped users. The complexity of such approaches, however, grows quadratically with the number of dropped users.&nbsp; LightSecAgg overcomes this bottleneck by changing the design from &ldquo;random-seed reconstruction of the dropped users&rdquo; to &ldquo;one-shot aggregate-mask reconstruction of the active users via mask encoding/decoding&rdquo;. This approach based on data coding achieves the same privacy and dropout-resiliency guarantees as the state-of-the-art protocols while significantly reducing the overhead for resiliency against dropped users.</p> <p>The project also designed hybrid techniques that use a combination of data coding and trusted execution enclaves in hardware to vastly reduce the cost of secure aggregation while concurrently allowing the detection of malicious clients in the FL systems. One such approach developed by this project is&nbsp;<strong>FedVault.</strong>&nbsp;FedVault creates secure enclaves using a trusted execution environment (TEE) within the FL aggregation server. Each client encrypts their gradients and send them to verifiable enclaves. The gradients are decrypted within the enclave without the fear of privacy breaches. This approach thus solves the challenge of sending open gradients that may leak client information to a server. However, tracking malicious client updates&nbsp; that may send mis-guided gradients require computationally expensive operations such pair-wise distance measurements, which are&nbsp; prohibitively expensive in TEE. FedVault then uses a novel gradient encoding that enables TEEs to encode the gradients and then offloads outlier detection computations to accelerators such as GPUs.&nbsp;&nbsp;</p> <p><strong>Broader Impacts:</strong></p> <p>This project developed novel algorithms that break the conundrum of handling malicious entities at the edge, while concurrently protecting the privacy of the edge data. The developed solutions have received signficant attention, as evinced by several citations.&nbsp; The project also enabled the training of at least 5 PhD students and postdoctoral researchers, who have taken either faculty positions or embarked on industry research at large US technology corporations. In addition, the project also supported undergraduate research through undergraduate student mentoring and active involvement in the research design. One of the published papers was co-authored by the undergraduate student researcher.&nbsp; &nbsp;&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/01/2023<br>      Modified by: Amir&nbsp;S&nbsp;Avestimehr</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project designed and developed distributed machine learning solutions at the edge. Edge based machine learning has to handle a broad range of challenges, including (i) wireless bandwidth limitations, (ii) edge node failures and other network outages, (iii) malicious nodes at the edge that compromise security and privacy of the computations or user data. The project relied on the novel notion of coded computing to tackle these challenges in a unified framework.  One such work developed by this project is called AVCC (adapative verifiable coded computing), which allows robust distributed machine learning in the presence of  stragglers and Byzantine workers. Much of the prior work coupled straggler toleranace and Byzantine worker detection into a single solution that used coded data redundancy. AVCC makes the observation that coupling Byzantine node detection with straggler tolerance causes substantial overheads to the overall system design. Hence,  AVCC leverages coded computing just for handling stragglers and privacy, and then uses an orthogonal approach that leverages verifiable computing to mitigate Byzantine workers.   A concurrent line of research has developed a wide range of solutions to improve the efficiency of federated learning, which is an edge-centric distributed machine learning framework. In particular, this project developed LightSecAgg, which is secure model aggregation technique for federated learning (FL).  Secure aggregation protects the privacy of each user’s individual model while allowing for their global aggregation.  Existing secure aggregation schemes become very complex when handling  user dropouts, which is a common phenomenon in FL.  These protocols rely on secret sharing of the random-seeds used for mask generations at the users to enable the reconstruction and cancellation of those belonging to the dropped users. The complexity of such approaches, however, grows quadratically with the number of dropped users.  LightSecAgg overcomes this bottleneck by changing the design from "random-seed reconstruction of the dropped users" to "one-shot aggregate-mask reconstruction of the active users via mask encoding/decoding". This approach based on data coding achieves the same privacy and dropout-resiliency guarantees as the state-of-the-art protocols while significantly reducing the overhead for resiliency against dropped users.  The project also designed hybrid techniques that use a combination of data coding and trusted execution enclaves in hardware to vastly reduce the cost of secure aggregation while concurrently allowing the detection of malicious clients in the FL systems. One such approach developed by this project is FedVault. FedVault creates secure enclaves using a trusted execution environment (TEE) within the FL aggregation server. Each client encrypts their gradients and send them to verifiable enclaves. The gradients are decrypted within the enclave without the fear of privacy breaches. This approach thus solves the challenge of sending open gradients that may leak client information to a server. However, tracking malicious client updates  that may send mis-guided gradients require computationally expensive operations such pair-wise distance measurements, which are  prohibitively expensive in TEE. FedVault then uses a novel gradient encoding that enables TEEs to encode the gradients and then offloads outlier detection computations to accelerators such as GPUs.    Broader Impacts:  This project developed novel algorithms that break the conundrum of handling malicious entities at the edge, while concurrently protecting the privacy of the edge data. The developed solutions have received signficant attention, as evinced by several citations.  The project also enabled the training of at least 5 PhD students and postdoctoral researchers, who have taken either faculty positions or embarked on industry research at large US technology corporations. In addition, the project also supported undergraduate research through undergraduate student mentoring and active involvement in the research design. One of the published papers was co-authored by the undergraduate student researcher.              Last Modified: 09/01/2023       Submitted by: Amir S Avestimehr]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

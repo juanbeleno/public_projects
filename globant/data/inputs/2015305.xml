@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Applications of Number Theory to the Quantum Gates Model]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/19/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>74288.00</AwardTotalIntnAmount>
+<AwardAmount>74288</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+<PO_EMAI>adpollin@nsf.gov</PO_EMAI>
+<PO_PHON>7032924878</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Both the research and broader activities in this award include current developments in number theory and their applications in quantum computing and quantum chaos. In terms of practical applications of the project, the PI expects that his refined version of Ross and Selinger algorithm will be used if a physical quantum computer is built. The hope is that quantum computers will eventually be able to efficiently simulate quantum physics and study many (important) computationally difficult problems inaccessible to modern-day computers. There are models such as the Quantum Gates Model that give theoretical constructions of efficient circuits to be used in quantum computers. This model is connected to the study of integral solutions to Diophantine equations, an ancient subject of interest to mathematicians. A question of interest to both quantum computer scientists as well as mathematicians is the optimal approximation of real solutions of special Diophantine equations by integral solutions. The PI has proved new (optimal) results in this direction. Furthermore, he has proved that this task is computationally hard (NP-complete) for generic inputs.&lt;br/&gt;&lt;br/&gt;On a more technical level, one of the central problems in the Quantum Gates Model is the approximation of an arbitrary qubit using a fixed set of generators called universal quantum gates. In the single-qubit case, this amounts to navigating the unitary group SU(2) by a specific set of topological generators (e.g. V-gates or the Lubotzky-Phillips-Sarnak generators) that are carefully chosen such that the associated transition matrix has the optimal spectral gap (e.g. the eigenvalues of the Hecke operators satisfy the Ramanujan bound). The PI proposes a refinement of the Ross and Selinger algorithm for approximating an arbitrary single-qubit that removes all heuristic assumptions from their algorithm. Among the new tools in this approach are the delta method, Sieve theory, and the spectral theory of modular forms and bounds on their Fourier coefficients. An objective of this project is to generalize the results of the PI to higher rank arithmetic groups which brings in the theory of the oscillator representation and the theory of automorphic representations. Motivated by Berry's conjecture in Quantum Chaos, the PI studies the statistical properties and the multiplicity of the eigenvalues of the transition matrix of the quantum gates (the Hecke operators). So far, the PI has proved power saving upper bounds as well as absolute upper bound on the multiplicity of the eigenvalues of the Hecke operators. Furthermore, the PI has proved lower bounds on the discrepancy of the spectral measure with respect to the Plancherel measure. The project brings together the deformation theory of Galois representations, Iwasawa theory, the Taylor-Wiles method, trace formulae, and other tools from the algebraic and analytic number theorists' toolbox in order to answer questions of interest to computer scientists as well as mathematicians.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015305</AwardID>
+<Investigator>
+<FirstName>Naser</FirstName>
+<LastName>Talebizadeh Sardari</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Naser Talebizadeh Sardari</PI_FULL_NAME>
+<EmailAddress><![CDATA[nzt5208@psu.edu]]></EmailAddress>
+<NSF_ID>000731074</NSF_ID>
+<StartDate>01/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Institute of Mathematics</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>91125</ZipCode>
+<PhoneNumber>4083502088</PhoneNumber>
+<StreetAddress>CALTECH, 1200 E CALIFORNIA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RP8CDDTJLA24</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AMERICAN INSTITUTE OF MATHEMATICS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[American Institute of Mathematics]]></Name>
+<CityName>San Jose</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>951121006</ZipCode>
+<StreetAddress><![CDATA[600 E Brokaw Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~74288</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Intellectual merit:</p> <p>During his NSF grant, the PI published or drafted ten papers.</p> <p>&nbsp;</p> <div class="page" title="Page 17"> <div class="layoutArea"> <div class="column"> <p>&nbsp;</p> <ol> <li>1)Frank Calegari and Naser Talebizadeh Sardari. Vanishing Fourier coefficients of Hecke eigen- forms.&nbsp;Math. Ann., 381(3-4):1197?1215, 2021.&nbsp;&nbsp;They proved that, for fixed level~$(N,p) = 1$ and~$p &gt; 2$, there are only finitely many Hecke eigenforms~$f$ of level~$\Gamma_1(N)$ and even weight with~$a_p(f) = 0$ which are not CM. They used a version of modularity theorems and a $p$-adic variant of Lang's theorem. The classical analogue of Lang's theorem is the statement that any infinite set of points $(\exp(ax),\exp(x))$ are Zariski dense in $(\mathbf{C}^{*})^2$ whenever $a\notin \mathbf{Q}$.</li> <li></li> <li>&nbsp;2)Naser Talebizadeh Sardari. The least prime number represented by a binary quadratic form.&nbsp;J. Eur. Math. Soc. (JEMS), 23(4):1161?1223, 2021. The PI proved an optimal bound on the size of the least prime number represented by a binary quadratic form with discriminant $D.$ This sharp upper bound on the least prime number is crucial in the analysis of the complexity of some algorithms in quantum compiling. The proof used Selberg's sieve and Duke's bound on the Fourier coefficients of half-integral modular forms.&nbsp;</li> <li></li> <li>3)Naser T. Sardari and Masoud Zargar. Ramanujan graphs and exponential sums over function fields.&nbsp;J. Number Theory, 217:44?77, 2020.They proved a non-trivial lower bound on the diameter of Morgenstern Ramanujan graphs. They showed that this bound is optimal under a twisted version of Selberg and Linnik's conjecture over function fields. They developed a version of the circle method over function fields.&nbsp;</li> <li></li> <li>4)Junehyuk Jung and Naser Talebizadeh Sardari. Asymptotic trace formula for the Hecke oper- ators.&nbsp;Math. Ann., 378(1-2):513?557, 2020. With an appendix by Simon Marshall. They proved an explicit formula with an optimal error term (with square root cancelation) for the Petersson trace formula in some asymptotic range. &nbsp;As an application, for any fixed prime $p$ coprime to $N$, they showed that there exists a sequence $\{k_n\}$ of weights such that the error term of Weyl's law for $T_p$ is unusually large and violates the prediction of arithmetic quantum chaos. In particular, this generalizes the result of Gamburd, Jakobson, and Sarnak \cite[Theorem 1.4]{Gamburd} with an improved exponent.</li> <li></li> <li>5)Naser T Sardari. Complexity of Strong Approximation on the Sphere.&nbsp;International Mathe- matics Research Notices, 2021(18):13839?13866, 10 2019. As an application of his results in this paper, the PI developed and implemented a deterministic polynomial-time algorithm for navigating Lubotzky, Phillips, and Sarnak (LPS) Ramanujan graphs under some standard conjectures.&nbsp;</li> </ol><ol> <li>6)Junehyuk Jung and Naser Talebizadeh Sardari. Intersecting geodesics on the modular surface.&nbsp;arXiv e-prints, page arXiv:2101.08768, January 2021. Accepted for publication in Algebra \&amp; Number Theory. As a corollary of the main theorem, they proved a conjecture of Rickards on intersecting angle of geodesics on the modular surface.&nbsp;</li> <li></li> <li>7)Naser T. Sardari and Masoud Zargar. Sections of quadrics over&nbsp;AFq&nbsp;.&nbsp;arXiv e-prints, page arXiv:1907.07839, July 2019. Accepted for publication in Advances in Mathematics. They generalized PI's optimal strong approximation result for quadratic forms. They developed a version of the circle method over function fields to prove our results.&nbsp;</li> <li></li> <li>8)Naser Talebizadeh Sardari. Higher Fourier interpolation on the plane.&nbsp;arXiv e-prints, page arXiv:2102.08753, February 2021. Submitted. The main result resolved a conjecture of Cohn, Kumar, Miller, Radchenko, and Viazovska, which is related to the universality of the hexagonal lattice.</li> <li></li> <li>9)Naser T. Sardari and Masoud Zargar. New upper bounds for spherical codes and packings.&nbsp;arXiv e-prints, page arXiv:2001.00185, January 2020. Submitted. They improved the best-known upper bound on the sphere packing and spherical codes in high dimensions by a constant factor in an improvement upon Cohn and Zhao's work.&nbsp;</li> <li></li> <li>10)Naser T. Sardari. The Siegel variance formula for quadratic forms.&nbsp;arXiv e-prints, page arXiv:1904.08041, April 2019.Submitted.&nbsp;</li> </ol></div> </div> </div> <p>&nbsp;</p> <p>Broader impact:</p> <p>During his NSF grant, The PI:</p> <p>&nbsp;is serving in GTA Oversight Committee for a three-year term. The GTA Oversight Committee supervises the instructional work of graduate students. It arranges training and mentoring in teaching skills, makes regular classroom visits, and assists graduate instructors in improving their teaching skills. The Committee also makes recommendations for graduate teaching awards.&nbsp;</p> <p>&nbsp;mentored a graduate student and four undergraduate students under the REU summer program at UW-Madison. The students modified PI's algorithm for navigating the LPS Ramanujan graphs.</p> <p>&nbsp;helped to organize the number theory seminar at UW-Madison and Penn State University.</p> <p>gave more than 20 invited talks.</p> <p>taught three topics course in analytic number theory at UW-Madison and Penn State University.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/10/2022<br>      Modified by: Naser&nbsp;Talebizadeh Sardari</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Intellectual merit:  During his NSF grant, the PI published or drafted ten papers.           1)Frank Calegari and Naser Talebizadeh Sardari. Vanishing Fourier coefficients of Hecke eigen- forms. Math. Ann., 381(3-4):1197?1215, 2021.  They proved that, for fixed level~$(N,p) = 1$ and~$p &gt; 2$, there are only finitely many Hecke eigenforms~$f$ of level~$\Gamma_1(N)$ and even weight with~$a_p(f) = 0$ which are not CM. They used a version of modularity theorems and a $p$-adic variant of Lang's theorem. The classical analogue of Lang's theorem is the statement that any infinite set of points $(\exp(ax),\exp(x))$ are Zariski dense in $(\mathbf{C}^{*})^2$ whenever $a\notin \mathbf{Q}$.   2)Naser Talebizadeh Sardari. The least prime number represented by a binary quadratic form. J. Eur. Math. Soc. (JEMS), 23(4):1161?1223, 2021. The PI proved an optimal bound on the size of the least prime number represented by a binary quadratic form with discriminant $D.$ This sharp upper bound on the least prime number is crucial in the analysis of the complexity of some algorithms in quantum compiling. The proof used Selberg's sieve and Duke's bound on the Fourier coefficients of half-integral modular forms.   3)Naser T. Sardari and Masoud Zargar. Ramanujan graphs and exponential sums over function fields. J. Number Theory, 217:44?77, 2020.They proved a non-trivial lower bound on the diameter of Morgenstern Ramanujan graphs. They showed that this bound is optimal under a twisted version of Selberg and Linnik's conjecture over function fields. They developed a version of the circle method over function fields.   4)Junehyuk Jung and Naser Talebizadeh Sardari. Asymptotic trace formula for the Hecke oper- ators. Math. Ann., 378(1-2):513?557, 2020. With an appendix by Simon Marshall. They proved an explicit formula with an optimal error term (with square root cancelation) for the Petersson trace formula in some asymptotic range.  As an application, for any fixed prime $p$ coprime to $N$, they showed that there exists a sequence $\{k_n\}$ of weights such that the error term of Weyl's law for $T_p$ is unusually large and violates the prediction of arithmetic quantum chaos. In particular, this generalizes the result of Gamburd, Jakobson, and Sarnak \cite[Theorem 1.4]{Gamburd} with an improved exponent.  5)Naser T Sardari. Complexity of Strong Approximation on the Sphere. International Mathe- matics Research Notices, 2021(18):13839?13866, 10 2019. As an application of his results in this paper, the PI developed and implemented a deterministic polynomial-time algorithm for navigating Lubotzky, Phillips, and Sarnak (LPS) Ramanujan graphs under some standard conjectures.   6)Junehyuk Jung and Naser Talebizadeh Sardari. Intersecting geodesics on the modular surface. arXiv e-prints, page arXiv:2101.08768, January 2021. Accepted for publication in Algebra \&amp; Number Theory. As a corollary of the main theorem, they proved a conjecture of Rickards on intersecting angle of geodesics on the modular surface.   7)Naser T. Sardari and Masoud Zargar. Sections of quadrics over AFq . arXiv e-prints, page arXiv:1907.07839, July 2019. Accepted for publication in Advances in Mathematics. They generalized PI's optimal strong approximation result for quadratic forms. They developed a version of the circle method over function fields to prove our results.   8)Naser Talebizadeh Sardari. Higher Fourier interpolation on the plane. arXiv e-prints, page arXiv:2102.08753, February 2021. Submitted. The main result resolved a conjecture of Cohn, Kumar, Miller, Radchenko, and Viazovska, which is related to the universality of the hexagonal lattice.  9)Naser T. Sardari and Masoud Zargar. New upper bounds for spherical codes and packings. arXiv e-prints, page arXiv:2001.00185, January 2020. Submitted. They improved the best-known upper bound on the sphere packing and spherical codes in high dimensions by a constant factor in an improvement upon Cohn and Zhao's work.   10)Naser T. Sardari. The Siegel variance formula for quadratic forms. arXiv e-prints, page arXiv:1904.08041, April 2019.Submitted.         Broader impact:  During his NSF grant, The PI:   is serving in GTA Oversight Committee for a three-year term. The GTA Oversight Committee supervises the instructional work of graduate students. It arranges training and mentoring in teaching skills, makes regular classroom visits, and assists graduate instructors in improving their teaching skills. The Committee also makes recommendations for graduate teaching awards.    mentored a graduate student and four undergraduate students under the REU summer program at UW-Madison. The students modified PI's algorithm for navigating the LPS Ramanujan graphs.   helped to organize the number theory seminar at UW-Madison and Penn State University.  gave more than 20 invited talks.  taught three topics course in analytic number theory at UW-Madison and Penn State University.                Last Modified: 10/10/2022       Submitted by: Naser Talebizadeh Sardari]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

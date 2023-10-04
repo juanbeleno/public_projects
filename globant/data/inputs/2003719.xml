@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Harnessing Abnormal Grain Growth for the Production of Single Crystals]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>176007.00</AwardTotalIntnAmount>
+<AwardAmount>176007</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Madison</SignBlockName>
+<PO_EMAI>jmadison@nsf.gov</PO_EMAI>
+<PO_PHON>7032922937</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Non-technical summary:&lt;br/&gt;Most engineering materials are commonly found in polycrystalline form, in which a solid consists of many tiny crystals with different orientations.  In some cases, superior properties can be achieved when the material is made in a single crystal form, as in the case for jet-engine turbine blades and solar cells.  However, single crystals are expensive and time-consuming to produce.  Recently researchers have developed a method for the production of single crystals by exploiting abnormal grain growth induced by cyclic heat treatment, in which a metal alloy is heated and cooled repeatedly.  During abnormal grain growth, a few grains preferentially grow by engulfing the neighboring grains.  The goal of this project is to discover why and how this process occurs. The project integrates emergent research in structural characterization and simulations of grain growth, capitalizing on our ability to watch the evolution of the grain network in real-time, and leveraging high performance computing resources to simulate microstructural evolution.  Developing this fundamental understanding of abnormal grain growth could lead to a paradigm shift in the manufacture of single-crystalline materials, and therefore it promotes global competitiveness in manufacturing and technology and national prosperity.  The project also promotes the development of a highly trained future workforce; two graduate students are trained in state-of-the-art techniques in experiments, modeling, simulations, and data analysis.  Outreach activities are carried out through the Females Excelling More in the Math, Engineering, and the Sciences program and Washtenaw Elementary Science Olympiad and include a virtual reality demonstration that allows students to walk through an evolving microstructure during heat treatment.  &lt;br/&gt;&lt;br/&gt;Technical summary:&lt;br/&gt;A cyclic heat treatment that induces abnormal grain growth holds promise for solid-state processing of single crystals and otherwise large-grained materials.  However, its full potential has not been realized due to the poor understanding of the mechanisms underlying the process.  The objective of this project is to advance the science governing the growth of the abnormal grains during cyclic thermal treatment.  The following fundamental questions are addressed:  What is the mechanism by which abnormal grain growth is initiated during a cyclic heat treatment?  Which grains are most likely to become abnormal and what are their microstructural signatures?  How does the abnormal grain grow into new microstructural neighborhoods?  To answer these questions, emergent research in structural characterization, phase-field and phase-field-crystal modeling, and graph theory methods are synergistically integrated.  High-resolution synchrotron-based X-ray diffraction microscopy is utilized to visualize and quantify the evolution of the grain and subgrain network in real-time and also enable microstructural evolution simulations based on the measured space-, time-, and orientation-resolved datasets as initial conditions.  The resulting high-dimensional data is then distilled into a network model that succinctly describes the microstructure and the local driving forces for grain boundary motion.  Scientific understanding of abnormal grain growth upon thermal cycling will ultimately inform the process design of single-crystal fabrication.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2003719</AwardID>
+<Investigator>
+<FirstName>Ashwin</FirstName>
+<LastName>Shahani</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ashwin Shahani</PI_FULL_NAME>
+<EmailAddress><![CDATA[shahani@umich.edu]]></EmailAddress>
+<NSF_ID>000732929</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katsuyo</FirstName>
+<LastName>Thornton</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Katsuyo S Thornton</PI_FULL_NAME>
+<EmailAddress><![CDATA[kthorn@umich.edu]]></EmailAddress>
+<NSF_ID>000388841</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress><![CDATA[3003 South State St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1771</Code>
+<Text>METAL &amp; METALLIC NANOSTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~176007</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>A cyclic heat treatment, in which precipitates are repeatedly formed and dissolved by thermal cycling, holds promise for solid-state processing of single crystals and otherwise large-grained materials via abnormal grain growth. However, its full potential has not been realized due to the poor understanding of the mechanisms underlying the process. The objective of this project is to explore and advance the science governing the growth of the abnormal grains during non-isothermal annealing. In particular, the following fundamental questions must be addressed in order to gain control of the process: What is the mechanism by which abnormal grain growth is initiated under dynamic thermal environment? Which grains are most likely to become abnormal and what are their microstructural signatures? How does the abnormal grain grow into new microstructural neighborhoods? To answer these questions, emergent research in structural characterization and phase-field modeling were combined under the exploratory one-year grant (which was extended to two years due to COVID-19-related delays). High-resolution synchrotron-based X-ray diffraction microscopy was utilized to visualize and quantify the evolution of the grain and subgrain network in real-time and also informed the development of the microstructure evolution model. Three-dimensional microstructures of a polycrystalline Cu-Al-Mn alloy were obtained via high-energy diffraction microscopy (HEDM) at different stages of the cyclic heat treatment, and 14 descriptors of each of the grains were determined.&nbsp;&nbsp;Based on the observations and information available in the literature, a phase field model was developed and parameterized. These data provided an initial set of understanding, primarily how stored energy in dislocations generated by precipitation and dissolution of the second-phase particles can lead to different microstructure evolution, as compared to normal grain growth. The results also revealed large-scale translation of grains, which are not typically observed in normal grain growth, and the simulation elucidated the mechanism underlying such evolution.&nbsp;</p> <p>The project provided five graduate students and one undergraduate student unique experience through the close collaboration between computational and experimental material scientists.&nbsp;&nbsp;Three graduate students who were partially supported by the grant were trained to collect and analyze HEDM data.&nbsp;&nbsp;Two partially supported graduate students focused on modeling and simulation of the abnormal grain growth.&nbsp;&nbsp;They were both being trained to utilize massively parallel computer architectures.&nbsp;&nbsp;An undergraduate student examined the approximations made in the model and discovered ways to enhance the accuracy and computational efficiency of the model.&nbsp;&nbsp;All students gained experience in scientific methods, critical thinking, and writing in a research environment. Thus, the project contributed to the development of a future workforce able to take advantage of growing experimental and computational resources and apply the Material Genome Initiative approach.&nbsp;&nbsp;Some of these students are funded on the renewal grant to continue the work.</p> <p>Scientific understanding of abnormal grain growth upon thermal cycling will ultimately inform the process design of single-crystal fabrication, leading to technological impact. The research methods and findings were incorporated into courses at both graduate and undergraduate levels. Specifically, the model developed for this project was highlighted in a senior-level computational materials science course taught by Thornton and assisted by one of the students on the team, as well as a graduate-level course on the Material Genome Initiative Approach, in which one of the graduate students delivered a guest lecture.&nbsp;&nbsp;High-school outreach activities were conducted by Shahani, Thornton, and their students on six Saturdays in February-March 2022 through the Detroit Area Pre-College Engineering Program, which hosted a diverse group of students from Detroit and surrounding areas.&nbsp;&nbsp;&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/03/2022<br>      Modified by: Katsuyo&nbsp;S&nbsp;Thornton</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ A cyclic heat treatment, in which precipitates are repeatedly formed and dissolved by thermal cycling, holds promise for solid-state processing of single crystals and otherwise large-grained materials via abnormal grain growth. However, its full potential has not been realized due to the poor understanding of the mechanisms underlying the process. The objective of this project is to explore and advance the science governing the growth of the abnormal grains during non-isothermal annealing. In particular, the following fundamental questions must be addressed in order to gain control of the process: What is the mechanism by which abnormal grain growth is initiated under dynamic thermal environment? Which grains are most likely to become abnormal and what are their microstructural signatures? How does the abnormal grain grow into new microstructural neighborhoods? To answer these questions, emergent research in structural characterization and phase-field modeling were combined under the exploratory one-year grant (which was extended to two years due to COVID-19-related delays). High-resolution synchrotron-based X-ray diffraction microscopy was utilized to visualize and quantify the evolution of the grain and subgrain network in real-time and also informed the development of the microstructure evolution model. Three-dimensional microstructures of a polycrystalline Cu-Al-Mn alloy were obtained via high-energy diffraction microscopy (HEDM) at different stages of the cyclic heat treatment, and 14 descriptors of each of the grains were determined.  Based on the observations and information available in the literature, a phase field model was developed and parameterized. These data provided an initial set of understanding, primarily how stored energy in dislocations generated by precipitation and dissolution of the second-phase particles can lead to different microstructure evolution, as compared to normal grain growth. The results also revealed large-scale translation of grains, which are not typically observed in normal grain growth, and the simulation elucidated the mechanism underlying such evolution.   The project provided five graduate students and one undergraduate student unique experience through the close collaboration between computational and experimental material scientists.  Three graduate students who were partially supported by the grant were trained to collect and analyze HEDM data.  Two partially supported graduate students focused on modeling and simulation of the abnormal grain growth.  They were both being trained to utilize massively parallel computer architectures.  An undergraduate student examined the approximations made in the model and discovered ways to enhance the accuracy and computational efficiency of the model.  All students gained experience in scientific methods, critical thinking, and writing in a research environment. Thus, the project contributed to the development of a future workforce able to take advantage of growing experimental and computational resources and apply the Material Genome Initiative approach.  Some of these students are funded on the renewal grant to continue the work.  Scientific understanding of abnormal grain growth upon thermal cycling will ultimately inform the process design of single-crystal fabrication, leading to technological impact. The research methods and findings were incorporated into courses at both graduate and undergraduate levels. Specifically, the model developed for this project was highlighted in a senior-level computational materials science course taught by Thornton and assisted by one of the students on the team, as well as a graduate-level course on the Material Genome Initiative Approach, in which one of the graduate students delivered a guest lecture.  High-school outreach activities were conducted by Shahani, Thornton, and their students on six Saturdays in February-March 2022 through the Detroit Area Pre-College Engineering Program, which hosted a diverse group of students from Detroit and surrounding areas.             Last Modified: 10/03/2022       Submitted by: Katsuyo S Thornton]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

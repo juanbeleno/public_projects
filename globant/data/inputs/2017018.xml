@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Intelligent visual framework for analyzing chemical measurement data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is to explore substantive enhancements for the end-users of field-portable sensors. This project proposes an intelligent visual framework for analyzing chemical measurement data. The proposed solution also recommends personalized visualizations through the user’s preferences and interactions. This system can be used for applications in the biological domain and high-performance computing centers.&lt;br/&gt;&lt;br/&gt;This I-Corps project explores translation of a system that provides and recommends a full range of visualizations from one-dimensional (1D), two-dimensional (2D), three-dimensional (3D), to higher-dimensional (nD) data. Application domains that generate multivariate data can also use our technology. For example, in the biological domain, the framework can help detect and present the dependency network of genes based on their experimental mutation data. Other applications include automatically detection of the links between various health metrics in supercomputing centers (such as CPU temperature, memory usage, and power consumption), which are growing in terms of size and complexity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2017018</AwardID>
+<Investigator>
+<FirstName>Tommy</FirstName>
+<LastName>Dang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tommy Dang</PI_FULL_NAME>
+<EmailAddress><![CDATA[tommy.dang@ttu.edu]]></EmailAddress>
+<NSF_ID>000746781</NSF_ID>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>LUBBOCK</CityName>
+<ZipCode>79409</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>2500 BROADWAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EGLKRQ5JBCZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS TECH UNIVERSITY SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas Tech University]]></Name>
+<CityName>Lubbock</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>794091035</ZipCode>
+<StreetAddress><![CDATA[349 Administration Bldg]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project proposes a commercial technology in intelligent, in-field, visual chemical element analysis, called Intelligent Visual Chemical Analysis Framework. The recent development of proximal sensor technologies, such as portable X-ray fluorescence spectrometry (pXRF), offers a rapid, non-destructive means of quantifying elemental concentrations. While the data collection time using these technologies decreases significantly, the subsequent analysis remains time-consuming. Current solutions only provide basic visualization types and do not offer personalized recommendations or in-field error indications.&nbsp;</p> <p>This project aims to offer proximal sensor device manufacturers and their end-users an intelligent visual framework for analyzing chemical measurement data from various domains, such as agriculture, oil and gas production, geoscience, environmental quality assessment, and food safety. This technology speeds up the data collection process and improves the measurement accuracy by offering in-field error indications or new algorithms for device calibrations by adopting the recently influential machine learning and deep learning approaches. Moreover, this innovation leverages machine learning methods to meet the need of predicting higher level soil/water/lithographic properties using quantified elemental concentrations.</p> <p>During this national NSF I-Corps cohort, we interviewed 102 customers and formed our business model canvas for this innovation. Fundamental research and customer discovery results indicate a pressing need to move beyond the fundamental research/discovery phase. Thus, the next stage will be the translational research phase &nbsp;to find a proof-of-concept of this invention. This technological translation step will advance our existing prototypes and further validate their importance to the customers and propel this innovation to the next development stage.</p> <p>Besides the customer interviews, we also had meetings with the&nbsp;proximal sensor device manufacturers (both online and in-person). Through the interviews and meetings, we have validated our hypothesis that our innovation "Intelligent visual framework for analyzing chemical measurement data" is necessary and useful for soil scientists to perform on-the-field analysis and validation of&nbsp;chemical measurements. In particular, our&nbsp;Intelligent visual framework can help them to save time, reduce the cost, and reduce human errors in performing the soil measurements. In terms of&nbsp;customer segments, we have&nbsp;validated that working directly with the&nbsp;proximal sensor device manufacturers&nbsp; is the effective way to get to our end users. In particular, we will produce our&nbsp;visual framework as add-on software for the&nbsp;proximal sensor device manufacturers and we will charge customers through yearly subscriptions.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 02/06/2023<br>      Modified by: Tommy&nbsp;Dang</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2017018/2017018_10676311_1675678794721_Picture1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2017018/2017018_10676311_1675678794721_Picture1--rgov-800width.jpg" title="Heatmap of Calcium concentration"><img src="/por/images/Reports/POR/2023/2017018/2017018_10676311_1675678794721_Picture1--rgov-66x44.jpg" alt="Heatmap of Calcium concentration"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Sample snapshot of aheatmap for soil profile analysis with error indicator (at the arrow)</div> <div class="imageCredit">Intelligent Visual Chemical Analysis Framework</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Tommy&nbsp;Dang</div> <div class="imageTitle">Heatmap of Calcium concentration</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project proposes a commercial technology in intelligent, in-field, visual chemical element analysis, called Intelligent Visual Chemical Analysis Framework. The recent development of proximal sensor technologies, such as portable X-ray fluorescence spectrometry (pXRF), offers a rapid, non-destructive means of quantifying elemental concentrations. While the data collection time using these technologies decreases significantly, the subsequent analysis remains time-consuming. Current solutions only provide basic visualization types and do not offer personalized recommendations or in-field error indications.   This project aims to offer proximal sensor device manufacturers and their end-users an intelligent visual framework for analyzing chemical measurement data from various domains, such as agriculture, oil and gas production, geoscience, environmental quality assessment, and food safety. This technology speeds up the data collection process and improves the measurement accuracy by offering in-field error indications or new algorithms for device calibrations by adopting the recently influential machine learning and deep learning approaches. Moreover, this innovation leverages machine learning methods to meet the need of predicting higher level soil/water/lithographic properties using quantified elemental concentrations.  During this national NSF I-Corps cohort, we interviewed 102 customers and formed our business model canvas for this innovation. Fundamental research and customer discovery results indicate a pressing need to move beyond the fundamental research/discovery phase. Thus, the next stage will be the translational research phase  to find a proof-of-concept of this invention. This technological translation step will advance our existing prototypes and further validate their importance to the customers and propel this innovation to the next development stage.  Besides the customer interviews, we also had meetings with the proximal sensor device manufacturers (both online and in-person). Through the interviews and meetings, we have validated our hypothesis that our innovation "Intelligent visual framework for analyzing chemical measurement data" is necessary and useful for soil scientists to perform on-the-field analysis and validation of chemical measurements. In particular, our Intelligent visual framework can help them to save time, reduce the cost, and reduce human errors in performing the soil measurements. In terms of customer segments, we have validated that working directly with the proximal sensor device manufacturers  is the effective way to get to our end users. In particular, we will produce our visual framework as add-on software for the proximal sensor device manufacturers and we will charge customers through yearly subscriptions.                 Last Modified: 02/06/2023       Submitted by: Tommy Dang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

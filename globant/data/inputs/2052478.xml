@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Scheduling software to enable visualization of changes for the construction industry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a software tool that would help teams to effectively manage changes and their negative impacts on project schedules and resources. The current inefficient management and lack of tools to minimize negative impacts from changes hurts the cash flow of a project and its stakeholders. Changes also delay projects significantly and lead to cost overruns. A recent study showed that the US construction industry spends $50 billion on change orders annually. Aside from the money spent on the direct cost of the change, such as materials and resources, much of these costs are wasted due to an inefficient use of time and lack of optimized planning procedures. Reducing the impacts of changes on duration and cost is paramount and may help construction companies to develop sustainability strategies for their projects and the environment.  Further, infrastructure projects funded by taxpayers’ money may leverage this tool as part of their value engineering mechanisms to gain more with the same level of resource allocation.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of an artificial intelligence (AI)-based visualization method that may assist project teams to effectively manage change events on any project. Current visualization tools do not have the capacity to analyze the impact of change orders on all three fronts:  temporal, spatial, and resources. The proposed method leverages the integrated approach towards schedule, workspace, and resources using advanced natural language processing (NLP) and machine learning to label and characterize change events data. These advanced AI-driven computational techniques may help project teams to visualize, review, and plan for changes within a fraction of time as compared to traditional methods. More specifically, this method visualizes the individual and cumulative direct and indirect impacts of change events on associated schedule activities using spaghetti graphs in which spaghetti lines and the change events are color coded by the usage of underlying resources. It also visualizes the utilization of space and resources, the underlying conflicts and over utilization due to the impacts of change events. The goal is to create an array of planning options to allow project teams to choose a sequence that minimizes both cost and duration impact.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052478</AwardID>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Fischer</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Martin A Fischer</PI_FULL_NAME>
+<EmailAddress><![CDATA[fischer@stanford.edu]]></EmailAddress>
+<NSF_ID>000450372</NSF_ID>
+<StartDate>12/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>450 JANE STANFORD WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>Stanford</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943054020</ZipCode>
+<StreetAddress><![CDATA[450 Jane Stanford Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7453</Code>
+<Text>GRAPHICS &amp; VISUALIZATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="page" title="Page 1"> <div class="layoutArea"> <div class="column"> <p><span style="font-size: 11.000000pt; font-family: 'CIDFont+F1';">Changes are inevitable but detrimental to the project performance if not appropriately planned and managed. Our preliminary studies show that changes alone can cause about 20% schedule overruns and a 12% increase in project cost. An average project team spends a cumulative of over 15 hours alone on managing a change over its lifetime. </span></p> <p><span style="font-size: 11.000000pt; font-family: 'CIDFont+F1';">ChangeVU is an end-to-end platform to manage changes on construction projects, from initiation to resolution. Our AI-based innovative technology will help reduce the turnover time from months to a couple of weeks, all with a click of a few buttons. Our vertically integrated system tracks the impact of changes in real-time. ChangeVU is compatible with phones, tablets, and laptops, enabling logging of change events from anywhere, on or off the field, and analyzing the result within a matter of seconds. </span></p> <p><span style="font-size: 11.000000pt; font-family: 'CIDFont+F1';">We are a couple of Stanford graduate students who developed the idea of ChangeVU to change the construction industry?s view on changes. We conducted extensive research on the industry pain points and wanted to validate our results by interviewing construction stakeholders. Our goal was to learn from the knowledge and experiences of these experts about the exact problems and frustrations around the state-of-practice change management processes. </span></p> <p><span style="font-size: 11.000000pt; font-family: 'CIDFont+F1';">We conducted over 100 interviews during the NSF workshop with experts ranging from VPs to field engineers. The highlights of these conversations are listed below: </span></p> <ul style="list-style-type: none;"> <li> <p><span style="font-size: 11.000000pt; font-family: 'CIDFont+F1';">- &nbsp;Changes occur very frequently, and no systematic method is in place to assist the project teams in effectively incorporating changes into the ongoing work on the jobsites. </span></p> </li> <li> <p><span style="font-size: 11.000000pt; font-family: 'CIDFont+F1';">- &nbsp;Smaller projects (&lt;$25M) are manageable because the volume of changes is not much, and teams are small enough for better coordination. Mid-size projects (&gt;$25M) and above are difficult to manage because of an increased volume of changes and coordination requirements within a larger team. Project teams spent 40-60% of their time dealing with them. </span></p> </li> <li> <p><span style="font-size: 11.000000pt; font-family: 'CIDFont+F1';">- &nbsp;4/5 people experienced unexpected delays because of small changes. </span></p> </li> <li> <p><span style="font-size: 11.000000pt; font-family: 'CIDFont+F1';">- &nbsp;75% of people indicated that no systematic resequencing of tasks is performed due to lack of </span></p> <p><span style="font-size: 11.000000pt; font-family: 'CIDFont+F1';">time and a proper method to capture all changes. </span></p> </li> <li> <p><span style="font-size: 11.000000pt; font-family: 'CIDFont+F1';">- &nbsp;80% of customers prefer web/app channels because they need to access them and get </span></p> <p><span style="font-size: 11.000000pt; font-family: 'CIDFont+F1';">information on their phones. 100% of the customers want information on their phones and tablets, a platform that they can use from the site. </span></p> <p><span style="font-size: 11.000000pt; font-family: 'CIDFont+F1';">Based on these results, we advanced our algorithms to assess the overall impact of all changes disregard of their size on three fronts: schedule, available space, and resources, may it be equipment, labor, or material. Using ChangeVU, the project teams will be able to plan changes in the most optimized manner and save more than 65% of time spent documenting, planning, and analyzing. ChangeVU seamlessly integrates with the project schedule, drawings, and 3D models to provide total control in real-time. </span></p> <p><span style="font-size: 11.000000pt; font-family: 'CIDFont+F1';">With ChangeVU, our target customers (</span><span style="font-size: 11.000000pt; font-family: 'CIDFont+F4';">i.e., </span><span style="font-size: 11.000000pt; font-family: 'CIDFont+F1';">Project Managers) will benefit by a) creating change events on a single platform, b) analyzing its impact within a couple of minutes, c) visualizing the impact on the schedule, space, and resources, and discussing with your project team, d) creating an optimized execution plan to minimize cost and save time, and e) sharing the progress with clients and shareholders in real-time. </span></p> </li> </ul> </div> </div> </div><br> <p>            Last Modified: 10/29/2022<br>      Modified by: Martin&nbsp;Fischer</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[    Changes are inevitable but detrimental to the project performance if not appropriately planned and managed. Our preliminary studies show that changes alone can cause about 20% schedule overruns and a 12% increase in project cost. An average project team spends a cumulative of over 15 hours alone on managing a change over its lifetime.   ChangeVU is an end-to-end platform to manage changes on construction projects, from initiation to resolution. Our AI-based innovative technology will help reduce the turnover time from months to a couple of weeks, all with a click of a few buttons. Our vertically integrated system tracks the impact of changes in real-time. ChangeVU is compatible with phones, tablets, and laptops, enabling logging of change events from anywhere, on or off the field, and analyzing the result within a matter of seconds.   We are a couple of Stanford graduate students who developed the idea of ChangeVU to change the construction industry?s view on changes. We conducted extensive research on the industry pain points and wanted to validate our results by interviewing construction stakeholders. Our goal was to learn from the knowledge and experiences of these experts about the exact problems and frustrations around the state-of-practice change management processes.   We conducted over 100 interviews during the NSF workshop with experts ranging from VPs to field engineers. The highlights of these conversations are listed below:     -  Changes occur very frequently, and no systematic method is in place to assist the project teams in effectively incorporating changes into the ongoing work on the jobsites.     -  Smaller projects (&lt;$25M) are manageable because the volume of changes is not much, and teams are small enough for better coordination. Mid-size projects (&gt;$25M) and above are difficult to manage because of an increased volume of changes and coordination requirements within a larger team. Project teams spent 40-60% of their time dealing with them.     -  4/5 people experienced unexpected delays because of small changes.     -  75% of people indicated that no systematic resequencing of tasks is performed due to lack of   time and a proper method to capture all changes.     -  80% of customers prefer web/app channels because they need to access them and get   information on their phones. 100% of the customers want information on their phones and tablets, a platform that they can use from the site.   Based on these results, we advanced our algorithms to assess the overall impact of all changes disregard of their size on three fronts: schedule, available space, and resources, may it be equipment, labor, or material. Using ChangeVU, the project teams will be able to plan changes in the most optimized manner and save more than 65% of time spent documenting, planning, and analyzing. ChangeVU seamlessly integrates with the project schedule, drawings, and 3D models to provide total control in real-time.   With ChangeVU, our target customers (i.e., Project Managers) will benefit by a) creating change events on a single platform, b) analyzing its impact within a couple of minutes, c) visualizing the impact on the schedule, space, and resources, and discussing with your project team, d) creating an optimized execution plan to minimize cost and save time, and e) sharing the progress with clients and shareholders in real-time.             Last Modified: 10/29/2022       Submitted by: Martin Fischer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

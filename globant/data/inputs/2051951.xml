@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Resilience for Waterfront Infrastructure (“REWIRE”)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/ commercial potential of this SBIR Phase I project is to support sustainable coastal communities and infrastructure  facing risks due to erosion, sea level rise, and coastal storms. Approximately 50% of the world’s population lives within 50 miles of the coast and migration toward coastal areas is increasing.  The risks to these areas are reflected in the substantial increase in insurance and FEMA claims. This project will research and develop software systems that streamline the analysis, permitting, and implementation of nature-based coastal protection solutions that have been proven to adapt to these risks and provide environmental benefits.  This project will develop cross-cutting technologies that will enhance our knowledge of coastal sciences and engineering and leverage nature-based approaches to coastal integrity issues, leading to increasing ecological, cost, and performance advantages compared to traditional manual methods of data collection, analysis and engineering.  The empowerment of more resilient coastal communities, enhanced fisheries, and adaptive infrastructure solutions will incentivize private sector investment in these regions. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to develop an integrated software system to prescribe intelligent coastal maintenance solutions through the automated characterization of the relationship of near-shore vegetative indicator species with shoreline protective actions. It is generally understood that shoreline stability is related to nearshore vegetative health, but the difficulty of analyzing and interpreting the complex data sets with certainty levels sufficient to prescribe specific maintenance actions necessitates the investigation and development of a new analytical framework. The principal technical objective is the development of a machine learning and bayesian inference decision support tool incorporating data from existing imagery databases, multispectral UAV imagery, RTK bathymetry, and shoreline maintenance actions for experimental validation.   This approach would be applicable to a wide variety of vegetated erosional shoreline systems (i.e. wetlands, coastal dunes, and mangroves).  The anticipated result is the technical foundation of a commercial system to more efficiently manage coastal infrastructure risk at lower costs and with enhanced ecological benefits for society.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/31/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051951</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Campbell</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew D Campbell</PI_FULL_NAME>
+<EmailAddress><![CDATA[matt@natrx.io]]></EmailAddress>
+<NSF_ID>000780749</NSF_ID>
+<StartDate>03/31/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>NATRX, INC.</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276174752</ZipCode>
+<PhoneNumber>5129830171</PhoneNumber>
+<StreetAddress>6220 ANGUS DR</StreetAddress>
+<StreetAddress2><![CDATA[STE 101]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YWFMDGWC1F85</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NATRX INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[NATRX, INC.]]></Name>
+<CityName>Raleigh</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276161849</ZipCode>
+<StreetAddress><![CDATA[4809-121 Hargrove Rd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-5542b74c-7fff-0e73-d5a4-8e5e12e08209"> </span></p> <p><span id="docs-internal-guid-4c1a77be-7fff-74f8-1afd-8870c20fe945"> <span id="docs-internal-guid-9855d7b2-7fff-f30b-fa01-35f4d1a09cfb"> <span id="docs-internal-guid-9855d7b2-7fff-f30b-fa01-35f4d1a09cfb"> </span></span></span></p> <p><span id="docs-internal-guid-9d3c2130-7fff-5ff3-9157-4ea96b32b6d4"> </span></p> <p dir="ltr"><span>Coastal environments are one the most complex environments and productive ecosystems on the Earth. They are also very dynamic and rich with biodiversity. These natural systems also protect the communities and infrastructure that have developed around coastal areas throughout history, which is why nature-based solutions (NBS) have grown in acceptance to address coastal hazards and simultaneously improve the surrounding ecosystem.&nbsp; While the world is dealing with the consequences of climate change, there is a dire need for innovative, cost-effective, and nature-based coastal protection solutions that can minimize both natural hazards and anthropogenic impacts and at the same time enhance ecosystem functioning. There have been challenges to implementing NBS that include understanding where they are applicable, addressing concerns of integrity during extreme events, and designing solutions in a cost effective manner.</span></p> <p dir="ltr"><span>The technology developed during the NSF SBIR Phase I, Resilience for Waterfront Infrastructure (REWIRE) digital platform, solves these three key challenges which hamper the proliferation of NBS along our world?s shorelines. The REWIRE platform utilizes low cost, globally available, high resolution, remote sensing data combined with artificial intelligence to gain tremendous intelligence into the dynamics of complex coastal systems. REWIRE systematically analyzes segments of shoreline, identifies key risk zones, and has potential to do so at a large scale. The design automation from REWIRE reduces cost to implement NBS to protect shorelines by reducing over conservatism due to unknowns at a specific location.&nbsp;&nbsp;</span></p> <p dir="ltr"><span>The outcome of this Phase I research was the development and testing of the REWIRE digital platform in the Louisiana deltaic environment to provide risk assessment and mitigation solutions. A data process workflow was created that allowed the seamless integration of high fidelity satellite imagery. Software algorithms, including artificial intelligence techniques, were developed to extract information and gain insights into the local coastal environment. This information included vegetation health, erosion rates, wave energy climate, and trends. A self calibration process was created and tested against actual conditions.&nbsp; The attached figure demonstrates the accuracy of the </span><span>predicted land change (left) with actual changes after Hurricane Ida in 2021 (right). Not only was the information used to develop predictions of risk areas, it was used to automate optimized design solutions with a Bayesian model of structure parameters.&nbsp;</span></p> <p dir="ltr"><span>The intelligence gained from these high fidelity data sources has the potential to change the way shorelines are managed and create realized value in natural systems. The technical merit of the REWIRE platform is the combination of advanced remote sensing, artificial intelligence, and predictive modeling to deliver an elegant tool to adaptively manage large scale natural infrastructure. This tool is applicable on a wide variety of coastal shorelines (i.e. wetlands, coastal dunes, mangroves).&nbsp;</span></p> <p dir="ltr"><span>This systematic approach also allows for more environmentally sustainable techniques to be deployed at a much larger scale. The climate risk to our nation's infrastructure assets is continuing to increase and will need to be protected in sustainable ways. The REWIRE approach would result in more biodiversity in our coastal areas, which support a wide variety of coastal community economies. The degradation of coastal ecosystems disproportionately affects the poor and at-risk populations. The wide scale adoption of these techniques would protect those populations by increasing the coastal biodiversity.&nbsp;</span></p> <p>&nbsp;</p> <p>&nbsp;</p> <p dir="ltr">&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/03/2022<br>      Modified by: Matthew&nbsp;D&nbsp;Campbell</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2051951/2051951_10725302_1659390015549_ScreenShot2022-08-01at5.34.44PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2051951/2051951_10725302_1659390015549_ScreenShot2022-08-01at5.34.44PM--rgov-800width.jpg" title="Prediction vs Actual"><img src="/por/images/Reports/POR/2022/2051951/2051951_10725302_1659390015549_ScreenShot2022-08-01at5.34.44PM--rgov-66x44.jpg" alt="Prediction vs Actual"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Predicted land change (left) with actual changes after Hurricane Ida in 2021 (right).</div> <div class="imageCredit">Matt Campbell</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Matthew&nbsp;D&nbsp;Campbell</div> <div class="imageTitle">Prediction vs Actual</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2051951/2051951_10725302_1659389877118_IMG_4019(1)--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2051951/2051951_10725302_1659389877118_IMG_4019(1)--rgov-800width.jpg" title="Developing Models"><img src="/por/images/Reports/POR/2022/2051951/2051951_10725302_1659389877118_IMG_4019(1)--rgov-66x44.jpg" alt="Developing Models"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Our team had the opportunity to work with high school and college students interns and introduce them to the concepts of artificial intelligence and GIS.</div> <div class="imageCredit">Matt Campbell</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Matthew&nbsp;D&nbsp;Campbell</div> <div class="imageTitle">Developing Models</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[           Coastal environments are one the most complex environments and productive ecosystems on the Earth. They are also very dynamic and rich with biodiversity. These natural systems also protect the communities and infrastructure that have developed around coastal areas throughout history, which is why nature-based solutions (NBS) have grown in acceptance to address coastal hazards and simultaneously improve the surrounding ecosystem.  While the world is dealing with the consequences of climate change, there is a dire need for innovative, cost-effective, and nature-based coastal protection solutions that can minimize both natural hazards and anthropogenic impacts and at the same time enhance ecosystem functioning. There have been challenges to implementing NBS that include understanding where they are applicable, addressing concerns of integrity during extreme events, and designing solutions in a cost effective manner. The technology developed during the NSF SBIR Phase I, Resilience for Waterfront Infrastructure (REWIRE) digital platform, solves these three key challenges which hamper the proliferation of NBS along our world?s shorelines. The REWIRE platform utilizes low cost, globally available, high resolution, remote sensing data combined with artificial intelligence to gain tremendous intelligence into the dynamics of complex coastal systems. REWIRE systematically analyzes segments of shoreline, identifies key risk zones, and has potential to do so at a large scale. The design automation from REWIRE reduces cost to implement NBS to protect shorelines by reducing over conservatism due to unknowns at a specific location.   The outcome of this Phase I research was the development and testing of the REWIRE digital platform in the Louisiana deltaic environment to provide risk assessment and mitigation solutions. A data process workflow was created that allowed the seamless integration of high fidelity satellite imagery. Software algorithms, including artificial intelligence techniques, were developed to extract information and gain insights into the local coastal environment. This information included vegetation health, erosion rates, wave energy climate, and trends. A self calibration process was created and tested against actual conditions.  The attached figure demonstrates the accuracy of the predicted land change (left) with actual changes after Hurricane Ida in 2021 (right). Not only was the information used to develop predictions of risk areas, it was used to automate optimized design solutions with a Bayesian model of structure parameters.  The intelligence gained from these high fidelity data sources has the potential to change the way shorelines are managed and create realized value in natural systems. The technical merit of the REWIRE platform is the combination of advanced remote sensing, artificial intelligence, and predictive modeling to deliver an elegant tool to adaptively manage large scale natural infrastructure. This tool is applicable on a wide variety of coastal shorelines (i.e. wetlands, coastal dunes, mangroves).  This systematic approach also allows for more environmentally sustainable techniques to be deployed at a much larger scale. The climate risk to our nation's infrastructure assets is continuing to increase and will need to be protected in sustainable ways. The REWIRE approach would result in more biodiversity in our coastal areas, which support a wide variety of coastal community economies. The degradation of coastal ecosystems disproportionately affects the poor and at-risk populations. The wide scale adoption of these techniques would protect those populations by increasing the coastal biodiversity.                   Last Modified: 08/03/2022       Submitted by: Matthew D Campbell]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

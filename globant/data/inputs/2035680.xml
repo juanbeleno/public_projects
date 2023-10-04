@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: A Do-it-yourself (DIY) Social Robot Platform for Science, Technology, Engineering, Arts and Mathematics (STEAM) Education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader/commercial impacts of this I-Corps project is the development of a robotics platform that teaches the technical and creative aspects of engineering through play-based learning. The multifaceted construction process that combines robotics with crafts conveys that engineering draws from humanistic fields, empowering users from diverse backgrounds to get involved in robot-building. Beyond the robot’s physical construction, the interactive, behavior-authoring process allows users to create robot behaviors without requiring programming experience, while also learning about the data-driven mechanisms underlying the robot’s behavior model. This intuitive play-based interaction teaches the influence of user-provided data on machine learning systems that are becoming increasingly ubiquitous in society (e.g., recommendation systems and advertisements).  The project empowering users to become more cognizant of the role that robotics systems play in their lives. As a whole, the accessibility of the platform, from its do-it-yourself design to the intuitive programming of its behaviors, allows non-expert users to learn the various skills used in robot-building.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of an accessible robotic construction platform. The process of designing and creating robots is intensive and time-consuming.  The construction projects are often tailored towards robotics researchers and specific use cases. The proposed technology is an accessible and replicable robot platform that is easy to assemble and able to be customized for different applications. The technology’s mechanical structure is made from flat components that are easy to manufacture and assemble and uses minimal hardware throughout its construction. Creating robot behaviors has traditionally relied on trained roboticists to manually design preprogrammed actions. To address the repetitiveness of these canned responses and the difficulty for end users to author behaviors, a behavior generation workflow was developed that enables users to develop new robot behaviors without a programming background. Users control the robot’s movements through a smartphone application, which allows them to build a dataset of behaviors to train a neural network model. This model may generate new realistic behaviors, modify emotive features of existing behaviors, and/or translate user inputs such as facial expressions and gestures into robot movements. This technology furthers the accessibility of the platform by enabling the users themselves to design the robot’s appearance and behaviors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035680</AwardID>
+<Investigator>
+<FirstName>Guy</FirstName>
+<LastName>Hoffman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guy Hoffman</PI_FULL_NAME>
+<EmailAddress><![CDATA[hoffman@cornell.edu]]></EmailAddress>
+<NSF_ID>000718306</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY23</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EQA8NBEN9WD5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>Ithaca</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148537501</ZipCode>
+<StreetAddress><![CDATA[124 Hoy Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY23</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-bb2e9b4b-7fff-362d-af0d-03eb787ef33e"> <p dir="ltr"><span>This aim of this NSF Innovation Corps (I-Corps) project was to study the market needs for a social robot developed in our research laboratory. We specifically focused on opportunities to use our robot in Science, Technology, Engineering, Arts and Mathematics (STEAM) education. Our I-Corps team participated in training and market discovery in order to develop a viable business model in the education sector.</span></p> <p dir="ltr"><span>As part of this project, two graduate students learned about business model discovery methods, including the business model canvas and customer discovery interviews. The students identified more than 100 potential users (educators and administrators) for our robot technology and conducted interviews with them.&nbsp;</span></p> <p dir="ltr"><span>These interviews uncovered opportunities and challenges for implementing a robotic system in STEAM education. The main ones were: (a) a difficulty to objectively measure efficiency in project-based learning, (b) varying local, state, and national STEAM education standards, and (c) the complexity of school procurement decision-making.&nbsp;</span></p> <p dir="ltr"><span>These discoveries led to several insights, the main one being that a robotic system aimed at the education sector must be accompanied by curricula, procurement strategy, and a strategy that connects the technology and curricula to existing standards.&nbsp;</span></p> <p dir="ltr"><span>These findings are not specific to robotics technology only, but could inform many future academic teams who wish to develop a business model for a research technology that would be used in the education context.&nbsp;</span></p> <p dir="ltr"><span>In addition to these topical insights, the project provided learning opportunities for two graduate students, who expanded on their engineering training with market discovery, product development, management, and entrepreneurship experiences.&nbsp;</span></p> </span></p><br> <p>            Last Modified: 06/15/2022<br>      Modified by: Guy&nbsp;Hoffman</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This aim of this NSF Innovation Corps (I-Corps) project was to study the market needs for a social robot developed in our research laboratory. We specifically focused on opportunities to use our robot in Science, Technology, Engineering, Arts and Mathematics (STEAM) education. Our I-Corps team participated in training and market discovery in order to develop a viable business model in the education sector. As part of this project, two graduate students learned about business model discovery methods, including the business model canvas and customer discovery interviews. The students identified more than 100 potential users (educators and administrators) for our robot technology and conducted interviews with them.  These interviews uncovered opportunities and challenges for implementing a robotic system in STEAM education. The main ones were: (a) a difficulty to objectively measure efficiency in project-based learning, (b) varying local, state, and national STEAM education standards, and (c) the complexity of school procurement decision-making.  These discoveries led to several insights, the main one being that a robotic system aimed at the education sector must be accompanied by curricula, procurement strategy, and a strategy that connects the technology and curricula to existing standards.  These findings are not specific to robotics technology only, but could inform many future academic teams who wish to develop a business model for a research technology that would be used in the education context.  In addition to these topical insights, the project provided learning opportunities for two graduate students, who expanded on their engineering training with market discovery, product development, management, and entrepreneurship experiences.         Last Modified: 06/15/2022       Submitted by: Guy Hoffman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

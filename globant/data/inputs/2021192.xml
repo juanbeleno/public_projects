@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Multiscale Modeling of Intraocular Pressure Dynamics and Its Role in Ocular Physiology and Pharmacology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>76805.00</AwardTotalIntnAmount>
+<AwardAmount>76805</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zhilan Feng</SignBlockName>
+<PO_EMAI>zfeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927523</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project will develop quantitative methods to combat vision impairment, which is one of the most impactful factors affecting quality of life. Specifically, this project will study the pressure of the fluids filling the eye globe, also called intraocular pressure, whose control is crucial to maintain a proper visual function. Chronically high intraocular pressure is associated with high risk of developing glaucoma, a progressive optic neuropathy characterized by a loss of retinal ganglion cells and permanent vision loss. Glaucoma constitutes one of the leading causes of irreversible blindness worldwide. Despite the importance of maintaining healthy levels of intraocular pressure, to date, the question of what is its optimal range for a given individual remains unanswered. The variability in outcomes, side effects and hemodynamic impacts following medications that lower intraocular pressure in glaucoma patients poses an additional, and currently unresolved, challenge in preventing vision loss for millions of individuals. The PIs will address this critical need by utilizing the laws of physics to develop a virtual laboratory where the relationship between intraocular pressure, medications, hemodynamics and ocular function can be studied quantitatively, and the optimal target level for intraocular pressure and the therapeutic strategy to achieve it can be theoretically estimated by accounting for patient's specific conditions. &lt;br/&gt; &lt;br/&gt;The development of a virtual laboratory to study ocular physiology and function requires to account for multiple length scales simultaneously. Since the action of medications occurs at the cellular level (approx. length scale: 100 microns), even down to the ion exchangers across the membrane of the non-pigmented epithelial cells within the ciliary processes (approx. length scale: 10 nm), while the clinical assessments of ocular hemodynamics and function occur at the whole organ level (approx. length scale: 3cm), it is necessary to adopt a multiscale modeling approach. The main challenges of this project are: (i) capturing the essential biophysical features of ocular physiology across length scales that differ by 6 orders of magnitude, while maintaining the solution of the overall model affordable; (ii) preserving the essential biophysical features of ocular physiology when discretizing the multiscale problem in order to obtain its approximate numerical solution; (iii) validating the model predictions with a large and comprehensive clinical and experimental dataset. To best address these challenges and successfully complete this project, the model development is articulated into two specific aims: (Aim 1) Multiscale modeling of the relationship between aqueous humor flow and medications for intraocular pressure to theoretically investigate the hypotensive efficacy on patients presenting different clinical conditions; (Aim2) Multiscale modeling of the relationship between aqueous humor flow and ocular perfusion to theoretically investigate the changes on ocular hemodynamics and function in patients presenting different clinical conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2021192</AwardID>
+<Investigator>
+<FirstName>Alon</FirstName>
+<LastName>Harris</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alon Harris</PI_FULL_NAME>
+<EmailAddress><![CDATA[alon.harris@mssm.edu]]></EmailAddress>
+<NSF_ID>000681784</NSF_ID>
+<StartDate>03/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Icahn School of Medicine at Mount Sinai</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100296504</ZipCode>
+<PhoneNumber>2128248300</PhoneNumber>
+<StreetAddress>ONE GUSTAVE L LEVY PL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C8H9CNG1VBD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DKCMJ8WRH2E5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Icahn School of Medicine at Mount Sinai]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>100296504</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7334</Code>
+<Text>MATHEMATICAL BIOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~76805</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;This project developed quantitative methods to combat vision impairment, which is one of the most impactful factors affecting quality of life. Specifically, this project studied the pressure of the fluids filling the eye globe, also called intraocular pressure, whose control is crucial to maintain a proper visual function. Chronically high intraocular pressure is associated with high risk of developing glaucoma, a progressive optic neuropathy characterized by a loss of retinal ganglion cells and permanent vision loss. Glaucoma constitutes one of the leading causes of irreversible blindness worldwide. Despite the importance of maintaining healthy levels of intraocular pressure, to date, the question of what is its optimal range for a given individual remains unanswered. The side effects and hemodynamic impact of medications that lower intraocular pressure in glaucoma patients also causes variability in outcomes, and poses an additional, and currently unresolved, challenge to preventing vision loss for millions of individuals.</p> <p>&nbsp;This project addressed these significant challenges by utilizing the laws of physics to develop a virtual laboratory where the relationship between intraocular pressure, blood pressure, medications, hemodynamics and ocular function can be studied quantitatively. This approach enabled the identification and characterization of eyes experiencing similar hemodynamic conditions based on the values of intraocular pressure and blood pressure to be considered together, rather than separately. Most importantly, hemodynamically-similar eyes were found to be associated with similar risk of glaucoma onset and progression, thereby paving the way for the novel therapeutic strategies based on the coregulation of intraocular pressure, blood pressure, and hemodynamics.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/15/2023<br>      Modified by: Alon&nbsp;Harris</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2021192/2021192_10596843_1692112100391_CDI--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2021192/2021192_10596843_1692112100391_CDI--rgov-800width.jpg" title="CDI"><img src="/por/images/Reports/POR/2023/2021192/2021192_10596843_1692112100391_CDI--rgov-66x44.jpg" alt="CDI"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Noninvasive imaging of blood velocity in the Central Retinal Artery (CRA) and the Central Retinal Vein (CRV) via Color Doppler Imaging (CDI)</div> <div class="imageCredit">Research Group of Prof. Alon Harris</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Alon&nbsp;Harris</div> <div class="imageTitle">CDI</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2021192/2021192_10596843_1692112185240_RetinalOxygenation--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2021192/2021192_10596843_1692112185240_RetinalOxygenation--rgov-800width.jpg" title="Retinal Oxygenation"><img src="/por/images/Reports/POR/2023/2021192/2021192_10596843_1692112185240_RetinalOxygenation--rgov-66x44.jpg" alt="Retinal Oxygenation"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Noninvasive imaging of oxygen saturation in the retinal vessels via retinal oximetry</div> <div class="imageCredit">Research Group of Prof. Alon Harris</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Alon&nbsp;Harris</div> <div class="imageTitle">Retinal Oxygenation</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2021192/2021192_10596843_1692112290792_HRF--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2021192/2021192_10596843_1692112290792_HRF--rgov-800width.jpg" title="HRF"><img src="/por/images/Reports/POR/2023/2021192/2021192_10596843_1692112290792_HRF--rgov-66x44.jpg" alt="HRF"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Noninvasive imaging of retinal hemodynamics via Heidelberg Retinal Flowmetry (HRF)</div> <div class="imageCredit">Research Group of Prof. Alon Harris</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Alon&nbsp;Harris</div> <div class="imageTitle">HRF</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project developed quantitative methods to combat vision impairment, which is one of the most impactful factors affecting quality of life. Specifically, this project studied the pressure of the fluids filling the eye globe, also called intraocular pressure, whose control is crucial to maintain a proper visual function. Chronically high intraocular pressure is associated with high risk of developing glaucoma, a progressive optic neuropathy characterized by a loss of retinal ganglion cells and permanent vision loss. Glaucoma constitutes one of the leading causes of irreversible blindness worldwide. Despite the importance of maintaining healthy levels of intraocular pressure, to date, the question of what is its optimal range for a given individual remains unanswered. The side effects and hemodynamic impact of medications that lower intraocular pressure in glaucoma patients also causes variability in outcomes, and poses an additional, and currently unresolved, challenge to preventing vision loss for millions of individuals.   This project addressed these significant challenges by utilizing the laws of physics to develop a virtual laboratory where the relationship between intraocular pressure, blood pressure, medications, hemodynamics and ocular function can be studied quantitatively. This approach enabled the identification and characterization of eyes experiencing similar hemodynamic conditions based on the values of intraocular pressure and blood pressure to be considered together, rather than separately. Most importantly, hemodynamically-similar eyes were found to be associated with similar risk of glaucoma onset and progression, thereby paving the way for the novel therapeutic strategies based on the coregulation of intraocular pressure, blood pressure, and hemodynamics.          Last Modified: 08/15/2023       Submitted by: Alon Harris]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Collaborative Research:III: Exploring Physics Guided Machine Learning for Accelerating Sensing and Physical Sciences]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>54452.00</AwardTotalIntnAmount>
+<AwardAmount>54452</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As machine learning (ML) continues to revolutionize the commercial space including vision, speech, and&lt;br/&gt;text recognition, there is a huge anticipation in the scientific community to unlock the power of ML for&lt;br/&gt;accelerating scientific discovery. However, black-box ML models, which rely solely on training data and&lt;br/&gt;ignore existing scientific knowledge have met with limited success in scientific problems, particularly&lt;br/&gt;when labeled data is limited, sometimes even leading to spectacular failures. This is because the black&lt;br/&gt;box ML models are susceptible to learning spurious relationships that do not generalize well outside the&lt;br/&gt;data they are trained for. The emerging paradigm of physics-guided machine learning (PGML), which&lt;br/&gt;leverages the unique ability of ML algorithms to automatically extract patterns and models from data with&lt;br/&gt;guidance of the knowledge accumulated in physics (or scientific theories), aims to address the challenges&lt;br/&gt;faced by black box ML in scientific applications.&lt;br/&gt;&lt;br/&gt;For data science, PGML has the potential to transform ML beyond black-box applications by enabling&lt;br/&gt;solutions that generalize well even on unseen input-output distributions that are different from those&lt;br/&gt;encountered during training, by anchoring ML methods with the scientific body of knowledge. PGML makes a distinct&lt;br/&gt;departure from the conventional view that physics-based models and ML models are developed in&lt;br/&gt;isolation but seldom mixed together. The proposed project is fundamentally different from existing body&lt;br/&gt;of research that attempts to combine ML and domain sciences, e.g., by making use of domain-specific&lt;br/&gt;knowledge in ML algorithms in simplistic ways, or making use of data in the physics-based modeling&lt;br/&gt;process albeit without allowing data to change the functional forms of existing physics-based models. The tight interplay between data science and the domains of physics and sensing in the project lends itself&lt;br/&gt;naturally to diverse education activities that complement the research tasks outlined by our team. Over the&lt;br/&gt;duration of this one-year project, the team will develop an integrative course at the graduate level on "ML&lt;br/&gt;meets Physics", which explores topical, emerging themes in this interdisciplinary area. Offerings of the&lt;br/&gt;course will draw upon course modules shared between the four universities, such as shared guest videos&lt;br/&gt;and case studies. The physics department at BU has a well-developed "Physics Outreach Project" that&lt;br/&gt;annually performs science exhibitions for elementary schools in Binghamton metropolitan area, for which&lt;br/&gt;the team will create a new exhibition about neural networks and ML. In follow-on work, similar outreach&lt;br/&gt;events will be replicated at schools (Robinson Middle School in Lowell and Metro STEM Middle School&lt;br/&gt;in Columbus). The PIs are committed to increasing the diversity of involvement at various levels of the&lt;br/&gt;training ecosystem impacted by this project, and have planned various coordinated broader impact&lt;br/&gt;activities for inclusion of female and underrepresented minority students as well as faculty.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026710</AwardID>
+<Investigator>
+<FirstName>Anuj</FirstName>
+<LastName>Karpatne</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anuj Karpatne</PI_FULL_NAME>
+<EmailAddress><![CDATA[karpatne@vt.edu]]></EmailAddress>
+<NSF_ID>000778617</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>Blacksburg</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240610001</ZipCode>
+<StreetAddress><![CDATA[Sponsored Programs 0170]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~54452</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>As machine learning (ML) continues to advance the quality of human life through developments in machine vision, automatic translation, and medicine, there is a rising expectation that ML will advance the process of scientific discovery itself. However, modern mainstream black-box machine learning tools tend to learn on data alone and do not take into account existing body of scientific knowledge. In this collaborative EAGER project a team of researchers from Ohio State University, University of Massachusetts Lowell, Binghamton University, and Virginia Tech University aimed at exploring the pathways for embedding the scientific knowledge into ML process. Specifically, the interdisciplinary team aimed at developing the ML algorithms that help solving eigenvalue problems in quantum mechanics and electromagnetism and algorithms that enhance the efficiency of ML models.</p> <p>During the course of the project, the collaboration between VT, BU, and UML has developed a novel class of ML-based eigenvalue solvers guided by physics supervision and applied this class to quantum mechanical and electromagnetic problems. In case of quantum mechanics, VT-BU-OSU collaboration also developed an efficient formulation of ML models that can be scaled&nbsp;<span>on larger systems with more qubits.&nbsp;</span>In case of electromagnetism, results of VT-UML collaboration were used to speedup the optimization of metamaterials, composite media with engineered optical properties, a new materials science platform that emerges as the foundation for new generation of sensors, lenses, and other optical elements. The Physics-informed ML algorithm is drastically faster than its Physics-only counterpart and is substantially more accurate than its ML-only predecessors.</p> <p>The VT team also developed (a) novel ML formulations for performing physics-informed uncertainty quantification that can effectively utilize unlabeled instances and work with imperfect physics, (b) novel neural network archictures for solving partial differential equations that are significantly efficient in terms of number of parameters and training epochs with respect to baselines, (c) a novel algorithm for balancing the contribution of physics&nbsp; supervision and data supervision during training to converge to generalizable solutions, and (d) a novel structured pruning method for learning compact representations of neural network models that can be used for both supervised and unsupervised learning problems.</p> <p>Over the course of this EAGER project, the team has completed 6 manuscripts (with 2 manuscripts in review), and presented their results at multiple international conferences. The NSF funding contributed to Ph.D. research of 2 graduate students at VT.</p> <p>&nbsp;</p><br> <p>            Last Modified: 05/20/2022<br>      Modified by: Anuj&nbsp;Karpatne</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ As machine learning (ML) continues to advance the quality of human life through developments in machine vision, automatic translation, and medicine, there is a rising expectation that ML will advance the process of scientific discovery itself. However, modern mainstream black-box machine learning tools tend to learn on data alone and do not take into account existing body of scientific knowledge. In this collaborative EAGER project a team of researchers from Ohio State University, University of Massachusetts Lowell, Binghamton University, and Virginia Tech University aimed at exploring the pathways for embedding the scientific knowledge into ML process. Specifically, the interdisciplinary team aimed at developing the ML algorithms that help solving eigenvalue problems in quantum mechanics and electromagnetism and algorithms that enhance the efficiency of ML models.  During the course of the project, the collaboration between VT, BU, and UML has developed a novel class of ML-based eigenvalue solvers guided by physics supervision and applied this class to quantum mechanical and electromagnetic problems. In case of quantum mechanics, VT-BU-OSU collaboration also developed an efficient formulation of ML models that can be scaled on larger systems with more qubits. In case of electromagnetism, results of VT-UML collaboration were used to speedup the optimization of metamaterials, composite media with engineered optical properties, a new materials science platform that emerges as the foundation for new generation of sensors, lenses, and other optical elements. The Physics-informed ML algorithm is drastically faster than its Physics-only counterpart and is substantially more accurate than its ML-only predecessors.  The VT team also developed (a) novel ML formulations for performing physics-informed uncertainty quantification that can effectively utilize unlabeled instances and work with imperfect physics, (b) novel neural network archictures for solving partial differential equations that are significantly efficient in terms of number of parameters and training epochs with respect to baselines, (c) a novel algorithm for balancing the contribution of physics  supervision and data supervision during training to converge to generalizable solutions, and (d) a novel structured pruning method for learning compact representations of neural network models that can be used for both supervised and unsupervised learning problems.  Over the course of this EAGER project, the team has completed 6 manuscripts (with 2 manuscripts in review), and presented their results at multiple international conferences. The NSF funding contributed to Ph.D. research of 2 graduate students at VT.          Last Modified: 05/20/2022       Submitted by: Anuj Karpatne]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

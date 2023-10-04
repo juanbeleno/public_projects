@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[KARMMA: Mass Mapping Worthy of LSST]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>224359.00</AwardTotalIntnAmount>
+<AwardAmount>224359</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nigel Sharp</SignBlockName>
+<PO_EMAI>nsharp@nsf.gov</PO_EMAI>
+<PO_PHON>7032924905</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Universe is currently expanding at an ever-increasing rate. To understand the origin of the accelerated expansion due to dark energy, the amount of matter that is using gravity to hold the Universe together must be determined. The astronomical community is embarking on the largest and most ambitious astronomical survey to date: the Rubin Observatory Legacy Survey of Space and Time (LSST). One key goal of the survey is to construct the most detailed map of the matter distribution in our Universe ever created, thereby enabling cosmological studies of our Universe's expansion. However, 80% of the matter of the Universe is dark (invisible at any wavelength), so we must rely on indirect methods of detection. These investigators will use the distortion of galaxy images due to gravity to infer the matter density of the Universe. They will implement improvements that will enable higher resolution mass distribution maps, and they will extract dark matter and cosmological parameters from LSST data using these maps. The PI will co-direct the Tucson Initiative for Minority Engagement in Science and TEchnology Program (TIMESTEP) to promote the participation of University of Arizona undergraduate students in STEM careers. &lt;br/&gt;&lt;br/&gt;This grant will develop the KARMMA (Kappa Reconstruction for Mass Mapping Algorithm), a mass mapping algorithm designed to forward model the underlying density field subject to a homogeneous and isotropic lognormal prior. This forward modeling approach results in two key improvements over currently standard mass mapping techniques. 1. By forward modeling the convergence field, KARMMA avoids numerical biases in the mass reconstruction due to the interaction between survey boundaries and shear non-locality. 2. Forward modeling enables us to simultaneously sample both cosmological parameters and mass-map parameters, efficiently recovering the full information-content from the mass map for the purposes of constraining cosmology, while regularizing the clustering statistics on unresolved scales through physical cosmological priors. The current KARMMA implementation is restricted to fixed cosmologies. Further, its resolution is limited due to numerical considerations. Both of these deficiencies will be addressed by re-implementing the algorithm using spherical harmonics and enabling a slow/fast sampling of cosmological and mass-map parameters. These improvements to KARMMA will define a new standard in mass-mapping techniques in the era of LSST, while enabling cosmological analyses that utilize the full information of the observable shear field.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009401</AwardID>
+<Investigator>
+<FirstName>EDUARDO</FirstName>
+<LastName>ROZO</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>EDUARDO ROZO</PI_FULL_NAME>
+<EmailAddress><![CDATA[erozo@email.arizona.edu]]></EmailAddress>
+<NSF_ID>000685068</NSF_ID>
+<StartDate>05/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arizona</Name>
+<CityName>TUCSON</CityName>
+<ZipCode>85721</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress>845 N PARK AVE RM 538</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ED44Y3W6P7B9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ARIZONA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Arizona]]></Name>
+<CityName>Tucson</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>857194824</ZipCode>
+<StreetAddress><![CDATA[888 N Euclid Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~224359</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This award funded the development of the code KARMMA.</p> <p>KARMMA is a new mass mapping algorithm: because gravity bends light, the mass in the Universe acts as a lens, distorting the images of distant galaxies.&nbsp; We can measure those distortions. What KARMMA does is turn a map of those distortions into a map of the mass density of the Universe.</p> <p>The algorithm is novel: it was the first algorithm to allow us to "forward model" the density of the Universe across the entirety of the sky.&nbsp; Roughly, this means that KARMMA uses approximate descriptions for how the structure of the Universe forms, and then keeps generating fake universes, and identifies all of those that are indistinguishible from our own in terms of the distortion data available to us.</p> <p>Our work on KARMMA resulted in 5 publications.&nbsp; The student responsible for the development of KARMMA also received his Ph.D. because of his work on this project, which formed the basis of his thesis.</p> <p>The KARMMA algorithm is currently the only code capable of producing full-sky reconstructions of the matter density field using the lognormal model for structure formation.&nbsp; &nbsp;KARMMA mass maps for publicly available survey data will be released later this year (2023), and the code will be made publicly available.&nbsp;</p> <p>Thanks to our success with KARMMA, we have also been able to secure additional funding for the continued development of the code.&nbsp; This work focuses on constraining cosmology while improving modeling at small scales using machine learning methods.</p> <p>My broader impact activities throughout this project focused on my continued participation and engagement in the Tucson Initiative for Minority Engagement in STEM Program (TIMESTEP).&nbsp; This engagement was primarily through the organization, participation, and support of undergraduate career developement sessions, as well as mentoring undergraduate research.&nbsp; Participants in TIMESTEP have double the retention rates in STEM fields relative to non-participants, with the impact being even larger amongst unrepresented and financially disadvantaged students.</p><br> <p>            Last Modified: 09/09/2023<br>      Modified by: Eduardo&nbsp;Rozo</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This award funded the development of the code KARMMA.  KARMMA is a new mass mapping algorithm: because gravity bends light, the mass in the Universe acts as a lens, distorting the images of distant galaxies.  We can measure those distortions. What KARMMA does is turn a map of those distortions into a map of the mass density of the Universe.  The algorithm is novel: it was the first algorithm to allow us to "forward model" the density of the Universe across the entirety of the sky.  Roughly, this means that KARMMA uses approximate descriptions for how the structure of the Universe forms, and then keeps generating fake universes, and identifies all of those that are indistinguishible from our own in terms of the distortion data available to us.  Our work on KARMMA resulted in 5 publications.  The student responsible for the development of KARMMA also received his Ph.D. because of his work on this project, which formed the basis of his thesis.  The KARMMA algorithm is currently the only code capable of producing full-sky reconstructions of the matter density field using the lognormal model for structure formation.   KARMMA mass maps for publicly available survey data will be released later this year (2023), and the code will be made publicly available.   Thanks to our success with KARMMA, we have also been able to secure additional funding for the continued development of the code.  This work focuses on constraining cosmology while improving modeling at small scales using machine learning methods.  My broader impact activities throughout this project focused on my continued participation and engagement in the Tucson Initiative for Minority Engagement in STEM Program (TIMESTEP).  This engagement was primarily through the organization, participation, and support of undergraduate career developement sessions, as well as mentoring undergraduate research.  Participants in TIMESTEP have double the retention rates in STEM fields relative to non-participants, with the impact being even larger amongst unrepresented and financially disadvantaged students.       Last Modified: 09/09/2023       Submitted by: Eduardo Rozo]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[E2CDA: Type II: Non-Volatile In-Memory Processing Unit: Memory, In-Memory Logic and Deep Neural Network]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>117005.00</AwardTotalIntnAmount>
+<AwardAmount>117005</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The objective of this project is to explore leveraging emerging nanoscale spin-orbit torque magnetic random access memory (SOT-MRAM) to develop a non-volatile in-memory processing unit that could simultaneously work as non-volatile memory and a co-processor for next-generation energy efficient and high performance computing system. Such energy efficient in-memory computing system integrates logic and memory units by exploring innovations from emerging spintronic device technology to non-Von Neumann architecture, which is targeting to tackle power wall and memory wall bottlenecks in traditional computing system. It will be crucial for industry and academia to identify next-generation energy efficient and high performance computing platform design. The project also has education and outreach components including new curriculum in post-CMOS devices and circuits for undergraduate/graduate students, engineering outreach to diverse population and other underrepresented groups at the University of central Florida. The project will also directly involve minority and female graduate/ undergraduate students.&lt;br/&gt;&lt;br/&gt;The proposed research requires synergistic exploration spanning from device technology to architecture innovation. Specifically, it consists of three research thrusts: (i) exploring novel SOT-MRAM memory array that could implement in-memory logic (AND/OR/XOR) without add-on logic circuits; (ii) investigating non-volatile in-memory processing unit (MPU) architecture that could simultaneously work as nonvolatile memory and co-processor to pre-process raw data within memory to accelerate data/computing intensive applications without sacrificing memory capacity; (iii) exploring MPU to implement in-memory convolution to greatly reduce data communication and accelerate state-of-the-art deep learning convolutional neural networks.]]></AbstractNarration>
+<MinAmdLetterDate>01/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005209</AwardID>
+<Investigator>
+<FirstName>Deliang</FirstName>
+<LastName>Fan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deliang Fan</PI_FULL_NAME>
+<EmailAddress><![CDATA[dfan10@jhu.edu]]></EmailAddress>
+<NSF_ID>000699728</NSF_ID>
+<StartDate>01/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>660 S MILL AVENUE STE 204</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>Tempe</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852816011</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>015Y</Code>
+<Text>Energy Efficient Computing: fr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~55514</FUND_OBLG>
+<FUND_OBLG>2019~61490</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The objective of this project is to explore leveraging emerging nanoscale spin-orbit torque magnetic random access memory (SOT-MRAM) to develop a non-volatile in-memory processing unit that could simultaneously work as non-volatile memory and a co-processor for next-generation energy efficient and high performance computing system. Such energy efficient in-memory computing system integrates logic and memory units by exploring innovations from emerging spintronic device technology to non-Von Neumann architecture, which targets to tackle power wall and memory wall bottlenecks in traditional computing system. This project outcome report covers both 2005209, conducted at Arizona State University (ASU), and 1740126, conducted at University of Central Florida (UCF), due to the PI transferred from UCF to ASU in 2019.</p> <p><strong>Intellectual merits:</strong></p> <p>Across the whole life of this project, for the intellectual merits, the PI mainly fulfilled three proposed research objectives. (1) The PI has successfully designed and validated multiple types of in-memory logic circuits for the target SOT-MRAM that could implement complete Boolean logic functions within memory, including AND/NAND, OR/NOR, XOR/XNOR, majority gate, full adder, adder, multiplier, etc. All the proposed designs have been validated, tested and further used in later architecture and application level design. (2) The PI has successfully designed and optimized SOT-MRAM based non-volatile in-memory processing unit (MPU) architecture that could simultaneously work as nonvolatile memory and co-processor to pre-process raw data within memory to accelerate data/computing intensive applications. The architecture and circuit level co-optimization have been conducted to minimize the area overhead, computing cycle requirements and energy consumption. &nbsp;(3) The PI has successfully re-designed and optimized different data-intensive algorithms that could be accelerated using the proposed SOT-MRAM based in-memory processing unit. Those data-intensive algorithms include deep neural network, data encryption, graph processing and bioinformatics. Specially, the PI has developed multiple MPU-oriented deep neural network compression techniques, such as weight binarization/ternarization, structured pruning, decomposition, etc., to greatly reduce its computing complexity, model size, while preserving inference accuracy. Those exploration all show the proposed MPU could achieve one to two orders higher energy efficiency and speedup compared with CPU counterpart.</p> <p><strong>Research Publications</strong>: The above discussed research outcomes have led to 40+ IEEE/ACM international journal and conference research publications from the PI&rsquo;s group, such as DAC, ICCAD, DATE, ASPDAC, TCAD, TMAG, CVPR, AAAI, etc. Those publications are all deposited into the NSF Public Access Repository.</p> <p><strong>Best paper awards</strong>: 2 best paper awards from 2019 GLSVLSI and 2018 ISVLSI academic conferences</p> <p><strong>PhD thesis</strong>: 2 PhD thesis: 1) &ldquo;Efficient and Secure Deep Learning Inference System, A Software and Hardware Co-Design Perspective&rdquo;; 2) &ldquo;Processing-in-Memory for Data-Intensive Applications, From Device to Algorithm&rdquo;</p> <p><strong>Technology transfer</strong>: 1 United State patent was filed and is currently pending about the in-memory logic circuit design</p> <p><strong>Prototype development</strong>: &nbsp;The PI&rsquo;s group has developed an FPGA prototype to demonstrate the benefits of the proposed model compression technique in improving computing efficiency and speed.</p> <p><strong>&nbsp;</strong></p> <p><strong>Broader Impacts</strong>:</p> <p>To promote its broader impacts, the PI has conducted followings:</p> <p><strong>New course development</strong>: &nbsp;The PI has created one new undergraduate course &ldquo;Post-CMOS Device and Circuit&rdquo; with a focus on introducing unconventional and non-Von Neumann computing designs enabled by the emerging MRAM technology. The PI also created one new graduate course &ldquo;Neuromorphic Computing Architecture, Circuit and Device&rdquo;, with a focus on introducing advanced concepts in neuromorphic computing architectures and its hardware implementations using nano-scale emerging spin-transfer torque and memristor devices. The PI also create new lecture modules for &ldquo;Digital Systems and Circuits&rdquo; based on some research outcome from this project. In total, hundreds of undergraduate and graduate students have take those courses.</p> <p><strong>Students training</strong>: Across the whole life of this project, 4 PhD students are partially supported by this project and publish their research discoveries in 40+ international journal and conference papers under the supervision of PI. 2 of the PhD students graduated and continued their career in academia. Note, one of the PhD students is female, who published multiple research papers at the early stage of her PhD study and multiple travel grant from different international conferences under the supervision of PI. Multiple master students and undergraduate students from the PI&rsquo;s classes are trained with knowledge of state-of-the-art non-volatile memory design and circuit design. The PI also supervised several senior design teams with the topic related to this project to train undergraduate students.</p> <p><strong>Outreach</strong>: the PI has organized and contributed to 10+ special sessions and tutorial sessions in different international conferences to promote the research outcomes from this project, which in total has 1000+ audience. Moreover, the PI has given 30+ talks in academic conference and industry to promote the research outcomes of this project.</p> <p><strong>Open source tools/models</strong>: 5 open-source software and tools about in-memory computing cross-layer simulation platform and deep learning optimization algorithms are generated and open-sourced in github. Those tools are free to download for public.</p><br> <p>            Last Modified: 12/12/2021<br>      Modified by: Deliang&nbsp;Fan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The objective of this project is to explore leveraging emerging nanoscale spin-orbit torque magnetic random access memory (SOT-MRAM) to develop a non-volatile in-memory processing unit that could simultaneously work as non-volatile memory and a co-processor for next-generation energy efficient and high performance computing system. Such energy efficient in-memory computing system integrates logic and memory units by exploring innovations from emerging spintronic device technology to non-Von Neumann architecture, which targets to tackle power wall and memory wall bottlenecks in traditional computing system. This project outcome report covers both 2005209, conducted at Arizona State University (ASU), and 1740126, conducted at University of Central Florida (UCF), due to the PI transferred from UCF to ASU in 2019.  Intellectual merits:  Across the whole life of this project, for the intellectual merits, the PI mainly fulfilled three proposed research objectives. (1) The PI has successfully designed and validated multiple types of in-memory logic circuits for the target SOT-MRAM that could implement complete Boolean logic functions within memory, including AND/NAND, OR/NOR, XOR/XNOR, majority gate, full adder, adder, multiplier, etc. All the proposed designs have been validated, tested and further used in later architecture and application level design. (2) The PI has successfully designed and optimized SOT-MRAM based non-volatile in-memory processing unit (MPU) architecture that could simultaneously work as nonvolatile memory and co-processor to pre-process raw data within memory to accelerate data/computing intensive applications. The architecture and circuit level co-optimization have been conducted to minimize the area overhead, computing cycle requirements and energy consumption.  (3) The PI has successfully re-designed and optimized different data-intensive algorithms that could be accelerated using the proposed SOT-MRAM based in-memory processing unit. Those data-intensive algorithms include deep neural network, data encryption, graph processing and bioinformatics. Specially, the PI has developed multiple MPU-oriented deep neural network compression techniques, such as weight binarization/ternarization, structured pruning, decomposition, etc., to greatly reduce its computing complexity, model size, while preserving inference accuracy. Those exploration all show the proposed MPU could achieve one to two orders higher energy efficiency and speedup compared with CPU counterpart.  Research Publications: The above discussed research outcomes have led to 40+ IEEE/ACM international journal and conference research publications from the PI’s group, such as DAC, ICCAD, DATE, ASPDAC, TCAD, TMAG, CVPR, AAAI, etc. Those publications are all deposited into the NSF Public Access Repository.  Best paper awards: 2 best paper awards from 2019 GLSVLSI and 2018 ISVLSI academic conferences  PhD thesis: 2 PhD thesis: 1) "Efficient and Secure Deep Learning Inference System, A Software and Hardware Co-Design Perspective"; 2) "Processing-in-Memory for Data-Intensive Applications, From Device to Algorithm"  Technology transfer: 1 United State patent was filed and is currently pending about the in-memory logic circuit design  Prototype development:  The PI’s group has developed an FPGA prototype to demonstrate the benefits of the proposed model compression technique in improving computing efficiency and speed.     Broader Impacts:  To promote its broader impacts, the PI has conducted followings:  New course development:  The PI has created one new undergraduate course "Post-CMOS Device and Circuit" with a focus on introducing unconventional and non-Von Neumann computing designs enabled by the emerging MRAM technology. The PI also created one new graduate course "Neuromorphic Computing Architecture, Circuit and Device", with a focus on introducing advanced concepts in neuromorphic computing architectures and its hardware implementations using nano-scale emerging spin-transfer torque and memristor devices. The PI also create new lecture modules for "Digital Systems and Circuits" based on some research outcome from this project. In total, hundreds of undergraduate and graduate students have take those courses.  Students training: Across the whole life of this project, 4 PhD students are partially supported by this project and publish their research discoveries in 40+ international journal and conference papers under the supervision of PI. 2 of the PhD students graduated and continued their career in academia. Note, one of the PhD students is female, who published multiple research papers at the early stage of her PhD study and multiple travel grant from different international conferences under the supervision of PI. Multiple master students and undergraduate students from the PI’s classes are trained with knowledge of state-of-the-art non-volatile memory design and circuit design. The PI also supervised several senior design teams with the topic related to this project to train undergraduate students.  Outreach: the PI has organized and contributed to 10+ special sessions and tutorial sessions in different international conferences to promote the research outcomes from this project, which in total has 1000+ audience. Moreover, the PI has given 30+ talks in academic conference and industry to promote the research outcomes of this project.  Open source tools/models: 5 open-source software and tools about in-memory computing cross-layer simulation platform and deep learning optimization algorithms are generated and open-sourced in github. Those tools are free to download for public.       Last Modified: 12/12/2021       Submitted by: Deliang Fan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

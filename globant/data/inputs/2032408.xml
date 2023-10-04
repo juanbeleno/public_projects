@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Low-cost, Batteryless Smart Personal Protective Equipment (PPE) Tackling the COVID-19 Pandemic]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Brunvand</SignBlockName>
+<PO_EMAI>ebrunvan@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Healthcare workers rely on face masks and other personal protective equipment (PPE) to safeguard their health. The COVID-19 pandemic has shown that PPE alone cannot protect workers, because fatigue, activity, even exposure to people impact the health and ability of the worker. The goal of this project is to develop smart PPE, which includes the design of small, low cost, and smart batteryless sensor devices that can be attached to masks. The masks will provide useful information for workers to self-manage health without the need for recharging or maintenance at reduced size and cost, unobtrusively protecting the worker.&lt;br/&gt;&lt;br/&gt;The research tasks center on building an energy harvesting and battery-free hardware and software platform that conducts continuous inference and notification on in-mask sensor data despite intermittent power failures stemming from dynamic energy input. Three research tasks are pursued (1) prototyping a hardware platform for intermittently powered human sensing, (2) developing a task-based adaptive checkpointing system for memory-constrained intermittent systems that perform on-device inference, (3) exploring  adaptive mechanisms for continuous inference which modulates estimated accuracy of prediction to reduce power failures. Finally, the research products are integrated into a single platform and sensing applications are developed for smart PPE.&lt;br/&gt;&lt;br/&gt;This research will enable the computational means for low cost, active protection of healthcare workers in the COVID-19 pandemic and future health crises using smart PPE. By leaving batteries behind, these devices can function maintenance-free, without recharging, at a reduced size and cost. These devices will provide actionable data and notifications to workers and hospitals for controlling the spread of infectious diseases and maintaining a ready, healthy workforce. The research informs ultra constrained computing system design and could be applied to protect other essential workers and the general population.&lt;br/&gt;&lt;br/&gt;The developed systems, including software, hardware, documentation, and detailed assembly instructions will be made available to the community. All research products will be made available at the following website http://kamoamoa.com/projects/smart-ppe/. The site will remain accessible for at least a year after the completion of the work.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032408</AwardID>
+<Investigator>
+<FirstName>Josiah</FirstName>
+<LastName>Hester</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Josiah D Hester</PI_FULL_NAME>
+<EmailAddress><![CDATA[josiah@gatech.edu]]></EmailAddress>
+<NSF_ID>000753638</NSF_ID>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Oliver</FirstName>
+<LastName>Cossairt</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Oliver S Cossairt</PI_FULL_NAME>
+<EmailAddress><![CDATA[olivercossairt@gmail.com]]></EmailAddress>
+<NSF_ID>000640664</NSF_ID>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nabil</FirstName>
+<LastName>Alshurafa</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nabil Alshurafa</PI_FULL_NAME>
+<EmailAddress><![CDATA[nabil@northwestern.edu]]></EmailAddress>
+<NSF_ID>000718284</NSF_ID>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>633 CLARK STREET</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>Evanston</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602083118</ZipCode>
+<StreetAddress><![CDATA[2145 Sheridan Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The COVID-19 pandemic dramatically increased the use of face masks across the world. They are among the most effective protection for healthcare workers and the general population. However, the COVID-19 pandemic made clear the longstanding limits of these traditional personal protective equipment (PPE). First, face masks must be managed; many types, like N95s, must be professionally fitted, maintained, and eventually replaced or decontaminated. This requires healthcare workers to take time away from caring for their patients. Moreover, traditional PPE is passive protection; problems like an ill-fitting mask that leaves a person exposed will not be caught for hours or days; increasing the risk of infection. Finally, today's face masks miss opportunities for sensing and intelligence that could inform and actively protect wearers. Face masks are optimally positioned to give unique insight into many personal health metrics.&nbsp;</span></p> <p><span>This project developed&nbsp;</span><strong>FaceBit</strong><span>&nbsp;as a response to these challenges and opportunities. FaceBit is an open-source hardware/software platform for smart face mask applications. FaceBit is an intelligent face mask for health care professionals (and beyond) that provides useful health statistics like heart rate and respiration rate, and mask information like fit and wear time. FaceBit is small and easily secured into any face mask, with a weeks-long battery lifetime so that it does not need to be inconveniently plugged in during the middle of a shift. FaceBit is accompanied by a mobile application that provides a user interface and facilitates use cases in clinical research. FaceBit monitors heart rate without skin contact by measuring the ballistic forces of the heart pushing blood to the head, respiration rate via in-mask temperature changes caused by breathing, and mask-fit and wear time from pressure signals on-device with an energy-efficient runtime system. FaceBit can harvest energy from breathing, motion, or sunlight to supplement its tiny primary cell battery that alone delivers a battery life of 11 days.&nbsp;</span></p> <p><span>FaceBit research tasks included (1) prototyping a hardware platform for energy-constrained and sometimes intermittently powered human sensing, (2) developing a reactive runtime system to gather health signals and process them on the device, and (3) exploring energy harvesting capabilities and how those augment or replace a battery, laying the groundwork for fully battery-free smart PPE.</span></p> <p><span>FaceBit opens up a new research program for pandemic response and protection of workers in high-risk environments. This research enables the computational means for low-cost, active protection of healthcare workers in the COVID-19 pandemic and future health crises using smart PPE. In the future, these devices can function maintenance-free, without recharging, at a reduced size and cost by leaving batteries behind. These devices will provide actionable data and notifications to workers and hospitals to control the spread of infectious diseases and maintain a ready, healthy workforce. Active PPE like FaceBit provides a low burden way to protect the wearer, integrating into typically required equipment. FaceBit has relevance beyond the front lines of the pandemic, in air quality and asthma-based preventive monitoring, high-risk or industrial workplaces with potential for toxic exposure, and even as a consumer device for general wellbeing. The FaceBit platform empowers the mobile computing community to jumpstart research in smart face mask sensing and inference and provides a sustainable, convenient form factor for health management, applicable to COVID-19 frontline workers and beyond.&nbsp;</span></p> <p><span>The main outcome of the project was the publication and dissemination of a paper detailing the end-to-end platform:&nbsp;</span><a class="editor-rtfLink" href="https://dl.acm.org/doi/10.1145/3494991" target="_blank"><span>FaceBit: Smart Face Masks Platform</span></a>, as well as the online release of the hardware and software of the project.</p> <p>&nbsp;</p><br> <p>            Last Modified: 02/21/2022<br>      Modified by: Josiah&nbsp;D&nbsp;Hester</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2032408/2032408_10670825_1645480062741_facebit_overview--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2032408/2032408_10670825_1645480062741_facebit_overview--rgov-800width.jpg" title="Overview of FaceBit."><img src="/por/images/Reports/POR/2022/2032408/2032408_10670825_1645480062741_facebit_overview--rgov-66x44.jpg" alt="Overview of FaceBit."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Overview of FaceBit.</div> <div class="imageCredit">Thomas Cohen</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Josiah&nbsp;D&nbsp;Hester</div> <div class="imageTitle">Overview of FaceBit.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2032408/2032408_10670825_1645480257530_hw--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2032408/2032408_10670825_1645480257530_hw--rgov-800width.jpg" title="Hardware platform."><img src="/por/images/Reports/POR/2022/2032408/2032408_10670825_1645480257530_hw--rgov-66x44.jpg" alt="Hardware platform."></a> <div class="imageCaptionContainer"> <div class="imageCaption">The top of the FaceBit board contains the compute, sensing, and most of the energy harvesting circuitry. The bottom of the FaceBit board contains the energy storage elements and the programming interface.</div> <div class="imageCredit">Alexander Curtiss</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Josiah&nbsp;D&nbsp;Hester</div> <div class="imageTitle">Hardware platform.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2032408/2032408_10670825_1645480325946_harvesting--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2032408/2032408_10670825_1645480325946_harvesting--rgov-800width.jpg" title="Energy harvesting"><img src="/por/images/Reports/POR/2022/2032408/2032408_10670825_1645480325946_harvesting--rgov-66x44.jpg" alt="Energy harvesting"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Power harvested from activities with various energy harvester configurations for the smart face mask.</div> <div class="imageCredit">Abu Bakar, Josiah Hester</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Josiah&nbsp;D&nbsp;Hester</div> <div class="imageTitle">Energy harvesting</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2032408/2032408_10670825_1645480152064_hw-data-pipeline--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2032408/2032408_10670825_1645480152064_hw-data-pipeline--rgov-800width.jpg" title="Overview of FaceBit data pipeline"><img src="/por/images/Reports/POR/2022/2032408/2032408_10670825_1645480152064_hw-data-pipeline--rgov-66x44.jpg" alt="Overview of FaceBit data pipeline"></a> <div class="imageCaptionContainer"> <div class="imageCaption">FaceBit overview. Data from multiple sensors is gathered and then processed on-device for health metrics. This is reported to the phone app. The circuitry is designed to automatically switch between a primary cell and harvested energy.</div> <div class="imageCredit">Thomas Cohen, Josiah Hester</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Josiah&nbsp;D&nbsp;Hester</div> <div class="imageTitle">Overview of FaceBit data pipeline</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The COVID-19 pandemic dramatically increased the use of face masks across the world. They are among the most effective protection for healthcare workers and the general population. However, the COVID-19 pandemic made clear the longstanding limits of these traditional personal protective equipment (PPE). First, face masks must be managed; many types, like N95s, must be professionally fitted, maintained, and eventually replaced or decontaminated. This requires healthcare workers to take time away from caring for their patients. Moreover, traditional PPE is passive protection; problems like an ill-fitting mask that leaves a person exposed will not be caught for hours or days; increasing the risk of infection. Finally, today's face masks miss opportunities for sensing and intelligence that could inform and actively protect wearers. Face masks are optimally positioned to give unique insight into many personal health metrics.   This project developed FaceBit as a response to these challenges and opportunities. FaceBit is an open-source hardware/software platform for smart face mask applications. FaceBit is an intelligent face mask for health care professionals (and beyond) that provides useful health statistics like heart rate and respiration rate, and mask information like fit and wear time. FaceBit is small and easily secured into any face mask, with a weeks-long battery lifetime so that it does not need to be inconveniently plugged in during the middle of a shift. FaceBit is accompanied by a mobile application that provides a user interface and facilitates use cases in clinical research. FaceBit monitors heart rate without skin contact by measuring the ballistic forces of the heart pushing blood to the head, respiration rate via in-mask temperature changes caused by breathing, and mask-fit and wear time from pressure signals on-device with an energy-efficient runtime system. FaceBit can harvest energy from breathing, motion, or sunlight to supplement its tiny primary cell battery that alone delivers a battery life of 11 days.   FaceBit research tasks included (1) prototyping a hardware platform for energy-constrained and sometimes intermittently powered human sensing, (2) developing a reactive runtime system to gather health signals and process them on the device, and (3) exploring energy harvesting capabilities and how those augment or replace a battery, laying the groundwork for fully battery-free smart PPE.  FaceBit opens up a new research program for pandemic response and protection of workers in high-risk environments. This research enables the computational means for low-cost, active protection of healthcare workers in the COVID-19 pandemic and future health crises using smart PPE. In the future, these devices can function maintenance-free, without recharging, at a reduced size and cost by leaving batteries behind. These devices will provide actionable data and notifications to workers and hospitals to control the spread of infectious diseases and maintain a ready, healthy workforce. Active PPE like FaceBit provides a low burden way to protect the wearer, integrating into typically required equipment. FaceBit has relevance beyond the front lines of the pandemic, in air quality and asthma-based preventive monitoring, high-risk or industrial workplaces with potential for toxic exposure, and even as a consumer device for general wellbeing. The FaceBit platform empowers the mobile computing community to jumpstart research in smart face mask sensing and inference and provides a sustainable, convenient form factor for health management, applicable to COVID-19 frontline workers and beyond.   The main outcome of the project was the publication and dissemination of a paper detailing the end-to-end platform: FaceBit: Smart Face Masks Platform, as well as the online release of the hardware and software of the project.          Last Modified: 02/21/2022       Submitted by: Josiah D Hester]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

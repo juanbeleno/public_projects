@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Predictive Tools for Characterizing Carbon Sequestration in Mined Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>254741.00</AwardTotalIntnAmount>
+<AwardAmount>254741</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project provides tools to identify and realize opportunities to use mine waste rock in carbon sequestration projects. This project encompasses research and development activities necessary to translate observations on the geochemistry of rock weathering into a comprehensive toolset for mining companies to characterize the potential for geologic materials excavated during mining to sequester atmospheric carbon dioxide as solid, geologically stable carbonate mineral phases. The service will employ a novel predictive modelling tool and a method for determining the site-specific data to parameterize the model. &lt;br/&gt;&lt;br/&gt;The proposed project will characterize the carbon sequestration potential of mined materials through a novel framework for conceptualizing silicate mineral weathering. Currently no established tools characterize this potential with sufficient accuracy to optimize the design of rock storage systems for carbon sequestration. The proposed innovation will include a novel implementation of mathematics of the “shrinking core model” into a reactive transport framework to simulate diffusion-controlled silicate mineral weathering and subsequent carbonate mineral precipitation.  The innovation also includes a novel application of mine waste characterization test work to identify site-specific reaction kinetics of multi-mineral assemblages for model parameterization. Research and development activities include mineral characterization of weathered mine waste and waste analogues, mathematical model development, and re-interpretation of published and proprietary kinetic data.  Geochemical data on the weathering of mined materials at the lab and field-test scale will be provided by industry.  The model will be used to predict the rate of sequestration occurring at the field tests. The predictive skill of the model will be tested via comparison to observed carbon sequestration rates.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/01/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035430</AwardID>
+<Investigator>
+<FirstName>Tamara</FirstName>
+<LastName>Diedrich</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tamara R Diedrich</PI_FULL_NAME>
+<EmailAddress><![CDATA[tdiedrich@mineralogicllc.com]]></EmailAddress>
+<NSF_ID>000519172</NSF_ID>
+<StartDate>02/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MINERALOGIC LLC</Name>
+<CityName>DULUTH</CityName>
+<ZipCode>558039786</ZipCode>
+<PhoneNumber>2184915226</PhoneNumber>
+<StreetAddress>3371 W TISCHER RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GH4HYBAJH5J5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MINERALOGIC LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[MINERALOGIC LLC]]></Name>
+<CityName>Duluth</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>558039786</ZipCode>
+<StreetAddress><![CDATA[3371 W Tischer Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~254741</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span style="text-decoration: underline;"><strong>PROJECT OUTCOMES</strong></span></p> <p>The objective of this project was to develop a novel technical toolset to be used to identify non-ore grade geologic materials on mining projects (i.e., mine waste) potentially amenable as feedstock for carbon mineralization projects. This toolset was envisioned to be comprised of geochemical modeling code, material characterization techniques, and efficient parameterization methods. Activities conducted under the grant met the technical objective. Outcomes from the award with particular relevance to NSF review criteria are highlighted below.</p> <p><span style="text-decoration: underline;"><strong>Development of prototype predictive tools </strong></span></p> <p>A working prototype geochemical program was developed to simulate enhanced rock weathering of representative mine waste. Through evaluation of industry datasets on laboratory testing of mine waste weathering, transient periods were identified where the cations required for carbon mineralization were being released at rates higher than would be predicted based on kinetic data in published literature. These cation release rates likely represent the rate-limiting step in most potential carbon mineralization systems. The observed enhancement was attributed, as an outcome of this study, to disequilibrium surface chemistry and synergistic mineral assemblages common to mine waste. <strong>&nbsp;</strong></p> <p>Test data from laboratory weathering tests conducted on plagioclase-rich materials from a proposed mining project were used to validate and parameterize a model of cation leaching kinetics and carbonate precipitation. Model results suggest that cation leaching is stimulated by protons supplied through sulfide oxidation and that subsequent carbonate precipitation would occur at sufficiently low water to rock ratio.</p> <p><strong><span style="text-decoration: underline;">Broader societal impact: Supporting decarbonization efforts of industry</span></strong></p> <p>Recent projections suggest that global warming may be limited to an&nbsp;increase of 1.5 degrees C above pre-industrial levels if anthropogenic CO<sub>2</sub> emissions can be reduced to reach net zero (CO<sub>2</sub> emissions to and removal from the atmosphere are equal) by 2050. Meeting this target will require profound changes to industry and all sectors of the economy, including deployment of technologies capable of removing on the order of 100 to 1000 Gigatons (GT) of CO<sub>2</sub> over the next century. &nbsp;Mine wastes have reactive properties that make them a potentially attractive feedstock for carbon sequestration via enhanced rock-weathering reactions.</p> <p>This project seeks to directly support global efforts to avoid the most severe consequences of climate change by providing tools to fully realize the potential for weathering of mine waste to remove CO<sub>2</sub> from the atmosphere. By helping companies in this effort, this project will positively impact human health and welfare, and national defense, as conditions caused by climate change have been identified as exacerbating existing risks and creating new security challenges for the interests of the United States.</p> <p>The prototype predictive tool, applied during the course of this project, to the example industry dataset suggested that enhanced cation leaching represents a mechanism with the potential to sequester as much as 440 tons CO<sub>2</sub> per million tons of waste rock per year. Considering that, on the order of, 100 billion tons of solid mine waste are generated globally each year, this mechanism could meaningfully contribute to the total CO<sub>2 </sub>sequestration capacity required to achieve net zero targets.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/23/2022<br>      Modified by: Tamara&nbsp;R&nbsp;Diedrich</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ PROJECT OUTCOMES  The objective of this project was to develop a novel technical toolset to be used to identify non-ore grade geologic materials on mining projects (i.e., mine waste) potentially amenable as feedstock for carbon mineralization projects. This toolset was envisioned to be comprised of geochemical modeling code, material characterization techniques, and efficient parameterization methods. Activities conducted under the grant met the technical objective. Outcomes from the award with particular relevance to NSF review criteria are highlighted below.  Development of prototype predictive tools   A working prototype geochemical program was developed to simulate enhanced rock weathering of representative mine waste. Through evaluation of industry datasets on laboratory testing of mine waste weathering, transient periods were identified where the cations required for carbon mineralization were being released at rates higher than would be predicted based on kinetic data in published literature. These cation release rates likely represent the rate-limiting step in most potential carbon mineralization systems. The observed enhancement was attributed, as an outcome of this study, to disequilibrium surface chemistry and synergistic mineral assemblages common to mine waste.    Test data from laboratory weathering tests conducted on plagioclase-rich materials from a proposed mining project were used to validate and parameterize a model of cation leaching kinetics and carbonate precipitation. Model results suggest that cation leaching is stimulated by protons supplied through sulfide oxidation and that subsequent carbonate precipitation would occur at sufficiently low water to rock ratio.  Broader societal impact: Supporting decarbonization efforts of industry  Recent projections suggest that global warming may be limited to an increase of 1.5 degrees C above pre-industrial levels if anthropogenic CO2 emissions can be reduced to reach net zero (CO2 emissions to and removal from the atmosphere are equal) by 2050. Meeting this target will require profound changes to industry and all sectors of the economy, including deployment of technologies capable of removing on the order of 100 to 1000 Gigatons (GT) of CO2 over the next century.  Mine wastes have reactive properties that make them a potentially attractive feedstock for carbon sequestration via enhanced rock-weathering reactions.  This project seeks to directly support global efforts to avoid the most severe consequences of climate change by providing tools to fully realize the potential for weathering of mine waste to remove CO2 from the atmosphere. By helping companies in this effort, this project will positively impact human health and welfare, and national defense, as conditions caused by climate change have been identified as exacerbating existing risks and creating new security challenges for the interests of the United States.  The prototype predictive tool, applied during the course of this project, to the example industry dataset suggested that enhanced cation leaching represents a mechanism with the potential to sequester as much as 440 tons CO2 per million tons of waste rock per year. Considering that, on the order of, 100 billion tons of solid mine waste are generated globally each year, this mechanism could meaningfully contribute to the total CO2 sequestration capacity required to achieve net zero targets.          Last Modified: 08/23/2022       Submitted by: Tamara R Diedrich]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

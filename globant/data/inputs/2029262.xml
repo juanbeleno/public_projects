@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: The Role of Testing in COVID-19 Outbreak Control]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>180401.00</AwardTotalIntnAmount>
+<AwardAmount>180401</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The global pandemic of the 2019 coronavirus disease (COVID-19) has taken a staggering toll in terms of economies, livelihoods, and, most importantly, lives. As with any emerging disease, many uncertainties remain about significant disease characteristics such as transmission and immunity. Predicting disease spread and the impacts of interventions is a challenge with imperfect and incomplete information about the disease itself. Moreover, an accurate accounting of the outbreak requires knowledge about the number of cases, which necessitates fast and accurate testing. However, the current use and speed of testing varies significantly across different locations. While testing alone will not stop transmission, widespread testing gives richer information on how an outbreak is progressing, particularly with a disease such as COVID-19 with hidden transmission. Furthermore, knowledge of person’s disease status leads to better adherence to the strict isolation and social distancing measures used to curb transmission. While many models consider the role of interventions in flattening the curve, this project will address a key gap in modeling of COVID-19: the impact of testing strategies on the ability to assess and intervene against the ongoing outbreak.  This project will develop new mathematical models of transmission of SARS-CoV-2, the cause of COVID-19 along with intervention strategies using testing. Two graduate students will be involved in the research.&lt;br/&gt;&lt;br/&gt;This project will develop compartmental models of the COVID-19 outbreak incorporating the use of testing in conjunction with other non-pharmaceutical interventions such as social distancing. Testing capacity, accuracy, and delays will be built into these models to closely resemble real-world challenges in implementation, which will differ by location. The PI will analyze and simulate these deterministic models to expand understanding of the requirements of testing for successful slowing of the outbreak. The results from the novel models will be validated with simulations from similarly structured stochastic models and actual data. Results will be presented through a publicly accessible dashboard where information on local testing procedures can be entered and examined to determine locally appropriate strategies. This publicly accessible dashboard will help policy- and decision-makers develop policies in the context of local testing capacity to best slow the spread of COVID-19. In addition, this work will provide a framework for developing priorities for testing and evaluation of intervention in future emerging epidemics.&lt;br/&gt;&lt;br/&gt;This award is co-funded with the Office of Multidisciplinary Activities (OMA) program of MPS.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029262</AwardID>
+<Investigator>
+<FirstName>Lauren</FirstName>
+<LastName>Childs</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lauren M Childs</PI_FULL_NAME>
+<EmailAddress><![CDATA[lchilds@vt.edu]]></EmailAddress>
+<NSF_ID>000545281</NSF_ID>
+<StartDate>06/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>Blacksburg</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240611026</ZipCode>
+<StreetAddress><![CDATA[225 Stanger St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7334</Code>
+<Text>MATHEMATICAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~180401</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The global pandemic caused by COVID-19 led to unprecedented impacts on health, economics and society. As with any emerging disease, there were many uncertainties about important disease characteristics such as transmission and immunity that resulted in significant challenges on how to best curtail and prevent disease spread. Furthermore, there was much variability in access to observation and intervention tools, such as reliable testing, making it difficult to monitor the severity of the pandemic. Despite this, public health decisions were necessary even with imperfect and incomplete information about cases and about the disease itself. This project developed and employed mathematical models of infectious disease to assist in improving how to mitigate the spread of COVID-19 and to facilitate decision making in future pandemics. In particular, models of COVID-19 spread, incorporating testing, were used to determine what was required to mitigate disease, and how various epidemic forecasts could be brought together to improve decision making. Other novel models of COVID-19, incorporating the development and loss of immunity over time, were used to understand how to prioritize vaccination and determine risk of future waves of disease. Furthermore, the examination of the real-world COVID-19 epidemiological outbreak helped formulate advancements in the mathematics used to model infectious disease for other diseases such as malaria.</p> <p>Beyond widespread dissemination of results within academic communities, results of this project were used to enhance public understanding during the pandemic, including presentations to the health care workers and the general public, and to teach K-12 students through presentations at the Blacksburg Math Circle and several summer mathematics programs. In addition, this project provided training and professional development opportunities for five graduate students and one undergraduate student, all of which continue to work or study in STEM fields.</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/25/2023<br>      Modified by: Lauren&nbsp;M&nbsp;Childs</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The global pandemic caused by COVID-19 led to unprecedented impacts on health, economics and society. As with any emerging disease, there were many uncertainties about important disease characteristics such as transmission and immunity that resulted in significant challenges on how to best curtail and prevent disease spread. Furthermore, there was much variability in access to observation and intervention tools, such as reliable testing, making it difficult to monitor the severity of the pandemic. Despite this, public health decisions were necessary even with imperfect and incomplete information about cases and about the disease itself. This project developed and employed mathematical models of infectious disease to assist in improving how to mitigate the spread of COVID-19 and to facilitate decision making in future pandemics. In particular, models of COVID-19 spread, incorporating testing, were used to determine what was required to mitigate disease, and how various epidemic forecasts could be brought together to improve decision making. Other novel models of COVID-19, incorporating the development and loss of immunity over time, were used to understand how to prioritize vaccination and determine risk of future waves of disease. Furthermore, the examination of the real-world COVID-19 epidemiological outbreak helped formulate advancements in the mathematics used to model infectious disease for other diseases such as malaria.  Beyond widespread dissemination of results within academic communities, results of this project were used to enhance public understanding during the pandemic, including presentations to the health care workers and the general public, and to teach K-12 students through presentations at the Blacksburg Math Circle and several summer mathematics programs. In addition, this project provided training and professional development opportunities for five graduate students and one undergraduate student, all of which continue to work or study in STEM fields.          Last Modified: 09/25/2023       Submitted by: Lauren M Childs]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

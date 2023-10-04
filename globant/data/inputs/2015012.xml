@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  Applying real-time data streams to predict operating room resource allocation with neural networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>224954.00</AwardTotalIntnAmount>
+<AwardAmount>244954</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to reduce the cost of surgical operations. Instrument tracking enables hospitals to optimize the supply chain, with a potential annual benefit to the US healthcare system of $8.5 B. Predictive scheduling can save $500k per operating room (OR) by closing gap times between procedures. Similarly, instrument prediction assistance can save an OR an estimated $14 per minute. The project will gather procedure and tool data from the operating room and apply artificial intelligence to optimize OR processes. This project has the potential to improve the overall function of the surgical team by anticipating surgical instrument needs. &lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project advances the fields of medicine and artificial intelligence by leveraging intraoperative data gathered by surgical instrument tracking. This unique data stream offers one of the first quantitative windows into a surgical operation. The objective of this project is to create computational tools to improve operating room scheduling and instrument supply, and test them with real clinical data. Transformer networks, commonly used in natural language processing tasks, will be adapted for this application and leveraged as an autoregressive tool to predict parameters of interest. The system will generate data regarding variations among surgeons, procedures, and patients.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/10/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015012</AwardID>
+<Investigator>
+<FirstName>Westin</FirstName>
+<LastName>Hill</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Westin M Hill</PI_FULL_NAME>
+<EmailAddress><![CDATA[weshill@mentemedical.com]]></EmailAddress>
+<NSF_ID>000793585</NSF_ID>
+<StartDate>07/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Lipkin</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael E Lipkin</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.lipkin@duke.edu]]></EmailAddress>
+<NSF_ID>000817886</NSF_ID>
+<StartDate>07/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MENTE, INC.</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022102326</ZipCode>
+<PhoneNumber>7152181016</PhoneNumber>
+<StreetAddress>12 CHANNEL ST STE 502</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RJK4JET1CKL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MENTE, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName/>
+<StateCode>NC</StateCode>
+<ZipCode>277054677</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~224954</FUND_OBLG>
+<FUND_OBLG>2021~20000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;</p> <p>Very little data exists to describe surgery. The absence of data makes predictability a challenge within the complex operating environment. As a result, the resources required to perform surgery are provided in excess. Operating room (OR) time is provisioned inaccurately and instruments are provided in excess, with many broken, dirty, or missing. Not only is this a driver of inefficiency, but it also creates confusion and frustration for the surgical team with a detriment to patient safety. The goal of this STTR Phase I award was to capture a data stream that describes surgery and to use it to predict when surgeries will end and which instruments will be needed next.&nbsp;&nbsp;</p> <p>Mente founders hypothesized that tracking surgical instrument use could provide data that describes surgery. Because every surgical instrument is tailored for a very specific task, each instrument use contains information about the goals of the surgeon, the state of the patient, and the phase of surgery.&nbsp;</p> <p>Tracking surgical instruments has posed a challenge for many researchers. During this STTR, Mente developed and tested a method for attaching radiofrequency identification (RFID) tags to surgical instruments utilizing thermoplastic encapsulation. The attachment conforms to the shape of the instrument, does not alter the function of the instrument, and withstands the harsh environments of the operating room and sterile processing.&nbsp;The methods tested under this research opportunity can be leveraged to attach circuitry to stainless steel and enable it to withstand the harsh environments of the operating room and sterile processing.</p> <p>With their collaborators at Duke, Mente showed that surgical instrument use can provide a rich data stream that describes surgery. In one application, neural networks were trained to predict surgery end time. Testing and training with instrument use data from only 25 surgeries enabled an end time prediction that was accurate to 14.1 minutes. This could offer more than a 50% savings in OR time from the average scheduling error of 30 minutes for those specific surgeries. This work could facilitate easy and accurate scheduling, saving up to $81k annually per OR. Furthermore, it can automate notifications describing surgical progress from the OR to both the post- and pre-operative care teams. This can improve patient flow and reduce OR turnover time. It could also reduce surgical team distractions as well as reduce the number of times the OR door is opened, minimizing infection risk.</p> <p>Neural networks were also used to predict the next instrument to be used in surgery. The STTR team showed that algorithms can be trained to predict the next group of instruments likely to be needed in surgery. Notifying the scrub nurse/technician with the next instruments to be used in surgery could enable staff to perform at a higher level with less training. This can improve patient safety and reduce cost by minimizing time under anesthesia. Furthermore, during this critical nursing shortage, this work can be leveraged to provide nurse managers more flexibility in staffing. Nurses or technicians trained in different areas could perform in specialties outside the scope of their expertise with real-time subsequent-instrument prompts. This can facilitate the scheduling of surgeries that would previously have been delayed due to staff shortages.&nbsp;</p> <p>This research team showed that tracking surgical instrument use can be used to describe surgery and that neural networks traditionally used for natural language processing could be applied to transient surgical instrument use data. This approach can be applied in conjunction with other surgery data to save OR time, cut cost, and improve patient safety. By demonstrating how surgical instrument use can be captured and used to train time series machine learning models, this STTR team unlocked new approaches in investigating how surgery can be improved. Long term societal benefits include increasing the predictability of OR resource allocation, improving OR timing, efficiency, and the safety of surgery.&nbsp;</p><br> <p>            Last Modified: 07/19/2022<br>      Modified by: Westin&nbsp;M&nbsp;Hill</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[    Very little data exists to describe surgery. The absence of data makes predictability a challenge within the complex operating environment. As a result, the resources required to perform surgery are provided in excess. Operating room (OR) time is provisioned inaccurately and instruments are provided in excess, with many broken, dirty, or missing. Not only is this a driver of inefficiency, but it also creates confusion and frustration for the surgical team with a detriment to patient safety. The goal of this STTR Phase I award was to capture a data stream that describes surgery and to use it to predict when surgeries will end and which instruments will be needed next.    Mente founders hypothesized that tracking surgical instrument use could provide data that describes surgery. Because every surgical instrument is tailored for a very specific task, each instrument use contains information about the goals of the surgeon, the state of the patient, and the phase of surgery.   Tracking surgical instruments has posed a challenge for many researchers. During this STTR, Mente developed and tested a method for attaching radiofrequency identification (RFID) tags to surgical instruments utilizing thermoplastic encapsulation. The attachment conforms to the shape of the instrument, does not alter the function of the instrument, and withstands the harsh environments of the operating room and sterile processing. The methods tested under this research opportunity can be leveraged to attach circuitry to stainless steel and enable it to withstand the harsh environments of the operating room and sterile processing.  With their collaborators at Duke, Mente showed that surgical instrument use can provide a rich data stream that describes surgery. In one application, neural networks were trained to predict surgery end time. Testing and training with instrument use data from only 25 surgeries enabled an end time prediction that was accurate to 14.1 minutes. This could offer more than a 50% savings in OR time from the average scheduling error of 30 minutes for those specific surgeries. This work could facilitate easy and accurate scheduling, saving up to $81k annually per OR. Furthermore, it can automate notifications describing surgical progress from the OR to both the post- and pre-operative care teams. This can improve patient flow and reduce OR turnover time. It could also reduce surgical team distractions as well as reduce the number of times the OR door is opened, minimizing infection risk.  Neural networks were also used to predict the next instrument to be used in surgery. The STTR team showed that algorithms can be trained to predict the next group of instruments likely to be needed in surgery. Notifying the scrub nurse/technician with the next instruments to be used in surgery could enable staff to perform at a higher level with less training. This can improve patient safety and reduce cost by minimizing time under anesthesia. Furthermore, during this critical nursing shortage, this work can be leveraged to provide nurse managers more flexibility in staffing. Nurses or technicians trained in different areas could perform in specialties outside the scope of their expertise with real-time subsequent-instrument prompts. This can facilitate the scheduling of surgeries that would previously have been delayed due to staff shortages.   This research team showed that tracking surgical instrument use can be used to describe surgery and that neural networks traditionally used for natural language processing could be applied to transient surgical instrument use data. This approach can be applied in conjunction with other surgery data to save OR time, cut cost, and improve patient safety. By demonstrating how surgical instrument use can be captured and used to train time series machine learning models, this STTR team unlocked new approaches in investigating how surgery can be improved. Long term societal benefits include increasing the predictability of OR resource allocation, improving OR timing, efficiency, and the safety of surgery.        Last Modified: 07/19/2022       Submitted by: Westin M Hill]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

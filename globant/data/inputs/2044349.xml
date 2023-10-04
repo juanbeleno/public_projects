@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Optimization Techniques for Geometrizing Real-World Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>28201.00</AwardTotalIntnAmount>
+<AwardAmount>28201</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Data is a common denominator to scientific fields, governments, and private enterprises. Being able to exploit data to find patterns has produced scientific breakthroughs and shifted business paradigms in the last several decades. This project focuses on mathematical and algorithmic techniques for specific data science problems, tailored to currently relevant domain problems, technologies, and volumes of data. The theoretical problems we consider are (i) clustering (which essentially consists on grouping data according to similarity in an unsupervised way), (ii) dimensionality reduction (reducing the volume of the data while preserving its relevant features), and (iii) quadratic assignment (finding correspondences between different datasets). The main underlying application we consider in this project is computational biology, in particular the processing of single-cell sequencing data. The technology for single-cell sequencing has been very recently developed and it is improving quickly, producing new datasets, problems and challenges that are interesting from a mathematical point of view and have potentially enormous impact. The project will have mathematicians working closely to computational biologists with the goal of identifying data science problems occurring in the scientific domain and to develop appropriate algorithms and mathematical tools.&lt;br/&gt;&lt;br/&gt;Given single-cell genetic expression data indicating how many times each gene is expressed in each cell, one objective is to select a few genes that can be used to identify different classes of cells. This problem is known in the computational biology literature as genetic marker selection. In a first approach we assume the class of each cell is known and the problem can be posed as supervised dimensionality reduction. We model it as a projection factor recovery problem, and we approach it using optimization tools such as semidefinite and linear programming. The objective is two-fold, we aim to study mathematical properties of the model we devise, and to develop an efficient tool to be used by practitioners. A second stage of the project is to make the problem unsupervised, therefore clustering will be a fundamental step. We will study stability properties of clustering methods and we will provide an efficient algorithm to evaluate the quality of clusters, based on statistical and optimization techniques. The potential use of this tool is general to data science and not just gene expression datasets. Finally, a third objective is to align datasets coming from different experiments. This problem is ubiquitous in data science, with graph matching and shape matching as some particular cases. In the context of computational biology the alignment problem is known as batch correction and it can be modeled with optimal transport or as a quadratic assignment problem. We will develop alignment algorithms and study their convergence and recovery properties under different data models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2044349</AwardID>
+<Investigator>
+<FirstName>Soledad</FirstName>
+<LastName>Villar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Soledad Villar</PI_FULL_NAME>
+<EmailAddress><![CDATA[svillar3@jhu.edu]]></EmailAddress>
+<NSF_ID>000793672</NSF_ID>
+<StartDate>08/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Johns Hopkins University</Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212182608</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress>3400 N CHARLES ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTMTDMBR29C7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>JOHNS HOPKINS UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>FTMTDMBR29C7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Johns Hopkins University]]></Name>
+<CityName/>
+<StateCode>MD</StateCode>
+<ZipCode>212182686</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~28201</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Data is everywhere, and in such large amounts that it is often humanly impossible to make sense of it. How can we visualize, process, and extract valuable conclusions from large volumes of high dimensional data? The project "Optimization techniques for geometrizing real-world data" had two main goals.&nbsp;</p> <p>Objective 1. To contribute towards a mathematical and algorithmic framework for processing large amounts of data under current technologies and computational paradigms, focusing on efficiency, reliability and interpretability of results.</p> <p>Objective 2. To work closely with applied researchers with the goal of identifying data science problems occurring in their scientific research and to develop algorithms and mathematical tools that would be useful in their problems.</p> <p>To this end we develop a dimensionality reduction technique that preserves relevant structure of the data. In particular, if the data have labels identifying their type, the dimensionality reduction may only preserve enough information to capture the type but remove everything else. Mathematically we prove that the method recovers the low dimension relevant structure for different data generating models while only requiring a small number of samples.</p> <p>This dimensionality reduction method has many potentially powerful applications. In particular, we collaborated with computational biologists to apply these ideas to a genetic marker selection problem. Current technologies allow scientists to extract the complete genetic sequences of individual cells, producing datasets of potentially tens of thousands of genes per individual cell. One important question in computational biology is to identify what are the relevant genes that allow us to predict the type of a cell (for instance, is the cell cancerous?). Identifying the relevant genes is an important task, related with making automatic predictions interpretable and explainable (e.g. we can predict a certain cell is cancerous because it has a high count of a certain gene).</p> <p>In the context of this project we use the dimensionality reduction techniques introduced by this project to produce a genetic marker selection method. The method is the first in its kind and it was published as an open source software package in the python package index.&nbsp;</p> <p>Other research topics addressed by this project included a variety of theoretical aspects of data science and machine learning, in particular neural networks on graphs. Many of these research projects included collaborations with applied scientists, including researchers in sonar, and astrophysics. In total the grant supported 15 publications (13 published, two of them "to appear", and one under review).&nbsp;</p> <p>In terms of broader impacts, the principal investigator co-organized a mathematics and democracy seminar at the Center for Data Science of New York University. This seminar featured talks on the intersection of mathematical research and democratic society, including topics as fairness, redistricting, gerrymandering, voting systems. The participants were mostly students, faculty, and members of the general public.</p> <p>During the pandemic the principal investigator and collaborators started an online seminar series featuring a mathematics colloquium in Spanish (and sometimes Portuguese). The goal of the colloquium is to showcase very successful hispanic and latino mathematicians. The&nbsp;speakers reach out to students all over the world that are interested in mathematics but may have a language or cultural barrier to access top scientific content. It also showcases diverse role models.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/01/2021<br>      Modified by: Soledad&nbsp;Villar</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2044349/2044349_10612908_1638370002836_Fig-scgenefit--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2044349/2044349_10612908_1638370002836_Fig-scgenefit--rgov-800width.jpg" title="Dimensionality reduction method"><img src="/por/images/Reports/POR/2021/2044349/2044349_10612908_1638370002836_Fig-scgenefit--rgov-66x44.jpg" alt="Dimensionality reduction method"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(A) Illustration of our dimensionality reduction technique on a simple 3D example.(B) Illustration of how the selected markers change with the labels.(C) Application of our marker selection method to single-cell expression profiles of cord blood mononuclear cells(CBMC).</div> <div class="imageCredit">Soledad Villar</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Soledad&nbsp;Villar</div> <div class="imageTitle">Dimensionality reduction method</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Data is everywhere, and in such large amounts that it is often humanly impossible to make sense of it. How can we visualize, process, and extract valuable conclusions from large volumes of high dimensional data? The project "Optimization techniques for geometrizing real-world data" had two main goals.   Objective 1. To contribute towards a mathematical and algorithmic framework for processing large amounts of data under current technologies and computational paradigms, focusing on efficiency, reliability and interpretability of results.  Objective 2. To work closely with applied researchers with the goal of identifying data science problems occurring in their scientific research and to develop algorithms and mathematical tools that would be useful in their problems.  To this end we develop a dimensionality reduction technique that preserves relevant structure of the data. In particular, if the data have labels identifying their type, the dimensionality reduction may only preserve enough information to capture the type but remove everything else. Mathematically we prove that the method recovers the low dimension relevant structure for different data generating models while only requiring a small number of samples.  This dimensionality reduction method has many potentially powerful applications. In particular, we collaborated with computational biologists to apply these ideas to a genetic marker selection problem. Current technologies allow scientists to extract the complete genetic sequences of individual cells, producing datasets of potentially tens of thousands of genes per individual cell. One important question in computational biology is to identify what are the relevant genes that allow us to predict the type of a cell (for instance, is the cell cancerous?). Identifying the relevant genes is an important task, related with making automatic predictions interpretable and explainable (e.g. we can predict a certain cell is cancerous because it has a high count of a certain gene).  In the context of this project we use the dimensionality reduction techniques introduced by this project to produce a genetic marker selection method. The method is the first in its kind and it was published as an open source software package in the python package index.   Other research topics addressed by this project included a variety of theoretical aspects of data science and machine learning, in particular neural networks on graphs. Many of these research projects included collaborations with applied scientists, including researchers in sonar, and astrophysics. In total the grant supported 15 publications (13 published, two of them "to appear", and one under review).   In terms of broader impacts, the principal investigator co-organized a mathematics and democracy seminar at the Center for Data Science of New York University. This seminar featured talks on the intersection of mathematical research and democratic society, including topics as fairness, redistricting, gerrymandering, voting systems. The participants were mostly students, faculty, and members of the general public.  During the pandemic the principal investigator and collaborators started an online seminar series featuring a mathematics colloquium in Spanish (and sometimes Portuguese). The goal of the colloquium is to showcase very successful hispanic and latino mathematicians. The speakers reach out to students all over the world that are interested in mathematics but may have a language or cultural barrier to access top scientific content. It also showcases diverse role models.           Last Modified: 12/01/2021       Submitted by: Soledad Villar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

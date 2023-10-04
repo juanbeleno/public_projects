@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  Low-Cost Packaging Solution for Space-Grade and High-Reliability Integrated Circuits]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255991.00</AwardTotalIntnAmount>
+<AwardAmount>255991</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Technology Transfer Research (STTR) Phase I project seeks to enable cost effective, compact, and higher performing integrated circuits for space applications. Space electronics have lagged the commercial state-of-the-art by over a decade.  The lack of high performing, cost effective packaging solutions further increases this gap. Traditionally, space applications utilize large, expensive, and low-performing ceramic packages that limit adoption of radiation-hardened semiconductors into the “New Space” applications such as Low Earth Orbit (LEO) mega-constellations for worldwide internet. “New Space” companies that design and manufacture electronics for satellites are the primary target customers while non-radiation-hardened applications that behave in extreme thermal environments, such as aviation and “down borehole" electronics for the oil/gas drilling, are also a target market for the technology. &lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer Research (STTR) Phase I project seeks to prove the feasibility of the innovation to effectively address the reliability challenges in interconnect (IC) packages operating over the extended temperature ranges required in space applications. There are multiple unknowns and technical challenges to be explored, requiring extensive interdisciplinary research and development. The goal is to arrive at a solution that effectively alleviates the mechanical stresses caused by the thermal expansion, while having acceptable thermal and electrical performance, particularly in high-power ICs, such as power converters/regulators. The research will determine the level of stress applied by the structure to the underlying silicon and the level of stress that is permitted before damage to the underlying silicon die will occur.  The project will also assess the reliability/risks associated with the temperature cycling and evaluate materials that are best suited to address the technical needs, while also offering a cost-effective manufacturable solution.  The team will investigate the suitability of existing commercial fabrication processes and how modifications in them may impact their manufacturability.  They will also investigate possible geometry enhancements to reduce buckling, explore the stress-alleviation versus thermal resistance tradeoffs in various geometries and compositions of structures, and create models that support design guidelines for optimal placement of sensitive circuits on the die.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/19/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>01/03/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052442</AwardID>
+<Investigator>
+<FirstName>Abhijeet</FirstName>
+<LastName>Ghoshal</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Abhijeet Ghoshal</PI_FULL_NAME>
+<EmailAddress><![CDATA[abhijeet@apogeesemiconductor.com]]></EmailAddress>
+<NSF_ID>000865854</NSF_ID>
+<StartDate>01/03/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ill</FirstName>
+<LastName>Ryu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ill Ryu</PI_FULL_NAME>
+<EmailAddress><![CDATA[Ill.Ryu@utdallas.edu]]></EmailAddress>
+<NSF_ID>000741709</NSF_ID>
+<StartDate>12/19/2021</StartDate>
+<EndDate>01/03/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>APOGEE SEMICONDUCTOR, INC.</Name>
+<CityName>PLANO</CityName>
+<ZipCode>750745673</ZipCode>
+<PhoneNumber>2145542752</PhoneNumber>
+<StreetAddress>840 CENTRAL PKWY E STE 140</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX32</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SQ3NLYSGDAW7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>APOGEE SEMICONDUCTOR, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[TallannQuest LLC]]></Name>
+<CityName>Plano</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>750745564</ZipCode>
+<StreetAddress><![CDATA[538 Haggard St (Suite 406)]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX32</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1218</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~255991</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The use of smaller, higher performing and more cost-effective wafer level chip scale (WLCSP) packages for integrated circuits (ICs) is preferred due to the minimized board area occupied by them and their superior electrical and thermal performance compared to those of packages that utilize bond wires and plastic. However, the traditional WLCSPs are not reliable for applications with high frequency extreme temperature cycling environments, such as what is experienced in low-Earth-orbiting (LEO) satellites. The primary reason for the poor inherent reliability of WLCSP packages is the mismatch between the coefficient of thermal expansion (CTE) of the printed circuit board (PCB) and that of the silicon die. The CTE of silicon is in the order of 2.6 ppm/?C whereas that of the PCB is around 14 ppm/?C. This causes stress fractures in the package?s solder balls leading to faulty or high-resistance connections and subsequent failure of the IC. This failure mode is exacerbated where large and frequent temperature cycles are present such as in satellites, automotive, aerospace, and industrial applications.</p> <p>Current solutions are ceramic packages and leaded plastic packages, which degrade the performance of the integrated circuits. This is especially the case with power management ICs where parasitic inductance, resistance and capacitance introduced by the package cause losses, voltage overshoots and slower slew rates, potentially resulting in faulty operation and damage.</p> <p>Apogee Semiconductor has begun developing a thermally guided bump (TGB) IC packaging solution that reduces the stresses experienced in the solder joints by allowing the IC?s bumps to move in accordance with the thermal expansion experienced in the PCB.</p> <p>The outcomes of this phase 1 project demonstrated the improvement in reliability by over 20 times to that of the generic industry standard WLCSP technology. A design methodology to generate packages with this new technology, incorporating a high level of automation, was also developed. The preliminary design was completed and sent for fabrication, and an automated characterization system to test the fabricated devices was also developed.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/15/2023<br>      Modified by: Abhijeet&nbsp;Ghoshal</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The use of smaller, higher performing and more cost-effective wafer level chip scale (WLCSP) packages for integrated circuits (ICs) is preferred due to the minimized board area occupied by them and their superior electrical and thermal performance compared to those of packages that utilize bond wires and plastic. However, the traditional WLCSPs are not reliable for applications with high frequency extreme temperature cycling environments, such as what is experienced in low-Earth-orbiting (LEO) satellites. The primary reason for the poor inherent reliability of WLCSP packages is the mismatch between the coefficient of thermal expansion (CTE) of the printed circuit board (PCB) and that of the silicon die. The CTE of silicon is in the order of 2.6 ppm/?C whereas that of the PCB is around 14 ppm/?C. This causes stress fractures in the package?s solder balls leading to faulty or high-resistance connections and subsequent failure of the IC. This failure mode is exacerbated where large and frequent temperature cycles are present such as in satellites, automotive, aerospace, and industrial applications.  Current solutions are ceramic packages and leaded plastic packages, which degrade the performance of the integrated circuits. This is especially the case with power management ICs where parasitic inductance, resistance and capacitance introduced by the package cause losses, voltage overshoots and slower slew rates, potentially resulting in faulty operation and damage.  Apogee Semiconductor has begun developing a thermally guided bump (TGB) IC packaging solution that reduces the stresses experienced in the solder joints by allowing the IC?s bumps to move in accordance with the thermal expansion experienced in the PCB.  The outcomes of this phase 1 project demonstrated the improvement in reliability by over 20 times to that of the generic industry standard WLCSP technology. A design methodology to generate packages with this new technology, incorporating a high level of automation, was also developed. The preliminary design was completed and sent for fabrication, and an automated characterization system to test the fabricated devices was also developed.           Last Modified: 01/15/2023       Submitted by: Abhijeet Ghoshal]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

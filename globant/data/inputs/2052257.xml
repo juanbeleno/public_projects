@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II: Information fusion-driven adaptive corridor-wide traffic signal re-timing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>963768.00</AwardTotalIntnAmount>
+<AwardAmount>979633</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase II project focuses on an adaptive traffic signal timing solution. Cities and municipalities worldwide spend over $4 billion annually to retime traffic signals and yet often fail to adequately reduce congestion on roadways. The consequences of mistimed traffic signal timing are: a) increasing productivity losses due to congestion with the average American spending 97 hours stuck in traffic every year, b) increasing accidents due to traffic, with one fatality every 15 minutes on US roads, and c) increasing greenhouse emissions with a third of all emissions caused by vehicles on the roads. This project will support the development and commercialization of a web-based technology to support traffic managers in cities and municipalities to better manage traffic using artificial intelligence (AI) and big data analytics. In addition to improving traffic flow and reducing congestion, the system will also significantly reduce harmful emissions, leading to more environmentally friendly city streets. The serviceable markets for this technology in the US and Europe, which together constitute 60% of the global signal-timing market, represent a $2.4 billion opportunity.  &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase II project seeks to develop a proof-of-concept for a fully adaptive traffic signal retiming solution that can robustly handle multiple signal corridors for commercialization. The key intellectual merit of this effort will be developing deep learning models that can run at scale and handle sensor noise robustly. The reinforcement learning process will help the system to adapt to changing traffic scenarios at different scales without the need for manual interventions. Research objectives that must be overcome in Phase II are focused on: 1) scaling the solution; 2) making the solution robust; and 3) ensuring that the system is user ready. Achieving these objectives may help ensure the product can successfully run on big-data architecture economically deployed on the cloud.  The solution will also provide a deeper understanding of human-machine interaction. Overall, the proposed system may reduce implementation time as well as capital and maintenance expenditures for signal timing systems. These advantages will encourage cities around the US and internationally to adopt such signal timing strategies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/01/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052257</AwardID>
+<Investigator>
+<FirstName>Tingting</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tingting Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[tingting.huang@etalyc.com]]></EmailAddress>
+<NSF_ID>000864620</NSF_ID>
+<StartDate>12/20/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vishal</FirstName>
+<LastName>Mahulkar</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vishal V Mahulkar</PI_FULL_NAME>
+<EmailAddress><![CDATA[vishal.mahulkar@etalyc.com]]></EmailAddress>
+<NSF_ID>000805844</NSF_ID>
+<StartDate>09/01/2021</StartDate>
+<EndDate>12/20/2021</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ETALYC, Inc.</Name>
+<CityName>AMES</CityName>
+<ZipCode>500108649</ZipCode>
+<PhoneNumber>7654300023</PhoneNumber>
+<StreetAddress>2711 S LOOP DR</StreetAddress>
+<StreetAddress2><![CDATA[STE 4504]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MK5LZLN36EF6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ETALYC INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TP68WGK4DEL4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ETALYC, Inc.]]></Name>
+<CityName>Ames</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500108658</ZipCode>
+<StreetAddress><![CDATA[2711 S Loop Dr Ste 4504]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01AB2324DB</Code>
+<Name><![CDATA[R&RA DRSA DEFC AAB]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~963768</FUND_OBLG>
+<FUND_OBLG>2023~15865</FUND_OBLG>
+</Award>
+</rootTag>

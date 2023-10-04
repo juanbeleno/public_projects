@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Optimizing Information Value in Heterogeneous Multi-agent Transportation Systems (OPTIMA)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>351516.00</AwardTotalIntnAmount>
+<AwardAmount>359516</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+<PO_EMAI>gaklutke@nsf.gov</PO_EMAI>
+<PO_PHON>7032922443</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project addresses the use of advanced sensing, communications, and computing technologies in studying value of information in transportation systems made up of heterogeneous traffic (cars, autonomous and connected vehicles, buses, bicycles, etc.)  The wealth of data available on these systems enables new approaches to information provisioning that have the potential to improve transportation system efficiency, reliability, and resilience.  The project develops a unified modeling framework for information provision considering heterogeneous non-cooperative stakeholders and addresses three critical questions: (1) How do we model adaptive behavior of different traffic components in response to evolving information updates? (2) What are the limits of positive and negative information on systems efficiency, reliability, and resilience?  (3) Given limited resources, what, when, and where should the information be communicated with which groups of stakeholders to optimize system performance? &lt;br/&gt;&lt;br/&gt;The project develops the theoretical foundation to study information provisioning over heterogeneous multi-agent transportation networks and provides critical insights on information sensing, sharing, and protection for smart mobility.  The approach integrates stochastic multi-agent optimization, traffic network equilibrium modeling, and variational analysis to study value of information and information design for modern multi-modal transportation systems. The project will leverage recent theoretical advancements on convexification, decomposition, and approximation theories to cope with the computational challenges brought by multi-agent interaction, multi-stage decision making, and multi-dimensional scenarios.  The project leverages collaborations with the University of Central Florida (UCF) transportation system, City of Orlando, and  Argonne National Laboratory.  The project will also develop educational materials for a broad audience and support the development of a new generation of transportation engineers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/02/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>03/23/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041446</AwardID>
+<Investigator>
+<FirstName>Zhaomiao</FirstName>
+<LastName>Guo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhaomiao Guo</PI_FULL_NAME>
+<EmailAddress><![CDATA[guo@ucf.edu]]></EmailAddress>
+<NSF_ID>000800745</NSF_ID>
+<StartDate>11/02/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The University of Central Florida Board of Trustees</Name>
+<CityName>ORLANDO</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CENTRAL FLORIDA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RD7MXJV7DKT9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Central Florida Board of Trustees]]></Name>
+<CityName>Orlando</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>328160120</ZipCode>
+<StreetAddress><![CDATA[4353 Scorpius Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1631</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~351516</FUND_OBLG>
+<FUND_OBLG>2023~8000</FUND_OBLG>
+</Award>
+</rootTag>

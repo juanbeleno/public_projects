@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Infrastructure-to-Everything (I2X) Communication Technology for Autonomous and Connected Vehicle Support]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to enhance the robustness and security of infrastructure-to-everything (I2X) communications through the use of a hybrid wireless technology that can be embedded inside civil infrastructure. The technology could augment the sensing modality of existing autonomous and semi-autonomous vehicles by improving the overall system efficiency, security, and robustness under uncertain driving conditions. The technology could be used to mitigate adversarial manipulation and tampering of infrastructural landmarks like traffic signs and could also be used as a fallback mechanism when geo-navigation signals are unavailable. The technology will also provide a flexible integration platform for state and federal stakeholders to enforce new guidelines and checkpointing standards. The technology will be flexible enough to implement new communication protocols that can lower the barrier for other mobility-based businesses to enter the autonomous driving market. In addition to mobility applications, infrastructure owners and state/federal departments of transportation (DoTs) could use this technology for large-scale interrogation of structural health monitoring sensors. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will develop an embedded hybrid radio-frequency identification (RFID)-based system for infrastructure-to-everything (I2X) communications. A major challenge to implementing embedded I2X devices is the limited availability of power.  It is not feasible to replace batteries when the devices are deployed in asphalt or concrete structures or underneath a bridge-deck. This problem is solved by the proposed technology using a hybrid system that combines the long lifetime of passive RFID tags with low-latency of their active counterparts. This project will: (1) characterize the radio-frequency energy required to enable I2X communications;(2) evaluate the energy available for embedded wireless devices that adhere to Federal Communications Commission regulations; (3) build commercial-ready devices that can survive the embedding and the compaction process; (4) develop basic software to support meaningful information exchange with the embedded I2X prototypes; and (5) verify prototypes in small scale field deployment studies. The end goal of the project will be to develop the I2X prototype using commodity electronics while still achieving an at-scale price point that is cheaper than the cost of the construction material used in road surfaces and in other civil infrastructure.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/22/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052170</AwardID>
+<Investigator>
+<FirstName>Kenji</FirstName>
+<LastName>Aono</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kenji Aono</PI_FULL_NAME>
+<EmailAddress><![CDATA[kenji@infratico.com]]></EmailAddress>
+<NSF_ID>000837088</NSF_ID>
+<StartDate>06/22/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>INFRASTRUCTURE ANALYTICS COMPANY</Name>
+<CityName>SHERIDAN</CityName>
+<ZipCode>828016317</ZipCode>
+<PhoneNumber>7342726174</PhoneNumber>
+<StreetAddress>30 N GOULD ST</StreetAddress>
+<StreetAddress2><![CDATA[STE N]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Wyoming</StateName>
+<StateCode>WY</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WY00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L8YSLF2UG6N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>INFRASTRUCTURE ANALYTICS COMPANY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Infrastructure Analytics Company]]></Name>
+<CityName>PHILADELPHIA</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191433810</ZipCode>
+<StreetAddress><![CDATA[1242 S Markoe St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4097</Code>
+<Text>NETWORKING RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p style="line-height: 100%; margin-bottom: 0in;">The proposed work for this Small Business Innovation Research Phase I project, titled "SBIR Phase I: Infrastructure-to-Everything (I2X) Communication Technology for Autonomous and Connected Vehicle Support" was to conduct research and development on a hybrid wireless technology that can be embedded inside civil infrastructure. The technology is envisioned as an augmentation to the performance trade-offs of existing wireless topology that are either entirely passive, from the perspective of the remote sensor, (e.g. tap-to-pay credit cards, pet microchips, or access cards) or require external power (e.g. smartphones, GPS, or Automatic Meter Reading systems for utilities). The primary use case of study was focused on a wireless radio-frequency identification (RFID) sensor that could last around 20 years, to match the lifespan of typical roads, yet remain responsive enough to interface with highway speed traffic.</p> <p style="line-height: 100%; margin-bottom: 0in;">&nbsp;</p> <p style="line-height: 100%; margin-bottom: 0in;">In part due to recent third party business decisions that hampered the global electronic chip supply chain or otherwise slowed down the speed of collaboration, a no-cost extension to the period of performance on this project was requested and granted.</p> <p style="line-height: 100%; margin-bottom: 0in;">&nbsp;</p> <p style="line-height: 100%; margin-bottom: 0in;">As a result of this exploration, it was found that embedding wireless transmitters inside of road-grade asphalt or concrete could reduce the amount of wireless signal strength or energy transmitted over a fixed distance by as much as 50 to 96%. Such a dramatic drop could preclude the use of conventional passive wireless devices that operate by harvesting available wireless energy, necessitating the use of externally powered devices. However, the cost of wiring a meaningful number of powered devices is not economically feasible and battery operated active wireless devices that support the requisite communication rates have failed to last the decades required for roads.</p> <p style="line-height: 100%; margin-bottom: 0in;">&nbsp;</p> <p style="line-height: 100%; margin-bottom: 0in;">The hybrid wireless technology, as tested, was able to reduce the amount of wireless energy required by a factor of 40 (i.e. a 97.5% reduction) which would allow it to work across all of the tested road-grade embedding conditions. In addition, the focus on a commercially viable solution lead to technical improvements in the design that reduced the response latency by more than 90% as compared to prior designs reported in academia and a greater than 50% reduction in implementation cost of the hybrid topology, even in light of inflationary pressure and limited supply chain sources. Within the scope of this Phase I, verification of a particular implementation's functionality across a substantial number of devices was carried out with success. Prototypes were also subjected to simulations of harsh environmental conditions including freeze and thaw cycles or immersion in salt water without issue. An end-to-end demonstration using this technology to enable a geolocation beacon (as an alternative to GPS) was realized with networked devices able to relay information using open source tools.</p> <p style="line-height: 100%; margin-bottom: 0in;">&nbsp;</p> <p style="line-height: 100%; margin-bottom: 0in;">NSF support for this project has allowed this small business of concern to validate an otherwise risky concept to a point that it is capturing the attention of established firms and aiding in the nurturing of a scalable business model. To date, an additional four commercially-funded projects can be attributed to this support.</p> <!-- p { line-height: 115%; margin-bottom: 0.1in; background: transparent } --><br> <p>            Last Modified: 11/30/2022<br>      Modified by: Kenji&nbsp;Aono</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[The proposed work for this Small Business Innovation Research Phase I project, titled "SBIR Phase I: Infrastructure-to-Everything (I2X) Communication Technology for Autonomous and Connected Vehicle Support" was to conduct research and development on a hybrid wireless technology that can be embedded inside civil infrastructure. The technology is envisioned as an augmentation to the performance trade-offs of existing wireless topology that are either entirely passive, from the perspective of the remote sensor, (e.g. tap-to-pay credit cards, pet microchips, or access cards) or require external power (e.g. smartphones, GPS, or Automatic Meter Reading systems for utilities). The primary use case of study was focused on a wireless radio-frequency identification (RFID) sensor that could last around 20 years, to match the lifespan of typical roads, yet remain responsive enough to interface with highway speed traffic.   In part due to recent third party business decisions that hampered the global electronic chip supply chain or otherwise slowed down the speed of collaboration, a no-cost extension to the period of performance on this project was requested and granted.   As a result of this exploration, it was found that embedding wireless transmitters inside of road-grade asphalt or concrete could reduce the amount of wireless signal strength or energy transmitted over a fixed distance by as much as 50 to 96%. Such a dramatic drop could preclude the use of conventional passive wireless devices that operate by harvesting available wireless energy, necessitating the use of externally powered devices. However, the cost of wiring a meaningful number of powered devices is not economically feasible and battery operated active wireless devices that support the requisite communication rates have failed to last the decades required for roads.   The hybrid wireless technology, as tested, was able to reduce the amount of wireless energy required by a factor of 40 (i.e. a 97.5% reduction) which would allow it to work across all of the tested road-grade embedding conditions. In addition, the focus on a commercially viable solution lead to technical improvements in the design that reduced the response latency by more than 90% as compared to prior designs reported in academia and a greater than 50% reduction in implementation cost of the hybrid topology, even in light of inflationary pressure and limited supply chain sources. Within the scope of this Phase I, verification of a particular implementation's functionality across a substantial number of devices was carried out with success. Prototypes were also subjected to simulations of harsh environmental conditions including freeze and thaw cycles or immersion in salt water without issue. An end-to-end demonstration using this technology to enable a geolocation beacon (as an alternative to GPS) was realized with networked devices able to relay information using open source tools.   NSF support for this project has allowed this small business of concern to validate an otherwise risky concept to a point that it is capturing the attention of established firms and aiding in the nurturing of a scalable business model. To date, an additional four commercially-funded projects can be attributed to this support.        Last Modified: 11/30/2022       Submitted by: Kenji Aono]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

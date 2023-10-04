@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Countering Language Biases in COVID-19 Search Auto-Completes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>198985.00</AwardTotalIntnAmount>
+<AwardAmount>198985</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sara Kiesler</SignBlockName>
+<PO_EMAI>skiesler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928643</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The novel coronavirus (COVID-19) has resulted in sharp increases in online search activity about the disease, its spread, and remedial actions. Hence, search engines can significantly influence public perceptions of the disease and the actions undertaken by the public. If there are language biases in the results of searches, there may also be biases in perceptions and actions taken. This project will systematically analyze the differences in COVID-19 related search auto-completes that are provided to English and Spanish speakers. The results will generate new knowledge on the emergence of algorithmic bias and help ensure equity in health information dissemination at scale amid large-scale health emergencies. The findings will be shared in easy-to-understand terms on an urgent basis in multiple languages to help ensure equal access to health information in the COVID-19 pandemic. This feedback could help improve the health outcomes for numerous individuals facing the COVID-19 pandemic.&lt;br/&gt;&lt;br/&gt;The project is designed to yield approaches for countering language-based bias in COVID-19 related health information dissemination by search engines using log analysis and interviews. The first step in this project is to audit the search auto-complete results in Spanish and English, and test if there are systematic differences in the way results are generated across the two languages. The next step is to this utilize focus groups with multiple users to understand how auto-complete queries affect the way English versus Spanish speakers understand COVID-19 disease and take necessary precautions. The findings from the two phases are to be combined to generate guidelines on designing search experiences that support health equity amid a public health crisis. This research topic is likely to attract a diverse range of student researchers, which could help broaden participation in STEM research career pipelines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027784</AwardID>
+<Investigator>
+<FirstName>Pamela</FirstName>
+<LastName>Valera</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pamela Valera</PI_FULL_NAME>
+<EmailAddress><![CDATA[pv181@sph.rutgers.edu]]></EmailAddress>
+<NSF_ID>000824155</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vivek</FirstName>
+<LastName>Singh</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vivek K Singh</PI_FULL_NAME>
+<EmailAddress><![CDATA[vivek.k.singh@rutgers.edu]]></EmailAddress>
+<NSF_ID>000678158</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZ</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>New Brunswick</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>089011000</ZipCode>
+<StreetAddress><![CDATA[4 Huntington Street, Room CI 334]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>065Z</Code>
+<Text>Human factors for security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~198985</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The COVID-19 pandemic has posed unprecedented challenges to public health and information dissemination. One of the sources of information people rely on is the Google search engine, which provides query auto-completion (QAC) suggestions based on the user&rsquo;s input. However, QAC may differ across languages and affect how people perceive and understand COVID-19. This project aimed to examine how QAC differs between English and Spanish and how these differences impact how English vs. Spanish speakers comprehend COVID-19.</span></p> <p><span>The project had two main objectives: (1) to compare QAC results for COVID-19-related keywords in English and Spanish and (2) to explore the user&rsquo;s experiences and perceptions of QAC in both languages. The project also had an associated objective: to investigate the prevalence of COVID-19 conspiracy theories in QAC across different countries.</span></p> <p><span>The project used a mixed-methods approach, combining quantitative analysis of QAC data collected in three waves since March 2020 and qualitative analysis of focus group data from users of Google search engine. The project also used web logging techniques to collect QAC data from different countries.</span></p> <p><span>This study found that QAC results in Spanish yielded fewer options and often more negative content than English QAC results. Moreover, the topical coverage differed in both languages, with Spanish QAC including topics related to religion and spirituality that were absent in English QAC. The project also found that QAC results could evoke fear, stress, skepticism, hesitation, preselection, and familiarity among users and that Spanish-speaking users had less choice of QAC results than English-speaking users. Additionally, these activities identified multiple keywords related to COVID-19 conspiracy theories in QAC and studied their prevalence across countries. </span></p> <p><span>The empirical evidence presented in this study significantly advanced our understanding of language biases in QAC, shedding light on their implications for seeking and comprehending COVID-19 information. Furthermore, these findings benefited society by raising awareness of the potential risks and opportunities of QAC for public health communication and education. Two papers were submitted to two highly impacted peer-reviewed journals resulting in one published and the other is currently under review. In terms of dissemination of the study results, this included peer-reviewed conference paper, one white paper, multiple invited conference and workshop presentations, and coverage by several media outlets.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 08/02/2023<br>      Modified by: Vivek&nbsp;K&nbsp;Singh</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The COVID-19 pandemic has posed unprecedented challenges to public health and information dissemination. One of the sources of information people rely on is the Google search engine, which provides query auto-completion (QAC) suggestions based on the user’s input. However, QAC may differ across languages and affect how people perceive and understand COVID-19. This project aimed to examine how QAC differs between English and Spanish and how these differences impact how English vs. Spanish speakers comprehend COVID-19.  The project had two main objectives: (1) to compare QAC results for COVID-19-related keywords in English and Spanish and (2) to explore the user’s experiences and perceptions of QAC in both languages. The project also had an associated objective: to investigate the prevalence of COVID-19 conspiracy theories in QAC across different countries.  The project used a mixed-methods approach, combining quantitative analysis of QAC data collected in three waves since March 2020 and qualitative analysis of focus group data from users of Google search engine. The project also used web logging techniques to collect QAC data from different countries.  This study found that QAC results in Spanish yielded fewer options and often more negative content than English QAC results. Moreover, the topical coverage differed in both languages, with Spanish QAC including topics related to religion and spirituality that were absent in English QAC. The project also found that QAC results could evoke fear, stress, skepticism, hesitation, preselection, and familiarity among users and that Spanish-speaking users had less choice of QAC results than English-speaking users. Additionally, these activities identified multiple keywords related to COVID-19 conspiracy theories in QAC and studied their prevalence across countries.   The empirical evidence presented in this study significantly advanced our understanding of language biases in QAC, shedding light on their implications for seeking and comprehending COVID-19 information. Furthermore, these findings benefited society by raising awareness of the potential risks and opportunities of QAC for public health communication and education. Two papers were submitted to two highly impacted peer-reviewed journals resulting in one published and the other is currently under review. In terms of dissemination of the study results, this included peer-reviewed conference paper, one white paper, multiple invited conference and workshop presentations, and coverage by several media outlets.          Last Modified: 08/02/2023       Submitted by: Vivek K Singh]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

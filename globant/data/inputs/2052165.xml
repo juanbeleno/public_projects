@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Development of prediction-driven credit scoring and ruling platform for behavioral lending]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255948.00</AwardTotalIntnAmount>
+<AwardAmount>255948</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project will enable credit to currently under-served populations. Creditworthiness is largely determined by the quality of the applicant’s credit and financial history.  However, limited information regarding "credit-invisible" (one out of ten American adults) and "thin-file" applicants (62 million Americans) prevents accurate evaluation of a credit score. The proposed artificial intelligence (AI) based personality-driven lending platform will provide lenders a reliable creditworthiness prediction without an extensive financial history. Moreover, the proposed system will include a transparency module, preventing biases and expanding credit equity and identifying new banking customers from under-represented groups. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims to develop the first personality-driven credit scoring and ruling platform. While traditional scoring models base their assessment on financial history data, the proposed algorithm will produce a reliable credit score based on an applicant’s personality. No history of financial transactions (such as gas, water, electricity, TV, phone, broadband services, or rent payment records) is needed to reach a conclusion about an applicant’s creditworthiness. Research efforts of this Phase I project will focus on 1) the evaluation of alternative data points such as psychometric testing questionnaires, telecommunications data, demographics, firmographics, and publicly available data, 2) the development of a semi-supervised machine learning approach to predict credit reliability for individuals, and 3) the development of an unsupervised clustering approach to identify customer clusters associated with high credit reliability. Moreover, the prevention of bias in the underlying training data of machine learning approaches will be a priority. The primary objective of this project is to develop the predictive engine as the core element of the proposed personality-driven lending platform and develop a prototype.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/28/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>11/01/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052165</AwardID>
+<Investigator>
+<FirstName>Gilad</FirstName>
+<LastName>Gavlovski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gilad Gavlovski</PI_FULL_NAME>
+<EmailAddress><![CDATA[grants@quash.ai]]></EmailAddress>
+<NSF_ID>000867184</NSF_ID>
+<StartDate>11/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maria</FirstName>
+<LastName>Kavaliova</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maria Kavaliova</PI_FULL_NAME>
+<EmailAddress><![CDATA[quash_grants@outlook.com]]></EmailAddress>
+<NSF_ID>000837545</NSF_ID>
+<StartDate>07/28/2021</StartDate>
+<EndDate>11/01/2021</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SMART FLIP, INC.</Name>
+<CityName>HOLLYWOOD</CityName>
+<ZipCode>330195002</ZipCode>
+<PhoneNumber>3058900523</PhoneNumber>
+<StreetAddress>1030 WATERSIDE LANE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>S47GNGC7GWH8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SMART FLIP, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SMART FLIP, INC.]]></Name>
+<CityName>Hollywood</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>330195002</ZipCode>
+<StreetAddress><![CDATA[1030 Waterside Lane]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255948</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>At least one in ten American adults is considered &lsquo;credit invisible&rsquo;, meaning they do not have credit history. Moreover, 62 million Americans are considered to have a &lsquo;thin credit file&rsquo;, meaning there is very little information about their financial history available. Credit applications of individuals for whom such information is unavailable or sparse are either less likely to succeed or are rejected right away.</p> <p>QUASH allows financial service providers to reliably assess creditworthiness even for individuals that are considered &ldquo;credit invisible&rdquo; or otherwise unscoreable. With our solutions, we look to contribute to credit equality, as it will enable individuals to pay for basic human needs such as healthcare and education, or to start a new business. Credit equality is becoming even more important as we get closer to 2030, since Financial Inclusion is critical in achieving 7 out of the 17 United Nations Sustainable Development Goals.</p> <p>QUASH proposed the first personality-driven credit scoring, using AI to help financial institutions to understand the personalities of those they are lending to. The key innovation resides in its predictive engine that will automate the risk assessment of an applicant. The data required for such a platform was pooled from a variety of sources and predictive techniques.</p> <p>Within the scope of the Phase I project four different data sets (according to different financial products and data sources) were used to develop and evaluate various ML models based on different boosting algorithms. The models were compared based on several performance metrics to determine the best performing model for each application.</p> <p>During Phase I several international pilot collaborations (primarily in LATAM countries) could be established.</p> <p>In total, we were able to collect 6M+ loan records with and without performance. After cleaning the data sample, the full count of borrowers collected by QUASH during 2021 was 1,025,576 records. We were also able to add up to 322 alternative data points to some of those records.</p> <p>With all that information in hand, and after applying different data cleaning and optimization techniques, the next step was to start developing and testing Machine Learning models. In terms of model performance (accuracy), we met the target in most of our tests, which confirmed the statistical viability of our solution.</p> <p>Finally, we ran pilots with our partner financial institutions to measure the commercial added value our solution could have. During these live tests, we were able to both increase acceptance rates and reduce or maintain the same level of credit risk for all use cases evaluated.</p> <p>We can conclude that our theoretical and empirical results were totally satisfactory. Now we are getting ready for Phase II to further develop and test our solution and to make it available to the financial market in the coming months.</p> <p>&nbsp;</p><br> <p>            Last Modified: 05/24/2022<br>      Modified by: Gilad&nbsp;Gavlovski</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ At least one in ten American adults is considered ‘credit invisible’, meaning they do not have credit history. Moreover, 62 million Americans are considered to have a ‘thin credit file’, meaning there is very little information about their financial history available. Credit applications of individuals for whom such information is unavailable or sparse are either less likely to succeed or are rejected right away.  QUASH allows financial service providers to reliably assess creditworthiness even for individuals that are considered "credit invisible" or otherwise unscoreable. With our solutions, we look to contribute to credit equality, as it will enable individuals to pay for basic human needs such as healthcare and education, or to start a new business. Credit equality is becoming even more important as we get closer to 2030, since Financial Inclusion is critical in achieving 7 out of the 17 United Nations Sustainable Development Goals.  QUASH proposed the first personality-driven credit scoring, using AI to help financial institutions to understand the personalities of those they are lending to. The key innovation resides in its predictive engine that will automate the risk assessment of an applicant. The data required for such a platform was pooled from a variety of sources and predictive techniques.  Within the scope of the Phase I project four different data sets (according to different financial products and data sources) were used to develop and evaluate various ML models based on different boosting algorithms. The models were compared based on several performance metrics to determine the best performing model for each application.  During Phase I several international pilot collaborations (primarily in LATAM countries) could be established.  In total, we were able to collect 6M+ loan records with and without performance. After cleaning the data sample, the full count of borrowers collected by QUASH during 2021 was 1,025,576 records. We were also able to add up to 322 alternative data points to some of those records.  With all that information in hand, and after applying different data cleaning and optimization techniques, the next step was to start developing and testing Machine Learning models. In terms of model performance (accuracy), we met the target in most of our tests, which confirmed the statistical viability of our solution.  Finally, we ran pilots with our partner financial institutions to measure the commercial added value our solution could have. During these live tests, we were able to both increase acceptance rates and reduce or maintain the same level of credit risk for all use cases evaluated.  We can conclude that our theoretical and empirical results were totally satisfactory. Now we are getting ready for Phase II to further develop and test our solution and to make it available to the financial market in the coming months.          Last Modified: 05/24/2022       Submitted by: Gilad Gavlovski]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:FMitF:Track 1: DOPaMINe: Distributed Opportunistic Platform for Monitoring In-Situ Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alhussein Abouzeid</SignBlockName>
+<PO_EMAI>aabouzei@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Given the importance of emerging wireless networks that utilize dynamic spectrum allocation to the future national economy, it is critical to find protocol shortcomings that can result in failures as well as determine mechanisms for detection and defense against attacks that exploit protocol vulnerabilities either in the protocol specifications or their implementations. This research will develop a distributed opportunistic platform for monitoring deployed wireless networks and formal verification tools that use this data to certify safe and robust protocol operation in the field. Measurements of 4G LTE networks using a software-defined radio (SDR) platform will provide the runtime traces and channel information for new verification algorithms. New tools for rapidly verifying correct protocol operation in a variety of real-world operational scenarios will be developed. The research results will be integrated into next-generation protocol design. Consequently, this work will have a transformative societal impact by dramatically increasing the robustness and security of emergent wireless protocols. A key impact will be early identification of protocol and implementation weaknesses, which will be communicated to industry and standards organizations. All aspects of the framework, including architectures, tools, and case studies, will be made publicly available. Hands-on training modules will be developed to illustrate key concepts of wireless protocols and their security implications, which will be integrated into graduate/undergraduate classes. These courses will provide a key pathway for the dissemination of the research results. Female and minority students will be engaged through interdisciplinary research projects.&lt;br/&gt;&lt;br/&gt;The approach being pursued is to apply formal-verification methods to wireless networks, where runtime traces are used to verify the correctness of operation against a specification. These methods are well understood and have been applied extensively in many hardware-software platforms with demonstrated success. However, they typically are used for systems with complete knowledge of runtime behaviors. In cellular systems that are distributed, there are not necessarily complete traces and complete instantaneous system states (e.g., interference data at different locations or mobile users who encounter different channel states). Therefore, this research will seek to extend formal-verification methods to the wireless-network domain, where there are incomplete and changing states and incomplete traces. The outcome of the work will be tools for collecting runtime traces and cell states and verification algorithms that can then verify correct operation or quickly detect failures caused by improper implementation or attacks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019240</AwardID>
+<Investigator>
+<FirstName>Sandip</FirstName>
+<LastName>Ray</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sandip Ray</PI_FULL_NAME>
+<EmailAddress><![CDATA[sandip@ece.ufl.edu]]></EmailAddress>
+<NSF_ID>000082522</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1523 UNION RD RM 207</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>Gainesville</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326112002</ZipCode>
+<StreetAddress><![CDATA[1 University of Florida]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>094Y</Code>
+<Text>FMitF: Formal Methods in the F</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071Z</Code>
+<Text>FMitF-Formal Methods in the Field</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8206</Code>
+<Text>Formal Methods and Verification</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~250000</FUND_OBLG>
+</Award>
+</rootTag>

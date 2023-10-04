@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Experimental Characterization of Underwater Visible Light Channels for Photo-Acoustic Underwater Communication]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>257217.00</AwardTotalIntnAmount>
+<AwardAmount>281217</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alhussein Abouzeid</SignBlockName>
+<PO_EMAI>aabouzei@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Much of underwater wireless communication, so far, has been attributed to the use of acoustic frequencies due to the significantly low absorption than radio frequencies (RF). Ongoing advances in using light for communication through the concept of visible light communication (VLC) make optical wireless relevant to advancing the state--of--the-- art in underwater wireless communication systems. The optical spectrum presents a favorable mode for communicating underwater due to the low signal absorption levels, particularly in the ultraviolet, violet, blue and green wavelengths. Prior work in underwater VLC has largely been theoretical and this research takes a radical high-risk approach to develop empirical models for underwater VLC across real-world configurations and settings. The research takes a transformative approach and explores photo-acoustic hybrid communication in which acoustic and optical wireless communication modes co-exist and complement each other.  Photo-acoustic underwater communication modalities can help advance plethora of applications including underwater navigation, exploration, sensing and tactical communications. This research advances the field of underwater networking by bridging the knowledge gap in building realistic underwater photo-acoustic systems through extensive experimentation in real-world conditions and creates a rich open public dataset. This research maintains a strategic collaboration with the Gwinnett County Water Innovation Center near Atlanta, Georgia, thus expanding the outreach of this work and advancing underwater research using advanced facilities. In addition to dissemination of research outcomes through publications, the research involves female student groups from the university Girls-Who-Code (GWC) chapter in underwater research data collection and experiments.&lt;br/&gt;&lt;br/&gt;The intellectual merits of this research are derived along two thrusts executed over a 2-year timeline: Thrust 1 - Empirical Modeling of Underwater VLC Channels. This thrust focuses on extensive underwater channel modeling experimentation and data collection in lab and real-world underwater sites. The data points are used to perform empirical modeling of underwater VLC channels along various spatial dimensions (horizontal, vertical, line-of-sight, non line-of-sight), along different physical parameters (salinity, turbidity, temperature and oiliness), and in mobile scenarios. Thrust 2 - Photo-Acoustic Underwater Communication Feasibility Studies. This thrust focuses on the feasibility of integrating the hardware and software of optical wireless (UV and VLC), with acoustic systems. The research conducts experiments across different use-cases for photo-acoustic communication and sensing, particularly for navigation and tracking and device-device communication. In summary, the key outcomes of this research include empirical models for underwater VLC channels, insights from photo-acoustic communication feasibility experimental studies and open datasets for underwater VLC.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2000475</AwardID>
+<Investigator>
+<FirstName>Ashwin</FirstName>
+<LastName>Ashok</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ashwin Ashok</PI_FULL_NAME>
+<EmailAddress><![CDATA[aashok@gsu.edu]]></EmailAddress>
+<NSF_ID>000740274</NSF_ID>
+<StartDate>01/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia State University Research Foundation, Inc.</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303032921</ZipCode>
+<PhoneNumber>4044133570</PhoneNumber>
+<StreetAddress>58 EDGEWOOD AVE NE</StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MNS7B9CVKDN7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia State University]]></Name>
+<CityName>ATLANTA</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303032921</ZipCode>
+<StreetAddress><![CDATA[25 Park Place, Suite 734]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~281217</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This research advanced the field of underwater optical wireless communication by bridging the technical gap in knowledge about empirical evaluations of visible light communications (VLC) in underwater settings. This research also explored if and how&nbsp;<span>acoustic and optical wireless communication modes could co-exist through the concept of photo-acoustic hybrid communication. This research was conducted over a duration of three years, which included extensive experimentation and data collection, exploratory hardware designs and set up of an underwater VLC experiment module that can be deployed in underwater settings, as is or deployed on a robot.&nbsp;</span></p> <p>The intellectual merits of this research can be summarized as:</p> <p>1. Empirical evaluation of underwater VLC channel in controlled settings and under mobility of the transmitter.</p> <p>2. Extensive datasets from underwater optical wireless&nbsp;experimentations.</p> <p>3. Design and implementation of an optical wireless VLC underwater testbed module and integrated with an underwater remote operating vehicle.&nbsp;</p> <p>4. Feasibility study of using acoustic channel along with VLC for improving fidelity of underwater communication. Theoretical study results along with preliminary architecture designs have been reported.</p> <p>The broader impacts of this research can be summarized as:</p> <p><span>1. This project has provided ample opportunties for graduate research training. During the course of this project, two M.S thesis and two doctoral students have graduated, along with multiple M.S. students conducting capstone design projects on underwater visible light communication topics.&nbsp;</span></p> <p>2. This project has leveraged the REU supplement grant effectively to provide research training to three undergraduate (UG) students of which one was a female. One of the REU students continued research through his UG final year and is currently pursuing research with PI Ashok on visible light communication and robotics topics. He also leads the efforts in building and managing the underwater ROV which houses our optical wireless experiment setup.</p> <p>3. This project has initiated international collaborations with the PI mentoring and co-advising students from VIT Chennai and IIIT Delhi India.</p> <p>4. The materials and prototypes generated through this research are being used to augment teaching materials in PIs Computer Vision and Introduction to Robotics courses</p> <p><span>5. The artifacts generated by this research have been made available for the community through open source with some materials being made available upon request.</span></p> <div><span> <p>Results Dissemination and Data:</p> <p>This project has resulted in several high impact publications with the students funded and trained through this research as first authors. The data, codes and documentation for the implementations of the research prototypes developed through this project have been open&ndash;sourced to the community, with some materials being made available upon request.</p> <br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 06/16/2023<br>      Modified by: Ashwin&nbsp;Ashok</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This research advanced the field of underwater optical wireless communication by bridging the technical gap in knowledge about empirical evaluations of visible light communications (VLC) in underwater settings. This research also explored if and how acoustic and optical wireless communication modes could co-exist through the concept of photo-acoustic hybrid communication. This research was conducted over a duration of three years, which included extensive experimentation and data collection, exploratory hardware designs and set up of an underwater VLC experiment module that can be deployed in underwater settings, as is or deployed on a robot.   The intellectual merits of this research can be summarized as:  1. Empirical evaluation of underwater VLC channel in controlled settings and under mobility of the transmitter.  2. Extensive datasets from underwater optical wireless experimentations.  3. Design and implementation of an optical wireless VLC underwater testbed module and integrated with an underwater remote operating vehicle.   4. Feasibility study of using acoustic channel along with VLC for improving fidelity of underwater communication. Theoretical study results along with preliminary architecture designs have been reported.  The broader impacts of this research can be summarized as:  1. This project has provided ample opportunties for graduate research training. During the course of this project, two M.S thesis and two doctoral students have graduated, along with multiple M.S. students conducting capstone design projects on underwater visible light communication topics.   2. This project has leveraged the REU supplement grant effectively to provide research training to three undergraduate (UG) students of which one was a female. One of the REU students continued research through his UG final year and is currently pursuing research with PI Ashok on visible light communication and robotics topics. He also leads the efforts in building and managing the underwater ROV which houses our optical wireless experiment setup.  3. This project has initiated international collaborations with the PI mentoring and co-advising students from VIT Chennai and IIIT Delhi India.  4. The materials and prototypes generated through this research are being used to augment teaching materials in PIs Computer Vision and Introduction to Robotics courses  5. The artifacts generated by this research have been made available for the community through open source with some materials being made available upon request.   Results Dissemination and Data:  This project has resulted in several high impact publications with the students funded and trained through this research as first authors. The data, codes and documentation for the implementations of the research prototypes developed through this project have been open&ndash;sourced to the community, with some materials being made available upon request.               Last Modified: 06/16/2023       Submitted by: Ashwin Ashok]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

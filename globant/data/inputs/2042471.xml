@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:   Artificial intelligence-driven process for computationally predicting the  outcomes of civil legal matters]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of an artificial intelligence-driven process for computationally predicting the outcomes of civil legal matters.  At present, attorneys estimate the viability and value of a new civil legal matter. The proposed technology leverages artificial intelligence to standardize, systematize, and externalize this time-intensive and suboptimal process. The platform intakes new case information and generate both an assessment of the case and a prediction of its likely settlement value. This represents an advance in managing legal affairs by improved case selection, increased efficiency, and better decision-making.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of an artificial intelligence system that provides civil legal case values and the appropriate action to take in response to the analysis. The proposed technology uses a modeling process where features and associated weights are combined across multiple computational models, including data-driven artificial intelligence (AI) models, rule-based models, and models bounded by meta-analytic research. In addition, the proposed technology will include a centralized database using natural language processing to render the garnered cases into a computationally useful form. One challenge is that the data are often confidential and stored in disparate locations. Federated learning, a technique that trains an algorithm across multiple decentralized databases holding local data samples without exchanging the data samples, will be deployed. The method, which is the first application of federated learning to legal data, enables expansion of the product to numerous users while ensuring privacy and confidentiality.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/08/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2042471</AwardID>
+<Investigator>
+<FirstName>Joel</FirstName>
+<LastName>Cooper</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joel Cooper</PI_FULL_NAME>
+<EmailAddress><![CDATA[jcoops@princeton.edu]]></EmailAddress>
+<NSF_ID>000168230</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>1 NASSAU HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>Princeton</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442020</ZipCode>
+<StreetAddress><![CDATA[224 Peretsman Scully Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The Claudius team explored civil legal prediction using artificial intelligence. The outcomes include both enhanced scientific and technological understanding and societal and commercial impact. First, the invention represents the overcoming of significant obstacles, including ones related to data and modeling that have rendered civil case outcome legal prediction impossible in the past. Furthermore, at present, attorneys use a bespoke method for determining, one, whether a new civil legal matter is a viable case and, two, what a given viable case is worth. The present invention leverages artificial intelligence to standardize, systematize, and externalize this time-intensive and suboptimal process. Claudius, the AI, intakes new case information and generates both an assessment of the case and a recommendation as to the optimal settlement value. This represents a significant advance in creating legal technology that yields actual and measurable results, ones that carry commercial potential: improved intake processes (knowing which cases to take on), increased intake efficiency (requiring less attorney time), and better decision making (maximizing settlements). The social impact of this is significant, as the United States suffers from an &ldquo;access to justice&rdquo; problem. This invention could enable attorneys to handle greater caseloads, thus serving more individuals with legal needs. To date, no one has developed a fully integrated artificial legal intelligence. The team has done just that, and it has figured out (through I-Corps), how to bring that technology to bear on active problems. In addition to impacting computer science and the legal profession, the technology stands to significantly increase access to justice, ensuring that all people who need legal representation receive it.</p> <p>&nbsp;</p><br> <p>            Last Modified: 06/01/2023<br>      Modified by: Joel&nbsp;Cooper</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The Claudius team explored civil legal prediction using artificial intelligence. The outcomes include both enhanced scientific and technological understanding and societal and commercial impact. First, the invention represents the overcoming of significant obstacles, including ones related to data and modeling that have rendered civil case outcome legal prediction impossible in the past. Furthermore, at present, attorneys use a bespoke method for determining, one, whether a new civil legal matter is a viable case and, two, what a given viable case is worth. The present invention leverages artificial intelligence to standardize, systematize, and externalize this time-intensive and suboptimal process. Claudius, the AI, intakes new case information and generates both an assessment of the case and a recommendation as to the optimal settlement value. This represents a significant advance in creating legal technology that yields actual and measurable results, ones that carry commercial potential: improved intake processes (knowing which cases to take on), increased intake efficiency (requiring less attorney time), and better decision making (maximizing settlements). The social impact of this is significant, as the United States suffers from an "access to justice" problem. This invention could enable attorneys to handle greater caseloads, thus serving more individuals with legal needs. To date, no one has developed a fully integrated artificial legal intelligence. The team has done just that, and it has figured out (through I-Corps), how to bring that technology to bear on active problems. In addition to impacting computer science and the legal profession, the technology stands to significantly increase access to justice, ensuring that all people who need legal representation receive it.          Last Modified: 06/01/2023       Submitted by: Joel Cooper]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

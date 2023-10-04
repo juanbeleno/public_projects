@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Improving the Interpretability of Tomographic Images Using Geologically Motivated Parametrizations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>65000.00</AwardTotalIntnAmount>
+<AwardAmount>65000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eva Zanzerkia</SignBlockName>
+<PO_EMAI>ezanzerk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924734</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Geophysical imaging is one of the cornerstones of the Earth Sciences. Tomographic imaging techniques provide spatial descriptions of geologic features of the interior of the Earth that are otherwise inaccessible, and thus comprises a primary source of insight into the geometry of structures inside the Earth. These images are essential to understanding the evolution and dynamics of the Earth, from the relatively short length and timescales that govern natural hazards such as seismicity and volcanism, to fundamental questions of the origins of first order features such as patterns of continental motion and mountain building. This project investigates ways to fundamentally improve geophysical imaging by incorporating geological knowledge into imaging tools rather than relying solely on standard mathematical tools for imaging. Specific imaging targets include the Los Angeles, San Gabriel and San Bernardino basins, which are essential to accurately define to improve seismic hazard calculations at high frequencies and will help characterize earthquake risk in this societally important region. Another target is imaging the Yellowstone Caldera, where improved imaging can lead to better understanding of the dynamics of crustal magma emplacement and volcanic eruption dynamics. The work also brings together diverse communities of geophysicists and mathematicians and supports the education of graduate and undergraduate students.&lt;br/&gt;&lt;br/&gt;Geophysical imaging problems are fundamentally ill-posed so careful choices of parametrization and regularization are required to produce sensible results, especially at regional and global length scales where data are particularly scarce. Parametrizations in terms of blocks, pixels or spherical harmonics are typically driven by mathematical utility. These parametrizations ignore the fact that the end goal of tomographic imaging is typically to categorize the subsurface into discrete structures. Previous improvements in geophysical imaging have been driven by advancements in the solution of forward problems, the development of adjoint methods for large scale optimization and methods for uncertainty quantification, but comparatively little progress has been made regarding development of effective parametrization strategies for the Earth. This work melds together an innovative geometric and level set parametrization strategy for specifying Earth structure with a best-in-class derivative-free optimization scheme based on the Ensemble Kalman Filter. The project focuses on two problems that are impactful and provide complementary test cases of the team's methodology. The first application focuses on geometric optimization of geological units in the Los Angeles, San Gabriel and San Bernardino basins, from which better calculations of earthquake ground motions within the basin may be calculated. A second application at Yellowstone Caldera allows better quantification of the tradeoffs between magma chamber volume and melt fraction estimates, as determined by velocity perturbations using local and teleseismic body wave tomography.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011107</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Clayton</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert W Clayton</PI_FULL_NAME>
+<EmailAddress><![CDATA[clay@gps.caltech.edu]]></EmailAddress>
+<NSF_ID>000461823</NSF_ID>
+<StartDate>07/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250001</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E CALIFORNIA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U2JMKHNS5TG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CALIFORNIA INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>Pasadena</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250600</ZipCode>
+<StreetAddress><![CDATA[1200 E. California Blvd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA28</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1574</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~65000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this study, we derive a method to determine the underground shape of the Los Angeles (LA) Basin. We used recordings of the 2019 Ridgecrest earthquake collected by the Community Seismic Network (CSN), located in downtown LA. The result shows that the LA Basin is over 10 km deep under downtown LA and has a steep northern edge (the Elysian Park Fault). This is shown in the accompanying figure. This is deeper than previous estimates and is important because depth is the main controlling factor in the basin resonances, which controls the level of amplification that high-rise buildings experience during an earthquake. The dip of the Elysian Park Fault is also steeper than previously thought. This is important for understanding the process that formed the LA Basin.</p> <p>&nbsp;</p> <p>This study differs from previous efforts because the basin bottom is an explicit part of the model estimation instead of basin being characterized by only by velocity variations. This makes the model more accurate. This also makes the estimation process non-linear and hence more complex than standard inversion. Another important aspect of the study is the use of a dense network in the analysis. Approximately 300 stations from the CSN were used, which allowed for a high resolution of the basin shape and the sedimentary velocities.</p> <p>&nbsp;</p> <p>This study provided partially support for a PhD student, and the results have been published in the Journal of Geophysical Research.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/21/2023<br>      Modified by: Robert&nbsp;W&nbsp;Clayton</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2011107/2011107_10686760_1695312777628_Muir-Fig--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2011107/2011107_10686760_1695312777628_Muir-Fig--rgov-800width.jpg" title="Image of the Los Angeles Basin"><img src="/por/images/Reports/POR/2023/2011107/2011107_10686760_1695312777628_Muir-Fig--rgov-66x44.jpg" alt="Image of the Los Angeles Basin"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The estimated depth of the Los Angeles is shown in the left panel. The shear velocity along the profile marked in the left panel is shown in the right panel. The light blue dashed lines indicate the mapped fault locations.</div> <div class="imageCredit">Robert W Clayton</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Robert&nbsp;W&nbsp;Clayton</div> <div class="imageTitle">Image of the Los Angeles Basin</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ In this study, we derive a method to determine the underground shape of the Los Angeles (LA) Basin. We used recordings of the 2019 Ridgecrest earthquake collected by the Community Seismic Network (CSN), located in downtown LA. The result shows that the LA Basin is over 10 km deep under downtown LA and has a steep northern edge (the Elysian Park Fault). This is shown in the accompanying figure. This is deeper than previous estimates and is important because depth is the main controlling factor in the basin resonances, which controls the level of amplification that high-rise buildings experience during an earthquake. The dip of the Elysian Park Fault is also steeper than previously thought. This is important for understanding the process that formed the LA Basin.     This study differs from previous efforts because the basin bottom is an explicit part of the model estimation instead of basin being characterized by only by velocity variations. This makes the model more accurate. This also makes the estimation process non-linear and hence more complex than standard inversion. Another important aspect of the study is the use of a dense network in the analysis. Approximately 300 stations from the CSN were used, which allowed for a high resolution of the basin shape and the sedimentary velocities.     This study provided partially support for a PhD student, and the results have been published in the Journal of Geophysical Research.             Last Modified: 09/21/2023       Submitted by: Robert W Clayton]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

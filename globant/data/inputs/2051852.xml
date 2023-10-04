@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Creating high-quality, lower-cost soil maps using machine learning algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/ commercial potential of this SBIR Phase I project will be to produce high-quality, accurate, high-resolution soil maps for agronomists and farmers. Accurate soil information is a fundamental driver of better, more efficient crop/soil management.  The new technology would significantly increase farm profitability, lower food costs, and improve environmental protection and sustainability. Making higher quality soil fertility mapping readily available and usable is the goal of this project.  This technology is expected to result in increased crop yield while allowing for decreased input costs, leading to higher profits in an industry that chronically suffers from low profit margins. The expected benefits include more environmentally responsible farm management and better manure-management planning, nutrient-management planning, precision farming, land use planning, planting decisions, evaluating stressors on plants, field conditioning, crop rotation, and prediction/interpretation of yields. These will result in increased farm profitability, more efficient application of nitrogen fertilizers, and increased soil health and fertility for plants.  &lt;br/&gt;&lt;br/&gt;This project advances an innovative technology has three key components to produce maps of essential soil nutrients in training fields and beyond — maps that currently require extensive sampling while producing inadequate data. The first is a digital hill-slope position to select optimal sampling locations to represent the soil variability across the landscape, eliminating the need to take unnecessary soil samples. The second element leverages advanced machine-learning algorithms insensitive to the quantity of sample size. The third element is its ability to select suitable remotely sensed information (terrain derivatives and satellite imagery). The technology will select appropriate analysis scales of terrain derivatives to capture all potential soil variability. It will then select and use proper bands of satellite imagery, based on spatial, temporal, and spectral resolution, to decrease the risks of overfitting and computation time. Unlike currently available methods, this technology can predict the soil nutrients inside the training fields and beyond — i.e., this technology has the potential to predict soil properties in neighboring fields — using the soil information obtained from training fields—without the need for additional samples.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/21/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051852</AwardID>
+<Investigator>
+<FirstName>Yones</FirstName>
+<LastName>Khaledian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yones Khaledian</PI_FULL_NAME>
+<EmailAddress><![CDATA[yones.khaledian@gmail.com]]></EmailAddress>
+<NSF_ID>000823154</NSF_ID>
+<StartDate>04/21/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SOILSERDEM LLC</Name>
+<CityName>AMES</CityName>
+<ZipCode>500145525</ZipCode>
+<PhoneNumber>5156867047</PhoneNumber>
+<StreetAddress>1406 MAYFIELD DR</StreetAddress>
+<StreetAddress2><![CDATA[UNIT 204]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DN32V3DD3JN5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOILSERDEM LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SOILSERDEM LLC]]></Name>
+<CityName>Ames</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>500105063</ZipCode>
+<StreetAddress><![CDATA[815 24th Street, Unit 6]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Nutrient pollution costs the United States billions of dollars per year in lost economic opportunity and cleanup of public waters, as well as negative impacts to recreational fishing, local businesses, and tourism. Non-point-source pollution from agricultural lands is a consistent key contributor to this issue, but ensuring the highest possible yields for agricultural lands contributes to the United States&rsquo; global competitiveness. Soil maps are the cornerstone decision-making tool that agronomists and growers use when balancing economic return/profitability and environmental externalities. High-quality soil information allows the precise assessment of soil nutrient levels at the field scale. Direct applications in the farm management and planning space include manure management and planning, nutrient management and planning, precision farming, planting decisions, evaluating plant stress, field conditioning/preparation, crop rotation, and yield prediction and interpretation. Such information is also applicable for uses in soil and water conservation and general land-use planning.</p> <p>SoilSerdem&rsquo;s soil mapping technology has the potential to significantly decrease the number of soil samples required for creating accurate and detailed (high-resolution) soil fertility maps by combining appropriate machine-learning methodology with publicly-available remotely sensed data. Through NSF-supported research, SoilSerdem has been able to conduct a robust feasibility trial spanning three midwestern states (Iowa, Illinois, and Missouri) on commercial cropland over three seasons. We demonstrated that our time-efficient sample guides could reliably produce high-quality digital soil maps of essential soil properties (e.g., soil organic matter, nitrogen, potassium, phosphorus, cation exchange capacity, calcium, magnesium, and pH). We were able to map micronutrients, particle size (soil texture), and soil health indicators with similar reliability. As part of this project, SoilSerdem collected ~1,500 soil samples throughout the growing season to create a robust database for our digital soil mapping process. We tested our soil sampling guides throughout our project and assessed the soil environment&rsquo;s dynamics. The outcome was that our novel sampling designs, along with our mapping system, achieved large reductions in samples collected along with increased the map accuracy by 30-100% when compared with the industry. Our innovation could replace current mapping practices with no detriment to agricultural operations and enable agronomists and growers to balance profitability and sustainability with no loss in yield.</p> <p>Through the Phase I project, SoilSerdem has worked closely with land-grant institutions through customer discovery efforts. We spoke directly with university Extension agents to uncover shortcomings in their service and learned what gaps we could fill. SoilSerdem also provided internships to undergraduate and graduate students providing them with real-world work experiences and opportunities to conduct exploratory research (qualitative research and data exploration/visualization). Once our technology is scaled up in Phase II, the user-friendly technology has strong potential to be used as an educational tool to teach middle and high school students math and science concepts through using the program. Teachers will be able to utilize our mapping technology to help students understand how algorithms work. The implementation of our technology will increase the scientific literacy of US agronomists and encourage them to be more effective science communicators to their customers, the growers. SoilSerdem's technology and methodologies can be used as an assessment tool that will positively contribute to solutions for nutrient pollution, ultimately benefit those stakeholders downstream, including communities in connected watersheds and industries using agricultural commodities.&nbsp;Beyond digital soil mapping, our innovation can be applied to map disparate subjects in the natural environment&ndash;e.g., mapping chemical cleanup progress in brown site remediation, natural resource survey (spatial prediction of animal and fish populations), and support measurement/reporting/verification efforts by USDA and other organizations to validate stewardship and conservation programs. Soil maps used in other modeling systems as base data will be enhanced by our work&ndash;e.g., crop growth and yield prediction models, landscape survey models for engineering, ecosystem simulations, and greenhouse gas emission models.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/09/2022<br>      Modified by: Yones&nbsp;Khaledian</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664498769644_s4_map_health--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664498769644_s4_map_health--rgov-800width.jpg" title="Soil health index"><img src="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664498769644_s4_map_health--rgov-66x44.jpg" alt="Soil health index"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A map of spatial soil health index produced by SoilSerdem on a farm field in Central Iowa.</div> <div class="imageCredit">SoilSerdem</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yones&nbsp;Khaledian</div> <div class="imageTitle">Soil health index</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664498653202_s4_map_cu--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664498653202_s4_map_cu--rgov-800width.jpg" title="Soil Cu"><img src="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664498653202_s4_map_cu--rgov-66x44.jpg" alt="Soil Cu"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A map of soil test copper (Cu) produced by SoilSerdem on a farm field in Central Iowa.</div> <div class="imageCredit">SoilSerdem</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yones&nbsp;Khaledian</div> <div class="imageTitle">Soil Cu</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664498942551_s4_map_mg--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664498942551_s4_map_mg--rgov-800width.jpg" title="Soil Mg"><img src="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664498942551_s4_map_mg--rgov-66x44.jpg" alt="Soil Mg"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A map of soil test magnesium (Mg) produced by SoilSerdem on a farm field in Central Iowa.</div> <div class="imageCredit">SoilSerdem</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yones&nbsp;Khaledian</div> <div class="imageTitle">Soil Mg</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664499319075_s4_map_clay--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664499319075_s4_map_clay--rgov-800width.jpg" title="Soil texture-clay"><img src="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664499319075_s4_map_clay--rgov-66x44.jpg" alt="Soil texture-clay"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A map of clay percentage produced by SoilSerdem on a farm field in Central Iowa.</div> <div class="imageCredit">SoilSerdem</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yones&nbsp;Khaledian</div> <div class="imageTitle">Soil texture-clay</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664498591062_s4_map_cec--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664498591062_s4_map_cec--rgov-800width.jpg" title="Soil CEC"><img src="/por/images/Reports/POR/2022/2051852/2051852_10729017_1664498591062_s4_map_cec--rgov-66x44.jpg" alt="Soil CEC"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A map of soil cation exchange capacity (CEC) produced by SoilSerdem on a farm field in Central Iowa.</div> <div class="imageCredit">SoilSerdem</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yones&nbsp;Khaledian</div> <div class="imageTitle">Soil CEC</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Nutrient pollution costs the United States billions of dollars per year in lost economic opportunity and cleanup of public waters, as well as negative impacts to recreational fishing, local businesses, and tourism. Non-point-source pollution from agricultural lands is a consistent key contributor to this issue, but ensuring the highest possible yields for agricultural lands contributes to the United States’ global competitiveness. Soil maps are the cornerstone decision-making tool that agronomists and growers use when balancing economic return/profitability and environmental externalities. High-quality soil information allows the precise assessment of soil nutrient levels at the field scale. Direct applications in the farm management and planning space include manure management and planning, nutrient management and planning, precision farming, planting decisions, evaluating plant stress, field conditioning/preparation, crop rotation, and yield prediction and interpretation. Such information is also applicable for uses in soil and water conservation and general land-use planning.  SoilSerdem’s soil mapping technology has the potential to significantly decrease the number of soil samples required for creating accurate and detailed (high-resolution) soil fertility maps by combining appropriate machine-learning methodology with publicly-available remotely sensed data. Through NSF-supported research, SoilSerdem has been able to conduct a robust feasibility trial spanning three midwestern states (Iowa, Illinois, and Missouri) on commercial cropland over three seasons. We demonstrated that our time-efficient sample guides could reliably produce high-quality digital soil maps of essential soil properties (e.g., soil organic matter, nitrogen, potassium, phosphorus, cation exchange capacity, calcium, magnesium, and pH). We were able to map micronutrients, particle size (soil texture), and soil health indicators with similar reliability. As part of this project, SoilSerdem collected ~1,500 soil samples throughout the growing season to create a robust database for our digital soil mapping process. We tested our soil sampling guides throughout our project and assessed the soil environment’s dynamics. The outcome was that our novel sampling designs, along with our mapping system, achieved large reductions in samples collected along with increased the map accuracy by 30-100% when compared with the industry. Our innovation could replace current mapping practices with no detriment to agricultural operations and enable agronomists and growers to balance profitability and sustainability with no loss in yield.  Through the Phase I project, SoilSerdem has worked closely with land-grant institutions through customer discovery efforts. We spoke directly with university Extension agents to uncover shortcomings in their service and learned what gaps we could fill. SoilSerdem also provided internships to undergraduate and graduate students providing them with real-world work experiences and opportunities to conduct exploratory research (qualitative research and data exploration/visualization). Once our technology is scaled up in Phase II, the user-friendly technology has strong potential to be used as an educational tool to teach middle and high school students math and science concepts through using the program. Teachers will be able to utilize our mapping technology to help students understand how algorithms work. The implementation of our technology will increase the scientific literacy of US agronomists and encourage them to be more effective science communicators to their customers, the growers. SoilSerdem's technology and methodologies can be used as an assessment tool that will positively contribute to solutions for nutrient pollution, ultimately benefit those stakeholders downstream, including communities in connected watersheds and industries using agricultural commodities. Beyond digital soil mapping, our innovation can be applied to map disparate subjects in the natural environment&ndash;e.g., mapping chemical cleanup progress in brown site remediation, natural resource survey (spatial prediction of animal and fish populations), and support measurement/reporting/verification efforts by USDA and other organizations to validate stewardship and conservation programs. Soil maps used in other modeling systems as base data will be enhanced by our work&ndash;e.g., crop growth and yield prediction models, landscape survey models for engineering, ecosystem simulations, and greenhouse gas emission models.             Last Modified: 10/09/2022       Submitted by: Yones Khaledian]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

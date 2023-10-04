@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  A Self-driving Autonomous Electric Scooter]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a self-driving electric scooter.  Electric scooters (e-scooters) are a vital part of a new urban mobility model, improving sustainability, accessibility, and equity over cars and buses for short distances. The EPA estimates that eliminating half of US car trips less than one mile would save $575M/year in fuel costs. In 2018, 38.5 million trips were taken on e-scooters in the US, which is twice as many as in 2017. The US micromobility market is predicted to be worth between $200–300B by 2030. Worldwide, investors already have increased investments in micro-mobility start-ups by $5.7B into since 2015. This said, large scooter fleets are expensive to maintain and do not guarantee easy access for riders. E-scooters that intelligently re-position themselves without a rider  may provide value to scooter operators by improving the rider experience, increasing e-scooter usage, decreasing servicing costs, and aiding the regulatory process. &lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of artificial intelligence (AI) logistics, operations, and management solutions easily retrofitted to electric-scooters and other micromobility platforms to enable self-driving. The proposed solution enables deployment, recharging, and unit utilization optimization of an electric scooter.  The technology will enable the e-scooter to safely and intelligently maneuver without a rider for the purposes of ride summoning, automatic parking, and adaptive re-positioning for increased usage. The onboard components of the AI system consist of a sensor module for perception and localization, a planning module for intelligent decision-making, and a motor module for powered actuation via sensor feedback. Offboard components include machine-learning algorithms for predicting the spatial distribution of ride demand. To date, an autonomous driving solution based on novel models of e-scooter dynamics has been developed, including a perception-based steering algorithm.  In addition, an e-scooter geospatial ride-demand analysis (with data provided by the Maryland Transportation Institute) has been performed as well as designed human-subject experiments to understand e-scooter safety and ergonomics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031566</AwardID>
+<Investigator>
+<FirstName>Derek</FirstName>
+<LastName>Paley</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Derek A Paley</PI_FULL_NAME>
+<EmailAddress><![CDATA[dpaley@umd.edu]]></EmailAddress>
+<NSF_ID>000512212</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland College Park]]></Name>
+<CityName/>
+<StateCode>MD</StateCode>
+<ZipCode>207425103</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-c4b558b5-7fff-ca97-6d2d-e8e46dc41e23"> </span></p> <p dir="ltr"><span>Through over 100 custome interviews, we learned that s</span><span>hared scooters and bicycles are low-cost, low-congestion, and low-carbon transportation modes for urban environments. E-scooter users include daily commuters for last-mile travel, university students, and tourists seeking entertainment, sight-seeing, and recreation. Despite their promise of sustainable, accessible, and equitable transportation, shared electric scooters sometimes clutter city sidewalks and obstruct the flow of the pedestrians. This public nuisance causes city planners to limit the number of shared operators and the size of their fleets, which in turn reduces revenue and diminishes the potential benefits of the dockless scooter model.</span><span> </span><span>Shared scooter operators like Lime, Bird, and Helbiz and potential commercialization partners like Roll Technologies, Flo Mobility, and Glion (see letters), are the expected customers for our innovation.</span><span> Operators must collect and deploy e-scooters to rebalance, recharge, and perform maintenance. Permission to operate is granted by city government planning and economic development agencies, whose requirements for permitting and safety serve all residents, including those without access to public transportation.&nbsp;</span></p> <p dir="ltr"><span>Our Value Proposition:&nbsp;</span><span>ReZoom will reduce nuisance and increase accessibility by enabling scooters to move where they are needed the most</span><span>. Our technology generates revenue by increasing the number of rentals per scooter per day and reduces operational costs for collecting, serving, and rebalancing scooters. The key differentiator is the application of AI and autonomy in the ReZoom framework proposed here, in contrast to teleoperated e-scooters that use remote control, which diminishes the potential cost savings and may not be scalable to large fleet sizes.</span></p> <p dir="ltr"><span>Innovation: E</span><span>nable an electric scooter to stand up, park, and drive itself over short distances up to 100 m. ReZoom-equipped scooters can drive to the nearest parking or docking station, aggregate with other scooters for batch pickups, and be summoned by a rental customer. The </span><span>onboard</span><span> components of a ReZoom-equipped scooter consist of custom (1) </span><span>sensor and motor modules</span><span> for perception, localization, and actuation; (2) a </span><span>planning module</span><span> for intelligent decision-making; and (3) a </span><span>self-righting mechanism </span><span>that props up the scooter if it falls on its side. The </span><span>offboard</span><span> components of ReZoom</span><span> </span><span>optimize the logistics and management of the autonomous scooter fleet within an operational area, including novel machine-learning algorithms that (1) predict the temporal and spatial distribution of ride demand within a given area; (2) identify and target nearby high-demand locations for hyper-local rebalancing; and (3) identify rendezvous locations for cost-effective collection and/or servicing.</span></p> <p dir="ltr">ReZoom students seek the UMD M.Eng. in Robotics, M.S. in Systems Engineering, or the M.S./Ph.D. in Aerospace or Electrical and Computer Engineering. These educational programs are complemented by research assistantships with the PI and entrepreneurial training with the <a href="http://mtech.umd.edu">Maryland Technology Enterprise Institute</a>, whose mission is to educate the next generation of technology entrepreneurs. In addition to robotics and systems engineering, the student participants will be exposed to commercialization training including evidence-based customer discovery, public relations for startups, and relevant patent law and intellectual property.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/09/2022<br>      Modified by: Derek&nbsp;A&nbsp;Paley</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Through over 100 custome interviews, we learned that shared scooters and bicycles are low-cost, low-congestion, and low-carbon transportation modes for urban environments. E-scooter users include daily commuters for last-mile travel, university students, and tourists seeking entertainment, sight-seeing, and recreation. Despite their promise of sustainable, accessible, and equitable transportation, shared electric scooters sometimes clutter city sidewalks and obstruct the flow of the pedestrians. This public nuisance causes city planners to limit the number of shared operators and the size of their fleets, which in turn reduces revenue and diminishes the potential benefits of the dockless scooter model. Shared scooter operators like Lime, Bird, and Helbiz and potential commercialization partners like Roll Technologies, Flo Mobility, and Glion (see letters), are the expected customers for our innovation. Operators must collect and deploy e-scooters to rebalance, recharge, and perform maintenance. Permission to operate is granted by city government planning and economic development agencies, whose requirements for permitting and safety serve all residents, including those without access to public transportation.  Our Value Proposition: ReZoom will reduce nuisance and increase accessibility by enabling scooters to move where they are needed the most. Our technology generates revenue by increasing the number of rentals per scooter per day and reduces operational costs for collecting, serving, and rebalancing scooters. The key differentiator is the application of AI and autonomy in the ReZoom framework proposed here, in contrast to teleoperated e-scooters that use remote control, which diminishes the potential cost savings and may not be scalable to large fleet sizes. Innovation: Enable an electric scooter to stand up, park, and drive itself over short distances up to 100 m. ReZoom-equipped scooters can drive to the nearest parking or docking station, aggregate with other scooters for batch pickups, and be summoned by a rental customer. The onboard components of a ReZoom-equipped scooter consist of custom (1) sensor and motor modules for perception, localization, and actuation; (2) a planning module for intelligent decision-making; and (3) a self-righting mechanism that props up the scooter if it falls on its side. The offboard components of ReZoom optimize the logistics and management of the autonomous scooter fleet within an operational area, including novel machine-learning algorithms that (1) predict the temporal and spatial distribution of ride demand within a given area; (2) identify and target nearby high-demand locations for hyper-local rebalancing; and (3) identify rendezvous locations for cost-effective collection and/or servicing. ReZoom students seek the UMD M.Eng. in Robotics, M.S. in Systems Engineering, or the M.S./Ph.D. in Aerospace or Electrical and Computer Engineering. These educational programs are complemented by research assistantships with the PI and entrepreneurial training with the Maryland Technology Enterprise Institute, whose mission is to educate the next generation of technology entrepreneurs. In addition to robotics and systems engineering, the student participants will be exposed to commercialization training including evidence-based customer discovery, public relations for startups, and relevant patent law and intellectual property.             Last Modified: 08/09/2022       Submitted by: Derek A Paley]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

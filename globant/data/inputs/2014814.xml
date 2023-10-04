@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Development of a connected implantable vascular access port to facilitate oncology drug delivery and AI-data analytics for personalized cancer care]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>223881.00</AwardTotalIntnAmount>
+<AwardAmount>223881</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project includes the potential to improve survival and quality of life outcomes in cancer care while decreasing treatment costs.  Each year, 1.7 million people in the US are diagnosed with cancer.  National expenditures on cancer care are projected to reach $156 billion by 2020.  Cancer treatment is delivered mostly in an outpatient setting, leaving patients unmonitored at home while at high risk of complications that can lead to high utilization of emergency services and associated hospitalizations.  Early detection of complications can trigger rapid intervention when most effective, leading to improved outcomes and lower costs.  A linked implantable vascular access port will provide sterile means of cancer drug delivery and physiologic monitoring.  Advanced analytics will identify patients showing the earliest signs of common complications.  Finally, aggregated data will provide valuable insights for hospitals to better understand outcomes and costs, serving as a valuable research tool for industry and academic researchers developing next-generation cancer therapies.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will advance technology development toward a linked implantable vascular access port (VAP) capable of intravenous drug delivery and patient monitoring.  The proposed research will focus on risk in technology development and clinically important endpoints.  For ease of use, the linked implantable VAP will communicate with the patient’s mobile device via secure Bluetooth wireless.  Aim #1 focuses on establishing a front-end mobile application to control the collection and transport of ‎multiple sensor inputs and associated metadata.  This mobile application will provide a critical link between the implanted sensor technology and the cloud database for analytics.  As an implantable medical device, replacing the power supply would carry unacceptable risks and costs.  Therefore, Aim #2 focuses on power supply characterization, selection, and optimization.  In Aim #2 power requirements for 12 months of active patient monitoring will be identified based on clinical needs and used to identify a power supply compatible with implantation.  Most cancer patients require radiation therapy as part of their treatment.  It is therefore critical to understand the effect of ionizing radiation on any device implanted in cancer patients.  Aim #3 addresses this need through in vitro irradiation of the device.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014814</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Mitchell</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James Mitchell</PI_FULL_NAME>
+<EmailAddress><![CDATA[james@oncodisc.com]]></EmailAddress>
+<NSF_ID>000816945</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ONCODISC, INC.</Name>
+<CityName>WALNUT CREEK</CityName>
+<ZipCode>945984400</ZipCode>
+<PhoneNumber>9172322827</PhoneNumber>
+<StreetAddress>730 COMANCHE CT</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JNN7K4HEMTM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ONCODISC, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ONCODISC, INC.]]></Name>
+<CityName>WALNUT CREEK</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>945984400</ZipCode>
+<StreetAddress><![CDATA[730 COMANCHE CT]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>010E</Code>
+<Text>DISABILITY RES &amp; HOMECARE TECH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~223881</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Each year, 1.7 million Americans are diagnosed with cancer, with over 600,000 annual cancer-related deaths. Over 80% of cancer treatment is delivered in the outpatient setting, leaving oncology patients mostly unmonitored while at high risk of complications from either the underlying cancer or side effects of aggressive therapy (chemotherapy, immunotherapy, radiation therapy). Complications lead to high rates of emergency department utilization, hospitalization, morbidity and mortality for cancer patients, while research shows that 19% - 50% of oncology-related hospitalizations are preventable with appropriate outpatient management.</p> <p>&nbsp;</p> <p>Recognizing a large clinical need and current product limitations, Oncodisc, Inc was founded to develop a reliable early-warning system for oncology patients. Our technology centers on the world's first intelligent implantable vascular access port. Many cancer patients today undergo implantation of vascular access ports to provide a secure means of intravenous drug delivery for chemotherapy or other anti-cancer medications. Our intelligent implant will provide vascular access required for oncology drug delivery, and novel sensor technology will monitor patient health from inside the body with unmatched accuracy and in an uninterrupted manner that does not require patient adherence for data collection. This Phase I NSF SBIR project focused on three areas of research: secure data transmission from the device hardware to mobile and computer-based software, device power supply requirements analysis and calculations, and determining radiation sensitivity of device hardware.</p> <p>&nbsp;</p> <p><strong>Secure data transfer from implantable device hardware to mobile and desktop computer software. </strong>We developed both mobile (Android) and PC software capable of establishing wireless Bluetooth communication with our device hardware. Once communication was established, time-stamped sensor data was transferred from the device hardware to the software platforms. We also developed graphical user interface features for two-way wireless communication allowing remote programming of sensor modes. Device-to-software communication and data transfer was tested in multiple conditions to simulate implantation under the skin.</p> <p>&nbsp;</p> <p><strong>Implantable device power supply analysis and requirements calculation.</strong> Active implantable medical devices require reliable power supply with adequate energy stores to last the expected duration of device implantation. The prototypical device with this requirement is the cardiac pacemaker. Ideally, the Oncodisc intelligent implant would have a power supply capable of active monitoring for the full duration of a patient's cancer therapy, at least several months. Using our individual device components and their associated data sheets, we developed a power analysis calculator. By setting data collection and transmission frequencies to clinically useful periods, we calculated the required battery capacity for over six-months of active patient monitoring.</p> <p>&nbsp;</p> <p><strong>Determining radiation sensitivity of implantable device hardware.</strong> Over half of all cancer patients will require treatment with radiation therapy. Clinical radiation therapy doses range from 800 cGy to 7000 cGy. High energy photon and particle irradiation can damage sensitive electronic hardware. Traditionally, cardiac pacemakers have required strict radiation dose limits to minimize the risk of damage during radiotherapy. Little is known regarding the radiation sensitivity of modern chip-based integrated circuit hardware. We used a clinical radiation therapy linear accelerator to irradiate printed circuit boards with representative sensor chips and microcontroller units to escalating doses of radiation ranging from 50 cGy to 5000 cGy. We found no hardware malfunction below 5000 cGy, while 1 of 2 printed circuit boards irradiated to 5000 cGy did not function appropriately. These findings will inform final device design and testing requirements.</p><br> <p>            Last Modified: 08/26/2021<br>      Modified by: James&nbsp;Mitchell</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Each year, 1.7 million Americans are diagnosed with cancer, with over 600,000 annual cancer-related deaths. Over 80% of cancer treatment is delivered in the outpatient setting, leaving oncology patients mostly unmonitored while at high risk of complications from either the underlying cancer or side effects of aggressive therapy (chemotherapy, immunotherapy, radiation therapy). Complications lead to high rates of emergency department utilization, hospitalization, morbidity and mortality for cancer patients, while research shows that 19% - 50% of oncology-related hospitalizations are preventable with appropriate outpatient management.     Recognizing a large clinical need and current product limitations, Oncodisc, Inc was founded to develop a reliable early-warning system for oncology patients. Our technology centers on the world's first intelligent implantable vascular access port. Many cancer patients today undergo implantation of vascular access ports to provide a secure means of intravenous drug delivery for chemotherapy or other anti-cancer medications. Our intelligent implant will provide vascular access required for oncology drug delivery, and novel sensor technology will monitor patient health from inside the body with unmatched accuracy and in an uninterrupted manner that does not require patient adherence for data collection. This Phase I NSF SBIR project focused on three areas of research: secure data transmission from the device hardware to mobile and computer-based software, device power supply requirements analysis and calculations, and determining radiation sensitivity of device hardware.     Secure data transfer from implantable device hardware to mobile and desktop computer software. We developed both mobile (Android) and PC software capable of establishing wireless Bluetooth communication with our device hardware. Once communication was established, time-stamped sensor data was transferred from the device hardware to the software platforms. We also developed graphical user interface features for two-way wireless communication allowing remote programming of sensor modes. Device-to-software communication and data transfer was tested in multiple conditions to simulate implantation under the skin.     Implantable device power supply analysis and requirements calculation. Active implantable medical devices require reliable power supply with adequate energy stores to last the expected duration of device implantation. The prototypical device with this requirement is the cardiac pacemaker. Ideally, the Oncodisc intelligent implant would have a power supply capable of active monitoring for the full duration of a patient's cancer therapy, at least several months. Using our individual device components and their associated data sheets, we developed a power analysis calculator. By setting data collection and transmission frequencies to clinically useful periods, we calculated the required battery capacity for over six-months of active patient monitoring.     Determining radiation sensitivity of implantable device hardware. Over half of all cancer patients will require treatment with radiation therapy. Clinical radiation therapy doses range from 800 cGy to 7000 cGy. High energy photon and particle irradiation can damage sensitive electronic hardware. Traditionally, cardiac pacemakers have required strict radiation dose limits to minimize the risk of damage during radiotherapy. Little is known regarding the radiation sensitivity of modern chip-based integrated circuit hardware. We used a clinical radiation therapy linear accelerator to irradiate printed circuit boards with representative sensor chips and microcontroller units to escalating doses of radiation ranging from 50 cGy to 5000 cGy. We found no hardware malfunction below 5000 cGy, while 1 of 2 printed circuit boards irradiated to 5000 cGy did not function appropriately. These findings will inform final device design and testing requirements.       Last Modified: 08/26/2021       Submitted by: James Mitchell]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

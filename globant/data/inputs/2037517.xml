@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Automatic Generation of Physics-Informed AI Models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255613.00</AwardTotalIntnAmount>
+<AwardAmount>275613</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to democratize the model building process for multiple industrial applications by: (1) making it easy to build models within hours instead of weeks, (2) cut model building costs by 10x or more, and (3) significantly mitigate risks by providing more accurate and interpretable models that are constrained by underlying physical principles. This technology would unlock a new generation of modeling workflows that are more scalable, have less uncertainty, and improve the structural visibility and interoperability of complex processes that are partially understood. As a result, companies would have tangible ways to reduce modeling costs, streamline optimization and control of operations and ultimately, achieve better decisions at economically viable rates. More broadly, the proposed technology should inspire various innovations and enhancements to products and services that strongly rely on physics modeling. It is expected that tangible results would induce profound effects across multiple sectors, including agriculture, environmental science, civil engineering, manufacturing, aerospace, construction, logistics, and medicine. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will set the technical and business foundations required to automate and expedite the construction of reduced physics models from data with minimal human intervention. The goal for this project is to implement fast and reliable mechanisms for: (1) mapping spatio-temporal data of the physical world into structural network representations; (2) leverage the data from these network representations to generate a suitable set of equations that explain the underlying dynamics; (3) use advanced optimization techniques to find a list of models that capture the best combination of network and equations matching the observed data; and (4) orchestrate all these pieces into a single artificial intelligence platform that automatically consolidates data and human interactions for model building and visualization. Efforts in Phase I are particularly focused on demonstrating that the resulting models are physically sound and sufficiently robust for describing the dynamics of fluid transport and diffusion based on different amounts of available data and conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/11/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037517</AwardID>
+<Investigator>
+<FirstName>Hector</FirstName>
+<LastName>Klie</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hector Klie</PI_FULL_NAME>
+<EmailAddress><![CDATA[hklie@deepcast.ai]]></EmailAddress>
+<NSF_ID>000827398</NSF_ID>
+<StartDate>06/11/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>DEEPCAST, LLC</Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>770434035</ZipCode>
+<PhoneNumber>9335003282</PhoneNumber>
+<StreetAddress>1334 BRITTMOORE RD STE 1326</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>38</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX38</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YL96XJMX23C8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DEEPCAST, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[DEEPCAST, LLC]]></Name>
+<CityName>Houston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>770434033</ZipCode>
+<StreetAddress><![CDATA[1334 Brittmoore Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>38</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX38</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255613</FUND_OBLG>
+<FUND_OBLG>2022~20000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-74c711f1-7fff-10bd-1d1f-9718aa625684"> </span></p> <p dir="ltr"><span>During the NSF SBIR Phase I, DeepCast developed a proof of concept for an AI technology that helps scientists and engineers quickly and easily build physics-based models on a SaaS platform.</span></p> <p dir="ltr"><span>The AI technology is designed to automate various steps in the creation of custom physics-based models with minimal human intervention. It is intended to fill a gap in the spectrum of modeling solutions. Currently, a scientist or engineer has to make a compromise between complexity and how data-driven or physics-based their model should be. Recent advances in AI have provided many compelling data-driven solutions such as statistical tools, BI visualization tools, and Auto-ML platforms. However, these AI solutions have struggled to generalize and scale for physics-based problems involving small amounts of data, long-term forecasting, and complex multi-physics scenarios. At the same time, traditional analytical or physics-based solutions are inflexible, computationally intensive, and difficult to use. Our aim is to democratize the development of physics-based models through the use of AI. As seen on Figure 1, this innovation will enable a new class of products where non-technical users will be able to quickly build efficient physics-based models.</span></p> <p dir="ltr"><span>The AI technology aims to discover the underlying mathematical equations governing a dynamical system. This system can represent a complex physics simulator, lab experiments, or industrial machinery. The AI uses data from these systems to generate a simplified network topology model and assigns the aforementioned equations to this network. After the AI finishes calibrating the model, the final result is a simplified representation of the system that is generalizable, accurate, and fast to compute.</span></p> <p dir="ltr"><span>Ultimately, the user only has to upload data and submit a run through an intuitive UI. The AI will then use its experience learning known equations and the data provided to discover both new correlations and models capable of predicting unseen scenarios; see Figure 2.</span></p> <p><span id="docs-internal-guid-53a5a519-7fff-6b5c-215d-84db521af3cd"> </span></p> <p dir="ltr"><span>The following are the major outcomes from the NSF SBIR Phase I project:</span></p> <ol> <li dir="ltr"> <p dir="ltr"><span>Demonstrated the feasibility of an AI to automatically generate accurate physics models using small amounts of data from lab measurements and simulation systems.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Developed the AI technology as part of a SaaS platform for scientists and engineers to build and analyze their own custom models using their proprietary data.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Demonstrated the applicability of the AI technology in:</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>Simulating a diverse set of 2D cases for multiphase flow in porous media.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Predicting corrosion inhibitor performance using lab measurements and methodologies from electrochemistry.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Predicting clinical laboratory diagnosis using amino acid data.</span></p> </li> </ul> </li> <li>Completed a pilot project with a major chemical company to help them automate their lab testing workflows as it relates to the development of corrosion inhibitors using electrochemistry. After the pilot, the customer was able to perceive value in the AI technology to cut lab testing costs by more than 2x and to shorten previous projects from 24 weeks to just 2 weeks. After this success, negotiations started for a commercial license agreement. Figure 3 illustrates an example of how the AI technology can help simplify many steps in the traditional electrochemistry testing process.</li> <li>Refined the value proposition and improved the commercialization strategy by researching the market following the I-Corps program?s methodology, which lead to identify:</li> </ol> <div><span id="docs-internal-guid-87ac664e-7fff-8ac3-a132-48ee19d496f2">  <ul> <li dir="ltr"> <p dir="ltr"><span>The beachhead, which are specialty chemical companies developing corrosion inhibitors using electrochemistry methodologies.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Similar electrochemistry opportunities that can be tackled with marginal changes to the SaaS platform, including the development of coatings, sensors, batteries, fuel cells, and new advanced materials.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Other opportunities beyond electrochemistry where the AI technology can add significant value such as reservoir modeling, clinical lab diagnosis, and other analogous scientific or engineering applications.</span></p> </li> </ul> </span><span id="docs-internal-guid-ef1644d5-7fff-d2b1-467f-e244ebef1af3"><span>This innovation will provide broader and commercial impact in the following ways:</span></span></div> <div><span id="docs-internal-guid-d9a4c4a3-7fff-6d52-2567-e07bee630d67"><ol> <li dir="ltr"> <p dir="ltr"><span>Increase productivity of human resources as it relates to the development and deployment of models by:</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>Promoting collaboration between various professional disciplines that can share prediction results,</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Automating and simplifying various operational steps with the SaaS platform,</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Reducing training overhead through the use of a more intuitive user experience.</span></p> </li> </ul> </li> <li><span id="docs-internal-guid-d9a4c4a3-7fff-6d52-2567-e07bee630d67">Develop digital twins for various industrial applications to unlock use cases that were&nbsp; previously too complex or prohibitively expensive in terms of time and cost.</span></li> <li><span id="docs-internal-guid-d9a4c4a3-7fff-6d52-2567-e07bee630d67">Accelerate the discovery of new breakthroughs in chemistry, material science, and many other fields by giving scientists a tool to accurately test hypotheses with fewer lab experiments</span></li> <li dir="ltr"> <p dir="ltr"><span>Optimize operational costs in the industrial sector by using the model to:</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>Predict and anticipate failures,&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Optimize management of resources,&nbsp;</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Reduce the number of experiments,</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Among other use cases</span></p> </li> </ul> </li> </ol></span></div> <div><span id="docs-internal-guid-8ed4bc63-7fff-3f60-a91f-3fb13ab02a90"><span>The plan moving forward will be to allocate R&amp;D resources to mature the current AI technology for a wider range of electrochemistry use cases and adapt it for similar scientific workflows. There will also be an increased investment in sales and marketing to close licensing deals with large specialty chemical companies.</span></span></div><br> <p>            Last Modified: 01/31/2023<br>      Modified by: Hector&nbsp;Klie</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2037517/2037517_10739470_1675226612947_Fig1_Outcomes--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2037517/2037517_10739470_1675226612947_Fig1_Outcomes--rgov-800width.jpg" title="Fig 1."><img src="/por/images/Reports/POR/2023/2037517/2037517_10739470_1675226612947_Fig1_Outcomes--rgov-66x44.jpg" alt="Fig 1."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Comparison of the innovation versus existing solutions</div> <div class="imageCredit">Hector Klie</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Hector&nbsp;Klie</div> <div class="imageTitle">Fig 1.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2037517/2037517_10739470_1675226705301_Fig2_Outcomes--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2037517/2037517_10739470_1675226705301_Fig2_Outcomes--rgov-800width.jpg" title="Fig 2."><img src="/por/images/Reports/POR/2023/2037517/2037517_10739470_1675226705301_Fig2_Outcomes--rgov-66x44.jpg" alt="Fig 2."></a> <div class="imageCaptionContainer"> <div class="imageCaption">AI technology developed during the NSF SBIR Phase I</div> <div class="imageCredit">Hector Klie</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Hector&nbsp;Klie</div> <div class="imageTitle">Fig 2.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2037517/2037517_10739470_1675226775565_Fig3_Outcomes--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2037517/2037517_10739470_1675226775565_Fig3_Outcomes--rgov-800width.jpg" title="Fig 3."><img src="/por/images/Reports/POR/2023/2037517/2037517_10739470_1675226775565_Fig3_Outcomes--rgov-66x44.jpg" alt="Fig 3."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Automating electrochemistry at the lab</div> <div class="imageCredit">Hector Klie</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Hector&nbsp;Klie</div> <div class="imageTitle">Fig 3.</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   During the NSF SBIR Phase I, DeepCast developed a proof of concept for an AI technology that helps scientists and engineers quickly and easily build physics-based models on a SaaS platform. The AI technology is designed to automate various steps in the creation of custom physics-based models with minimal human intervention. It is intended to fill a gap in the spectrum of modeling solutions. Currently, a scientist or engineer has to make a compromise between complexity and how data-driven or physics-based their model should be. Recent advances in AI have provided many compelling data-driven solutions such as statistical tools, BI visualization tools, and Auto-ML platforms. However, these AI solutions have struggled to generalize and scale for physics-based problems involving small amounts of data, long-term forecasting, and complex multi-physics scenarios. At the same time, traditional analytical or physics-based solutions are inflexible, computationally intensive, and difficult to use. Our aim is to democratize the development of physics-based models through the use of AI. As seen on Figure 1, this innovation will enable a new class of products where non-technical users will be able to quickly build efficient physics-based models. The AI technology aims to discover the underlying mathematical equations governing a dynamical system. This system can represent a complex physics simulator, lab experiments, or industrial machinery. The AI uses data from these systems to generate a simplified network topology model and assigns the aforementioned equations to this network. After the AI finishes calibrating the model, the final result is a simplified representation of the system that is generalizable, accurate, and fast to compute. Ultimately, the user only has to upload data and submit a run through an intuitive UI. The AI will then use its experience learning known equations and the data provided to discover both new correlations and models capable of predicting unseen scenarios; see Figure 2.    The following are the major outcomes from the NSF SBIR Phase I project:   Demonstrated the feasibility of an AI to automatically generate accurate physics models using small amounts of data from lab measurements and simulation systems.   Developed the AI technology as part of a SaaS platform for scientists and engineers to build and analyze their own custom models using their proprietary data.   Demonstrated the applicability of the AI technology in:   Simulating a diverse set of 2D cases for multiphase flow in porous media.   Predicting corrosion inhibitor performance using lab measurements and methodologies from electrochemistry.   Predicting clinical laboratory diagnosis using amino acid data.    Completed a pilot project with a major chemical company to help them automate their lab testing workflows as it relates to the development of corrosion inhibitors using electrochemistry. After the pilot, the customer was able to perceive value in the AI technology to cut lab testing costs by more than 2x and to shorten previous projects from 24 weeks to just 2 weeks. After this success, negotiations started for a commercial license agreement. Figure 3 illustrates an example of how the AI technology can help simplify many steps in the traditional electrochemistry testing process. Refined the value proposition and improved the commercialization strategy by researching the market following the I-Corps program?s methodology, which lead to identify:      The beachhead, which are specialty chemical companies developing corrosion inhibitors using electrochemistry methodologies.   Similar electrochemistry opportunities that can be tackled with marginal changes to the SaaS platform, including the development of coatings, sensors, batteries, fuel cells, and new advanced materials.   Other opportunities beyond electrochemistry where the AI technology can add significant value such as reservoir modeling, clinical lab diagnosis, and other analogous scientific or engineering applications.   This innovation will provide broader and commercial impact in the following ways:   Increase productivity of human resources as it relates to the development and deployment of models by:   Promoting collaboration between various professional disciplines that can share prediction results,   Automating and simplifying various operational steps with the SaaS platform,   Reducing training overhead through the use of a more intuitive user experience.    Develop digital twins for various industrial applications to unlock use cases that were  previously too complex or prohibitively expensive in terms of time and cost. Accelerate the discovery of new breakthroughs in chemistry, material science, and many other fields by giving scientists a tool to accurately test hypotheses with fewer lab experiments  Optimize operational costs in the industrial sector by using the model to:   Predict and anticipate failures,    Optimize management of resources,    Reduce the number of experiments,   Among other use cases     The plan moving forward will be to allocate R&amp;D resources to mature the current AI technology for a wider range of electrochemistry use cases and adapt it for similar scientific workflows. There will also be an increased investment in sales and marketing to close licensing deals with large specialty chemical companies.       Last Modified: 01/31/2023       Submitted by: Hector Klie]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Convergence Accelerator Track D: Data &amp; AI Methods for Modeling Facial Expressions in Language with Applications to Privacy for the Deaf, ASL Education &amp; Linguistic Res]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>960000.00</AwardTotalIntnAmount>
+<AwardAmount>960000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mike Pozmantier</SignBlockName>
+<PO_EMAI>mpozmant@nsf.gov</PO_EMAI>
+<PO_PHON>7032924475</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future. American Sign Language (ASL) is the third most studies “foreign” language in the United States. This project is building 4-dimensional face-tracking algorithms that could be used to separate facial geometry from facial movement and expression. The work supports an application for teaching American Sign Language (ASL) to ASL-learners, an application for anonymizing the signer when privacy is a concern, and research into the role of facial expressions in both sign and spoken language. The privacy preserving application being developed by this project will enable ASL speakers to have private conversations about sensitive topics they would otherwise. &lt;br/&gt;&lt;br/&gt;This team of linguists, computer scientists, deaf and hearing experts on ASL, and industry partners will address research and societal challenges through three types of deliverables targeted to diverse user and research communities: 1) Modifications and extension of AI methods and publicly shared ASL data and tools to encompass spoken language. Although facial expressions and head gestures, essential to the grammar of signed languages, also play an important role in speech, this is not well understood because resources of the kind developed by this project have not been available. New data and analyses will open the door to comparative study of the role of facial expressions across modalities, and the role of facial expressions in signed language vs. spoken language. Shared raw data, analyses, and visualizations will open up new avenues for linguistic and computer science research into the role of spatiotemporal synchronization of nonmanual expressions in conjunction with speech and signing. 2) An application to help ASL learners produce facial expressions and head gestures to convey grammatical information in signed languages; and 3) Development of a tool for real-time anonymization of ASL videos to preserve grammatical information expressed non-manually, while de-identifying the signer.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040638</AwardID>
+<Investigator>
+<FirstName>Dimitris</FirstName>
+<LastName>Metaxas</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dimitris N Metaxas</PI_FULL_NAME>
+<EmailAddress><![CDATA[dnm@cs.rutgers.edu]]></EmailAddress>
+<NSF_ID>000236186</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carol</FirstName>
+<LastName>Neidle</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Carol J Neidle</PI_FULL_NAME>
+<EmailAddress><![CDATA[carol@bu.edu]]></EmailAddress>
+<NSF_ID>000197237</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matt</FirstName>
+<LastName>Huenerfauth</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matt Huenerfauth</PI_FULL_NAME>
+<EmailAddress><![CDATA[matt.huenerfauth@rit.edu]]></EmailAddress>
+<NSF_ID>000220138</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mariapaola</FirstName>
+<LastName>D'Imperio</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mariapaola D'Imperio</PI_FULL_NAME>
+<EmailAddress><![CDATA[mariapaola.dimperio@rutgers.edu]]></EmailAddress>
+<NSF_ID>000825361</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZ</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName>Pisacataway</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>088548019</ZipCode>
+<StreetAddress><![CDATA[33 Knightsbridge Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~960000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1">We have been developing sustainable robust AI methods for facial analytics, potentially applicable across domains but targeted here to new applications that address important problems related to use of facial expressions and head gestures in natural language. In sign language, critical linguistic information of many kinds is conveyed exclusively by facial expressions and head gestures. The fact that the face carries essential linguistic information poses major challenges for Deaf signers and for students of ASL as a non-native language.&nbsp;</p> <p class="p1">Problem #1: The &gt;500,000 US ASL signers have no way to communicate anonymously through videos in their native language, e.g., about sensitive topics (such as medical issues). This is perceived to be a significant problem by the Deaf community. It also means, for example, that signed submissions to scholarly journals cannot be reviewed anonymously.&nbsp;</p> <p class="p1">Problem #2: 2nd-language learners of ASL (the 3rd most studied "foreign" language, with US college enrollments &gt;107,000 as of 2016) have difficulty learning to produce these essential expressions, in part because they do not see their own face when signing.&nbsp;</p> <p class="p1">&nbsp; &nbsp; In spoken language, these expressions also play an important role, but they function differently.</p> <p class="p1">Problem #3: The role of co-speech gestures, including facial expressions and head movements, is not well understood because of inadequacies in current analytic tools. This has held back applications that rely on such correlations, such as the development of realistic speaking avatars and robots; technology for the elderly and those with disabilities; and detection of, e.g., deception and intent.&nbsp;</p> <p class="p1">&nbsp; &nbsp;&nbsp;To address these problems, we worked closely with the prospective users of these tools and conducted user studies to identify and respond to their needs and preferences, in order to create prototypes for applications&nbsp;(1) to enable ASL signers to share videos anonymously by disguising their face without loss of linguistic information; (2) to help ASL learners produce these expressions correctly; and (3) to help speech scientists study co-speech gestures.&nbsp;</p> <p class="p1">&nbsp; &nbsp;&nbsp;Our AI approach to analysis of facial expressions and head gestures -- combining 3D modeling, Machine Learning (ML), and linguistic knowledge derived from our annotated video corpora -- overcomes limitations of prior research. It is distinctive in its ability to capture subtle facial expressions, even with significant head rotations.&nbsp;</p> <p class="p1">&nbsp; &nbsp;&nbsp;Beyond the benefits that would accrue to the three target populations, this research has other potential applications, as well, e.g. for sanitizing other data involving video of human faces, medical applications, security, driving safety, and the arts.&nbsp;</p> <p class="p1">&nbsp; &nbsp;&nbsp;In conjunction with the research conducted for this project, we have expanded and enhanced our collection of publicly shared, linguistically annotated ASL video data and refined the software we distribute through an MIT license for linguistic annotation of visual language data, SignStream(R). Data are available from https://dai.cs.rutgers.edu/dai/s/dai and https://dai.cs.rutgers.edu/dai/s/signbank. The software is available from http://www.bu.edu/asllrp/SignStream/3/. The data and software shared freely through our websites will also contribute to linguistic and computational research on sign language. This is especially valuable for students and has been used for many research projects in the US and abroad.&nbsp;</p> <p class="p1">&nbsp;</p><br> <p>            Last Modified: 08/29/2022<br>      Modified by: Carol&nbsp;J&nbsp;Neidle</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2040638/2040638_10705083_1659553010417_fig1a--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040638/2040638_10705083_1659553010417_fig1a--rgov-800width.jpg" title="Fig. 1A.  Video Anonymization"><img src="/por/images/Reports/POR/2022/2040638/2040638_10705083_1659553010417_fig1a--rgov-66x44.jpg" alt="Fig. 1A.  Video Anonymization"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Initial Prototype of our Privacy Tool. Original signer shown below; anonymized versions shown above.</div> <div class="imageCredit">American Sign Language Linguistic Research Project</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Carol&nbsp;J&nbsp;Neidle</div> <div class="imageTitle">Fig. 1A.  Video Anonymization</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2040638/2040638_10705083_1659553160620_fig1b--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040638/2040638_10705083_1659553160620_fig1b--rgov-800width.jpg" title="Fig. 1B. Video Anonymization: Full Body"><img src="/por/images/Reports/POR/2022/2040638/2040638_10705083_1659553160620_fig1b--rgov-66x44.jpg" alt="Fig. 1B. Video Anonymization: Full Body"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Preliminary results from a new method for full-body video anonymization. Original signer on the top; anonymized version on the bottom.</div> <div class="imageCredit">American Sign Language Linguistic Research Project</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Carol&nbsp;J&nbsp;Neidle</div> <div class="imageTitle">Fig. 1B. Video Anonymization: Full Body</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2040638/2040638_10705083_1659565758706_fig-2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040638/2040638_10705083_1659565758706_fig-2--rgov-800width.jpg" title="FIg. 2. Prototype of our Educational Application"><img src="/por/images/Reports/POR/2022/2040638/2040638_10705083_1659565758706_fig-2--rgov-66x44.jpg" alt="FIg. 2. Prototype of our Educational Application"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Illustration of feedback provided to a student (here on the right) attempting to reproduce the signing of the model; frames from feedback videos were shownto the students as part of the RIT user studies.</div> <div class="imageCredit">American Sign Language Linguistic Research Project</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Carol&nbsp;J&nbsp;Neidle</div> <div class="imageTitle">FIg. 2. Prototype of our Educational Application</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2040638/2040638_10705083_1659566101046_fig3--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040638/2040638_10705083_1659566101046_fig3--rgov-800width.jpg" title="Fig. 3. Enhancements to Annotation Software for Analysis of Co-Speech Gestures"><img src="/por/images/Reports/POR/2022/2040638/2040638_10705083_1659566101046_fig3--rgov-66x44.jpg" alt="Fig. 3. Enhancements to Annotation Software for Analysis of Co-Speech Gestures"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Screenshot from SignStream(R) prototype: graphs of non manual expressions in top region, with functionalities for annotation of manual gestures (their phases as well as hand shape & orientation) displayed in the bottom region.</div> <div class="imageCredit">American Sign Language Linguistic Research Project</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Carol&nbsp;J&nbsp;Neidle</div> <div class="imageTitle">Fig. 3. Enhancements to Annotation Software for Analysis of Co-Speech Gestures</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[We have been developing sustainable robust AI methods for facial analytics, potentially applicable across domains but targeted here to new applications that address important problems related to use of facial expressions and head gestures in natural language. In sign language, critical linguistic information of many kinds is conveyed exclusively by facial expressions and head gestures. The fact that the face carries essential linguistic information poses major challenges for Deaf signers and for students of ASL as a non-native language.  Problem #1: The &gt;500,000 US ASL signers have no way to communicate anonymously through videos in their native language, e.g., about sensitive topics (such as medical issues). This is perceived to be a significant problem by the Deaf community. It also means, for example, that signed submissions to scholarly journals cannot be reviewed anonymously.  Problem #2: 2nd-language learners of ASL (the 3rd most studied "foreign" language, with US college enrollments &gt;107,000 as of 2016) have difficulty learning to produce these essential expressions, in part because they do not see their own face when signing.      In spoken language, these expressions also play an important role, but they function differently. Problem #3: The role of co-speech gestures, including facial expressions and head movements, is not well understood because of inadequacies in current analytic tools. This has held back applications that rely on such correlations, such as the development of realistic speaking avatars and robots; technology for the elderly and those with disabilities; and detection of, e.g., deception and intent.      To address these problems, we worked closely with the prospective users of these tools and conducted user studies to identify and respond to their needs and preferences, in order to create prototypes for applications (1) to enable ASL signers to share videos anonymously by disguising their face without loss of linguistic information; (2) to help ASL learners produce these expressions correctly; and (3) to help speech scientists study co-speech gestures.      Our AI approach to analysis of facial expressions and head gestures -- combining 3D modeling, Machine Learning (ML), and linguistic knowledge derived from our annotated video corpora -- overcomes limitations of prior research. It is distinctive in its ability to capture subtle facial expressions, even with significant head rotations.      Beyond the benefits that would accrue to the three target populations, this research has other potential applications, as well, e.g. for sanitizing other data involving video of human faces, medical applications, security, driving safety, and the arts.      In conjunction with the research conducted for this project, we have expanded and enhanced our collection of publicly shared, linguistically annotated ASL video data and refined the software we distribute through an MIT license for linguistic annotation of visual language data, SignStream(R). Data are available from https://dai.cs.rutgers.edu/dai/s/dai and https://dai.cs.rutgers.edu/dai/s/signbank. The software is available from http://www.bu.edu/asllrp/SignStream/3/. The data and software shared freely through our websites will also contribute to linguistic and computational research on sign language. This is especially valuable for students and has been used for many research projects in the US and abroad.          Last Modified: 08/29/2022       Submitted by: Carol J Neidle]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

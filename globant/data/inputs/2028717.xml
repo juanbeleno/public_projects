@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Dashboard for COVID-19 Scientific Development]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>198587.00</AwardTotalIntnAmount>
+<AwardAmount>198587</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04010000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SMA</Abbreviation>
+<LongName>SBE Off Of Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Feeney</SignBlockName>
+<PO_EMAI>mfeeney@nsf.gov</PO_EMAI>
+<PO_PHON>7032927197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Scientific discovery depends on the accumulation of knowledge. There are thousands of articles on any given topic, but no one person can read them all. This limitation is more important in the COVID-19 era, where dependable knowledge can mean the difference between life and death. This project works to improve methods related to the synthesis of scientific knowledge by developing a visual dashboard to summarize COVID-19 related research efforts. The main goal is to integrate a current COVID-19 literature dataset from the Whitehouse with a knowledge graph from PubMed and a drug discovery knowledge graph developed by Data2Discovery. This would enable the creation of the “Fight COVID-19 Dashboard,” a visualization tool that would centralize and visualize crucial, up to date data and scientific information related to COVID. This dashboard will help scientists and clinicians access and visualize the most recent information about COVID. Such information is also crucial for mining publications to generate research hypotheses and for identifying patterns of collaboration and innovation in scientific communication working to stop the spread of COVID. The PIs will make their data and the codes for constructing the dashboard open to the public to enable future efforts and enhance public trust in science through transparency.&lt;br/&gt;&lt;br/&gt;This project develops the Fight COVID-19 Dataset and visual dashboard to advance information science and aid in the fight against COVID-19. This is accomplished by integrating a current COVID-19 literature dataset from the White House with a knowledge graph from PubMed and a drug discovery knowledge graph interlinking dozens of publicly available databases in pre-clinical drug discovery. This dashboard will display COVID-19 related information, including: 1) the currently most mentioned biological entities (e.g., drugs, diseases, vaccines, genes) in PubMed and clinical trials; 2) the evolution of related biological entities according to PubMed literature and clinical trials; 3) the network connections of related biological entities; 4) the lists of active scientists, teams, and institutions and their research topics; and 5) collaborations of scientific teams to enable networking and inspire potential collaborations to fight against COVID-19. This research will advance textual analysis methods by moving beyond keyword analysis towards advanced understanding of the objects that the keywords indicate and propelling textual methods towards knowledge graph-based analysis. It also adds a longitudinal element to recent investigations of the evolving pathway of COVID-19 scientific studies related to bio entities and links the science of science to related research domains in new and potentially innovative ways.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028717</AwardID>
+<Investigator>
+<FirstName>Ying</FirstName>
+<LastName>Ding</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ying Ding</PI_FULL_NAME>
+<EmailAddress><![CDATA[ying.ding@ischool.utexas.edu]]></EmailAddress>
+<NSF_ID>000519710</NSF_ID>
+<StartDate>06/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[School of Information, University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787011246</ZipCode>
+<StreetAddress><![CDATA[1616 Guadalupe St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>21</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX21</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125Y</Code>
+<Text>Science of Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~198587</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The outbreak of COVID-19 has a severe impact on our families, communities, and businesses. White House released the COVID-19 literature dataset (called CORD-19 dataset) covers more than 500,000 articles. Researchers, practitioners, and administrators need a tool to help them digest the gigantic amount of knowledge to address various scientific questions related to COVID-19. The COVID-19 portal portrays the research profiles of scientists, bio entities (e.g., gene, drug, disease), and institutions based on the integration of CORD-19 research literature, COVID-19 related clinical trials, PubMed knowledge graph, and the drug discovery knowledge graph. This portal provides the following profiles related to COVID-19: 1) the profile of a researcher with his/her COVID-19 related publications and clinical trials which can be ranked by year or by the number of tweets; 2) the profile of a bio entity with articles and clinical trials mentioned this bio entity and authors/ who work on this bio entity; and 3) the profile of an institution with papers authored by researchers from this institution.<br /><br />With timely information about the latest scientific development from publications and clinical trials, this COVID-19 portal provides important profiling page for each author, bio entity, and institution. It establishes the unique summary of the scientific development of COVID-19 based on research profiling of authors, bio entities, and institutions to facilitate scientific collaboration. The same infrastructure can be easily extended to different document corpora, such as the PubMed articles, or AI articles, to deliver the summarized profiling information about researchers, domain concepts, and institutions.</p><br> <p>            Last Modified: 01/11/2022<br>      Modified by: Ying&nbsp;Ding</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2028717/2028717_10680901_1641442604890_institution--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2028717/2028717_10680901_1641442604890_institution--rgov-800width.jpg" title="Institution Profile"><img src="/por/images/Reports/POR/2022/2028717/2028717_10680901_1641442604890_institution--rgov-66x44.jpg" alt="Institution Profile"></a> <div class="imageCaptionContainer"> <div class="imageCaption">It shows the papers published by this institution, bio entities mentioned in these papers, and authors from this institution.</div> <div class="imageCredit">NSF RAPID Funding</div> <div class="imageSubmitted">Ying&nbsp;Ding</div> <div class="imageTitle">Institution Profile</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2028717/2028717_10680901_1641442478029_bioentity--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2028717/2028717_10680901_1641442478029_bioentity--rgov-800width.jpg" title="Bio entity profile"><img src="/por/images/Reports/POR/2022/2028717/2028717_10680901_1641442478029_bioentity--rgov-66x44.jpg" alt="Bio entity profile"></a> <div class="imageCaptionContainer"> <div class="imageCaption">It shows the profile of COVID-19 as a disease including related papers, institutions publishing these papers, and authors working on COVID-19 disease.</div> <div class="imageCredit">NSF RAPID Funding</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Ying&nbsp;Ding</div> <div class="imageTitle">Bio entity profile</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2028717/2028717_10680901_1641442305835_arthor--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2028717/2028717_10680901_1641442305835_arthor--rgov-800width.jpg" title="Researcher Profile"><img src="/por/images/Reports/POR/2022/2028717/2028717_10680901_1641442305835_arthor--rgov-66x44.jpg" alt="Researcher Profile"></a> <div class="imageCaptionContainer"> <div class="imageCaption">It shows the papers, bio entities mentioned in these papers, and co-authors of a researcher.</div> <div class="imageCredit">NSF RAPID Funding</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Ying&nbsp;Ding</div> <div class="imageTitle">Researcher Profile</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The outbreak of COVID-19 has a severe impact on our families, communities, and businesses. White House released the COVID-19 literature dataset (called CORD-19 dataset) covers more than 500,000 articles. Researchers, practitioners, and administrators need a tool to help them digest the gigantic amount of knowledge to address various scientific questions related to COVID-19. The COVID-19 portal portrays the research profiles of scientists, bio entities (e.g., gene, drug, disease), and institutions based on the integration of CORD-19 research literature, COVID-19 related clinical trials, PubMed knowledge graph, and the drug discovery knowledge graph. This portal provides the following profiles related to COVID-19: 1) the profile of a researcher with his/her COVID-19 related publications and clinical trials which can be ranked by year or by the number of tweets; 2) the profile of a bio entity with articles and clinical trials mentioned this bio entity and authors/ who work on this bio entity; and 3) the profile of an institution with papers authored by researchers from this institution.  With timely information about the latest scientific development from publications and clinical trials, this COVID-19 portal provides important profiling page for each author, bio entity, and institution. It establishes the unique summary of the scientific development of COVID-19 based on research profiling of authors, bio entities, and institutions to facilitate scientific collaboration. The same infrastructure can be easily extended to different document corpora, such as the PubMed articles, or AI articles, to deliver the summarized profiling information about researchers, domain concepts, and institutions.       Last Modified: 01/11/2022       Submitted by: Ying Ding]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

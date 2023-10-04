@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: PPoSS: Planning: Fixpoint: an operating system and architecture for data-centric computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>125000.00</AwardTotalIntnAmount>
+<AwardAmount>125000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computer operating systems run programs that read input data and produce output data. However, today's operating systems generally don't keep track of enough information to make sure that the process of generating a given piece of data can be reproduced, especially when the program that produced it may have considered input that came over the network, from a mutable file on disk, or from a non-deterministic phenomenon such as thread scheduling. This project will design a new kind of operating system, called Fixpoint, that explicitly represents and names computations on data: each invocation of a program, in terms of its minimal data-dependencies, in a reproducible content-addressed manner. If successful, the project will have a significant impact on how computer systems are used every day. By making all computation reproducible by default and trivially shareable, Fixpoint can improve scientific reproducibility and as a consequence increase the public's confidence in scientific results. &lt;br/&gt;&lt;br/&gt;The hypothesis of this project is that by changing the way software is represented, substantial benefits can be unlocked in the areas of scalability, security, efficiency, performance, and reproducibility. Fixpoint's operating-system-visible dataflow will give it an ability to take advantage of massive transient parallelism, which means that parallel tasks that effectively require batch-processing today -- submitting jobs to servers and waiting hours -- will become near real-time. This will change the kinds of operations that people expect to do interactively at a computer. Errors discovered in data, even after the fact, can be backed out of computations that depend on them, similar to recalculating a spreadsheet today.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028869</AwardID>
+<Investigator>
+<FirstName>Amit</FirstName>
+<LastName>Levy</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amit A Levy</PI_FULL_NAME>
+<EmailAddress><![CDATA[aalevy@gmail.com]]></EmailAddress>
+<NSF_ID>000784393</NSF_ID>
+<StartDate>08/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>1 NASSAU HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>Princeton</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442020</ZipCode>
+<StreetAddress><![CDATA[87 Prospect Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>PPoSS-PP of Scalable Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~125000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Most computer systems today use basic building blocks that date back to the 1960s and 1970s. Largely, these building blocks divide the resources of a computer (memory, disk, CPU) into chunks and runs computations in isolation, as though they had exclusive access to different computers.</p> <p>The dramatic increase in access to scalable resources in the cloud motivates a re-examination of where and how to draw the boundary between a user computation and the compute infrastructure.</p> <p><br />This planning project explored the hypothesis that by changing the way cloud software is represented, substantial benefits can be unlocked in the areas of scalability, security, efficiency, performance, and reproducibility. These changes will be necessary to unlock the potential of the next 50 years of computation.</p> <p>The project designed Fixpoint, a new cloud operating system that expresses computations as reproducible, deterministic, and isolated graphs that can natively take advantage of high-burst scalability.</p> <p>To achieve this we devised a language for expressing computations based on content-addressable names of both data and computation and a runtime that ensures deterministic computations despite running on non-deterministic hardware.</p> <p>The project also focused on underlying technologies to support such applications. Unum, a system for coordinating complex distributed workflows, replaces centralized serverless orchestrators with general purpose decentralized coordination algorithms that are more flexible, can express richer interactions, and ultimately more performant and resource efficient. SnapFaaS is a virtual machine hypervisor tuned for starting sandboxed applications in the cloud with minimal overhead. SnapFaaS supports serverless cold starts in milliseconds instead of seconds with a specialized virtual machine snapshot mechanism.</p> <p>All work performed under the grant has been released as open source software that is free to download and use.</p><br> <p>            Last Modified: 04/07/2022<br>      Modified by: Amit&nbsp;A&nbsp;Levy</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Most computer systems today use basic building blocks that date back to the 1960s and 1970s. Largely, these building blocks divide the resources of a computer (memory, disk, CPU) into chunks and runs computations in isolation, as though they had exclusive access to different computers.  The dramatic increase in access to scalable resources in the cloud motivates a re-examination of where and how to draw the boundary between a user computation and the compute infrastructure.   This planning project explored the hypothesis that by changing the way cloud software is represented, substantial benefits can be unlocked in the areas of scalability, security, efficiency, performance, and reproducibility. These changes will be necessary to unlock the potential of the next 50 years of computation.  The project designed Fixpoint, a new cloud operating system that expresses computations as reproducible, deterministic, and isolated graphs that can natively take advantage of high-burst scalability.  To achieve this we devised a language for expressing computations based on content-addressable names of both data and computation and a runtime that ensures deterministic computations despite running on non-deterministic hardware.  The project also focused on underlying technologies to support such applications. Unum, a system for coordinating complex distributed workflows, replaces centralized serverless orchestrators with general purpose decentralized coordination algorithms that are more flexible, can express richer interactions, and ultimately more performant and resource efficient. SnapFaaS is a virtual machine hypervisor tuned for starting sandboxed applications in the cloud with minimal overhead. SnapFaaS supports serverless cold starts in milliseconds instead of seconds with a specialized virtual machine snapshot mechanism.  All work performed under the grant has been released as open source software that is free to download and use.       Last Modified: 04/07/2022       Submitted by: Amit A Levy]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

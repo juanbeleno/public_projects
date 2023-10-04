@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Rapid COVID-19 diagnostics with CMOS-integrated single-molecule field-effect transistors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255678.00</AwardTotalIntnAmount>
+<AwardAmount>255678</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact / commercial potential of this Small Business Innovation Research (SBIR) Phase I Project is to reduce time-to-diagnosis for COVID-19 through the development of a novel all-electronic single-molecule molecular diagnostics platform.  The proposed technology has the potential to eliminate sample processing bottlenecks that have resulted in delayed diagnosis.  The system's form-factor is compact and widely deployable, enabling point-of-care and/or near-point-of-care test settings.  The system comprise a reader unit and disposable test-chips.  This will enable rapid testing. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will advance a prototype of a all-electronic single-molecule molecular diagnostics platform and demonstrate direct detection of SARS-CoV-2 RNA.  Prototype completion will involve integrating our single-molecule biosensors onto application-specific integrated circuitry and optimizing the chemical functionalization process to enable single-molecule detection.  Processes will be developed for controlled RNA fragmentation, required for direct RNA detection.  Direct detection will eliminate the need to perform extensive enzymatic processing required in quantitative Reverse-Transcription Polymerase-Chain-Reaction (qRT-PCR)-based systems.  Efficient data processing algorithms will be designed and implemented in the data acquisition hardware to accelerate diagnosis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031181</AwardID>
+<Investigator>
+<FirstName>Erik</FirstName>
+<LastName>Young</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erik F Young</PI_FULL_NAME>
+<EmailAddress><![CDATA[efy@quicksilverbiosciences.com]]></EmailAddress>
+<NSF_ID>000844050</NSF_ID>
+<StartDate>12/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Warren</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven Warren</PI_FULL_NAME>
+<EmailAddress><![CDATA[swarren@quicksilverbiosciences.com]]></EmailAddress>
+<NSF_ID>000797651</NSF_ID>
+<StartDate>09/01/2020</StartDate>
+<EndDate>12/10/2020</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>QUICKSILVER BIOSCIENCES, INC.</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100272510</ZipCode>
+<PhoneNumber>9146438717</PhoneNumber>
+<StreetAddress>1361 AMSTERDAM AVE</StreetAddress>
+<StreetAddress2><![CDATA[STE 340]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZMEHBJ39DWK1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>QUICKSILVER BIOSCIENCES INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NHVJEDHHMXD6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[QUICKSILVER BIOSCIENCES, INC.]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100272510</ZipCode>
+<StreetAddress><![CDATA[1361 Amsterdam Ave - Suite 340]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6883</Code>
+<Text>CHEMISTRY OF LIFE PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~255678</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Quicksilver Biosciences is developing a transformational integrated-circuit-based biosensor platform for next-generation molecular sensing.&nbsp; Quicksilver engineers are adapting this technology for genomic and antigen-based detection of SARS-CoV-2 along with other respiratory pathogens.&nbsp; Quicksilver&rsquo;s platform is unique in its multiplex capabilities and its single-molecule sensitivity for detection, without PCR amplification.&nbsp;&nbsp; The societal demand for this technology is acute and immediately relevant.&nbsp; Many people will present with respiratory symptoms and precise diagnosis of pathogen will be extremely important, including variants in the case of COVID-19.&nbsp; Furthermore, there is no significant re-engineering required for Quicksilver sensing platforms to adapt to variants of the present pandemic or future pandemics.&nbsp; &nbsp;The technology is competent to support future scientific insights into molecular biophysics of molecular interactions at the sensor surface.</p> <p>Under this award, Quicksilver built out the technical foundation for our product.&nbsp; We successfully produced sufficient number of devices for these studies in a new, vertically integrated format using thermally grown carbon nanotubes (CNTs, Fig. 1,2).&nbsp; These were found to be more pristine than commercially sourced preparations in Raman spectroscopy surveys with imperceptible D-peak signature reporting defected CNTs</p> <p>Quicksilver's digital molecular detection system is a transistor with very high gain in the presence of the target relative to the absence of the target and the spatial confinement of that interaction.&nbsp; The spatial confinement of the detection event is related to our sample preparation strategy.&nbsp; Larger molecules, like antibodies, are less ideal probe molecules as their interplay with the carbon nanotube channel would constantly and continuously occupy the sensing voxel over the detector.&nbsp; We strive to make our probe molecules small and extend the sensing voxel over each CNT detector by reducing the salt concentration in our salines.&nbsp; For this work we kept to CNT tethered probe molecules.&nbsp; The technology remains agnostic to the target analyte.&nbsp; That said, larger target molecules with complex secondary structure could confound our sensing via a steric hindrance mechanism or by having the molecular cognition sequence in an oligonucleotide buried within secondary structure in the genome of the target virus.&nbsp; Clipping the target genome into fragments is a straightforward way to work around these concerns.&nbsp; A rapid and simple boiling protocol in the presence of Mg2+ salts was successfully developed to fragment RNA samples into fragments amenable to presentation to our sensor arrays (Fig.3).&nbsp;</p> <p>We succeeded in the demonstration of detection of a virus genome fragment using vertically integrated short-flow format chips for the first time (Fig. 4).&nbsp; Drawing on previous work, we leveraged the electrostatic control that we have over the top of the detectors.&nbsp; Specifically, we are able to apply a repulsive electrostatic force to impart a kind of electronic melting in which we can alter the arrival and departure kinetics of the molecules.&nbsp; We confirmed that the signals that we obtain are coming from the molecules that we are interrogating.&nbsp; The tethered probe for this work was designated Dn-28731 with the sequence 5?- GAGAACGCA-3? corresponding to a region of the SARS-CoV2 genome known to encode the surface spike glycoprotein.&nbsp; The complementary target sequence that we employed was an overlapping and longer strand with sequence 5'- TTGATCGCGCCCCACTGCGTTCTCCATTCTGGTTACTGC-3'.&nbsp; Recordings were made in duplicate, sweeping through a variety of gate bias conditions using a complementary DNA strand in the solution over the arrays at 100 mM.&nbsp; We were able to obtain signal in the positive condition with the target strand present and the signals that we obtained varied with the gate bias applied in a verification of electronic melting phenomenon.&nbsp; Multiple trials following this demonstration were conducted in short-flow chips using synthetic oligomers.&nbsp; Work on these smaller scale arrays was suspended in June 2022 as our in house production of larger 64,000 position arrays began and fabrication efforts in short-flow format were scaled back.&nbsp; This transition to larger arrays is an expected part of our development trajectory and should provide a greatly expanded detection capability over the short-flow chip format with a much smaller capacity of 495 positions.&nbsp; We anticipate being able to more reliably and reproducibly obtain signals from RNAs in solution over the new, larger arrays.&nbsp;</p> <p>Quicksilver has implemented a state-change detection algorithm in field programmable gate array (FPGA) code.&nbsp; Analog signals from the array are digitized by analog digital converters on our test bench and sent to the FPGA.&nbsp; These signals can then be piped directly into the algorithm which can determine whether a biological state-transition has occurred.&nbsp; The algorithm was back-validated against prior recordings.</p> <p>We believe that the future is bright for this technology as it advances to serve an acute need in a transformed marketplace in the post-COVID era.</p><br> <p>            Last Modified: 07/20/2022<br>      Modified by: Erik&nbsp;F&nbsp;Young</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2031181/2031181_10703546_1658323998611_Fig1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2031181/2031181_10703546_1658323998611_Fig1--rgov-800width.jpg" title="Figure 1"><img src="/por/images/Reports/POR/2022/2031181/2031181_10703546_1658323998611_Fig1--rgov-66x44.jpg" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Thermally grown carbon nanotubes transferred from a substrate to a short flow chip are shown in an atomic force micrograph (A).  These nanotubes are superior to commercial sources with a nonexistent D-peak signature (B) and are used to generate large numbers of single transit devices (C,D).</div> <div class="imageCredit">Quicksilver Biosciences</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Erik&nbsp;F&nbsp;Young</div> <div class="imageTitle">Figure 1</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2031181/2031181_10703546_1658323866209_Fig2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2031181/2031181_10703546_1658323866209_Fig2--rgov-800width.jpg" title="Figure 2"><img src="/por/images/Reports/POR/2022/2031181/2031181_10703546_1658323866209_Fig2--rgov-66x44.jpg" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Upscaling production capacity of carbon nanotube devices.  A photomask (L) permitting many chips per process culminates in substrates populated with up to 27 chips (R).</div> <div class="imageCredit">Quicksilver Biosciences</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Erik&nbsp;F&nbsp;Young</div> <div class="imageTitle">Figure 2</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2031181/2031181_10703546_1658324149162_Fig3--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2031181/2031181_10703546_1658324149162_Fig3--rgov-800width.jpg" title="Figure 3"><img src="/por/images/Reports/POR/2022/2031181/2031181_10703546_1658324149162_Fig3--rgov-66x44.jpg" alt="Figure 3"></a> <div class="imageCaptionContainer"> <div class="imageCaption">RNA fragmentation via brief boiling in Mg2+ containing saline resulted in a desired population of smaller RNA fragments for presentation to sensor arrays (A).  Salines with varied Mg2+ content by volume in a supporting 43mM sodium phosphate buffer have no impact on the function of a sensor device.</div> <div class="imageCredit">Quicksilver Biosciences</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Erik&nbsp;F&nbsp;Young</div> <div class="imageTitle">Figure 3</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2031181/2031181_10703546_1658323661980_Fig4--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2031181/2031181_10703546_1658323661980_Fig4--rgov-800width.jpg" title="Figure 4"><img src="/por/images/Reports/POR/2022/2031181/2031181_10703546_1658323661980_Fig4--rgov-66x44.jpg" alt="Figure 4"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Detection of synthetic SARS CoV2 genome fragment DNA sequences using vertically integrated CNTsmFET chip.  Excursions from baseline conductance through the transistor are present in the positive condition and the frequency of these excursions from baseline is altered in response to the gate bias app</div> <div class="imageCredit">Quicksilver Biosciences</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Erik&nbsp;F&nbsp;Young</div> <div class="imageTitle">Figure 4</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Quicksilver Biosciences is developing a transformational integrated-circuit-based biosensor platform for next-generation molecular sensing.  Quicksilver engineers are adapting this technology for genomic and antigen-based detection of SARS-CoV-2 along with other respiratory pathogens.  Quicksilver’s platform is unique in its multiplex capabilities and its single-molecule sensitivity for detection, without PCR amplification.   The societal demand for this technology is acute and immediately relevant.  Many people will present with respiratory symptoms and precise diagnosis of pathogen will be extremely important, including variants in the case of COVID-19.  Furthermore, there is no significant re-engineering required for Quicksilver sensing platforms to adapt to variants of the present pandemic or future pandemics.   The technology is competent to support future scientific insights into molecular biophysics of molecular interactions at the sensor surface.  Under this award, Quicksilver built out the technical foundation for our product.  We successfully produced sufficient number of devices for these studies in a new, vertically integrated format using thermally grown carbon nanotubes (CNTs, Fig. 1,2).  These were found to be more pristine than commercially sourced preparations in Raman spectroscopy surveys with imperceptible D-peak signature reporting defected CNTs  Quicksilver's digital molecular detection system is a transistor with very high gain in the presence of the target relative to the absence of the target and the spatial confinement of that interaction.  The spatial confinement of the detection event is related to our sample preparation strategy.  Larger molecules, like antibodies, are less ideal probe molecules as their interplay with the carbon nanotube channel would constantly and continuously occupy the sensing voxel over the detector.  We strive to make our probe molecules small and extend the sensing voxel over each CNT detector by reducing the salt concentration in our salines.  For this work we kept to CNT tethered probe molecules.  The technology remains agnostic to the target analyte.  That said, larger target molecules with complex secondary structure could confound our sensing via a steric hindrance mechanism or by having the molecular cognition sequence in an oligonucleotide buried within secondary structure in the genome of the target virus.  Clipping the target genome into fragments is a straightforward way to work around these concerns.  A rapid and simple boiling protocol in the presence of Mg2+ salts was successfully developed to fragment RNA samples into fragments amenable to presentation to our sensor arrays (Fig.3).   We succeeded in the demonstration of detection of a virus genome fragment using vertically integrated short-flow format chips for the first time (Fig. 4).  Drawing on previous work, we leveraged the electrostatic control that we have over the top of the detectors.  Specifically, we are able to apply a repulsive electrostatic force to impart a kind of electronic melting in which we can alter the arrival and departure kinetics of the molecules.  We confirmed that the signals that we obtain are coming from the molecules that we are interrogating.  The tethered probe for this work was designated Dn-28731 with the sequence 5?- GAGAACGCA-3? corresponding to a region of the SARS-CoV2 genome known to encode the surface spike glycoprotein.  The complementary target sequence that we employed was an overlapping and longer strand with sequence 5'- TTGATCGCGCCCCACTGCGTTCTCCATTCTGGTTACTGC-3'.  Recordings were made in duplicate, sweeping through a variety of gate bias conditions using a complementary DNA strand in the solution over the arrays at 100 mM.  We were able to obtain signal in the positive condition with the target strand present and the signals that we obtained varied with the gate bias applied in a verification of electronic melting phenomenon.  Multiple trials following this demonstration were conducted in short-flow chips using synthetic oligomers.  Work on these smaller scale arrays was suspended in June 2022 as our in house production of larger 64,000 position arrays began and fabrication efforts in short-flow format were scaled back.  This transition to larger arrays is an expected part of our development trajectory and should provide a greatly expanded detection capability over the short-flow chip format with a much smaller capacity of 495 positions.  We anticipate being able to more reliably and reproducibly obtain signals from RNAs in solution over the new, larger arrays.   Quicksilver has implemented a state-change detection algorithm in field programmable gate array (FPGA) code.  Analog signals from the array are digitized by analog digital converters on our test bench and sent to the FPGA.  These signals can then be piped directly into the algorithm which can determine whether a biological state-transition has occurred.  The algorithm was back-validated against prior recordings.  We believe that the future is bright for this technology as it advances to serve an acute need in a transformed marketplace in the post-COVID era.       Last Modified: 07/20/2022       Submitted by: Erik F Young]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

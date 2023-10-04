@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: PPoSS: Planning: Unifying Software and Hardware to Achieve Performant and Scalable Zero-cost Parallelism in the Heterogeneous Future]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>79835.00</AwardTotalIntnAmount>
+<AwardAmount>79835</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+<PO_EMAI>abanerje@nsf.gov</PO_EMAI>
+<PO_PHON>7032927885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Exploiting parallelism is essential to making full use of computer systems, and thus is intrinsic to most applications.  Building parallel programs that can truly achieve the performance the hardware is capable of is extremely challenging even for experts.  It requires a firm grasp of concepts that range from the very highest level to the very lowest, and that range is rapidly expanding.  This project approaches this challenge along two lines, "theory down" and "architecture up".  The first strives to simplify parallel programming through languages and algorithms.  The second line strives to accelerate parallel programs through compilers, operating systems, and the hardware.  The project's novelty is to bridge these two lines, which are usually treated quite distinctly by the research community. The unified team of researchers is addressing a specific subproblem, scheduling, and then determining how to expand out from it.  The project's impact is in making it possible for ordinary programmers to program future parallel systems in a very high-level way, yet achieve the performance possible on the machine.&lt;br/&gt;&lt;br/&gt;The project studies an "intermediate representation out" approach to making high-level parallel abstractions implementable so that they can be used with zero cost.  A core idea is to expand the compiler's intermediate representation such that it can capture both high-level parallel concepts and low-level machine and operating system structures, thus allowing full stack optimization.  This planning project will flesh out this concept and set the stage for a larger scale effort in the future.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028921</AwardID>
+<Investigator>
+<FirstName>Umut</FirstName>
+<LastName>Acar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Umut Acar</PI_FULL_NAME>
+<EmailAddress><![CDATA[umut@cs.cmu.edu]]></EmailAddress>
+<NSF_ID>000636864</NSF_ID>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Rainey</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Rainey</PI_FULL_NAME>
+<EmailAddress><![CDATA[me@mike-rainey.site]]></EmailAddress>
+<NSF_ID>000795952</NSF_ID>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName/>
+<StateCode>PA</StateCode>
+<ZipCode>152133890</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>PPoSS-PP of Scalable Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~79835</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project aims to lay the foundation for tackling a major challenge--- programming modern parallel computers---by bridging high-level, language-based approaches with low-level details of current and future hardware.&nbsp; To this end, the project brings together a group of PIs from two different institutions (Carnegie Mellon University and Northwestern University) that work on the opposite end of the spectrum with the aim of breaking the language barrier between the two approaches.&nbsp; The ultimate goal is to produce research that cuts across the "software stack" and to develop a "full stack" approach to solving the parallelism challenge.&nbsp;</p> <p>During the project, the PIs and their research groups have established active collaborations and completed several research projects. Specific intellectual merits include<br />* The full-stack implementation of the heartbeat scheduling, which involves work ranging form programming-language theory to low level implementation and system details.&nbsp;&nbsp;<br />* The development of hardware cache-coherence mechanisms that can take advantage of properties of high-level programming languages.&nbsp;&nbsp;<br />* Based on heartbeat scheduling, the development of two separate&nbsp; proposal for integrating automatic granularity control to C-based&nbsp; and Parallel ML based programming languages.</p> <p><br />In addition to these major trusses of research, the project resulted in numerous research papers that have appeared in top computer science venues.</p> <p><br />Broader impacts of the project include the development of curriculum and lecture materials for teaching parallelism to undergraduates,open-source implementation of programming languages and run-time systems for parallel programming, and training of graduate and undergraduate student.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 04/04/2022<br>      Modified by: Umut&nbsp;Acar</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The project aims to lay the foundation for tackling a major challenge--- programming modern parallel computers---by bridging high-level, language-based approaches with low-level details of current and future hardware.  To this end, the project brings together a group of PIs from two different institutions (Carnegie Mellon University and Northwestern University) that work on the opposite end of the spectrum with the aim of breaking the language barrier between the two approaches.  The ultimate goal is to produce research that cuts across the "software stack" and to develop a "full stack" approach to solving the parallelism challenge.   During the project, the PIs and their research groups have established active collaborations and completed several research projects. Specific intellectual merits include * The full-stack implementation of the heartbeat scheduling, which involves work ranging form programming-language theory to low level implementation and system details.   * The development of hardware cache-coherence mechanisms that can take advantage of properties of high-level programming languages.   * Based on heartbeat scheduling, the development of two separate  proposal for integrating automatic granularity control to C-based  and Parallel ML based programming languages.   In addition to these major trusses of research, the project resulted in numerous research papers that have appeared in top computer science venues.   Broader impacts of the project include the development of curriculum and lecture materials for teaching parallelism to undergraduates,open-source implementation of programming languages and run-time systems for parallel programming, and training of graduate and undergraduate student.                Last Modified: 04/04/2022       Submitted by: Umut Acar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

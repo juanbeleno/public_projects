@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  Probabilistic and Explainable Deep Learning for the Intuitive Predictive Maintenance of Industrial and Agricultural Equipment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project proposes a deep learning approach to predictive maintenance of industrial and agricultural equipment. High productivity demands and just-in-time approaches to manufacturing mean that equipment downtime can be extremely expensive;  Research shows that the average manufacturer deals with 800 hours of downtime per year. Further, an increasing quantity of aging equipment and a maintenance workforce that is largely reaching retirement age have led to a situation where maintenance staff often lack the knowledge, training, and/or manpower to address a growing pool of aging assets. This project intends to bring forward a novel suite of intuitive and explainable technologies that can help reduce or eliminate unexpected downtime and help digitally capture and transfer expert knowledge from the retiring workforce.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project proposes a novel, deep learning approach to machinery prognostics. Many existing deep learning approaches focus on the most likely failure scenarios given a set of training data. However, monitored equipment may not exbibit behavior covered in that training set, leading to low-confidence predictions. This approach will not only predict the remaining useful life of a machine component, but it will also quantify the uncertainty of a prediction through an ensemble of models and a temporal fusion of predictions. As a result, maintenance decisions can be made from a risk-based perspective, eliminating unnecessary maintenance stemming from low-confidence predictions. Furthermore, many existing deep learning approaches lack the ability to intuitively explain their predictions to human users. In critical applications where bad predictions have serious consequences, maintenance personnel must understand and trust an artificially intelligent predictive maintenance partner. The proposed solution produces an intuitive visual explanation for the model’s prediction by highlighting and animating the segments of a raw data signal that are contributing most significantly to the prediction.  This will allow trained personnel to quickly make optimal maintenance decisions by fusing data-driven insights with their existing domain expertise.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036044</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Zimmerman</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew T Zimmerman</PI_FULL_NAME>
+<EmailAddress><![CDATA[andyz@percev.co]]></EmailAddress>
+<NSF_ID>000553127</NSF_ID>
+<StartDate>12/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chao</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chao Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[chao.hu@uconn.edu]]></EmailAddress>
+<NSF_ID>000701442</NSF_ID>
+<StartDate>12/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>PERCEV LLC</Name>
+<CityName>DAVENPORT</CityName>
+<ZipCode>528071924</ZipCode>
+<PhoneNumber>5638235511</PhoneNumber>
+<StreetAddress>1515 E KIMBERLY RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WEL2GTTDDJR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PERCEV LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Percev LLC]]></Name>
+<CityName>Davenport</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>528071924</ZipCode>
+<StreetAddress><![CDATA[1515 East Kimberly Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This STTR Phase I project investigated the use of modular wireless sensing hardware and a probabilistic and explainable deep learning (DL) approach to create a truly intuitive IIoT-based predictive maintenance system for helping maintain industrial equipment. This unique solution not only provides best-in-class equipment failure predictions, but it introduces a novel user interface that intuitively conveys risk-based predictive analyses to end users, providing a set of truly actionable decision-making tools to reliability and maintenance personnel.</p> <p>This novel approach to machinery prognostics differs from existing methods in two main ways. First, it not only predicts the remaining useful life (RUL) of a machine component, but it also quantifies the uncertainty of its prediction. This will inform reliability and maintenance engineers of how confident a model is of when a failure will occur. As a result, maintenance decisions can be made from a risk-based perspective, leading to optimal use of maintenance resources and eliminating unnecessary maintenance stemming from low-confidence predictions that are likely incorrect. Second, this solution produces an intuitive visual explanation for the model?s prediction by highlighting and animating the segments of a vibration signal that are contributing most significantly to a bearing failure prediction. This allows for an intuitive understanding of how the system has arrived at its prediction, enabling trained personnel to quickly make optimal maintenance decisions by fusing these data-driven insights with their existing domain expertise.</p> <p>In this STTR Phase I project, the research team focused on three specific research thrusts:</p> <p><strong>Thrust 1:</strong> This thrust was focused on one of the main problems with existing DL-based methods for predictive maintenance: failure predictions often turn up false positives, and those false predictions quickly erode customer confidence in DL?s ability to provide reliable value. To this end, the team created a simple-to-implement probabilistic workflow to quantify the predictive uncertainty in DL models. This workflow combines prediction results from multiple independently trained DL models over multiple time steps to yield high-quality estimates of the predictive uncertainty.</p> <p>This proposed method exploits the concept of ensemble learning, where multiple models are trained on the same dataset while using physics-based features. In the case of rotating industrial equipment (pumps/blowers/compressors/etc.), these features are often derived from a conceptual understanding of bearing faults and their characteristic frequencies. Model confidence is then directly proportional to the agreement of all the models that constitute the ensemble. In this project, the team demonstrated the utility of a two-tier ensemble with (1) an LSTM Forecast-tier that predicts the trajectory of physics-based bearing health indicators with an uncertainty quantification and (2) a CNN Classification-tier that enables the end-user to visualize what vibration frequencies at what time instances are important to making a certain prediction. These activated frequency regions can then be compared with the characteristic bearing fault frequencies, producing another level of explainability to the end user.</p> <p><strong>Thrust 2: </strong>This thrust was focused on another major issue with DL as applied to machine failure prediction: it is often difficult to convey insights stemming from a complex predictive analysis to end users who may not have a significant mathematical background. To this end, we developed an algorithm that visually highlights signal segments considered to be the most important for producing a given failure prediction.</p> <p>In this project, the team was able to produce a robust, probabilistic prediction of RUL for a full set of test bearings that were run to failure in a controlled manner. Furthermore, we were able to provide user-focused visualizations that draw attention not only to the most important features driving the RUL prediction, but also to the aspects of the collected frequency domain data that are most related to the type of defect leading to degradation.</p> <p><strong>Thrust 3: </strong>This thrust was designed to bring the learnings gathered in Thrusts 1 and 2 together to be deployed within a commercially available IIoT software ecosystem. Specifically, the team developed IIoT software to run the probabilistic DL model inside the low-power microprocessor present inside the GraceSense? Vibration and Temperature Node, a commercially available IIoT device sold by Grace Technologies. The resulting software can provide node-based wireless failure predictions while maintaining sufficient power efficiency to support a 3- to 5-year battery life.</p> <p>To validate, the team first configured an electro-dynamic shaker to emulate the vibration experienced by a bearing being subjected to a specific type of failure. This shaker was then be instrumented with an IIoT-centric vibration sensor, and DL models themselves were run inside the embedded system, allowing for classification, RUL prediction, and attention-related tasks to be run ?on-the-edge? ? minimizing the need for wireless communication and enabling battery-powered deployment. This approach was shown to produce results equivalent to standard centralized methods, and these findings represent an important first step towards bringing this type of technology to the industrial market.</p><br> <p>            Last Modified: 06/16/2022<br>      Modified by: Andrew&nbsp;T&nbsp;Zimmerman</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2036044/2036044_10711651_1655386537206_ForecastPicture--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2036044/2036044_10711651_1655386537206_ForecastPicture--rgov-800width.jpg" title="Probabilistic Prediction"><img src="/por/images/Reports/POR/2022/2036044/2036044_10711651_1655386537206_ForecastPicture--rgov-66x44.jpg" alt="Probabilistic Prediction"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Example results of Forecast-tier predictions for three physics-based features, with probabilistic output.</div> <div class="imageCredit">Venkat Nemani</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;T&nbsp;Zimmerman</div> <div class="imageTitle">Probabilistic Prediction</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2036044/2036044_10711651_1655386633233_RULPicture--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2036044/2036044_10711651_1655386633233_RULPicture--rgov-800width.jpg" title="Remaining Useful Life Prediction"><img src="/por/images/Reports/POR/2022/2036044/2036044_10711651_1655386633233_RULPicture--rgov-66x44.jpg" alt="Remaining Useful Life Prediction"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Remaining useful life prediction output for two bearings, with confidence level overlay</div> <div class="imageCredit">Venkat Nemani</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;T&nbsp;Zimmerman</div> <div class="imageTitle">Remaining Useful Life Prediction</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2036044/2036044_10711651_1655386790226_ExplainablePicture--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2036044/2036044_10711651_1655386790226_ExplainablePicture--rgov-800width.jpg" title="Probabilistic and Explainable Bearing Failure Predictions"><img src="/por/images/Reports/POR/2022/2036044/2036044_10711651_1655386790226_ExplainablePicture--rgov-66x44.jpg" alt="Probabilistic and Explainable Bearing Failure Predictions"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Probabilistic remaining useful life predictions and the vibration-centric explanations for these predictions</div> <div class="imageCredit">Venkat Nemani</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;T&nbsp;Zimmerman</div> <div class="imageTitle">Probabilistic and Explainable Bearing Failure Predictions</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This STTR Phase I project investigated the use of modular wireless sensing hardware and a probabilistic and explainable deep learning (DL) approach to create a truly intuitive IIoT-based predictive maintenance system for helping maintain industrial equipment. This unique solution not only provides best-in-class equipment failure predictions, but it introduces a novel user interface that intuitively conveys risk-based predictive analyses to end users, providing a set of truly actionable decision-making tools to reliability and maintenance personnel.  This novel approach to machinery prognostics differs from existing methods in two main ways. First, it not only predicts the remaining useful life (RUL) of a machine component, but it also quantifies the uncertainty of its prediction. This will inform reliability and maintenance engineers of how confident a model is of when a failure will occur. As a result, maintenance decisions can be made from a risk-based perspective, leading to optimal use of maintenance resources and eliminating unnecessary maintenance stemming from low-confidence predictions that are likely incorrect. Second, this solution produces an intuitive visual explanation for the model?s prediction by highlighting and animating the segments of a vibration signal that are contributing most significantly to a bearing failure prediction. This allows for an intuitive understanding of how the system has arrived at its prediction, enabling trained personnel to quickly make optimal maintenance decisions by fusing these data-driven insights with their existing domain expertise.  In this STTR Phase I project, the research team focused on three specific research thrusts:  Thrust 1: This thrust was focused on one of the main problems with existing DL-based methods for predictive maintenance: failure predictions often turn up false positives, and those false predictions quickly erode customer confidence in DL?s ability to provide reliable value. To this end, the team created a simple-to-implement probabilistic workflow to quantify the predictive uncertainty in DL models. This workflow combines prediction results from multiple independently trained DL models over multiple time steps to yield high-quality estimates of the predictive uncertainty.  This proposed method exploits the concept of ensemble learning, where multiple models are trained on the same dataset while using physics-based features. In the case of rotating industrial equipment (pumps/blowers/compressors/etc.), these features are often derived from a conceptual understanding of bearing faults and their characteristic frequencies. Model confidence is then directly proportional to the agreement of all the models that constitute the ensemble. In this project, the team demonstrated the utility of a two-tier ensemble with (1) an LSTM Forecast-tier that predicts the trajectory of physics-based bearing health indicators with an uncertainty quantification and (2) a CNN Classification-tier that enables the end-user to visualize what vibration frequencies at what time instances are important to making a certain prediction. These activated frequency regions can then be compared with the characteristic bearing fault frequencies, producing another level of explainability to the end user.  Thrust 2: This thrust was focused on another major issue with DL as applied to machine failure prediction: it is often difficult to convey insights stemming from a complex predictive analysis to end users who may not have a significant mathematical background. To this end, we developed an algorithm that visually highlights signal segments considered to be the most important for producing a given failure prediction.  In this project, the team was able to produce a robust, probabilistic prediction of RUL for a full set of test bearings that were run to failure in a controlled manner. Furthermore, we were able to provide user-focused visualizations that draw attention not only to the most important features driving the RUL prediction, but also to the aspects of the collected frequency domain data that are most related to the type of defect leading to degradation.  Thrust 3: This thrust was designed to bring the learnings gathered in Thrusts 1 and 2 together to be deployed within a commercially available IIoT software ecosystem. Specifically, the team developed IIoT software to run the probabilistic DL model inside the low-power microprocessor present inside the GraceSense? Vibration and Temperature Node, a commercially available IIoT device sold by Grace Technologies. The resulting software can provide node-based wireless failure predictions while maintaining sufficient power efficiency to support a 3- to 5-year battery life.  To validate, the team first configured an electro-dynamic shaker to emulate the vibration experienced by a bearing being subjected to a specific type of failure. This shaker was then be instrumented with an IIoT-centric vibration sensor, and DL models themselves were run inside the embedded system, allowing for classification, RUL prediction, and attention-related tasks to be run ?on-the-edge? ? minimizing the need for wireless communication and enabling battery-powered deployment. This approach was shown to produce results equivalent to standard centralized methods, and these findings represent an important first step towards bringing this type of technology to the industrial market.       Last Modified: 06/16/2022       Submitted by: Andrew T Zimmerman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

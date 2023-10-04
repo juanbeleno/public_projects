@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Inference for Networks: Bridging the Gap between Metric Spaces and Graphs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>125000.00</AwardTotalIntnAmount>
+<AwardAmount>125000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Network data, representing interactions and relationships between units, has become ubiquitous in many science disciplines and technology areas. Analyzing such complex and structurally novel data requires new ideas and tools beyond the scope of classical statistics. A sequence of methods will be developed for several common statistical analyses involving network data, motivated by various applied problems in cyber-security, social behavior studies, genetics, and medical imaging. These methods can be used to identify the risk factors for the reliability of a complex system, to infer social and peer effects on health-related behaviors, to flexibly model the differential networks between genes, and to infer neuron functionality from brain images. The results will be disseminated through publications and presentations, but will also be incorporated in teaching. The research will include projects suitable for student participation at various levels, and undergraduate research training will be emphasized. The codes will be provided through statistical packages implemented in the programming language R for broader use.&lt;br/&gt;&lt;br/&gt;The broad theme of the research is developing versatile and flexible network analysis tools by connecting and extending mature statistical methods in metric space to network data. Overall, the technical challenges in developing these tools range from the lack of clear definitions for sampling units and sample sizes, to the discrete and noisy nature of network observations. Addressing such challenges requires extensions and combinations of tools from different research areas, including random matrix theory, optimization algorithms, and statistical inference. Collaborations between the PI and researchers in computer science, social science, and medical sciences will provide opportunities to apply the developed methods to real-world problems in these domains.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015134</AwardID>
+<Investigator>
+<FirstName>Can</FirstName>
+<LastName>Le</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Can M Le</PI_FULL_NAME>
+<EmailAddress><![CDATA[canle@ucdavis.edu]]></EmailAddress>
+<NSF_ID>000733092</NSF_ID>
+<StartDate>06/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956186153</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>1850 RESEARCH PARK DR, STE 300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TX2DAGQPENZ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>956186153</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~40975</FUND_OBLG>
+<FUND_OBLG>2021~41442</FUND_OBLG>
+<FUND_OBLG>2022~42583</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CCRI: Medium: Collaborative Research: mu-Net: Infrastructure to Advance Mobile Underwater Wireless Networking Research]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>620000.00</AwardTotalIntnAmount>
+<AwardAmount>620000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The aquatic environments, including the oceans, lakes, and rivers, are the basis for life. An exciting direction is to use a group of robots to support science and discovery in aquatic environments. Currently, there are no shared infrastructures available to the nation’s institutions to investigate how a group of robots can coordinate with each other in the underwater environment. This project develops a low-cost and flexible infrastructure, referred to as mu-Net, to support both laboratory tests and field experiments for users from institutions around the nation. The mu-Net infrastructure, a collaborative project between the University of Alabama and Georgia Institute of Technology, advances underwater technologies by lowering the research participation threshold. It also supports the training of the next generation workforce to manage and preserve marine resources.&lt;br/&gt;&lt;br/&gt;The mu-Net infrastructure uses a service-oriented, non-hierarchical software architecture to facilitate integrated sensing, communications, and navigation. It consists of 1) re-configurable, open-source software suites for simulations and emulations, 2) miniaturized aquatic robots for laboratory tests, 3) commercial-off-the-shelf autonomous surface vehicles and autonomous underwater vehicles for lake tests, and 4) user services to support shared usage. The mu-Net framework merges the functionality of network-centric and autonomy-centric structures to enhance flexible networking capability for collaborative robots. The intellectual merit resides in that the infrastructure enables research in multiple directions. Examples of the enabled research include cooperative and coordinated marine robotics, underwater mobile communication networks, joint networking and navigation of marine robots, and underwater Internet of Things.&lt;br/&gt;&lt;br/&gt;The mu-Net infrastructure aims to break down the underwater networking-robotics disciplinary barrier and promote close interactions between the two fields. It significantly lowers the participation barrier for researchers in a wide range of areas like marine biology, food sources, and economic development. It has the potential to inspire more exploration of the earth’s vast water bodies for scientific and commercial activities. The project uses a spectrum of community engagement activities, such as annual workshops, conference special sessions, summer training school, and deployment camps, to expand user communities. In addition, enabled by the cost-effective assets and fueled by the participation of users via social media, mu-Net attracts widespread adoption for different education and research purposes, ranging from ocean-literacy education, workforce training, academic research, to industrial technology development.&lt;br/&gt;&lt;br/&gt;The project website is gtsr.gatech.edu/munet.html, where users can access experimental management portal, open-source simulators, design repositories, test data, and so on. The project website is regularly updated during the project period and is planned to be maintained through at least three years after the expiration of the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016582</AwardID>
+<Investigator>
+<FirstName>Klementyna</FirstName>
+<LastName>Kasraie</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Klementyna S Kasraie</PI_FULL_NAME>
+<EmailAddress><![CDATA[Klimka.Kasraie@gtri.gatech.edu]]></EmailAddress>
+<NSF_ID>000934825</NSF_ID>
+<StartDate>05/08/2023</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Fumin</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fumin Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[fumin@gatech.edu]]></EmailAddress>
+<NSF_ID>000082535</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate>05/08/2023</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta, Georgia</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue, NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>CCRI-CISE Cmnty Rsrch Infrstrc</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~620000</FUND_OBLG>
+</Award>
+</rootTag>

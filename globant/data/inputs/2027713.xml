@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Countering COVID-19 Misinformation via Situation-Aware Visually Informed Treatment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>104491.00</AwardTotalIntnAmount>
+<AwardAmount>104491</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tatiana Korelsky</SignBlockName>
+<PO_EMAI>tkorelsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032928729</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As the COVID-19 pandemic spreads, countries and cities around the globe have taken stringent measures including quarantine and regional lockdown. The increasing isolation, along with the panic and anxiety, creates challenges for countering misinformation--people are increasingly tapping into online information sources already familiar to them with declining chances of accessing alternative stories. This project will develop mechanisms based on text and image analysis, social psychology, and crowd-sourcing that can be used in a timely manner to counter misinformation during the ongoing COVID-19 crisis and beyond.  One of the novel features of the approach is to deal with a specific instance of misinformation by crowd-sourcing authentic images that counter this misinformation.   This research will contribute to the scientific understanding of misinformation and of persuasive narrative construction, to the assessment of risk for the spread of misinformation, and to the development of mechanisms to counter misinformation. &lt;br/&gt;&lt;br/&gt;The technical aims of this project are divided into three thrusts. The first thrust will investigate what information content and which specific part of a multimodal social media post (e.g, a piece of text, text with an image, image with an embedded slogan) will receive stronger responses and hence increase the likelihood of the post being shared. The second thrust will create metrics to assess the likelihood of the spread of misinformation based on predictors learned from the content to which users are exposed. The third thrust will focus on the development of a system to counter misinformation based on citizen journalists’ inputs of field investigations and on machine learning techniques. Finally, the system will be evaluated by survey studies and interviews to examine the system’s usability, usefulness, and effectiveness in reducing the spreading and impact of misinformation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027713</AwardID>
+<Investigator>
+<FirstName>Yu-Ru</FirstName>
+<LastName>Lin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yu-Ru Lin</PI_FULL_NAME>
+<EmailAddress><![CDATA[yurulin@pitt.edu]]></EmailAddress>
+<NSF_ID>000623654</NSF_ID>
+<StartDate>04/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adriana</FirstName>
+<LastName>Kovashka</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adriana Kovashka</PI_FULL_NAME>
+<EmailAddress><![CDATA[kovashka@cs.pitt.edu]]></EmailAddress>
+<NSF_ID>000690095</NSF_ID>
+<StartDate>04/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wen-Ting</FirstName>
+<LastName>Chung</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wen-Ting Chung</PI_FULL_NAME>
+<EmailAddress><![CDATA[wtchung@pitt.edu]]></EmailAddress>
+<NSF_ID>000824147</NSF_ID>
+<StartDate>04/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152600001</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>4200 FIFTH AVENUE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MKAGLD59JRL1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152600001</ZipCode>
+<StreetAddress><![CDATA[4200 Fifth Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~104491</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-fd15dd88-7fff-cbd8-1cd4-3d882c4a9d43"> </span></p> <p dir="ltr"><span>In the global pandemic era of COVID-19, a time filled with high risk and uncertainty, people become more vulnerable than ever to be influenced by problematic information, such as messages provoking strong emotions, discrimination, violence, and distrust. How do such problematic signals accumulate and translate into a toxic influence over online space?&nbsp; This project aims to study the online ecosystem that fertilizes the "infodemic" in the COVID-19 outbreak, focusing on the characteristics of misinformation content and consumers. By leveraging computational social science methodology and multi-modal learning, this interdisciplinary research makes several contributions to developing methods to understand the proliferation and persuasive narrative construction of misinformation.</span></p> <p dir="ltr"><span>First, &#8203;&#8203;we developed a computational approach to analyze the patterns of persuasive social media content, in terms of popularity and source credibility. Our multi-modal approach, combining image and text, is not only predictive of information popularity and credibility, but also able to uncover how unreliable sources integrate visual elements with textual content in a distorted, biased fashion. This result provides insights into the enhancement of social media literacy and engagement.</span></p> <p dir="ltr"><span>Second,&nbsp; through analyzing a large, geopolitically diverse sample of Twitter users and their information consumption over a 6-month period, we identified "who" constitutes the population vulnerable to the online misinformation in the pandemic, and what are the robust features and short-term behavior signals that distinguish susceptible users from others. We discovered that (1) contrary to the prior studies on bot influence, our analysis shows that social bots' contribution to misinformation sharing was surprisingly low, and human-like users' misinformation behaviors exhibit heterogeneity; (2) susceptible users appeared to be politically sensitive, active, and responsive to emotionally charged content among susceptible users. In terms of predicting users' susceptibility, we developed an interpretable deep learning model that efficiently forecasts users' transient susceptibility solely based on their short-term news consumption and exposure from their networks. Our results contribute to designing effective intervention mechanisms to mitigate the misinformation dissipation.</span></p> <p dir="ltr"><span>Third, through an analysis of over 240 thousand tweets capturing how users shared COVID-19 pandemic-related misinformation news on social media over a five-month period, we study the spread of information and user's level of interaction with the original information source, i.e., from low (copy-and-paste link) to medium (Like), to high (comments). The higher the user's interacting with the original source, the more mutation the spread of information is. Our results indicate a positive relationship between information mutation and spreading outcomes. This study provides the first quantitative evidence of how misinformation propagation may be exacerbated by users' commentary, which has implications for countering misinformation.</span></p> <p dir="ltr"><span>Finally, this project has two broader impacts. First, our study yields promising results by characterizing the information ecosystem, which enriches the social solutions in countering misinformation proliferation beyond the fact-checking paradigm. Second, the longitudinal data and techniques we developed enable researchers, platform managers, and policy analysts to discover new insights into information consumption behaviors and test new methods to counter misinformation.</span></p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 06/30/2022<br>      Modified by: Yu-Ru&nbsp;Lin</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2027713/2027713_10666037_1656604210953_ScreenShot2022-06-30at11.47.38AM--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2027713/2027713_10666037_1656604210953_ScreenShot2022-06-30at11.47.38AM--rgov-800width.jpg" title="User susceptibility modeling"><img src="/por/images/Reports/POR/2022/2027713/2027713_10666037_1656604210953_ScreenShot2022-06-30at11.47.38AM--rgov-66x44.jpg" alt="User susceptibility modeling"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Modeling misinformation susceptibility from users' past share history</div> <div class="imageCredit">Yu-Ru Lin</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yu-Ru&nbsp;Lin</div> <div class="imageTitle">User susceptibility modeling</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   In the global pandemic era of COVID-19, a time filled with high risk and uncertainty, people become more vulnerable than ever to be influenced by problematic information, such as messages provoking strong emotions, discrimination, violence, and distrust. How do such problematic signals accumulate and translate into a toxic influence over online space?  This project aims to study the online ecosystem that fertilizes the "infodemic" in the COVID-19 outbreak, focusing on the characteristics of misinformation content and consumers. By leveraging computational social science methodology and multi-modal learning, this interdisciplinary research makes several contributions to developing methods to understand the proliferation and persuasive narrative construction of misinformation. First, &#8203;&#8203;we developed a computational approach to analyze the patterns of persuasive social media content, in terms of popularity and source credibility. Our multi-modal approach, combining image and text, is not only predictive of information popularity and credibility, but also able to uncover how unreliable sources integrate visual elements with textual content in a distorted, biased fashion. This result provides insights into the enhancement of social media literacy and engagement. Second,  through analyzing a large, geopolitically diverse sample of Twitter users and their information consumption over a 6-month period, we identified "who" constitutes the population vulnerable to the online misinformation in the pandemic, and what are the robust features and short-term behavior signals that distinguish susceptible users from others. We discovered that (1) contrary to the prior studies on bot influence, our analysis shows that social bots' contribution to misinformation sharing was surprisingly low, and human-like users' misinformation behaviors exhibit heterogeneity; (2) susceptible users appeared to be politically sensitive, active, and responsive to emotionally charged content among susceptible users. In terms of predicting users' susceptibility, we developed an interpretable deep learning model that efficiently forecasts users' transient susceptibility solely based on their short-term news consumption and exposure from their networks. Our results contribute to designing effective intervention mechanisms to mitigate the misinformation dissipation. Third, through an analysis of over 240 thousand tweets capturing how users shared COVID-19 pandemic-related misinformation news on social media over a five-month period, we study the spread of information and user's level of interaction with the original information source, i.e., from low (copy-and-paste link) to medium (Like), to high (comments). The higher the user's interacting with the original source, the more mutation the spread of information is. Our results indicate a positive relationship between information mutation and spreading outcomes. This study provides the first quantitative evidence of how misinformation propagation may be exacerbated by users' commentary, which has implications for countering misinformation. Finally, this project has two broader impacts. First, our study yields promising results by characterizing the information ecosystem, which enriches the social solutions in countering misinformation proliferation beyond the fact-checking paradigm. Second, the longitudinal data and techniques we developed enable researchers, platform managers, and policy analysts to discover new insights into information consumption behaviors and test new methods to counter misinformation.             Last Modified: 06/30/2022       Submitted by: Yu-Ru Lin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

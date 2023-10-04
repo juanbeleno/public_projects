@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER:AI-DCL:Capture, Explain and Negotiate the Inherent Trade-offs in Machine Learning Algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>295713.00</AwardTotalIntnAmount>
+<AwardAmount>311713</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Todd Leen</SignBlockName>
+<PO_EMAI>tleen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927215</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[An outstanding issue with machine learning based decision-making algorithms is the inherent trade-offs between different system criteria. There is an emerging body of literature demonstrating trade-offs between fairness and accuracy, and between different fairness notions. By improving fairness, overall accuracy might decrease. Furthermore, different fairness notions are not compatible with each other: well-established results show that common statistical fairness notions are often mutually exclusive. Accurate understanding of such trade-offs is critical for stakeholders and practitioners to appropriately use these machine learning methods. The focus of this project is to take an interdisciplinary approach to study, explain, and address the inherent trade-offs between different system criteria in machine learning-based decision-making.&lt;br/&gt;&lt;br/&gt;The researchers will develop methods to capture trade-offs between different system criteria in machine learning algorithms. They will develop visualizations and interactive interfaces to explain the trade-offs between the models to the stakeholders. Finally, the project team will explore social and technical innovations that let stakeholders navigate and negotiate the fundamental trade-offs between different system criteria.  The project will disseminate the new knowledge in part through a MOOC offering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/12/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2000782</AwardID>
+<Investigator>
+<FirstName>Haiyi</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Haiyi Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[haiyiz@cs.cmu.edu]]></EmailAddress>
+<NSF_ID>000686407</NSF_ID>
+<StartDate>11/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 Forbes Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>114Y</Code>
+<Text>Fairness in Artificial Intelli</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1640</Code>
+<Text>Information Technology Researc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0757</Code>
+<Text>COOP PLAN OPs &amp; SERVICES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~295713</FUND_OBLG>
+<FUND_OBLG>2020~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-f69174c2-7fff-5474-6338-c65c8558a5ce"> </span></p> <p dir="ltr"><span>Automated and artificially intelligent algorithmic systems are increasingly used to manage human activities and make important decisions. However, even sophisticated algorithms that optimize standard accuracy measures can fail to solve the problems they were designed to tackle when they are inconsistent with, or even harm, the important values and needs of the people and communities who use them.</span></p> <p dir="ltr"><span><span>To address these problems, we propose the method of "Value-Sensitive Algorithm Design" (VSAD), which emphasizes the importance of uncovering a wide range of stakeholders' values at an early stage of the design process and incorporating and balancing those values in the creation of the algorithm. The method involves three steps: (1) understanding the values of the community stakeholders related to algorithms, (2) explaining the trade-offs between different algorithm choices to the stakeholders, and (3) enabling community members to reason about different fairness and accuracy measures, navigate trade-offs, express priorities, and negotiate with each other to find appropriate models.</span></span></p> <p dir="ltr"><span>In this NSF project, we applied the VSAD approach to a machine learning-based quality prediction system on Wikipedia called the Objective Revision Evaluation Service (ORES). We first interviewed ORES stakeholders, including editors, patrollers, tool developers, Wikimedia Foundation employees, and researchers, to systematically identify which values matter to the community. We then designed an interactive visualization system (Wikipedia ORES Explorer) to communicate model threshold trade-offs and fairness in ORES and evaluated the system by conducting 10 in-depth interviews with potential ORES application designers. We also conducted a series of workshops in two online communities - English and Dutch Wikipedia - to negotiate a spectrum of machine learning models via deliberation and pick the ones that best align with their collective values.</span></p> <p dir="ltr"><span>The project made four major contributions. First, we articulated and demonstrated the effectiveness of a general method, including processes and best practices, in uncovering trade-offs, making trade-offs interpretable, and balancing trade-offs in machine learning models and applications. Second, we created techniques for visualizing and explaining the trade-offs. Third, we created, deployed, and evaluated social and technical innovations to address fundamental trade-offs between different system criteria. Fourth, we designed and implemented improvements to ORES, which will improve a wide variety of applications that rely on ORES and Wikipedia's content and community as a whole. Improving Wikipedia will positively influence billions of people who consume the Wikipedia content either directly or indirectly through other applications such as Google.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 04/25/2023<br>      Modified by: Haiyi&nbsp;Zhu</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2000782/2000782_10640994_1682437876035_EAGER-figure2--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2000782/2000782_10640994_1682437876035_EAGER-figure2--rgov-800width.jpg" title="Wikipedia ORES Explorer Interface 1"><img src="/por/images/Reports/POR/2023/2000782/2000782_10640994_1682437876035_EAGER-figure2--rgov-66x44.jpg" alt="Wikipedia ORES Explorer Interface 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">We designed an interactive visualization system to communicate model threshold trade-offs and fairness in ORES.</div> <div class="imageCredit">Zining Ethan Ye, Xinran Yuan, Shaurya Gaur, Aaron Halfaker, Jodi Forlizzi,  Haiyi Zhu</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Haiyi&nbsp;Zhu</div> <div class="imageTitle">Wikipedia ORES Explorer Interface 1</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2000782/2000782_10640994_1682437718058_EAGER-figure1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2000782/2000782_10640994_1682437718058_EAGER-figure1--rgov-800width.jpg" title="Wikipedia Stakeholder Values"><img src="/por/images/Reports/POR/2023/2000782/2000782_10640994_1682437718058_EAGER-figure1--rgov-66x44.jpg" alt="Wikipedia Stakeholder Values"></a> <div class="imageCaptionContainer"> <div class="imageCaption">We interviewed ORES stakeholders, including editors, patrollers, tool developers, Wikimedia Foundation employees, and researchers, to systematically identify which values matter to the community.</div> <div class="imageCredit">Estelle Smith, Haiyi Zhu</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Haiyi&nbsp;Zhu</div> <div class="imageTitle">Wikipedia Stakeholder Values</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2000782/2000782_10640994_1682437985102_EAGER-figure3--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2000782/2000782_10640994_1682437985102_EAGER-figure3--rgov-800width.jpg" title="Wikipedia ORES Explorer Interface 2"><img src="/por/images/Reports/POR/2023/2000782/2000782_10640994_1682437985102_EAGER-figure3--rgov-66x44.jpg" alt="Wikipedia ORES Explorer Interface 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">We designed an interactive visualization system to communicate model threshold trade-offs and fairness in ORES.</div> <div class="imageCredit">Zining Ethan Ye, Xinran Yuan, Shaurya Gaur, Aaron Halfaker, Jodi Forlizzi,  Haiyi Zhu</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Haiyi&nbsp;Zhu</div> <div class="imageTitle">Wikipedia ORES Explorer Interface 2</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2000782/2000782_10640994_1682438082879_EAGER-figure4--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2000782/2000782_10640994_1682438082879_EAGER-figure4--rgov-800width.jpg" title="Community Workshops"><img src="/por/images/Reports/POR/2023/2000782/2000782_10640994_1682438082879_EAGER-figure4--rgov-66x44.jpg" alt="Community Workshops"></a> <div class="imageCaptionContainer"> <div class="imageCaption">We conducted a series of workshops in two online communities � English and Dutch Wikipedia � to negotiate a spectrum of machine learning models via deliberation and pick the ones that best align with their collective values.</div> <div class="imageCredit">Hong Shen, Wesley Deng, Haiyi Zhu</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Haiyi&nbsp;Zhu</div> <div class="imageTitle">Community Workshops</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Automated and artificially intelligent algorithmic systems are increasingly used to manage human activities and make important decisions. However, even sophisticated algorithms that optimize standard accuracy measures can fail to solve the problems they were designed to tackle when they are inconsistent with, or even harm, the important values and needs of the people and communities who use them. To address these problems, we propose the method of "Value-Sensitive Algorithm Design" (VSAD), which emphasizes the importance of uncovering a wide range of stakeholders' values at an early stage of the design process and incorporating and balancing those values in the creation of the algorithm. The method involves three steps: (1) understanding the values of the community stakeholders related to algorithms, (2) explaining the trade-offs between different algorithm choices to the stakeholders, and (3) enabling community members to reason about different fairness and accuracy measures, navigate trade-offs, express priorities, and negotiate with each other to find appropriate models. In this NSF project, we applied the VSAD approach to a machine learning-based quality prediction system on Wikipedia called the Objective Revision Evaluation Service (ORES). We first interviewed ORES stakeholders, including editors, patrollers, tool developers, Wikimedia Foundation employees, and researchers, to systematically identify which values matter to the community. We then designed an interactive visualization system (Wikipedia ORES Explorer) to communicate model threshold trade-offs and fairness in ORES and evaluated the system by conducting 10 in-depth interviews with potential ORES application designers. We also conducted a series of workshops in two online communities - English and Dutch Wikipedia - to negotiate a spectrum of machine learning models via deliberation and pick the ones that best align with their collective values. The project made four major contributions. First, we articulated and demonstrated the effectiveness of a general method, including processes and best practices, in uncovering trade-offs, making trade-offs interpretable, and balancing trade-offs in machine learning models and applications. Second, we created techniques for visualizing and explaining the trade-offs. Third, we created, deployed, and evaluated social and technical innovations to address fundamental trade-offs between different system criteria. Fourth, we designed and implemented improvements to ORES, which will improve a wide variety of applications that rely on ORES and Wikipedia's content and community as a whole. Improving Wikipedia will positively influence billions of people who consume the Wikipedia content either directly or indirectly through other applications such as Google.          Last Modified: 04/25/2023       Submitted by: Haiyi Zhu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

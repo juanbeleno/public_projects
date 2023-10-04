@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Supply Chain Portal to Serve Entrepreneurs Producing Critical Items in Response to COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>86177.00</AwardTotalIntnAmount>
+<AwardAmount>86177</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jemin George</SignBlockName>
+<PO_EMAI>jgeorge@nsf.gov</PO_EMAI>
+<PO_PHON>7032922251</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This COVID-19 RAPID project combines the efforts of the NSF Convergence Accelerator Business Open Knowledge Network (BOKN) and Manufacturing Open Knowledge Network (MOKN) in order to develop a knowledge resource to support the discovery of manufacturers and materials suppliers to help assemble new supply chains, particularly focusing on personal protective equipment (PPE), such as ventilators. The BOKN encodes information about businesses and their capabilities, while the MOKN encodes manufacturing information about goods. By combining information and capabilities from both networks, this integrative COVID RAPID project will develop search and matching tools that will help entrepreneurs and manufacturers to adapt swiftly to the supply chains and processes needed to produce new types of products. The key information along with analysis capabilities for performing information extraction, data cleaning, and data representation will be accessible via a web portal, initially focusing on supply chains for PPE. The resources developed can be used equally well by small businesses and entrepreneurs as well as more established organizations. &lt;br/&gt;&lt;br/&gt;The project will harness data from a diverse set of sources, including manufacturing designs open-sourced by manufacturers; component information from shipping manifests; and manufacturing capabilities of firms sourced from websites and social media pages. Services provided via the web portal will enable users to find data, determine where to source components, and/or which designs to produce from these components. The project will develop an end-to-end system for generating, representing and populating new supply chains and processes focusing, initially, on the manufacture of PPE. These objectives will be achieved by the creation of enhanced interfaces for navigating company information, including relationships to other companies and profile information about each business. Learned representations of manufacturing firms will be developed in vector space models to better capture manufacturing capabilities and to investigate fuzzy matching capabilities for materials, parts, and sub-components. The materials and parts mentioned in patent claims for PPE will be of particular interest. The project will create the relationships between bill of lading data and domestic importers, and potential suppliers of materials and parts. Users will be able to integrate offerings from multiple information sources to rapidly meet emergent production needs, beginning initially with PPE, but extendibly to other critical products. &lt;br/&gt;&lt;br/&gt;This RAPID award is made by the Convergence Accelerator program in the Office of Integrative Activities and is associated with the Convergence Accelerator Track A: Open Knowledge Network.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032040</AwardID>
+<Investigator>
+<FirstName>Shivakumar</FirstName>
+<LastName>Raman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shivakumar Raman</PI_FULL_NAME>
+<EmailAddress><![CDATA[raman@ou.edu]]></EmailAddress>
+<NSF_ID>000373838</NSF_ID>
+<StartDate>05/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Louiqa</FirstName>
+<LastName>Raschid</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Louiqa Raschid</PI_FULL_NAME>
+<EmailAddress><![CDATA[louiqa@umiacs.umd.edu]]></EmailAddress>
+<NSF_ID>000267844</NSF_ID>
+<StartDate>05/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Binil</FirstName>
+<LastName>Starly</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Binil Starly</PI_FULL_NAME>
+<EmailAddress><![CDATA[binil.starly@asu.edu]]></EmailAddress>
+<NSF_ID>000212436</NSF_ID>
+<StartDate>05/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jay</FirstName>
+<LastName>Pujara</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jay Pujara</PI_FULL_NAME>
+<EmailAddress><![CDATA[jpujara@isi.edu]]></EmailAddress>
+<NSF_ID>000776638</NSF_ID>
+<StartDate>05/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland College Park]]></Name>
+<CityName/>
+<StateCode>MD</StateCode>
+<ZipCode>207420001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>095Y</Code>
+<Text>CA-HDR: Convergence Accelerato</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~86177</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The goal of this RAPID proposal was to provide tools to entrepreneurs and manufacturers to swiftly adapt their supply chains and processes to produce new types of products, in the context of COVID19. Two teams, BOKN and M-OKN, funded under the Convergence Accelerator Track A, collaborated on this project. Our goal was to build a knowledge graph for potential entrepreneurs to search for companies, products and services specific to Ventilators and Personal Protective Equipment (PPE).&nbsp;</span></p> <p>Descriptions from approximately 5000 manufacturing companies in the US (companies provided by the MOKN team) were extracted from the LinkedIn portal. An embedding (BERT) was constructed over these descriptions and produced a 300 dimension vector. Peer competitor relationships were computed for each of the companies.</p> <p>These competitor relationships were compared with the WTNIC peer relationships generated by the BOKN project. The WTNIC peer relationships were computed from an embedding over the web content of the 5000 companies. An evaluation of the competitor relationships demonstrated that for this domain specific subset, the LinkedIn competitors were potentially more meaningful to entrepreneurs.</p> <p>The LinkedIn embedding and peer relationships were used to train a classifier to predict competitor links between the companies that were obtained from a proprietary database.&nbsp;</p> <p>PI Raschid is co-Director of the Minor in Computational Finance at the University of Maryland. Thirty five students are accepted each year into the Minor and will be completing BUFN403 Capstone Projects with Financial Datasets. Their projects will contribute to the financial and supply chain OKN that has been developed for this project.</p> <p>Four undergraduate students were trained on research and development tasks.</p><br> <p>            Last Modified: 06/30/2023<br>      Modified by: Louiqa&nbsp;Raschid</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The goal of this RAPID proposal was to provide tools to entrepreneurs and manufacturers to swiftly adapt their supply chains and processes to produce new types of products, in the context of COVID19. Two teams, BOKN and M-OKN, funded under the Convergence Accelerator Track A, collaborated on this project. Our goal was to build a knowledge graph for potential entrepreneurs to search for companies, products and services specific to Ventilators and Personal Protective Equipment (PPE).   Descriptions from approximately 5000 manufacturing companies in the US (companies provided by the MOKN team) were extracted from the LinkedIn portal. An embedding (BERT) was constructed over these descriptions and produced a 300 dimension vector. Peer competitor relationships were computed for each of the companies.  These competitor relationships were compared with the WTNIC peer relationships generated by the BOKN project. The WTNIC peer relationships were computed from an embedding over the web content of the 5000 companies. An evaluation of the competitor relationships demonstrated that for this domain specific subset, the LinkedIn competitors were potentially more meaningful to entrepreneurs.  The LinkedIn embedding and peer relationships were used to train a classifier to predict competitor links between the companies that were obtained from a proprietary database.   PI Raschid is co-Director of the Minor in Computational Finance at the University of Maryland. Thirty five students are accepted each year into the Minor and will be completing BUFN403 Capstone Projects with Financial Datasets. Their projects will contribute to the financial and supply chain OKN that has been developed for this project.  Four undergraduate students were trained on research and development tasks.       Last Modified: 06/30/2023       Submitted by: Louiqa Raschid]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

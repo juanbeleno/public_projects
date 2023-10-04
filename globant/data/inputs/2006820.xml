@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RI: SMALL: Recognizing objects in images and their properties over time]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>419453.00</AwardTotalIntnAmount>
+<AwardAmount>419453</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jie Yang</SignBlockName>
+<PO_EMAI>jyang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924768</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computer vision lives in the golden age of datasets. All aspects of human vision are systematically mapped and transcribed into an ever-larger pool of labeled data. All with one single goal: teach a vision system, nowadays a deep network, to imitate all aspects of human perception. The current recipe is simple: collect sufficient labeled data, then use supervised machine learning to mimic the supervision. There is just one issue with this approach: Systems trained this way are limited to imitate a single narrow task. In this project, we take a step towards unifying many vision tasks into one single system: A framework that infers all properties of all things through time. If successful, this system can identify objects and all their properties in any new unseen image, and bring the full power of computer vision to the non-expert. Applications include autonomous agents interacting with the world through the manipulation of objects, and assistive technologies for the elderly that observes the world through moving objects and their properties.&lt;br/&gt;&lt;br/&gt;The project will pursue three research thrusts. 1. Detecting all objects: In object detection, datasets specialize in domains. Driving datasets describe any vehicle type imaginable, indoor datasets focus on common household objects, and pedestrian datasets exclusively focus on humans. How can we train an object detection system that leverages all these sources of data? How can we relate these different data sources to each other? How do we deal with partial annotation in some data sources? 2. Inferring all properties: Object detection forms the basic building block for many aspects of visual reasoning. However, the most interesting tasks start after detection: What is the 2D or 3D pose of an object? Is this object deformable? Could it be a danger to an autonomous vehicle? Again, there are hundreds of tasks and data sources that describe all the properties of objects. How can we learn a detector that infers them all? 3. Recognition through time: Finally, detection should not be isolated in time. How do we reason about objects and properties through time? Can we learn to recognize objects in a temporally coherent manner using current image-based datasets?&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006820</AwardID>
+<Investigator>
+<FirstName>Philipp</FirstName>
+<LastName>Kraehenbuehl</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Philipp Kraehenbuehl</PI_FULL_NAME>
+<EmailAddress><![CDATA[philkr@utexas.edu]]></EmailAddress>
+<NSF_ID>000783931</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787595316</ZipCode>
+<StreetAddress><![CDATA[3925 W Braker Lane, Suite 3340]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~419453</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  Digital Advance Care Planning Platform]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project may significantly improve the quality of end-of-life care through Advanced Care Planning (ACP). It is not always possible to align patients' end-of-life wishes with the care they receive. The proposed project develops a digital platform for ACP.  This system will use a machine-learning guided dialogue to deliver personalized audiovisual content adapted to individual and cultural preferences. This system may improve palliative end-of-life care for many. &lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project addresses the technical challenge of providing a personalized platform that performs digital motivational interviewing and adapts audiovisual content and input queries to patients’ personae. A major hurdle of applying machine learning to ACP is the variability in personal and cultural factors, as well as validation of the integrity of the responses. The project centers on the collection and analysis of psychometric data from two patient surveys combined with other health information. The project objectives are: (a) Execute a benchmark training patient survey for the machine-learning algorithm for a study on the influence of gender, ethnicity, and health status on ACP; (b) Develop a reliable persona detection tool using machine learning algorithms guided by the data, avoiding the introduction of unconscious bias; (c) Demonstrate that the platform improves completion rates and patient satisfaction compared to ACP administered by human health workers and static online platforms without machine learning; and (d) Demonstrate the alignment of the digital process with patient wishes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051460</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Gabbard</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer Gabbard</PI_FULL_NAME>
+<EmailAddress><![CDATA[jgabbard@wakehealth.edu]]></EmailAddress>
+<NSF_ID>000831236</NSF_ID>
+<StartDate>08/10/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tatiana</FirstName>
+<LastName>Fofanova</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tatiana Fofanova</PI_FULL_NAME>
+<EmailAddress><![CDATA[Koda_health@outlook.com]]></EmailAddress>
+<NSF_ID>000830340</NSF_ID>
+<StartDate>08/10/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>KODA HEALTH, INC.</Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>770024411</ZipCode>
+<PhoneNumber>9367188531</PhoneNumber>
+<StreetAddress>4201 Main St Ste 200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LSWSKP6XL4M1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>KODA HEALTH, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Koda Health Inc]]></Name>
+<CityName>Houston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>770212040</ZipCode>
+<StreetAddress><![CDATA[2450 Holcombe Blvd, Ste X]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong><span style="text-decoration: underline;">Project Description:</span></strong></p> <p>The outcome of this Phase I project is a proof-of-concept digital platform for advance care planning which engages with patients using a machine learning guided dialogue. The platform delivers personalized audiovisual content adapted to individual and cultural preferences of patients, who interact with it on their own time and without fear of human judgment to ensure that the end-of-life care requests of patients are met.</p> <p>This project centered around three aims:</p> <p><strong><span style="text-decoration: underline;">Aim 1: Evaluate the feasibility and determine motivators for digital ACP.</span> </strong></p> <p>This aim was accomplished by adding initial versions of motivational interviewing questions as well as instructional videos to the Koda Health platform and testing the platform with Atrium Wake Forest Health patients.</p> <p>We wanted to understand &ldquo;What are the motivating factors for completing Advance Care Planning?&rdquo; In this project, we have achieved a comprehensive, high-quality motivational interviewing dataset for ACP that was used for our machine learning algorithm development. Using data from the EHR, health risk survey assessment questions, and tracking app usage, we have data on how gender, ethnic background, and health status affect ACP completion.</p> <p><strong><span style="text-decoration: underline;">Aim 2: Develop an algorithm that performs ACP identification.</span> </strong></p> <p>Using the dataset collected in Aim 1, the process of clustering patients into personae was automated using a machine learning algorithm to detect individual and social group personae of ACP participants. Persona clusters were identified and some of the data characteristics highlighted a clear difference between cluster populations.</p> <p>Using the results from the clustering analysis, a persona identification engine was created to see if there were predicting variables to identify if a patient was an &ldquo;Action-Taker&rdquo; or &ldquo;Non-Action Taker&rdquo;. Using the Random Forest classification model, variables with the highest importance rate were found and used to create a content personalization strategy.</p> <p><strong><span style="text-decoration: underline;">Aim 3: Evaluate user response affinity for the digital Koda platform compared to telehealth ACP conversation.</span></strong></p> <p>We created a second patient intervention pathway utilizing a telehealth ACP conversation so that we could compare completion rates and patient satisfaction to our Aim 1 (digital Koda platform) results.</p> <p>In this Aim, we evaluated if the digital ACP intervention had improved completion rates and patient satisfaction compared to ACP administered by human health workers.</p> <p>Additionally, we evaluated if the digital ACP intervention had a higher degree of honesty than ACP administered through a human healthcare worker. We found that the digital ACP intervention was easier to implement and a less labor-intensive process.</p> <p>Through this project, Koda Health has refined its patient-driven platform for shared decision making and decision capture that integrates seamlessly with the health system. We have a technology that can guide patients through a decision making process and capture their responses to generate legal documents (such as advance directives and medical powers of attorney). Patients can update and notarize their care preferences at any time, and our customers always have up-to-date information on their patients&rsquo; care requirements. This single source of truth for patients and health systems stands contrary to the current disjointed standard of care where most of the emotional, clinical, and documentative burden falls on physicians.</p><br> <p>            Last Modified: 09/19/2022<br>      Modified by: Tatiana&nbsp;Fofanova</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Project Description:  The outcome of this Phase I project is a proof-of-concept digital platform for advance care planning which engages with patients using a machine learning guided dialogue. The platform delivers personalized audiovisual content adapted to individual and cultural preferences of patients, who interact with it on their own time and without fear of human judgment to ensure that the end-of-life care requests of patients are met.  This project centered around three aims:  Aim 1: Evaluate the feasibility and determine motivators for digital ACP.   This aim was accomplished by adding initial versions of motivational interviewing questions as well as instructional videos to the Koda Health platform and testing the platform with Atrium Wake Forest Health patients.  We wanted to understand "What are the motivating factors for completing Advance Care Planning?" In this project, we have achieved a comprehensive, high-quality motivational interviewing dataset for ACP that was used for our machine learning algorithm development. Using data from the EHR, health risk survey assessment questions, and tracking app usage, we have data on how gender, ethnic background, and health status affect ACP completion.  Aim 2: Develop an algorithm that performs ACP identification.   Using the dataset collected in Aim 1, the process of clustering patients into personae was automated using a machine learning algorithm to detect individual and social group personae of ACP participants. Persona clusters were identified and some of the data characteristics highlighted a clear difference between cluster populations.  Using the results from the clustering analysis, a persona identification engine was created to see if there were predicting variables to identify if a patient was an "Action-Taker" or "Non-Action Taker". Using the Random Forest classification model, variables with the highest importance rate were found and used to create a content personalization strategy.  Aim 3: Evaluate user response affinity for the digital Koda platform compared to telehealth ACP conversation.  We created a second patient intervention pathway utilizing a telehealth ACP conversation so that we could compare completion rates and patient satisfaction to our Aim 1 (digital Koda platform) results.  In this Aim, we evaluated if the digital ACP intervention had improved completion rates and patient satisfaction compared to ACP administered by human health workers.  Additionally, we evaluated if the digital ACP intervention had a higher degree of honesty than ACP administered through a human healthcare worker. We found that the digital ACP intervention was easier to implement and a less labor-intensive process.  Through this project, Koda Health has refined its patient-driven platform for shared decision making and decision capture that integrates seamlessly with the health system. We have a technology that can guide patients through a decision making process and capture their responses to generate legal documents (such as advance directives and medical powers of attorney). Patients can update and notarize their care preferences at any time, and our customers always have up-to-date information on their patients’ care requirements. This single source of truth for patients and health systems stands contrary to the current disjointed standard of care where most of the emotional, clinical, and documentative burden falls on physicians.       Last Modified: 09/19/2022       Submitted by: Tatiana Fofanova]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

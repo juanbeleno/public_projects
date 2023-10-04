@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Empowering Distance Learning for CS/CE Students with Real-time, Personalized Feedback through Anti-Pattern Detection and Correction (COVID-19)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>251747.00</AwardTotalIntnAmount>
+<AwardAmount>251747</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diane Hickey</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to address the increasing demand placed on educators in computer science (CS) and computer engineering (CE) through an automated feedback mechanism. Courses in CS and CE are growing rapidly. This project will develop a platform providing automated feedback by leveraging machine learning. This will allow courses to scale without compromising quality. In particular, this project would lead to the development of a system that provides real-time, personalized feedback to students. This system may also help attract and retain under-represented populations within CS and CE. This product will greatly enhance the scientific and technical understanding of computing for all students.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will create a novel intelligent tutoring system to provide real-time, personalized feedback to CS and CE students. In particular, this project will develop a deep learning architecture that detects errors in student code and clusters them into anti-patterns according to semantic and behavioral similarity. The proposed research will design and tune the deep learning architecture to reach sufficient accuracy and precision. To realize this goal, several technical hurdles must be overcome, including abstract syntax tree analysis and downstream localization. The ultimate task is to find patches through edit-paths from incorrect code to correct code and report these repairs in a human-readable way. This project will advance a comprehensive learning management system that emphasizes student learning and performance. In particular, the platform will allow for students to submit course material and rapidly receive personalized feedback.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/19/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>09/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034274</AwardID>
+<Investigator>
+<FirstName>Elaine</FirstName>
+<LastName>So</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elaine So</PI_FULL_NAME>
+<EmailAddress><![CDATA[elaine.so@ag350project.com]]></EmailAddress>
+<NSF_ID>000828177</NSF_ID>
+<StartDate>02/19/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>AG350, INC.</Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085407011</ZipCode>
+<PhoneNumber>2034442783</PhoneNumber>
+<StreetAddress>109 DELAMERE DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CCHQAUBVS335</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AG 350 INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[AG350, INC.]]></Name>
+<CityName>Princeton</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085406502</ZipCode>
+<StreetAddress><![CDATA[112 Lakeside Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1707</Code>
+<Text>ADVANCED LEARNING TECHNOLOGIES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~251747</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-099a51b8-7fff-b600-e3a7-3d3a5a8985fb"> </span></p> <p dir="ltr"><span>This SBIR project focused on the research and development of a novel artificial intelligence model to interpret, analyze, and provide feedback on student-written code in the context of computer science and computer engineering courses at the university level. This model is dubbed "FAST-NN."</span></p> <p dir="ltr"><span>In terms of intellectual merit, this SBIR project involved the development of a mathematical model to automatically capture a deep understanding of student-written code without requiring humans to manually read or interpret it. This "semantic" model is little-explored in the existing literature and presents a complex and interesting technical problem. While there has been some work in this area, the research and development conducted for this project pushed the boundary of automatic software analysis. Therefore, this project not only formed the basis of a valuable product, but also meaningfully contributed to the field.</span></p> <p dir="ltr"><span>Writ large, computer science and computer engineering regularly feature as some of the most, if not the most, popular courses of study, both at the undergraduate and graduate level. However, universities are not well-equipped to handle such a large, sustained growth in the number of students interested in these subjects. Also, providing consistent, high-quality feedback on code is a difficult task, which requires not only specialist knowledge, but a taxing attention to detail that is usually not well-suited to rapid human review. Therefore, it is imperative to develop automated tools that can bridge the gap between manual instructor review and simple "correctness" testing of code. The FAST-NN model developed from this SBIR project provides a framework for delivering systematic review of code that is not only personalized to each student, but can also be deployed rapidly; students can get feedback in literally minutes or even seconds without needing to interact with a human instructor. Moreover, manual review tends to be inconsistent and privileges certain students who may already have rapport with instructional staff&nbsp; or form an ingroup in the discipline. Providing personalized, consistent, automated feedback ensures that everyone receives proper instruction?especially underrepresented and marginalized students.</span></p> <p dir="ltr"><span><br /></span></p> <p dir="ltr"><span>This project resulted in the publication of software and will also likely lead to downstream publications, e.g. whitepapers or conference posters.</span></p><br> <p>            Last Modified: 06/05/2022<br>      Modified by: Elaine&nbsp;So</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   This SBIR project focused on the research and development of a novel artificial intelligence model to interpret, analyze, and provide feedback on student-written code in the context of computer science and computer engineering courses at the university level. This model is dubbed "FAST-NN." In terms of intellectual merit, this SBIR project involved the development of a mathematical model to automatically capture a deep understanding of student-written code without requiring humans to manually read or interpret it. This "semantic" model is little-explored in the existing literature and presents a complex and interesting technical problem. While there has been some work in this area, the research and development conducted for this project pushed the boundary of automatic software analysis. Therefore, this project not only formed the basis of a valuable product, but also meaningfully contributed to the field. Writ large, computer science and computer engineering regularly feature as some of the most, if not the most, popular courses of study, both at the undergraduate and graduate level. However, universities are not well-equipped to handle such a large, sustained growth in the number of students interested in these subjects. Also, providing consistent, high-quality feedback on code is a difficult task, which requires not only specialist knowledge, but a taxing attention to detail that is usually not well-suited to rapid human review. Therefore, it is imperative to develop automated tools that can bridge the gap between manual instructor review and simple "correctness" testing of code. The FAST-NN model developed from this SBIR project provides a framework for delivering systematic review of code that is not only personalized to each student, but can also be deployed rapidly; students can get feedback in literally minutes or even seconds without needing to interact with a human instructor. Moreover, manual review tends to be inconsistent and privileges certain students who may already have rapport with instructional staff  or form an ingroup in the discipline. Providing personalized, consistent, automated feedback ensures that everyone receives proper instruction?especially underrepresented and marginalized students.   This project resulted in the publication of software and will also likely lead to downstream publications, e.g. whitepapers or conference posters.       Last Modified: 06/05/2022       Submitted by: Elaine So]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

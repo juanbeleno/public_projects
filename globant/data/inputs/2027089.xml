@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Election Result Anomaly Detection for 2020]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>199827.00</AwardTotalIntnAmount>
+<AwardAmount>199827</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeremy Epstein</SignBlockName>
+<PO_EMAI>jepstein@nsf.gov</PO_EMAI>
+<PO_PHON>7032928338</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In our era, with money and ideas traveling quickly over the internet, the old saw that “all politics is local” may be less true than it used to be. But the administration of elections in the United States remains doggedly local. As a result, election results are published by state and local agencies in idiosyncratic formats. Any study of election results at a national level, or even across several states, requires painstaking assembly of disparate formats. This project builds a system to efficiently assemble election result data sets from several states into a single format.  In addition, the project implements a variety of algorithms for fast, broad detection and visualization of anomalies in election results. The system will quickly flag significant anomalies in preliminary election result data from the general election in November 2020. This analysis will be made available publicly and to candidates, parties and election administrators. Candidates, parties and election administrators have the detailed local knowledge required to assess whether any particular anomaly in their district has a legitimate explanation or whether further investigation is appropriate.&lt;br/&gt;&lt;br/&gt;In the best of times, conducting a trustworthy election poses many logistical challenges. In 2020, in addition to recent changes in election technology and widely acknowledged threats of cyberattack, there is the unprecedented complication of a raging pandemic in a Presidential election year. The project will provide a significant tool in the election verification toolbox by helping to identify anomalies well before election results are finally certified. Candidates and other interested parties will be able to use this analysis to inform timely decisions about whether to challenge or demand investigations into election results – before the determination of winners is set in stone.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027089</AwardID>
+<Investigator>
+<FirstName>Stephanie</FirstName>
+<LastName>Singer</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephanie F Singer</PI_FULL_NAME>
+<EmailAddress><![CDATA[stephanie@osetinstitute.org]]></EmailAddress>
+<NSF_ID>000801941</NSF_ID>
+<StartDate>05/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Portland State University</Name>
+<CityName>PORTLAND</CityName>
+<ZipCode>972015522</ZipCode>
+<PhoneNumber>5037259900</PhoneNumber>
+<StreetAddress>1600 SW 4TH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H4CAHK2RD945</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PORTLAND STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4CAHK2RD945</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Portland State University]]></Name>
+<CityName/>
+<StateCode>OR</StateCode>
+<ZipCode>972070751</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>064Z</Code>
+<Text>Voting/election security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199827</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Results of intellectual merit include: development and documentation of software for election result consolidation, analysis and visualization; catalog of election-related information necessary to consolidate 2020 US federal election results for all voting jurisdictions;&nbsp;collection of federal election county-level results from primary sources for all 56 US jurisdictions for the 2020 General Election, broken out by voting method (e.g., election-day vs. by-mail ballots) for jurisdictions providing that breakdown; collection of other US election results from primary and secondary sources; nationwide anomaly analysis of 2020 US General Election results.</p> <p>The work done under this award has had a broad impact. The public web application presenting anomaly visualizations and analysis for the 2020 US General Election was available immediately, with county-level data posted within a day or two of publication by election agencies, and official final data posted within a few months, for all 56 US jurisdictions (states, territories and the District of Columbia). There have been over 10,000 downloads of data files generated by this project. In addition,&nbsp;analysis of data revealed an error in election results published by the North Carolina State Board of Election. This error was reported to that Board. The PI gave public talks on the project, including at the DefCon Voting Village and the Oregon Museum of Science and Industry.</p> <p>Publications include an article in the Journal of Open Source Software, an open source repository of the software, and datasets for the 2020 US General Election in a variety of formats. The work was presented at a variety of venues, including as a keynote at the Joint Mathematics Meetings in January 2021.</p> <p>The software developed here makes the creation of a public, national, timely, comprehensive, cost-effective archive of US election results an achievable goal.</p> <p>&nbsp;</p><br> <p>            Last Modified: 06/01/2022<br>      Modified by: Stephanie&nbsp;F&nbsp;Singer</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2027089/2027089_10668414_1647373547566_Newby_vs_Forest_abscopy--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2027089/2027089_10668414_1647373547566_Newby_vs_Forest_abscopy--rgov-800width.jpg" title="Anomaly due to data error in North Carolina results"><img src="/por/images/Reports/POR/2022/2027089/2027089_10668414_1647373547566_Newby_vs_Forest_abscopy--rgov-66x44.jpg" alt="Anomaly due to data error in North Carolina results"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The data error that caused this anomaly did not affect the final total counts. By-mail and early in-person counts for Newby were switched after the Supreme Court Chief Justice recount.</div> <div class="imageCredit">Stephanie Singer/Vote Visualizer</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Stephanie&nbsp;F&nbsp;Singer</div> <div class="imageTitle">Anomaly due to data error in North Carolina results</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2027089/2027089_10668414_1647373930769_TX_2020_Biden_vs_StateSenDem--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2027089/2027089_10668414_1647373930769_TX_2020_Biden_vs_StateSenDem--rgov-800width.jpg" title="Biden vs. State Senate scatter plot, Texas 2020 General"><img src="/por/images/Reports/POR/2022/2027089/2027089_10668414_1647373930769_TX_2020_Biden_vs_StateSenDem--rgov-66x44.jpg" alt="Biden vs. State Senate scatter plot, Texas 2020 General"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Scatter plot showing anomalous underperformance of Democratic state senate candidate(s) in Tarrant and Travis Counties, relative to Biden performance.</div> <div class="imageCredit">Stephanie Singer/Vote Visualizer</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Stephanie&nbsp;F&nbsp;Singer</div> <div class="imageTitle">Biden vs. State Senate scatter plot, Texas 2020 General</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2027089/2027089_10668414_1647374186721_Bladen_visualized--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2027089/2027089_10668414_1647374186721_Bladen_visualized--rgov-800width.jpg" title="Bar chart of 2018 NC Congressional contest showing anomaly in Bladen County"><img src="/por/images/Reports/POR/2022/2027089/2027089_10668414_1647374186721_Bladen_visualized--rgov-66x44.jpg" alt="Bar chart of 2018 NC Congressional contest showing anomaly in Bladen County"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Investigation showed that the anomalous counts on absentee ballots in Bladen County in the 9th Congressional District in the 2018 General Election in North Carolina were due to malfeasance. The VoteVisualizer identified this anomaly algorithmically.</div> <div class="imageCredit">Stephanie Singer/Vote Visualizer</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Stephanie&nbsp;F&nbsp;Singer</div> <div class="imageTitle">Bar chart of 2018 NC Congressional contest showing anomaly in Bladen County</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Results of intellectual merit include: development and documentation of software for election result consolidation, analysis and visualization; catalog of election-related information necessary to consolidate 2020 US federal election results for all voting jurisdictions; collection of federal election county-level results from primary sources for all 56 US jurisdictions for the 2020 General Election, broken out by voting method (e.g., election-day vs. by-mail ballots) for jurisdictions providing that breakdown; collection of other US election results from primary and secondary sources; nationwide anomaly analysis of 2020 US General Election results.  The work done under this award has had a broad impact. The public web application presenting anomaly visualizations and analysis for the 2020 US General Election was available immediately, with county-level data posted within a day or two of publication by election agencies, and official final data posted within a few months, for all 56 US jurisdictions (states, territories and the District of Columbia). There have been over 10,000 downloads of data files generated by this project. In addition, analysis of data revealed an error in election results published by the North Carolina State Board of Election. This error was reported to that Board. The PI gave public talks on the project, including at the DefCon Voting Village and the Oregon Museum of Science and Industry.  Publications include an article in the Journal of Open Source Software, an open source repository of the software, and datasets for the 2020 US General Election in a variety of formats. The work was presented at a variety of venues, including as a keynote at the Joint Mathematics Meetings in January 2021.  The software developed here makes the creation of a public, national, timely, comprehensive, cost-effective archive of US election results an achievable goal.          Last Modified: 06/01/2022       Submitted by: Stephanie F Singer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

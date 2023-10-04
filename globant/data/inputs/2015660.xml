@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Unraveling posture control in severe cerebral palsy.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/12/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>186276.00</AwardTotalIntnAmount>
+<AwardAmount>186276</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeanne Small</SignBlockName>
+<PO_EMAI>jsmall@nsf.gov</PO_EMAI>
+<PO_PHON>7032928623</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The vast majority of research in cerebral palsy (CP) involves children who have the ability to stand and walk. In contrast, children with severe CP, who do not have the ability to walk, are typically excluded from activity-based research or are studied in very simplistic or nonobjective ways. This project will focus on understanding the complex task of trunk posture control in children with severe CP. Trunk posture control underlies nearly all motor activities, including speech, eating, and socialization. This project uses control systems engineering in an innovative way to determine which neural processes are intact, delayed, or absent in individual children with severe CP. Furthermore, while posture models exist for adults who have the ability to stand, no model exists for individuals who lack independent sitting or for children with CP. The researchers will develop and validate models that quantify specific neural systems in posture control. These models help identify underlying mechanisms used by children with CP when attempting to control their balance. The development, refinement, and testing of models will be a major advance in clinical engineering, in that the quantification of model parameters, e.g., joint stiffness and neural time delay, will have immediate and fundamental implications on clinical practice. Educational activities associated with this project will engage students with and without CP who are in high school, undergraduate, and graduate school. In addition to learning about posture control, students will learn about modeling and control systems. Finally, students will be engaged in creating and testing a unique dissemination tool, "sim CP."  In "sim CP," typically developing children and adults can attempt to control their posture while constrained by the computer simulation to adjust to CP-like challenges on motor outcomes. Together, this research project will catalyze the field by combining engineering, parametric modeling, and clinical pediatrics to investigate posture control in children with severe CP with the added impact of mentoring students and creating novel dissemination tools.&lt;br/&gt;&lt;br/&gt;Due to the inherent complexity of closed loop posture control, it is difficult to identify neural processes underlying healthy posture sway. This difficulty is exacerbated in children with severe CP who lack independent sitting, and who may also have abnormal tone or lack of verbal communication. This project overcomes these barriers by leveraging controls engineering to probe the posture system of children with moderate-to-severe CP. The Research Plan is organized under three objectives.  The first objective is to characterize the posture system and potential for learning by collecting a rich experimental data set of posture behavior. Participants sit on an articulating bench with an adjustable trunk system that moves synchronously with surface tilts with high resolution and accuracy.  The support stabilizes specific segments of the trunk in vertical upright alignment while requiring static, active and reactive posture control above the supported segments.  Posture responses will be evoked with custom external stimuli: sine waves, pseudorandom waveforms, and a novel sitting sway-referenced condition to examine motor learning.  Data will be collected with two different levels of trunk support:  the lowest level where trunk control is present and one level lower where control is challenged.  The second objective is to develop experimentally-valid parametric models of the posture system that explain sway data across frequencies from approximately 0.04 to 1.5 Hz.  The posture model will identify underlying systems and control mechanisms, such as neural time delays, sensorimotor noise, sensory-to-motor transformations, joint stiffness and damping, and adaptation of control parameters. Different model assumptions (based on existing motor control research) will be tested.  The third objective is to compare results in 15 children, ages 6 to 17 years old with moderate to severe CP (Gross Motor Function Classification Scale levels IV &amp; V), to age-matched controls using the same experimental and modeling techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015660</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Goodworth</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adam Goodworth</PI_FULL_NAME>
+<EmailAddress><![CDATA[agoodworth@westmont.edu]]></EmailAddress>
+<NSF_ID>000761172</NSF_ID>
+<StartDate>01/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Westmont College</Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931081023</ZipCode>
+<PhoneNumber>8055656218</PhoneNumber>
+<StreetAddress>955 LA PAZ RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PNPHKL6T2TW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WESTMONT COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Westmont College]]></Name>
+<CityName>Santa Barbara</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931081023</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5342</Code>
+<Text>Disability &amp; Rehab Engineering</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~186276</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>For children with moderate-to-severe cerebral palsy (CP), very few treatment options exist to improve their head and trunk control against gravity. In this project, we took a novel approach to study which postural control mechanisms are delayed, impaired, or intact in children with moderate-to-severe CP by integrating engineering with clinical science.&nbsp; Results from our project should lead to better interventions.&nbsp; Using a motorized tilting bench and 3D kinematic markers, we found that most children with moderate-to-severe CP exhibited a simple control system compared to those with mature trunk control. CP was associated with a large contribution from passive stiffness and reflexive feedback; whereas people with mature trunk control used much more sensory feedback to stabilize their trunk. We also found that children with moderate-to-severe CP used more energy to sit and had much more sensory noise (inability to interpret sensory feedback) and/or motor noise (variability in their muscle activations).&nbsp; Longitudinally, we found minimal changes in reactive balance control during the tilting bench experiments across a 3-9 month period. However, we found a wider range of longitudinal outcomes during quiet sitting (stationary bench) across subjects. In general, metrics from detailed laboratory measures were similar to metrics from clinical scores and most children where able to improve their head control.</p> <p>To further examine motor learning, we developed a novel sitting sway referencing paradigm where we could manipulate a seat tilt angle in real-time based on how a person moved his or her body and we could provide biofeedback to support training and assessments.&nbsp; We also explored the benefits of an intervention that provided external trunk support to individuals.&nbsp; We developed an adjustable trunk support system for water training and for the classroom, with applicability to adults.&nbsp; Our results show this support system spontaneously improves function in everyday activities; but results from our reactive balance tests (motorized tilting bench) suggest this support system may not improve all the impairments present in sensorimotor feedback control.&nbsp; Our project also included a characterization of movement patterns using wearable sensors for children with severe balance impairments, which could lead to more tailored assessments suitable for this population.&nbsp; Finally, we created and piloted a biofeedback-based video game system where children can control a character or object on a screen by moving his or her head and trunk, providing a more fun way to practice controlled movements against gravity.</p> <p>In the process of completing this project, we trained over 30 students in control systems and clinical research.&nbsp; We published 4 peer-reviewed journal articles and presented at over 20 conferences, public seminars, and training venues.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/08/2023<br>      Modified by: Adam&nbsp;Goodworth</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2015660/2015660_10555610_1691512400478_Image1final--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2015660/2015660_10555610_1691512400478_Image1final--rgov-800width.jpg" title="Schematic of feedback control in moderate-to-severe cerebral palsy"><img src="/por/images/Reports/POR/2023/2015660/2015660_10555610_1691512400478_Image1final--rgov-66x44.jpg" alt="Schematic of feedback control in moderate-to-severe cerebral palsy"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Feedback control of sensory, passive, and reflexive mechanisms in sitting balance. Model parameters are determined from experimental data and used to better understand which aspects of neural control and absent, diminished, or present.</div> <div class="imageCredit">Goodworth A.D. & Saavedra S. (2021). Postural mechanisms in moderate-to-severe cerebral palsy, Journal of Neurophysiology, 125(5):1698-1719. doi: 10.1152/jn.00549.2020.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Adam&nbsp;Goodworth</div> <div class="imageTitle">Schematic of feedback control in moderate-to-severe cerebral palsy</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2015660/2015660_10555610_1691512812853_Image3final--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2015660/2015660_10555610_1691512812853_Image3final--rgov-800width.jpg" title="Inertial sensors and pattern recognition to quantify trunk posture"><img src="/por/images/Reports/POR/2023/2015660/2015660_10555610_1691512812853_Image3final--rgov-66x44.jpg" alt="Inertial sensors and pattern recognition to quantify trunk posture"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Current assessments of posture are not well suited for children with moderate-to-severe disabilities who cannot sit independently. We developed a wireless sensor based system to identify various states of trunk posture, transitions from state to state, and how trunk support impacts these transitions</div> <div class="imageCredit">Mellodge P, Saavedra S, Tran Poit L, Pratt K.A., Goodworth A.D. (2023). Quantifying states and transitions of emerging postural control for children not yet able to sit independently. Sensors (MDPI), 23(6):3309.doi: 10.3390/s23063309.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Adam&nbsp;Goodworth</div> <div class="imageTitle">Inertial sensors and pattern recognition to quantify trunk posture</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2015660/2015660_10555610_1691513087724_Image2final--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2015660/2015660_10555610_1691513087724_Image2final--rgov-800width.jpg" title="Sitting sway referencing with biofeedback"><img src="/por/images/Reports/POR/2023/2015660/2015660_10555610_1691513087724_Image2final--rgov-66x44.jpg" alt="Sitting sway referencing with biofeedback"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Experimental design to assess motor learning and visual biofeedback in a challenging trunk posture test. The bench can tilt in response to trunk sway in real time to challenge trunk postural control in a specified manner while biofeedback can be delivered in different ways.</div> <div class="imageCredit">Goodworth A.D., Kratzer A, Saavedra S (2020) Influence of visual biofeedback and inherent stability on trunk posture control. Gait & Posture: 80, 308-314.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Adam&nbsp;Goodworth</div> <div class="imageTitle">Sitting sway referencing with biofeedback</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ For children with moderate-to-severe cerebral palsy (CP), very few treatment options exist to improve their head and trunk control against gravity. In this project, we took a novel approach to study which postural control mechanisms are delayed, impaired, or intact in children with moderate-to-severe CP by integrating engineering with clinical science.  Results from our project should lead to better interventions.  Using a motorized tilting bench and 3D kinematic markers, we found that most children with moderate-to-severe CP exhibited a simple control system compared to those with mature trunk control. CP was associated with a large contribution from passive stiffness and reflexive feedback; whereas people with mature trunk control used much more sensory feedback to stabilize their trunk. We also found that children with moderate-to-severe CP used more energy to sit and had much more sensory noise (inability to interpret sensory feedback) and/or motor noise (variability in their muscle activations).  Longitudinally, we found minimal changes in reactive balance control during the tilting bench experiments across a 3-9 month period. However, we found a wider range of longitudinal outcomes during quiet sitting (stationary bench) across subjects. In general, metrics from detailed laboratory measures were similar to metrics from clinical scores and most children where able to improve their head control.  To further examine motor learning, we developed a novel sitting sway referencing paradigm where we could manipulate a seat tilt angle in real-time based on how a person moved his or her body and we could provide biofeedback to support training and assessments.  We also explored the benefits of an intervention that provided external trunk support to individuals.  We developed an adjustable trunk support system for water training and for the classroom, with applicability to adults.  Our results show this support system spontaneously improves function in everyday activities; but results from our reactive balance tests (motorized tilting bench) suggest this support system may not improve all the impairments present in sensorimotor feedback control.  Our project also included a characterization of movement patterns using wearable sensors for children with severe balance impairments, which could lead to more tailored assessments suitable for this population.  Finally, we created and piloted a biofeedback-based video game system where children can control a character or object on a screen by moving his or her head and trunk, providing a more fun way to practice controlled movements against gravity.  In the process of completing this project, we trained over 30 students in control systems and clinical research.  We published 4 peer-reviewed journal articles and presented at over 20 conferences, public seminars, and training venues.          Last Modified: 08/08/2023       Submitted by: Adam Goodworth]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

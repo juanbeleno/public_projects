@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: RI: Learning a Timely Semantic Resource from Social Media Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>53010.00</AwardTotalIntnAmount>
+<AwardAmount>61009</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tatiana Korelsky</SignBlockName>
+<PO_EMAI>tkorelsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032928729</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[One key challenge in text mining and natural language processing research is that a single meaning can be expressed in many different ways, i.e., paraphrases. There has been steady progress towards large paraphrase resources, and a significant increase in its applications: from information retrieval, information extraction, and natural language generation to IBM's Watson, Google's Knowledge Graph, and many more. This research aims to create better paraphrase acquisition techniques and larger scale semantic resources, which could be of great use in various natural language processing tasks and social media data analytics in social science, national security, and other related fields. One example of potential applications is text simplification, which automatically rephrases complex texts into simpler language for children or people with reading disabilities.&lt;br/&gt;&lt;br/&gt;The technical innovation of this study focuses on joint modeling of word- and phrase-level alignments between sentence pairs to address the challenges of extracting semantic knowledge from informal data sources (such as social media), which exist in very large quantities rather than just formal sources, such as newswire as per previous work. The model design extends multiple instance learning via two methods, a graphical model and neural network, and can flexibly permit the exploration of different assumptions and models the importance of words or phrases. The modeling advancements can be generalized to other natural language understanding tasks, which require analyzing sentences based on word-level composition or word meaning in a given context, and natural language generation tasks that benefit from learning what words and phrases to remove or rephrase.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2038457</AwardID>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Xu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wei Xu</PI_FULL_NAME>
+<EmailAddress><![CDATA[wei.xu@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000726735</NSF_ID>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName/>
+<StateCode>GA</StateCode>
+<ZipCode>303320420</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~53009</FUND_OBLG>
+<FUND_OBLG>2020~8000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-5ef5e532-7fff-fb17-2884-06293b393c3a">&nbsp;</span>1. New monolingual word alignment model and datasets</p> <p>We designed a new state-of-the-art neural model for monolingual word alignment, which can find corresponding words/phrases between a pair of sentences. We demonstrated that it can help with paraphrase identification and generation tasks. We also fixed the annotation error problem in the existing dataset and extended it to multiple text domains, which help improve the performance and allow further research in this area.</p> <p>2. Collecting a large-scale sentential paraphrase corpus<br /><br />We developed a human annotation interface for determining the semantic similarity between two sentences, which is important for paraphrase extraction. We created one of the largest paraphrase corpora to date from Twitter and news headlines. This enables better natural language understanding of social media data and overcomes the limitation of previous work on the well-edited text.</p> <p>3. Systematic comparison of varied model designs for sentence pair classification <br /><br />We analyzed several neural network designs (and their variations) for sentence pair modeling and compare their performance extensively across eight datasets, including paraphrase identification, semantic textual similarity, natural language inference, and question answering tasks. Although most of these models have claimed state-of-the-art performance, the original papers often reported on only one or two selected datasets. We provide a more systematic study. The work won the best reproduction paper award at COLING 2018 conference.</p> <p>4. Broader impact<br /><br />Beyond the technical goals of the project, contributions include (1) organizing an annual workshop of over 100 participants on NLP research for social media and other user-generated data; (2) teaching a newly designed course on Social Media and Text Analysis to undergraduate students and a short tutorial version to high school students; (3) giving 10 invited talks at U.S. universities and tech companies; (4) training of 6 graduate students and 8 undergraduate students for conducting research. Software and datasets have been released for reproducing the experiment results and for use by other researchers.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/09/2021<br>      Modified by: Wei&nbsp;Xu</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  1. New monolingual word alignment model and datasets  We designed a new state-of-the-art neural model for monolingual word alignment, which can find corresponding words/phrases between a pair of sentences. We demonstrated that it can help with paraphrase identification and generation tasks. We also fixed the annotation error problem in the existing dataset and extended it to multiple text domains, which help improve the performance and allow further research in this area.  2. Collecting a large-scale sentential paraphrase corpus  We developed a human annotation interface for determining the semantic similarity between two sentences, which is important for paraphrase extraction. We created one of the largest paraphrase corpora to date from Twitter and news headlines. This enables better natural language understanding of social media data and overcomes the limitation of previous work on the well-edited text.  3. Systematic comparison of varied model designs for sentence pair classification   We analyzed several neural network designs (and their variations) for sentence pair modeling and compare their performance extensively across eight datasets, including paraphrase identification, semantic textual similarity, natural language inference, and question answering tasks. Although most of these models have claimed state-of-the-art performance, the original papers often reported on only one or two selected datasets. We provide a more systematic study. The work won the best reproduction paper award at COLING 2018 conference.  4. Broader impact  Beyond the technical goals of the project, contributions include (1) organizing an annual workshop of over 100 participants on NLP research for social media and other user-generated data; (2) teaching a newly designed course on Social Media and Text Analysis to undergraduate students and a short tutorial version to high school students; (3) giving 10 invited talks at U.S. universities and tech companies; (4) training of 6 graduate students and 8 undergraduate students for conducting research. Software and datasets have been released for reproducing the experiment results and for use by other researchers.             Last Modified: 09/09/2021       Submitted by: Wei Xu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

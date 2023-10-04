@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Formal Verification of Performance Properties for Distributed Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>561391.00</AwardTotalIntnAmount>
+<AwardAmount>443580</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexander Jones</SignBlockName>
+<PO_EMAI>alejones@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[n our daily lives we increasingly depend on computers: from our emails and our work meetings, to social media and interacting with our friends and family. The computer systems that provide us these services are not only vast in size, but also complex and subtle. A single component being slower than expected can drive the entire system into unpredictable and catastrophic behaviors that result into the entire system being unavailable for long periods of time, disrupting all services—human and automated—that depend on it. For the longest time, the research community has been trying to understand the performance of these complex systems in a best-effort way: deploying the system and observing its behavior in a number of test scenarios. The complexity of these systems, however, makes it impossible to thoroughly test everything that can go wrong. Inevitably some corner case emerges which drives our deployed system to its knees and we discover—too late—that our testing was not thorough enough. This proposal puts forward a rigorous way of reasoning about the performance of our systems: leveraging the recent advances in formal reasoning to allow programmers to systematically develop rigorous guarantees about the duration and speed of the system’s executions.&lt;br/&gt;&lt;br/&gt;This proposal aims to solidify the foundation on which our future systems will be built. It uses formal reasoning to provide guarantees—not expectations—about how our systems will behave in practice. For the end users this means that the computer services they use every day will be more cost-effective and more reliable. Achieving these benefits, however, requires more than research. The proposal puts forth an educational plan for bringing verification closer to practicality by introducing it to current and future engineers by means of a new class on verification, an ongoing verification summer school, and a book on how to apply formal verification to real-world systems. Together, the research and educational objectives of this proposal aim to make formal reasoning an integral part of computing. If the everyday user is to put their trust in our computer systems, those systems need to be more than just tested; they must be provably correct.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/18/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>09/01/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2045541</AwardID>
+<Investigator>
+<FirstName>Manos</FirstName>
+<LastName>Kapritsos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Manos Kapritsos</PI_FULL_NAME>
+<EmailAddress><![CDATA[manosk@umich.edu]]></EmailAddress>
+<NSF_ID>000754069</NSF_ID>
+<StartDate>02/18/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Regents of the University of Michigan - Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481092121</ZipCode>
+<StreetAddress><![CDATA[2260 Hayward]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~218921</FUND_OBLG>
+<FUND_OBLG>2023~224659</FUND_OBLG>
+</Award>
+</rootTag>

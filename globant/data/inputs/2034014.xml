@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Using patient specific DNA methylation to predict COVID-19 clinical prognosis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255959.00</AwardTotalIntnAmount>
+<AwardAmount>255959</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+<PO_EMAI>hahn@nsf.gov</PO_EMAI>
+<PO_PHON>7032927069</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the development of an onsite, clinical test to screen incoming patients potentially infected with COVID-19 and prioritize hospital resources and personnel based on a predicted infection severity and treatment response. The benefits of a test that can predict COVID-19 infection severity are enormous. In addition to the millions of infections and hundreds of thousands of dealths, it costs hospitals an average of roughly $2,500 per day per patient for inpatient care. This project will develop a test for COVID-19 screening to accurately identify patients at risk. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project is establishing the use of DNA methylation patterns for personalized screening and treatment for COVID-19. The variation in symptoms and outcomes for COVID-19 progression make it challenging for healthcare workers to triage accurately.  The development of a DNA methylation-based test to predict the severity of COVID-19 infection will help manage the pandemic. This project will: 1) generate a comprehensive dataset of white blood cell DNA methylation patterns, health history, and clinical data for patients infected with COVID-19; 2) generate a predictive model for COVID-19 infection severity and treatment response. The anticipated technical results of this project are a testing method and a computer algorithm for predicting infection severity and treatment response based on a patient’s unique DNA methylation pattern.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034014</AwardID>
+<Investigator>
+<FirstName>Kristin</FirstName>
+<LastName>Brogaard</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kristin R Brogaard</PI_FULL_NAME>
+<EmailAddress><![CDATA[kristin@inherentbio.com]]></EmailAddress>
+<NSF_ID>000803653</NSF_ID>
+<StartDate>08/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>INHERENT BIOSCIENCES, INC.</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841011184</ZipCode>
+<PhoneNumber>7608158706</PhoneNumber>
+<StreetAddress>26 N RIO GRANDE ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 2072]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>X9LJM6ADLJV7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>INHERENT BIOSCIENCES INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YV2MFAJ296K3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Inherent Biosciences]]></Name>
+<CityName>Salt Lake City</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841091649</ZipCode>
+<StreetAddress><![CDATA[2725 Parleys Way, #100]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~255959</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-de46da22-7fff-cae4-b449-4ce91c7ebb89"> <p dir="ltr"><strong>Overview</strong><span>:</span></p> <p dir="ltr"><span>Through the Phase 1 SBIR funding Inherent Biosciences developed a new bioinformatics pipeline to analyze gene dysregulation in complex diseases. This technology development enables a new category of diagnostics and therapeutics that leverage epigenetics, biology&rsquo;s inherent mechanism for gene regulation, to radically transform the diagnosis and treatment of complex diseases. Infertility is an example of complex disease and 1 in 8 couples suffer from infertility. With this novel pipeline and analysis of over 1500 semen samples Inherent Biosciences has established </span><span>an epigenetic (DNA Methylation) biomarker that is predictive of sperm quality with an 84% positive predictive value of predicting the need for IVF.&nbsp;</span></p> <span>Currently, the standard semen evaluation is the primary tool for the assessment of male fertility potential. However, the semen analysis only provides a very superficial analysis of a man&rsquo;s fertility potential.&nbsp; Reproductive Urologists and Endocrinologists need new and more powerful tools to better assess sperm quality.&nbsp; The commercialization of the biomarker will disrupt the current standard of care and will support more personalized and effective treatment plans for couples.</span><span><br /></span></span></p> <p><span id="docs-internal-guid-c6c7e962-7fff-fbed-da88-b0f2b93365e9"> <p dir="ltr"><strong>Study Details:</strong><span><br /></span><span><br /></span><span>This SBIR Phase I project was originally established with the goal of using DNA methylation for more personalized screening and treatment for COVID-19. The purpose of such a screen would be to predict the severity of a COVID-19 infection, better triage infected patients, and ultimately allocate public health resources to people and communities that are at highest risk for hospitalization. Independent of our data,</span><span> in late spring and early summer of 2021 it became evident that the window of opportunity was closing for a test that predicts COVID-19 severity in uninfected or infected cohorts, primarily due to the rapid development and mass distribution of the COVID-19 vaccines. The market for a new test to better triage patients and define communities at risk was diminishing. For this reason we were given the opportunity to pivot our SBIR Phase I grant.</span></p> <p dir="ltr"><span>The objectives for the remaining Phase I SBIR funds were focused on both overcoming technological limitations and validating clinical claims for commercialization of an infertility diagnostic.</span></p> <p style="padding-left: 30px;" dir="ltr"><strong>Objective 1:&nbsp; </strong><span>&nbsp;</span><span>Develop a novel bioinformatics DNA Methylation pipeline using microarray technology that is independent of microarray batch effect&nbsp;&nbsp;</span></p> <p style="padding-left: 30px;" dir="ltr"><strong>Objective 2: </strong><span>Transition male infertility DNA methylation analysis away from microarray and to a targeted next generation sequencing platform</span></p> <p style="padding-left: 30px;" dir="ltr"><strong>Objective 3: </strong><span>Validate clinical claims on an expanded set of sperm samples with high quality outcomes data</span></p> <p dir="ltr"><strong>Objective Outcomes and Ongoing Research:</strong></p> <p dir="ltr"><span>For Objective 1 Inherent Biosciences created a novel informatics pipeline to examine multi-pathway dysregulation in sperm cells on microarray technology. This pipeline accurately identifies a subset of men that need medical intervention to achieve pregnancy and is independent of microarray batch effect which previously inhibited commercialization. &nbsp; Objective 2 confirmed the correlations of an NGS platform and the microarray data and research is ongoing to apply NGS technology to the male infertility biomarker. Through objective 3 Inherent Bioscience&rsquo;s microarray pipeline was validated on more than 1500 semen samples which led to the commercialization of a novel epigenetic sperm quality test for male infertility with a 6-fold improvement in diagnostic yield.&nbsp; Continued research in the form of Phase II is necessary to expand the clinical claims of the epigenetic sperm quality test as well as complete the transition to a more scalable NGS-based platform. </span></p> <div><span><br /></span></div> </span></p> <p>&nbsp;</p><br> <p>            Last Modified: 12/03/2021<br>      Modified by: Kristin&nbsp;R&nbsp;Brogaard</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Overview: Through the Phase 1 SBIR funding Inherent Biosciences developed a new bioinformatics pipeline to analyze gene dysregulation in complex diseases. This technology development enables a new category of diagnostics and therapeutics that leverage epigenetics, biology’s inherent mechanism for gene regulation, to radically transform the diagnosis and treatment of complex diseases. Infertility is an example of complex disease and 1 in 8 couples suffer from infertility. With this novel pipeline and analysis of over 1500 semen samples Inherent Biosciences has established an epigenetic (DNA Methylation) biomarker that is predictive of sperm quality with an 84% positive predictive value of predicting the need for IVF.  Currently, the standard semen evaluation is the primary tool for the assessment of male fertility potential. However, the semen analysis only provides a very superficial analysis of a man’s fertility potential.  Reproductive Urologists and Endocrinologists need new and more powerful tools to better assess sperm quality.  The commercialization of the biomarker will disrupt the current standard of care and will support more personalized and effective treatment plans for couples.    Study Details:  This SBIR Phase I project was originally established with the goal of using DNA methylation for more personalized screening and treatment for COVID-19. The purpose of such a screen would be to predict the severity of a COVID-19 infection, better triage infected patients, and ultimately allocate public health resources to people and communities that are at highest risk for hospitalization. Independent of our data, in late spring and early summer of 2021 it became evident that the window of opportunity was closing for a test that predicts COVID-19 severity in uninfected or infected cohorts, primarily due to the rapid development and mass distribution of the COVID-19 vaccines. The market for a new test to better triage patients and define communities at risk was diminishing. For this reason we were given the opportunity to pivot our SBIR Phase I grant. The objectives for the remaining Phase I SBIR funds were focused on both overcoming technological limitations and validating clinical claims for commercialization of an infertility diagnostic. Objective 1:   Develop a novel bioinformatics DNA Methylation pipeline using microarray technology that is independent of microarray batch effect   Objective 2: Transition male infertility DNA methylation analysis away from microarray and to a targeted next generation sequencing platform Objective 3: Validate clinical claims on an expanded set of sperm samples with high quality outcomes data Objective Outcomes and Ongoing Research: For Objective 1 Inherent Biosciences created a novel informatics pipeline to examine multi-pathway dysregulation in sperm cells on microarray technology. This pipeline accurately identifies a subset of men that need medical intervention to achieve pregnancy and is independent of microarray batch effect which previously inhibited commercialization.   Objective 2 confirmed the correlations of an NGS platform and the microarray data and research is ongoing to apply NGS technology to the male infertility biomarker. Through objective 3 Inherent Bioscience’s microarray pipeline was validated on more than 1500 semen samples which led to the commercialization of a novel epigenetic sperm quality test for male infertility with a 6-fold improvement in diagnostic yield.  Continued research in the form of Phase II is necessary to expand the clinical claims of the epigenetic sperm quality test as well as complete the transition to a more scalable NGS-based platform.              Last Modified: 12/03/2021       Submitted by: Kristin R Brogaard]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CSR: Small: Distributed Shared Persistent Memory]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/13/2019</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>162104.00</AwardTotalIntnAmount>
+<AwardAmount>162104</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexander Jones</SignBlockName>
+<PO_EMAI>alejones@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project has the potential to revolutionize datacenter systems by developing the first type of system that integrates traditional datacenter memory and storage systems in one layer. The proposed software platform can potentially be used to develop various course and research projects. The investigator will publicly release the developed software to enable a rich set of datacenter applications and to foster more cross-layer research activities.&lt;br/&gt;&lt;br/&gt;Next-generation non-volatile memories (NVMs) provide byte addressability, persistence, and low-latency performance. They are poised to radically alter the landscape of memory and storage technologies and have already inspired a host of research projects. Most previous research on NVMs has focused on using them in a single machine. It is unclear how to best utilize NVMs in distributed, datacenter environments. This project takes a significant step towards the goal of using NVMs in distributed datacenter environments by developing Distributed Shared Persistent Memory (DSPM), a framework that uses a pool of machines with NVMs to form a global, shared, and persistent memory space. Applications can perform traditional memory load and store instructions to access both local and remote data in this global memory space and can at the same time make their data persistent and reliable. Unlike traditional two-layer approaches with a memory and a storage layer, DSPM has just one layer that serves both as distributed memory and as distributed storage. Anticipated deliverables include a new kernel-based, software DSPM system and a set of datacenter applications ported to DSPM.]]></AbstractNarration>
+<MinAmdLetterDate>01/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016262</AwardID>
+<Investigator>
+<FirstName>Yiying</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yiying Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yiying@ucsd.edu]]></EmailAddress>
+<NSF_ID>000705250</NSF_ID>
+<StartDate>01/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>9500 GILMAN DRIVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>La Jolla</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930621</ZipCode>
+<StreetAddress><![CDATA[9500 Gilman Drive 0934]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~162104</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Persistent memory is a type of hardware that has DRAM-like performance and storage-like capacity and non-volatility. The goal of this project is to explore different design options to support a distributed set of persistent memory that can be shared by multiple applications and multiple servers.</p> <p>We first&nbsp;built Hotpot [<em>SoCC'17, NVMW'18</em>], an open-source kernel-level distributed shared persistent memory system that provides low latency, transparent memory accesses, data persistence, data reliability, and high availability. Hotpot includes a basic data store system that splits a global persistent memory space into fix-sized chunks, each of which has a home node and possibly other nodes that access it. It also includes two transaction systems, one suppoting single writer and multiple readers and one supporting multiple writers and multiple readers. Finally, Hotpot supports replication and a set of recovery mechanisms.</p> <p>Hotpot is the <em>first</em> system that supports distributed and shared accesses to persistent memory. As such, it allows applications to access large amounts of persistent memory and demonstrates one way to build large-scale persistent memory systems. However, it leaves several other key problems unsolved. First, Hotpot requires each server in a cluster to host both application computation and persistent memory, which means that to deploy persistent memory to an existing data center, we need to find free DDR slots in existing servers or purchase new servers just to host persistent memory. Second, Hotpot employs a coherence protocol that has non-trivial performance cost and demands additional network bandwdith consumption for the coherent traffic.</p> <p>To solve the above problems, we proposed a new architecture to easily deploy persistent memory to existing data cetners and to efficiently use it [<em>USENIX&nbsp;ATC'20]</em>. Specifically, our proposal is to attach persistent memory directly to the netowrk as standalone devices with no local processing power. Applications run on separate servers (which we call compute nodes) and store data in the remote persistent memory devices. We call this model "passive resource disaggregation". This model has several key benefits to deploying persistent memory. Since no processing power is needed at the persistent-memory devices, the cost of building them is low. Since they are directly attached to the network, deploying persistent memory does not require any changes to existing data-center infrastructures. Furthermore, we lift the coherence-management tasks to the application level. Doing so avoid the high performance overhead caused by automatically provided coherence.</p> <p>With the passive resource disaggregation model, we built three types of persistent-memory systems. The first system manages and processes data both at the compute nodes, which then access data in persistent-memory devices over the network. The second system&nbsp;manages and processes data at a centralized global server, which sits between compute nodes and persistent-memory devices. The third system separates the data plane and the control plane, with the former running at compute nodes and the latter running at a global metadata server. Our finding is that the third type has the best overall performance and scalability, and it largely outperforms Hotpot, with low energy cost.</p> <p>After building the above distributed persistent-memory systems, we shifted our focus to study potential ways to connect persisten-memory devices to other computing resources. Specifically, we closely inspected four types of high-speed coherent interconnect standards that were proposed by the industry:&nbsp;CXL (Compute Express Link), CCIX (Cache Coherent Interconnect for Accelerators), OpenCAPI (Open Coherent Accelerator Processor Interface), and GenZ.&nbsp;We studied the protocols of these standards, their use cases, performance implications, scalability, reliability, and their pros and cons.&nbsp;Our finding is that GenZ is the most scalable one and has the richest feature support, while CXL is more suitable for a single-server scale that has a CPU-centric view.</p> <p>Overall, our above efforts of building distributed persistent-memory systems have laid the foundation of deploying persistent memory in large scale. We have discovered key challenges in building performant, low-cost persistent memory systems, potential pitfalls, and solutions to these challenges. Our works have attracted attention from both academia and industry. With our solutions, applications that require large amounts of data such as machine learning, data analytics, and graph processing could now host such data in a performant and low-cost way that goes far beyond what today's memory-based systems could offer.</p><br> <p>            Last Modified: 02/23/2022<br>      Modified by: Yiying&nbsp;Zhang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Persistent memory is a type of hardware that has DRAM-like performance and storage-like capacity and non-volatility. The goal of this project is to explore different design options to support a distributed set of persistent memory that can be shared by multiple applications and multiple servers.  We first built Hotpot [SoCC'17, NVMW'18], an open-source kernel-level distributed shared persistent memory system that provides low latency, transparent memory accesses, data persistence, data reliability, and high availability. Hotpot includes a basic data store system that splits a global persistent memory space into fix-sized chunks, each of which has a home node and possibly other nodes that access it. It also includes two transaction systems, one suppoting single writer and multiple readers and one supporting multiple writers and multiple readers. Finally, Hotpot supports replication and a set of recovery mechanisms.  Hotpot is the first system that supports distributed and shared accesses to persistent memory. As such, it allows applications to access large amounts of persistent memory and demonstrates one way to build large-scale persistent memory systems. However, it leaves several other key problems unsolved. First, Hotpot requires each server in a cluster to host both application computation and persistent memory, which means that to deploy persistent memory to an existing data center, we need to find free DDR slots in existing servers or purchase new servers just to host persistent memory. Second, Hotpot employs a coherence protocol that has non-trivial performance cost and demands additional network bandwdith consumption for the coherent traffic.  To solve the above problems, we proposed a new architecture to easily deploy persistent memory to existing data cetners and to efficiently use it [USENIX ATC'20]. Specifically, our proposal is to attach persistent memory directly to the netowrk as standalone devices with no local processing power. Applications run on separate servers (which we call compute nodes) and store data in the remote persistent memory devices. We call this model "passive resource disaggregation". This model has several key benefits to deploying persistent memory. Since no processing power is needed at the persistent-memory devices, the cost of building them is low. Since they are directly attached to the network, deploying persistent memory does not require any changes to existing data-center infrastructures. Furthermore, we lift the coherence-management tasks to the application level. Doing so avoid the high performance overhead caused by automatically provided coherence.  With the passive resource disaggregation model, we built three types of persistent-memory systems. The first system manages and processes data both at the compute nodes, which then access data in persistent-memory devices over the network. The second system manages and processes data at a centralized global server, which sits between compute nodes and persistent-memory devices. The third system separates the data plane and the control plane, with the former running at compute nodes and the latter running at a global metadata server. Our finding is that the third type has the best overall performance and scalability, and it largely outperforms Hotpot, with low energy cost.  After building the above distributed persistent-memory systems, we shifted our focus to study potential ways to connect persisten-memory devices to other computing resources. Specifically, we closely inspected four types of high-speed coherent interconnect standards that were proposed by the industry: CXL (Compute Express Link), CCIX (Cache Coherent Interconnect for Accelerators), OpenCAPI (Open Coherent Accelerator Processor Interface), and GenZ. We studied the protocols of these standards, their use cases, performance implications, scalability, reliability, and their pros and cons. Our finding is that GenZ is the most scalable one and has the richest feature support, while CXL is more suitable for a single-server scale that has a CPU-centric view.  Overall, our above efforts of building distributed persistent-memory systems have laid the foundation of deploying persistent memory in large scale. We have discovered key challenges in building performant, low-cost persistent memory systems, potential pitfalls, and solutions to these challenges. Our works have attracted attention from both academia and industry. With our solutions, applications that require large amounts of data such as machine learning, data analytics, and graph processing could now host such data in a performant and low-cost way that goes far beyond what today's memory-based systems could offer.       Last Modified: 02/23/2022       Submitted by: Yiying Zhang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

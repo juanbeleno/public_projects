@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Artificial intelligence-based image processing to automate fashion e-commerce]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of software tools to automate several essential tasks for internet-based commerce (e-commerce). E-commerce is a rapidly growing market segment, predicted to reach $6.5 trillion in sales by 2023. Consequent to such rapid growth are the resultant challenges in product discovery. Rich product attributes/product tagging makes products easily discoverable. However, populating product attributes/tags is a time-consuming, mostly manual task. By leveraging artificial intelligence (AI)-based image processing, these tasks may be automated, saving time, effort, and expense for e-commerce stores. In addition, accurate tags may be used to generate several useful functionalities to improve user experience as well as increase sales and revenue for e-commerce stores. AI-based automation tools may provide e-commerce store owners with access to advanced technologies and empower small and mid-sized businesses to stay viable in the highly competitive fashion e-commerce market segment.&lt;br/&gt; &lt;br/&gt;This I-Corps project is based on the development of image processing technology that uses machine learning and artificial intelligence (AI) to accurately recognize multiple (50+) attributes associated with an image. These attributes are used to automatically and accurately tag products in the store at a fraction of a cost and time compared to manual tagging. Accurate tagging of products results in making products easily discoverable online. The AI-algorithm generated tags also are used to provide several additional functionalities such as complete-the-look and product bundling. Such functionalities significantly improve the user experience for shoppers and lead to increased sales and revenue for store owners. The proposed technology also includes resource optimization to make AI-powered processing commercially viable. Such resource optimization ensures that advanced AI-based technologies are available for dynamic environments such as fashion e-commerce at reasonable costs. In addition, the process flow between the AI-algorithm, machine learning-based decision tree, and the output ensures that the results are displayed at the storefront almost instantaneously.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040558</AwardID>
+<Investigator>
+<FirstName>Deanna</FirstName>
+<LastName>Meador</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deanna Meador</PI_FULL_NAME>
+<EmailAddress><![CDATA[Deanna.N.Meador@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000743897</NSF_ID>
+<StartDate>08/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372032416</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>110 21ST AVE S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GTNBNWXJ12D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VANDERBILT UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>Nashville</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372032417</ZipCode>
+<StreetAddress><![CDATA[Baker Building, Suite 800]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The NSF I-Corps project &lsquo;Artificial intelligence-based image processing to automate fashion e-commerce&rsquo; explored the development and application of novel artificial intelligence-based workflows to identify and label attributes of e-commerce products for automation of several essential tasks for e-commerce stores. Based on 250 potential customer interviews, the team developed several tools to assist with tasks such as product labeling, product pairing, product categorization, image description generation, alt text generation, and search engine optimization. These tools are available to 500,000+ stores on Shopify and WooCommerce platforms. Additionally, these tools are available for customized integration to e-commerce support businesses such as e-commerce agencies. These tools offer a wide range of benefits to multiple segments, such as website owners, end users (online shoppers), and the general public, as outlined below:</p> <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; These tools allow automation of tasks that cost website owners upwards of $200,000 and weeks of work every fashion season. With the use of tools developed under this project, these critical tasks can be automated and completed in a fraction of the cost and time. Development and availability of such tools can significantly impact the US small business segment by providing them access to AI-based user-friendly tools to efficiently manage tasks at a fraction of the cost and time than otherwise needed.</p> <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Several tools developed for this project benefit end users (online shoppers) by offering novel digital functionalities such as an easy search for products, intelligent product pairing, accurate product descriptions, and better user experience. These factors thus further support the digital economy.</p> <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Americans with Disabilities Act (ADA) compliance of websites is a pervasive issue. To make websites accessible to people with disabilities, it is essential to have alt tags for images, appropriate use of image descriptions and keywords, and proper categorization of products. Tools developed here allow automation of several of these tasks, thus assisting with ADA compliance of websites.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 02/13/2023<br>      Modified by: Deanna&nbsp;Meador</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The NSF I-Corps project ‘Artificial intelligence-based image processing to automate fashion e-commerce’ explored the development and application of novel artificial intelligence-based workflows to identify and label attributes of e-commerce products for automation of several essential tasks for e-commerce stores. Based on 250 potential customer interviews, the team developed several tools to assist with tasks such as product labeling, product pairing, product categorization, image description generation, alt text generation, and search engine optimization. These tools are available to 500,000+ stores on Shopify and WooCommerce platforms. Additionally, these tools are available for customized integration to e-commerce support businesses such as e-commerce agencies. These tools offer a wide range of benefits to multiple segments, such as website owners, end users (online shoppers), and the general public, as outlined below:  1.            These tools allow automation of tasks that cost website owners upwards of $200,000 and weeks of work every fashion season. With the use of tools developed under this project, these critical tasks can be automated and completed in a fraction of the cost and time. Development and availability of such tools can significantly impact the US small business segment by providing them access to AI-based user-friendly tools to efficiently manage tasks at a fraction of the cost and time than otherwise needed.  2.            Several tools developed for this project benefit end users (online shoppers) by offering novel digital functionalities such as an easy search for products, intelligent product pairing, accurate product descriptions, and better user experience. These factors thus further support the digital economy.  3.            The Americans with Disabilities Act (ADA) compliance of websites is a pervasive issue. To make websites accessible to people with disabilities, it is essential to have alt tags for images, appropriate use of image descriptions and keywords, and proper categorization of products. Tools developed here allow automation of several of these tasks, thus assisting with ADA compliance of websites.           Last Modified: 02/13/2023       Submitted by: Deanna Meador]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

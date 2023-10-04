@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: CCF: Optimizing Resource Allocation to Combat Pandemics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+<PO_EMAI>pregalia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922981</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Network mobility models are important in the analysis of the COVID-19 pandemic, and are especially useful for optimizing allocation of resources to combat the spread of infections. The recent pandemic highlights this, as well as the need for methods to determine timely decisions for strategic interventions that reduce the impact of the pandemic on populations. Use of  network traffic models account for flow of the disease via carriers from the initial source of the pandemic and between centers of infections, and addresses the long-distance spread of the disease. Non-medical solutions that immediately attempt to reduce the spread of pandemic include intra-city restrictions and inter-city strategies that involve suppression of population transfer. Critical actions include decisions on the level of suppression, the routes over which suppression has to be applied, and the time at which it has to be applied. Reducing the mitigation or suppression must critically account for the re-occurrence of the disease. The level of  suppression has economic  consequences with  immediate and potential long term impacts on employment and economic growth, and can run counter to maintaining essential services such as food distribution, medical facilities, and first responders. This project will develop novel techniques to analyze pandemic models and design new optimization algorithms that  provide decision strategies, accounting for costs, including the economic costs of suppression. This research has time urgency as there is a need for strategic analysis in the current pandemic and the project will utilize timely insights from the data available. Additionally, the insights will assist in determining decision strategies for future occurrences.&lt;br/&gt;&lt;br/&gt;This RAPID project will identify and refine network models of pandemic spread using a hierarchical model that incorporates the traffic network between major cities and countries at the first level. The subsequent levels will utilize local traffic networks and mobility patterns in centers of large populations. The models will include (i) subdivision of  populations into classes that represent the  current state of the pandemic, examples being population sets that are susceptible, infected, suppressed and recovered, all parameterized by time, (ii) multiple source and destination network flow models of infection flow, and (iii) geographic models of infection spread in local population clusters. This project will apply optimization techniques and network analysis to analyze the models and design algorithms for determining decision strategies. Evolution of the population sets, as modeled by differential equations solved using numerical  methods and discrete analogs, will be investigated. Methods to determine parameters that regulate the transfer rates between populations will be designed. The model will be used to define mathematical programs in order to optimize decision parameters that include the level of suppression and the time at which to relax suppression. Network flow techniques will be used  to minimize the flow of infection with multiple key objectives, especially to minimize the peak levels of the spread.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028274</AwardID>
+<Investigator>
+<FirstName>Sanjiv</FirstName>
+<LastName>Kapoor</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sanjiv Kapoor</PI_FULL_NAME>
+<EmailAddress><![CDATA[kapoor@iit.edu]]></EmailAddress>
+<NSF_ID>000305831</NSF_ID>
+<StartDate>04/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Illinois Institute of Technology</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606163717</ZipCode>
+<PhoneNumber>3125673035</PhoneNumber>
+<StreetAddress>10 W 35TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NDENMDUEG8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ILLINOIS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NDENMDUEG8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Illinois Institute of Technology]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606163717</ZipCode>
+<StreetAddress><![CDATA[236 SB, 10W31st Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1">The project addressed models and methods to further understand&nbsp; disease transmission of the COVID-19 virus that has had an enormous impact on the world's health and socioeconomic system.</p> <p class="p1">The methods developed illustrate increased accuracy in epidemiological modeling using a dynamic transmission parameter in the standard compartment model and accounted for changes in transmission due to&nbsp; restrictive interaction policies.&nbsp; Accuracy of the results was experimentally verified by fitting the parameterized model for over 100 US counties. This model was applied in multiple contexts. Also addressed is the methodology of planning for removing non-pharmaceutical intervention policies by illustrating the impact of hidden parameters that include size of current infectious population and the extent of current and additional susceptible population, all of which can be obtained from&nbsp; model parameters. This provides an alternative to strategies that consider only decreasing rates of reported infections when establishing policies and timelines for elimination of restrictive guidelines.</p> <p class="p1">Pandemic measures had dramatic impact on education. Even with vaccination efforts underway in 2021, school re-openings were still hampered by frequent outbreaks. The project considered&nbsp; the impact of testing rates in addition to vaccination rates in order to reduce infections and hospitalizations and evaluated strategies that allow educational institute in urban settings to remain open. These strategies are also applicable to big campus style businesses and would help planning to keep the businesses open and help the economy.&nbsp;A graph model where nodes represent population groups and edges represent population exchanges due to commuting populations was used. The progression of the disease at each node was determined via compartment models, that include vaccination rates and testing to place infected people in quarantine along with consideration of asymptomatic and symptomatic populations. Applying this to a university population in Chicago with a substantial commuter population, chosen to be 80% of the school?s population as an illustration, provides an analysis which specifies benefits of testing and vaccination strategies that are substantial.</p> <p class="p1">Further incorporated into the models was the impact of vaccination rates and their efficacy in the context of the Omicron variant and used&nbsp; to establish projections on the growth of Sars-Cov2 infections in dense and mostly homogenous populations (using India as an example). The growth rate of the Omicron virus was deduced from data that originated from South Africa in November 2021.&nbsp; Projections from these models were supplied to and considered by a nodal and pivotal government organization that developed&nbsp; national public health policies. The pandemic had a subdued impact in India during the period from July 2021 onwards as&nbsp;measured by the number of deaths reported by the government.&nbsp;&nbsp;Results from the model were&nbsp; found to be useful in providing predictive and data based analytic input to inform early warning approaches in the context of policy based interventions to control the pandemic.</p> <p class="p1">The project also addressed game-theoretic aspects of population behavior, addressing<span>&nbsp; </span>budgeted adversarial resource utilization game, where restrictive<span>&nbsp; </span>policy implementation is to be policed against misuse of<span>&nbsp; </span>resources while the adversarial role is to avoid NPI policies. Also considered is a game-theoretic&nbsp; analysis of individual's choices from amongst&nbsp;multiple NPI policies recommendations in place. The strategic behavior of each individual in the<span>&nbsp; </span>population, typically based on maximizing individual benefits, leads to players choosing least restrictive policies with maximum payoff modulated by increasing risks as more players adopt looser guidelines. Analysis of the Nash equilibrium and the inefficiency induced by selfish behavior resulted in a relative price (of anarchy) which is<span>&nbsp; </span>exponentially related to R0 the reproduction number.</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/01/2023<br>      Modified by: Sanjiv&nbsp;Kapoor</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2028274/2028274_10664828_1677645959840_ScreenShot2023-02-28at10.32.16PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2028274/2028274_10664828_1677645959840_ScreenShot2023-02-28at10.32.16PM--rgov-800width.jpg" title="Model Variants"><img src="/por/images/Reports/POR/2023/2028274/2028274_10664828_1677645959840_ScreenShot2023-02-28at10.32.16PM--rgov-66x44.jpg" alt="Model Variants"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Model Including Vaccination and Virus Variants</div> <div class="imageCredit">Yi Zhang and Sanjiv Kapoor</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sanjiv&nbsp;Kapoor</div> <div class="imageTitle">Model Variants</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2028274/2028274_10664828_1677646533630_ScreenShot2023-02-28at10.33.55PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2028274/2028274_10664828_1677646533630_ScreenShot2023-02-28at10.33.55PM--rgov-800width.jpg" title="Omicron projections"><img src="/por/images/Reports/POR/2023/2028274/2028274_10664828_1677646533630_ScreenShot2023-02-28at10.33.55PM--rgov-66x44.jpg" alt="Omicron projections"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Projections with vaccination efficacy 50% and 75% against Omicron</div> <div class="imageCredit">Sanjiv Kapoor and Yi Zhang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sanjiv&nbsp;Kapoor</div> <div class="imageTitle">Omicron projections</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2028274/2028274_10664828_1677646894089_ScreenShot2023-02-28at10.59.42PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2028274/2028274_10664828_1677646894089_ScreenShot2023-02-28at10.59.42PM--rgov-800width.jpg" title="Improvement with Testing"><img src="/por/images/Reports/POR/2023/2028274/2028274_10664828_1677646894089_ScreenShot2023-02-28at10.59.42PM--rgov-66x44.jpg" alt="Improvement with Testing"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Reduction in infections and hospitalization with increased testing rates.</div> <div class="imageCredit">Yi Zhang and Sanjiv Kapoor</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sanjiv&nbsp;Kapoor</div> <div class="imageTitle">Improvement with Testing</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[The project addressed models and methods to further understand  disease transmission of the COVID-19 virus that has had an enormous impact on the world's health and socioeconomic system. The methods developed illustrate increased accuracy in epidemiological modeling using a dynamic transmission parameter in the standard compartment model and accounted for changes in transmission due to  restrictive interaction policies.  Accuracy of the results was experimentally verified by fitting the parameterized model for over 100 US counties. This model was applied in multiple contexts. Also addressed is the methodology of planning for removing non-pharmaceutical intervention policies by illustrating the impact of hidden parameters that include size of current infectious population and the extent of current and additional susceptible population, all of which can be obtained from  model parameters. This provides an alternative to strategies that consider only decreasing rates of reported infections when establishing policies and timelines for elimination of restrictive guidelines. Pandemic measures had dramatic impact on education. Even with vaccination efforts underway in 2021, school re-openings were still hampered by frequent outbreaks. The project considered  the impact of testing rates in addition to vaccination rates in order to reduce infections and hospitalizations and evaluated strategies that allow educational institute in urban settings to remain open. These strategies are also applicable to big campus style businesses and would help planning to keep the businesses open and help the economy. A graph model where nodes represent population groups and edges represent population exchanges due to commuting populations was used. The progression of the disease at each node was determined via compartment models, that include vaccination rates and testing to place infected people in quarantine along with consideration of asymptomatic and symptomatic populations. Applying this to a university population in Chicago with a substantial commuter population, chosen to be 80% of the school?s population as an illustration, provides an analysis which specifies benefits of testing and vaccination strategies that are substantial. Further incorporated into the models was the impact of vaccination rates and their efficacy in the context of the Omicron variant and used  to establish projections on the growth of Sars-Cov2 infections in dense and mostly homogenous populations (using India as an example). The growth rate of the Omicron virus was deduced from data that originated from South Africa in November 2021.  Projections from these models were supplied to and considered by a nodal and pivotal government organization that developed  national public health policies. The pandemic had a subdued impact in India during the period from July 2021 onwards as measured by the number of deaths reported by the government.  Results from the model were  found to be useful in providing predictive and data based analytic input to inform early warning approaches in the context of policy based interventions to control the pandemic. The project also addressed game-theoretic aspects of population behavior, addressing  budgeted adversarial resource utilization game, where restrictive  policy implementation is to be policed against misuse of  resources while the adversarial role is to avoid NPI policies. Also considered is a game-theoretic  analysis of individual's choices from amongst multiple NPI policies recommendations in place. The strategic behavior of each individual in the  population, typically based on maximizing individual benefits, leads to players choosing least restrictive policies with maximum payoff modulated by increasing risks as more players adopt looser guidelines. Analysis of the Nash equilibrium and the inefficiency induced by selfish behavior resulted in a relative price (of anarchy) which is  exponentially related to R0 the reproduction number.          Last Modified: 03/01/2023       Submitted by: Sanjiv Kapoor]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

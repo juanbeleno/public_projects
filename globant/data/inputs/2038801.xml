@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CPS: Medium: Collaborative Research: Scalable Intelligent Backscatter-Based RF Sensor Network for Self-Diagnosis of Structures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>799863.00</AwardTotalIntnAmount>
+<AwardAmount>819363</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siqian Shen</SignBlockName>
+<PO_EMAI>siqshen@nsf.gov</PO_EMAI>
+<PO_PHON>7032927048</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Cyber-Physical Systems (CPS) grant will advance structural health monitoring of concrete structures by relying on data acquired by a novel sensing technology with unprecedented scalability and spatial resolution. Modern society depends critically on sound and steadfast functioning of a variety of engineering structures and infrastructures, such as bridges, buildings, pipelines, geotechnical structures, aircrafts, wind turbines, and industrial facilities. Due to aging, massive urbanization, and climate change, there is a growing need for accurate and reliable assessment of the health condition, performance, and operation of these structures in order to ensure their continuous functioning and safe use. The researched technology enables pervasive and scalable sensing of concrete structures with high resolution by transforming concrete into a smart self-sensing material, thereby enabling reliable long-term structural health monitoring. This in turn contributes to the nation’s sustainability and resilience and to advancing the nation’s prosperity, welfare, and security. The project advances multiple core research areas in structural health monitoring including CPS system architectures using embedded devices, multi-parameter sensing and networking based on radio frequency sensors, and machine learning for accurate and reliable data analytics. The research outcomes are highly translational to various other CPS domains. The project also contributes to secondary education and outreach activities in multiple ways as well as to undergraduate and graduate education. &lt;br/&gt;&lt;br/&gt;The aim of this project is to create a novel sensing system comprised of radio frequency sensors that are pervasively embedded in large volumes of concrete structures and that sense their localities using radio frequency properties. The objective is the assessment of key parameters that reflect the behavior of the monitored structure under operational conditions, such as deformation, temperature, and humidity, as well as detection and characterization of damages. The project has the following intellectual contributions: 1) Passive radio frequency-based sensing that operates over a wide range of frequencies; architectures of smart exciters and networked radio frequency sensors that communicate among themselves via backscatter modulation; solar-powered radio frequency exciter platform that powers the sensors. 2) Energy-based sensing and network optimization of the radio frequency sensor network in terms of its monitoring ability and network connectivity given the constraints on the available harvested power at the exciters. 3) Machine learning methods for function estimation based on the principle of ensemble modeling with Gaussian processes and applied to self-localization and to inference of three-dimensional distributions of material parameters within large volumes of concrete structures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/27/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2038801</AwardID>
+<Investigator>
+<FirstName>Samir</FirstName>
+<LastName>Das</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Samir R Das</PI_FULL_NAME>
+<EmailAddress><![CDATA[samir@cs.stonybrook.edu]]></EmailAddress>
+<NSF_ID>000260220</NSF_ID>
+<StartDate>08/27/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Emre</FirstName>
+<LastName>Salman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Emre Salman</PI_FULL_NAME>
+<EmailAddress><![CDATA[emre.salman@stonybrook.edu]]></EmailAddress>
+<NSF_ID>000584372</NSF_ID>
+<StartDate>08/27/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Petar</FirstName>
+<LastName>Djuric</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Petar M Djuric</PI_FULL_NAME>
+<EmailAddress><![CDATA[petar.djuric@stonybrook.edu]]></EmailAddress>
+<NSF_ID>000110452</NSF_ID>
+<StartDate>08/27/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Milutin</FirstName>
+<LastName>Stanacevic</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Milutin Stanacevic</PI_FULL_NAME>
+<EmailAddress><![CDATA[milutin.stanacevic@stonybrook.edu]]></EmailAddress>
+<NSF_ID>000233468</NSF_ID>
+<StartDate>08/27/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>STONY BROOK</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>W5510 FRANKS MELVILLE MEMORIAL L</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M746VC6XMNH9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>117940001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CPS-Cyber-Physical Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>152E</Code>
+<Text>Cyber-Physical Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~300000</FUND_OBLG>
+<FUND_OBLG>2022~499863</FUND_OBLG>
+<FUND_OBLG>2023~19500</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  Room Temperature Implementation of Quantum Algorithms using Spintronics Technology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>276000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Technology Transfer (STTR) Phase I project will be to enable cheaper, faster, and more energy-efficient semiconductor chips dedicated to solving challenges with many possible outcomes and inherent uncertainty. Such problems are encountered in decision-making, risk management, chip design, drug design, business analytics, machine learning, computing failure rates of manufactured products, pricing complex financial derivatives, resource allocation in 5G networks and financial portfolios. Current methods for addressing these problems are intensive, time-consuming, and expensive. The proposed chips would quantify the uncertainty and find suitable solutions to many real-world challenges with faster, cheaper, and more energy-efficient methods.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project focuses on advancing probabilistic computers for probabilistic computing. Decision-making, econometrics, risk management, chip design, and drug development are not deterministic. By leveraging the natural stochasticity of specific devices, it is possible to dramatically reduce the number of devices otherwise used for the same computational tasks. The proposed computational architecture and pipelining enables improved computational speed, power consumption, and chip manufacturing costs. The goals of this project are two-fold. The first is to deliver 10-1000x improvement in computation speed compared to CPUs and GPUs using the emulation of probabilistic computers on Field Programmable Gate Arrays. The same task will make projections about the performance of the actual probabilistic computer. The second is to quantify how well the probabilistic computer can accommodate semiconductor manufacturing process variations. Controlling such variations is a significant factor in semiconductor manufacturing costs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/11/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035962</AwardID>
+<Investigator>
+<FirstName>Behtash</FirstName>
+<LastName>Behin-Aein</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Behtash Behin-Aein</PI_FULL_NAME>
+<EmailAddress><![CDATA[behtash@ludwigcomputing.com]]></EmailAddress>
+<NSF_ID>000821999</NSF_ID>
+<StartDate>06/11/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Supriyo</FirstName>
+<LastName>Datta</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Supriyo Datta</PI_FULL_NAME>
+<EmailAddress><![CDATA[datta@purdue.edu]]></EmailAddress>
+<NSF_ID>000315642</NSF_ID>
+<StartDate>06/11/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>QCML LABS, LLC</Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479062423</ZipCode>
+<PhoneNumber>7655865936</PhoneNumber>
+<StreetAddress>108 SPINNING WHEEL CT</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JTXPRXUYLMR7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>QCML LABS LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479072040</ZipCode>
+<StreetAddress><![CDATA[610 Purdue Mall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<FUND_OBLG>2022~20000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The conventional general-purpose computing processors are not geared towards efficient execution of modern algorithms that exploit randomness for data processing and decision making. This creates two bottlenecks: (1) Real-time execution of a host of probabilistic and machine learning algorithms becomes infeasible, especially at the edge. (2) The execution of probabilistic algorithms comes at a great cost to Space, Weight, and Power (SWaP) within resource constrained environments.&nbsp; Quantum computing may help with these challenges, but it is still in the early stages of development and, once developed, may not be deployable for edge computing. Probabilistic computing was first motivated in Richard Feynman?s seminal paper from 1982 where he states that similarly how a quantum computer should be used to address quantum problems; a probabilistic computer should be used to address probabilistic problems.</p> <p>During this project, we have shown that a probabilistic computer can address a large variety of tasks as a dedicated hardware solution that promises significant speedup and reduced energy consumption compared to conventional computing platforms. Specific benchmarks were performed against conventional CPU and GPU platforms that show more than 10X speed-up using the emulated version of the technology on reconfigurable chips and another 100X speed-up potential using custom ICs.</p> <p>The probabilistic computer is dedicated to solving problems that involve a vast number of possible outcomes and inherent uncertainty. Such problems are encountered in Generative AI, decision-making, risk management, chip design, drug design, business analytics, machine learning, computing failure rates of manufactured products, pricing complex financial derivatives, resource allocation in 5G networks and optimizing financial portfolios, to name a few. Today, the computations that are responsible to address these problems are very intensive, time consuming, and expensive, inhibiting innovation and creativity for those who can afford them and limiting broad accessibility to a wider range of users. This is partly because conventional computers that can solve all kinds of computational problems, given enough time and energy, have not been advanced to deliver superior performance and energy consumption for these set of problems.</p> <p>The advantages stem from the fact that by leveraging the natural stochasticity of novel devices that can communicate with each other in a carefully orchestrated manner, it is possible to dramatically reduce the number of devices otherwise used for the same computational tasks. This Silicon footprint reduction can substantially improve computational speed, power consumption, and chip manufacturing costs in conjunction with spatial computational architecture.</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/04/2022<br>      Modified by: Behtash&nbsp;Behin-Aein</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The conventional general-purpose computing processors are not geared towards efficient execution of modern algorithms that exploit randomness for data processing and decision making. This creates two bottlenecks: (1) Real-time execution of a host of probabilistic and machine learning algorithms becomes infeasible, especially at the edge. (2) The execution of probabilistic algorithms comes at a great cost to Space, Weight, and Power (SWaP) within resource constrained environments.  Quantum computing may help with these challenges, but it is still in the early stages of development and, once developed, may not be deployable for edge computing. Probabilistic computing was first motivated in Richard Feynman?s seminal paper from 1982 where he states that similarly how a quantum computer should be used to address quantum problems; a probabilistic computer should be used to address probabilistic problems.  During this project, we have shown that a probabilistic computer can address a large variety of tasks as a dedicated hardware solution that promises significant speedup and reduced energy consumption compared to conventional computing platforms. Specific benchmarks were performed against conventional CPU and GPU platforms that show more than 10X speed-up using the emulated version of the technology on reconfigurable chips and another 100X speed-up potential using custom ICs.  The probabilistic computer is dedicated to solving problems that involve a vast number of possible outcomes and inherent uncertainty. Such problems are encountered in Generative AI, decision-making, risk management, chip design, drug design, business analytics, machine learning, computing failure rates of manufactured products, pricing complex financial derivatives, resource allocation in 5G networks and optimizing financial portfolios, to name a few. Today, the computations that are responsible to address these problems are very intensive, time consuming, and expensive, inhibiting innovation and creativity for those who can afford them and limiting broad accessibility to a wider range of users. This is partly because conventional computers that can solve all kinds of computational problems, given enough time and energy, have not been advanced to deliver superior performance and energy consumption for these set of problems.  The advantages stem from the fact that by leveraging the natural stochasticity of novel devices that can communicate with each other in a carefully orchestrated manner, it is possible to dramatically reduce the number of devices otherwise used for the same computational tasks. This Silicon footprint reduction can substantially improve computational speed, power consumption, and chip manufacturing costs in conjunction with spatial computational architecture.          Last Modified: 12/04/2022       Submitted by: Behtash Behin-Aein]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

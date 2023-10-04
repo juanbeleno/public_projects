@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  Asymmetric Propulsion for Enhancing Marine Maneuverability]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255821.00</AwardTotalIntnAmount>
+<AwardAmount>255821</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project will enhance technological understanding of Asymmetric Propulsion, which will in turn enhance scientific understanding of the oceans. Asymmetric Propulsion uses a single-bladed propeller to both move and steer an Autonomous Underwater Vehicle (AUV). In addition to eliminating the need for control fins, reducing cost and complexity, and increasing efficiency, it can also allow AUVs to hold station over objects of interest. This capability has numerous scientific, military, and commercial applications because it allows the same robot to perform large-area surveys and then hold station over specific objects and perform close-up inspections. Such missions currently require multiple specialized robots and supervision from a support ship. Providing these dual capabilities in a single AUV will enable surveys without a ship, reduce costs and energy, and increase the rate and resolution of ocean studies.  The focus of this Phase I project is improving control of Asymmetric Propulsion for holding station relative to an object of interest. &lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project will develop and test control algorithms that preserve roll stability when Asymmetric Propulsion is used to turn and maneuver torpedo-shaped AUVs. Using a single motor with an asymmetric propeller to both move and steer an AUV is mechanically simpler but computationally more complex. Holding station relative to an object by actuating a single degree of freedom is a nontrivial under-constrained control and navigation problem. This problem has numerous applications in marine, terrestrial, and aerial robotics.  A simplifying approach is to implement a library of scripted behaviors that can be selectively executed based on position input from visual sensors. These behaviors will independently be constructed to reduce the sudden torques that induce roll in torpedo-shaped AUVs. This approach will lead to a successful demonstration of stable maneuverability using a surface test platform that is free to move in roll.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/01/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026230</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Kaeli</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey W Kaeli</PI_FULL_NAME>
+<EmailAddress><![CDATA[jeff.kaeli@armadamarinerobotics.com]]></EmailAddress>
+<NSF_ID>000785395</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robin</FirstName>
+<LastName>Littlefield</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robin H Littlefield</PI_FULL_NAME>
+<EmailAddress><![CDATA[robin.littlefield@armadamarinerobotics.com]]></EmailAddress>
+<NSF_ID>000823371</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ARMADA MARINE ROBOTICS, INC.</Name>
+<CityName>FALMOUTH</CityName>
+<ZipCode>025402249</ZipCode>
+<PhoneNumber>5085233737</PhoneNumber>
+<StreetAddress>77 MCCALLUM DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HVW9ABY1QJX6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARMADA MARINE ROBOTICS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Woods Hole Oceanographic Institution]]></Name>
+<CityName>Woods Hole</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>025431535</ZipCode>
+<StreetAddress><![CDATA[266 Woods Hole Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>092E</Code>
+<Text>Control systems &amp; applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~255821</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-2cfdec27-7fff-9c7c-7053-cef185f008c7"> </span></p> <p dir="ltr"><span>ARMADA Marine Robotics, Inc. is commercializing a novel Asymmetric Propulsion technology which was co-invented by two of its founders at the Woods Hole Oceanographic Institution (WHOI). Asymmetric Propulsion uses a single electric motor to both propel and steer an underwater vehicle. This eliminates the need for fins or additional actuators for maneuverability. Asymmetric Propulsion achieves this maneuverability by varying the instantaneous speed of a single-bladed propeller throughout individual sectors of each revolution. This can be used to generate controllable off-axis thrust and induce turning moments which can be used to steer and maneuver an underwater vehicle.&nbsp;</span></p> <p dir="ltr"><span>&nbsp;</span>The Phase I project goals were to achieve three technical objectives:</p> <p dir="ltr">1. Propulsion Design Study - We subcontracted a propulsion design study to Hydrocomp, marine hydrodynamics and propeller analysis specialists, specifically focused on Asymmetric Propulsion. This informed design of an early prototype thruster, which utilized a single-bladed propeller, shroud, and hull shape optimized for Asymmetric Propulsion. It was determined that a key characteristic of a propeller suited for station keeping with Asymmetric Propulsion is a symmetric chord which produces similar thrusts in forward and reverse. We also learned that this optimized propeller design required custom fabrication, as no commercial off-the-shelf (COTS) propeller was identified that would meet the design parameters provided by our hydrodynamic design study. We were able to 3-D print propellers and shrouds, expediting production and yielding hardware suitable for testing. This answered important supply chain questions early, and the exploration of nascent materials in 3-D printing showed promise for both scalability and production volume fabrication.&nbsp;</p> <p dir="ltr"><span>2. 2D Station Keeping</span><span> - We demonstrated a repeatable ability for two different platforms with Asymmetric Propulsion to maneuver relative to, and hold station over, a visual target in a tank. Even when disturbances were introduced by physically moving the platform off-target, both platforms would return to a steady-state position with decreasing thruster commands until centered over the target again. The first platform was a commercially available thruster, retrofitted with Asymmetric Propulsion and attached to a roll-stable surface platform. The second was our early prototype thruster and test platform. Both shared the same camera, visual target tracking, and software control pipeline. We first demonstrated turning and maneuverability via joystick remote control, providing an intuitive feel for the required control gains and allowing us to quickly troubleshoot problems as they arose during testing. In addition to validating station keeping capabilities, this also demonstrated that existing propulsion systems can be retrofitted with Asymmetric Propulsion, de-risking an alternate path to market.&nbsp;</span></p> <p dir="ltr"><span>3. Platform Stability</span><span> - A key concern of ours and our customers was that Asymmetric Propulsion would excite vehicle roll and degrade data streams from roll-sensitive sensors. Using our early prototype and test platform with camera payload, we were able to show that a streamlined torpedo-shaped underwater vehicle with Asymmetric Propulsion is indeed stable enough to capture data of acceptable quality while holding station over a target. Reduced propeller speeds were found to create less excitation of vehicle roll and subsequently improved imagery, so therefore the minimum required thrust to maneuver when performing station keeping behaviors is likely to result in best case roll stability of this system.</span></p> <p dir="ltr"><span>Ultimately, we accomplished what we set out to accomplish and established a strong technical foundation upon which to build our Phase II program. ARMADA and Asymmetric Propulsion will contribute to increasing the economic competitiveness of the United States by bringing domestic innovation in the survey and inspection market. We see tremendous value in improving the inspection capabilities for underwater vehicles in the interest of supporting the renewable offshore energy sector. The US lags behind Europe in the offshore wind market, and while the US is making significant investment in offshore wind farms, much of the technology used to survey and inspect this infrastructure still comes from abroad. A key capability we validated in Phase I was the ability for a vehicle to maneuver and hold station over a target of interest. There are many applications where this sort of station keeping is used by Remotely Operated Vehicles (ROVs) to conduct inspections of cables or undersea infrastructure. These missions are of vital importance to both the offshore energy and the defense sectors. However, each ROV is operated from a fossil fuel burning surface ship carrying many more people for ship support than are required to operate the ROV. Asymmetric Propulsion holds promise to enable shipless surveys that will combine both surveys and inspections into a single mission conducted by a single vehicle. With the rapidly growing demands for surveys and inspection being driven by the emerging offshore wind market, replacing even a small percentage of the simplest ROV missions with AUV with Asymmetric Propulsion could dramatically lower the lifetime carbon footprint of these offshore installations while simultaneously improving safety with cheaper and more frequent monitoring.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 12/02/2021<br>      Modified by: Jeffrey&nbsp;W&nbsp;Kaeli</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638470859506_3_hover--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638470859506_3_hover--rgov-800width.jpg" title="Station Keeping"><img src="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638470859506_3_hover--rgov-66x44.jpg" alt="Station Keeping"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The test platform holding station over an image target in a tank.</div> <div class="imageCredit">Robin Littlefield</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jeffrey&nbsp;W&nbsp;Kaeli</div> <div class="imageTitle">Station Keeping</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638470802525_2_ryan--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638470802525_2_ryan--rgov-800width.jpg" title="Testing"><img src="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638470802525_2_ryan--rgov-66x44.jpg" alt="Testing"></a> <div class="imageCaptionContainer"> <div class="imageCaption">WHOI Software Developer Ryan Govostes deploying the test platform.</div> <div class="imageCredit">Ryan Littlefield</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jeffrey&nbsp;W&nbsp;Kaeli</div> <div class="imageTitle">Testing</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638470719908_1_setup--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638470719908_1_setup--rgov-800width.jpg" title="Test Setup"><img src="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638470719908_1_setup--rgov-66x44.jpg" alt="Test Setup"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The thruster and test platform can either be steered remotely via a game controller or programmed to automatically hold station over a visual target.</div> <div class="imageCredit">Robin Littlefield</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jeffrey&nbsp;W&nbsp;Kaeli</div> <div class="imageTitle">Test Setup</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638470961786_4_foxglove--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638470961786_4_foxglove--rgov-800width.jpg" title="Foxglove"><img src="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638470961786_4_foxglove--rgov-66x44.jpg" alt="Foxglove"></a> <div class="imageCaptionContainer"> <div class="imageCaption">We used Foxglove Studio for visualizing ROS messages and troubleshooting in real time.</div> <div class="imageCredit">Robin Littlefield</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jeffrey&nbsp;W&nbsp;Kaeli</div> <div class="imageTitle">Foxglove</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638471026316_5_case--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638471026316_5_case--rgov-800width.jpg" title="Case"><img src="/por/images/Reports/POR/2021/2026230/2026230_10692756_1638471026316_5_case--rgov-66x44.jpg" alt="Case"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The thruster, test platform, and batteries fits nearly into a case for transport.</div> <div class="imageCredit">Robin Littlefield</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jeffrey&nbsp;W&nbsp;Kaeli</div> <div class="imageTitle">Case</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   ARMADA Marine Robotics, Inc. is commercializing a novel Asymmetric Propulsion technology which was co-invented by two of its founders at the Woods Hole Oceanographic Institution (WHOI). Asymmetric Propulsion uses a single electric motor to both propel and steer an underwater vehicle. This eliminates the need for fins or additional actuators for maneuverability. Asymmetric Propulsion achieves this maneuverability by varying the instantaneous speed of a single-bladed propeller throughout individual sectors of each revolution. This can be used to generate controllable off-axis thrust and induce turning moments which can be used to steer and maneuver an underwater vehicle.   The Phase I project goals were to achieve three technical objectives: 1. Propulsion Design Study - We subcontracted a propulsion design study to Hydrocomp, marine hydrodynamics and propeller analysis specialists, specifically focused on Asymmetric Propulsion. This informed design of an early prototype thruster, which utilized a single-bladed propeller, shroud, and hull shape optimized for Asymmetric Propulsion. It was determined that a key characteristic of a propeller suited for station keeping with Asymmetric Propulsion is a symmetric chord which produces similar thrusts in forward and reverse. We also learned that this optimized propeller design required custom fabrication, as no commercial off-the-shelf (COTS) propeller was identified that would meet the design parameters provided by our hydrodynamic design study. We were able to 3-D print propellers and shrouds, expediting production and yielding hardware suitable for testing. This answered important supply chain questions early, and the exploration of nascent materials in 3-D printing showed promise for both scalability and production volume fabrication.  2. 2D Station Keeping - We demonstrated a repeatable ability for two different platforms with Asymmetric Propulsion to maneuver relative to, and hold station over, a visual target in a tank. Even when disturbances were introduced by physically moving the platform off-target, both platforms would return to a steady-state position with decreasing thruster commands until centered over the target again. The first platform was a commercially available thruster, retrofitted with Asymmetric Propulsion and attached to a roll-stable surface platform. The second was our early prototype thruster and test platform. Both shared the same camera, visual target tracking, and software control pipeline. We first demonstrated turning and maneuverability via joystick remote control, providing an intuitive feel for the required control gains and allowing us to quickly troubleshoot problems as they arose during testing. In addition to validating station keeping capabilities, this also demonstrated that existing propulsion systems can be retrofitted with Asymmetric Propulsion, de-risking an alternate path to market.  3. Platform Stability - A key concern of ours and our customers was that Asymmetric Propulsion would excite vehicle roll and degrade data streams from roll-sensitive sensors. Using our early prototype and test platform with camera payload, we were able to show that a streamlined torpedo-shaped underwater vehicle with Asymmetric Propulsion is indeed stable enough to capture data of acceptable quality while holding station over a target. Reduced propeller speeds were found to create less excitation of vehicle roll and subsequently improved imagery, so therefore the minimum required thrust to maneuver when performing station keeping behaviors is likely to result in best case roll stability of this system. Ultimately, we accomplished what we set out to accomplish and established a strong technical foundation upon which to build our Phase II program. ARMADA and Asymmetric Propulsion will contribute to increasing the economic competitiveness of the United States by bringing domestic innovation in the survey and inspection market. We see tremendous value in improving the inspection capabilities for underwater vehicles in the interest of supporting the renewable offshore energy sector. The US lags behind Europe in the offshore wind market, and while the US is making significant investment in offshore wind farms, much of the technology used to survey and inspect this infrastructure still comes from abroad. A key capability we validated in Phase I was the ability for a vehicle to maneuver and hold station over a target of interest. There are many applications where this sort of station keeping is used by Remotely Operated Vehicles (ROVs) to conduct inspections of cables or undersea infrastructure. These missions are of vital importance to both the offshore energy and the defense sectors. However, each ROV is operated from a fossil fuel burning surface ship carrying many more people for ship support than are required to operate the ROV. Asymmetric Propulsion holds promise to enable shipless surveys that will combine both surveys and inspections into a single mission conducted by a single vehicle. With the rapidly growing demands for surveys and inspection being driven by the emerging offshore wind market, replacing even a small percentage of the simplest ROV missions with AUV with Asymmetric Propulsion could dramatically lower the lifetime carbon footprint of these offshore installations while simultaneously improving safety with cheaper and more frequent monitoring.          Last Modified: 12/02/2021       Submitted by: Jeffrey W Kaeli]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

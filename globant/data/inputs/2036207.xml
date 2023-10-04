@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Wave: End-end Security for virtual reality and video conferencing applications (COVID-19)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255555.00</AwardTotalIntnAmount>
+<AwardAmount>255555</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will result from the ability for developers to build massively collaborative and real-time cooperative video/virtual reality applications without compromising end-end security. Lack of end-to-end encryption has been a growing problem for consumers, educational institutions and businesses collaborating remotely during the COVID-19 pandemic. This project will advance the state-of-the-art by providing developers with the necessary tools to create high quality synchronous collaborative virtual environments where children, teachers, corporate professionals and even national security personnel can safely engage in work-activity without risks of privacy loss or security/data compromises. This will also benefit telemedicine where privacy is paramount from a personal perspective and also from a legal standpoint. The success of demonstrating end-end encryption for a high-performance application will result in other remote-work collaborative tools being designed with end-end security as a key feature.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project solves the problem of maintaining end-end security of content while allowing expressivity using a scripting language by separating the data plane from the control plane for such massively collaborative multimedia applications. The control plane can be programmed using a web-friendly language that can be executed on any existing user-device such as laptops/smartphones thus giving maximum portability to the app developers. The data plane always stays end-end encrypted and can be manipulated using the scripting language in a highly expressive manner. The system provides perfect forward and backward secrecy by using a fast-group rekeying protocol to maintain confidentiality, integrity and authenticity of the multimedia content. Research and development on this project will lead to breakthroughs in multiple avenues including the demonstration of a truly high performant decentralized end-end encrypted application. This will spur the demand for end-end security for any remote-work collaborative application.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/03/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>10/18/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036207</AwardID>
+<Investigator>
+<FirstName>Arunesh</FirstName>
+<LastName>Mishra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arunesh Mishra</PI_FULL_NAME>
+<EmailAddress><![CDATA[arun@picolo.dev]]></EmailAddress>
+<NSF_ID>000829442</NSF_ID>
+<StartDate>02/03/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>PICOLO LABS INC</Name>
+<CityName>CASPER</CityName>
+<ZipCode>826094526</ZipCode>
+<PhoneNumber>4085055086</PhoneNumber>
+<StreetAddress>560 GRANITE PEAK DR APT 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wyoming</StateName>
+<StateCode>WY</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WY00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LQA9TNSQ6CB5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PICOLO LABS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[PICOLO LABS INC]]></Name>
+<CityName>Mountain View</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>940403305</ZipCode>
+<StreetAddress><![CDATA[707 Continental Circle, #414]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079E</Code>
+<Text>VISUALIZATION &amp; VIRTUAL DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255555</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-d9627fe4-7fff-121f-a648-e1c565d69001"> <span id="docs-internal-guid-afa756ad-7fff-38f4-8ccd-05d11a9fbd9e"> </span></span></p> <p dir="ltr"><span>Our high level objective was to develop the technology for an end-end secure media-based online collaboration platform which can support group-based interactions. The communication would include video and also support virtual reality (VR) based conferencing applications. The goal of Phase 1 was to demonstrate the viability of our approach and technology in terms of scaling video conferencing and enabling new kinds of expressive apps in the VR conferencing and Multiverse space while maintaining unparalleled end-end security of all user data.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>The Phase 1 project allowed us to test the hypothesis that separating control logic from data in network protocol design can be utilized to build complex cloud applications that can work on end-end encrypted data. Based upon this hypothesis, we built and benchmarked an end-end secure virtual reality (VR) conferencing application that can handle a substantial group of users who interact with it.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>We designed, built and tested a protocol that would allow manipulation of the meta-data, that is, the control plane consisting of the video/VR scene individually for each user, centrally from a cloud-based system. We built a fast rekeying protocol to handle group membership changes and scale gracefully. We benchmarked the performance of our system on realistic network topologies with significant group sizes.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>We believe our Phase 1 effort shows how cloud applications could be designed to operate on end-end encrypted data thereby reducing vulnerabilities, cyberattacks and improving data privacy for users. Specifically, we hope to extend our technology to support end-end secure highly interactive complex VR applications and to bring this to the Multiverse as well.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 06/10/2022<br>      Modified by: Arunesh&nbsp;Mishra</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[    Our high level objective was to develop the technology for an end-end secure media-based online collaboration platform which can support group-based interactions. The communication would include video and also support virtual reality (VR) based conferencing applications. The goal of Phase 1 was to demonstrate the viability of our approach and technology in terms of scaling video conferencing and enabling new kinds of expressive apps in the VR conferencing and Multiverse space while maintaining unparalleled end-end security of all user data.     The Phase 1 project allowed us to test the hypothesis that separating control logic from data in network protocol design can be utilized to build complex cloud applications that can work on end-end encrypted data. Based upon this hypothesis, we built and benchmarked an end-end secure virtual reality (VR) conferencing application that can handle a substantial group of users who interact with it.     We designed, built and tested a protocol that would allow manipulation of the meta-data, that is, the control plane consisting of the video/VR scene individually for each user, centrally from a cloud-based system. We built a fast rekeying protocol to handle group membership changes and scale gracefully. We benchmarked the performance of our system on realistic network topologies with significant group sizes.    We believe our Phase 1 effort shows how cloud applications could be designed to operate on end-end encrypted data thereby reducing vulnerabilities, cyberattacks and improving data privacy for users. Specifically, we hope to extend our technology to support end-end secure highly interactive complex VR applications and to bring this to the Multiverse as well.          Last Modified: 06/10/2022       Submitted by: Arunesh Mishra]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

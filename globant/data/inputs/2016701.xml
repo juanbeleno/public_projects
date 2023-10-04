@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CCRI: Medium: Rogues Gallery: A Community Research Infrastructure for Post-Moore Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1351699.00</AwardTotalIntnAmount>
+<AwardAmount>1351699</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Damian Dechev</SignBlockName>
+<PO_EMAI>ddechev@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The forthcoming post-Moore computing era speaks to a time in the near future when Gordon Moore’s Law of easy and cost-effective transistor scaling will end, and computers will no longer be faster just because they can incorporate more, smaller transistors. Future computers need to be specialized for certain tasks and designed differently to achieve the consistent gains in performance that drive our modern economy. Some possible examples of these specialized computer architectures include unique or “rogue” designs like neuromorphic or brain-inspired computers, computers that operate at a quantum scale, and reversible computers. &lt;br/&gt; &lt;br/&gt;This project provides the first publicly available testbed for investigating these novel post-Moore computer designs, or “rogues,” as part of the Rogues Gallery testbed. The Rogues Gallery provides a unique research infrastructure with neuromorphic, reconfigurable, and near-memory platforms as well as capabilities for novel networking, including 5G. Additionally, the testbed is supplemented by training resources, software and tools, and a collaborative community to assist researchers and developers in the best ways to use these novel computer designs for everyday applications as well as challenging research problems. The expected outcomes of this testbed effort include a better understanding of specialized computer designs for post-Moore systems as well as improved capabilities and training for the next generation of US researchers in how to use these critical technologies. &lt;br/&gt; &lt;br/&gt;This project develops a next-generation, community-focused hardware and software testbed and associated hardware design facility to evaluate possible architecture directions for post-Moore computing. These computer architectures and systems differ significantly from today’s standard processor models and in many cases can be considered “rogue” approaches to the future of computing. The infrastructure, or the Rogues Gallery, will provide a community-accessible hardware testbed hosted by Georgia Tech that will enable related research into software tools and programming interfaces, data management techniques for large data sets, and algorithmic strategies for post-Moore hardware. This collaborative, community testbed represents a future-looking investment that is not currently satisfied by any existing academic or industry resources. The community need for a testbed for near-memory, neuromorphic, and next-generation networking devices has already been demonstrated by IEEE’s Rebooting Computing efforts; the rapid growth of conferences and venues for areas like thermodynamic, neuromorphic, and quantum computing; and a growing interest in researchers looking to map applications like deep learning and data analytics to these architectures. &lt;br/&gt; &lt;br/&gt;To further develop this testbed as a community resource, the investigators are working to acquire unique hardware (rogues) and are building a common infrastructure to host this hardware and future prototypes, while also developing tutorials and training, access management, integration, and measurement techniques for post-Moore hardware and software research. The deployment and success of the Rogues Gallery infrastructure will create a new testbed and associated research community that is focused on future hardware prototypes that are not served by existing cloud, academic, national lab, or NSF resources.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/14/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016701</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Conte</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas M Conte</PI_FULL_NAME>
+<EmailAddress><![CDATA[conte@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000238429</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Hasler</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer O Hasler</PI_FULL_NAME>
+<EmailAddress><![CDATA[jennifer.hasler@ece.gatech.edu]]></EmailAddress>
+<NSF_ID>000485169</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ada</FirstName>
+<LastName>Gavrilovska</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ada Gavrilovska</PI_FULL_NAME>
+<EmailAddress><![CDATA[ada@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000494213</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Vuduc</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard W Vuduc</PI_FULL_NAME>
+<EmailAddress><![CDATA[richie@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000080331</NSF_ID>
+<StartDate>04/14/2022</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Riedy</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edward J Riedy</PI_FULL_NAME>
+<EmailAddress><![CDATA[jason.riedy@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000596559</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate>04/14/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Young</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey Young</PI_FULL_NAME>
+<EmailAddress><![CDATA[jyoung9@gatech.edu]]></EmailAddress>
+<NSF_ID>000667897</NSF_ID>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>CCRI-CISE Cmnty Rsrch Infrstrc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~1351699</FUND_OBLG>
+</Award>
+</rootTag>

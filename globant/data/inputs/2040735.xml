@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Convergence Accelerator Track D: Rapid Development of Intelligent, Built Environment Geo-Databases Using AI and Data-Driven Models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>920000.00</AwardTotalIntnAmount>
+<AwardAmount>920000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mike Pozmantier</SignBlockName>
+<PO_EMAI>mpozmant@nsf.gov</PO_EMAI>
+<PO_PHON>7032924475</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future. The broader impact and potential societal benefit of this Convergence Accelerator Phase I project is to achieve what is seen as the Holy Grail by the Built Environment research community and industry. Infrastructure designers and planners increasingly require detailed three dimensional (3D) geospatial databases of the Built Environment, in order to consider human scale perceptions, which today are often overlooked but critical to improving cities in order to better meet the needs of its citizens and other emerging technologies, such as autonomous vehicles. The impact on society of applying Artificial Intelligence (AI) to rapidly create secure and intelligent 3D models of the Built Environment, including horizontal (e.g., highway, bridges) and vertical (e.g., buildings, plants) facilities, by turning raw data into actionable information cannot be overstated. However, to-date, assembling and maintaining those databases has been too expensive for even the most progressive cities due in large part to the cost of manual feature extraction. Built Environment data that is accurate and reliable is critical for the well-being of communities as such data is used for a variety of purposes including emergency preparedness, asset operations, maintenance, public safety, and more. A convergent, innovative team will be formed with industry partners to ensure that the knowledge developed through this research effectively transitions into many aspects of practice.  From the outset, and through both phases of the project, the team is taking steps through team building and intentional engagement with a variety of stakeholders to broaden the scope of potential impacts of the proposed innovation. Specifically, the research and implementation activities will be designed to consistently include dialogue and invite input from a broad range of interests, intentionally seeking involvement with segments of the public that are traditionally left out or neglected in technology implementation endeavors. This research also implements activities for workforce development in computer vision and geomatics, which currently has a large gap between employment needs and a workforce of appropriately skilled personnel, particularly from underrepresented backgrounds. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Current workflows and procedures to develop 3D models of the Built Environment require substantial manual effort. Those processes that are automated are limited to small datasets that are not representative of the current point clouds and other data being acquired or needed for Building Information Modeling (BIM). They are also limited in the types of objects that can be modeled. To this end, the interdisciplinary research team will work with stakeholders to develop a more holistic Scan-to-BIM process. Phase I of this project  has two primary goals: (1) provide a scan-to-BIM validation tool by compiling a sizable collection of benchmark datasets with annotated point cloud scans and corresponding BIM models, creating a prototype validation server with metrics related to parameters of interest to stakeholders (e.g., evaluate the accuracy of modeled door widths, which are important to ADA compliance assessment, or evaluate these models for urban renewal, redevelopment projects), and create and host a Scan-to-BIM challenge for researchers all over the world to participate, and (2) develop a prototype tool to implement a holistic Scan-to-BIM framework to rapidly and reliably generate BIM models from scan data that can be used not only to facilitate the development of the benchmark datasets but also used by stakeholders. Based on the research resulting from these challenges, the project team plans to build a comprehensive cloud-based service for Scan-to-BIM, which will be deployed to serve the Architectural/Engineering/Construction (AEC) community, and ultimately the public in general as these models can decrease construction or renovation project costs of public infrastructure funded with taxpayer’s money. Users would be able to select desired algorithms for key stages of the Scan-to-BIM framework based on their performance for specific applications and use cases.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040735</AwardID>
+<Investigator>
+<FirstName>Yong</FirstName>
+<LastName>Cho</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yong K Cho</PI_FULL_NAME>
+<EmailAddress><![CDATA[yong.cho@ce.gatech.edu]]></EmailAddress>
+<NSF_ID>000492865</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Roger</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roger B Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[rbchen@hawaii.edu]]></EmailAddress>
+<NSF_ID>000809806</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Fuxin</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fuxin Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[lif@eecs.oregonstate.edu]]></EmailAddress>
+<NSF_ID>000637562</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yelda</FirstName>
+<LastName>Turkan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yelda Turkan</PI_FULL_NAME>
+<EmailAddress><![CDATA[yelda.turkan@oregonstate.edu]]></EmailAddress>
+<NSF_ID>000692641</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Olsen</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael J Olsen</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.olsen@oregonstate.edu]]></EmailAddress>
+<NSF_ID>000560441</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>CORVALLIS</CityName>
+<ZipCode>973318655</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>1500 SW JEFFERSON ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MZ4DYXE1SL98</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OREGON STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MZ4DYXE1SL98</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oregon State University]]></Name>
+<CityName>Corvallis</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>973312140</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~920000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="BasicParagraph">Architects, Engineers, Contractors, and Owners need reliable 3D digital models of the physical world to render informed decisions regarding the planning, design, construction, and management of the Built Environment. The rise in 3D sensor technologies such as lidar and 360 cameras have enabled the rapid collection of rich 3D data but transforming this data into useful 3D models is tedious, time-consuming, and expensive. Our prototype AI-based InstaTwin technology developed through the Convergence Accelerator Program automatically segments, classifies, and extracts real-world features from 3D data to create digital representations of reality to address the barriers of creating 3D models.&nbsp;&nbsp;Furthermore, the AI components of InstaTwin have broad applicability and far-reaching impact on equity, energy, and sustainability.&nbsp;</p> <p class="BasicParagraph">Buildings account for 40% of the world?s energy consumption primarily because older buildings are not efficient. Transitioning old building stock to energy-efficient buildings is an essential component of reaching global ecological sustainability. To achieve this transition, we need better ways to assess, analyze, monitor, renovate, and alter the behavior of buildings in real-time to optimize and reduce the use of fuels for heating, lighting, and cooling. Fundamental to this idea is having a digital representation of a building.</p> <p class="BasicParagraph">The InstaTwin platform we developed during this project enables 3D models of the Built Environment to be created through a digitization process of the physical world. The process consists of collecting 3D data from sensors such as laser scanners (i.e., lidar) and 360 cameras and the converting these data into 3D objects. The resulting 3D model is sometimes called a ?digital twin? or building information model (i.e., BIM).</p> <p class="BasicParagraph">To better understand this digitization process, consider the process of flatbed scanning, where a flatbed scanner captures a pixelized image of a physical document. The captured image is helpful as a digital record; however, the true value of the scan is the words contained within the image. Transcribing these words manually is a time-consuming process, and technologies such as Optical Character Recognition (OCR) significantly increased the accessibility to and utility of the information in the scanned document. &nbsp;</p> <p class="BasicParagraph">Similarly, scanning a building is analogous to scanning a document. Instead of a flatbed, however, a 3D laser scanner spins around on a tripod and measure the contents of a building. The resulting scan data, called a ?point cloud,? is useful as a digital record, but the true value is the objects and building elements contained within the scan. Transcribing these objects is considerably more time-consuming than the transcription of words and, as of today, there exists no equivalent to OCR for the creation of BIM.</p> <p class="BasicParagraph">InstaTwin is a prototype platform that automatically generates 3D building models from scans. This conversion is an incredibly difficult problem since buildings can be very complex, but with the power of AI, InstaTwin empowers asset owners, architects, engineers, and facility managers to make better, faster, and more efficient decisions about the Built Environment. Fundamentally, InstaTwin is a data repository and processing framework that can be accessed online. Collaborators and users submit data, test algorithms, process data into 3D models, view results, and download BIMs. Implicit in our design is a framework that can provide immediate industry benefit and thus incentivizing users to supply data, train models, and support its continued development.</p> <p class="BasicParagraph">To develop the prototype Insta-Twin platform, the team participated in the extensive NSF accelerator training course to learn effective strategies for convergent research and ideation. They also conducted several interviews of industry professionals to identify key bottlenecks as well as determine how it would integrate within their workflows.&nbsp;&nbsp;Several of these professionals attended ideation workshops and provided feedback on the prototype.&nbsp;&nbsp;In parallel to developing the prototype platform, the research team compiled a vast database of point cloud data with corresponding building information models and CAD floorplans. These data were shared for a challenge competition at two workshops focused on converging the computer vision, architecture, engineering, and construction communities.&nbsp;&nbsp;</p> <p class="BasicParagraph">&nbsp;</p> <p class="BasicParagraph">&nbsp;</p> <p class="BasicParagraph">&nbsp;</p> <p class="BasicParagraph">&nbsp;</p> <p class="BasicParagraph">&nbsp;</p> <p class="BasicParagraph">&nbsp;</p> <p class="BasicParagraph">&nbsp;</p> <p class="BasicParagraph">&nbsp;</p> <p class="BasicParagraph">&nbsp;</p> <p class="BasicParagraph">&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/06/2022<br>      Modified by: Yelda&nbsp;Turkan</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2040735/2040735_10705267_1659824554629_InstaTwin--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040735/2040735_10705267_1659824554629_InstaTwin--rgov-800width.jpg" title="InstaTwin Interface"><img src="/por/images/Reports/POR/2022/2040735/2040735_10705267_1659824554629_InstaTwin--rgov-66x44.jpg" alt="InstaTwin Interface"></a> <div class="imageCaptionContainer"> <div class="imageCaption">InstaTwin - convert lidar point clouds into 3D models</div> <div class="imageCredit">Luisa Parker</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yelda&nbsp;Turkan</div> <div class="imageTitle">InstaTwin Interface</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[Architects, Engineers, Contractors, and Owners need reliable 3D digital models of the physical world to render informed decisions regarding the planning, design, construction, and management of the Built Environment. The rise in 3D sensor technologies such as lidar and 360 cameras have enabled the rapid collection of rich 3D data but transforming this data into useful 3D models is tedious, time-consuming, and expensive. Our prototype AI-based InstaTwin technology developed through the Convergence Accelerator Program automatically segments, classifies, and extracts real-world features from 3D data to create digital representations of reality to address the barriers of creating 3D models.  Furthermore, the AI components of InstaTwin have broad applicability and far-reaching impact on equity, energy, and sustainability.  Buildings account for 40% of the world?s energy consumption primarily because older buildings are not efficient. Transitioning old building stock to energy-efficient buildings is an essential component of reaching global ecological sustainability. To achieve this transition, we need better ways to assess, analyze, monitor, renovate, and alter the behavior of buildings in real-time to optimize and reduce the use of fuels for heating, lighting, and cooling. Fundamental to this idea is having a digital representation of a building. The InstaTwin platform we developed during this project enables 3D models of the Built Environment to be created through a digitization process of the physical world. The process consists of collecting 3D data from sensors such as laser scanners (i.e., lidar) and 360 cameras and the converting these data into 3D objects. The resulting 3D model is sometimes called a ?digital twin? or building information model (i.e., BIM). To better understand this digitization process, consider the process of flatbed scanning, where a flatbed scanner captures a pixelized image of a physical document. The captured image is helpful as a digital record; however, the true value of the scan is the words contained within the image. Transcribing these words manually is a time-consuming process, and technologies such as Optical Character Recognition (OCR) significantly increased the accessibility to and utility of the information in the scanned document.   Similarly, scanning a building is analogous to scanning a document. Instead of a flatbed, however, a 3D laser scanner spins around on a tripod and measure the contents of a building. The resulting scan data, called a ?point cloud,? is useful as a digital record, but the true value is the objects and building elements contained within the scan. Transcribing these objects is considerably more time-consuming than the transcription of words and, as of today, there exists no equivalent to OCR for the creation of BIM. InstaTwin is a prototype platform that automatically generates 3D building models from scans. This conversion is an incredibly difficult problem since buildings can be very complex, but with the power of AI, InstaTwin empowers asset owners, architects, engineers, and facility managers to make better, faster, and more efficient decisions about the Built Environment. Fundamentally, InstaTwin is a data repository and processing framework that can be accessed online. Collaborators and users submit data, test algorithms, process data into 3D models, view results, and download BIMs. Implicit in our design is a framework that can provide immediate industry benefit and thus incentivizing users to supply data, train models, and support its continued development. To develop the prototype Insta-Twin platform, the team participated in the extensive NSF accelerator training course to learn effective strategies for convergent research and ideation. They also conducted several interviews of industry professionals to identify key bottlenecks as well as determine how it would integrate within their workflows.  Several of these professionals attended ideation workshops and provided feedback on the prototype.  In parallel to developing the prototype platform, the research team compiled a vast database of point cloud data with corresponding building information models and CAD floorplans. These data were shared for a challenge competition at two workshops focused on converging the computer vision, architecture, engineering, and construction communities.                                Last Modified: 08/06/2022       Submitted by: Yelda Turkan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

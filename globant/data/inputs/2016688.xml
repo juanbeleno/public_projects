@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CCRI: Planning: Collaborative Proposal: Tools and Research Priority Analyses for Development of Open-Source AI-Enabled Control and Testing Framework for 6G Cellular Research]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[5G (5th Generation) wireless is known for a revolution in flexibility in wireless networks. Beyond 5G and 6G will likely be known for using intelligence to capitalize on flexibility. Wireless research activities have made use of artificial intelligence (AI) in various areas, but practical implementations of AI-based algorithms in wireless networks are relatively rare. This planning project analyzes the suitability of research priorities, toolboxes, and interfaces for the development of an experimental AI-enabled 6G and testing framework to spur US and global research. The goal of this planning effort is to analyze and lay out the design and architectural foundations of a software infrastructure that would spur experimental research, development and education on 6G wireless networks.&lt;br/&gt;&lt;br/&gt;The planning project develops two unique surveys: (1) Community: to understand the high-priority research needs that the community platform should support, considering inputs from researchers, practitioners and educators in academia, industry, and government; (2) Tools: to assess existing AI algorithms, toolboxes, and how to interface them with the cellular architecture and protocol stack; and thus, propose a robust design to enable the subsequent development of a practical open-source AI enabled control and testing framework for 6G cellular research that can run on community testbeds. &lt;br/&gt;&lt;br/&gt;This planning award will provide an initial assessment of the need and potentials of a 6G research platform for use in education at Mississippi State University, Virginia Tech, and elsewhere with the goal of enhancing educational material with hands-on learning opportunities and reproducible experimental case studies. The team will reach out to industry through several means, including institutions' industry affiliation members/sponsors, the PAWR (Platform for Advanced Wireless Research) industry consortium, and the Wireless Innovation Forum. The team plans to reach out to standardization bodies and regulators to make them aware of the outcomes of this study, the envisaged research platform and potential use cases that can help support important standardization and regulatory decisions related to 6G radio access networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016688</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Reed</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey H Reed</PI_FULL_NAME>
+<EmailAddress><![CDATA[reedjh@vt.edu]]></EmailAddress>
+<NSF_ID>000468929</NSF_ID>
+<StartDate>08/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vijay</FirstName>
+<LastName>Shah</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vijay K Shah</PI_FULL_NAME>
+<EmailAddress><![CDATA[vshah22@gmu.edu]]></EmailAddress>
+<NSF_ID>000807960</NSF_ID>
+<StartDate>08/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nishith</FirstName>
+<LastName>Tripathi</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nishith D Tripathi</PI_FULL_NAME>
+<EmailAddress><![CDATA[nishith@vt.edu]]></EmailAddress>
+<NSF_ID>000819060</NSF_ID>
+<StartDate>08/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName/>
+<StateCode>VA</StateCode>
+<ZipCode>240610001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>CCRI-CISE Cmnty Rsrch Infrstrc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-0294343b-7fff-c67c-246a-27895a51a6f3"> <p dir="ltr"><span>We circulated a Google survey among key researchers to explore interests of the broader research community in an experimental 6G platform and receive their feedback on research priorities, among others. Out of 100 responses, 21 are full professors, 13 associate professors, 14 assistant professors, 9 postdoctoral researchers, 10 graduate students, and the rest include people from industry, National Laboratories, NASA, and other government agencies. Several academics from predominantly undergraduate institutions participated. Seventy-nine percent of the survey takers believe Open RAN (O-RAN) will be relevant for future cellular networks. The platform features of highest interest to our community representatives are the programmable physical (PHY) and medium access control (MAC) layers. The survey outcomes show that (1) having access to training tutorials/videos, (2) the ability to reserve the testbed, (3) the ability to access the platform through multiple means, and (4) full remote access to SDRs are the most popular services. There is significant interest in PHY and MAC functions and in using digital transmission/reception samples to control next generation transmitters and receivers. Having a framework for collecting data and testing is of highest relevance.</span></p> <p dir="ltr"><span>The project team incorporated the research community feedback from our user survey as well as our literature survey of papers and public reports that discuss the opportunities of using artificial intelligence (AI) in communications and networking into a new CCRI proposal, which we submitted in January 2021 and which was awarded under grant numbers 2120442/2120411 for the collaborative research project between Mississippi State University and Virginia Tech.</span></p> <div><span><br /></span></div> </span></p> <p>&nbsp;</p><br> <p>            Last Modified: 09/21/2021<br>      Modified by: Vijay&nbsp;K&nbsp;Shah</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  We circulated a Google survey among key researchers to explore interests of the broader research community in an experimental 6G platform and receive their feedback on research priorities, among others. Out of 100 responses, 21 are full professors, 13 associate professors, 14 assistant professors, 9 postdoctoral researchers, 10 graduate students, and the rest include people from industry, National Laboratories, NASA, and other government agencies. Several academics from predominantly undergraduate institutions participated. Seventy-nine percent of the survey takers believe Open RAN (O-RAN) will be relevant for future cellular networks. The platform features of highest interest to our community representatives are the programmable physical (PHY) and medium access control (MAC) layers. The survey outcomes show that (1) having access to training tutorials/videos, (2) the ability to reserve the testbed, (3) the ability to access the platform through multiple means, and (4) full remote access to SDRs are the most popular services. There is significant interest in PHY and MAC functions and in using digital transmission/reception samples to control next generation transmitters and receivers. Having a framework for collecting data and testing is of highest relevance. The project team incorporated the research community feedback from our user survey as well as our literature survey of papers and public reports that discuss the opportunities of using artificial intelligence (AI) in communications and networking into a new CCRI proposal, which we submitted in January 2021 and which was awarded under grant numbers 2120442/2120411 for the collaborative research project between Mississippi State University and Virginia Tech.             Last Modified: 09/21/2021       Submitted by: Vijay K Shah]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

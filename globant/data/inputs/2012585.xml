@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Design and Analysis of Highly Efficient Algorithms for Complex Nonlinear Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>299845.00</AwardTotalIntnAmount>
+<AwardAmount>253487</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project focuses on the development and analysis of innovative, structure preserving algorithms for complex nonlinear systems in science and engineering applications. This project will not only lead to efficient numerical algorithms for a large class of complex nonlinear systems of current interests, but also contribute through numerical simulation to a better understanding of some fundamental issues in  materials science, fluid mechanics and other related fields. This project will also provide  opportunities for the involved  students to learn critical skills of computational and applied mathematics and to develop state-of-the-art numerical algorithms for science and engineering applications. This project will support one graduate student per year.&lt;br/&gt;&lt;br/&gt;Complex nonlinear systems that possess dissipative or conservation properties are ubiquitous in modeling of real-world phenomena. It is a major challenge to construct efficient and accurate numerical schemes that can preserve important dissipative or conservation properties, and in certain cases, positivity of physical variables. This project will overcome these challenges by extending the flexible and robust scalar auxiliary variable or SAV approach, which has proven to be highly effective for gradient flows. In particular, the SAV approach will be extended to deal with additional difficulties such as those in (i) systems with physical constraints such as mass and/or surface area conservations; (ii) highly anisotropic systems and systems with nonlinear mobilities; (iii) systems with positivity preserving or maximum principles; (iv) systems coupling gradient flows with other conservation laws, and (v) optimizations. The proposed methodology will lead to numerical predictive tools that extend the applicability of mathematical and experimental analysis, and contribute to better understanding of complex physical systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/02/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012585</AwardID>
+<Investigator>
+<FirstName>Jie</FirstName>
+<LastName>Shen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jie Shen</PI_FULL_NAME>
+<EmailAddress><![CDATA[shen@math.purdue.edu]]></EmailAddress>
+<NSF_ID>000289537</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 NORTHWESTERN AVE STE 1900</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479072114</ZipCode>
+<StreetAddress><![CDATA[Young Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~93636</FUND_OBLG>
+<FUND_OBLG>2021~101945</FUND_OBLG>
+<FUND_OBLG>2022~57905</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The main goals of this project were to&nbsp; develop&nbsp; innovative structure-preserving numerical schemes for a large class of complex nonlinear systems which possess certain physical structures such as energy dissipation/conservation, positivity, mass conservation, etc.&nbsp;</p> <p>We have developed several time-marching schemes, which can be combined with any consistent Galerkin type spatial discretization, with the following properties: (i) it is unconditionally energy stable (energy dissipative or energy conservation) so that it can be combined with an effective time-adaptive strategy; (ii) it is at least second-order accurate in time and can be extended to high-order; (iii) it preserves essential physical constraints such as positivity and/or mass conservation; and (iv) the resulting linear/nonlinear system at each time step can be easily and efficiently solved.&nbsp;</p> <p>Particularly, we developed a new&nbsp; approach to construct positivity preserving schemes for parabolic type equations by a simple modification to generic numerical schemes. More precisely, we introduce a space&ndash;time Lagrange multiplier function to enforce the positivity, and expand the underlying PDE using the KKT conditions. We constructed a new class of positivity preserving schemes by using the predictor&ndash;corrector approach to the expanded system. This new approach is not restricted to any particular spatial discretization and can be combined with various time discretization schemes. It can be applied to a large class of parabolic PDEs which require solutions to be positive. We also established stability results under a general setting and carried out an error analysis for a second-order bound preserving scheme with a hybrid spectral discretization in space.</p> <p>&nbsp;We also developed a new class of efficient higher-order implicit-explicit schemes&nbsp;for a&nbsp; class of dissipative systems based on the generalized SAV approach, and showed that these schemes are unconditionally stable. Furthermore, by&nbsp;combining&nbsp;&nbsp;this approach, with a&nbsp; function transform, we constructed two classes of bound/positivity preserving and unconditionally stable schemes for a large class of dissipative systems with&nbsp;&nbsp;bound/positivity preserving properties.</p> <p>The numerical algorithms developed in this project can be applied to solve a large class of complex nonlinear systems in science and engineering.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 05/15/2023<br>      Modified by: Jie&nbsp;Shen</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The main goals of this project were to  develop  innovative structure-preserving numerical schemes for a large class of complex nonlinear systems which possess certain physical structures such as energy dissipation/conservation, positivity, mass conservation, etc.   We have developed several time-marching schemes, which can be combined with any consistent Galerkin type spatial discretization, with the following properties: (i) it is unconditionally energy stable (energy dissipative or energy conservation) so that it can be combined with an effective time-adaptive strategy; (ii) it is at least second-order accurate in time and can be extended to high-order; (iii) it preserves essential physical constraints such as positivity and/or mass conservation; and (iv) the resulting linear/nonlinear system at each time step can be easily and efficiently solved.   Particularly, we developed a new  approach to construct positivity preserving schemes for parabolic type equations by a simple modification to generic numerical schemes. More precisely, we introduce a space&ndash;time Lagrange multiplier function to enforce the positivity, and expand the underlying PDE using the KKT conditions. We constructed a new class of positivity preserving schemes by using the predictor&ndash;corrector approach to the expanded system. This new approach is not restricted to any particular spatial discretization and can be combined with various time discretization schemes. It can be applied to a large class of parabolic PDEs which require solutions to be positive. We also established stability results under a general setting and carried out an error analysis for a second-order bound preserving scheme with a hybrid spectral discretization in space.   We also developed a new class of efficient higher-order implicit-explicit schemes for a  class of dissipative systems based on the generalized SAV approach, and showed that these schemes are unconditionally stable. Furthermore, by combining  this approach, with a  function transform, we constructed two classes of bound/positivity preserving and unconditionally stable schemes for a large class of dissipative systems with  bound/positivity preserving properties.  The numerical algorithms developed in this project can be applied to solve a large class of complex nonlinear systems in science and engineering.                Last Modified: 05/15/2023       Submitted by: Jie Shen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

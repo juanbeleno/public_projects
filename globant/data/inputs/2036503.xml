@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  COGNITIVE INTELLIGENCE CAPABILITIES IN REAL-TIME EDGE COMPUTING AND DISTRIBUTED INTERNET OF THINGS (IOT) PLATFORMS]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>248900.00</AwardTotalIntnAmount>
+<AwardAmount>248900</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samir M. Iqbal</SignBlockName>
+<PO_EMAI>smiqbal@nsf.gov</PO_EMAI>
+<PO_PHON>7032927529</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to demonstrate the cognitive runtime capabilities of edge native Internet of Things (IoT) platform that offers significant gain in incremental operational intelligence, real-time monitoring, and autonomic functions. As the edge computing capabilities infiltrate into industrial IoT application domains to overcome the limitation of centralized computing (latency, bandwidth, and single point of failure), constrained hardware (compute and storage) resources, and data availability. The proposed technology may adjust with the changing cyber-physical environment, extend situational awareness, protect against cyber security threats, minimize the cost of scaling network and cloud infrastructures, and deliver extreme responsiveness within mission critical ecosystems such as smart grid surveillance, remote patient monitoring, autonomous vehicles, and defense weaponry systems.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will research a cognitive internet-of-things (IoT) runtime that enhances process automation and analytical capabilities of edge native M2M/IoT solutions. The recent trends of edge computing have created service opportunities catering to real-time use cases closer to the operating environment. The most common predefined rule-based logic and structured intelligence on edge nodes fails to deliver scalability, autonomy, interoperability, and intelligent control operations. The artificial intelligence (AI) / Machine Learning (ML) models usually perform better on cloud or multiclause server infrastructure in a batch mode. This invention closes the existing gap and further advances the distributed edge computing capabilities by introducing Cognitive AI models that introduce semantic learning with incremental data from within embedded runtime and develop reasoning through interactions within the connected environment. The research and development on Per-to-Peer collaboration across the edge nodes overcomes the limitations of constrained resource and executes workflows. The runtime architecture simulates the human nervous system’s anatomical layers and systematic coordination of neuro-motor operations.  The proposed design patterns of analytical models and distributed intelligence will introduce a realistic implementation of smarter decision support systems on the edge that could adapt to ever changing operational contexts and introduce diverse intelligent operations through collaborative learning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/02/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>11/02/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036503</AwardID>
+<Investigator>
+<FirstName>Prasenjit</FirstName>
+<LastName>Bhadra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Prasenjit Bhadra</PI_FULL_NAME>
+<EmailAddress><![CDATA[prasenjit@ranial.com]]></EmailAddress>
+<NSF_ID>000823561</NSF_ID>
+<StartDate>11/02/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>RANIAL SYSTEMS INC</Name>
+<CityName>FOREST HILLS</CityName>
+<ZipCode>113757200</ZipCode>
+<PhoneNumber>9174350700</PhoneNumber>
+<StreetAddress>11835 QUEENS BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CLTKARNURMW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RANIAL SYSTEMS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>CLTKARNURMW3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ranial Systems Inc.]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>101760699</ZipCode>
+<StreetAddress><![CDATA[551 5th Ave, Ste # 630]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4097</Code>
+<Text>NETWORKING RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~248900</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Ranial Systems has introduced a novel autonomous IoT system that infuses cognitive edge computing within distributed Industry 4.0 solutions. The Phase I SBIR R&amp;D has helped Ranial translate the patented systems and methods&nbsp;into a unique Cognitive IoT runtime that empowers edge nodes to aggregate, process the sensory feeds and gain actionable insight by leveraging AI// ML capabilities. The designed platform introduced an integrated hardware and software runtime trademarked as CognitIoT&trade;. Unlike the most common edge computing platforms that are designed to shift the processing at the edge of the IoT infrastructure, CognitIoT&trade; introduced incremental learning and intelligent interpretation of the sensory feeds collected and correlated in real time. Instead of leveraging structured logic or deterministic intelligence to support fail-safe operations, the cognitive edge runtime can derive actionable insights as the system aggregates the data. Such capabilities allow the system to detect potential failure/problems ahead of time and execute autonomous operations based on such predictive and prescriptive insights. The proposed technology also adjusts to the changing cyber-physical environment, extends situational awareness, protects against cyber security threats, minimizes the cost of scaling network and cloud infrastructures, and delivers extreme responsiveness within mission-critical ecosystems such as smart grid surveillance, predictive maintenance of autonomous vehicles, and defense weaponry systems.</p> <p>Most common AI-based solutions perform better on cloud or multi-cluster server infrastructure in a batch mode due to a strict requirement of massive computing and storage infrastructure. Hence most of the AI-powered IoT solutions are operating on historical datasets in an offline mode. By utilizing distinct AI models that introduce semantic learning with incremental data from within embedded runtime and develop reasoning through interactions within the connected environment, this invention closes the existing gap and further advances the distributed edge computing capabilities that introduce human -like cognitive abilities in IoT systems. R&amp;D on peer-to-peer collaboration between edge nodes get around resource constraints and implements workflows. The runtime architecture simulates the anatomical layers of the human nervous system and the methodical coordination of c-motor functions. The R&amp;D on integrated hardware and software solutions has achieved a few unique outcomes in developing advanced pervasive interlocking in the industrial 4.9 eras. The key results include the following:</p> <p>1.&nbsp;&nbsp;&nbsp; A unique hardware interface to aggregate multiple sensor data simultaneously and extend a standard-based integration with a diverse set of SBCs for real-time processing. Most common industrial gateways offer a limited set of ports for sensor integration and communication interfaces. The flexibility of such sensor integration and communication is critical to improving interoperability of IoT devices. The design is adaptive to the emerging microprocessor and NPU (neural processing unit) chip-enabled SBC to offer edge computing with advanced AI models.</p> <p>2.&nbsp;&nbsp;&nbsp; The Patent and cognitive runtime developed through phase I R&amp;D has established Ranial as the world&rsquo;s only company that could allow incremental learning and application of real-time AI at the edge of a distributed IIoT application. Other edge computing companies are promoting structured intelligence or deterministic / rule-based logic to process the sensory data collected at the edge.</p> <p>3.&nbsp;&nbsp;&nbsp; While the designed models are tested with a finite set of production grade data, the models have shown improvement on performance a near real-time adaptivity of changing physical conditions and deliver compelling actionable insights (with 84- 93 % accuracy).</p> <p>4.&nbsp;&nbsp;&nbsp; We have published one book chapter on extending Cognitive IoT to facilitate intelligent robotic process automation, and a patent application for AI driven real-time cyber defense solution for distributed IoT assets.</p> <p>The unique design of the platform has enabled few Untapped use cases in IoT implementation space. We have tested the platform using production grade datasets and scenarios and implemented the framework for a project that has gone live in March 2023. The innovation is promising significant value additions to drive critical technology competencies prioritized by federal government initiatives and investments:</p> <p>1.&nbsp;&nbsp;&nbsp; Intelligent Clean energy automation: The platform is successfully deployed and tested with utility scale distributed energy resource/ renewable and storage integration to achieve interoperability, self-healing, automated dispatch based on predicted generation and pricing metrices.</p> <p>2.&nbsp;&nbsp;&nbsp; Intelligent Manufacturing automation and quality control:&nbsp;&nbsp; Real-time quality control and plant asset management to maximize productivity and achieve zero downtime in advanced manufacturing that can reduce operational cost and improve productivity.</p> <p>3.&nbsp;&nbsp;&nbsp; AI powered Cycler-defense systems to protect critical infrastructure: Develop strong resiliency and robust protection against intrusive attacks by deploying edge native cyber defense system leveraging real-time cognitive AI.</p> <p>4.&nbsp;&nbsp;&nbsp; Develop AI powered System-on-chip (SOC) capabilities: The final design of the Edge controller could be embedded on system-on-chip module through fabrication. Such module could offer portable, highspeed data aggregation and AI powered chips to accelerate cognitive IoT appliance and embedded system development (for cybersecurity and IIoT).</p> <p>The future R&amp;D on focused solutions will address the critical imperatives of strategic developments in clean energy, sustainability and manufacturing industries in US.</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/31/2023<br>      Modified by: Prasenjit&nbsp;Bhadra</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2036503/2036503_10773889_1680291314919_CognitIoTRuntimeArchitecture--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2036503/2036503_10773889_1680291314919_CognitIoTRuntimeArchitecture--rgov-800width.jpg" title="CogntIoT� Runtime Architecture"><img src="/por/images/Reports/POR/2023/2036503/2036503_10773889_1680291314919_CognitIoTRuntimeArchitecture--rgov-66x44.jpg" alt="CogntIoT� Runtime Architecture"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The edge-to-edge collaboration and interactions</div> <div class="imageCredit">Ranial systems</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Prasenjit&nbsp;Bhadra</div> <div class="imageTitle">CogntIoT� Runtime Architecture</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Ranial Systems has introduced a novel autonomous IoT system that infuses cognitive edge computing within distributed Industry 4.0 solutions. The Phase I SBIR R&amp;D has helped Ranial translate the patented systems and methods into a unique Cognitive IoT runtime that empowers edge nodes to aggregate, process the sensory feeds and gain actionable insight by leveraging AI// ML capabilities. The designed platform introduced an integrated hardware and software runtime trademarked as CognitIoT&trade;. Unlike the most common edge computing platforms that are designed to shift the processing at the edge of the IoT infrastructure, CognitIoT&trade; introduced incremental learning and intelligent interpretation of the sensory feeds collected and correlated in real time. Instead of leveraging structured logic or deterministic intelligence to support fail-safe operations, the cognitive edge runtime can derive actionable insights as the system aggregates the data. Such capabilities allow the system to detect potential failure/problems ahead of time and execute autonomous operations based on such predictive and prescriptive insights. The proposed technology also adjusts to the changing cyber-physical environment, extends situational awareness, protects against cyber security threats, minimizes the cost of scaling network and cloud infrastructures, and delivers extreme responsiveness within mission-critical ecosystems such as smart grid surveillance, predictive maintenance of autonomous vehicles, and defense weaponry systems.  Most common AI-based solutions perform better on cloud or multi-cluster server infrastructure in a batch mode due to a strict requirement of massive computing and storage infrastructure. Hence most of the AI-powered IoT solutions are operating on historical datasets in an offline mode. By utilizing distinct AI models that introduce semantic learning with incremental data from within embedded runtime and develop reasoning through interactions within the connected environment, this invention closes the existing gap and further advances the distributed edge computing capabilities that introduce human -like cognitive abilities in IoT systems. R&amp;D on peer-to-peer collaboration between edge nodes get around resource constraints and implements workflows. The runtime architecture simulates the anatomical layers of the human nervous system and the methodical coordination of c-motor functions. The R&amp;D on integrated hardware and software solutions has achieved a few unique outcomes in developing advanced pervasive interlocking in the industrial 4.9 eras. The key results include the following:  1.    A unique hardware interface to aggregate multiple sensor data simultaneously and extend a standard-based integration with a diverse set of SBCs for real-time processing. Most common industrial gateways offer a limited set of ports for sensor integration and communication interfaces. The flexibility of such sensor integration and communication is critical to improving interoperability of IoT devices. The design is adaptive to the emerging microprocessor and NPU (neural processing unit) chip-enabled SBC to offer edge computing with advanced AI models.  2.    The Patent and cognitive runtime developed through phase I R&amp;D has established Ranial as the world’s only company that could allow incremental learning and application of real-time AI at the edge of a distributed IIoT application. Other edge computing companies are promoting structured intelligence or deterministic / rule-based logic to process the sensory data collected at the edge.  3.    While the designed models are tested with a finite set of production grade data, the models have shown improvement on performance a near real-time adaptivity of changing physical conditions and deliver compelling actionable insights (with 84- 93 % accuracy).  4.    We have published one book chapter on extending Cognitive IoT to facilitate intelligent robotic process automation, and a patent application for AI driven real-time cyber defense solution for distributed IoT assets.  The unique design of the platform has enabled few Untapped use cases in IoT implementation space. We have tested the platform using production grade datasets and scenarios and implemented the framework for a project that has gone live in March 2023. The innovation is promising significant value additions to drive critical technology competencies prioritized by federal government initiatives and investments:  1.    Intelligent Clean energy automation: The platform is successfully deployed and tested with utility scale distributed energy resource/ renewable and storage integration to achieve interoperability, self-healing, automated dispatch based on predicted generation and pricing metrices.  2.    Intelligent Manufacturing automation and quality control:   Real-time quality control and plant asset management to maximize productivity and achieve zero downtime in advanced manufacturing that can reduce operational cost and improve productivity.  3.    AI powered Cycler-defense systems to protect critical infrastructure: Develop strong resiliency and robust protection against intrusive attacks by deploying edge native cyber defense system leveraging real-time cognitive AI.  4.    Develop AI powered System-on-chip (SOC) capabilities: The final design of the Edge controller could be embedded on system-on-chip module through fabrication. Such module could offer portable, highspeed data aggregation and AI powered chips to accelerate cognitive IoT appliance and embedded system development (for cybersecurity and IIoT).  The future R&amp;D on focused solutions will address the critical imperatives of strategic developments in clean energy, sustainability and manufacturing industries in US.          Last Modified: 03/31/2023       Submitted by: Prasenjit Bhadra]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

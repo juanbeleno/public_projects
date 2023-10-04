@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Convergence Accelerator Track D: Scalable, TRaceable Ai for Imaging Translation: Innovation to Implementation for Accelerated Impact (STRAIT I3)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>999461.00</AwardTotalIntnAmount>
+<AwardAmount>999461</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mike Pozmantier</SignBlockName>
+<PO_EMAI>mpozmant@nsf.gov</PO_EMAI>
+<PO_PHON>7032924475</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future. &lt;br/&gt;&lt;br/&gt;This project, Convergence Accelerator Track D: Scalable, TRaceable Ai for Imaging Translation: Innovation to Implementation for accelerated Impact (STRAIT I3), addresses fundamental gaps between the science and the engineering that is preventing the effective use of AI models with medical imaging data. The project will leverage the large number of open dataset efforts available for medical imaging, including imaging resources for COVID-19. Thousands of AI models are also published in the scientific literature each year for such data. Yet, these resources are not consistently accessible at scale nor are they able to be validated for clinical application. This project includes three thrust areas to address this problem. Thrust Area 1 democratizes access to data sets through traceable data annotation. Thrust Area 2 transforms the assessment and peer review process for data, to ensure fair and consistent evaluation of technologies. Thrust Area 3 targets reproducible execution and comparison of models to facilitate translation to practice. In Phase I, this Convergence Accelerator project will create direct public health and technology benefits by enhancing the radiological assessment of COVID-19 pneumonia. In Phase II, it will extend these benefits into a medical imaging ecosystem spanning multiple medical imaging domains. Broader impacts will be achieved by engaging various identified communities through professionally led studios, consented A/B testing studies, and structured outreach. All project thrusts utilized open software and commodity hardware, wherever possible, so that the innovations from this project on scalable image data validation will enhance other related efforts in open source software, open science, reproducible science, and findable science.&lt;br/&gt;&lt;br/&gt;This project works towards achieving a fundamental rethinking in how model-centric AI could be validated and translated in medical imaging, algorithm design, and medical science. The intellectual activities are organized around three research thrusts, each addressing an essential challenge that currently confronts the development and translation of AI-based medical imaging tools. One research thrust is on creating a lightweight data provenance and annotation interface compatible with both clinical imaging and research studies. The second is on facilitating rapid innovation in AI architectures while creating an enhanced validation/peer review process to avoid irreproducible implementations and overtraining of models. The third thrust is the integration of these efforts into a novel Model Zoo to provide robust capabilities for validation, assessment, and translation. This research effort will utilize core scientific innovations from the collaborative team consisting of members from a  university (Vanderbilt), a medical center (Vanderbilt Medical Center), two industry partners (MD.ai, Kaggle), and a professional society (SIIM), alongside widely used, open source platforms. In Phase 1 of the Convergence Accelerator, the project will focus on newly created public and private datasets for COVID-19. Phase II will scale this approach to different medical imaging modalities, including dermatology and ophthalmology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040462</AwardID>
+<Investigator>
+<FirstName>Bennett</FirstName>
+<LastName>Landman</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bennett A Landman</PI_FULL_NAME>
+<EmailAddress><![CDATA[bennett.landman@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000562870</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cheryl</FirstName>
+<LastName>Carey</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cheryl K Carey</PI_FULL_NAME>
+<EmailAddress><![CDATA[ccarey@siim.org]]></EmailAddress>
+<NSF_ID>000831547</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ipek</FirstName>
+<LastName>Oguz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ipek Oguz</PI_FULL_NAME>
+<EmailAddress><![CDATA[ipek.oguz@vanderbilt.edu]]></EmailAddress>
+<NSF_ID>000832141</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steve</FirstName>
+<LastName>Langer</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steve G Langer</PI_FULL_NAME>
+<EmailAddress><![CDATA[steve.langer@flowsigma.com]]></EmailAddress>
+<NSF_ID>000827668</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Leon</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Leon Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[leon@md.ai]]></EmailAddress>
+<NSF_ID>000831803</NSF_ID>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>NASHVILLE</CityName>
+<ZipCode>372032416</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>110 21ST AVE S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GTNBNWXJ12D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VANDERBILT UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Vanderbilt University]]></Name>
+<CityName>Nashville</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>372032417</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~999461</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our project team made all planned deliverables and created a strong a community of scientists and innovators to advance the model zoo concept. As phase 2 was not funded, we worked to maximize the impact of the work and ensure that all deliverables are maximally disseminated to the community.&nbsp;We developed tutorial material and provided mentorship opportunities for graduate students. We participated in the IDEO coursework for professional development of the PI's/study team.&nbsp;The major activities were: Thrust 1: Data and Annotation. Worked with industry and academic collaborators to host a COVID-19 x-ray Kaggle Challenge. Thrust 2: Learning and Assessment: We pioneered deep learning techniques for use of thorax/body imaging. Thrust 3: Innovation and Translation: We extended the Vanderbilt COVID-19 Model Zoo and identified key partners who could realize a scalable national scale version of our prototype system. Integration Informatics and Quality Assurance (QA): We documented and released tools to support the model zoo and encapsulate the modular AI interface. Broader Impacts and Informatics: We worked with the IDEO process to engage targeted communities, consented A/B testing studies, and structured outreach.&nbsp;</p> <p>&nbsp;</p> <p>The significant results / deliverables under our planned thrust were:&nbsp;</p> <p>1.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thrust 1: Data and Annotation</p> <p>1.1.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable 1: Integrate COVID-19 Data&nbsp;</p> <p>All released datasets with COVID-19 imaging were curated and housed at Vanderbilt with SIIM. We partnered with SIIM and the FISABIO, The Foundation for the Promotion of Health and Biomedical Research of Valencia Region, to provide open access to a large COVID-19 datasets.&nbsp;</p> <p>1.1.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable 2: Annotation&nbsp;</p> <p>We annotated 7597 chest x-rays and 200 computed tomography datasets.&nbsp;</p> <p>1.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thrust 2: Learning and Assessment</p> <p>1.2.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable 3: Kaggle Challenge&nbsp;</p> <p>We executed a Kaggle Challenge with 1,305 teams. Awards were announced with the SIIM C-MIMI 2021 conference.&nbsp;</p> <p>1.2.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable 4: Enhanced Peer Review</p> <p>We provided reference Singularity virtual machines and full system images and an associated API. These were delivered to all partners and translation in underway with ML Commons.&nbsp;</p> <p>1.2.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable 5: SIIM ML Education Tutorials</p> <p>We submitted tutorials to the SIIM Journal of Digital Imaging.</p> <p>1.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thrust 3: Innovation and Translation</p> <p>1.3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable 6: Model Zoo</p> <p>We extended the model zoo and released open-source code.&nbsp;</p> <p>1.3.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable 7: DICOM/FHIR</p> <p>We demonstrated DICOM/FHIR integration of the Model Zoo with FlowSigma.</p> <p>1.3.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deliverable 8: Reference API</p> <p>We documented and released a reference API.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/04/2023<br>      Modified by: Bennett&nbsp;A&nbsp;Landman</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Our project team made all planned deliverables and created a strong a community of scientists and innovators to advance the model zoo concept. As phase 2 was not funded, we worked to maximize the impact of the work and ensure that all deliverables are maximally disseminated to the community. We developed tutorial material and provided mentorship opportunities for graduate students. We participated in the IDEO coursework for professional development of the PI's/study team. The major activities were: Thrust 1: Data and Annotation. Worked with industry and academic collaborators to host a COVID-19 x-ray Kaggle Challenge. Thrust 2: Learning and Assessment: We pioneered deep learning techniques for use of thorax/body imaging. Thrust 3: Innovation and Translation: We extended the Vanderbilt COVID-19 Model Zoo and identified key partners who could realize a scalable national scale version of our prototype system. Integration Informatics and Quality Assurance (QA): We documented and released tools to support the model zoo and encapsulate the modular AI interface. Broader Impacts and Informatics: We worked with the IDEO process to engage targeted communities, consented A/B testing studies, and structured outreach.      The significant results / deliverables under our planned thrust were:   1.1      Thrust 1: Data and Annotation  1.1.1       Deliverable 1: Integrate COVID-19 Data   All released datasets with COVID-19 imaging were curated and housed at Vanderbilt with SIIM. We partnered with SIIM and the FISABIO, The Foundation for the Promotion of Health and Biomedical Research of Valencia Region, to provide open access to a large COVID-19 datasets.   1.1.2       Deliverable 2: Annotation   We annotated 7597 chest x-rays and 200 computed tomography datasets.   1.2      Thrust 2: Learning and Assessment  1.2.1       Deliverable 3: Kaggle Challenge   We executed a Kaggle Challenge with 1,305 teams. Awards were announced with the SIIM C-MIMI 2021 conference.   1.2.2       Deliverable 4: Enhanced Peer Review  We provided reference Singularity virtual machines and full system images and an associated API. These were delivered to all partners and translation in underway with ML Commons.   1.2.3       Deliverable 5: SIIM ML Education Tutorials  We submitted tutorials to the SIIM Journal of Digital Imaging.  1.3      Thrust 3: Innovation and Translation  1.3.1       Deliverable 6: Model Zoo  We extended the model zoo and released open-source code.   1.3.2       Deliverable 7: DICOM/FHIR  We demonstrated DICOM/FHIR integration of the Model Zoo with FlowSigma.  1.3.3       Deliverable 8: Reference API  We documented and released a reference API.             Last Modified: 09/04/2023       Submitted by: Bennett A Landman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

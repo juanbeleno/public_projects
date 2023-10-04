@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Automated Medical Supply Dispenser to Decrease Spread of COVID-19 to Healthcare Professionals]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to protect healthcare workers and conserve personal protective equipment (PPE) through automated medication delivery. The healthcare system is facing an unprecedented emergency during the COVID-19 crisis.  The US has just 3.3 hospital beds available per 1,000 people, and healthcare workers have accounted for 10% of COVID-19 cases in Italy. This project will decrease the frequency of direct contact with patients through a medication dispenser integrated with the Electronic Health Record (EHR). In the near term, it will lower the chance of transmission of the novel coronavirus, saving limited PPE supplies, and potentially alleviating mounting pressure on the healthcare system.  In the longer term, it can be used for other medical conditions; for instance, it can enable a patient to self-administer pain medication in a device that provides reporting for EHR and the physician, potentially addressing the national opioid epidemic.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project is for the design and development of a medical device managed by secure software and integrated with the Electronic Health Record (EHR) via FHIR (Fast Hospital Interoperability Resources), an emerging protocol and evolution of HL7 (Health Level 7) intended to radically simplify the data interface in the EHR system. The outcome of the project is to further the interface between the device and the hospital EHR through FHIR. The SBIR Phase 1 project is focused on defining challenges for this EHR-FHIR integration, including potential cybersecurity risks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014255</AwardID>
+<Investigator>
+<FirstName>Cheryl</FirstName>
+<LastName>Lohman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cheryl Lohman</PI_FULL_NAME>
+<EmailAddress><![CDATA[Medapptic@gmail.com]]></EmailAddress>
+<NSF_ID>000783241</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MEDAPPTIC, LLC</Name>
+<CityName>GERMANTOWN</CityName>
+<ZipCode>208746235</ZipCode>
+<PhoneNumber>2402466104</PhoneNumber>
+<StreetAddress>18805 LAKE PLACID LN</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>N3ZWL1WRAJB1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MEDAPPTIC, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[MEDAPPTIC, LLC]]></Name>
+<CityName>Germantown</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>208746235</ZipCode>
+<StreetAddress><![CDATA[18805 Lake Placid Lane]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~225000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong><span style="text-decoration: underline;">MedApptic SBIR Phase I Project Outcomes Report&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></strong></p> <p>&nbsp;</p> <p>The goal of this SBIR Phase I project was research and development of a medical device, called QwickMeds, that could reduce transmission of COVID-19 to healthcare workers, preserve personal protective equipment (PPE), save nurse time, and provide supportive care. The device was also intended as personal storage for such items as hand sanitizer and other personal items for patients. The device was designed to be managed by secure software and integrated with the Electronic Medical Record (EMR) via an emerging software protocol called Fast Hospital Interoperability Resources. The Phase I objectives included exploring and testing the limits of integrating the device via FHIR and the EMR, which would determine the course of software development. Finally, a new objective was introduced late in the Phase I project to explore whether the existing FHIR Resources could capture and record medication supply chain tracking and tracing in the EMR, a critical step for securing the pharmaceutical supply chain in a digitally connected healthcare system.&nbsp;</p> <p>&nbsp;</p> <p>The target market for the device includes academic, community and federal government hospital administrators. Beneficiaries of the device include hospitalized patients, nurses and other healthcare staff, pharmacists, supply chain managers, and billing services managers.&nbsp;</p> <p>&nbsp;</p> <p>MedApptic achieved significant results during the Phase I project. These included development of two prototype devices, one that can accept and dispense medications and one to secure personal belongings such as eyeglasses, dentures, and hearing aids. These alpha prototypes are ready for user testing. Regarding software development, we identified problems with the basic UI/UX functionality and will be undertaking further refinement. We determined the limits of integration using FHIR and legacy EMR as well as the limits and considerations of interoperability and compatibility for the broader developing Internet of Medical Things (IoMT). We determined that we cannot code a single device that is interchangeable between the two major EMR systems (Epic and Cerner) through development of a program to support interoperability, given the differing protocols and approaches of the two systems.</p> <p>&nbsp;</p> <p>In addition to the above, there are broader applications of the QwickMeds device, specifically for nursing workflows and staffing constraints, the discipline of pain management, and the nationwide opioid crisis. The device can automate the process of tracking and recording patient medication administration by nurses, reducing EHR charting tasks for low-risk self-administered medication. QwickMeds will have an impact on the medical discipline of pain management. When administered early, as-needed pain medications can eliminate the need for more powerful narcotic pain medication. The device can enable patients to receive medications on time and within dosing windows while relieving nursing staff constraints and ensuring that medications are not left unsecured at patients&rsquo; bedsides. Ultimately, this will change pain management as a medical discipline. This will also improve hospice care, which operates under some of the same constraints set by the Joint Commissions. Another impact will be for neurology, specifically in the management of Parkinson&rsquo;s.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>In addition, the MedApptic team saw the potential for QwickMeds to have a broad societal impact. It would address the root cause of the nationwide opioid crisis through focusing on prevention by enabling faster medication delivery&mdash;while also advancing efficiency and enhancing patient satisfaction within the evolving healthcare delivery system.&nbsp;</p> <p>&nbsp;</p> <p>This project provided professional development opportunities for the MedApptic team, specifically through participation in Bootcamp and within the international working groups for HL7 and standards body IEEE.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/16/2021<br>      Modified by: Cheryl&nbsp;Lohman</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ MedApptic SBIR Phase I Project Outcomes Report                                                                               The goal of this SBIR Phase I project was research and development of a medical device, called QwickMeds, that could reduce transmission of COVID-19 to healthcare workers, preserve personal protective equipment (PPE), save nurse time, and provide supportive care. The device was also intended as personal storage for such items as hand sanitizer and other personal items for patients. The device was designed to be managed by secure software and integrated with the Electronic Medical Record (EMR) via an emerging software protocol called Fast Hospital Interoperability Resources. The Phase I objectives included exploring and testing the limits of integrating the device via FHIR and the EMR, which would determine the course of software development. Finally, a new objective was introduced late in the Phase I project to explore whether the existing FHIR Resources could capture and record medication supply chain tracking and tracing in the EMR, a critical step for securing the pharmaceutical supply chain in a digitally connected healthcare system.      The target market for the device includes academic, community and federal government hospital administrators. Beneficiaries of the device include hospitalized patients, nurses and other healthcare staff, pharmacists, supply chain managers, and billing services managers.      MedApptic achieved significant results during the Phase I project. These included development of two prototype devices, one that can accept and dispense medications and one to secure personal belongings such as eyeglasses, dentures, and hearing aids. These alpha prototypes are ready for user testing. Regarding software development, we identified problems with the basic UI/UX functionality and will be undertaking further refinement. We determined the limits of integration using FHIR and legacy EMR as well as the limits and considerations of interoperability and compatibility for the broader developing Internet of Medical Things (IoMT). We determined that we cannot code a single device that is interchangeable between the two major EMR systems (Epic and Cerner) through development of a program to support interoperability, given the differing protocols and approaches of the two systems.     In addition to the above, there are broader applications of the QwickMeds device, specifically for nursing workflows and staffing constraints, the discipline of pain management, and the nationwide opioid crisis. The device can automate the process of tracking and recording patient medication administration by nurses, reducing EHR charting tasks for low-risk self-administered medication. QwickMeds will have an impact on the medical discipline of pain management. When administered early, as-needed pain medications can eliminate the need for more powerful narcotic pain medication. The device can enable patients to receive medications on time and within dosing windows while relieving nursing staff constraints and ensuring that medications are not left unsecured at patients’ bedsides. Ultimately, this will change pain management as a medical discipline. This will also improve hospice care, which operates under some of the same constraints set by the Joint Commissions. Another impact will be for neurology, specifically in the management of Parkinson’s.       In addition, the MedApptic team saw the potential for QwickMeds to have a broad societal impact. It would address the root cause of the nationwide opioid crisis through focusing on prevention by enabling faster medication delivery&mdash;while also advancing efficiency and enhancing patient satisfaction within the evolving healthcare delivery system.      This project provided professional development opportunities for the MedApptic team, specifically through participation in Bootcamp and within the international working groups for HL7 and standards body IEEE.           Last Modified: 09/16/2021       Submitted by: Cheryl Lohman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

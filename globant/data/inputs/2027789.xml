@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Privacy-Preserving Crowdsensing of COVID-19 and its Sociological and Epidemiological Implications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>199597.00</AwardTotalIntnAmount>
+<AwardAmount>199597</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Joshi</SignBlockName>
+<PO_EMAI>jjoshi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The successful containment of pandemics such as COVID-19 requires the ability to record the presence of infections and track its spread within communities. While testing is the primary source to collect such information, the lack of testing resources and the resultant under-testing significantly hampers this effort. Mobile crowdsensing is an alternative technological approach that can be effective in such situations if used by a significant fraction of the population. However, privacy concerns as well as the stigma associated with the pandemic prove to be huge barriers that inhibit the accurate collection of information in this way. The goal of this project is to develop an infrastructure and platform to collect data from the population and distill it into aggregate information to provide insight to both users and policymakers while protecting privacy. The project also aims to gain a broader understanding of privacy and decision making in extreme situations and learn how humans value their privacy and the choices they make in such situations. The project will enable the collection of real-time data, which is not available otherwise, and will enable a more effective response to the COVID-19 pandemic. The increased dissemination of localized information to users can help encourage social distancing from a psychological perspective and thus contribute to the well-being of individuals in society. The improved understanding of privacy from a socio-cognitive perspective to be gained from this project will improve the quality of data privacy solutions that are developed in the future.&lt;br/&gt; &lt;br/&gt;The project will develop a crowdsensing tool that will use self-reported symptoms to effectively identify new clusters of COVID-19 and measure their growth in real-time. Within the project effort, the investigators will study both mathematical guarantees of privacy and the social aspects of privacy decision making, specific to this context. To provide privacy protection for users an appropriate definition of privacy that relaxes differential privacy and corresponding privacy mechanisms will be developed. The project will utilize insights from extant literature to enable users to make an informed decision regarding sharing their private information and also generate new knowledge regarding human privacy behavior in extreme health scenarios. The project also creates a research infrastructure to support and study important questions regarding privacy and public health, and develops new synergies by bringing together experts from privacy, crowdsensing, communication, and epidemiology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027789</AwardID>
+<Investigator>
+<FirstName>Jaideep</FirstName>
+<LastName>Vaidya</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jaideep Vaidya</PI_FULL_NAME>
+<EmailAddress><![CDATA[jsvaidya@rbs.rutgers.edu]]></EmailAddress>
+<NSF_ID>000291426</NSF_ID>
+<StartDate>04/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vivek</FirstName>
+<LastName>Singh</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vivek K Singh</PI_FULL_NAME>
+<EmailAddress><![CDATA[vivek.k.singh@rutgers.edu]]></EmailAddress>
+<NSF_ID>000678158</NSF_ID>
+<StartDate>04/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephanie</FirstName>
+<LastName>Shiau</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephanie Shiau</PI_FULL_NAME>
+<EmailAddress><![CDATA[stephanie.shiau@rutgers.edu]]></EmailAddress>
+<NSF_ID>000824146</NSF_ID>
+<StartDate>04/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Periklis</FirstName>
+<LastName>Papakonstantinou</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Periklis Papakonstantinou</PI_FULL_NAME>
+<EmailAddress><![CDATA[periklis.research@gmail.com]]></EmailAddress>
+<NSF_ID>000748895</NSF_ID>
+<StartDate>04/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University Newark</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>071023026</ZipCode>
+<PhoneNumber>9739720283</PhoneNumber>
+<StreetAddress>123 WASHINGTON ST STE 510</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T3NGNR66YK89</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M1LVPE5GLSD9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University Newark]]></Name>
+<CityName>Newark</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>071023122</ZipCode>
+<StreetAddress><![CDATA[1 Washington Park]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>065Z</Code>
+<Text>Human factors for security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199597</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Tracking infections and their spread is crucial in fighting pandemics like COVID-19. However, limited testing resources hinder effective tracking, especially during the early stages of a pandemic. Data-driven technologies, such as symptoms-tracking systems that collect and analyze relevant health information and location data, can be beneficial if there is sufficient participation. Unfortunately, privacy concerns and the stigma surrounding the pandemic discourage widespread involvement. This project conducted a comprehensive study to understand people's privacy concerns and attitudes towards the use of such data-driven technologies in extreme situations. It also developed methods and tools to address those concerns.</p> <p>A key outcome of the project was the development and public release of COVID Nearby, a privacy-preserving crowdsensing and reporting system that was made accessible to the public through web, iOS, and Android applications. The apps are still being maintained and potential applications in other areas are being explored. The research led to the development of efficient algorithms within Covid Nearby, ensuring provable privacy guarantees while facilitating data analysis at different regional levels (e.g., neighborhood, town, or state) and over time. An integrated framework was also developed to enable dynamic composition and management of personalized patient care plans for COVID-19.</p> <p>From a data sharing and open data perspective, a set of visual analytic techniques were also designed and developed to let defenders explore and interpret risks at the metadata level, triage vulnerable dataset groups, and corresponding high-risk joinable dataset pairs, and ultimately reason about the severity of the information disclosed at a record-level.</p> <p>From a behavior modeling perspective, the initial phase involved conducting focus groups to delve into people's expectations, privacy concerns, and the balancing act between personal privacy and both personal/family health and public health benefits. Subsequently, we conducted a user study to analyze individuals' privacy attitudes, preferences, and the tradeoffs they make when using a symptoms-tracking system such as Covid Nearby.</p> <p>From the perspective of intellectual merit, our research has enhanced our understanding of privacy during health emergencies, like pandemics, and made advancements in algorithms, engineering, and epidemiology. By studying privacy during a pandemic, we learned about the compromises people are willing to make between privacy and public health in extreme situations. These insights will guide the development of privacy-focused applications in the future. The privacy-preserving crowdsensing infrastructure that we built has broader applications in epidemiology, such as tracking vaccination rates and confirmed cases, and can be utilized for other purposes as well. Several students have been trained through the project, and education and dissemination activities have been carried out at both the undergraduate and graduate level.</p><br> <p>            Last Modified: 07/22/2023<br>      Modified by: Jaideep&nbsp;Vaidya</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2027789/2027789_10666862_1690063405457_covid-nearby-results--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2027789/2027789_10666862_1690063405457_covid-nearby-results--rgov-800width.jpg" title="Effectiveness of COVID Nearby as shown by empirical results"><img src="/por/images/Reports/POR/2023/2027789/2027789_10666862_1690063405457_covid-nearby-results--rgov-66x44.jpg" alt="Effectiveness of COVID Nearby as shown by empirical results"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Private counts are DP answers to SR queries computed by our method from the actual Covid-19 case count.</div> <div class="imageCredit">Hafiz Asif</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jaideep&nbsp;Vaidya</div> <div class="imageTitle">Effectiveness of COVID Nearby as shown by empirical results</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2027789/2027789_10666862_1690063969606_covid-nearby-user-study-results--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2027789/2027789_10666862_1690063969606_covid-nearby-user-study-results--rgov-800width.jpg" title="Privacy preferences expressed by people on COVID Nearby"><img src="/por/images/Reports/POR/2023/2027789/2027789_10666862_1690063969606_covid-nearby-user-study-results--rgov-66x44.jpg" alt="Privacy preferences expressed by people on COVID Nearby"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Privacy preferences expressed by people on COVID Nearby</div> <div class="imageCredit">Hafiz Asif</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jaideep&nbsp;Vaidya</div> <div class="imageTitle">Privacy preferences expressed by people on COVID Nearby</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2027789/2027789_10666862_1690062950085_covid-nearby-system--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2027789/2027789_10666862_1690062950085_covid-nearby-system--rgov-800width.jpg" title="The COVID Nearby System Overview"><img src="/por/images/Reports/POR/2023/2027789/2027789_10666862_1690062950085_covid-nearby-system--rgov-66x44.jpg" alt="The COVID Nearby System Overview"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The COVID Nearby system has three components. The Crowdsensing component collects and stores user reports. Private quadtree builder dynamically partitions the space via a collection of differentially private(DP) quadtrees. Query computer uses the DP quadtrees to compute spatiotemporal range queries.</div> <div class="imageCredit">Hafiz Asif</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jaideep&nbsp;Vaidya</div> <div class="imageTitle">The COVID Nearby System Overview</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Tracking infections and their spread is crucial in fighting pandemics like COVID-19. However, limited testing resources hinder effective tracking, especially during the early stages of a pandemic. Data-driven technologies, such as symptoms-tracking systems that collect and analyze relevant health information and location data, can be beneficial if there is sufficient participation. Unfortunately, privacy concerns and the stigma surrounding the pandemic discourage widespread involvement. This project conducted a comprehensive study to understand people's privacy concerns and attitudes towards the use of such data-driven technologies in extreme situations. It also developed methods and tools to address those concerns.  A key outcome of the project was the development and public release of COVID Nearby, a privacy-preserving crowdsensing and reporting system that was made accessible to the public through web, iOS, and Android applications. The apps are still being maintained and potential applications in other areas are being explored. The research led to the development of efficient algorithms within Covid Nearby, ensuring provable privacy guarantees while facilitating data analysis at different regional levels (e.g., neighborhood, town, or state) and over time. An integrated framework was also developed to enable dynamic composition and management of personalized patient care plans for COVID-19.  From a data sharing and open data perspective, a set of visual analytic techniques were also designed and developed to let defenders explore and interpret risks at the metadata level, triage vulnerable dataset groups, and corresponding high-risk joinable dataset pairs, and ultimately reason about the severity of the information disclosed at a record-level.  From a behavior modeling perspective, the initial phase involved conducting focus groups to delve into people's expectations, privacy concerns, and the balancing act between personal privacy and both personal/family health and public health benefits. Subsequently, we conducted a user study to analyze individuals' privacy attitudes, preferences, and the tradeoffs they make when using a symptoms-tracking system such as Covid Nearby.  From the perspective of intellectual merit, our research has enhanced our understanding of privacy during health emergencies, like pandemics, and made advancements in algorithms, engineering, and epidemiology. By studying privacy during a pandemic, we learned about the compromises people are willing to make between privacy and public health in extreme situations. These insights will guide the development of privacy-focused applications in the future. The privacy-preserving crowdsensing infrastructure that we built has broader applications in epidemiology, such as tracking vaccination rates and confirmed cases, and can be utilized for other purposes as well. Several students have been trained through the project, and education and dissemination activities have been carried out at both the undergraduate and graduate level.       Last Modified: 07/22/2023       Submitted by: Jaideep Vaidya]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

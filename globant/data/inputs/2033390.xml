@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Improving Computational Epidemiology with Higher Fidelity Models of Human Behavior]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199999.00</AwardTotalIntnAmount>
+<AwardAmount>211999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Forecasts of how the COVID-19 epidemic will progress, in terms of regional rate of infections and deaths, are made by epidemiological models.  The projections of these models influence the decisions of public health and other officials, as well as members of the general public. In the absence of a vaccine, it is crucial that epidemiological models accurately predict how the rate of transmission changes in response to non-pharmaceutical interventions such as advisories about social distancing, wearing masks, washing hands, etc.  This requires accurate and precise modeling of how people respond both psychologically and behaviorally to this guidance.  People in different regions and subgroups may have very different individual mindsets and capabilities so that they respond differently to different guidance, which may change over time, e.g., “shelter-in-place fatigue”. Current epidemiological models are do not incorporate scientifically established computational models of human psychology and behavior change.  This project is about developing agents that represent an individual, and populations of agents simulating the human population of a given area to be part of a new kind of epidemiological model for forecasting Covid-19 cases. &lt;br/&gt;&lt;br/&gt;Individual agents will be built upon prior models of decision-making and behavior-change. This will model relevant individual-level responses and resulting population dynamics for a select set of US regions. Online media and datasets will be used to seed populations of agents to model populations of the selected US regions. New algorithms for cognitive content mining of attitudes, beliefs, intentions, and preferences for a regional population will be developed and validated quantitatively against observed behavior and epidemiological data in a set of US state-level data (four states and their sub-regions) using a mix of statistical modeling and agent-based modeling.  Improvements in regional forecasting of Covid-19 incidence rates, estimated transmission rates in response to community guidance, and behavior compliance using cell-phone mobility and non-essential visit data to measure effectiveness of the newly designed agents and enhance the design of messages to  contain COVID-19.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033390</AwardID>
+<Investigator>
+<FirstName>Christian</FirstName>
+<LastName>Lebiere</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christian Lebiere</PI_FULL_NAME>
+<EmailAddress><![CDATA[cl@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000216870</NSF_ID>
+<StartDate>05/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Pirolli</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter Pirolli</PI_FULL_NAME>
+<EmailAddress><![CDATA[ppirolli@ihmc.us]]></EmailAddress>
+<NSF_ID>000538577</NSF_ID>
+<StartDate>05/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Orr</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark Orr</PI_FULL_NAME>
+<EmailAddress><![CDATA[mo6xj@virginia.edu]]></EmailAddress>
+<NSF_ID>000658945</NSF_ID>
+<StartDate>05/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida Institute for Human and Machine Cognition, Inc.</Name>
+<CityName>PENSACOLA</CityName>
+<ZipCode>325026008</ZipCode>
+<PhoneNumber>8502024473</PhoneNumber>
+<StreetAddress>40 S ALCANIZ ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMXDXET56K76</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INSTITUTE FOR HUMAN &amp; MACHINE COGNITION INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMXDXET56K76</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida Institute for Human and Machine Cognition]]></Name>
+<CityName>Pensacola</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>325026008</ZipCode>
+<StreetAddress><![CDATA[40 S. Alcaniz Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~211999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Forecasts of how pandemics (e.g., COVID-19) progress are made by epidemiological models.&nbsp; For instance, the charts of pandemic case rates and death rates seen in the news are often presented with projections for the near-term future. The projections of these models influence the decisions of public health and other officials, as well as members of the public. It is crucial that epidemiological models accurately predict how the rate of transmission changes in response to non-pharmaceutical interventions (NPIs) such as advisories about social distancing, wearing masks, washing hands, etc., as well as to individual awareness of pandemic information or misinformation.&nbsp; This requires accurate and precise modeling of how people respond psychologically and behaviorally to the NPIs and the information ecology. People in different regions and subgroups with different individual mindsets and capabilities respond differently, and those responses change over time. This project uses an innovative computational approach to forecast the dynamics of people?s attitudes, decision-making and behavior in response to NPIs&nbsp; and to the associated ecosystem of information and disinformation. We developed a proof-of-concept modeling approach that uses Psychologically Valid Agents (PVAs). We developed PVAs, based on the ACT-R computational cognition theory, that utilizes available data about the ongoing information dynamics (e.g., Twitter; mass media), world events (e.g., mandates; rising case counts), and polling data for specified regions, and models regional attitudes and behaviors such as mask-wearing and social distancing.&nbsp; We anticipate that such models will be important to predicting and explaining the dynamics of human behavior in pandemics, and how those changes affect pathogen transmission and evolution.</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/05/2021<br>      Modified by: Peter&nbsp;Pirolli</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2033390/2033390_10672291_1630864333859_Slide1--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2033390/2033390_10672291_1630864333859_Slide1--rgov-800width.jpg" title="Psychological Valid Agents for Pandemic Intelligence"><img src="/por/images/Reports/POR/2021/2033390/2033390_10672291_1630864333859_Slide1--rgov-66x44.jpg" alt="Psychological Valid Agents for Pandemic Intelligence"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Psychological Valid Agents for Pandemic Intelligence</div> <div class="imageCredit">Peter Pirolli</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Peter&nbsp;Pirolli</div> <div class="imageTitle">Psychological Valid Agents for Pandemic Intelligence</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Forecasts of how pandemics (e.g., COVID-19) progress are made by epidemiological models.  For instance, the charts of pandemic case rates and death rates seen in the news are often presented with projections for the near-term future. The projections of these models influence the decisions of public health and other officials, as well as members of the public. It is crucial that epidemiological models accurately predict how the rate of transmission changes in response to non-pharmaceutical interventions (NPIs) such as advisories about social distancing, wearing masks, washing hands, etc., as well as to individual awareness of pandemic information or misinformation.  This requires accurate and precise modeling of how people respond psychologically and behaviorally to the NPIs and the information ecology. People in different regions and subgroups with different individual mindsets and capabilities respond differently, and those responses change over time. This project uses an innovative computational approach to forecast the dynamics of people?s attitudes, decision-making and behavior in response to NPIs  and to the associated ecosystem of information and disinformation. We developed a proof-of-concept modeling approach that uses Psychologically Valid Agents (PVAs). We developed PVAs, based on the ACT-R computational cognition theory, that utilizes available data about the ongoing information dynamics (e.g., Twitter; mass media), world events (e.g., mandates; rising case counts), and polling data for specified regions, and models regional attitudes and behaviors such as mask-wearing and social distancing.  We anticipate that such models will be important to predicting and explaining the dynamics of human behavior in pandemics, and how those changes affect pathogen transmission and evolution.          Last Modified: 09/05/2021       Submitted by: Peter Pirolli]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

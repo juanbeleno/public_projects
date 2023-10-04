@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Empowering Educators with AI During Distance Learning (COVID-19)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255844.00</AwardTotalIntnAmount>
+<AwardAmount>275844</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is that it will provide new tools to evaluate and enhance teaching of higher-order critical thinking.  This project will leverage advanced machine learning models to generate critical-thinking questions for any text a student reads, analyze their written response, give them immediate feedback on how to refine their thinking, and ultimately provide data-driven insights to their teachers. The capability to automatically interpret open-ended responses using artificial intelligence (AI) is a rich area for the educational community.  This project will deepen the education community's knowledge in this area and apply the findings to K-12 education. In particular, the results may lead to a new evaluation architecture relying less on multiple-choice questions and related techniques, enhancing education with a method to efficiently evaluate and provide feedback with open-ended and short-response questions. This project will address the problem of using multiple-choice assessments to assess ‘learning’ and move to more accurate ways to ascertain the nuances of learning.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project focuses on automated short-answer scoring to solve a pressing and largely unsolved problem. Most work in automated scoring focuses on longer essay grading, which is more relevant for higher education. At this time, there are no general-purpose algorithms available for short responses. Adding to the technical complexity is the fact that this project’s machine learning approach needs to work for any book or text, and include questions written by any user. This project will improve the accuracy and detail of assessments, particularly with written responses regarding texts new to the reader. This project will require deep-learning natural language processing (NLP) technology to fully model language representation. The proposed system will ingest the subject text and the associated question before evaluating the written response without prior submissions used as training data. The project prototype will be developed for English Language Arts instruction prior to broader deployment across other disciplines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/11/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035129</AwardID>
+<Investigator>
+<FirstName>Gilles</FirstName>
+<LastName>Ferone</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gilles Ferone</PI_FULL_NAME>
+<EmailAddress><![CDATA[gilles@whooosreading.org]]></EmailAddress>
+<NSF_ID>000853599</NSF_ID>
+<StartDate>04/12/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Sherrid</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory Sherrid</PI_FULL_NAME>
+<EmailAddress><![CDATA[greg@whooosreading.org]]></EmailAddress>
+<NSF_ID>000828954</NSF_ID>
+<StartDate>02/11/2021</StartDate>
+<EndDate>04/12/2021</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>LEARN2EARN CORPORATION</Name>
+<CityName>SAN DIEGO</CityName>
+<ZipCode>921033301</ZipCode>
+<PhoneNumber>6192305144</PhoneNumber>
+<StreetAddress>1223 CLEVELAND AVE</StreetAddress>
+<StreetAddress2><![CDATA[# 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZMKEL96F6S53</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LEARN2EARN CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Learn2Earn Corportation]]></Name>
+<CityName>San Diego</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>921033301</ZipCode>
+<StreetAddress><![CDATA[1223 Cleveland Ave #200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1707</Code>
+<Text>ADVANCED LEARNING TECHNOLOGIES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~275844</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-b14ddb37-7fff-5edc-19f2-b26da8e56723"> </span></p> <p dir="ltr"><span>Whooo?s Reading?s Phase I project focused on developing an AI approach to evaluating written responses of K12 students. The focus of our AI was to help students become better writers and empower teachers with actionable data to help their students in that pursuit. The following are three novel elements of our research and implementation.&nbsp;</span></p> <p dir="ltr"><span>The first novel element of our work was evaluating short-written responses using AI. In recent years AI has primarily been used to score long essays, but that AI overlooked teachers? needs to score shorter responses. Scoring shorter responses ranging from a sentence to a paragraph is much more difficult to achieve because there is less signal. The reason why short responses are important to K12 education is that short-form writing is the type of assignments teachers require regularly, whereas essays are infrequently assigned. During our Phase I, we scored 3M+ short responses written by K12 students and successfully scored them with an accuracy ranging from 80%-90% for ten different skills demanded by teachers.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>The second unique aspect of our Phase I was how our AI was developed to analyze students? writing as a response to their reading comprehension. This is important because the writing demanded by curricula and state standards is based on responding to texts that have been read. Our AI is able to take into consideration how students? responses connect to the text they read.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>The third innovative facet of our work, and this one is the most important, is how we trained our AI to think like a teacher. Educators are wary of opaque black-box algorithms that only output a score. To address this, we collaborated with a large team of educators to translate our scores into actionable data. Moreover, we trained our AI to evaluate answers differently at each grade level. The result of this work allowed us to have an overall score for the written answer and then a sub-score for each of the 10 reading and writing skills valued by teachers and then calibrate that score based on the student?s grade level. This outcome is game-changing because it allows teachers to trust an AI to evaluate their students? writing.&nbsp; Furthermore, it saves teachers precious time and empowers them with useful data so they can focus on what their students need immediately.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>In February 2022, we were able to implement the first predictive model created during Phase I in real classrooms. The model measured if students correctly restated the question in their answers. Our technology gives students immediate feedback when their answers are missing a critical component. So, when we launched this new ?restating model? our AI identified a cohort of roughly 650 students who were consistently not restating the question. Those students in February were getting triggered feedback to try to restate the question in their introduction. Four months later, 72% of those students no longer were triggering the restating feedback message, indicating that they internalized and fully learned the skill. This encouraging result demonstrates our AI?s ability to identify a granular and hard-to-measure skill in a short response, and then subsequently teach the student how to improve that skill.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Writing is fundamental to how we communicate in the 21st century. Whether we are writing emails, research reports, Slack messages, or texting ? we share ideas, defend opinions, convince peers, and understand ourselves through writing. Writing is also an increasingly essential part of K12 and higher education as it is the medium through which higher-level thinking skills are expressed, yet it comes with the burden of increased time grading for educators. We believe that the work we have accomplished during Phase I, and the work we are now building upon now, will soon help tens of thousands of students become better writers. With continued progress in our project, students will write more clearly, support their positions more convincingly, present higher quality evidence and explain it well, and much more.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 09/05/2022<br>      Modified by: Gilles&nbsp;Ferone</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2035129/2035129_10716911_1662407543268_new_rubric--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2035129/2035129_10716911_1662407543268_new_rubric--rgov-800width.jpg" title="Scoring Rubric"><img src="/por/images/Reports/POR/2022/2035129/2035129_10716911_1662407543268_new_rubric--rgov-66x44.jpg" alt="Scoring Rubric"></a> <div class="imageCaptionContainer"> <div class="imageCaption">We can now evaluate a written response according to these ten reading and writing skills. Our AI differentiates its scoring according to each student's grade level.</div> <div class="imageCredit">Whooo's Reading</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Gilles&nbsp;Ferone</div> <div class="imageTitle">Scoring Rubric</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2035129/2035129_10716911_1662407426981_text-evidence-predictions--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2035129/2035129_10716911_1662407426981_text-evidence-predictions--rgov-800width.jpg" title="Accuracy in AI predictions"><img src="/por/images/Reports/POR/2022/2035129/2035129_10716911_1662407426981_text-evidence-predictions--rgov-66x44.jpg" alt="Accuracy in AI predictions"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This graph shows we effective we became at identifying in a student's response if they cited sufficient text details.</div> <div class="imageCredit">Whooo's Reading</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Gilles&nbsp;Ferone</div> <div class="imageTitle">Accuracy in AI predictions</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2035129/2035129_10716911_1662407367069_feedback_impact--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2035129/2035129_10716911_1662407367069_feedback_impact--rgov-800width.jpg" title="Impact of AI driven feedback"><img src="/por/images/Reports/POR/2022/2035129/2035129_10716911_1662407367069_feedback_impact--rgov-66x44.jpg" alt="Impact of AI driven feedback"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This graph explains how the automatic feedback we give students leads to them "long-term" learning how to restate the question in their writing.</div> <div class="imageCredit">Whooo's Reading</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Gilles&nbsp;Ferone</div> <div class="imageTitle">Impact of AI driven feedback</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Whooo?s Reading?s Phase I project focused on developing an AI approach to evaluating written responses of K12 students. The focus of our AI was to help students become better writers and empower teachers with actionable data to help their students in that pursuit. The following are three novel elements of our research and implementation.  The first novel element of our work was evaluating short-written responses using AI. In recent years AI has primarily been used to score long essays, but that AI overlooked teachers? needs to score shorter responses. Scoring shorter responses ranging from a sentence to a paragraph is much more difficult to achieve because there is less signal. The reason why short responses are important to K12 education is that short-form writing is the type of assignments teachers require regularly, whereas essays are infrequently assigned. During our Phase I, we scored 3M+ short responses written by K12 students and successfully scored them with an accuracy ranging from 80%-90% for ten different skills demanded by teachers.     The second unique aspect of our Phase I was how our AI was developed to analyze students? writing as a response to their reading comprehension. This is important because the writing demanded by curricula and state standards is based on responding to texts that have been read. Our AI is able to take into consideration how students? responses connect to the text they read.    The third innovative facet of our work, and this one is the most important, is how we trained our AI to think like a teacher. Educators are wary of opaque black-box algorithms that only output a score. To address this, we collaborated with a large team of educators to translate our scores into actionable data. Moreover, we trained our AI to evaluate answers differently at each grade level. The result of this work allowed us to have an overall score for the written answer and then a sub-score for each of the 10 reading and writing skills valued by teachers and then calibrate that score based on the student?s grade level. This outcome is game-changing because it allows teachers to trust an AI to evaluate their students? writing.  Furthermore, it saves teachers precious time and empowers them with useful data so they can focus on what their students need immediately.     In February 2022, we were able to implement the first predictive model created during Phase I in real classrooms. The model measured if students correctly restated the question in their answers. Our technology gives students immediate feedback when their answers are missing a critical component. So, when we launched this new ?restating model? our AI identified a cohort of roughly 650 students who were consistently not restating the question. Those students in February were getting triggered feedback to try to restate the question in their introduction. Four months later, 72% of those students no longer were triggering the restating feedback message, indicating that they internalized and fully learned the skill. This encouraging result demonstrates our AI?s ability to identify a granular and hard-to-measure skill in a short response, and then subsequently teach the student how to improve that skill.    Writing is fundamental to how we communicate in the 21st century. Whether we are writing emails, research reports, Slack messages, or texting ? we share ideas, defend opinions, convince peers, and understand ourselves through writing. Writing is also an increasingly essential part of K12 and higher education as it is the medium through which higher-level thinking skills are expressed, yet it comes with the burden of increased time grading for educators. We believe that the work we have accomplished during Phase I, and the work we are now building upon now, will soon help tens of thousands of students become better writers. With continued progress in our project, students will write more clearly, support their positions more convincingly, present higher quality evidence and explain it well, and much more.          Last Modified: 09/05/2022       Submitted by: Gilles Ferone]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

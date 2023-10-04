@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Mathematical Models for Understanding Key Epidemiological Parameters and Transmission of SARS-CoV-2]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krastan Blagoev</SignBlockName>
+<PO_EMAI>kblagoev@nsf.gov</PO_EMAI>
+<PO_PHON>7032924666</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The COVID-19 pandemic, caused by SARS-CoV-2, represents a true global emergency and crisis that needs to be addressed immediately. Currently we do not have a good understanding of quantitative estimates of key epidemiological parameters, such as the time from infection to becoming infectious, the duration of infectiousness, and how these durations are affected by symptom severity. We do not know how much transmission is driven by asymptomatic individuals and individuals with mild, moderate, or severe symptoms. Lastly, we do not know how the viral load relates to the infectiousness of an individual. By constructing multiscale models and integrating multiple streams of data from different biological scales into a coherent model framework, the project will address these unknowns through mathematical modeling and thus advance our understanding of COVID-19 transmission. This understanding will be then used to make precise predictions and evaluations of the impacts of interventions, i.e. much needed intellectual advancement to address the current COVID-19 global pandemic. The results of the project will be presented to public health professionals and government officials to aid decision making through regular meetings and connections that the team members participate and maintain. For example, co-PI Ke regularly participates in weekly CDC modeling group meetings and in monthly meetings with a working group commissioned by the White House called PPFST. Co-PIs Hengartner and Romero-Severnson have close connections with the New Mexico Department of Health. The PIs will ensure that the project is designed and formulated to address critical public health questions and that the results can be used by public health officials.&lt;br/&gt;&lt;br/&gt;The objective of this research project is to advance the fundamental understanding of key epidemiological parameters and determinants for SARS-CoV-2 that are essential to better quantify and predict SARS-CoV-2 transmission dynamics. The investigators will use mathematical modeling of SARS-CoV-2 dynamics across multiple scales. First, the PI will develop within-host models of SARS-CoV-2 infection and will fit the model to data from literature to estimate parameters such as the time from cell infection to release of virus into bodily fluids, the rate of viral production from infected cells, the infected cell lifespan, and other factors that link to transmission and disease severity. Another aim is to use the model to predict the effectiveness of drug therapy as a function of person's viral load. Second, the PI will tie the within-host dynamics to clinical factors, such as the time between infection and viral shedding, time to symptoms, and in some cases to time of death, which are important in understanding transmission dynamics and intervention effectiveness. Ultimately, this project will provide a quantitative framework to evaluate the effectiveness of pharmaceutical and non-pharmaceutical interventions, e.g., quarantine, school closures, and other means of social distancing.&lt;br/&gt;&lt;br/&gt;This grant is being awarded using funds made available by the Coronavirus Aid, Relief, and Economic Security (CARES) Act supplement allocated to MPS.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031756</AwardID>
+<Investigator>
+<FirstName>Ruian</FirstName>
+<LastName>Ke</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ruian Ke</PI_FULL_NAME>
+<EmailAddress><![CDATA[rke.work@gmail.com]]></EmailAddress>
+<NSF_ID>000824826</NSF_ID>
+<StartDate>05/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>Perelson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alan Perelson</PI_FULL_NAME>
+<EmailAddress><![CDATA[asperelson@gmail.com]]></EmailAddress>
+<NSF_ID>000684121</NSF_ID>
+<StartDate>05/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nicolas</FirstName>
+<LastName>Hengartner</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicolas W Hengartner</PI_FULL_NAME>
+<EmailAddress><![CDATA[nickh@lanl.gov]]></EmailAddress>
+<NSF_ID>000579423</NSF_ID>
+<StartDate>05/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ethan</FirstName>
+<LastName>Romero-Severson</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ethan O Romero-Severson</PI_FULL_NAME>
+<EmailAddress><![CDATA[eoromero@lanl.gov]]></EmailAddress>
+<NSF_ID>000816388</NSF_ID>
+<StartDate>05/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Mexico Consortium</Name>
+<CityName>LOS ALAMOS</CityName>
+<ZipCode>875442587</ZipCode>
+<PhoneNumber>5054124200</PhoneNumber>
+<StreetAddress>4200 W JEMEZ RD STE 301</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TUMCX1C2C4B3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NMC, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[NMC, INC]]></Name>
+<CityName>Los Alamos</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>875445501</ZipCode>
+<StreetAddress><![CDATA[4200 W JEMEZ RD, Ste 301]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><!-- @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;  mso-font-charset:0;  mso-generic-font-family:roman;  mso-font-pitch:variable;  mso-font-signature:-536870145 1107305727 0 0 415 0;}@font-face  {font-family:DengXian;  panose-1:2 1 6 0 3 1 1 1 1 1;  mso-font-alt:&#31561;&#32447;;  mso-font-charset:134;  mso-generic-font-family:auto;  mso-font-pitch:variable;  mso-font-signature:-1610612033 953122042 22 0 262159 0;}@font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;  mso-font-charset:0;  mso-generic-font-family:swiss;  mso-font-pitch:variable;  mso-font-signature:-536859905 -1073732485 9 0 511 0;}@font-face  {font-family:"\@DengXian";  panose-1:2 1 6 0 3 1 1 1 1 1;  mso-font-charset:134;  mso-generic-font-family:auto;  mso-font-pitch:variable;  mso-font-signature:-1610612033 953122042 22 0 262159 0;}p.MsoNormal, li.MsoNormal, div.MsoNormal  {mso-style-unhide:no;  mso-style-qformat:yes;  mso-style-parent:";  margin:0in;  mso-pagination:widow-orphan;  font-size:12.0pt;  font-family:"Calibri",sans-serif;  mso-ascii-font-family:Calibri;  mso-ascii-theme-font:minor-latin;  mso-fareast-font-family:DengXian;  mso-fareast-theme-font:minor-fareast;  mso-hansi-font-family:Calibri;  mso-hansi-theme-font:minor-latin;  mso-bidi-font-family:"Times New Roman";  mso-bidi-theme-font:minor-bidi;  mso-fareast-language:ZH-CN;}p.xmsonormal, li.xmsonormal, div.xmsonormal  {mso-style-name:x_msonormal;  mso-style-unhide:no;  mso-margin-top-alt:auto;  margin-right:0in;  mso-margin-bottom-alt:auto;  margin-left:0in;  mso-pagination:widow-orphan;  font-size:12.0pt;  font-family:"Times New Roman",serif;  mso-fareast-font-family:"Times New Roman";}.MsoChpDefault  {mso-style-type:export-only;  mso-default-props:yes;  font-family:"Calibri",sans-serif;  mso-ascii-font-family:Calibri;  mso-ascii-theme-font:minor-latin;  mso-fareast-font-family:DengXian;  mso-fareast-theme-font:minor-fareast;  mso-hansi-font-family:Calibri;  mso-hansi-theme-font:minor-latin;  mso-bidi-font-family:"Times New Roman";  mso-bidi-theme-font:minor-bidi;  mso-fareast-language:ZH-CN;}div.WordSection1  {page:WordSection1;} --><!-- @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;  mso-font-charset:0;  mso-generic-font-family:roman;  mso-font-pitch:variable;  mso-font-signature:-536870145 1107305727 0 0 415 0;}@font-face  {font-family:DengXian;  panose-1:2 1 6 0 3 1 1 1 1 1;  mso-font-alt:&#31561;&#32447;;  mso-font-charset:134;  mso-generic-font-family:auto;  mso-font-pitch:variable;  mso-font-signature:-1610612033 953122042 22 0 262159 0;}@font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;  mso-font-charset:0;  mso-generic-font-family:swiss;  mso-font-pitch:variable;  mso-font-signature:-536859905 -1073732485 9 0 511 0;}@font-face  {font-family:"\@DengXian";  panose-1:2 1 6 0 3 1 1 1 1 1;  mso-font-charset:134;  mso-generic-font-family:auto;  mso-font-pitch:variable;  mso-font-signature:-1610612033 953122042 22 0 262159 0;}p.MsoNormal, li.MsoNormal, div.MsoNormal  {mso-style-unhide:no;  mso-style-qformat:yes;  mso-style-parent:";  margin:0in;  mso-pagination:widow-orphan;  font-size:12.0pt;  font-family:"Calibri",sans-serif;  mso-ascii-font-family:Calibri;  mso-ascii-theme-font:minor-latin;  mso-fareast-font-family:DengXian;  mso-fareast-theme-font:minor-fareast;  mso-hansi-font-family:Calibri;  mso-hansi-theme-font:minor-latin;  mso-bidi-font-family:"Times New Roman";  mso-bidi-theme-font:minor-bidi;  mso-fareast-language:ZH-CN;}p.xmsonormal, li.xmsonormal, div.xmsonormal  {mso-style-name:x_msonormal;  mso-style-unhide:no;  mso-margin-top-alt:auto;  margin-right:0in;  mso-margin-bottom-alt:auto;  margin-left:0in;  mso-pagination:widow-orphan;  font-size:12.0pt;  font-family:"Times New Roman",serif;  mso-fareast-font-family:"Times New Roman";}.MsoChpDefault  {mso-style-type:export-only;  mso-default-props:yes;  font-family:"Calibri",sans-serif;  mso-ascii-font-family:Calibri;  mso-ascii-theme-font:minor-latin;  mso-fareast-font-family:DengXian;  mso-fareast-theme-font:minor-fareast;  mso-hansi-font-family:Calibri;  mso-hansi-theme-font:minor-latin;  mso-bidi-font-family:"Times New Roman";  mso-bidi-theme-font:minor-bidi;  mso-fareast-language:ZH-CN;}div.WordSection1  {page:WordSection1;} --> <!-- @font-face  {font-family:"Cambria Math";  panose-1:2 4 5 3 5 4 6 3 2 4;  mso-font-charset:0;  mso-generic-font-family:roman;  mso-font-pitch:variable;  mso-font-signature:-536870145 1107305727 0 0 415 0;}@font-face  {font-family:DengXian;  panose-1:2 1 6 0 3 1 1 1 1 1;  mso-font-alt:&#31561;&#32447;;  mso-font-charset:134;  mso-generic-font-family:auto;  mso-font-pitch:variable;  mso-font-signature:-1610612033 953122042 22 0 262159 0;}@font-face  {font-family:Calibri;  panose-1:2 15 5 2 2 2 4 3 2 4;  mso-font-charset:0;  mso-generic-font-family:swiss;  mso-font-pitch:variable;  mso-font-signature:-536859905 -1073732485 9 0 511 0;}@font-face  {font-family:"\@DengXian";  panose-1:2 1 6 0 3 1 1 1 1 1;  mso-font-charset:134;  mso-generic-font-family:auto;  mso-font-pitch:variable;  mso-font-signature:-1610612033 953122042 22 0 262159 0;}p.MsoNormal, li.MsoNormal, div.MsoNormal  {mso-style-unhide:no;  mso-style-qformat:yes;  mso-style-parent:";  margin:0in;  mso-pagination:widow-orphan;  font-size:12.0pt;  font-family:"Calibri",sans-serif;  mso-ascii-font-family:Calibri;  mso-ascii-theme-font:minor-latin;  mso-fareast-font-family:DengXian;  mso-fareast-theme-font:minor-fareast;  mso-hansi-font-family:Calibri;  mso-hansi-theme-font:minor-latin;  mso-bidi-font-family:"Times New Roman";  mso-bidi-theme-font:minor-bidi;  mso-fareast-language:ZH-CN;}h2  {mso-style-priority:9;  mso-style-unhide:no;  mso-style-qformat:yes;  mso-style-link:"Heading 2 Char";  mso-margin-top-alt:auto;  margin-right:0in;  mso-margin-bottom-alt:auto;  margin-left:0in;  mso-pagination:widow-orphan;  mso-outline-level:2;  font-size:18.0pt;  font-family:"Times New Roman",serif;  mso-fareast-font-family:"Times New Roman";}span.Heading2Char  {mso-style-name:"Heading 2 Char";  mso-style-priority:9;  mso-style-unhide:no;  mso-style-locked:yes;  mso-style-link:"Heading 2";  mso-ansi-font-size:18.0pt;  mso-bidi-font-size:18.0pt;  font-family:"Times New Roman",serif;  mso-ascii-font-family:"Times New Roman";  mso-fareast-font-family:"Times New Roman";  mso-hansi-font-family:"Times New Roman";  mso-bidi-font-family:"Times New Roman";  mso-fareast-language:EN-US;  font-weight:bold;}.MsoChpDefault  {mso-style-type:export-only;  mso-default-props:yes;  font-family:"Calibri",sans-serif;  mso-ascii-font-family:Calibri;  mso-ascii-theme-font:minor-latin;  mso-fareast-font-family:DengXian;  mso-fareast-theme-font:minor-fareast;  mso-hansi-font-family:Calibri;  mso-hansi-theme-font:minor-latin;  mso-bidi-font-family:"Times New Roman";  mso-bidi-theme-font:minor-bidi;  mso-fareast-language:ZH-CN;}div.WordSection1  {page:WordSection1;} --> <p>NSF RAPID Grant: Mathematical Models for Understanding Key Epidemiological Parameters and Transmission of SARS-CoV-2</p> <p>After SARS-CoV2 began spreading in late 2019, the virus was observed to rapidly be accumulating new mutations such as D614G that could be related to increased contagiousness. This observation initially was very controversial as there was no formal method for determining if a mutation in SARS-CoV-2 was increasing at a rate faster than would be expected by chance alone. This confusion was amplified by several high-profile publications that suggested that the very rapid emergence of new variants was not evidence of increased contagiousness. Our work has expanded the way that we use SARS-CoV-2 mutations to study how COVID-19 is spreading and determining how risky are the newly emerging strains of SARS-CoV-2.&nbsp;&nbsp;&nbsp;</p> <p>&nbsp;<br />We developed a range of methods for estimating selection effects (e.g. increased contagiousness) based on SARS-CoV-2 genetic sequence data. The innovation of our approach is that we consider data from every country jointly to get a more stable view of whether or not a new variant is spreading faster than would be expected. We showed how different methods of<br />estimating selection effects can yield complementary but different estimates.</p> <p><br />We also examined whether phylogenies of SARS-CoV-2 can be used to study the very local spread of COVID-19. We used SARS-CoV-2 sequence data from the Mountain West region (NM, CO, WY, UT) to study the flow of COVID-19 into and within New Mexico. We were able to show a variable rate of introduction of COVID-19 into New Mexico and that some of those<br />introductions lead to well-sampled outbreaks. Our analysis established that phylogenetic methods are useful even at fine geographic scales (within-states) when sampling is relatively low.&nbsp;</p> <p>A large part of our effort has been focused on constructing within-host viral dynamic models of SARS-CoV-2 infection and treatment. We then fit the various models to longitudinal viral load data obtained from infected individuals and determined which model fit the data best. This process allowed us to estimate important features of the SARS-CoV-2 infection process, such as the average number of new cells that one infected cell subsequently infects early in the infection. This number is called the within host basic reproductive number and is analogous to the basic reproductive number used in epidemiology. We have also been able to estimate the average length of time an infected cell lives while producing virus, which we find is surprisingly short, i.e. about 1 day. Using these models we made predictions about the effects of antiviral therapy. We found that to be most effective antiviral therapy needs to be started as soon after infection as<br />possible with the largest effect found when the drugs are used prophylactically, i.e., given to a person before they are infected. This would make sense to do for people at high risk, such as an unvaccinated person or a person with a weakened immune system who may have had contact<br />with an infected person. We also used these findings to suggest ways to best design clinical trials to evaluate the effectiveness of antivirals.</p> <p>We also compared the within-host viral dynamics of SARS-CoV-2 with those of MERS-CoV and SARS-CoV-1. Our analyses revealed that SARS-CoV-2 grew to its peak level quicker than the MERS-CoV and SARS-CoV-1. The rapid growth of SARS-CoV-2 and its high viral load before symptom onset provides an explanation of the large amount of presymptomatic transmission<br />of this virus.</p> <p>While most models of SAR-CoV-2 focus on infection in the upper respiratory tract, we developed data-driven viral dynamic models of SARS-CoV-2 infection in both the upper (nose and throat) and the lower (trachea and lungs) respiratory tracts. We found that infected individuals with a longer incubation period had lower rates of viral growth, took longer to reach peak viremia in the upper respiratory tract, and had higher chances of presymptomatic<br />transmission. We then developed a model to understand how infectiousness of a person is related to their upper airway viral load and found that the logarithm of viral load is a better surrogate of infectiousness than the viral load itself. We also provided evidence of suggesting that spatial spread of the virus in the lungs may be an important process in sustaining prolonged infection in the lower respiratory tract and may be a feature leading to more severe<br />disease outcomes.</p> <p><br />Overall, our work provides a quantitative framework for understanding the evolution and spread of new SARS-CoV-2 variants. It also increased our knowledge of how different classes of antivirals act and how they should best be administered. We also showed how SARS-CoV-2 viral load determines infectiousness, which in principle allows one to predict the effects of antiviral<br />therapy that lowers viral load on the infectiousness of a person.</p><br> <p>            Last Modified: 09/07/2021<br>      Modified by: Alan&nbsp;Perelson</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   NSF RAPID Grant: Mathematical Models for Understanding Key Epidemiological Parameters and Transmission of SARS-CoV-2  After SARS-CoV2 began spreading in late 2019, the virus was observed to rapidly be accumulating new mutations such as D614G that could be related to increased contagiousness. This observation initially was very controversial as there was no formal method for determining if a mutation in SARS-CoV-2 was increasing at a rate faster than would be expected by chance alone. This confusion was amplified by several high-profile publications that suggested that the very rapid emergence of new variants was not evidence of increased contagiousness. Our work has expanded the way that we use SARS-CoV-2 mutations to study how COVID-19 is spreading and determining how risky are the newly emerging strains of SARS-CoV-2.       We developed a range of methods for estimating selection effects (e.g. increased contagiousness) based on SARS-CoV-2 genetic sequence data. The innovation of our approach is that we consider data from every country jointly to get a more stable view of whether or not a new variant is spreading faster than would be expected. We showed how different methods of estimating selection effects can yield complementary but different estimates.   We also examined whether phylogenies of SARS-CoV-2 can be used to study the very local spread of COVID-19. We used SARS-CoV-2 sequence data from the Mountain West region (NM, CO, WY, UT) to study the flow of COVID-19 into and within New Mexico. We were able to show a variable rate of introduction of COVID-19 into New Mexico and that some of those introductions lead to well-sampled outbreaks. Our analysis established that phylogenetic methods are useful even at fine geographic scales (within-states) when sampling is relatively low.   A large part of our effort has been focused on constructing within-host viral dynamic models of SARS-CoV-2 infection and treatment. We then fit the various models to longitudinal viral load data obtained from infected individuals and determined which model fit the data best. This process allowed us to estimate important features of the SARS-CoV-2 infection process, such as the average number of new cells that one infected cell subsequently infects early in the infection. This number is called the within host basic reproductive number and is analogous to the basic reproductive number used in epidemiology. We have also been able to estimate the average length of time an infected cell lives while producing virus, which we find is surprisingly short, i.e. about 1 day. Using these models we made predictions about the effects of antiviral therapy. We found that to be most effective antiviral therapy needs to be started as soon after infection as possible with the largest effect found when the drugs are used prophylactically, i.e., given to a person before they are infected. This would make sense to do for people at high risk, such as an unvaccinated person or a person with a weakened immune system who may have had contact with an infected person. We also used these findings to suggest ways to best design clinical trials to evaluate the effectiveness of antivirals.  We also compared the within-host viral dynamics of SARS-CoV-2 with those of MERS-CoV and SARS-CoV-1. Our analyses revealed that SARS-CoV-2 grew to its peak level quicker than the MERS-CoV and SARS-CoV-1. The rapid growth of SARS-CoV-2 and its high viral load before symptom onset provides an explanation of the large amount of presymptomatic transmission of this virus.  While most models of SAR-CoV-2 focus on infection in the upper respiratory tract, we developed data-driven viral dynamic models of SARS-CoV-2 infection in both the upper (nose and throat) and the lower (trachea and lungs) respiratory tracts. We found that infected individuals with a longer incubation period had lower rates of viral growth, took longer to reach peak viremia in the upper respiratory tract, and had higher chances of presymptomatic transmission. We then developed a model to understand how infectiousness of a person is related to their upper airway viral load and found that the logarithm of viral load is a better surrogate of infectiousness than the viral load itself. We also provided evidence of suggesting that spatial spread of the virus in the lungs may be an important process in sustaining prolonged infection in the lower respiratory tract and may be a feature leading to more severe disease outcomes.   Overall, our work provides a quantitative framework for understanding the evolution and spread of new SARS-CoV-2 variants. It also increased our knowledge of how different classes of antivirals act and how they should best be administered. We also showed how SARS-CoV-2 viral load determines infectiousness, which in principle allows one to predict the effects of antiviral therapy that lowers viral load on the infectiousness of a person.       Last Modified: 09/07/2021       Submitted by: Alan Perelson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

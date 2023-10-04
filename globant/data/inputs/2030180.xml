@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: D3SC: Identification of Chemical Probes and Inhibitors Targeting Novel Sites on SARS-CoV-2 Proteins for COVID-19 Intervention]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>165808.00</AwardTotalIntnAmount>
+<AwardAmount>165808</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pui Ho</SignBlockName>
+<PO_EMAI>puiho@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The life cycle of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) involves a number of viral proteins and enzymes required for infectivity and replication. Inhibitors that target these enzymes serve as potential therapeutic interventions against coronavirus disease 2019 (COVID-19). With this award, the Chemistry of Life Processes program in the Chemistry Division is supporting the research of Drs. Mary Jo Ondrechen and Penny J. Beuning from Northeastern University to apply computational methods to identify sites in SARS-CoV-2 proteins that would be good targets for binding inhibitors. The project uses artificial intelligence methods developed at Northeastern University to identify pockets and crevices in the structures of viral proteins that may serve as new targets for the development of antiviral agents. Large datasets of natural and synthetic compounds are computationally searched for molecules that fit into these alternative sites, and any compounds that fit will be experimentally tested for their ability to inhibit the functions of these viral enzymes. The project provides training in computational chemistry and biochemical analysis to graduate students and postdoctoral associates.&lt;br/&gt;&lt;br/&gt;This project uses the unique Partial Order Optimum Likelihood (POOL) machine learning (ML) method developed by Dr. Ondrechen’s group to predict multiple types of binding sites in SARS-CoV-2 proteins, including catalytic sites, allosteric sites, and other interaction sites. The goals of this project are to apply the POOL-ML method to identify the binding sites on viral pathogen SARS-CoV-2 proteins using the three-dimensional protein structures as input. Molecular dynamics simulations are used to generate conformations for ensemble docking. Compounds from the large molecular databases are computationally docked into the predicted sites to identify potentially strong binding ligands. Candidate ligands to selected SARS-CoV-2 proteins, including the main protease and 2ʹ-O-ribose RNA methyltransferase, are experimentally tested in vitro for binding affinity and the effect of the best predicted inhibitors on catalytic activities determined by direct biochemical assays. All the SARS-CoV-2 protein structures in the Protein Data Bank (PDB) are studied. Compound libraries for the study include: a) selected 2600+ compounds from the ZINC and Enamine databases that are already being manufactured; b) a library of 20,000+ compounds found in foods that the team recently gained access to; these potentially hold some special advantages, including ready availability in the public domain and low cost; and c) the March 2020 open access CAS (American Chemical Society) database of 50,000 compounds with known or potential anti-viral activity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030180</AwardID>
+<Investigator>
+<FirstName>Mary Jo</FirstName>
+<LastName>Ondrechen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mary Jo Ondrechen</PI_FULL_NAME>
+<EmailAddress><![CDATA[mjo@neu.edu]]></EmailAddress>
+<NSF_ID>000457790</NSF_ID>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Penny</FirstName>
+<LastName>Beuning</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Penny J Beuning</PI_FULL_NAME>
+<EmailAddress><![CDATA[beuning@neu.edu]]></EmailAddress>
+<NSF_ID>000381728</NSF_ID>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HLTMVS2JZBS6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHEASTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021155005</ZipCode>
+<StreetAddress><![CDATA[360 Huntington Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>6883</Code>
+<Text>Chemistry of Life Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~165808</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Overview: This project studied proteins from SARS-CoV-2, the viral pathogen that causes COVID-19. Given the heavy toll that COVID-19 has taken on human lives and health, as well as the serious social and economic impacts, it is important to learn as much as possible to characterize the components of the SARS-CoV-2 virus and how these biomolecules function.</p> <p>Intellectual merit: Some new insights into the functioning of three viral proteins emerge from this project. For two enzymes that are essential to the viral life cycle, the main protease and the 2?-O-RNA methyltransferase, this project uncovered key interactions with nearby amino acids that facilitate the functional roles of the catalytic amino acids. New possible functionally important binding sites are reported, together with sets of potential ligands that could serve as chemical probes or inhibitors, for the two enzymes and for the nucleocapsid protein (N Protein). Possible probe compounds have been tested biochemically. This work expands current knowledge of the biochemical activity of SARS-CoV-2 protein targets and of potential approaches for their control.</p> <p>Broader impacts: Three doctoral students, a postdoctoral researcher, and four undergraduate students were trained in computational and experimental techniques for protein characterization. Approaches to the integration of undergraduate students into a virtual research environment were developed and disseminated. For the Molecular Modeling class at Northeastern University, two new project-related experiments were developed for the students to perform in a computer classroom. These experiments have been shared with instructors teaching similar courses at other universities. Results of this project have been presented nationally and internationally at universities, conferences, and science diversity organizations. A greater understanding of the functioning of SARS-CoV-2 components may prove to be useful in the development of strategies to control this and related viruses.</p><br> <p>            Last Modified: 08/19/2022<br>      Modified by: Mary Jo&nbsp;Ondrechen</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2030180/2030180_10665862_1660914976653_Image_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2030180/2030180_10665862_1660914976653_Image_1--rgov-800width.jpg" title="SAR-CoV-2 main protease"><img src="/por/images/Reports/POR/2022/2030180/2030180_10665862_1660914976653_Image_1--rgov-66x44.jpg" alt="SAR-CoV-2 main protease"></a> <div class="imageCaptionContainer"> <div class="imageCaption">SARS-CoV-2 main protease. The catalytic site is shown in red; the nearby secondary recognition site is shown in blue.</div> <div class="imageCredit">Ondrechen Research Group</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Mary Jo&nbsp;Ondrechen</div> <div class="imageTitle">SAR-CoV-2 main protease</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2030180/2030180_10665862_1660915094679_Image_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2030180/2030180_10665862_1660915094679_Image_2--rgov-800width.jpg" title="SARS-CoV-2 RNA methyltransferase"><img src="/por/images/Reports/POR/2022/2030180/2030180_10665862_1660915094679_Image_2--rgov-66x44.jpg" alt="SARS-CoV-2 RNA methyltransferase"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Target sites for the SARS-CoV-2 RNA methyltransferase NSP16 (red) and its partner protein NSP10 (blue). The catalytic site is shown in yellow; additional predicted sites in light blue.</div> <div class="imageCredit">Ondrechen Research Group</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Mary Jo&nbsp;Ondrechen</div> <div class="imageTitle">SARS-CoV-2 RNA methyltransferase</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2030180/2030180_10665862_1660915212553_Image_3--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2030180/2030180_10665862_1660915212553_Image_3--rgov-800width.jpg" title="SARS-CoV-2 nucleocapsid"><img src="/por/images/Reports/POR/2022/2030180/2030180_10665862_1660915212553_Image_3--rgov-66x44.jpg" alt="SARS-CoV-2 nucleocapsid"></a> <div class="imageCaptionContainer"> <div class="imageCaption">One subunit of the N-terminal domain of the SARS-CoV-2 nucleocapsid protein (N protein), showing the side chains of predicted amino acids involved in binding.</div> <div class="imageCredit">Ondrechen Research Group</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Mary Jo&nbsp;Ondrechen</div> <div class="imageTitle">SARS-CoV-2 nucleocapsid</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Overview: This project studied proteins from SARS-CoV-2, the viral pathogen that causes COVID-19. Given the heavy toll that COVID-19 has taken on human lives and health, as well as the serious social and economic impacts, it is important to learn as much as possible to characterize the components of the SARS-CoV-2 virus and how these biomolecules function.  Intellectual merit: Some new insights into the functioning of three viral proteins emerge from this project. For two enzymes that are essential to the viral life cycle, the main protease and the 2?-O-RNA methyltransferase, this project uncovered key interactions with nearby amino acids that facilitate the functional roles of the catalytic amino acids. New possible functionally important binding sites are reported, together with sets of potential ligands that could serve as chemical probes or inhibitors, for the two enzymes and for the nucleocapsid protein (N Protein). Possible probe compounds have been tested biochemically. This work expands current knowledge of the biochemical activity of SARS-CoV-2 protein targets and of potential approaches for their control.  Broader impacts: Three doctoral students, a postdoctoral researcher, and four undergraduate students were trained in computational and experimental techniques for protein characterization. Approaches to the integration of undergraduate students into a virtual research environment were developed and disseminated. For the Molecular Modeling class at Northeastern University, two new project-related experiments were developed for the students to perform in a computer classroom. These experiments have been shared with instructors teaching similar courses at other universities. Results of this project have been presented nationally and internationally at universities, conferences, and science diversity organizations. A greater understanding of the functioning of SARS-CoV-2 components may prove to be useful in the development of strategies to control this and related viruses.       Last Modified: 08/19/2022       Submitted by: Mary Jo Ondrechen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Early Detection and Prediction of Mobility and Cognitive Decline]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>224988.00</AwardTotalIntnAmount>
+<AwardAmount>244988</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to improve early detection of cognitive decline and fall risk, particularly in the elderly.  The proposed project will develop an artificial intelligence system to assess cognitive issues and estimate how likely a subject is to fall, enabling a new level of security for a vulnerable population.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project advances early detection of mobility problems and cognitive decline. This will be accomplished through the development of machine learning algorithms assessing gait dynamics (with dual-task information) in habitual settings. Research objectives include: (1) Developing a machine learning algorithm for fall prediction, (2) Developing preliminary mobility and fall prediction scoring system, (3) Estimating the cognitive state, and (4) Developing an accurate automatic fall detection system.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/10/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013985</AwardID>
+<Investigator>
+<FirstName>Baturalp</FirstName>
+<LastName>Arslan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Baturalp Arslan</PI_FULL_NAME>
+<EmailAddress><![CDATA[alp@inthependant.com]]></EmailAddress>
+<NSF_ID>000813059</NSF_ID>
+<StartDate>07/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>INTHEPENDANT, INC.</Name>
+<CityName>LEXINGTON</CityName>
+<ZipCode>024216328</ZipCode>
+<PhoneNumber>6175966293</PhoneNumber>
+<StreetAddress>20 MASON ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HYJTM1HSS7J6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>INTHEPENDANT INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[INTHEPENDANT, INC.]]></Name>
+<CityName>Lexington</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>024216328</ZipCode>
+<StreetAddress><![CDATA[20 Mason St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~224988</FUND_OBLG>
+<FUND_OBLG>2021~20000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Intellectual Merit</strong></p> <p>Gait kinematics are indeed very strong predictors of musculoskeletal health and thus future fall risk in older adults. Importantly though, it is now well understood that the task of walking is also critically dependent upon a host of cognitive functions and the structural and functional integrity of numerous underlying brain networks.</p> <p>Despite the importance of regular assessment of gait and its change over days, weeks, months, and years to the detection and care of mobility and cognitive aging, its adoption to clinical practice has been slow. This is due to the combination of numerous challenges. Patient report of gait and physical functional status is often unreliable. Physician-led subjective evaluations of gait are prone to bias and typically unable to detect subtle yet meaningful changes over time. Objective assessments overcome human bias but are time-consuming and require trained personnel to operate expensive equipment. Finally, gait assessments are usually performed infrequently within unnatural clinical settings and thus fail to capture ?real-life? performance or insight into performance variation over time.</p> <p>Since infrequent clinical visits provide a single ?snapshot? of performance in time, which limits the ability to provide insight into the dynamics of performance variation over days and weeks,&nbsp; high-frequency assessment of clinically-meaningful gait and physical function outcomes performed in habitual settings is a more accurate reflection of one?s true performance and is necessary to identify subtle changes in function associated with mobility impairments as well as early-stage cognitive impairment.&nbsp;</p> <p>Further, many older adults suffer from comorbidities, it therefore becomes particularly important to be able to measure clinically meaningful gait metrics accurately and frequently, while tracking user provided information such as blood sugar levels, blood pressure, medications, and others, and to monitor these metrics continually in order to intervene in a targeted fashion. We believe this approach will enable older adults to maintain their functional health for as long as possible.</p> <p>As a result, during this Phase I project we developed our software platform, preliminary algorithms and prototype hardware to address the following intellectual merits:</p> <ul> <li><span style="text-decoration: underline;">Mobility Status and Fall Risk:</span> We developed a 10-tier fall risk assessment score in green/yellow/red zones. These tiers are developed based on longitudinal studies and clinically accepted thresholds. Therefore, a fall-risk score is based on the general older adult population gait metrics as well as the individual trajectory of the older adult compared to their baseline.</li> <li><span style="text-decoration: underline;">Fall Prediction:</span> Fall prediction that can alert of a life-altering traumatic fall 4 weeks in advance.</li> <li><span style="text-decoration: underline;">Fall Detection:</span> Fall detection algorithm that is highly accurate, with low false-alarm rates.</li> <li><span style="text-decoration: underline;">Neurodegenerative Cognitive Impairment:</span> By cognitive status, we mean executive function as opposed to memory. Impairments in executive function provide indication of the onset of neurodegenerative diseases such as Mild Cognitive Impairment (MCI) which often convert to Alzheimer?s Disease and Related Dementias (ADRD). Our algorithms provided initial indication of Cognitively Healthy, MCI, ADRD and LBD (Lewy Body Dementia).</li> <li><span style="text-decoration: underline;">Prototype wearable:</span> Mission specific to the older adult target age range both from usability and cost standpoints.</li> <li><span style="text-decoration: underline;">Software Platform:</span> Cloud-based mobile software platform that also includes contextual information related to health and comorbidity information.</li> </ul> <p>Through emphasis on usability, our gait assessment platform can be performed by the older adult, unsupervised, at the comfort of their habitual settings. As we gather data with more older adults, track their mobility changes over time and by tracking actual detected falls we will further train our machine learning algorithms to include additional features and as a result these metrics will further improve over time.</p> <p>&nbsp;</p> <p><strong>Broader Impact</strong></p> <p>Our long-term vision is to holistically improve the quality years of functional older age. One of the leading economic and personal burdens on both the economy and families is the outcome of a traumatic fall, as this has debilitating consequences. Another major healthcare burden is the development of Alzheimer?s Disease and Related Dementias (ADRD), which is slow and subtle with symptoms occurring and gradually worsening over years to decades. It is also now clear that ADRDs not only affect older adults but also those younger than 65.&nbsp;</p> <p>Early detection and prognosis is therefore critical to maintaining functional health since interventions have the most effect early in the disease state or when decline is occurring. For example, our gait analysis could yield a fall risk based on the following: Gait/Strength/Balance, Neurodegenerative pathways, or Frailty. Once these metrics are quantified, clinicians can put in place targeted interventions to improve the patient?s mobility and thereby minimize their fall risk. Clinicians can then monitor their gait metrics and assess if the interventions they put in place are improving their mobility and function and reducing their fall risk. Coupled with contextual health information our work aims to contribute to a comprehensive understanding of aging and decline.</p><br> <p>            Last Modified: 07/11/2022<br>      Modified by: Baturalp&nbsp;Arslan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Intellectual Merit  Gait kinematics are indeed very strong predictors of musculoskeletal health and thus future fall risk in older adults. Importantly though, it is now well understood that the task of walking is also critically dependent upon a host of cognitive functions and the structural and functional integrity of numerous underlying brain networks.  Despite the importance of regular assessment of gait and its change over days, weeks, months, and years to the detection and care of mobility and cognitive aging, its adoption to clinical practice has been slow. This is due to the combination of numerous challenges. Patient report of gait and physical functional status is often unreliable. Physician-led subjective evaluations of gait are prone to bias and typically unable to detect subtle yet meaningful changes over time. Objective assessments overcome human bias but are time-consuming and require trained personnel to operate expensive equipment. Finally, gait assessments are usually performed infrequently within unnatural clinical settings and thus fail to capture ?real-life? performance or insight into performance variation over time.  Since infrequent clinical visits provide a single ?snapshot? of performance in time, which limits the ability to provide insight into the dynamics of performance variation over days and weeks,  high-frequency assessment of clinically-meaningful gait and physical function outcomes performed in habitual settings is a more accurate reflection of one?s true performance and is necessary to identify subtle changes in function associated with mobility impairments as well as early-stage cognitive impairment.   Further, many older adults suffer from comorbidities, it therefore becomes particularly important to be able to measure clinically meaningful gait metrics accurately and frequently, while tracking user provided information such as blood sugar levels, blood pressure, medications, and others, and to monitor these metrics continually in order to intervene in a targeted fashion. We believe this approach will enable older adults to maintain their functional health for as long as possible.  As a result, during this Phase I project we developed our software platform, preliminary algorithms and prototype hardware to address the following intellectual merits:  Mobility Status and Fall Risk: We developed a 10-tier fall risk assessment score in green/yellow/red zones. These tiers are developed based on longitudinal studies and clinically accepted thresholds. Therefore, a fall-risk score is based on the general older adult population gait metrics as well as the individual trajectory of the older adult compared to their baseline. Fall Prediction: Fall prediction that can alert of a life-altering traumatic fall 4 weeks in advance. Fall Detection: Fall detection algorithm that is highly accurate, with low false-alarm rates. Neurodegenerative Cognitive Impairment: By cognitive status, we mean executive function as opposed to memory. Impairments in executive function provide indication of the onset of neurodegenerative diseases such as Mild Cognitive Impairment (MCI) which often convert to Alzheimer?s Disease and Related Dementias (ADRD). Our algorithms provided initial indication of Cognitively Healthy, MCI, ADRD and LBD (Lewy Body Dementia). Prototype wearable: Mission specific to the older adult target age range both from usability and cost standpoints. Software Platform: Cloud-based mobile software platform that also includes contextual information related to health and comorbidity information.   Through emphasis on usability, our gait assessment platform can be performed by the older adult, unsupervised, at the comfort of their habitual settings. As we gather data with more older adults, track their mobility changes over time and by tracking actual detected falls we will further train our machine learning algorithms to include additional features and as a result these metrics will further improve over time.     Broader Impact  Our long-term vision is to holistically improve the quality years of functional older age. One of the leading economic and personal burdens on both the economy and families is the outcome of a traumatic fall, as this has debilitating consequences. Another major healthcare burden is the development of Alzheimer?s Disease and Related Dementias (ADRD), which is slow and subtle with symptoms occurring and gradually worsening over years to decades. It is also now clear that ADRDs not only affect older adults but also those younger than 65.   Early detection and prognosis is therefore critical to maintaining functional health since interventions have the most effect early in the disease state or when decline is occurring. For example, our gait analysis could yield a fall risk based on the following: Gait/Strength/Balance, Neurodegenerative pathways, or Frailty. Once these metrics are quantified, clinicians can put in place targeted interventions to improve the patient?s mobility and thereby minimize their fall risk. Clinicians can then monitor their gait metrics and assess if the interventions they put in place are improving their mobility and function and reducing their fall risk. Coupled with contextual health information our work aims to contribute to a comprehensive understanding of aging and decline.       Last Modified: 07/11/2022       Submitted by: Baturalp Arslan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

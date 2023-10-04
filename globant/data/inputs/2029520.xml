@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: In-Home Automated and Non-Invasive Evaluation of COVID-19 Infection with Commodity Smartphones]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jason Hallstrom</SignBlockName>
+<PO_EMAI>jhallstr@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A key to combat the Coronavirus Disease (COVID-19) pandemic is to prevent the pandemic from overloading the public healthcare system, so that sufficient medical resources could be available for hospitalized patients. This project will develop new mobile sensing and Artificial Intelligence (AI) techniques for in-home evaluation of COVID-19 infection in order to pursue automated and non-invasive screening of potential viral disease carriers.  It aims to timely identify negative cases caused by other diseases with similar symptoms, and hence avoids unnecessary hospital visits as many as possible. &lt;br/&gt;&lt;br/&gt;The proposed techniques will use commodity smartphones to measure the changes of humans’ airway mechanics, which are uniquely correlated to COVID-19 infection. These measurements build on acoustic sensing with smartphones’ built-in speakers and microphones. First, new acoustic waveforms will be designed to minimize acoustic signal distortion in human airways. Second, new signal processing techniques will be developed for accurate measurements. Third, deep learning techniques will be used to develop generic models that depict the core characteristics of airway mechanics. These techniques will be evaluated by lab testing and experiments with student volunteers. This research will enable identifying false positives of COVID-19 infection out of the clinic and could contribute to the containment of the virus spread and damage. The proposed technologies will be applicable to a wide variety of commodity smartphones and could also be used in daily practice with handmade mouthpieces. Broader impacts will also result from a variety of education and outreach activities. New courses will be developed to incorporate the outcome of this research, and the research outcome will be disseminated through technology transfer to industry. The outcome of this project, including source codes and collected data from student volunteers, will be maintained at the project repository (http://www.pitt.edu/~weigao/research_COVID19.html) for at least five years, and will be made available to the public community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029520</AwardID>
+<Investigator>
+<FirstName>Heng</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Heng Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[heng.huang@pitt.edu]]></EmailAddress>
+<NSF_ID>000086248</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Gao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wei Gao</PI_FULL_NAME>
+<EmailAddress><![CDATA[weigao@pitt.edu]]></EmailAddress>
+<NSF_ID>000627623</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wei Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[wec47@pitt.edu]]></EmailAddress>
+<NSF_ID>000732343</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Erick</FirstName>
+<LastName>Forno</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Erick Forno</PI_FULL_NAME>
+<EmailAddress><![CDATA[erf30@pitt.edu]]></EmailAddress>
+<NSF_ID>000825067</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152600001</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>4200 FIFTH AVENUE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MKAGLD59JRL1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152610001</ZipCode>
+<StreetAddress><![CDATA[1205 Benedum Hall, 3700 O'Hara S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7354</Code>
+<Text>COMPUTER SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The key to combat the COVID-19 pandemic is to prevent the pandemic from overloading the public healthcare system, so that sufficient medical resources could be available for hospitalized patients being infected. To avoid such overload, false positives of COVID-19 infection should be detected out of clinic, to avoid unnecessary hospital visits as many as possible. Such detection, however, is difficult because COVID-19 shares many symptoms in common with other diseases, such as ear infection that causes fever and respiration diseases that cause shortness of breath.</p> <p>The goal of this research is to address the aforementioned difficulty by developing new mobile sensing and AI techniques that use commodity smartphones to measure the changes of humans&rsquo; airway mechanics, which are uniquely correlated to COVID-19 infection. More specifically, since COVID-19 infection causes pathological changes of lung alveoli and bronchi, it could result in narrowed bronchi, airway inflammation and mucus that can be used as more reliable indicators to evaluate such infection. We propose to measure these indicators by transmitting acoustic signals with the smartphones&rsquo; built-in speakers and analyzing the received acoustic signal after it is being reflected by the airway. We aim to ensure accuracy, reliability and generality of these measurements over actual human bodies.</p> <p>First, we will design new acoustic waveforms to minimize the distortion of acoustic signal when being propagated throughout the human airway system. We have made mobile system designs that transform a commodity smartphone into a fully functional pulmonary functional testing device that can be reliably, accurately and adaptively used for pulmonary telemedicine, by improving the accuracy and resolution of acoustic sensing on commodity smartphones. Our system designs also incorporated various system and human factors into consideration, to ensure that the sensing system can be reliably used in out-clinic telemedicine settings.</p> <p>Second, we will develop new signal processing techniques to appropriately analyze the received signal and evaluate the change of mechanics throughout the entire human airway system. Based on the sensory data we obtained through acoustic sensing on commodity smartphones, our developed signal processing techniques analyzes the received signal reflected from airway lumen by extending the traditional acoustic reflection technique (ART), to calculate the cross-sectional area (CSA) of each airway segment. Such calculated CSAs over different airway segment, then, are used as the input to a multi-task learning model, which provides both disease prediction and estimation of lung function.</p> <p>Third, to ensure that our proposed technique can be widely applied to big crowds of people, we will use deep learning techniques to develop generic models that depict the core characteristics of humans&rsquo; airway mechanics. We have developed analytical methods to generalize our multi-task learning framework to different subject groups. Our main approach to such generalizability is to include the diverse factors of these subject groups into the learning process, including the various demographic and anthropometric factors, by applying transformer networks into our learning framework and injecting these factors as additional input modalities into the transformer blocks. We have also developed on-device AI training and inference algorithms to ensure the computational efficiency of these algorithms on resource-constrained mobile devices.</p> <p>We have implemented the above system designs and AI algorithms over practical smartphone devices, and conducted both lab-controlled experiments and clinical studies to demonstrate their applicability in real-world telemedicine settings. Such experimentation includes code instrumentation over a large collection of different smartphone models, and demonstrated general applicability and adaptability across different smartphone models.</p> <p>Many of the research results have been integrated with the education curricula at the the University of Pittsburgh. The project has supported multiple Ph.D. students working on their dissertations, and the research outcome has also been used to involve undergraduate students into research. The involvement of the graduate and undergraduate students will prepare them for leadership roles in computer science research, academia, and industry.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/08/2023<br>      Modified by: Wei&nbsp;Gao</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The key to combat the COVID-19 pandemic is to prevent the pandemic from overloading the public healthcare system, so that sufficient medical resources could be available for hospitalized patients being infected. To avoid such overload, false positives of COVID-19 infection should be detected out of clinic, to avoid unnecessary hospital visits as many as possible. Such detection, however, is difficult because COVID-19 shares many symptoms in common with other diseases, such as ear infection that causes fever and respiration diseases that cause shortness of breath.  The goal of this research is to address the aforementioned difficulty by developing new mobile sensing and AI techniques that use commodity smartphones to measure the changes of humans’ airway mechanics, which are uniquely correlated to COVID-19 infection. More specifically, since COVID-19 infection causes pathological changes of lung alveoli and bronchi, it could result in narrowed bronchi, airway inflammation and mucus that can be used as more reliable indicators to evaluate such infection. We propose to measure these indicators by transmitting acoustic signals with the smartphones’ built-in speakers and analyzing the received acoustic signal after it is being reflected by the airway. We aim to ensure accuracy, reliability and generality of these measurements over actual human bodies.  First, we will design new acoustic waveforms to minimize the distortion of acoustic signal when being propagated throughout the human airway system. We have made mobile system designs that transform a commodity smartphone into a fully functional pulmonary functional testing device that can be reliably, accurately and adaptively used for pulmonary telemedicine, by improving the accuracy and resolution of acoustic sensing on commodity smartphones. Our system designs also incorporated various system and human factors into consideration, to ensure that the sensing system can be reliably used in out-clinic telemedicine settings.  Second, we will develop new signal processing techniques to appropriately analyze the received signal and evaluate the change of mechanics throughout the entire human airway system. Based on the sensory data we obtained through acoustic sensing on commodity smartphones, our developed signal processing techniques analyzes the received signal reflected from airway lumen by extending the traditional acoustic reflection technique (ART), to calculate the cross-sectional area (CSA) of each airway segment. Such calculated CSAs over different airway segment, then, are used as the input to a multi-task learning model, which provides both disease prediction and estimation of lung function.  Third, to ensure that our proposed technique can be widely applied to big crowds of people, we will use deep learning techniques to develop generic models that depict the core characteristics of humans’ airway mechanics. We have developed analytical methods to generalize our multi-task learning framework to different subject groups. Our main approach to such generalizability is to include the diverse factors of these subject groups into the learning process, including the various demographic and anthropometric factors, by applying transformer networks into our learning framework and injecting these factors as additional input modalities into the transformer blocks. We have also developed on-device AI training and inference algorithms to ensure the computational efficiency of these algorithms on resource-constrained mobile devices.  We have implemented the above system designs and AI algorithms over practical smartphone devices, and conducted both lab-controlled experiments and clinical studies to demonstrate their applicability in real-world telemedicine settings. Such experimentation includes code instrumentation over a large collection of different smartphone models, and demonstrated general applicability and adaptability across different smartphone models.  Many of the research results have been integrated with the education curricula at the the University of Pittsburgh. The project has supported multiple Ph.D. students working on their dissertations, and the research outcome has also been used to involve undergraduate students into research. The involvement of the graduate and undergraduate students will prepare them for leadership roles in computer science research, academia, and industry.              Last Modified: 09/08/2023       Submitted by: Wei Gao]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

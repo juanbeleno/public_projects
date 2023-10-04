@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Extremes in High Dimensions: Causality, Sparsity, Classification, Clustering, Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>299999.00</AwardTotalIntnAmount>
+<AwardAmount>299999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In recent years, through news reports and first-hand experience, the general public has become keenly aware of extreme events, in particular, of extreme weather conditions such as extended heat waves, periods of extreme cold, an increase in the number and intensity of tornadoes and hurricanes, or periods of record precipitation resulting in unprecedented floods.  Just in the past few years, the insurance claims from extreme climatic events have been staggering, which include the Missouri River flood in April 2019 ($10.8B), Hurricane Michael in October 2018  ($25B), the California wildfires in December 2017 ($18.7B), the US drought/heatwave in 2012 ($33.9B), and Hurricane Sandy in October 2012 ($73.4B).  This list does not include non-climatic extreme events such as the financial crisis from 2008 nor the current covid-19 pandemic. Many of the extreme events experienced today that are weather, environmental, industrial, epidemiological, economic, or social media related are occurring at a more frequent rate, which often result in huge losses to our society in a variety of ways from financial to human life to our way of life. While the occurrence of extreme events is reasonably well understood in steady state situations, it has become clear that the preponderance of extremes events suggest that the steady-state assumption is no longer valid.  The key objective of this research is to try to understand causal impacts of various factors from a potentially large array of variables including changing environmental conditions, demographic movements within the US, changing landscapes, and changing economic conditions, on the frequency and magnitude of extreme events.  From many variables, we hope to produce methodology to extract the important features in the data that have a direct impact on describing and predicting extremes.  This research is potentially of use to policymakers who need to anticipate and plan for extreme events leading to sensible strategies for mitigating their impact on society. The graduate student support will be used for interdisciplinary research.&lt;br/&gt;&lt;br/&gt;The principal goal of this research project is to design new tools for analyzing and modeling extremes in a myriad of situations that go well beyond the boundaries of classical extreme value theory. These include detection of often nonlinear sets of much smaller dimension that can provide an adequate description of extremes in high dimensions, for which we hope to apply the powerful modern learning techniques (such as graph-based learning methods) that allow us to determine this extremal support from the data. In general, detecting sparsity in the exponent measure describing high-dimensional extremes, i.e., locating (often numerous) low-dimensional regions which carry most of the support of exponent measure will be a key focus of this research. A second main thrust of this research centers on the issue of causality in both small and large dimensional problems. In the most basic form, a set of variables X is said to be tail causal to a dependent vector Y if certain changes in X (sometimes themselves extreme but not always so) impact the tail behavior of Y. An important setting of this type is the potential outcomes framework for causality of extreme events, which will be a major focus in this project's research agenda.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015379</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Davis</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard A Davis</PI_FULL_NAME>
+<EmailAddress><![CDATA[rdavis@stat.columbia.edu]]></EmailAddress>
+<NSF_ID>000320452</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marco</FirstName>
+<LastName>Avella Medina</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marco Avella Medina</PI_FULL_NAME>
+<EmailAddress><![CDATA[marco.avella@columbia.edu]]></EmailAddress>
+<NSF_ID>000817126</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>202 LOW LIBRARY 535 W 116 ST MC</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F4N1QNPB95M4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276902</ZipCode>
+<StreetAddress><![CDATA[1255 Amsterdam Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>One of the overarching goals of this research project was to develop new tools for analyzing and modeling extremes in a myriad of situations that go well beyond the boundaries of classical extreme value theory.&nbsp; For example, if the data is of large dimension such as temperature or rainfall recorded at a large number of monitoring stations, one might want to associate the impact of extreme temperature or rainfall at one location on the other locations.&nbsp; In other words extremes from the entire set of data can often be reduced to a much smaller and manageable subset of the data without much loss in information.&nbsp;&nbsp; To this end, the research produced in this project related to two specific methodologies: one was to discover clustering of extreme observations and the second was to find condensed regions in the data that can provide adequate description of the extremes.&nbsp;</p> <p>&nbsp;</p> <p>For finding clusters, we used an approach from machine learning based on spectral clustering.&nbsp; The idea is to consider the angular components of each data value when that particular data value is large.&nbsp; These angular components tend to cluster in certain directions.&nbsp; For each two angular components we define a distance from which a graphical model is formed.&nbsp; That is, two angular components are linked by an edge in the graph if the distance between them is sufficiently small.&nbsp; After forming this graph, then a graphical Laplacian is defined which allows one to optimally locate clusters of highly concentrated angular components.&nbsp; One big advantage of this method is that it was able to effectively separate signal from noise.</p> <p>&nbsp;</p> <p>We used kernel principal component analysis (PCA) to find nonlinear regions of high concentration of extremes. &nbsp;Here the main idea is that the data are&nbsp; mapped into a high-dimensional space, called a reproducing kernel Hilbert space (RKHS), via a kernel function map.&nbsp; On this larger space, one performs PCA in the typical manner; i.e., the number of significant eigenvalues and corresponding eigenfunctions are identified.&nbsp; At this stage the dimension of the problem has been substantially reduced.&nbsp; The pre-images under this mapping are then calculated under the under the smaller subspace found on the RKHS. &nbsp;It was discovered that the procedure was particularly effective for the case when the data is contaminated with noise.&nbsp;</p> <p>On the broad impacts side, Professor Davis has advised one PhD student, Leon Fernandes, during the duration of this grant.&nbsp; He has been working on problems that are tangentially related to this grant and expects to defend in December 2023.&nbsp; Davis taught a topics in probability course to PhD students in the Statistics Department at Columbia in spring 2022.&nbsp; A main component of this course included topics in heavy-tailed time series modeling and extremal dependence, which are directly related to this grant.&nbsp; Davis also delivered a PhD summer course (May 2023) for students at Bocconi University which included topics in extreme value theory.&nbsp; He has also been a member of Columbia&rsquo;s STEM DEI committee for the past 3 years.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 07/30/2023<br>      Modified by: Richard&nbsp;A&nbsp;Davis</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ One of the overarching goals of this research project was to develop new tools for analyzing and modeling extremes in a myriad of situations that go well beyond the boundaries of classical extreme value theory.  For example, if the data is of large dimension such as temperature or rainfall recorded at a large number of monitoring stations, one might want to associate the impact of extreme temperature or rainfall at one location on the other locations.  In other words extremes from the entire set of data can often be reduced to a much smaller and manageable subset of the data without much loss in information.   To this end, the research produced in this project related to two specific methodologies: one was to discover clustering of extreme observations and the second was to find condensed regions in the data that can provide adequate description of the extremes.      For finding clusters, we used an approach from machine learning based on spectral clustering.  The idea is to consider the angular components of each data value when that particular data value is large.  These angular components tend to cluster in certain directions.  For each two angular components we define a distance from which a graphical model is formed.  That is, two angular components are linked by an edge in the graph if the distance between them is sufficiently small.  After forming this graph, then a graphical Laplacian is defined which allows one to optimally locate clusters of highly concentrated angular components.  One big advantage of this method is that it was able to effectively separate signal from noise.     We used kernel principal component analysis (PCA) to find nonlinear regions of high concentration of extremes.  Here the main idea is that the data are  mapped into a high-dimensional space, called a reproducing kernel Hilbert space (RKHS), via a kernel function map.  On this larger space, one performs PCA in the typical manner; i.e., the number of significant eigenvalues and corresponding eigenfunctions are identified.  At this stage the dimension of the problem has been substantially reduced.  The pre-images under this mapping are then calculated under the under the smaller subspace found on the RKHS.  It was discovered that the procedure was particularly effective for the case when the data is contaminated with noise.   On the broad impacts side, Professor Davis has advised one PhD student, Leon Fernandes, during the duration of this grant.  He has been working on problems that are tangentially related to this grant and expects to defend in December 2023.  Davis taught a topics in probability course to PhD students in the Statistics Department at Columbia in spring 2022.  A main component of this course included topics in heavy-tailed time series modeling and extremal dependence, which are directly related to this grant.  Davis also delivered a PhD summer course (May 2023) for students at Bocconi University which included topics in extreme value theory.  He has also been a member of Columbia’s STEM DEI committee for the past 3 years.             Last Modified: 07/30/2023       Submitted by: Richard A Davis]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

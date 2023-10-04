@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Automated pavement condition survey system to improve cost-effectiveness]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a more cost-effective, automated, pavement condition data collection system. In a pavement management system (PMS), accurate, precise, and reliable pavement condition data will assist pavement engineers to make sound maintenance decisions. While a manual data collection method is labor intensive, time consuming, and frequently impossible or unsafe to perform, the automated data collection methods are receiving more attention in industry and replacing manual surveys in recent years. There are problems with inaccuracy with the existing automated pavement data collection methods. The collection technology proposed in this project is designed to improve the data quality of automated pavement data collection at a sustainable cost. A successful application of the proposed technology may help maintain transportation infrastructure and the technology may be extended to other infrastructure systems such as airport runways, railroads, bridges, and dams.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a more cost-effective, automated, pavement condition data collection system. To overcome the inaccuracy problems associated with existing automated pavement data collection methods, the proposed technology is expected to use more sophisticated and smarter image processing algorithms.  In addition, the proposed system seeks improvements in data quality assurance by using data analysis capabilities to screen and validate the data, locating problematic data and reducing errors in the data. The core components of this system are: 1) a cost-effective 3D image acquisition hardware system; 2) artificial intelligence-enhanced pavement image processing algorithms; and 3) systemic design and optimization-based data quality assurance.  The design utilizes sensor technologies, statistical theories, 3D reconstruction models, deep learning algorithms, and synthetic ground truth data functionality in the development of this technology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/25/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>01/12/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051192</AwardID>
+<Investigator>
+<FirstName>Jana</FirstName>
+<LastName>Minifie</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jana R Minifie</PI_FULL_NAME>
+<EmailAddress><![CDATA[jm13@txstate.edu]]></EmailAddress>
+<NSF_ID>000745137</NSF_ID>
+<StartDate>01/25/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Feng</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Feng P Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[f_w34@txstate.edu]]></EmailAddress>
+<NSF_ID>000499679</NSF_ID>
+<StartDate>01/25/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaohua</FirstName>
+<LastName>Luo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaohua Luo</PI_FULL_NAME>
+<EmailAddress><![CDATA[x_l33@txstate.edu]]></EmailAddress>
+<NSF_ID>000836168</NSF_ID>
+<StartDate>01/25/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas State University - San Marcos</Name>
+<CityName>SAN MARCOS</CityName>
+<ZipCode>786664684</ZipCode>
+<PhoneNumber>5122452314</PhoneNumber>
+<StreetAddress>601 UNIVERSITY DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HS5HWWK1AAU5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MQHEV496X2A6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas State University]]></Name>
+<CityName>San Marcos</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>786664684</ZipCode>
+<StreetAddress><![CDATA[601 University Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7453</Code>
+<Text>GRAPHICS &amp; VISUALIZATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Pa4">In 2021, we conducted 101 customer interviews in multiple Texas Department of Transportation (TxDOT) visits, by attending Transportation Research Board (TRB) annual meeting, and TxDOT short course meeting, and developed publications. In 2022, we conducted 22 customer interviews in TRB and Road Profile Users? Group (RPUG) meetings, and developed patent and grant applications, and publications. In 2023, more customer interviews were conducted in TRB meeting. In March 2023, the research team drove our own data collection vehicle with the pavement data collection equipment built using the existing automated technologies, to visit two TxDOT district sites to meet with pavement engineers and test-run the data collection system.</p> <p class="Pa4">Through the conducted activities in interviews with potential users, customer visits, interactions with developers and company competitors in conferences,&nbsp; we have found the potential market and customers for the proposed automated pavement condition survey system. Conference presentations: ?Pavement Image Dataset for Deep Learning: A Synthetic Approach? was presented at International Airfield and Highway Pavement Conference in June 2021; ?Automated Pavement Crack Detection with Deep Learning Methods: What Are Main Factors and How to Improve the Performance?? and ?Deep Learning Based Automated Segmentation of Air-Void System in Hardened Concrete Surface Using Three Dimensional Reconstructed Images? were presented at Transportation Research Board 101st Annual Meeting in January 2022; ?Deep Learning Based Object Detection Methods for Pavement Distress Detection: An Experimental Study Using Rider's View Image? was presented in the Road Profile User?s Group (RPUG) annual meeting in April 2022 in Saratoga, NY; ?Improved One-stage Object Detection Model for Pavement Distress Detection Using 3D Pavement Surface Images? was presented in Transportation Research Board 102nd Annual Meeting in January 2023.</p><br> <p>            Last Modified: 06/01/2023<br>      Modified by: Feng&nbsp;P&nbsp;Wang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[In 2021, we conducted 101 customer interviews in multiple Texas Department of Transportation (TxDOT) visits, by attending Transportation Research Board (TRB) annual meeting, and TxDOT short course meeting, and developed publications. In 2022, we conducted 22 customer interviews in TRB and Road Profile Users? Group (RPUG) meetings, and developed patent and grant applications, and publications. In 2023, more customer interviews were conducted in TRB meeting. In March 2023, the research team drove our own data collection vehicle with the pavement data collection equipment built using the existing automated technologies, to visit two TxDOT district sites to meet with pavement engineers and test-run the data collection system. Through the conducted activities in interviews with potential users, customer visits, interactions with developers and company competitors in conferences,  we have found the potential market and customers for the proposed automated pavement condition survey system. Conference presentations: ?Pavement Image Dataset for Deep Learning: A Synthetic Approach? was presented at International Airfield and Highway Pavement Conference in June 2021; ?Automated Pavement Crack Detection with Deep Learning Methods: What Are Main Factors and How to Improve the Performance?? and ?Deep Learning Based Automated Segmentation of Air-Void System in Hardened Concrete Surface Using Three Dimensional Reconstructed Images? were presented at Transportation Research Board 101st Annual Meeting in January 2022; ?Deep Learning Based Object Detection Methods for Pavement Distress Detection: An Experimental Study Using Rider's View Image? was presented in the Road Profile User?s Group (RPUG) annual meeting in April 2022 in Saratoga, NY; ?Improved One-stage Object Detection Model for Pavement Distress Detection Using 3D Pavement Surface Images? was presented in Transportation Research Board 102nd Annual Meeting in January 2023.       Last Modified: 06/01/2023       Submitted by: Feng P Wang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

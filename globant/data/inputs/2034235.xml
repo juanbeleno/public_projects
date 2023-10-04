@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Collaborative: PPSRC: Privacy-Preserving Self-Reporting for COVID-19</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>133100.00</AwardTotalIntnAmount>
+<AwardAmount>133100</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Joshi</SignBlockName>
+<PO_EMAI>jjoshi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>With the reopening of the country and the restarting of economic as well as other activities, it becomes important to ensure vigilantly monitoring the spreading of COVID-19 and nimbly adjusting the policies accordingly. Technologies can play an important role in this process. This project aims at understanding how mobile-app based contact tracing and symptom monitoring technologies can help in fighting COVID-19 and deploying effective technologies. It is expected that knowledge learned through the project can be a valuable tool to fight SARS-CoV-2 as well as future emerging pathogens. &lt;br/&gt;&lt;br/&gt;This project has two thrusts. Thrust 1 studies to what extent contact tracing based on mobile phones can help. Thrust 1 has three tasks. First, summarize the design choices of existing proposals, systematically explore the design space, and identify potential privacy and security attacks and possible defenses. Second, use existing data related to contact tracing to understand the epidemiological characteristics of COVID-19. Third, assess the effectiveness of technology-aided case finding and contact-tracing using simulation models. Thrust 2 aims at developing Privacy-Preserving COVID-19 Symptom Monitoring Technologies, through three tasks. First, design and implement privacy protection technologies based on local differential privacy. Second, design and implement an App for self-reporting of symptoms. Third, integrate data collected from the app with data from other public sources, and model the integrated data using a dynamic state-space model to provide early warning for high risk districts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034235</AwardID>
+<Investigator>
+<FirstName>Ninghui</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ninghui Li</PI_FULL_NAME>
+<EmailAddress>ninghui@cs.purdue.edu</EmailAddress>
+<NSF_ID>000166436</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Faming</FirstName>
+<LastName>Liang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Faming Liang</PI_FULL_NAME>
+<EmailAddress>fmliang@purdue.edu</EmailAddress>
+<NSF_ID>000490214</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 Northwestern Ave.</StreetAddress>
+<StreetAddress2><![CDATA[Suite 1900]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>072051394</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>072051394</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479072114</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~133100</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project studies contact tracing and epidemiological characteristics of COVID-19.&nbsp; Contact-tracing plays an important role in humanity&rsquo;s fight against COVID-19 and other infectious diseases.&nbsp; With the ubiquitous usage of mobile phones in modern society, contact tracing apps are a natural candidate as a technology to detect exposure events, and help reduce the cost and improve the speed and effectiveness of contact tracing.&nbsp;</p> <p>In proximity-based contact tracing (PCT), mobile apps running on smart phones use Bluetooth to exchange information with other mobile phones that are nearby.&nbsp; Such information can then be used to identify exposure events when one of the mobile phone user is tested positive.&nbsp; Many designs for proximity-based contact tracing technologies have been proposed; they make different trade-offs among several important factors.&nbsp;&nbsp; One aim of this project is to systematically understand the design space for PCT protocols, and their properties. This project identifies two main dimensions along with which different designs for PCT protocols can be made. The first is what information patients report to the server, to enable the discovery of exposure events. Patients can report what they sent, what they received, or some secrets agreed between them and other users in potential exposure events.&nbsp; The second dimension is which party performs the matching between information reported by patients and users' information. Matching could be performed by the server, by each individual user, or by the server and each user jointly through some interactive protocol. These two dimensions thus yield nine possible combinations. All existing PCT protocols fall within one of the nine combinations, and this combination determines most the properties for that protocol.</p> <p>This project also systematically identifies four classes of properties for these protocols: Privacy, Utility (accuracy and situation awareness), Resiliency (to malicious attacks), and communication &amp; computation Efficiency.&nbsp; Analysis finds that the widely used DP3T protocol and the Google/Apple Exposure Notification protocol have several shortcomings.&nbsp; Users can use exposure time to learn which persons they have had contact with are likely to be patients.&nbsp; Attackers can easily create false exposure events, potentially causing panic.&nbsp; The communication of each non-patient user is linear in the number of new patients, which can be very high.&nbsp; An alternative design can avoid these problems, at the cost of increasing the leakage of movement traces to an adversary who sets up surveillance stations that actively engage in PCT protocols.</p> <p>This project also develops a dynamic infectious disease model based on the United States county-wise COVID-19 daily counts data for the period from March to May 2020, and tested the impact of temperature, precipitation, state emergency order and stay home order on the spread of COVID-19. Our numerical results show that warm and humid weather can significantly slow the spread of COVID-19, and the state emergency and stay home orders also help to slow it.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/26/2021<br>      Modified by: Ninghui&nbsp;Li</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project studies contact tracing and epidemiological characteristics of COVID-19.  Contact-tracing plays an important role in humanity’s fight against COVID-19 and other infectious diseases.  With the ubiquitous usage of mobile phones in modern society, contact tracing apps are a natural candidate as a technology to detect exposure events, and help reduce the cost and improve the speed and effectiveness of contact tracing.   In proximity-based contact tracing (PCT), mobile apps running on smart phones use Bluetooth to exchange information with other mobile phones that are nearby.  Such information can then be used to identify exposure events when one of the mobile phone user is tested positive.  Many designs for proximity-based contact tracing technologies have been proposed; they make different trade-offs among several important factors.   One aim of this project is to systematically understand the design space for PCT protocols, and their properties. This project identifies two main dimensions along with which different designs for PCT protocols can be made. The first is what information patients report to the server, to enable the discovery of exposure events. Patients can report what they sent, what they received, or some secrets agreed between them and other users in potential exposure events.  The second dimension is which party performs the matching between information reported by patients and users' information. Matching could be performed by the server, by each individual user, or by the server and each user jointly through some interactive protocol. These two dimensions thus yield nine possible combinations. All existing PCT protocols fall within one of the nine combinations, and this combination determines most the properties for that protocol.  This project also systematically identifies four classes of properties for these protocols: Privacy, Utility (accuracy and situation awareness), Resiliency (to malicious attacks), and communication &amp; computation Efficiency.  Analysis finds that the widely used DP3T protocol and the Google/Apple Exposure Notification protocol have several shortcomings.  Users can use exposure time to learn which persons they have had contact with are likely to be patients.  Attackers can easily create false exposure events, potentially causing panic.  The communication of each non-patient user is linear in the number of new patients, which can be very high.  An alternative design can avoid these problems, at the cost of increasing the leakage of movement traces to an adversary who sets up surveillance stations that actively engage in PCT protocols.  This project also develops a dynamic infectious disease model based on the United States county-wise COVID-19 daily counts data for the period from March to May 2020, and tested the impact of temperature, precipitation, state emergency order and stay home order on the spread of COVID-19. Our numerical results show that warm and humid weather can significantly slow the spread of COVID-19, and the state emergency and stay home orders also help to slow it.          Last Modified: 08/26/2021       Submitted by: Ninghui Li]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

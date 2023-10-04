@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Computer Assisted Experimental Phase Equilibria (CAEPE)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>629415.00</AwardTotalIntnAmount>
+<AwardAmount>363248</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nazanin Bassiri-Gharb</SignBlockName>
+<PO_EMAI>nbassiri@nsf.gov</PO_EMAI>
+<PO_PHON>7032922430</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[NON-TECHNICAL DESCRIPTION: Phase diagrams are the process maps that are used to assist and direct nearly all materials design. In ceramics engineering, many phase diagrams for two and three component systems (components can be elements; such as Zr-C, or groups of elements; such as ZrC-NbC) have been developed. However, as the number of components in the system increases, the number of available phase diagrams decreases due to the complexity involved. Additionally, high temperature ceramic phase diagram data is typically unavailable due to their ultra-high melting points. Some carbides do not melt until ~4000 ˚C. This project remedies both of these issues by integrating computational methods with advanced ultra-high temperature experimental techniques to more efficiently develop multi-component (5 component) phase diagrams at ultra-high temperatures (~ 4000 ˚C). These multi-component ultra-high temperature phase diagrams will be essential for materials engineers to develop next generation ultra-high temperature materials for applications in hypersonics, nuclear (fission and fusion) reactors and shielding for space craft. In addition, this project is building mentoring chains across age and demographics to facilitate diverse next generation science and engineering leaders. This is achieved through a variety of outreach activities that connect high school students to university students (at the undergraduate and graduate level), and university students to professionals in industry.&lt;br/&gt;&lt;br/&gt;TECHNICAL DETAILS: The core focus of this research is developing a computer-assisted experimental phase equilibria (CAEPE) methodology that utilizes CALculation of PHAse Diagrams (CALPHAD) modelling in combination with Bayesian inference and Markov-Chain Monte-Carlo for error quantification that enable strategic targeted experiments. Core experiments involve collecting thermodynamic and physical data from room temperature to ultra-high temperatures (~4000 ˚C) using a series of advanced synthesis, calorimetry, diffraction/scattering, and aerodynamic levitation laser heating techniques. This experimental data is essential for processing and engineering next generation ultra-high temperature materials systems for applications in hypersonics, nuclear (fission and fusion) reactors and shielding for spacecraft. The first material system to be targeted with CAEPE approach is the 5-component monocarbide ZrC-NbC-HfC-TaC-TiC pseudo-quinary system, as it contains the highest melting point material known. Finally, this project will prepare graduate students to think using an integrated computation materials engineering  (ICME) approach, and train them on pioneering, advanced high temperature experimental techniques. These skills will be essential for the future materials engineers that will push limits of ultra-high temperature materials design.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/17/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2047084</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>McCormack</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott J McCormack</PI_FULL_NAME>
+<EmailAddress><![CDATA[sjmccormack@ucdavis.edu]]></EmailAddress>
+<NSF_ID>000809472</NSF_ID>
+<StartDate>02/17/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956186153</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>1850 RESEARCH PARK DR, STE 300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TX2DAGQPENZ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California Davis]]></Name>
+<CityName>Davis</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956165270</ZipCode>
+<StreetAddress><![CDATA[One Shields Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1774</Code>
+<Text>CERAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>089Z</Code>
+<Text>Materials Under Extreme Conditions</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>095Z</Code>
+<Text>Materials AI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~363248</FUND_OBLG>
+</Award>
+</rootTag>

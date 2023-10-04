@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Convergence Accelerator - Track D: A Standardized Model Description Format for Accelerating Convergence in Neuroscience, Cognitive Science, Machine Learning and Beyond]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>993102.00</AwardTotalIntnAmount>
+<AwardAmount>993102</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mike Pozmantier</SignBlockName>
+<PO_EMAI>mpozmant@nsf.gov</PO_EMAI>
+<PO_PHON>7032924475</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future. Accelerating convergence in science and technology depends on the ability to represent and share not only data, but also theories and models in the most objective, transparent, and reproducible way possible. This project will develop a Model Description Format (MDF) that can be used for computational models that span from neuroscience and psychology to machine learning, and that can serve as the foundation for extensions that serve an even broader scope of models in population biology and the social sciences. &lt;br/&gt;&lt;br/&gt;Such an MDF would have numerous benefits, both scientific and technological, including: dissemination and validation of model reproducibility; migration of models across domains (e.g., use of models of brain function in machine learning applications); integration of models at different levels of analysis (e.g., biophysically-realistic neural models into models of cognitive function, cognitive models as agents in population level models); exploitation of complementary strengths of existing packages (e.g., design in a familiar environment but execute in one with better tools for parameter tuning and/or data-fitting); and more efficient development of new tools, by providing developers with a representative diversity of models, all in a common format.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040682</AwardID>
+<Investigator>
+<FirstName>Abhishek</FirstName>
+<LastName>Bhattacharjee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Abhishek Bhattacharjee</PI_FULL_NAME>
+<EmailAddress><![CDATA[abhishek.bhattacharjee@yale.edu]]></EmailAddress>
+<NSF_ID>000580469</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Cohen</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan D Cohen</PI_FULL_NAME>
+<EmailAddress><![CDATA[jdc@princeton.edu]]></EmailAddress>
+<NSF_ID>000122692</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Theodore</FirstName>
+<LastName>Willke</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME>II</PI_SUFX_NAME>
+<PI_FULL_NAME>Theodore L Willke</PI_FULL_NAME>
+<EmailAddress><![CDATA[ted.willke@intel.com]]></EmailAddress>
+<NSF_ID>000826880</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>PRINCETON</CityName>
+<ZipCode>085442001</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>1 NASSAU HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NJ1YPQXQG7U5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF PRINCETON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Princeton University]]></Name>
+<CityName>Princeton</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>085442020</ZipCode>
+<StreetAddress><![CDATA[Office of Research and Project A]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~993102</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>We formed the Model Exchange and Convergence Initiative (ModECI&nbsp;<a href="http://www.modeci.org/">http://www.modeci.org</a>), and used this to oversee and coordinate the effort to develop a machine readable model description format that can be used to&nbsp;exchange of computational models across diverse&nbsp;disciplines&nbsp;and software environments. &nbsp;Specifically,&nbsp;to address this aim, we conducted&nbsp;a series of six workshops that brought together software developers of modeling environments in each of three target domains (neuroscience, cognitive science, and machine learning), as well as representatives of organizations dedicated to the promotion of open science, to provide input and guidance on the needs and challenges of developing MDF. We also conducted a broad&nbsp;user survey that sought input from targeted end-users ? researchers involved in computational modeling? with regard to the potential value of MDF, how it would impact their work, and any specific desiderata they felt would be most important for addressing their needs. &nbsp;Informed bythe feedback and ideas garnered from these&nbsp;activities, we developed a formal definition of the MDF standard, as well as first version of an open-source Python package of tools for reading, examining, executing, and writing models in the MDF standard, as well as a set of prototype interfaces between the standard and widely-used existing domain-specific standards and modeling environments,&nbsp;such&nbsp;as NeuroML (neuroscience), PsyNeuLink (cognitive neuroscience), ACT-R (cognitive science), and&nbsp;PyTorch and ONNX (machine learning). &nbsp;We also explored&nbsp;potential interfaces of&nbsp;MDF with quantum computing platforms, through&nbsp;interactions with Convergence&nbsp;Accelerator projects in parallel&nbsp;Track C (Quantum Computing) as well as industrial partners (e.g., <a href="http://super.tech">super.tech</a>). &nbsp;This&nbsp;work has demonstrated the viability, and&nbsp;provided the foundation for further development of MDF as a formal&nbsp;standard for the exchange of computational models across&nbsp;disciplines&nbsp;and software environments, that should serve to accelerate&nbsp;convergence&nbsp;in the use of such models as a tool for science&nbsp;discovery&nbsp;and technology development.</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/04/2022<br>      Modified by: Jonathan&nbsp;D&nbsp;Cohen</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ We formed the Model Exchange and Convergence Initiative (ModECI http://www.modeci.org), and used this to oversee and coordinate the effort to develop a machine readable model description format that can be used to exchange of computational models across diverse disciplines and software environments.  Specifically, to address this aim, we conducted a series of six workshops that brought together software developers of modeling environments in each of three target domains (neuroscience, cognitive science, and machine learning), as well as representatives of organizations dedicated to the promotion of open science, to provide input and guidance on the needs and challenges of developing MDF. We also conducted a broad user survey that sought input from targeted end-users ? researchers involved in computational modeling? with regard to the potential value of MDF, how it would impact their work, and any specific desiderata they felt would be most important for addressing their needs.  Informed bythe feedback and ideas garnered from these activities, we developed a formal definition of the MDF standard, as well as first version of an open-source Python package of tools for reading, examining, executing, and writing models in the MDF standard, as well as a set of prototype interfaces between the standard and widely-used existing domain-specific standards and modeling environments, such as NeuroML (neuroscience), PsyNeuLink (cognitive neuroscience), ACT-R (cognitive science), and PyTorch and ONNX (machine learning).  We also explored potential interfaces of MDF with quantum computing platforms, through interactions with Convergence Accelerator projects in parallel Track C (Quantum Computing) as well as industrial partners (e.g., super.tech).  This work has demonstrated the viability, and provided the foundation for further development of MDF as a formal standard for the exchange of computational models across disciplines and software environments, that should serve to accelerate convergence in the use of such models as a tool for science discovery and technology development.          Last Modified: 03/04/2022       Submitted by: Jonathan D Cohen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

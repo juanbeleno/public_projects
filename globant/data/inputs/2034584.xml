@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Investigating the Hinge Mechanics of the Spike Protein to Understand the Coronavirus Infection Mechanism]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>188034.00</AwardTotalIntnAmount>
+<AwardAmount>188034</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nakhiah Goulbourne</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This COVID-19 EArly-concept Grant for Exploratory Research (EAGER) project will investigate how SARS-CoV-2, virus causing the disease, attaches to cells, and how it may detach when subject to mechanical force. The virus attaches to cells through its spike protein, and it is believed that this protein has flexible regions called hinges that allow it to change its shape to regulate its attachment. This project will establish a method involving molecular simulations and data science methods to reliably identify these hinges. These analyses will aim to explain how mechanical forces and chemical factors influence hinge motions that influence the binding of the virus to cells. Understanding how the spike protein changes its shape during viral attachment, and how it may detach, e.g. during coughing and sneezing is critical for accurately describing how the virus enters cells, and how we can prevent infection. These findings will advance scientific understanding about this novel coronavirus and provide fundamental insights needed to find a cure for the disease. &lt;br/&gt;&lt;br/&gt;This research program will aim to implement a novel computational strategy to understand how hinge motions of the spike protein govern viral attachment. This method will combine molecular simulations with network reconstruction and community detection methods that are new to the study of proteins. It will aim to accurately identify soft and stiff regions of the protein, pinpoint hinge motions, and examine how mechanical forces impact receptor binding domain accessibility and binding strength. This will provide critically needed physical insights into how SARS-CoV-2 binds and infects cells, how it may dislodge when subject to force, and which compliant regions antibodies could target to prevent attachment. Statistically rigorous techniques for inferring network properties will help to correctly identify the regions that regulate viral attachment. As part of outreach efforts, physics-based animations and videos on the spike protein dynamics and viral attachment will be created and disseminated. Statistical methods, codes and software developed to infer networks and hinge motions from simulations will be shared with the research community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034584</AwardID>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Amaral</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luis N Amaral</PI_FULL_NAME>
+<EmailAddress><![CDATA[amaral@northwestern.edu]]></EmailAddress>
+<NSF_ID>000108015</NSF_ID>
+<StartDate>06/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sinan</FirstName>
+<LastName>Keten</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sinan Keten</PI_FULL_NAME>
+<EmailAddress><![CDATA[s-keten@northwestern.edu]]></EmailAddress>
+<NSF_ID>000577300</NSF_ID>
+<StartDate>06/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>633 CLARK STREET</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>Evanston</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602083111</ZipCode>
+<StreetAddress><![CDATA[2145 Sheridan Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1630</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>013E</Code>
+<Text>MULTI-SCALE MODELING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>027E</Code>
+<Text>NANOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~188034</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Significance: </strong>The COVID-19 pandemic has killed almost a million Americans, which is more than 1 in 400 people. At its peak, it strained the resources of our healthcare system and dramatically altered our daily lives. The infectious agent in COVID-19 is the SARS-CoV-2 virus. In the first step of infection, the spike protein on the virus attaches to the surface of human cells. As shown in Fig. 1, the receptor binding domain (RBD) on the viral spike protein must form a stable protein-protein interaction with the angiotensin converting enzyme 2 (ACE2) receptor protein on human cells. <br /><br /><strong>Problem: </strong>Although the RBD must be accessible for viral attachment, the spike protein switches between "up" states when the RBD is accessible, and "down" states where the RBD is hidden from the human immune system (see Fig. 1 inset). As shown in Fig. 2, RBD accessibility is associated with a structural change in a "hinge" region, where hinge opening exposes the RBD. Understanding how hinge mechanisms control binding site accessibility is an important step for developing therapeutics that prevent SARS-CoV-2 attachment. <br /><br /><strong>Approach:</strong> Focusing on this hinge region, we used computer simulations to identify the interactions that stabilized the "up" and "down" states. A common way to analyze the protein motion data generated from these simulations is identifying protein regions with correlated motion, in other words, regions that move around at the same time. Instead of using these correlations directly, we solved for the combination of interactions that could produce the correlations we observed. Compared to using correlations directly, this alternative approach had some advantages, such as reproducible results when we repeated the experiment, as well as identifying physically interpretable interactions. <br /><br />A real-world analogy is that a runner"s knee-bending and elbow-bending motions are correlated, but there is no direct connection from the knee to the elbow. Instead, the correlated motion can be explained by the connecting nervous and muscular systems that travel through the body. Analogously, we show that correlations between distant protein regions can be explained by interactions that connect through the protein (see Fig. 3). The combination of all the interactions can be used to build a network connecting protein regions. Specifically, we inferred a network where the nodes are protein dihedral angles, and the edges are interactions, that can produce the correlated motions we observed. <br /><br /><strong>Results: </strong>Applying this approach to the hinge region of the spike protein, we directly compared the interactions we found in the "up" state where the RBD is accessible to the interactions in the states where the RBD is hidden. These comparisons identified interactions that were much stronger in one state. We think that these strong interactions must be disrupted and reformed when the hinge opens or closes, which helps us better understand the motion that makes the RBD accessible for viral attachment. Interestingly, the important protein interactions were found near each other, and not spread out across the protein. This suggests that a particular pattern of interactions can cause protein regions to move together. Thus, in the future, we hope to understand the patterning rules that enable coordinated movement within proteins. <br /><br /><strong>Summary: </strong>To study a hinged region of the SARS-CoV-2 spike protein that is functionally important for viral attachment, we developed a new tool for using protein motion data to infer a network of interactions. This tool is also applicable to other proteins, and we tested it extensively on a bacterial protein that enables attachment to the human urinary tract (fimH), and a human immune protein that enables attachment to other immune cells to prevent allergic reactions (siglec-8). In the future, we will analyze the protein network to identify protein regions that move together, in order to better understand functional motions such as hinge opening in the spike protein that enables viral attachment. <br /><br /><strong>Broader impacts: </strong>The funding for this project supported 4 graduate students (3 women), including the PhD thesis of an MDPhD student. It generated modeling examples that were integrated into a graduate courses on nanoscale dynamics. It provided inspiration for a senior capstone project for engineering students on brownian dynamics. The codes developed for analysis and visualization were made freely available on a GitHub repository.&nbsp;</p><br> <p>            Last Modified: 03/30/2022<br>      Modified by: Sinan&nbsp;Keten</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2034584/2034584_10676904_1648691074771_image1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2034584/2034584_10676904_1648691074771_image1--rgov-800width.jpg" title="Proteins involved in virus attachment and detachment."><img src="/por/images/Reports/POR/2022/2034584/2034584_10676904_1648691074771_image1--rgov-66x44.jpg" alt="Proteins involved in virus attachment and detachment."></a> <div class="imageCaptionContainer"> <div class="imageCaption">(A) Spike protein on the viral surface attach to human cells. (inset) Each spike protein has 3 chains, each with a receptor binding domain (RBD) in the �down� or �up� state. (B) The RBD in the �up� state attaches to ACE2 during infection and may be detached by force.</div> <div class="imageCredit">Sinan Keten and the Keten group</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sinan&nbsp;Keten</div> <div class="imageTitle">Proteins involved in virus attachment and detachment.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2034584/2034584_10676904_1648691225317_image2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2034584/2034584_10676904_1648691225317_image2--rgov-800width.jpg" title="Schematic of spike protein hinge region."><img src="/por/images/Reports/POR/2022/2034584/2034584_10676904_1648691225317_image2--rgov-66x44.jpg" alt="Schematic of spike protein hinge region."></a> <div class="imageCaptionContainer"> <div class="imageCaption">(A) Spike protein with one �up� chain represented as Cartoon and two �down� chains as surfaces. (B) Hinge region comparing �up� vs �down� states and the RBD-ACE2 interaction in the �up� state.</div> <div class="imageCredit">Keten group</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sinan&nbsp;Keten</div> <div class="imageTitle">Schematic of spike protein hinge region.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2034584/2034584_10676904_1648691360779_image3--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2034584/2034584_10676904_1648691360779_image3--rgov-800width.jpg" title="Comparison of correlation networks and inferred networks for SARS-CoV-2 hinge region."><img src="/por/images/Reports/POR/2022/2034584/2034584_10676904_1648691360779_image3--rgov-66x44.jpg" alt="Comparison of correlation networks and inferred networks for SARS-CoV-2 hinge region."></a> <div class="imageCaptionContainer"> <div class="imageCaption">In the �up� state, the hinge is open and the RBD is accessible, while in the �down1�, �down2�, and �off� states, the hinge is closed. (top row) Correlation networks have more strong edges connecting distant regions. (bottom row) Inferred networks have strong local edges.</div> <div class="imageCredit">the Keten group</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sinan&nbsp;Keten</div> <div class="imageTitle">Comparison of correlation networks and inferred networks for SARS-CoV-2 hinge region.</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Significance: The COVID-19 pandemic has killed almost a million Americans, which is more than 1 in 400 people. At its peak, it strained the resources of our healthcare system and dramatically altered our daily lives. The infectious agent in COVID-19 is the SARS-CoV-2 virus. In the first step of infection, the spike protein on the virus attaches to the surface of human cells. As shown in Fig. 1, the receptor binding domain (RBD) on the viral spike protein must form a stable protein-protein interaction with the angiotensin converting enzyme 2 (ACE2) receptor protein on human cells.   Problem: Although the RBD must be accessible for viral attachment, the spike protein switches between "up" states when the RBD is accessible, and "down" states where the RBD is hidden from the human immune system (see Fig. 1 inset). As shown in Fig. 2, RBD accessibility is associated with a structural change in a "hinge" region, where hinge opening exposes the RBD. Understanding how hinge mechanisms control binding site accessibility is an important step for developing therapeutics that prevent SARS-CoV-2 attachment.   Approach: Focusing on this hinge region, we used computer simulations to identify the interactions that stabilized the "up" and "down" states. A common way to analyze the protein motion data generated from these simulations is identifying protein regions with correlated motion, in other words, regions that move around at the same time. Instead of using these correlations directly, we solved for the combination of interactions that could produce the correlations we observed. Compared to using correlations directly, this alternative approach had some advantages, such as reproducible results when we repeated the experiment, as well as identifying physically interpretable interactions.   A real-world analogy is that a runner"s knee-bending and elbow-bending motions are correlated, but there is no direct connection from the knee to the elbow. Instead, the correlated motion can be explained by the connecting nervous and muscular systems that travel through the body. Analogously, we show that correlations between distant protein regions can be explained by interactions that connect through the protein (see Fig. 3). The combination of all the interactions can be used to build a network connecting protein regions. Specifically, we inferred a network where the nodes are protein dihedral angles, and the edges are interactions, that can produce the correlated motions we observed.   Results: Applying this approach to the hinge region of the spike protein, we directly compared the interactions we found in the "up" state where the RBD is accessible to the interactions in the states where the RBD is hidden. These comparisons identified interactions that were much stronger in one state. We think that these strong interactions must be disrupted and reformed when the hinge opens or closes, which helps us better understand the motion that makes the RBD accessible for viral attachment. Interestingly, the important protein interactions were found near each other, and not spread out across the protein. This suggests that a particular pattern of interactions can cause protein regions to move together. Thus, in the future, we hope to understand the patterning rules that enable coordinated movement within proteins.   Summary: To study a hinged region of the SARS-CoV-2 spike protein that is functionally important for viral attachment, we developed a new tool for using protein motion data to infer a network of interactions. This tool is also applicable to other proteins, and we tested it extensively on a bacterial protein that enables attachment to the human urinary tract (fimH), and a human immune protein that enables attachment to other immune cells to prevent allergic reactions (siglec-8). In the future, we will analyze the protein network to identify protein regions that move together, in order to better understand functional motions such as hinge opening in the spike protein that enables viral attachment.   Broader impacts: The funding for this project supported 4 graduate students (3 women), including the PhD thesis of an MDPhD student. It generated modeling examples that were integrated into a graduate courses on nanoscale dynamics. It provided inspiration for a senior capstone project for engineering students on brownian dynamics. The codes developed for analysis and visualization were made freely available on a GitHub repository.        Last Modified: 03/30/2022       Submitted by: Sinan Keten]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FMSG: Integrating Artificial Intelligence in Chemical Vapor Deposition for In-situ Predictive Crystal Growth Manufacturing.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>532250</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+<PO_EMAI>uvarshne@nsf.gov</PO_EMAI>
+<PO_PHON>7032925385</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In electronics, large crystal of silicon is used as the basis for semiconductor computer chips and switching devices for electric grid applications. The efficiency of electronic devices is dependent on the perfection of the crystals as it offers better control of electron flow without loss. Different types of semiconductor crystals, like diamond, can outperform silicon but are essentially unavailable for use. The current project proposes to use artificial intelligence on the data generated and collected during crystal growth to predict parameters instead of trial and error for growth of defect free crystals. The use artificial intelligence will assess the data generated during the growth process itself, the current state of crystal growth, and predict the growth results. Development and integration of deep learning artificial intelligence architectures in the Chemical Vapor Deposition process will make growth predictions more accurate and add defect assessment to the prediction for manufacturing of diamond material System.  Outcome of the project will accelerate the development cycles and reduce costs for manufacturing processes which will be adaptable to a broad range of crystal growth processes for electronics. Concepts developed in the project will be integrated into existing courses, capstone projects will be designed for students, and education modules will be developed for training operators.  A course in data collection, handling, and interpretation will be developed for vocational workers to understand, adapt, and team with artificial intelligence augmented manufacturing machines in the work environment. The course will be disseminated to manufacturing community by partnering with the Automation Alley, an industry manufacturing consortium.&lt;br/&gt;&lt;br/&gt;The proposed project will design and develop a holistic artificial intelligence platform to solve the problems of traditional approaches for growth of large-scale crystalline diamond material system. The approach will focus on increasing the resolution of image collection and training the program to resolve problems with spatio-temporal data, including: (1) checkerboard artifacts, (2) lack of photo-realism, and (3) inability to prevent feature loss, while maintaining a large frame resolution. Further, the artificial intelligence architectures developed for this project will be merged into solutions for frame prediction based on input time series parameters like temperature and defects to achieve state-of-the-art accuracy metrics in growth state prediction. The large scale and defect free diamond material system is one of the most challenging and holds the promise of revolutionizing power device technology. The enhanced predictive capabilities proposed in this project  derived from higher resolution images and incorporation of microscope defect data will enable in-process control of the evolving growth process for diamond and will lead the way for fully automated process control of crystal growth processes for manufacturing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/24/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036737</AwardID>
+<Investigator>
+<FirstName>Rohan</FirstName>
+<LastName>Mekala</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rohan R Mekala</PI_FULL_NAME>
+<EmailAddress><![CDATA[rreddy@fc-md.umd.edu]]></EmailAddress>
+<NSF_ID>000827358</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mikael</FirstName>
+<LastName>Lindvall</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mikael Lindvall</PI_FULL_NAME>
+<EmailAddress><![CDATA[mlindvall@fraunhofer.org]]></EmailAddress>
+<NSF_ID>000489186</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthias</FirstName>
+<LastName>Muehle</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthias Muehle</PI_FULL_NAME>
+<EmailAddress><![CDATA[mmuehle@fraunhofer.org]]></EmailAddress>
+<NSF_ID>000790653</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Qi</FirstName>
+<LastName>Fan</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qi H Fan</PI_FULL_NAME>
+<EmailAddress><![CDATA[qfan@egr.msu.edu]]></EmailAddress>
+<NSF_ID>000582439</NSF_ID>
+<StartDate>02/24/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Albrecht</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John Albrecht</PI_FULL_NAME>
+<EmailAddress><![CDATA[jalbrech@msu.edu]]></EmailAddress>
+<NSF_ID>000662508</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elias</FirstName>
+<LastName>Garratt</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elias J Garratt</PI_FULL_NAME>
+<EmailAddress><![CDATA[garratte@msu.edu]]></EmailAddress>
+<NSF_ID>000603843</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate>02/24/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>426 AUDITORIUM RD RM 2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>East Lansing</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488241326</ZipCode>
+<StreetAddress><![CDATA[1449 Engineering Research Court]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>142Y</Code>
+<Text>FM-Future Manufacturing</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GOALI-Grnt Opp Acad Lia wIndus</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1517</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~500000</FUND_OBLG>
+<FUND_OBLG>2021~32250</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The term artificial intelligence (AI) is omnipresent in today&rsquo;s news and media space. We can see stories focusing on how ChatGPT may or may not disrupt college submission essays almost daily. At the same time, researchers are embracing the use of AI more broadly, and in new research fields, for a variety of benefits. For example, in this project explored the use of AI to shorten the development time in materials research.</p> <p>Our big picture research motivation is to improve the crystal quality of lab grown diamonds, called wafers, which are being used in semiconductor applications. These wafers can then be processed into electronic components and systems. The manufacturing process is the similar to silicon, which is the backbone of the majority of modern electronics products. Transitioning from silicon-based to diamond electronics would allow us to greatly enhance the efficiency of electric vehicles, the power grid and cell phone towers. All of these will be critical in addressing climate change by transitioning our economy to being net carbon neutral. However, the main concern is that such solutions need to be developed fast, if we hope to see a realistic impact. The development and optimization of silicon-based electronics took several decades of conventional materials research. Making similar advances for diamond would likely require a similar timeline. That is why novel approaches are necessary to speed up this timeline. One can say that we need an outside of the box solution. This is where we combined traditional materials research with artificial intelligence.</p> <p>We attached a camera to a diamond growth reactor and took pictures of the diamond as it grew. We developed a series of AI models, which would detect the diamond in these pictures without the need of human input. The pictures also allow extraction of physical dimensions of the diamond, in turn allowing to monitor the growth through size. This information was then used to train a second AI model which is capable to predict diamond growth up to 12 hours into the future. The model was successful in that it can accurately predict the growth outcome as verified by actually growing the diamond.</p> <p>Our follow-on research will utilize this model to the fullest. With it, we will be able to improve the diamond growth process. As a result, we can boost crystal quality of these diamond wafers and will finally be able to lay the groundwork for actual use of diamond electronics. Beyond that, the research project also showcased the usefulness of AI in enhancing materials research and development. We expect that our findings will translate to advancements in 3D printing and composite materials development. &nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 04/26/2023<br>      Modified by: Matthias&nbsp;Muehle</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2036737/2036737_10698774_1682544470215_Prediction--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2036737/2036737_10698774_1682544470215_Prediction--rgov-800width.jpg" title="Diamond growth prediction"><img src="/por/images/Reports/POR/2023/2036737/2036737_10698774_1682544470215_Prediction--rgov-66x44.jpg" alt="Diamond growth prediction"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This image shows the predicted growth 6 hour into the future. The images on the left show the images used as based for the prediction. Compare the accuracy between the growth prediction (top right) and actual growth (bottom right)</div> <div class="imageCredit">Fraunhofer USA, Inc.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Matthias&nbsp;Muehle</div> <div class="imageTitle">Diamond growth prediction</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The term artificial intelligence (AI) is omnipresent in today’s news and media space. We can see stories focusing on how ChatGPT may or may not disrupt college submission essays almost daily. At the same time, researchers are embracing the use of AI more broadly, and in new research fields, for a variety of benefits. For example, in this project explored the use of AI to shorten the development time in materials research.  Our big picture research motivation is to improve the crystal quality of lab grown diamonds, called wafers, which are being used in semiconductor applications. These wafers can then be processed into electronic components and systems. The manufacturing process is the similar to silicon, which is the backbone of the majority of modern electronics products. Transitioning from silicon-based to diamond electronics would allow us to greatly enhance the efficiency of electric vehicles, the power grid and cell phone towers. All of these will be critical in addressing climate change by transitioning our economy to being net carbon neutral. However, the main concern is that such solutions need to be developed fast, if we hope to see a realistic impact. The development and optimization of silicon-based electronics took several decades of conventional materials research. Making similar advances for diamond would likely require a similar timeline. That is why novel approaches are necessary to speed up this timeline. One can say that we need an outside of the box solution. This is where we combined traditional materials research with artificial intelligence.  We attached a camera to a diamond growth reactor and took pictures of the diamond as it grew. We developed a series of AI models, which would detect the diamond in these pictures without the need of human input. The pictures also allow extraction of physical dimensions of the diamond, in turn allowing to monitor the growth through size. This information was then used to train a second AI model which is capable to predict diamond growth up to 12 hours into the future. The model was successful in that it can accurately predict the growth outcome as verified by actually growing the diamond.  Our follow-on research will utilize this model to the fullest. With it, we will be able to improve the diamond growth process. As a result, we can boost crystal quality of these diamond wafers and will finally be able to lay the groundwork for actual use of diamond electronics. Beyond that, the research project also showcased the usefulness of AI in enhancing materials research and development. We expect that our findings will translate to advancements in 3D printing and composite materials development.            Last Modified: 04/26/2023       Submitted by: Matthias Muehle]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

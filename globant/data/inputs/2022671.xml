@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Reproducible research and educational software for geoscience data analysis in spherical and planar geometry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/08/2019</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>56710.00</AwardTotalIntnAmount>
+<AwardAmount>56710</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Raleigh Martin</SignBlockName>
+<PO_EMAI>ramartin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927199</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project will develop, formalize, and improve documentation and functionality for a set of codes&lt;br/&gt;used for research and education in geophysics but of potential application in other fields. The project&lt;br/&gt;will continue algorithmic development and documentation of software for geophysical analysis using&lt;br/&gt;wavelets, vector spherical harmonics and Slepian functions. Examples are: in geodynamics, the description of deformation in and of the Earth; in geomagnetics, the lithospheric magnetic field; in geodesy, models of terrestrial and planetary gravity; and any directional spherical processes that are vectorial in nature in other fields of science and engineering.  The codes support (or will support) decomposition of fields, harmonic analysis, power spectral estimation, inversion parameterization, vector&lt;br/&gt;field analysis, and satellite data. The project will also develop software for analysis of Ground Penetrating&lt;br/&gt;Radar data. The work will involve students and course work between two very different institutions in&lt;br/&gt;continual use, testing, and input to the development of the codes. &lt;br/&gt;&lt;br/&gt;Analyses in vector-spherical harmonics are well established, but only legacy code, mostly in Fortran, exists to date. Matlab or Octave software archives are much needed, especially in the light of modern-day mathematical methods which consist in forming optimized linear combinations of vector harmonics into bandlimited, geographically localized functions: the so-called Slepian basis. Designing algorithms, and programming them well, in a robust and reproducible manner, is demanding but not often considered a scientific objective per se. The society at large, and the scientific community, are best served when all research-grade and educational code is fully documented and available, ready to run by novice or expert alike. Matlab and Octave are portable, low-threshold scripting languages that blend low-level flexibility, intermediate complexity and high-performance.]]></AbstractNarration>
+<MinAmdLetterDate>03/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022671</AwardID>
+<Investigator>
+<FirstName>Alain</FirstName>
+<LastName>Plattner</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alain M Plattner</PI_FULL_NAME>
+<EmailAddress><![CDATA[amplattner@ua.edu]]></EmailAddress>
+<NSF_ID>000674001</NSF_ID>
+<StartDate>03/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama Tuscaloosa</Name>
+<CityName>TUSCALOOSA</CityName>
+<ZipCode>354870001</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress>301 ROSE ADMIN BLDG</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RCNJEHZ83EV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TWJWHYEM8T63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName>Tuscaloosa</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>350052268</ZipCode>
+<StreetAddress><![CDATA[801 University Blvd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>6892</Code>
+<Text>CI REUSE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7255</Code>
+<Text>GEOINFORMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0116</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001617DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2016~56709</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This grant produced a range of software including documentation, that can be used by researchers and the public for various purposes. The outcome of most direct impact to public is the software package GPRPy, which was developed as part of this grant.</p> <p>GPRPy is a free and open source software that allows for processing and visualization of ground penetrating radar data. Ground penetrating radar is a widely used and versatile piece of equipment that can be used to create images of the subsurface without excavation, simiilar to ultrasound in medical imaging. Ground penetrating radar is used for engineering, road maintenance, utility imaging for maintenance and before construction, studies of ice sheets, environmental studies, archaeology, geology, studies of ground water, etc. Before we published GPRPy, the study of ground penetrating radar data either required purchasing an expensive software ($1000 or more for dedicated ground penetrating radar software), or required programming skills to use available free sofrware without a graphical user interface. GPRPy is free, has a graphical user interface, and can be installed on almost any operating system. We also created tutorial videos that anyone can access via youtube.</p> <p>As a result of this, anyone with internet access can learn ground penetrating radar data processing. This allows people seeking a job using ground penetrating radar to get job training for free. Also, anyone can check if published ground penetrating radar research was done correctly, without having to purchase expensive software ("reproducible research"). GPRPy is published under a permissive license, allowing companies to use the software, adapt it to their needs, and provide commercial services including selling an improved version of GPRPy, as long as they acknowledge the original free version of GPRPy.</p> <p>GPRPy software:&nbsp;<a title="https://nsgeophysics.github.io/GPRPy/" href="https://nsgeophysics.github.io/GPRPy/" target="_blank">https://nsgeophysics.github.io/GPRPy/</a></p> <p>Permanent GPRPy software link (archive):<a title="https://www.doi.org/10.5281/zenodo.2556982 " href="https://www.doi.org/10.5281/zenodo.2556982" target="_blank">https://www.doi.org/10.5281/zenodo.2556982&nbsp;</a></p> <p>Videos:&nbsp;<a title="https://www.youtube.com/@gprpy2726/playlists" href="https://www.youtube.com/@gprpy2726/playlists" target="_blank">https://www.youtube.com/@gprpy2726/playlists</a></p> <p>Additional example data:&nbsp;<a title="https://doi.org/10.5281/zenodo.3357978" href="https://doi.org/10.5281/zenodo.3357978" target="_blank">https://doi.org/10.5281/zenodo.3357978</a></p><br> <p>            Last Modified: 01/03/2023<br>      Modified by: Alain&nbsp;M&nbsp;Plattner</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2022671/2022671_10434270_1672756968581_profileGUI--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2022671/2022671_10434270_1672756968581_profileGUI--rgov-800width.jpg" title="GPRPy graphical user interface"><img src="/por/images/Reports/POR/2023/2022671/2022671_10434270_1672756968581_profileGUI--rgov-66x44.jpg" alt="GPRPy graphical user interface"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The graphical user interface of GPRPy to process ground penetrating data.</div> <div class="imageCredit">Alain Plattner</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Alain&nbsp;M&nbsp;Plattner</div> <div class="imageTitle">GPRPy graphical user interface</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This grant produced a range of software including documentation, that can be used by researchers and the public for various purposes. The outcome of most direct impact to public is the software package GPRPy, which was developed as part of this grant.  GPRPy is a free and open source software that allows for processing and visualization of ground penetrating radar data. Ground penetrating radar is a widely used and versatile piece of equipment that can be used to create images of the subsurface without excavation, simiilar to ultrasound in medical imaging. Ground penetrating radar is used for engineering, road maintenance, utility imaging for maintenance and before construction, studies of ice sheets, environmental studies, archaeology, geology, studies of ground water, etc. Before we published GPRPy, the study of ground penetrating radar data either required purchasing an expensive software ($1000 or more for dedicated ground penetrating radar software), or required programming skills to use available free sofrware without a graphical user interface. GPRPy is free, has a graphical user interface, and can be installed on almost any operating system. We also created tutorial videos that anyone can access via youtube.  As a result of this, anyone with internet access can learn ground penetrating radar data processing. This allows people seeking a job using ground penetrating radar to get job training for free. Also, anyone can check if published ground penetrating radar research was done correctly, without having to purchase expensive software ("reproducible research"). GPRPy is published under a permissive license, allowing companies to use the software, adapt it to their needs, and provide commercial services including selling an improved version of GPRPy, as long as they acknowledge the original free version of GPRPy.  GPRPy software: https://nsgeophysics.github.io/GPRPy/  Permanent GPRPy software link (archive):https://www.doi.org/10.5281/zenodo.2556982   Videos: https://www.youtube.com/@gprpy2726/playlists  Additional example data: https://doi.org/10.5281/zenodo.3357978       Last Modified: 01/03/2023       Submitted by: Alain M Plattner]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

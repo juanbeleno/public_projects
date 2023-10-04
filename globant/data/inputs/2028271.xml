@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Scaling, causality, and modulation of the spread of COVID19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+<PO_EMAI>bhamilto@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Models of the spreading of the COVID-19 virus have yielded conflicting predictions for the value and time of the peak occurrence of cases. Most models tend to be one dimensional exponential growth, and thus do not account for spatial correlation. Other models are based on neural networks, which are capable of predicting if sufficient data are available, which is not at this instant of time the case for COVID-19. This study will use multifractals, which result from multiplicative processes with spatial correlations. Multifractals, due to their lack of a characteristic scale, may be ideal tools to analyze the spread of viruses, such as COVID-19; the spreading in a large city such as NYC could be similar to that occurring in a small city such as Newark, NJ. Multifractals have been used largely for geophysical data by various groups, and in some cases, to understand the spread of viruses, such as H1N5. This study will use data from the five boroughs of New York City and from Northern New Jersey (namely Bergen, Essex, and Union County). The team already has been collecting data from these communities in a project on community resilience. &lt;br/&gt;&lt;br/&gt;The hypothesis of this research is that multifractals can reflect both the scaling behavior and the exponential increase with time. Multifractals also account for the spatial correlation between subjects, and thus could be used to explain connectivity, be it at the individual level or at the level of cities (say NYC and Philadelphia). In addition, a look at the map of cases at the US (or the world scale) reveals spottiness, that is hot zones that are not uniformly distributed in space. The study team believes that the skeleton of the geometry is fractal (because of the lack of scale), and thus will be analyzing multifractals distributed spatially on a fractal network. This approach may open new modes of investigation in various areas, including public health and resilience.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028271</AwardID>
+<Investigator>
+<FirstName>Michel</FirstName>
+<LastName>Boufadel</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michel C Boufadel</PI_FULL_NAME>
+<EmailAddress><![CDATA[boufadel@njit.edu]]></EmailAddress>
+<NSF_ID>000278597</NSF_ID>
+<StartDate>04/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaolong</FirstName>
+<LastName>Geng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaolong Geng</PI_FULL_NAME>
+<EmailAddress><![CDATA[xgeng@hawaii.edu]]></EmailAddress>
+<NSF_ID>000722519</NSF_ID>
+<StartDate>04/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Jersey Institute of Technology</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>071021824</ZipCode>
+<PhoneNumber>9735965275</PhoneNumber>
+<StreetAddress>323 DR MARTIN LUTHER KING JR BLV</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SGBMHQ7VXNH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW JERSEY INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName>Newark</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>071021982</ZipCode>
+<StreetAddress><![CDATA[323 MLK Blvd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7643</Code>
+<Text>EnvS-Environmtl Sustainability</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>COVID-19 has become a serious global health threat due to its rapid spatial spread. The temporal-spatial evolution of COVID-19 cases involves complex epidemiological dynamics as a result of nested personal, societal, and political decisions. In this project, we conducted spatial analysis of daily COVID-19 cases at the U.S. county scale, as of February 2021. Our analysis revealed a dynamic multifractal scaling of COVID-19 infections, spanning from 10 to 2,600 km and consistently trending toward that of the susceptible population.&nbsp;A rapid increase in the spatial correlation was identified early in the outbreak (March to April). Then, the increase continued at a slower rate and approached the spatial correlation of human population.&nbsp; &nbsp;</p> <p>In this project, instead of adopting agent-based models that require tracking of individuals, we developed a kernel-modulated approach to characterize the dynamic spreading of disease in a multifractal distributed susceptible population. In this model, the susceptible population was viewed as consisting of multiple segregated sets, representing quarantine and mobility, to reflect the multistage conditional reopening policy implemented late April to early June 2020 in the United States. Notably, multiphase Covid-19 epidemics were reasonably reproduced by the proposed kernel-modulated susceptible?infectious?recovered (SIR) model for all the US states.</p> <p>Our simulations explained the fact that while the reproduction number was reduced due to nonpharmaceutical interventions (e.g., masks, social distancing, etc.), subsequent multiple epidemic waves still occurred; this was due to an increase in susceptible population flow following a relaxation of travel restrictions and corollary stay-at-home order. The multiphase population release mechanism, reflecting differing regulation and policy of reopening from US states, plays a primary role in explaining the outbreak of the Covid-19 pandemic (February 15 to October 14 2020). In particular, managing release periods and the rate of population release to the susceptible category can effectively hinder Covid-19 infections.</p> <p><span>We developed a numerical approach that couples CFD and Lagrangian particle tracking to investigate the transport of virus-laden particles in an indoor ventilation environment (e.g., a supermarket).&nbsp;<span>Our modeling results found that the indoor airflows can significantly enhance the transport of particles (e.g., &gt;15 m for 5 &mu;m, and &gt;5 m for 20 &mu;m); therefore, the 6-ft (2.0 m) social distance recommended by health experts would not be sufficient to prevent the transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). We also found that the attachment on surfaces reduced the transport of particles significantly within the supermarket, and that an attachment efficiency of 25% resulted in transport similar to that resulting from 100% efficiency. This suggested that the type of surfaces was not crucial in terms of air transport of particles.</span></span></p> <p>Overall, the outcomes from this project provide a perspective for interpreting the complex tempo-spatial evolution of Covid-19 and to predict it at numerous spatial scales based on nonpharmaceutical intervention decisions and without using data requiring tracking individuals.&nbsp;<span>They contribute to a better understanding of disease transmission dynamics. It can assist in estimating the potential surge in hospitalizations, identifying critical periods for healthcare system strain, and optimizing strategies to mitigate disease impact.&nbsp;<span>Policymakers can also use the predictions from the model to inform the implementation of targeted interventions and measures, minimizing economic and social distruptions while still controlling disease spread.</span></span></p><br> <p>            Last Modified: 09/02/2023<br>      Modified by: Michel&nbsp;C&nbsp;Boufadel</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692045552833_Figure0--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692045552833_Figure0--rgov-800width.jpg" title="Contours of observed COVID-19 cases in the USA"><img src="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692045552833_Figure0--rgov-66x44.jpg" alt="Contours of observed COVID-19 cases in the USA"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Contours of observed COVID-19 cases in the USA on (a) March 23rd 2020 and (b) May 5th 2020. (c) Bar graph of the Washington DC area (for illustration). (d) Simulated number of total cases using the Universal Multifractal model. (e) Number of air travel passengers.</div> <div class="imageCredit">Contours of observed COVID-19 cases in the USA</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Xiaolong&nbsp;Geng</div> <div class="imageTitle">Contours of observed COVID-19 cases in the USA</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692043419381_Figure2--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692043419381_Figure2--rgov-800width.jpg" title="Schematics of improved SIR model"><img src="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692043419381_Figure2--rgov-66x44.jpg" alt="Schematics of improved SIR model"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(A) Schematics of kernel-based model, diffusion-based model, and immobile model. (B) Example multifractal field and the new field postprocessed by the Fast Fourier Transform?based convolution. (C) TSA check point travel numbers for 2020 and 2019.</div> <div class="imageCredit">Schematics of improved SIR model</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Xiaolong&nbsp;Geng</div> <div class="imageTitle">Schematics of improved SIR model</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692043765092_Figure3--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692043765092_Figure3--rgov-800width.jpg" title="Observed and simulated daily Covid-19 cases for the United States and each US state."><img src="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692043765092_Figure3--rgov-66x44.jpg" alt="Observed and simulated daily Covid-19 cases for the United States and each US state."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Observed and simulated daily Covid-19 cases for the United States and each US state. Note that the time origin is Feb. 15, 2020, and 7 d moving average is takenfor each US state</div> <div class="imageCredit">Observed and simulated daily Covid-19 cases for the United States and each US state.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Xiaolong&nbsp;Geng</div> <div class="imageTitle">Observed and simulated daily Covid-19 cases for the United States and each US state.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692044596108_Figure4--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692044596108_Figure4--rgov-800width.jpg" title="Simulated Covid-19 cases using the kernel-based SIR model"><img src="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692044596108_Figure4--rgov-66x44.jpg" alt="Simulated Covid-19 cases using the kernel-based SIR model"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(A) Simulated Covid-19 cases. Here, we selected daily confirmed cases reported in the United States, New Jersey, California, and Colorado as representative scenarios. (B-C) Values of modified reproduction number and population flux used in the model.</div> <div class="imageCredit">Simulated Covid-19 cases using the kernel-based SIR model</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Xiaolong&nbsp;Geng</div> <div class="imageTitle">Simulated Covid-19 cases using the kernel-based SIR model</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692045001085_Figure5--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692045001085_Figure5--rgov-800width.jpg" title="Spread of the 5-micron particles in an archetypical supermarket configuration of area 1,200 m2 and ceiling height of 4.5 m."><img src="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692045001085_Figure5--rgov-66x44.jpg" alt="Spread of the 5-micron particles in an archetypical supermarket configuration of area 1,200 m2 and ceiling height of 4.5 m."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Spatial distribution of 5-micron particles at t = 100, 400, 700, and 1,000 s with a nonattachment condition. The deep blue spheres indicate particles suspended in the air. The 5-micron particles spread thoroughly throughthe whole domain without any attachment.</div> <div class="imageCredit">Spread of the 5-micron particles in an archetypical supermarket configuration of area 1,200 m2 and ceiling height of 4.5 m.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Xiaolong&nbsp;Geng</div> <div class="imageTitle">Spread of the 5-micron particles in an archetypical supermarket configuration of area 1,200 m2 and ceiling height of 4.5 m.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692042985475_Figure1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692042985475_Figure1--rgov-800width.jpg" title="Scaling properties of COVID-19 spread"><img src="/por/images/Reports/POR/2023/2028271/2028271_10663108_1692042985475_Figure1--rgov-66x44.jpg" alt="Scaling properties of COVID-19 spread"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(A) The q moments of the Covid-19 cases and their scaling from 10 up to 2,600 km used in the determination of K(q). (B) The moment scaling functionK(q); the convex shape indicates multifractality. (C) The fitted spectral slope at various dates.</div> <div class="imageCredit">Scaling properties of COVID-19 spread</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Xiaolong&nbsp;Geng</div> <div class="imageTitle">Scaling properties of COVID-19 spread</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ COVID-19 has become a serious global health threat due to its rapid spatial spread. The temporal-spatial evolution of COVID-19 cases involves complex epidemiological dynamics as a result of nested personal, societal, and political decisions. In this project, we conducted spatial analysis of daily COVID-19 cases at the U.S. county scale, as of February 2021. Our analysis revealed a dynamic multifractal scaling of COVID-19 infections, spanning from 10 to 2,600 km and consistently trending toward that of the susceptible population. A rapid increase in the spatial correlation was identified early in the outbreak (March to April). Then, the increase continued at a slower rate and approached the spatial correlation of human population.     In this project, instead of adopting agent-based models that require tracking of individuals, we developed a kernel-modulated approach to characterize the dynamic spreading of disease in a multifractal distributed susceptible population. In this model, the susceptible population was viewed as consisting of multiple segregated sets, representing quarantine and mobility, to reflect the multistage conditional reopening policy implemented late April to early June 2020 in the United States. Notably, multiphase Covid-19 epidemics were reasonably reproduced by the proposed kernel-modulated susceptible?infectious?recovered (SIR) model for all the US states.  Our simulations explained the fact that while the reproduction number was reduced due to nonpharmaceutical interventions (e.g., masks, social distancing, etc.), subsequent multiple epidemic waves still occurred; this was due to an increase in susceptible population flow following a relaxation of travel restrictions and corollary stay-at-home order. The multiphase population release mechanism, reflecting differing regulation and policy of reopening from US states, plays a primary role in explaining the outbreak of the Covid-19 pandemic (February 15 to October 14 2020). In particular, managing release periods and the rate of population release to the susceptible category can effectively hinder Covid-19 infections.  We developed a numerical approach that couples CFD and Lagrangian particle tracking to investigate the transport of virus-laden particles in an indoor ventilation environment (e.g., a supermarket). Our modeling results found that the indoor airflows can significantly enhance the transport of particles (e.g., &gt;15 m for 5 &mu;m, and &gt;5 m for 20 &mu;m); therefore, the 6-ft (2.0 m) social distance recommended by health experts would not be sufficient to prevent the transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). We also found that the attachment on surfaces reduced the transport of particles significantly within the supermarket, and that an attachment efficiency of 25% resulted in transport similar to that resulting from 100% efficiency. This suggested that the type of surfaces was not crucial in terms of air transport of particles.  Overall, the outcomes from this project provide a perspective for interpreting the complex tempo-spatial evolution of Covid-19 and to predict it at numerous spatial scales based on nonpharmaceutical intervention decisions and without using data requiring tracking individuals. They contribute to a better understanding of disease transmission dynamics. It can assist in estimating the potential surge in hospitalizations, identifying critical periods for healthcare system strain, and optimizing strategies to mitigate disease impact. Policymakers can also use the predictions from the model to inform the implementation of targeted interventions and measures, minimizing economic and social distruptions while still controlling disease spread.       Last Modified: 09/02/2023       Submitted by: Michel C Boufadel]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

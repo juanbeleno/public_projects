@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Modeling light echoes from hot dust and the broad line region in Active Galactic Nuclei]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>371287.00</AwardTotalIntnAmount>
+<AwardAmount>371287</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph E. Pesce</SignBlockName>
+<PO_EMAI>jpesce@nsf.gov</PO_EMAI>
+<PO_PHON>7032927373</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[We now know that most galaxies in the universe host a supermassive black hole at their centers. As interstellar gas falls in towards the black hole, a huge amount of energy is released, creating an extremely bright light source at the center of the galaxy. These sources, called Active Galactic Nuclei, can far outshine the galaxy’s entire population of stars. Because inter-galactic distances are vast, Active Galactic Nuclei are difficult to resolve even using the best images obtained with current telescopes. However, by measuring  “light echoes” astronomers can probe the environment around the black hole. In this project, the PI will develop a computer program to model these light echoes. By comparing computer generated “echo maps” with data obtained from several observational surveys, the PI will be able to map the gas and dust structures in large numbers of Active Galactic Nuclei. A series of Astronomy and Physics Days for local high school students will be hosted at the RIT campus, which will include talks and activities specifically designed to address the interests and concerns of female students. &lt;br/&gt;&lt;br/&gt;The broad emission lines observed in the spectra of Active Galactic Nuclei provide key diagnostics of various physical properties, including the mass of the black hole. The inner region (the “central engine”) is surrounded by a torus of dusty molecular gas. This structure obscures our observations and severely hinders studies of the black hole growth phase. Due to their distances, Active Galactic Nuclei are difficult to study by direct imaging with current telescopes. However, an alternative method, known as reverberation mapping, can be used. The broad emission lines and the infrared emission from dust embedded in the torus respond to variations in the central engine’s luminosity with a delay due to light travel times. This produces a “light echo” that contains information on the spatial distribution, velocity field and other properties of the emitting gas and dust. In this project, the PI will develop a computer code to produce detailed models of the light echoes of both the broad emission lines and the infrared emission from the torus dust. The PI will use the code to model data from several current and near future observational reverberation mapping surveys. By modeling these data sets, the PI aims to map the gas and dust structures in large samples of Active Galactic Nuclei. This will help characterize the evolution of the supermassive black hole population over cosmic time. Upon completion of the project, the computer code and related products, such as the computed echo maps, will be made available to the scientific community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009508</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Robinson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew Robinson</PI_FULL_NAME>
+<EmailAddress><![CDATA[axrsps@rit.edu]]></EmailAddress>
+<NSF_ID>000183794</NSF_ID>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rochester Institute of Tech</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress>1 LOMB MEMORIAL DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J6TWTRKC1X14</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ROCHESTER INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rochester Institute of Technology]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146235603</ZipCode>
+<StreetAddress><![CDATA[1 LOMB MEMORIAL DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~371287</FUND_OBLG>
+</Award>
+</rootTag>

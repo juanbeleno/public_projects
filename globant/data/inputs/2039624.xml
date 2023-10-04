@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Towards molecular scale resolution in studies of the anomalous motion of nanoparticles using liquid phase electron microscopy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>130139.00</AwardTotalIntnAmount>
+<AwardAmount>156166</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nora Savage</SignBlockName>
+<PO_EMAI>nosavage@nsf.gov</PO_EMAI>
+<PO_PHON>7032927949</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Understanding how small particles move in a fluid near a surface is important for many scientific areas, such as biophysics and colloidal self-assembly.  This phenomenon is also relevant to many major emerging technologies, from biomolecular separations to three-dimensional additive manufacturing. For nanometer-sized particles, the ability to capture images of these motions has been extremely limited. Liquid cell transmission electron microscopy is a new technique that has great potential to overcome this limitation, provided it can first be validated with simple model systems. This research project aims to study the motion of nanoparticles near a liquid-solid interface, to classify the type of motion of these particles, and to develop physics-based theoretical models that explain the motion of these particles close to a surface. This knowledge gained from this research project will advance our understanding of how nanoparticles move close to a surface, which presents challenges in many fields including biology, geology, and chemical processing. Through this project a diverse group of undergraduate students will work collaboratively under the guidance of the more senior project participants. These students will learn how to use new data science tools to analyze collected microscopy images and videos.&lt;br/&gt;&lt;br/&gt;Understanding the motions of nanoparticles in a fluid and close to a surface is of fundamental importance in physics and chemistry. A common method to characterize these motions has been through optical microscopy, which naturally imposes spatial resolution limitations on dynamics. The advent of liquid cell transmission electron microscopy has made it possible to study the nanoscale motion of particles near various surfaces, in the liquid environment, and with high spatial resolution. This research project will investigate the anomalous diffusive motion of a simple and tunable model system of gold nanoparticles in aqueous environments near the silicon nitride membrane of a transmission electron microscope’s liquid cell. Specific aims include i) studying the effect of electron beam dose rate on the anomalous diffusion of gold nanoparticles in in-situ liquid cell transmission electron microscopy. This aim will be accomplished by measuring the trajectories of large numbers of nanoparticles at different electron beam dose rates; ii) exploiting the large scale in-situ microscopy data collected from particle trajectories in time and classifying the type of diffusive motion using deep neural networks; and iii) developing Langevin-based theoretical models to capture the distinctive diffusive characteristics that happen across multiple timescales and to relate the local rheological material properties to the type of motion in the liquid cell environment. If successful, this research would facilitate a new way to study the motion of a nanoparticle close to a surface and thereby advance fundamental understanding of the behavior of matter on the nanometer scale. Such knowledge would also enable the mechanism-guided design of experiments and systems in a wide range of scientific fields including crystallization, biomedical drug delivery, rheology, chemical separations, and additive manufacturing research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039624</AwardID>
+<Investigator>
+<FirstName>Kranthi</FirstName>
+<LastName>Mandadapu</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kranthi K Mandadapu</PI_FULL_NAME>
+<EmailAddress><![CDATA[kranthi@berkeley.edu]]></EmailAddress>
+<NSF_ID>000751612</NSF_ID>
+<StartDate>07/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>A</FirstName>
+<LastName>Alivisatos</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>A P Alivisatos</PI_FULL_NAME>
+<EmailAddress><![CDATA[president@uchicago.edu]]></EmailAddress>
+<NSF_ID>000304696</NSF_ID>
+<StartDate>07/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>1608 4TH ST STE 201</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GS3YEVSS12N6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Berkeley]]></Name>
+<CityName>Berkeley</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947201460</ZipCode>
+<StreetAddress><![CDATA[D86-D79 Hildebrand]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1179</Code>
+<Text>Nanoscale Interactions Program</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7681</Code>
+<Text>ENG NNI Special Studies</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~130139</FUND_OBLG>
+<FUND_OBLG>2021~26027</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Understanding how nanoscale particles move in a liquid environment and in particular near a surface is fundamentally important in the areas of chemistry, physics, and biology and it has technological impact in applications such as drug delivery, chemical separation, and additive manufacturing. Yet, our understanding of such phenomena is very limited due to the small size of nanoparticles which makes it challenging to probe using optical microscopy techniques. Liquid phase transmission electron microscopy provides us with an unprecedented spatial and temporal resolution to study dynamic phenomena in liquid environments using a transmission electron microscope. A necessary step in order to use this technique for studying nanoscale dynamics is to first understand how the electron beam of the microscope interacts with the system under study. In this project we used a model system of nanoparticles moving near a surface and in aqueous environment and studied how their motion changes with the electron beam dose rate of the microscope. To analyze the type of motion nanoparticles show at any given dose rate, we developed a machine learning workflow inspired by classical statistical tests which allowed us to identify the type of motion and extract physical parameters from the data. Our results show that as we increase the electron beam dose rate of the microscope, the diffusive motion of nanoparticles changes from a class of diffusion mediated by the viscoelastic properties of the solution near the membrane, to a stop-and-go type of motion mediated by the heterogeneity of the surface of the membrane.&nbsp;Both type of motions can be explained by the presence of molecular groups on the surface of the membrane of the liquid cell and the ionic species in solution generated by radiolysis of water in presence of the electron beam.&nbsp;The results from this work were published in journal articles and the code and the data have been made publicly available. The graduate student and postdoc working on this project also had the opportunities to participate in national conferences and present their work to the scientific community. All senior participants involved in this award mentored undergraduate students in analyzing the data and developing the machine learning tools for studying stochastic diffusive motion. A review article was also written by the principle investigator and the postdoc working on this project to summarize recent advancements in this area and the potential future directions in using liquid phase transmission electron microscopy technique empowered by modern data science tools for studying dynamics of colloidal nanoparticles in solution. This understanding allows us to use the motion of nanoscale particles in future to probe material properties of various fluid environments and in proximity of different solid surfaces using liquid phase transmission electron microscopy.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 04/20/2022<br>      Modified by: A. Paul&nbsp;Alivisatos</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Understanding how nanoscale particles move in a liquid environment and in particular near a surface is fundamentally important in the areas of chemistry, physics, and biology and it has technological impact in applications such as drug delivery, chemical separation, and additive manufacturing. Yet, our understanding of such phenomena is very limited due to the small size of nanoparticles which makes it challenging to probe using optical microscopy techniques. Liquid phase transmission electron microscopy provides us with an unprecedented spatial and temporal resolution to study dynamic phenomena in liquid environments using a transmission electron microscope. A necessary step in order to use this technique for studying nanoscale dynamics is to first understand how the electron beam of the microscope interacts with the system under study. In this project we used a model system of nanoparticles moving near a surface and in aqueous environment and studied how their motion changes with the electron beam dose rate of the microscope. To analyze the type of motion nanoparticles show at any given dose rate, we developed a machine learning workflow inspired by classical statistical tests which allowed us to identify the type of motion and extract physical parameters from the data. Our results show that as we increase the electron beam dose rate of the microscope, the diffusive motion of nanoparticles changes from a class of diffusion mediated by the viscoelastic properties of the solution near the membrane, to a stop-and-go type of motion mediated by the heterogeneity of the surface of the membrane. Both type of motions can be explained by the presence of molecular groups on the surface of the membrane of the liquid cell and the ionic species in solution generated by radiolysis of water in presence of the electron beam. The results from this work were published in journal articles and the code and the data have been made publicly available. The graduate student and postdoc working on this project also had the opportunities to participate in national conferences and present their work to the scientific community. All senior participants involved in this award mentored undergraduate students in analyzing the data and developing the machine learning tools for studying stochastic diffusive motion. A review article was also written by the principle investigator and the postdoc working on this project to summarize recent advancements in this area and the potential future directions in using liquid phase transmission electron microscopy technique empowered by modern data science tools for studying dynamics of colloidal nanoparticles in solution. This understanding allows us to use the motion of nanoscale particles in future to probe material properties of various fluid environments and in proximity of different solid surfaces using liquid phase transmission electron microscopy.           Last Modified: 04/20/2022       Submitted by: A. Paul Alivisatos]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

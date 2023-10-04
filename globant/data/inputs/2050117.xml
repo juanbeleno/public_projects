@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Analog artificial neural network (ANN) structure with tunable parameters for identification of acoustic events]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of extremely low-power systems for applying machine learning to audio signals.  This enables the continuous monitoring complex environments without the need for large power supplies. The initial thrust is in agriculture where monitoring livestock may result in healthier animals and lower antibiotic usage.  This may result in improved animal welfare and lower production costs for animal protein. In addition, it may help address the challenge of humans developing antibiotic resistance acquired through meat products consumer. The size-weight-and-power (SWAP) advantages may make the technology attractive to a broad range of other fields including environmental monitoring, manufacturing, security, and new portable medical devices. These innovations could result in enhancing human health and safety.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of methods of adapting traditional artificial neural networks (ANNs) to work reliably even when implemented using approximate computing analog technology.  Using these methods in the design of on-chip analog ANNs makes it possible to perform audio event classification in ultra-low-power hardware.  In addition, practical machine learning and audio signal processing algorithms are used to efficiently characterize environmental audio using developed proprietary sparse-matrix-encoded dictionary algorithms.  These algorithms run on low power edge computation hardware that capture and analyze an audio environment locally. These algorithms also allow robust implementations of ANN for further acoustic classification. When combined with other solutions involving programmable analog circuits, the result replaces power-hungry digital circuitry with more efficient analog processing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050117</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Anderson</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David V Anderson</PI_FULL_NAME>
+<EmailAddress><![CDATA[dva@ece.gatech.edu]]></EmailAddress>
+<NSF_ID>000423073</NSF_ID>
+<StartDate>12/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Ave, NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The I-Corps program is designed to help researchers and "academics" to learn how to transition technology from academic and research labs into peoples lives via commercialization of that technology. &nbsp;It accomplishes that by training professors, students, and entrepreneurial mentors in an intensive course that involves building a business model and "getting out of the lab" to test and refine that model through scores of interviews with potential customers, users, and even partners. &nbsp;</p> <p>For this grant, we evaluated the commercialization potential of a technology that enables continuous, extremely low-power monitoring of sound--detecting and reporting when anomalous sounds appear and/or when particular sounds are detected that might indicate trouble. &nbsp;As part of this grant, we explored the application to livestock monitoring. &nbsp;We found, through many interviews, that a compelling application of the technology would be to alert a farmer of sickness or distress in a timely manner, relieving animal discomfort, improving welfare, and directing workers to areas of greatest need. &nbsp;Other important findings relate to critical junctures in the life of cattle, transportation, finishing, etc., when monitoring becomes more critical. &nbsp;Cost is, as expected, a major concern and incorporating sensing with other functions such as identification and physiological monitoring could be very advantageous.</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/07/2022<br>      Modified by: David&nbsp;V&nbsp;Anderson</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The I-Corps program is designed to help researchers and "academics" to learn how to transition technology from academic and research labs into peoples lives via commercialization of that technology.  It accomplishes that by training professors, students, and entrepreneurial mentors in an intensive course that involves building a business model and "getting out of the lab" to test and refine that model through scores of interviews with potential customers, users, and even partners.    For this grant, we evaluated the commercialization potential of a technology that enables continuous, extremely low-power monitoring of sound--detecting and reporting when anomalous sounds appear and/or when particular sounds are detected that might indicate trouble.  As part of this grant, we explored the application to livestock monitoring.  We found, through many interviews, that a compelling application of the technology would be to alert a farmer of sickness or distress in a timely manner, relieving animal discomfort, improving welfare, and directing workers to areas of greatest need.  Other important findings relate to critical junctures in the life of cattle, transportation, finishing, etc., when monitoring becomes more critical.  Cost is, as expected, a major concern and incorporating sensing with other functions such as identification and physiological monitoring could be very advantageous.          Last Modified: 09/07/2022       Submitted by: David V Anderson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PPoSS: Planning: CP2: Towards Systems Correctness Checkability and Performance Predictability at Scale]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>247993.00</AwardTotalIntnAmount>
+<AwardAmount>247993</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As a critical backend for many of today's applications and services, large-scale distributed systems must be highly reliable.  In the last couple of years the field witnessed a phenomenal scale of deployment; Google is known to run clusters with thousands of machines each, Apple deploys over 100,000 database machines, and Netflix runs tens of database clusters with 500 nodes each.  This new era of cloud-scale distributed systems has given birth to a new class of faults, scalability faults---faults whose symptoms surface in large-scale deployments but not necessarily in small/medium-scale deployments.  The CP2 project is proposed to solve the problem of correctness checkability and performance predictability of systems at extreme scale.  Specifically the project will analyze over 500 real-world scalability faults in over a dozen large-scale systems, develop a single-machine scale-checking framework that allows developers to test large distributed code on one or a few machines, and provide groundwork for compute- and I/O-performance predictability of large-scale jobs on both existing and future architectures.  These tasks will advance debugging, testing, learning, and prediction methods both on traditional hardware platforms and emerging ones and ultimately lead to correct-by-construction development methods. The CP2 project will have impact in multiple disciplines including systems (cloud/datacenter systems reliability), programming languages/compilers (new static/dynamic analysis techniques), architecture (compute/storage prediction for heterogeneous hardware), algorithms (the use of learning methods), and high-performance computing (benchmarking of HPC systems/applications).&lt;br/&gt;&lt;br/&gt;In terms of societal benefits, the CP2 project addresses paramount issues mentioned in the NSF Strategic Plan for 2018-2022.  More specifically, society increasingly depends on complicated systems that are products of human ingenuity, including ecosystems of large and complex software with millions of lines of code running on thousands of machines.  CP2 will address the challenges of understanding and predicting the behavior of such systems.  Furthermore, as society’s reliance on complex systems grows, learning about their robustness and understanding how to strengthen them are of increasing importance.  In terms of education, the CP2 project gives unique hands-on research and education with cutting-edge systems technology in which students will be trained to operate software on a large number of machines and analyze their performance and correctness.  The results of the CP2 project will be released through the classic medium of publication, through the development of numerous software artifacts which will be open-sourced, and finally through collaboration with various industry partners to help shape the next generation of large-scale systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028427</AwardID>
+<Investigator>
+<FirstName>Shan</FirstName>
+<LastName>Lu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shan Lu</PI_FULL_NAME>
+<EmailAddress><![CDATA[shanlu@cs.uchicago.edu]]></EmailAddress>
+<NSF_ID>000552962</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Haryadi</FirstName>
+<LastName>Gunawi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Haryadi Gunawi</PI_FULL_NAME>
+<EmailAddress><![CDATA[haryadi@cs.uchicago.edu]]></EmailAddress>
+<NSF_ID>000626546</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Henry</FirstName>
+<LastName>Hoffmann</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Henry Hoffmann</PI_FULL_NAME>
+<EmailAddress><![CDATA[hankhoffmann@cs.uchicago.edu]]></EmailAddress>
+<NSF_ID>000642777</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>5801 S ELLIS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606371468</ZipCode>
+<StreetAddress><![CDATA[5730 S Ellis Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>PPoSS-PP of Scalable Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~247993</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The CP2 project is proposed to solve the problem of correctness checkability (CC) and performance predictability (PP) of systems at extreme scale.&nbsp; This project produces several outcomes given the execution of the sub-projects below. <br /><br />On correctness checkability, we analyzed hundreds real-world scalability faults in over a dozen of large scale systems.&nbsp; Among these bugs, we dived into cancellation bugs [OSDI '22].&nbsp; Modern software applications need to sometimes prematurely terminate or cancel a task, either to accommodate a conflicting task, to manage system resources, or in response to system or user events.&nbsp; We studied 62 cancel-feature requests and 156 cancel-related bugs across 13 popular distributed and concurrent systems written in Java, C#, and Go to understand why task cancel is needed, what are the challenges in implementing task cancel, and how severe are cancel-related failures.&nbsp; Guided by the study, we generalized a few cancel-related anti-patterns and implemented static checkers that found many code snippets matching these anti-patterns in the latest versions of these popular systems. <br /><br />In another project, SVIEW, which is currently under submission, we built a framework for identifying and analyzing potential scalability faults in large-scale distributed systems.&nbsp; SVIEW combines instrumentation and statistical concepts to identify dimensional code fragments (DCFs), pieces of code whose number of executions (e.g., loop iterations) is positively correlated with the increase in size of one or more system dimensions, with static analysis modules that detect faulty code patterns involving the DCFs.&nbsp; We apply SVIEW to 4 popular distributed systems, identify hundreds of DCFs and use our analysis modules to detect known and unknown scalability faults <br /><br />On performance predictability, we performed three projects.&nbsp; The first one is about negative-unlabeled learning for online datacenter straggler prediction (NURD) [MLSys '22].&nbsp; Datacenters execute large computational jobs where a job completes when all its tasks finish.&nbsp; Accurately predicting straggling tasks would enable proactive intervention.&nbsp; To predict stragglers accurately and early without labeled positive examples or assumptions on latency distributions, we built a novel Negative-Unlabeled learning approach with Reweighting and Distribution-compensation that only trains on negative and unlabeled streaming data. The key idea is to train a predictor using finished tasks of non-stragglers to predict latency for unlabeled running tasks, and then reweight each unlabeled task&rsquo;s prediction based on a weighting function of its feature space. We evaluate NURD on two production traces from Google and Alibaba, and find that compared to the best baseline approach, NURD produces 2&ndash;11 percentage point increases in the F1 score in terms of prediction accuracy, and 4.7&ndash;8.8 percentage point improvements in job completion time. <br /><br />In another project, we consider application developers who must continuously port code to new hardware. Consequently, much work has sought to predict application performance on new hardware. However, obtaining accurate performance predictions using only data from existing architectures has proven surprisingly difficult.&nbsp; Here we investigate a purely data-driven approach to predicting performance of a new architecture by using data collected from an old architecture.&nbsp; We profile a number of applications on an NVIDIA P100 and construct models to predict performance (specifically, memory behavior and IPC) of those same applications on an NVIDIA V100.&nbsp; We find that data from just eight of 112 performance counters are sufficient to (a) classify whether a compute-bound P100 application becomes memory bound on the V100 (with 99% accuracy), (b) predict achieved memory bandwidth with 6.8% mean absolute error for total memory throughput above 0.5 Vb/s, and (c) predict IPC with a mean absolute error of 8.82%. <br /><br />In the last project, we looked into the fact that machine learning-based performance models are increasingly being used to build critical job scheduling and application optimization decisions.&nbsp; Owing to the complexity and heterogeneity of production HPC systems, they are susceptible to hardware degradation, replacement, and/or software patches, which can lead to drift in the data distribution that can adversely affect the performance models. To this end, we develop continually learning performance models [MLFS '23] that account for the distribution drift, alleviate catastrophic forgetting, and improve generalizability. Our best model was able to retain accuracy, regardless of having to learn the new distribution of data inflicted by system changes, while demonstrating a 2&times; improvement in the prediction accuracy of the whole data sequence in comparison to the naive approach. <br /><br />Broader Impact: In terms of societal benefits, the NSF Strategic Plan for 2018-2022 states that "society increasingly depends on complicated systems that are products of humanity&rsquo;s ingenuity [including ecosystems of large and complex] software with millions of lines of code&rdquo; and "understanding and predicting the behavior of such systems is just as challenging as understanding the natural world" and furthermore "as society&rsquo;s reliance on complex systems grows, learning about their robustness and understanding how to strengthen them are of increasing importance." Our project addresses these problems.</p><br> <p>            Last Modified: 01/03/2023<br>      Modified by: Haryadi&nbsp;Gunawi</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The CP2 project is proposed to solve the problem of correctness checkability (CC) and performance predictability (PP) of systems at extreme scale.  This project produces several outcomes given the execution of the sub-projects below.   On correctness checkability, we analyzed hundreds real-world scalability faults in over a dozen of large scale systems.  Among these bugs, we dived into cancellation bugs [OSDI '22].  Modern software applications need to sometimes prematurely terminate or cancel a task, either to accommodate a conflicting task, to manage system resources, or in response to system or user events.  We studied 62 cancel-feature requests and 156 cancel-related bugs across 13 popular distributed and concurrent systems written in Java, C#, and Go to understand why task cancel is needed, what are the challenges in implementing task cancel, and how severe are cancel-related failures.  Guided by the study, we generalized a few cancel-related anti-patterns and implemented static checkers that found many code snippets matching these anti-patterns in the latest versions of these popular systems.   In another project, SVIEW, which is currently under submission, we built a framework for identifying and analyzing potential scalability faults in large-scale distributed systems.  SVIEW combines instrumentation and statistical concepts to identify dimensional code fragments (DCFs), pieces of code whose number of executions (e.g., loop iterations) is positively correlated with the increase in size of one or more system dimensions, with static analysis modules that detect faulty code patterns involving the DCFs.  We apply SVIEW to 4 popular distributed systems, identify hundreds of DCFs and use our analysis modules to detect known and unknown scalability faults   On performance predictability, we performed three projects.  The first one is about negative-unlabeled learning for online datacenter straggler prediction (NURD) [MLSys '22].  Datacenters execute large computational jobs where a job completes when all its tasks finish.  Accurately predicting straggling tasks would enable proactive intervention.  To predict stragglers accurately and early without labeled positive examples or assumptions on latency distributions, we built a novel Negative-Unlabeled learning approach with Reweighting and Distribution-compensation that only trains on negative and unlabeled streaming data. The key idea is to train a predictor using finished tasks of non-stragglers to predict latency for unlabeled running tasks, and then reweight each unlabeled task’s prediction based on a weighting function of its feature space. We evaluate NURD on two production traces from Google and Alibaba, and find that compared to the best baseline approach, NURD produces 2&ndash;11 percentage point increases in the F1 score in terms of prediction accuracy, and 4.7&ndash;8.8 percentage point improvements in job completion time.   In another project, we consider application developers who must continuously port code to new hardware. Consequently, much work has sought to predict application performance on new hardware. However, obtaining accurate performance predictions using only data from existing architectures has proven surprisingly difficult.  Here we investigate a purely data-driven approach to predicting performance of a new architecture by using data collected from an old architecture.  We profile a number of applications on an NVIDIA P100 and construct models to predict performance (specifically, memory behavior and IPC) of those same applications on an NVIDIA V100.  We find that data from just eight of 112 performance counters are sufficient to (a) classify whether a compute-bound P100 application becomes memory bound on the V100 (with 99% accuracy), (b) predict achieved memory bandwidth with 6.8% mean absolute error for total memory throughput above 0.5 Vb/s, and (c) predict IPC with a mean absolute error of 8.82%.   In the last project, we looked into the fact that machine learning-based performance models are increasingly being used to build critical job scheduling and application optimization decisions.  Owing to the complexity and heterogeneity of production HPC systems, they are susceptible to hardware degradation, replacement, and/or software patches, which can lead to drift in the data distribution that can adversely affect the performance models. To this end, we develop continually learning performance models [MLFS '23] that account for the distribution drift, alleviate catastrophic forgetting, and improve generalizability. Our best model was able to retain accuracy, regardless of having to learn the new distribution of data inflicted by system changes, while demonstrating a 2&times; improvement in the prediction accuracy of the whole data sequence in comparison to the naive approach.   Broader Impact: In terms of societal benefits, the NSF Strategic Plan for 2018-2022 states that "society increasingly depends on complicated systems that are products of humanity’s ingenuity [including ecosystems of large and complex] software with millions of lines of code" and "understanding and predicting the behavior of such systems is just as challenging as understanding the natural world" and furthermore "as society’s reliance on complex systems grows, learning about their robustness and understanding how to strengthen them are of increasing importance." Our project addresses these problems.       Last Modified: 01/03/2023       Submitted by: Haryadi Gunawi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

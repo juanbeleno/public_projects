@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Consumer Centric Parametric Insurance]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to bring climate risk management tools, including parametric insurance, to the consumer leisure travel, events, and outdoor recreation markets. This project quantifies the probability of contextually relevant weather events and presents these analytics through a suite of tools to help plan for weather variability. The project will make previously uninsurable weather and climate risks broadly insurable for the first time.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will develop a high-performance data service and application programming interface (API) for historical weather and forecast data to power an advanced machine learning data analytics front-end and an actuarial parametric weather insurance platform. The data service will access over 40 years of structured historical weather data recorded at hourly and sub-hourly temporal resolution and at spatial scales of less than 10 km, globally, in addition to multiple ensemble-based National Weather Prediction forecasts at similar spatial resolutions. This data service will power a front end capable of millions of location-specific queries and analysis requests per day. In order to accomplish the technical objective of second or sub-second access times, the open-source and proprietary software will need to be used in conjunction with existing cloud services provided by the leading cloud providers, principally caching, streaming, and scaling / load balancing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027568</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Cavanaugh</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicholas R Cavanaugh</PI_FULL_NAME>
+<EmailAddress><![CDATA[nicholas.cavanaugh@gmail.com]]></EmailAddress>
+<NSF_ID>000822883</NSF_ID>
+<StartDate>12/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SENSIBLE WEATHER CO</Name>
+<CityName>SANTA MONICA</CityName>
+<ZipCode>90401</ZipCode>
+<PhoneNumber>4255035189</PhoneNumber>
+<StreetAddress>730 ARIZONA AVE</StreetAddress>
+<StreetAddress2><![CDATA[APT B]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA36</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KAGHHK9PXTT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SENSIBLE WEATHER CO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Sensible Weather Co]]></Name>
+<CityName>Venice</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>902913719</ZipCode>
+<StreetAddress><![CDATA[227 Market Street, Apt B]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>36</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA36</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Sensible Weather Co has developed a vertically integrated parametric insurance company and is currently live with its first product, the Sensible Weather Guarantee. A Sensible Weather Guarantee is a co-branded weather coverage product meant to help protect consumers from adverse weather events which can impact the experience of outdoor activities. Sensible went live with this product in July 2021.</p> <p>&nbsp;</p> <p>Using funds partially derived from the NSF SBIR Phase I grant, Sensible has developed an agile and comprehensive database system for storing and accessing multidimensional structured climate and weather data in the cloud. Sensible&rsquo;s platform is backed by object-based storage and fronted by a set of flexible REST-based APIs. A horizontally scalable cloud compute architecture fulfills user&rsquo;s data requests asynchronously and enables the single-digit second underwriting times necessary to distribute point-of-sale on ecommerce platforms.</p> <p>&nbsp;</p> <p>The intellectual merit of the project is to productionize and scale a set of open-source, Python-based scientific computing packages with the goal of producing a climate data engine capable of efficiently fulfilling data and analysis requests with arbitrary access patterns. Sensible&rsquo;s platform is capable of powering any type of weather or climate data application &ndash; however, Sensible uses this platform to power a parametric insurance business aiming to protect consumers against adverse weather events.</p> <p>&nbsp;</p> <p>The broader impact of Sensible&rsquo;s R&amp;D is to bring explicit weather risk transfer to those who are most directly impacted: consumers. Sensible believes that by targeting consumer outdoor experiences whose value often exceeds of cost, i.e. those experiences with large excess utility, Sensible will implicitly be able to develop insurance products with the largest perceived value. Revenue from these products, paired with Sensible&rsquo;s flexible and efficient climate risk management system, will constitute a stable platform from which to scale a larger climate insurance business. &nbsp;&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/30/2021<br>      Modified by: Nicholas&nbsp;R&nbsp;Cavanaugh</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Sensible Weather Co has developed a vertically integrated parametric insurance company and is currently live with its first product, the Sensible Weather Guarantee. A Sensible Weather Guarantee is a co-branded weather coverage product meant to help protect consumers from adverse weather events which can impact the experience of outdoor activities. Sensible went live with this product in July 2021.     Using funds partially derived from the NSF SBIR Phase I grant, Sensible has developed an agile and comprehensive database system for storing and accessing multidimensional structured climate and weather data in the cloud. Sensible’s platform is backed by object-based storage and fronted by a set of flexible REST-based APIs. A horizontally scalable cloud compute architecture fulfills user’s data requests asynchronously and enables the single-digit second underwriting times necessary to distribute point-of-sale on ecommerce platforms.     The intellectual merit of the project is to productionize and scale a set of open-source, Python-based scientific computing packages with the goal of producing a climate data engine capable of efficiently fulfilling data and analysis requests with arbitrary access patterns. Sensible’s platform is capable of powering any type of weather or climate data application &ndash; however, Sensible uses this platform to power a parametric insurance business aiming to protect consumers against adverse weather events.     The broader impact of Sensible’s R&amp;D is to bring explicit weather risk transfer to those who are most directly impacted: consumers. Sensible believes that by targeting consumer outdoor experiences whose value often exceeds of cost, i.e. those experiences with large excess utility, Sensible will implicitly be able to develop insurance products with the largest perceived value. Revenue from these products, paired with Sensible’s flexible and efficient climate risk management system, will constitute a stable platform from which to scale a larger climate insurance business.             Last Modified: 08/30/2021       Submitted by: Nicholas R Cavanaugh]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

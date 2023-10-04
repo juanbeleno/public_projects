@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: CORPUS: An Edge Intelligence-Assisted Multi-Granularity COVID-19 Risk Predication and Update System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Since the first COVID-19 case was diagnosed and reported at the end of December 2019, there have been more than 1.6 million COVID-19 cases reported, causing more than 100,000 death worldwide as of April 10, 2020. The outbreak of COVID-19 has significantly affected individuals and our society as a whole, and many national and international events have been canceled over COVID-19 fears, including NBA, NCAA events, Mobile World Congress. For the sake of either individual, institutes, or governments, a risk prediction and update system are urgently needed. However, to design and implement such a system, there are several system challenges. First, how to derive the infection risk level from different granularities, i.e., individual-, event-, and institution-levels? Second, how to dynamically update the risk level based on the latest outbreak news? Third, how to preserve user sensitive data while sharing adequate data for risk level calculation? To attack these challenges in this RAPID project, researchers at Wayne State University and Henry Ford Health Systems design and implement CORPUS, an edge intelligence-assisted, multi-granularity COVID-19 Risk Prediction, and Update System, which includes a mobile app running on personal phones, as well as a large-scale distributed protocol behind the app collecting and updating the information. First, CORPUS will build a multi-granularity risk analysis model, from fine-grained personal risk to small clustered meeting risk, to coarse-grained large clustered event risk, and institutional/organization risk. Second, CORPUS employs a data propagation protocol to build and update the risk analysis model. The data that can contribute to CORPUS include spatial data (such as GPS signal), temporal data (such as calendar event), as well as the input from the user (such as meeting with a specific person). Third, CORPUS leverages privacy-preserving algorithms such as node-level feature pooling and anonymous parameter of the model instead of raw user data, to ensure the confidentiality of personal information when multi-granularity models request personal risk information. &lt;br/&gt;&lt;br/&gt;With the rapid expansion of COVID-19, there is an urgent need for the individual to know their infection risk when traveling to a place in the foreseeable future. CORPUS can meet their needs by leveraging personalized information and edge intelligence. For a group or an organization, CORPUS will provide risk-related information to help them to judge the feasibility of holding a meeting or an event during an outbreak, especially for large-scale international events (such as the Olympics and World Cup). They can also proactively take action based on the risk information provided by CORPUS to reduce the spread of COVID-19. CORPUS will help governments perceive the risk of infection in their jurisdictions, and thus guide infection prevention and control for effective governance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027251</AwardID>
+<Investigator>
+<FirstName>Ming</FirstName>
+<LastName>Dong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ming Dong</PI_FULL_NAME>
+<EmailAddress><![CDATA[mdong@cs.wayne.edu]]></EmailAddress>
+<NSF_ID>000277010</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Weisong</FirstName>
+<LastName>Shi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Weisong Shi</PI_FULL_NAME>
+<EmailAddress><![CDATA[weisong@udel.edu]]></EmailAddress>
+<NSF_ID>000119930</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wayne State University</Name>
+<CityName>DETROIT</CityName>
+<ZipCode>482023692</ZipCode>
+<PhoneNumber>3135772424</PhoneNumber>
+<StreetAddress>5700 CASS AVE STE 4900</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M6K6NTJ2MNE5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WAYNE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Wayne State University]]></Name>
+<CityName>Detroit</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>482024050</ZipCode>
+<StreetAddress><![CDATA[5057 Woodward Ave, Room 3010]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project developed a cloud-edge-device framework to support the risk level analysis and prediction for the region, event, and person during the pandemic. In general, we have completed six tasks: (1) collecting and analyzing the pandemic data collected from trustworthy data providers; (2) implementing a cloud-edge-device layered framework to provide prediction service; (3) launching a mobile application for end-users to receive personalized risk level analysis and prediction; (4) developing the risk prediction models that can protect user&rsquo;s privacy; and (5) building the SafeCampus platform for campus-wide pandemic forecasting; and (6) developing the SafeClassroom App for Android and iOS.</p> <p><strong>(1) Data source:</strong>&nbsp;The data collected are composed of two types. The first type of data was retrieved from trustworthy sources regarding the number of infections, deaths, and ICU. Another type of data is obtained from News websites about the early infection spread given region information. The dataset covers a long period of time from the start of the pandemic in March 2020 to Nov 2021.</p> <p><strong>(2) The cloud-edge-device layered framework:</strong>&nbsp;Then, we developed a cloud-edge-device layered framework for risk level prediction. It is composed of (a) a mobile app installed on the user's smartphone, monitoring surrounding infection situations, and calculating the user's risk level based on his/her moving trajectory; (b) an edge node interacts with the mobile app, monitoring either a certain region area or a newly held event; (c) a cloud node interacts with the edge nodes to provide information and retrieve pandemic-related data globally.</p> <p><strong>(3) Mobile app:</strong>&nbsp;Next, we launched an Android app that backend by the layered architecture and provides risk level prediction. The main functions of this app include (1) tracing personal risk level, (2) retrieving local early exposure news, (3) searching region risk level. With the goal of preserving user privacy, all the data are stored and processed locally unless obtained uploading permission from users. The app collects GPS signals based on the user's moving speed, tracking and predicting the risk level based on the moving trajectory, close contact, and regional risk.</p> <p><strong>(4) Machine learning models:</strong>&nbsp;For the COVID-19 predictions, we developed a novel Spatial-Temporal Synchronous Graph Transformer network (STSGT) which uses the historical COVID data to forecast the future infected and death cases for all the US states.&nbsp;We leveraged the AutoML tool to automatically selects the most proper model given the infection-related data. The layered system maintains a model pool for different regions and updates timely based on the newly collected data. We forecast the future COVID cases for short-term, i.e., next-day forecasting, and long-term, i.e., forecasting over the next 12 days.</p> <p><strong>(5) SafeCampus platform for campus-wide pandemic forecasting</strong><strong>:&nbsp;</strong>We then implemented a COVID-19 pandemic forecasting platform for academic institutions after resuming academic activities. The design of this multimodality work is steered by video, audio, and tweets.&nbsp; We first train diverse models to extract meaningful information from video, audio, and tweets, respectively. Then, we feed the multimodal analysis results with daily confirmed cases data and social distancing metrics into the trained model to predict the daily increase rate of confirmed cases for the main buildings of a university campus. The paper was featured by IEEE Internet Computing Magazine in the Jan/Feb issue of 2022.&nbsp;</p> <p><strong>(6)&nbsp;</strong><strong>SafeClassroom App for Android and iOS:</strong>&nbsp;We also have developed an Android App for the instructors of Wayne State University, named SafeClassroom, which can (1) perform real-time face mask detection (optional), (2) check the QR code of the campus daily screener, and (3) mail the attendee list to the instructor. &nbsp;The App and has been used by the CSC 8990 Graduate Seminar for Fall 2021 and Winter 2022. Furthermore, we have instructed a group of undergraduate students to develop an iOS version of the SafeClassroom App, which is their capstone project for the undergraduate course CSC 4996 Senior Project and Computer Ethics. The students were very excited to apply what they learned in the classroom to address real-world problems.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/01/2022<br>      Modified by: Weisong&nbsp;Shi</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project developed a cloud-edge-device framework to support the risk level analysis and prediction for the region, event, and person during the pandemic. In general, we have completed six tasks: (1) collecting and analyzing the pandemic data collected from trustworthy data providers; (2) implementing a cloud-edge-device layered framework to provide prediction service; (3) launching a mobile application for end-users to receive personalized risk level analysis and prediction; (4) developing the risk prediction models that can protect user’s privacy; and (5) building the SafeCampus platform for campus-wide pandemic forecasting; and (6) developing the SafeClassroom App for Android and iOS.  (1) Data source: The data collected are composed of two types. The first type of data was retrieved from trustworthy sources regarding the number of infections, deaths, and ICU. Another type of data is obtained from News websites about the early infection spread given region information. The dataset covers a long period of time from the start of the pandemic in March 2020 to Nov 2021.  (2) The cloud-edge-device layered framework: Then, we developed a cloud-edge-device layered framework for risk level prediction. It is composed of (a) a mobile app installed on the user's smartphone, monitoring surrounding infection situations, and calculating the user's risk level based on his/her moving trajectory; (b) an edge node interacts with the mobile app, monitoring either a certain region area or a newly held event; (c) a cloud node interacts with the edge nodes to provide information and retrieve pandemic-related data globally.  (3) Mobile app: Next, we launched an Android app that backend by the layered architecture and provides risk level prediction. The main functions of this app include (1) tracing personal risk level, (2) retrieving local early exposure news, (3) searching region risk level. With the goal of preserving user privacy, all the data are stored and processed locally unless obtained uploading permission from users. The app collects GPS signals based on the user's moving speed, tracking and predicting the risk level based on the moving trajectory, close contact, and regional risk.  (4) Machine learning models: For the COVID-19 predictions, we developed a novel Spatial-Temporal Synchronous Graph Transformer network (STSGT) which uses the historical COVID data to forecast the future infected and death cases for all the US states. We leveraged the AutoML tool to automatically selects the most proper model given the infection-related data. The layered system maintains a model pool for different regions and updates timely based on the newly collected data. We forecast the future COVID cases for short-term, i.e., next-day forecasting, and long-term, i.e., forecasting over the next 12 days.  (5) SafeCampus platform for campus-wide pandemic forecasting: We then implemented a COVID-19 pandemic forecasting platform for academic institutions after resuming academic activities. The design of this multimodality work is steered by video, audio, and tweets.  We first train diverse models to extract meaningful information from video, audio, and tweets, respectively. Then, we feed the multimodal analysis results with daily confirmed cases data and social distancing metrics into the trained model to predict the daily increase rate of confirmed cases for the main buildings of a university campus. The paper was featured by IEEE Internet Computing Magazine in the Jan/Feb issue of 2022.   (6) SafeClassroom App for Android and iOS: We also have developed an Android App for the instructors of Wayne State University, named SafeClassroom, which can (1) perform real-time face mask detection (optional), (2) check the QR code of the campus daily screener, and (3) mail the attendee list to the instructor.  The App and has been used by the CSC 8990 Graduate Seminar for Fall 2021 and Winter 2022. Furthermore, we have instructed a group of undergraduate students to develop an iOS version of the SafeClassroom App, which is their capstone project for the undergraduate course CSC 4996 Senior Project and Computer Ethics. The students were very excited to apply what they learned in the classroom to address real-world problems.             Last Modified: 09/01/2022       Submitted by: Weisong Shi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

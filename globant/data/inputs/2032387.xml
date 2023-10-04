@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CCSS: Collaborative Research: Ubiquitous Sensing for VR/AR Immersive Communication: A Machine Learning Perspective]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/20/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>161720.00</AwardTotalIntnAmount>
+<AwardAmount>161720</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Huaiyu Dai</SignBlockName>
+<PO_EMAI>hdai@nsf.gov</PO_EMAI>
+<PO_PHON>7032924568</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Virtual and augmented reality systems comprise multi-view camera sensors that capture a scene from multiple perspectives. The captured data is then used to construct an immersive representation of the scene on the user's head mounted display. Such systems are poised to enable and enhance numerous important applications, e.g., inspection of large-scale infrastructure, archival of historical sites, search and rescue, disaster response, military reconnaissance, natural resource management, and immersive telepresence. However, due to its emerging nature, virtual/augmented reality immersive communication is presently limited to gaming or entertainment demonstrations featuring off-line captured/computer-generated content, studio-type settings, and high-end workstations to sustain its high data/computing workload. Moreover, there is little understanding of the fundamental trade-offs between the required signal acquisition density and sensor locations across space and time, the dynamics of the captured scene (motion, geometry, and textures), the available network and system resources, and the delivered immersion quality. This renders existing solutions impractical for deployment on bandwidth and energy constrained remote sensors. The project addresses these challenges via rigorous analysis and concerted algorithmic and application advances at the intersection of multi-view space-time sensing and signal representation, delay-sensitive communication, and machine learning. Education and outreach activities will immerse students in the exciting areas of visual sensing, wireless communications, and machine learning, and will engage underrepresented students spanning K-12 through undergraduate levels.&lt;br/&gt;&lt;br/&gt;The objective of this project is to efficiently capture a remote environment using multiple camera sensors with the highest possible reconstruction quality under limited sampling and communication resources. This is achieved through four interrelated research tasks: (i) analysis of optimal space-time sampling policies that determine the sensors' locations and sampling rates to minimize the remote scene's reconstruction error; (ii) design of optimal signal representation methods that embed the sampled data jointly across space and time according to the allocated sampling rates; (iii) design of online learning sampling policies based on spectral graph theory that take sampling actions while exploring new sensor locations in the absence of a priori scene viewpoint signal knowledge; and (vi) design of computationally efficient self-organizing reinforcement learning methods that allow the wireless sensors to compute optimal transmission scheduling policies that meet the low-latency requirements of the overlaying virtual/augmented reality application while conserving their available energy. Integration, experimentation, and prototyping activities will be conducted to asses and validate the research advances in real-world settings. These technical advances will enable diverse applications of transformative impact.]]></AbstractNarration>
+<MinAmdLetterDate>05/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032387</AwardID>
+<Investigator>
+<FirstName>Jacob</FirstName>
+<LastName>Chakareski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jacob Chakareski</PI_FULL_NAME>
+<EmailAddress><![CDATA[jacobcha@njit.edu]]></EmailAddress>
+<NSF_ID>000663351</NSF_ID>
+<StartDate>05/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Jersey Institute of Technology</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>071021824</ZipCode>
+<PhoneNumber>9735965275</PhoneNumber>
+<StreetAddress>323 DR MARTIN LUTHER KING JR BLV</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SGBMHQ7VXNH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW JERSEY INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName>Newark</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>071021982</ZipCode>
+<StreetAddress><![CDATA[University Heights]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~161720</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Virtual and augmented reality systems comprise multi-view camera sensors that capture a scene from multiple perspectives. The captured data is then used to construct an immersive representation of the scene on the user&rsquo;s head mounted display. Such systems are poised to enable and enhance numerous important applications, e.g., inspection of large-scale infrastructure, archival of historical sites, search and rescue, disaster response, military reconnaissance, natural resource management, and immersive telepresence. However, due to its emerging nature, virtual/augmented reality immersive communication is presently limited to gaming or entertainment demonstrations featuring off-line captured/computer-generated content, studio-type settings, and high-end workstations to sustain its high data/computing workload. Moreover, there is little understanding of the fundamental trade-offs between the required signal acquisition density and sensor locations across space and time, the dynamics of the captured scene (motion, geometry, and textures), the available network and system resources, and the delivered immersion quality. This renders existing solutions impractical for deployment on bandwidth and energy constrained remote sensors. The project addresses these challenges via rigorous analysis and concerted algorithmic and application advances at the intersection of multi-view space-time sensing and signal representation, delay-sensitive communication, and machine learning. Education and outreach activities will immerse students in the exciting areas of visual sensing, wireless communications, and machine learning, and will engage underrepresented students spanning K-12 through undergraduate levels.</p> <p>The objective of this project is to efficiently capture a remote environment using multiple camera sensors with the highest possible reconstruction quality under limited sampling and communication resources. This is achieved through four interrelated research tasks: (i) analysis of optimal space-time sampling policies that determine the sensors' locations and sampling rates to minimize the remote scene&rsquo;s reconstruction error; (ii) design of optimal signal representation methods that embed the sampled data jointly across space and time according to the allocated sampling rates; (iii) design of online learning sampling policies based on spectral graph theory that take sampling actions while exploring new sensor locations in the absence of a priori scene viewpoint signal knowledge; and (vi) design of computationally efficient self-organizing reinforcement learning methods that allow the wireless sensors to compute optimal transmission scheduling policies that meet the low-latency requirements of the overlaying virtual/augmented reality application while conserving their available energy. Integration, experimentation, and prototyping activities will be conducted to asses and validate the research advances in real-world settings. These technical advances will enable diverse applications of transformative impact.</p><br> <p>            Last Modified: 07/11/2023<br>      Modified by: Jacob&nbsp;Chakareski</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2032387/2032387_10497047_1689106116858_ProjectIllustrationNSF_CCSS_Outcomes--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2032387/2032387_10497047_1689106116858_ProjectIllustrationNSF_CCSS_Outcomes--rgov-800width.jpg" title="Virtual human teleportation via immersive communication."><img src="/por/images/Reports/POR/2023/2032387/2032387_10497047_1689106116858_ProjectIllustrationNSF_CCSS_Outcomes--rgov-66x44.jpg" alt="Virtual human teleportation via immersive communication."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Self-organized IoT Wireless Communication for NextG XR Systems</div> <div class="imageCredit">Jacob Chakareski</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jacob&nbsp;Chakareski</div> <div class="imageTitle">Virtual human teleportation via immersive communication.</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Virtual and augmented reality systems comprise multi-view camera sensors that capture a scene from multiple perspectives. The captured data is then used to construct an immersive representation of the scene on the user’s head mounted display. Such systems are poised to enable and enhance numerous important applications, e.g., inspection of large-scale infrastructure, archival of historical sites, search and rescue, disaster response, military reconnaissance, natural resource management, and immersive telepresence. However, due to its emerging nature, virtual/augmented reality immersive communication is presently limited to gaming or entertainment demonstrations featuring off-line captured/computer-generated content, studio-type settings, and high-end workstations to sustain its high data/computing workload. Moreover, there is little understanding of the fundamental trade-offs between the required signal acquisition density and sensor locations across space and time, the dynamics of the captured scene (motion, geometry, and textures), the available network and system resources, and the delivered immersion quality. This renders existing solutions impractical for deployment on bandwidth and energy constrained remote sensors. The project addresses these challenges via rigorous analysis and concerted algorithmic and application advances at the intersection of multi-view space-time sensing and signal representation, delay-sensitive communication, and machine learning. Education and outreach activities will immerse students in the exciting areas of visual sensing, wireless communications, and machine learning, and will engage underrepresented students spanning K-12 through undergraduate levels.  The objective of this project is to efficiently capture a remote environment using multiple camera sensors with the highest possible reconstruction quality under limited sampling and communication resources. This is achieved through four interrelated research tasks: (i) analysis of optimal space-time sampling policies that determine the sensors' locations and sampling rates to minimize the remote scene’s reconstruction error; (ii) design of optimal signal representation methods that embed the sampled data jointly across space and time according to the allocated sampling rates; (iii) design of online learning sampling policies based on spectral graph theory that take sampling actions while exploring new sensor locations in the absence of a priori scene viewpoint signal knowledge; and (vi) design of computationally efficient self-organizing reinforcement learning methods that allow the wireless sensors to compute optimal transmission scheduling policies that meet the low-latency requirements of the overlaying virtual/augmented reality application while conserving their available energy. Integration, experimentation, and prototyping activities will be conducted to asses and validate the research advances in real-world settings. These technical advances will enable diverse applications of transformative impact.       Last Modified: 07/11/2023       Submitted by: Jacob Chakareski]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

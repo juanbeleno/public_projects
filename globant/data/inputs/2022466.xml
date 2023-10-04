@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Identifying Reproducible Research Using Human-in-the-loop Machine Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>144257.00</AwardTotalIntnAmount>
+<AwardAmount>144257</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04010000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SMA</Abbreviation>
+<LongName>SBE Off Of Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Feeney</SignBlockName>
+<PO_EMAI>mfeeney@nsf.gov</PO_EMAI>
+<PO_PHON>7032927197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Research quality thrives under healthy skepticism where scientists retest hypotheses creating higher levels of confidence in the original findings and a sturdy foundation for extending work. Recent attempts to sample scientific research in psychology, economics, and medicine however have shown that more scientific papers fail than pass manual replication tests. Consequently, several attempts have been made to find ways to efficiently extend replication studies, including new statistics, surveys, and prediction markets. However new statistics have been very slowly adopted and the high costs associated with surveys and prediction markets makes these methods impractical for estimating the reproducibility of more than a few hundred studies out of the vast stock of millions of research papers that are used as building blocks for current and future work. The proposed research aims to develop metrics and tools to help make replication studies of existing work more efficient with one additional benefit: to help scientists, scholars, and technologists self-evaluate their work before publishing it. &lt;br/&gt;&lt;br/&gt;This proposal combines efforts to create new datasets, ‘reproducibility’ metrics, and machine learning models that estimate a confidence level in the reproducibility of a published work. The deliverables will include new datasets covering the success and failure of hundreds of scientific papers in psychology and economics and their related subfields. The metrics will go beyond a binary classification of whether a publication is estimated to be reproducible or not. They will quantify a level of confidence that the work is likely to be reproducible. The machine learning models will also help scientists interpret and explain confidence scores, which aid scientists in learning about the factors that correlate with reproducibility. In all three areas, the project will aim to provide scientists with better tools to evaluate the reproducibility of their own and others’ work, creating a better foundation of knowledge for advancing research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2022466</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Uzzi</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian D Uzzi</PI_FULL_NAME>
+<EmailAddress><![CDATA[uzzi@kellogg.northwestern.edu]]></EmailAddress>
+<NSF_ID>000184250</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>633 CLARK STREET</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>Evanston</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602083112</ZipCode>
+<StreetAddress><![CDATA[2211 Campus Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>125Y</Code>
+<Text>Science of Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7626</Code>
+<Text>SCIENCE OF SCIENCE POLICY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~144257</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Replicability of scientific results are essential be building a  strong foundation of facts that other work and practices can confidently  build on and that demonstrate to the public the unique contribution of  science to society.&nbsp; However, manual replication tests do not scale.&nbsp;  Consquently, we turned to machine learning and AI to build a machine  that can predict a paper's replicability based on the paper's content.&nbsp;</p> <p>In  this investigation, we trained a simple machine learning model to  estimate a paper?s replicability using studies that passed and failed  manual replication tests. We then tested the model on diverse  out-of-sample studies. In terms of predictive accuracy, our method  predicted replicability better than the base rate of individual  reviewers and comparably as well as prediction markets, the best method  currently in use. Machine learning models trained on a paper?s text  provide more accurate predictions than models trained on a paper?s  reported statistical tests. In out-of-sample tests of hundreds of papers  for which there is manual replication data, the machine learning model  demonstrated preliminary generalizability with accuracy levels between  0.65 and 0.78. We did not find that the machine learning model makes  obviously biased predictions based on certain topics, journals, methods,  disciplines, base rates of failure, writing style, or particular words  like ?remarkable or unexpected.? Initial evidence points to correlations  between a paper?s ?n-grams,? higher-order representations of  information, and replicability. We discuss how combining human and  machine intelligence provides one way to address replication problems in  line with DARPA?s SCORE program, which aims to raise confidence in  reported research and create scalable methods for identifying studies at  risk of failing manual replication.</p> <p>&nbsp;</p> <p>After establishing  our model's predictive utility, we conducted a census wide study of  replicability of the psychology literature. <strong>T</strong>he  replication movement has gone on since early 2010s. However, the number  of manually replicated studies falls well under the abundance of  important studies that the scientific community would like to see  replicated. Using a text-based machine-learning model, we estimated  replication likelihood for more than 14,000 published articles in six  subfields of Psychology. Based on the large sample, we investigated  variations in replicability across six subfields and between different  research methods. Our predictions of replication likelihood could also  help researchers to decide which studies to replicate first in the face  of limited resources?an immediate solution to a problem encountered by  several on-going replication projects. <strong>&nbsp;</strong></p> <p><strong><br /> </strong></p> <p>Our sample (<em>N</em> = 14,126 papers) covers all papers published in the six top-tier  Psychology journals over the past 20 years. Using a validated  machine-learning model that estimates a paper?s likelihood of  replication, we find evidence that both supports and refutes  speculations drawn from small-sample manual replications. First, we find  that a single overall replication rate of Psychology poorly captures  the varying degree of replicability among subfields. Second, replication  rates are strongly correlated with methods in all subfields.  Experiments replicate at a significantly lower rate of replication than  non-experimental studies do. Third, we find that authors? cumulative  publication number and citation impact are positively related to the  likelihood of replication, but other proxies of research quality and  rigor, such as an author?s university prestige and a paper?s citations,  are unrelated to replicability. Finally, contrary to the ideal that  media should cover high quality research, we find that media attention  is strongly related to the likelihood of replication failure. These  quantifications of the scale and scope of replicability are an important  next step towards broadly resolving issues of replicability by building  theory and complementing other approaches to the replication crisis  that can be applied across disciplines.</p><br> <p>            Last Modified: 08/29/2022<br>      Modified by: Brian&nbsp;D&nbsp;Uzzi</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2022466/2022466_10705648_1661791013746_Screenshot2022-08-29113049--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2022466/2022466_10705648_1661791013746_Screenshot2022-08-29113049--rgov-800width.jpg" title="Non-replicating papers spread as fast as replicating papers in the literature"><img src="/por/images/Reports/POR/2022/2022466/2022466_10705648_1661791013746_Screenshot2022-08-29113049--rgov-66x44.jpg" alt="Non-replicating papers spread as fast as replicating papers in the literature"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Citation rates of replicating and non-replicating studies are indistinguishable.</div> <div class="imageCredit">Wu, Yang, and Uzzi (2020</div> <div class="imageSubmitted">Brian&nbsp;D&nbsp;Uzzi</div> <div class="imageTitle">Non-replicating papers spread as fast as replicating papers in the literature</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Replicability of scientific results are essential be building a  strong foundation of facts that other work and practices can confidently  build on and that demonstrate to the public the unique contribution of  science to society.  However, manual replication tests do not scale.   Consquently, we turned to machine learning and AI to build a machine  that can predict a paper's replicability based on the paper's content.   In  this investigation, we trained a simple machine learning model to  estimate a paper?s replicability using studies that passed and failed  manual replication tests. We then tested the model on diverse  out-of-sample studies. In terms of predictive accuracy, our method  predicted replicability better than the base rate of individual  reviewers and comparably as well as prediction markets, the best method  currently in use. Machine learning models trained on a paper?s text  provide more accurate predictions than models trained on a paper?s  reported statistical tests. In out-of-sample tests of hundreds of papers  for which there is manual replication data, the machine learning model  demonstrated preliminary generalizability with accuracy levels between  0.65 and 0.78. We did not find that the machine learning model makes  obviously biased predictions based on certain topics, journals, methods,  disciplines, base rates of failure, writing style, or particular words  like ?remarkable or unexpected.? Initial evidence points to correlations  between a paper?s ?n-grams,? higher-order representations of  information, and replicability. We discuss how combining human and  machine intelligence provides one way to address replication problems in  line with DARPA?s SCORE program, which aims to raise confidence in  reported research and create scalable methods for identifying studies at  risk of failing manual replication.     After establishing  our model's predictive utility, we conducted a census wide study of  replicability of the psychology literature. The  replication movement has gone on since early 2010s. However, the number  of manually replicated studies falls well under the abundance of  important studies that the scientific community would like to see  replicated. Using a text-based machine-learning model, we estimated  replication likelihood for more than 14,000 published articles in six  subfields of Psychology. Based on the large sample, we investigated  variations in replicability across six subfields and between different  research methods. Our predictions of replication likelihood could also  help researchers to decide which studies to replicate first in the face  of limited resources?an immediate solution to a problem encountered by  several on-going replication projects.        Our sample (N = 14,126 papers) covers all papers published in the six top-tier  Psychology journals over the past 20 years. Using a validated  machine-learning model that estimates a paper?s likelihood of  replication, we find evidence that both supports and refutes  speculations drawn from small-sample manual replications. First, we find  that a single overall replication rate of Psychology poorly captures  the varying degree of replicability among subfields. Second, replication  rates are strongly correlated with methods in all subfields.  Experiments replicate at a significantly lower rate of replication than  non-experimental studies do. Third, we find that authors? cumulative  publication number and citation impact are positively related to the  likelihood of replication, but other proxies of research quality and  rigor, such as an author?s university prestige and a paper?s citations,  are unrelated to replicability. Finally, contrary to the ideal that  media should cover high quality research, we find that media attention  is strongly related to the likelihood of replication failure. These  quantifications of the scale and scope of replicability are an important  next step towards broadly resolving issues of replicability by building  theory and complementing other approaches to the replication crisis  that can be applied across disciplines.       Last Modified: 08/29/2022       Submitted by: Brian D Uzzi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative Research: Modeling and Learning-based Design of Social Distancing Policies for COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Goldberg</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Human contacts underlie the spread of any infectious diseases including COVID-19. For COVID-19, the widely implemented social distancing policies are designed precisely to drastically reduce individual travels and the resulting contacts. In a number of States, these policies have effectively reduced the peak number of infections. These policies have also come with huge costs on the society, economy and people’s lives: US economy has largely come to a halt and the number of unemployment claims has now exceeded the worst of the 2008-2009 financial crisis. This rapid COVID-19 application will develop a novel meta-population level model simulating the spread of COVID-19 and utilize reinforcement learning to explore optimal congregation restriction policies for social distancing. &lt;br/&gt;&lt;br/&gt;The technical approach will develop an SIQR (Susceptible, Infected, Quarantined, and Recovered) model integrated with reinforcement learning for continuous monitoring and policy adjustment. The SIQR model is built on the classic literature of the SIR (susceptible, infectious and recovered) and SEIR (susceptible, exposed, infectious, and recovered) models and enhances their capability to capture the unique quarantine features for COVID-19. The key focus of the proposed project is on the connection of the SIQR model to reinforcement learning to realize a control loop that provides optimal policy in spite of sparse and noisy observations. This is an important contribution to this emerging, interdisciplinary science of infectious disease modeling and control. The results of this project will have both immediate importance for designing the response to COVID-19 and also contribute to the broader development of an interdisciplinary education and research program involving infectious disease modeling, reinforcement learning and machine learning of big data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030018</AwardID>
+<Investigator>
+<FirstName>Vijay</FirstName>
+<LastName>Gupta</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vijay Gupta</PI_FULL_NAME>
+<EmailAddress><![CDATA[gupta869@purdue.edu]]></EmailAddress>
+<NSF_ID>000501929</NSF_ID>
+<StartDate>05/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465565708</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>940 Grace Hall</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FPU6XGFXMBE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NOTRE DAME DU LAC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KKBMKNFZ5PJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Notre Dame]]></Name>
+<CityName>Notre Dame</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>465565708</ZipCode>
+<StreetAddress><![CDATA[275 Fitzpatrick Hl Engrng]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The official count of COVID cases, a key pandemic indicator, is under-reported due to a number of reasons, such as limited test capacity, asymptotic cases, or unwillingness to test etc. Further, the amount of underreporting varies over the course of the pandemic. Regardless of the reasons, underreporting means that the policy making process, in terms of which level of social distancing to be implemented and when, could be vulnerable to biases in the reported indicator data.&nbsp;</span></p> <p><span>&nbsp;</span></p> <p><span>Due to such data bias and the potential impact on policy making related to social distancing, this project focused on the below questions:&nbsp;</span></p> <p><span>1. (Design) How does underreporting, and improper correction of the amount by which underreporting happens, affect the design of social distancing policies?</span><span><br /> </span><span>2. (Placement) How does underreporting, and improper correction of the amount by which underreporting happens, affected the placement of the social distancing policy in terms of when and how often?</span><span><br /> </span><span>3. (Effectiveness) Will social distancing policy designed using underreported, and partially corrected, data lead to higher health and economic costs, compared to if there were no underreporting?&nbsp;</span></p> <p><span>&nbsp;</span></p> <p><span>The results from this project showed that the effects of underreporting and its corrections on policies and disease trajectories are complex, but in general, the control objective/constraints cannot be met if underreported case data is used. This underscores the high stakes involved in NPI related decision making based on underreported and intuitively corrected data. First, inability of the public policy to meet the predefined objectives or constraints under the influence of the underreporting issue could have severe consequences, e.g., leading to overwhelmed hospitals. Second, the finding that lower hospital capacity is associated with higher impacts from the underreporting issue points to potential equity concerns. Regions with fewer medical resources may bear disproportional consequences from policies made with underreported data.&nbsp;</span></p> <p><span>Nevertheless, our results suggest two possible venues for mitigating the impacts from underreporting. First, the importance of knowing an accurate underreporting percentage is highlighted. Our results suggest that over-correction of the underreporting issue is equally devastating as under-correcting it. Therefore, this study provides strong support for developing a system that will improve the accuracy of case data reporting. Second, our results also suggest that certain policy designs may be more robust against the underreporting issue in certain contexts than in others. Such policy designs should be the focus of future research.</span></p> <div><span><br /></span></div> <p>&nbsp;</p><br> <p>            Last Modified: 07/14/2022<br>      Modified by: Vijay&nbsp;Gupta</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The official count of COVID cases, a key pandemic indicator, is under-reported due to a number of reasons, such as limited test capacity, asymptotic cases, or unwillingness to test etc. Further, the amount of underreporting varies over the course of the pandemic. Regardless of the reasons, underreporting means that the policy making process, in terms of which level of social distancing to be implemented and when, could be vulnerable to biases in the reported indicator data.      Due to such data bias and the potential impact on policy making related to social distancing, this project focused on the below questions:   1. (Design) How does underreporting, and improper correction of the amount by which underreporting happens, affect the design of social distancing policies?  2. (Placement) How does underreporting, and improper correction of the amount by which underreporting happens, affected the placement of the social distancing policy in terms of when and how often?  3. (Effectiveness) Will social distancing policy designed using underreported, and partially corrected, data lead to higher health and economic costs, compared to if there were no underreporting?      The results from this project showed that the effects of underreporting and its corrections on policies and disease trajectories are complex, but in general, the control objective/constraints cannot be met if underreported case data is used. This underscores the high stakes involved in NPI related decision making based on underreported and intuitively corrected data. First, inability of the public policy to meet the predefined objectives or constraints under the influence of the underreporting issue could have severe consequences, e.g., leading to overwhelmed hospitals. Second, the finding that lower hospital capacity is associated with higher impacts from the underreporting issue points to potential equity concerns. Regions with fewer medical resources may bear disproportional consequences from policies made with underreported data.   Nevertheless, our results suggest two possible venues for mitigating the impacts from underreporting. First, the importance of knowing an accurate underreporting percentage is highlighted. Our results suggest that over-correction of the underreporting issue is equally devastating as under-correcting it. Therefore, this study provides strong support for developing a system that will improve the accuracy of case data reporting. Second, our results also suggest that certain policy designs may be more robust against the underreporting issue in certain contexts than in others. Such policy designs should be the focus of future research.            Last Modified: 07/14/2022       Submitted by: Vijay Gupta]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

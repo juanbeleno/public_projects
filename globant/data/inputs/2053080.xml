@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Compressed Fluorescence Lifetime Imaging Microscopy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>218316.00</AwardTotalIntnAmount>
+<AwardAmount>218316</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steve Zehnder</SignBlockName>
+<PO_EMAI>szehnder@nsf.gov</PO_EMAI>
+<PO_PHON>7032927014</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract&lt;br/&gt;Gao,Liang&lt;br/&gt;University of Illinois at Urbana-Champaign &lt;br/&gt;1652150&lt;br/&gt;&lt;br/&gt;Fluorescence lifetime imaging microscopy (FLIM) has found broad applications in biomedicine because it delivers the most direct insight into the molecular interactions of a fluorophore (a fluorescent chemical compound that re-emits light upon light excitation) with its biological environment. This project will develop a potentially transformative FLIM system fast enough to see biological effects such as neuron spiking. A new optical design course for graduates, and development of a hands-on laboratory for both undergraduates and graduates are planned.&lt;br/&gt;&lt;br/&gt;The three key tasks are to 1) develop a high-speed, depth-resolved FLIM imager using coded excitation and dual-camera detection; 2) develop a compressed spectral FLIM (sFLIM) system for multi-target fluorescence imaging; and 3) evaluate compressed FLIM and sFLIM against benchmark systems in several live cell imaging applications.]]></AbstractNarration>
+<MinAmdLetterDate>09/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2053080</AwardID>
+<Investigator>
+<FirstName>Liang</FirstName>
+<LastName>Gao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Liang Gao</PI_FULL_NAME>
+<EmailAddress><![CDATA[gaol@g.ucla.edu]]></EmailAddress>
+<NSF_ID>000703189</NSF_ID>
+<StartDate>09/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900244201</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 WILSHIRE BLVD STE 700</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RN64EPNH8JC6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, LOS ANGELES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Los Angeles]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>900951406</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>33</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA33</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7236</Code>
+<Text>BioP-Biophotonics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~218316</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Fluorescence lifetime imaging microscopy (FLIM) has been extensively employed in a broad spectrum of biomedical applications, ranging from single-cell studies to medical diagnoses. However, conventional FLIM systems are slow in image acquisition due to the reliance on the scanning mechanism. This project has solved this long-standing problem by introducing a compressing sensing framework to fluorescence lifetime imaging. The resultant method, which we term compressed FLIM, has enabled dynamic lifetime imaging at an unprecedented speed. The outcome of our project is significant because, for the first time, It allows high-speed recording of fluorescence lifetime dynamics in live cells and tissues, thereby opening up a new area of investigation in quantitative fluorescence microscopy. Capable of fluorescence lifetime imaging at 100 fps, our method is approximately two orders of magnitude faster than other cutting-edge FLIM systems. Our project has led to a new generation of high-speed FLIM imagers and made transformative advancements to state-of-the-art methods. We expect our method to find broad applications in fundamental and translational biomedical research.&nbsp;In addition, the project outcomes have also been integrated into the teaching and training objectives of the principal investigator through the transformation of an undergraduate course, the introduction of a new optical design course for graduates, and the development of hands-on laboratory activities for both undergraduates and graduates.</p> <p>&nbsp;</p><br> <p>            Last Modified: 05/19/2022<br>      Modified by: Liang&nbsp;Gao</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Fluorescence lifetime imaging microscopy (FLIM) has been extensively employed in a broad spectrum of biomedical applications, ranging from single-cell studies to medical diagnoses. However, conventional FLIM systems are slow in image acquisition due to the reliance on the scanning mechanism. This project has solved this long-standing problem by introducing a compressing sensing framework to fluorescence lifetime imaging. The resultant method, which we term compressed FLIM, has enabled dynamic lifetime imaging at an unprecedented speed. The outcome of our project is significant because, for the first time, It allows high-speed recording of fluorescence lifetime dynamics in live cells and tissues, thereby opening up a new area of investigation in quantitative fluorescence microscopy. Capable of fluorescence lifetime imaging at 100 fps, our method is approximately two orders of magnitude faster than other cutting-edge FLIM systems. Our project has led to a new generation of high-speed FLIM imagers and made transformative advancements to state-of-the-art methods. We expect our method to find broad applications in fundamental and translational biomedical research. In addition, the project outcomes have also been integrated into the teaching and training objectives of the principal investigator through the transformation of an undergraduate course, the introduction of a new optical design course for graduates, and the development of hands-on laboratory activities for both undergraduates and graduates.          Last Modified: 05/19/2022       Submitted by: Liang Gao]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Brain Health Monitoring via Phenotyping Electroencephalogram Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/16/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>23280.00</AwardTotalIntnAmount>
+<AwardAmount>23280</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This I-Corps project is based on deep learning algorithms developed using data from patients with sleep disorders and other neurological conditions. We created a unique deep neural network, composed of both a convolutional and recurrent  modules, and trained the model on a unique set of 10,000 clinical polysomnography (PSG) results, the world's largest collection of clinical PSGs assembled to date.&lt;br/&gt;&lt;br/&gt;The broader impact/commercial potential of this I-Corps project revolves around its simplicity and accuracy. The benefit for patients is to enable them and their family members to perform accurate home testing with comfort. Meanwhile, physicians would receive real time diagnostic information about their patients, leading to earlier treatment. For insurance providers and hospitals, costs are drastically reduced as outcomes improve and fewer resources and staff are required. Apart from the healthcare industry, our project would also translate well into the general population, where wearables and health tracking devices are becoming commonplace. Being able to review the framework of one's sleep, with an accurate depiction of multiple characteristics including sleep staging, appeals to the consumer.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/06/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034497</AwardID>
+<Investigator>
+<FirstName>Jimeng</FirstName>
+<LastName>Sun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jimeng Sun</PI_FULL_NAME>
+<EmailAddress><![CDATA[jimeng@illinois.edu]]></EmailAddress>
+<NSF_ID>000653017</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>506 S WRIGHT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName>Champaign</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>618207406</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~23280</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Revolutionizing Sleep Medicine: Automated Sleep Staging and EEG Reporting</strong></p> <p>Sleep staging, an indispensable tool used in sleep labs for assessing the quality of sleep, is often manually executed by technologists. This traditional approach frequently results in substantial costs and inconsistencies, posing a significant challenge in the field. Responding to this challenge, an research team has developed a transformative technology that automates sleep staging using deep neural networks. Preliminary results are promising and have demonstrated that this automated system can match, if not surpass, the accuracy of human experts. This development represents a significant leap forward, potentially revolutionizing sleep medicine as we know it.</p> <p>However, the team's innovation does not stop at sleep staging. They are ambitiously expanding the reach of their technology to include comprehensive EEG analysis and automated report generation. They aim to address the unique needs and obstacles tied to EEG report generation, a process traditionally done manually by specialists, which can be time-consuming and error-prone. Leveraging the power of machine learning and sophisticated large language models like ChatGPT, they are crafting a prototype designed to automate EEG report generation. The intent is to replace traditional, labor-intensive manual procedures with more efficient and accurate automated tools.</p> <p>The team's ultimate goal is to commercialize this technology, thus transforming sleep staging and EEG reporting into a more efficient, cost-effective, and accessible process. Such advancements are expected to greatly enhance the delivery of patient care by providing accurate and timely sleep assessments and EEG reports, leading to better diagnosis and treatment. Given the increasing prevalence of sleep disorders, this technology stands to make a substantial impact on the field of sleep medicine.</p> <p>Moreover, the automation process reduces the costs and variability associated with manual assessments. This efficiency allows sleep labs to cater to more patients, improving their overall quality of care while keeping costs under control.</p> <p>The team is excited to continue developing and refining this technology. They are keen on introducing this breakthrough to the market and firmly believe that, with further research and development, their automated sleep staging and EEG report generation technology has the potential to become a major game-changer in the field of sleep medicine. They envision a future where their technology becomes an integral part of sleep labs around the world, benefiting countless patients suffering from sleep disorders.</p> <p>&nbsp;</p><br> <p>            Last Modified: 05/30/2023<br>      Modified by: Jimeng&nbsp;Sun</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Revolutionizing Sleep Medicine: Automated Sleep Staging and EEG Reporting  Sleep staging, an indispensable tool used in sleep labs for assessing the quality of sleep, is often manually executed by technologists. This traditional approach frequently results in substantial costs and inconsistencies, posing a significant challenge in the field. Responding to this challenge, an research team has developed a transformative technology that automates sleep staging using deep neural networks. Preliminary results are promising and have demonstrated that this automated system can match, if not surpass, the accuracy of human experts. This development represents a significant leap forward, potentially revolutionizing sleep medicine as we know it.  However, the team's innovation does not stop at sleep staging. They are ambitiously expanding the reach of their technology to include comprehensive EEG analysis and automated report generation. They aim to address the unique needs and obstacles tied to EEG report generation, a process traditionally done manually by specialists, which can be time-consuming and error-prone. Leveraging the power of machine learning and sophisticated large language models like ChatGPT, they are crafting a prototype designed to automate EEG report generation. The intent is to replace traditional, labor-intensive manual procedures with more efficient and accurate automated tools.  The team's ultimate goal is to commercialize this technology, thus transforming sleep staging and EEG reporting into a more efficient, cost-effective, and accessible process. Such advancements are expected to greatly enhance the delivery of patient care by providing accurate and timely sleep assessments and EEG reports, leading to better diagnosis and treatment. Given the increasing prevalence of sleep disorders, this technology stands to make a substantial impact on the field of sleep medicine.  Moreover, the automation process reduces the costs and variability associated with manual assessments. This efficiency allows sleep labs to cater to more patients, improving their overall quality of care while keeping costs under control.  The team is excited to continue developing and refining this technology. They are keen on introducing this breakthrough to the market and firmly believe that, with further research and development, their automated sleep staging and EEG report generation technology has the potential to become a major game-changer in the field of sleep medicine. They envision a future where their technology becomes an integral part of sleep labs around the world, benefiting countless patients suffering from sleep disorders.          Last Modified: 05/30/2023       Submitted by: Jimeng Sun]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

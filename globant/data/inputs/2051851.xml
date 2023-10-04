@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Advanced computational methods for forecasting multiple types of economic and social returns]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is providing social enterprises with software that performs social-impact forecasting and tracking using machine learning, computer simulation, and data visualization. These digital tools provide social enterprises with better visibility into where their resources can be invested for maximum impact. The adoption of quantitative data analysis has made commercial enterprises more formidable, but these tools are slow in coming to the $7 trillion world of non-profits, charitable foundations, international development agencies, impact investors, and government agencies. The software informs investment strategies by providing a quantitative estimate of impact-per-dollar. The software will also track the ongoing social impact of each resource allocation, enabling social enterprises to iteratively adapt and improve the efficacy of their operations, and provide more accountability to their funding sources. These software tools can help address some of the most vexing societal concerns than span health, sustainability, poverty, and access to education.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project makes use of software data analysis tools including Agent Based Modeling (ABM), machine learning (such as Gradient Boosted Machines and Artificial Neural Networks), and Interactive Data Visualization. Agent Based Modeling involves building a digital simulation of the target ecosystem, capturing the essential actors and behaviors. For example, for the opioid epidemic, this may be the addicts/drugs/doctors/pharma agents, along with their attributes, histories, and interactions with each other. This modeling allows simulation of intervention scenarios and quantification of outcomes. Machine learning techniques, once trained and calibrated with past data on the target ecosystem, provide forecasting and allow the exploration of what-if scenarios. A bottom-up model is built for each target social issue, shared by relevant social enterprises, and calibrated using their collective data and subject matter experts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>11/15/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051851</AwardID>
+<Investigator>
+<FirstName>Dejan</FirstName>
+<LastName>Duzevik</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dejan Duzevik</PI_FULL_NAME>
+<EmailAddress><![CDATA[dejan@simpact.world]]></EmailAddress>
+<NSF_ID>000832486</NSF_ID>
+<StartDate>06/30/2021</StartDate>
+<EndDate>11/15/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Trenton</FirstName>
+<LastName>Ashburn</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Trenton Ashburn</PI_FULL_NAME>
+<EmailAddress><![CDATA[trenton@simpact.world]]></EmailAddress>
+<NSF_ID>000860503</NSF_ID>
+<StartDate>11/15/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SIMPACT CO.</Name>
+<CityName>LAKEWOOD</CityName>
+<ZipCode>802283064</ZipCode>
+<PhoneNumber>6173087993</PhoneNumber>
+<StreetAddress>13788 W KENTUCKY DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J7WAG6G2CAD7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SIMPACT CO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SIMPACT LLC]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021291811</ZipCode>
+<StreetAddress><![CDATA[26 Oak Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Simpact is a project to bring analytical and forecasting technology to social change organizations to help improve their impact. We target philanthropic organizations, social enterprises, impact investors, and government agencies. Our technology includes agent-based modeling, computer simulation, machine learning, and sophisticated data analysis &mdash; along with intuitive user interfaces and data visualizations. These are techniques that we previously provided to organizations in the commercial and educational world, such as Netflix, Intel, Toyota, Eli Lily, Pfizer, Ford, Harvard University, and more.</p> <p>In the process of partnering with social change organizations, and providing them technology solutions, we&rsquo;ve gained an understanding of what the common needs are, that our technology can help with. These needs are: rigorously understanding the social ecosystem of their mission, quantitatively evaluating their organizational impact, and optimizing their strategy and scarce resources. Most organizations in this space don&rsquo;t have highly technical or analytical staff, or easy access to them.</p> <p>One of our partners serves youth in Central American countries. Their mission is to reduce school dropouts, teen pregnancies, illegal emigration, and participation in the narco industry. We&rsquo;re running a large data-gathering campaign and using it to build an early-warning software system that will identify the most at-risk youth, along with the most promising interventions. As our system is proven in nine schools, we&rsquo;ll expand to the rest of the country and offer it in other countries.</p> <p>The world of social change is beginning to welcome analytical and forecasting methods like ours. This is nothing short of a culture change, as these organizations haven&rsquo;t made significant use before. Our technologies can be judiciously blended with the qualitative domain knowledge and experience of those in the social change world, while also incorporating individual narratives of their cared-for population. The result can be dramatic improvements in outcomes in the direction of their organizational missions.</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/11/2023<br>      Modified by: Trenton&nbsp;Ashburn</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Simpact is a project to bring analytical and forecasting technology to social change organizations to help improve their impact. We target philanthropic organizations, social enterprises, impact investors, and government agencies. Our technology includes agent-based modeling, computer simulation, machine learning, and sophisticated data analysis &mdash; along with intuitive user interfaces and data visualizations. These are techniques that we previously provided to organizations in the commercial and educational world, such as Netflix, Intel, Toyota, Eli Lily, Pfizer, Ford, Harvard University, and more.  In the process of partnering with social change organizations, and providing them technology solutions, we’ve gained an understanding of what the common needs are, that our technology can help with. These needs are: rigorously understanding the social ecosystem of their mission, quantitatively evaluating their organizational impact, and optimizing their strategy and scarce resources. Most organizations in this space don’t have highly technical or analytical staff, or easy access to them.  One of our partners serves youth in Central American countries. Their mission is to reduce school dropouts, teen pregnancies, illegal emigration, and participation in the narco industry. We’re running a large data-gathering campaign and using it to build an early-warning software system that will identify the most at-risk youth, along with the most promising interventions. As our system is proven in nine schools, we’ll expand to the rest of the country and offer it in other countries.  The world of social change is beginning to welcome analytical and forecasting methods like ours. This is nothing short of a culture change, as these organizations haven’t made significant use before. Our technologies can be judiciously blended with the qualitative domain knowledge and experience of those in the social change world, while also incorporating individual narratives of their cared-for population. The result can be dramatic improvements in outcomes in the direction of their organizational missions.          Last Modified: 01/11/2023       Submitted by: Trenton Ashburn]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

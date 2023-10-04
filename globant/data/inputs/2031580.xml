@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Frontera - Travel]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>9982.00</AwardTotalIntnAmount>
+<AwardAmount>9982</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Walker</SignBlockName>
+<PO_EMAI>edwalker@nsf.gov</PO_EMAI>
+<PO_PHON>7032924863</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[For nearly four decades, the National Science Foundation (NSF) has played a leadership role in provisioning advanced cyberinfrastructure capabilities for the Nation's Science and Engineering (S&amp;E) researchers. An important component in this investment is the leadership-class computing program that provides computational and data analytics capabilities at the largest scale to inspire transformative S&amp;E discoveries that would not be possible otherwise. NSF's current leadership-class computing investment supports Frontera, the largest High-Performance Computing (HPC) system on a US academic campus. The Frontera system is deployed and operated by the Texas Advanced Computing Center (TACC) at the University of Texas (UT) at Austin. This travel grant will support the participation of researchers who have been awarded a computer time allocation on the Frontera system at a future Principal Investigator (PI) meeting organized by TACC. The award will also support travel for technical coordination between researchers and the Frontera project to ensure optimal and effective utilization of the Frontera system.&lt;br/&gt;&lt;br/&gt;The goal of the PI meeting is to allow Frontera research users, as well as their students, to share scientific results, exchange practical lessons-learned, and present their overall experience from using the Frontera system. In addition to research presentations, the meeting will have ample time, as well as facilitated sessions, to promote increased interaction between Frontera research users and project staff. The outcome of the PI meeting will not only enable the Frontera project to better understand and serve the scientific research community, but also build a community to better represent the unique needs of S&amp;E research that require access to NSF leadership computing facilities. To facilitate deeper coordination beyond the PI meeting, this award will also provide travel support to enable technical coordination between the research user teams and the Frontera project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031580</AwardID>
+<Investigator>
+<FirstName>Ken</FirstName>
+<LastName>Dill</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ken A Dill</PI_FULL_NAME>
+<EmailAddress><![CDATA[dill@laufercenter.org]]></EmailAddress>
+<NSF_ID>000586819</NSF_ID>
+<StartDate>05/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>STONY BROOK</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>W5510 FRANKS MELVILLE MEMORIAL L</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M746VC6XMNH9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>Stony Brook</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>117940001</ZipCode>
+<StreetAddress><![CDATA[Laufer Center]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7781</Code>
+<Text>Leadership-Class Computing</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~9982</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Our&nbsp;Frontera-based research advanced our knowledge, and our publications for the field, in two main ways.&nbsp; First, it allowed us to develop our MELD x MD accelerator sampling tool for physical forcefield-based modeling of proteins.&nbsp; MELD is a Bayesian method that goes beyond other integrative (physical plus informational) simulations in that it preserves Boltzmann-law detailed-balance physics.&nbsp; So, beyond just predicting protein structures, we can predict proper Boltzmann populations, free energies, other thermodynamic properties, and the dynamics and mechanistic motions, being faithful to the physics of the forcefield.&nbsp; Without&nbsp;Frontera, we could not have scaled up from 80-mer proteins through and including 200-mers.&nbsp; We learned how to improve structures determined from NMR and cryo-EM data, while re-couping the physics.</p> <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Second,&nbsp;Frontera&nbsp;allowed us to develop MELD accelerated MD in docking, the process of rank-sorting different ligands for their binding affinities to receptor proteins.&nbsp; We were able to show that the MD physics improves considerably on simpler DOCK scoring functions.&nbsp; It is often able to rescue DOCK scoring failures.&nbsp; While MD is still expensive, even with MELD acceleration, the value of this methodology is in obtaining accurate rankings because of the better physics and sampling in MD compared to DOCK. We gain some speed advantage here by an additional strategy, namely using a sports-like bracket category to quickly sort out the bad binders.&nbsp; These developments allowed us to collaborate with Janssen Pharmaceuticals on compounds of their interest, showing that this accelerated MD is now competitive in some industrial applications. &nbsp;While much remains to be done, we believe that these advances are substantial.&nbsp; And, they surely could not have been done without the resources of&nbsp;Frontera.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/08/2023<br>      Modified by: Ken&nbsp;A&nbsp;Dill</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[             Our Frontera-based research advanced our knowledge, and our publications for the field, in two main ways.  First, it allowed us to develop our MELD x MD accelerator sampling tool for physical forcefield-based modeling of proteins.  MELD is a Bayesian method that goes beyond other integrative (physical plus informational) simulations in that it preserves Boltzmann-law detailed-balance physics.  So, beyond just predicting protein structures, we can predict proper Boltzmann populations, free energies, other thermodynamic properties, and the dynamics and mechanistic motions, being faithful to the physics of the forcefield.  Without Frontera, we could not have scaled up from 80-mer proteins through and including 200-mers.  We learned how to improve structures determined from NMR and cryo-EM data, while re-couping the physics.               Second, Frontera allowed us to develop MELD accelerated MD in docking, the process of rank-sorting different ligands for their binding affinities to receptor proteins.  We were able to show that the MD physics improves considerably on simpler DOCK scoring functions.  It is often able to rescue DOCK scoring failures.  While MD is still expensive, even with MELD acceleration, the value of this methodology is in obtaining accurate rankings because of the better physics and sampling in MD compared to DOCK. We gain some speed advantage here by an additional strategy, namely using a sports-like bracket category to quickly sort out the bad binders.  These developments allowed us to collaborate with Janssen Pharmaceuticals on compounds of their interest, showing that this accelerated MD is now competitive in some industrial applications.  While much remains to be done, we believe that these advances are substantial.  And, they surely could not have been done without the resources of Frontera.          Last Modified: 08/08/2023       Submitted by: Ken A Dill]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

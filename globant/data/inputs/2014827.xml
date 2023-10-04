@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  Artificial Intelligence Tool to Optimize Organ Transplantation Outcomes (Transplant-AI)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Technology Transfer (STTR) Phase I project will be to improve solid organ transplantation outcomes. Few significant clinical or technological advancements have been made within the last two decades to improve organ matching success, and the accuracies of current models predicting survival outcomes are diminishing. There is a great need for clinicians to have better decision-making support tools. Every 12 minutes, a new person is added to the organ transplant waiting list, a number growing by about five percent each year. Within a single day, 21 people die waiting for a kidney, liver, or other organ match. Although 36,500 kidney and liver transplants are performed each year, the patient demand for donor organs far outweighs supply by four to one, so the need to improve donor-recipient matching is urgent. Optimizing the donor organ-patient match is a key determining factor for improving transplant success and patient survival. This project's artificial intelligence (AI) model will guide transplant surgeons, physicians, and other healthcare professionals will deliver precise, accurate, quantitative information for real-time predictions.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project proposes artificial intelligence to predict outcomes after solid organ transplantation procedures. Clinicians currently consider several factors when determining organ allocation and candidate patient ranking on the recipient waitlist, including extent of disease pathology, functional status of the recipient, and intrinsic donor and recipient compatibility factors. Measures, indices and functional status scores have been designed to predict specific outcomes but are not easily combined into one optimized decision to guide organ allocation decisions. To date, no organ-matching predictive outcome model has comprehensively synthesized all available patient- and donor-specific variables at the time of transplantation. This project will train an artificial intelligence (AI) algorithm to comprehensively integrate all information available at the time of transplantation procedures (hundreds of variables) into a predictive model. An AI model of this nature would be a substantial improvement from linear models able to synthesize only a modest number of parameters (approximately 15) to date. It is expected that the proposed technology will predict both pre- and post-transplant survival more accurately than currently accepted models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014827</AwardID>
+<Investigator>
+<FirstName>Jim</FirstName>
+<LastName>Havelka</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jim Havelka</PI_FULL_NAME>
+<EmailAddress><![CDATA[jhavelka@informAI.com]]></EmailAddress>
+<NSF_ID>000783268</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>InformAI, Inc.</Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>770212039</ZipCode>
+<PhoneNumber>2818043351</PhoneNumber>
+<StreetAddress>2450 HOLCOMBE BLVD STE 1.301</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JBTSRMQF4941</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>INFORMAI, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[INFORMAI LLC]]></Name>
+<CityName>Houston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>770023246</ZipCode>
+<StreetAddress><![CDATA[708 Main Street, 10th Floor]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~225000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Problem Statement</strong></p> <p>There are many more people on the waiting list for donor organs than there are organs available to transplant. Every 12 minutes, a new person is added to the organ transplant waiting list, and that number is growing by about 5 percent each year. There are currently over 106,000 patients on the US donor organ waitlist and each day 21 patients die waiting for a donor organ. When deciding on whether an organ is a good match, transplant surgeons must consider many factors from both the donor patient and the recipient patient. In fact, roughly 400 donor and recipient parameters are routinely collected and are available to the transplant team for consideration at the time of a transplantation decision. Surgeons use various models, methods, and calculations to help meaningfully interpret these parameters. However, currently used models are limited in both scope and accuracy, only using a very small subset of available clinical and image data.</p> <p><strong>Project Goal and Outcomes</strong></p> <p>Our Phase 1 project goal was to develop specific artificial intelligence algorithms that would meaningfully combine available liver and kidney organ transplant data to give the transplantation team better insights when organ matching. Fulfilling our initial aims, we developed artificial intelligence algorithms to predict 1-year and 3-year recipient survival after transplantation. We also developed an AI algorithm to predict 90-day transplant waitlist mortality defined as the likelihood that a patient will die while waiting for an organ within the next 90 days. Our AI algorithms for survival and waitlist mortality have demonstrated predictive performance better than the currently utilized transplant predictive models.</p> <p>Based on phase 1 feedback from our customer discovery efforts, we also incorporated additional AI algorithms for predicting organ discard rates and donor organ and recipient organ contours and volume estimates.</p> <p>Organ discard is a serious problem, and can be as high as 40%, resulting in utilization of limited clinical resources. Sometimes organs are rejected right at the time the offer is made, and other times the organ is rejected when the surgeon visually inspects it. Our organ discard algorithm successfully predicts the probability that a donated organ would not be allocated to a patient recipient.</p> <p>Accurate organ sizing is also very important to transplant surgeons, especially for liver transplants. The size of the organ donated must not be oversized for the patient that it is being transplanted in, but surgeons don?t have quick and accurate tools to help with these calculations. To address this need, the InformAI team developed a neural network algorithm that auto segments liver and kidney volumes from 3D CT scans to view organ contours and estimate organ volumes (see accompanying figure).</p> <p>To bring together the data insights from our multiple AI algorithms, the InformAI team developed a protype of a transplant surgeon dashboard to display the predictive analytics in an integrated and efficient manner.</p> <p>The transplantation ecosystem is focused on timely allocation of donor organs to waitlisted patients. Tools that assist transplant surgeons in the patient-organ match process have the potential to reduce organ wait time, reduce organ discard rates and optimize the overall organ transplant process. Our Phase 1 project demonstrated the viability of integrating transplant data insights to assist transplant surgeon in optimizing the matching of donor organs with patient recipients waiting for kidney and liver transplants.</p> <p>&nbsp;</p><br> <p>            Last Modified: 11/18/2021<br>      Modified by: Jim&nbsp;Havelka</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2014827/2014827_10697159_1637251407892_Phase1outcomesimage--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2014827/2014827_10697159_1637251407892_Phase1outcomesimage--rgov-800width.jpg" title="Comparison of Donor Organ and Recipient Organ Contours and Volume Estimates"><img src="/por/images/Reports/POR/2021/2014827/2014827_10697159_1637251407892_Phase1outcomesimage--rgov-66x44.jpg" alt="Comparison of Donor Organ and Recipient Organ Contours and Volume Estimates"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Comparison of Donor Organ and Recipient Organ Contours and Volume Estimates</div> <div class="imageCredit">InformAI</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jim&nbsp;Havelka</div> <div class="imageTitle">Comparison of Donor Organ and Recipient Organ Contours and Volume Estimates</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Problem Statement  There are many more people on the waiting list for donor organs than there are organs available to transplant. Every 12 minutes, a new person is added to the organ transplant waiting list, and that number is growing by about 5 percent each year. There are currently over 106,000 patients on the US donor organ waitlist and each day 21 patients die waiting for a donor organ. When deciding on whether an organ is a good match, transplant surgeons must consider many factors from both the donor patient and the recipient patient. In fact, roughly 400 donor and recipient parameters are routinely collected and are available to the transplant team for consideration at the time of a transplantation decision. Surgeons use various models, methods, and calculations to help meaningfully interpret these parameters. However, currently used models are limited in both scope and accuracy, only using a very small subset of available clinical and image data.  Project Goal and Outcomes  Our Phase 1 project goal was to develop specific artificial intelligence algorithms that would meaningfully combine available liver and kidney organ transplant data to give the transplantation team better insights when organ matching. Fulfilling our initial aims, we developed artificial intelligence algorithms to predict 1-year and 3-year recipient survival after transplantation. We also developed an AI algorithm to predict 90-day transplant waitlist mortality defined as the likelihood that a patient will die while waiting for an organ within the next 90 days. Our AI algorithms for survival and waitlist mortality have demonstrated predictive performance better than the currently utilized transplant predictive models.  Based on phase 1 feedback from our customer discovery efforts, we also incorporated additional AI algorithms for predicting organ discard rates and donor organ and recipient organ contours and volume estimates.  Organ discard is a serious problem, and can be as high as 40%, resulting in utilization of limited clinical resources. Sometimes organs are rejected right at the time the offer is made, and other times the organ is rejected when the surgeon visually inspects it. Our organ discard algorithm successfully predicts the probability that a donated organ would not be allocated to a patient recipient.  Accurate organ sizing is also very important to transplant surgeons, especially for liver transplants. The size of the organ donated must not be oversized for the patient that it is being transplanted in, but surgeons don?t have quick and accurate tools to help with these calculations. To address this need, the InformAI team developed a neural network algorithm that auto segments liver and kidney volumes from 3D CT scans to view organ contours and estimate organ volumes (see accompanying figure).  To bring together the data insights from our multiple AI algorithms, the InformAI team developed a protype of a transplant surgeon dashboard to display the predictive analytics in an integrated and efficient manner.  The transplantation ecosystem is focused on timely allocation of donor organs to waitlisted patients. Tools that assist transplant surgeons in the patient-organ match process have the potential to reduce organ wait time, reduce organ discard rates and optimize the overall organ transplant process. Our Phase 1 project demonstrated the viability of integrating transplant data insights to assist transplant surgeon in optimizing the matching of donor organs with patient recipients waiting for kidney and liver transplants.          Last Modified: 11/18/2021       Submitted by: Jim Havelka]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

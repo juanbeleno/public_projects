@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Assessing the Impact on Operational Mobile Networks in the Face of COVID-19 Public Health Crisis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project proposes to measure and diagnose performance and reliability of the national 4G/4.5G mobile networks in face of COVID-19 pandemic. The objective is to meet the immediate need of assessing operational mobile networks, unveiling technical issues, understanding their pressing challenges, and proposing remedies without major infrastructure upgrade during this public health crisis. &lt;br/&gt;&lt;br/&gt;The project exploits a novel on-device measurement approach. It leverages extensive efforts in building software tools and conducting large-scale measurement in the recent years to conduct five thrusts. First, it plans to conduct a longitudinal study to quantify how performance of US carrier networks change in face of COVID-19 and analyze why behind the pressing technical challenges. Second, it plans to design and assess data-driven device-side solutions to boost data performance without any infrastructure upgrade. Third, it plans to characterize and diagnose failures which likely occur more often during this period of time. Forth, it plans to assess security issues disclosed in prior studies and examine how possible attacks vary. Fifth, it plans to open up data and facilitate researchers in the community to empower long-term network innovations.&lt;br/&gt;&lt;br/&gt;The project will help assess the mobile users' experience during the COVID-19 pandemic. In the long term, open datasets collected and released by this project will empower data-driven software solutions to efficiently utilize enhanced network capabilities and accelerate 5G innovations in mobile network research community.&lt;br/&gt;&lt;br/&gt;The software tools and collected data will be available at http://milab.cs.purdue.edu/. The repository will be maintained for at least five years.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027650</AwardID>
+<Investigator>
+<FirstName>Chunyi</FirstName>
+<LastName>Peng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chunyi Peng</PI_FULL_NAME>
+<EmailAddress><![CDATA[chunyi@purdue.edu]]></EmailAddress>
+<NSF_ID>000652380</NSF_ID>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 NORTHWESTERN AVE STE 1900</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette,</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479072107</ZipCode>
+<StreetAddress><![CDATA[305 N. University Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this project, we have conducted a lab-scale study to measure, diagnose, and improve performance of our national 4G/5G mobile networks in face of the COVID-19 pandemic. The sudden COVID-19 outbreak in the US and the world raised our big concerns on our national critical infrastructure for the Internet. Tens of millions of Americans had to work from home and live on the Internet, likely straining our operational mobile network infrastructure. Our objective is to unveil technical issues, diagnose their root causes, and propose remedies (without major infrastructure upgrade) for the operational mobile networks during this health crisis. We expect to meet the immediate needs during this period and the long-term goals for 5G innovations in the future.</p> <p>&nbsp;</p> <p>We summarize our main outcomes in two aspects.</p> <p>&nbsp;</p> <p><strong>Intellectual Merit: </strong>We have conducted extensive on-device experiments to assess mobile broadband performance, availability and reliability over US carrier networks (AT&amp;T, Verizon and T-Mobile). We have leveraged our developed tools of MobileInsight and MI-LAB, as well as large datasets collected by us in the past years. Our results have revealed a glimpse of mobile broadband performance of US carrier networks in face of the COVID-19 crisis. We are glad to see that network performance does not degrade during this period. &nbsp;Actually, our national mobile networks work well in the face of this public health crisis. This is partly because US carriers overprovision and network capacities are able to accommodate the increasing demands; It is also partly because of 5G rollout during this pandemic. US carriers do not slow down their 5G rollout except a short pause during the lockdown in Mid 2020. Our measurement studies have also confirmed and deepened our understanding in missing significant performance potentials in operational mobile networks, which was first revealed in our prior study in 4.5G networks but continues to exist in 4.5G/5G networks nowadays. We have explored data-empowered solutions to improve data speeds without upgrading network infrastructure. Our results have partly appeared in three publications at MobiCom'20, MobiCom'21 and ICNP'21.</p> <p>&nbsp;</p> <p><strong>Broader Impacts: </strong>The proposed solutions can improve mobile broadband speed and user experience with heavy mobile Internet traffic, without physical upgrades of operational 4G/5G networks. Datasets and software tools have been released to the public for reproduction and follows-up. Specifically, we have added more than 21K experiments (more than 3TB data) in this project. All the newly collected datasets have been still released at MI-LAB at <a href="http://milab.cs.purdue.edu/">http://milab.cs.purdue.edu/</a>. Such datasets can be used to help third-party research groups, companies and starts-up to conduct activities out of their interests, develop products and publish papers at networking, security and machine learning conferences. Last but not the least, this project helps training undergrad and graduate students in information and communication technology, through the curriculum development, graduate/undergraduate advising, independent studies and online material dissemination.</p> <p>&nbsp;</p><br> <p>            Last Modified: 11/13/2021<br>      Modified by: Chunyi&nbsp;Peng</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ In this project, we have conducted a lab-scale study to measure, diagnose, and improve performance of our national 4G/5G mobile networks in face of the COVID-19 pandemic. The sudden COVID-19 outbreak in the US and the world raised our big concerns on our national critical infrastructure for the Internet. Tens of millions of Americans had to work from home and live on the Internet, likely straining our operational mobile network infrastructure. Our objective is to unveil technical issues, diagnose their root causes, and propose remedies (without major infrastructure upgrade) for the operational mobile networks during this health crisis. We expect to meet the immediate needs during this period and the long-term goals for 5G innovations in the future.     We summarize our main outcomes in two aspects.     Intellectual Merit: We have conducted extensive on-device experiments to assess mobile broadband performance, availability and reliability over US carrier networks (AT&amp;T, Verizon and T-Mobile). We have leveraged our developed tools of MobileInsight and MI-LAB, as well as large datasets collected by us in the past years. Our results have revealed a glimpse of mobile broadband performance of US carrier networks in face of the COVID-19 crisis. We are glad to see that network performance does not degrade during this period.  Actually, our national mobile networks work well in the face of this public health crisis. This is partly because US carriers overprovision and network capacities are able to accommodate the increasing demands; It is also partly because of 5G rollout during this pandemic. US carriers do not slow down their 5G rollout except a short pause during the lockdown in Mid 2020. Our measurement studies have also confirmed and deepened our understanding in missing significant performance potentials in operational mobile networks, which was first revealed in our prior study in 4.5G networks but continues to exist in 4.5G/5G networks nowadays. We have explored data-empowered solutions to improve data speeds without upgrading network infrastructure. Our results have partly appeared in three publications at MobiCom'20, MobiCom'21 and ICNP'21.     Broader Impacts: The proposed solutions can improve mobile broadband speed and user experience with heavy mobile Internet traffic, without physical upgrades of operational 4G/5G networks. Datasets and software tools have been released to the public for reproduction and follows-up. Specifically, we have added more than 21K experiments (more than 3TB data) in this project. All the newly collected datasets have been still released at MI-LAB at http://milab.cs.purdue.edu/. Such datasets can be used to help third-party research groups, companies and starts-up to conduct activities out of their interests, develop products and publish papers at networking, security and machine learning conferences. Last but not the least, this project helps training undergrad and graduate students in information and communication technology, through the curriculum development, graduate/undergraduate advising, independent studies and online material dissemination.          Last Modified: 11/13/2021       Submitted by: Chunyi Peng]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

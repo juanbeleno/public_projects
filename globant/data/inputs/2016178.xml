@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CSR: Small: A Just-in-Time, Cross-Layer Instrumentation Framework for Diagnosing Performance Problems in Distributed Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>397906.00</AwardTotalIntnAmount>
+<AwardAmount>397906</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jason Hallstrom</SignBlockName>
+<PO_EMAI>jhallstr@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Distributed applications running in data centers are critical to society (e.g., for shopping, banking).  Engineers must diagnose and fix problems observed in data centers quickly; however, doing so is extremely challenging.  A significant hurdle is that engineers must spend significant time and effort exploring what instrumentation (e.g., log messages about specific application behaviors) is needed to provide visibility into a new problem.  To assist in this front, this project will develop an instrumentation framework that, in response to a new problem, will automatically search the space of possible instrumentation choices and enable the instrumentation needed to provide insight into it.&lt;br/&gt;&lt;br/&gt;This project addresses fundamental challenges associated with creating an automatic instrumentation framework: (a) What algorithms and heuristics are suited for automatically and efficiently exploring the instrumentation search space?  (b) What architectural support is needed within the framework to enable automatic exploration?  (c) How can the search space be explored without significantly impacting application performance?  The proposal will explore the utility of algorithms based on operator knowledge, statistics, and machine learning to explore the search space.  It will build on end-to-end tracing, as this will enable the framework to work for problems that affect different sets of requests.&lt;br/&gt;&lt;br/&gt;This project will inform the architecture of next-generation instrumentation frameworks, which are needed to keep pace with the ever-increasing complexity of distributed applications.  The critical issues identified in popular open-source distributed applications while evaluating the framework will improve their robustness.  Researchers will be able to leverage the software artifacts released by this project to create novel distributed-application-management tools that leverage the framework's unique capabilities.  They will be able to deploy the framework in research clouds to obtain valuable workload traces from them.  The project will generate course modules on diagnosis practices for distributed applications.&lt;br/&gt;&lt;br/&gt;The artifacts produced by this project, including framework source code, workload traces, instrumented applications, and research results, will be freely disseminated online at: https://massopen.cloud and https://www.rajasambasivan.com.   All software artifacts will be stored in Github as well.  All artifacts will be available for a minimum of seven years from the start of the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016178</AwardID>
+<Investigator>
+<FirstName>Raja</FirstName>
+<LastName>Sambasivan</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Raja R Sambasivan</PI_FULL_NAME>
+<EmailAddress><![CDATA[raja@cs.tufts.edu]]></EmailAddress>
+<NSF_ID>000762158</NSF_ID>
+<StartDate>01/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tufts University</Name>
+<CityName>SOMERVILLE</CityName>
+<ZipCode>021442401</ZipCode>
+<PhoneNumber>6176273696</PhoneNumber>
+<StreetAddress>169 HOLLAND ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WL9FLBRVPJJ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF TUFTS COLLEGE INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>S6ZWCYHRQQB3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Tufts University]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021111817</ZipCode>
+<StreetAddress><![CDATA[136 Harrison Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~397906</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Society relies on distributed applications for all aspects of modern society. For example, we rely on them to shop (Amazon), collaborate at work (Google Docs), and watch movies (Netflix). So, performance problems in these applications must be diagnosed and fixed quickly. Today, developers use logs---i.e., printouts inserted into distributed applications codebases---to diagnose problems. But, it is difficult to know<em>&nbsp;a priori&nbsp;</em>where logs must be inserted in the codebase to diagnose future problems. Instrumenting all areas of distributed applications to obtain very fine-grained logs is infeasible due to the resulting overheads. As a result of these issues, developers spend time-consuming cycles exploring whether existing logs are sufficient to provide visibility into a new problem, finding that they aren?t, and then exploring where additional logs are needed.&nbsp; Only when developers have gained sufficient visibility can they diagnose &amp; fix the problem.</p> <p>This project explored the research question:&nbsp;<em>Is it possible to create an instrumentation framework that automatically explores where logs must be enabled in a distributed application to localize---i.e., identify areas of the codebase most affected by---newly-observed runtime performance problems?&nbsp;&nbsp;</em>We hypothesized that two observations would enable such a framework.&nbsp;&nbsp;</p> <p>The first observation is that in many distributed applications, requests that have similar workflows---i.e., are processed similarly within and among the application nodes---should perform similarly. If they do not perform similarly---i.e., they exhibit high response-time variance---there is something unknown that differentiates their workflows. This unknown behavior may be performance problems, such as slow functions, resource contention, or load imbalances. For example, there is a common expectation that requests that retrieve file attributes in a distributed storage system should perform similarly because the same basic processing is involved for all of them. RetrieveAttribute requests that do not perform similarly may indicate problems, such as problematic hash tables that suffer from increased collisions for some file keys or lock contention that results in some requests being slow. &nbsp;</p> <p>The second observation is the power of&nbsp;<em>workflow graphs</em>&nbsp;that show: 1) the order of log statements executed by individual requests and 2) latencies incurred between log executions. Using the first insight, if groups of requests with identical workflow graphs exhibit high response-time variance, we can conclude that the log statements they execute are insufficient to differentiate their workflows. Identifying edges of the graphs that contribute most to response-time variance gives insight into where in the codebase additional log statements are needed to differentiate them. Of course, some problems may manifest as groups with consistently-slow response times instead of high variance. For these groups, identifying high-latency edges of their graphs provides insight into where additional logs are needed to provide additional resolution.&nbsp; &nbsp;</p> <p><strong>Intellectual merit:&nbsp;</strong>We developed VAIF, an instrumentation framework that builds on the above insights. When developers notice certain requests are slow, they initialize VAIF to explore what log statements are needed to localize code areas most affected by them. VAIF starts by creating workflow graphs using a set of logs that developers have chosen to be always on. It then operates in a continuous cycle. It 1) groups together identical workflow graphs collected for the problematic requests; 2) identifies groups that exhibit high response-time variance or consistently-slow behavior; 3) locates areas in the groups' graphs that contribute most to variance or latency; 5) uses simple strategies to chose which log statements are needed in those areas; 5) inserts or enables them either via dynamic instrumentation or control signals sent to disabled log statements.&nbsp; This loop continues until all groups exhibit low response-time variance or no more logs can be enabled in high-variance or high-latency areas.&nbsp;&nbsp;</p> <p>We showed that VAIF can constructed by&nbsp;<em>building on existing widely-available distributed-tracing infrastructures.&nbsp;&nbsp;</em>These infrastructures provide the infrastructure needed to capture graphs of request workflows using logging points (called trace points).&nbsp;</p> <p>We demonstrated VAIF?s efficacy in diagnosing seven real performance problems in popular open-source distributed applications: OpenStack, HDFS, and DeathStarBench. For all of them, VAIF successfully localized areas of the codebase most affected by the problem while only enabling 3-34% of the instrumentation that would be enabled using their default tracing infrastructures. We discovered many of these problems w/o a priori knowledge of their existence. Work on VAIF resulted in five conference papers on top systems conferences and journals, five posters, and five talks at academic and industrial conferences.</p> <p><strong>Broader impacts</strong>: This project in-part funded the training of five PhD students and has (or will) constitute a significant portion of two dissertations. Two Master&rsquo;s students and three undergraduates completed projects or theses related to VAIF. Insights from VAIF informed projects in a course that provides research experience to undergraduates and projects for six-high school students. VAIF has drawn interest from the open-source distributed-tracing community, and its source code is publicly available at: https://github.com/docc-lab/pythia.</p> <p>&nbsp;</p><br> <p>            Last Modified: 02/18/2023<br>      Modified by: Raja&nbsp;R&nbsp;Sambasivan</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2016178/2016178_10565387_1676575910238_fig_staif_design--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2016178/2016178_10565387_1676575910238_fig_staif_design--rgov-800width.jpg" title="VAIF's architecture"><img src="/por/images/Reports/POR/2023/2016178/2016178_10565387_1676575910238_fig_staif_design--rgov-66x44.jpg" alt="VAIF's architecture"></a> <div class="imageCaptionContainer"> <div class="imageCaption">VAIF includes a control & data plane.  The former consists of logic that chooses which log points to enable and supporting elements.  The latter consists of a distributed application instrumented with distributed tracing.  The tracing system is modified to allow log points to be enabled/disabled.</div> <div class="imageCredit">Darby Huye, Mert Toslali, and Raja Sambasivan</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Raja&nbsp;R&nbsp;Sambasivan</div> <div class="imageTitle">VAIF's architecture</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2016178/2016178_10565387_1676569578223_fig_end_to_end_trace_modified--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2016178/2016178_10565387_1676569578223_fig_end_to_end_trace_modified--rgov-800width.jpg" title="Two example request workflows"><img src="/por/images/Reports/POR/2023/2016178/2016178_10565387_1676569578223_fig_end_to_end_trace_modified--rgov-66x44.jpg" alt="Two example request workflows"></a> <div class="imageCaptionContainer"> <div class="imageCaption">he first request�s workflow involves retrieving data from a cache within the table-store client�s cache.  The second request�s workflow involves retrieving data from a backing storage system.  Ovals represent work done within nodes for requests, which may or not be recorded by logs.</div> <div class="imageCredit">Ilari Shafer and Raja Sambasivan</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Raja&nbsp;R&nbsp;Sambasivan</div> <div class="imageTitle">Two example request workflows</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Society relies on distributed applications for all aspects of modern society. For example, we rely on them to shop (Amazon), collaborate at work (Google Docs), and watch movies (Netflix). So, performance problems in these applications must be diagnosed and fixed quickly. Today, developers use logs---i.e., printouts inserted into distributed applications codebases---to diagnose problems. But, it is difficult to know a priori where logs must be inserted in the codebase to diagnose future problems. Instrumenting all areas of distributed applications to obtain very fine-grained logs is infeasible due to the resulting overheads. As a result of these issues, developers spend time-consuming cycles exploring whether existing logs are sufficient to provide visibility into a new problem, finding that they aren?t, and then exploring where additional logs are needed.  Only when developers have gained sufficient visibility can they diagnose &amp; fix the problem.  This project explored the research question: Is it possible to create an instrumentation framework that automatically explores where logs must be enabled in a distributed application to localize---i.e., identify areas of the codebase most affected by---newly-observed runtime performance problems?  We hypothesized that two observations would enable such a framework.    The first observation is that in many distributed applications, requests that have similar workflows---i.e., are processed similarly within and among the application nodes---should perform similarly. If they do not perform similarly---i.e., they exhibit high response-time variance---there is something unknown that differentiates their workflows. This unknown behavior may be performance problems, such as slow functions, resource contention, or load imbalances. For example, there is a common expectation that requests that retrieve file attributes in a distributed storage system should perform similarly because the same basic processing is involved for all of them. RetrieveAttribute requests that do not perform similarly may indicate problems, such as problematic hash tables that suffer from increased collisions for some file keys or lock contention that results in some requests being slow.    The second observation is the power of workflow graphs that show: 1) the order of log statements executed by individual requests and 2) latencies incurred between log executions. Using the first insight, if groups of requests with identical workflow graphs exhibit high response-time variance, we can conclude that the log statements they execute are insufficient to differentiate their workflows. Identifying edges of the graphs that contribute most to response-time variance gives insight into where in the codebase additional log statements are needed to differentiate them. Of course, some problems may manifest as groups with consistently-slow response times instead of high variance. For these groups, identifying high-latency edges of their graphs provides insight into where additional logs are needed to provide additional resolution.     Intellectual merit: We developed VAIF, an instrumentation framework that builds on the above insights. When developers notice certain requests are slow, they initialize VAIF to explore what log statements are needed to localize code areas most affected by them. VAIF starts by creating workflow graphs using a set of logs that developers have chosen to be always on. It then operates in a continuous cycle. It 1) groups together identical workflow graphs collected for the problematic requests; 2) identifies groups that exhibit high response-time variance or consistently-slow behavior; 3) locates areas in the groups' graphs that contribute most to variance or latency; 5) uses simple strategies to chose which log statements are needed in those areas; 5) inserts or enables them either via dynamic instrumentation or control signals sent to disabled log statements.  This loop continues until all groups exhibit low response-time variance or no more logs can be enabled in high-variance or high-latency areas.    We showed that VAIF can constructed by building on existing widely-available distributed-tracing infrastructures.  These infrastructures provide the infrastructure needed to capture graphs of request workflows using logging points (called trace points).   We demonstrated VAIF?s efficacy in diagnosing seven real performance problems in popular open-source distributed applications: OpenStack, HDFS, and DeathStarBench. For all of them, VAIF successfully localized areas of the codebase most affected by the problem while only enabling 3-34% of the instrumentation that would be enabled using their default tracing infrastructures. We discovered many of these problems w/o a priori knowledge of their existence. Work on VAIF resulted in five conference papers on top systems conferences and journals, five posters, and five talks at academic and industrial conferences.  Broader impacts: This project in-part funded the training of five PhD students and has (or will) constitute a significant portion of two dissertations. Two Master’s students and three undergraduates completed projects or theses related to VAIF. Insights from VAIF informed projects in a course that provides research experience to undergraduates and projects for six-high school students. VAIF has drawn interest from the open-source distributed-tracing community, and its source code is publicly available at: https://github.com/docc-lab/pythia.          Last Modified: 02/18/2023       Submitted by: Raja R Sambasivan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

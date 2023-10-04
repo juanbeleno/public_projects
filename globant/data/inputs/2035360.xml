@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative Research: Mitigation and Suppression of Coronavirus Pandemic with Data-driven RAPID Decisions Using COVID-19 Simulator]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>92030.00</AwardTotalIntnAmount>
+<AwardAmount>92030</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+<PO_EMAI>kdittmar@nsf.gov</PO_EMAI>
+<PO_PHON>7032927799</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Coronavirus disease 2019 (COVID-19), a global pandemic, has affected every sector of human life. While our understanding of the spread of COVID-19 is still evolving, policymakers need to make strategic decisions amidst this uncertainty to mitigate the pandemic. Appropriate policy decisions can reduce morbidity, mortality, and damage to the healthcare system. This study will estimate the underlying prevalence of COVID-19 at the county level and project future trajectories of COVID-19 under various sequences of non-pharmaceutical and pharmaceutical interventions. In addition, these new estimations and projections will be incorporated into our existing online COVID-19 Simulator (www.covid19sim.org) to inform county-level decisions. In addition, the COVID-19 Simulator will detect early signs of community-level COVID-19 outbreaks and predict hotspots in different jurisdictions. From a societal perspective, this research will improve our understanding of COVID-19 transmission and inform policies to mitigate the spread of the virus, ultimately leading to a reduction in COVID-19 disease burden.&lt;br/&gt;&lt;br/&gt;This research will use epidemiological and operations research modeling approaches to simulate the spread of COVID-19 at the county level and the effects of different interventions on mitigation of COVID-19. In addition, causal decision tree and mixed-integer programing-based machine learning algorithms will be used to identify county level hotspots of transmission. The proposed research will not only inform key decisions with important public health implications, but also contribute to intellectual merits, including 1) linking and using various datasets in near real-time to improve our understanding of disease epidemiology, 2) estimating the underlying prevalence of COVID-19 and projecting future trajectories under various interventions, 3) developing innovative approaches for real time parameter estimations,  model calibrations, and projections, and (4) detecting early signs of community-level COVID-19 outbreaks using epidemiological, statistical and machine learning based modeling techniques.&lt;br/&gt;&lt;br/&gt;This RAPID award is made by the Ecology and Evolution of Infectious Diseases Program in the Division of Environmental Biology, using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035360</AwardID>
+<Investigator>
+<FirstName>Turgay</FirstName>
+<LastName>Ayer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Turgay Ayer</PI_FULL_NAME>
+<EmailAddress><![CDATA[turgay.ayer@isye.gatech.edu]]></EmailAddress>
+<NSF_ID>000616067</NSF_ID>
+<StartDate>06/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~92030</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>To address several time-sensitive policy decisions at the state and national levels, we have developed an interactive online COVID-19 policy simulation model. Our COVID-19 Simulator (<a href="http://www.covid19sim.org/">www.covid19sim.org</a>&nbsp;) utilizes the best available evidence and state-of-the-art epidemiological, statistical, and machine learning modeling approaches and is updated frequently as new data and evidence arises. COVID-19 simulator mimicked the spread of COVID-19 and the effects of different interventions on the mitigation of COVID-19. In addition, causal decision tree and mixed-integer programming-based machine learning algorithms have been utilized to identify county-level hotspots of transmission.</p> <p>&nbsp;</p> <p>The intellectual merits of this project included: 1) linking and using various datasets in near real-time to improve our understanding of disease epidemiology, 2) estimating the underlying prevalence of COVID-19 and projecting future trajectories under various interventions, 3) developing innovative approaches for real-time parameter estimations,&nbsp; model calibrations, and projections, and (4) detecting early signs of community-level COVID-19 outbreaks using epidemiological, statistical and machine learning-based modeling techniques.</p> <p>&nbsp;</p> <p>Our key findings were: 1)&nbsp; substantial temporal variation existed in the spread of COVID-19 across the U.S. Census divisions. For example, by December 15, 2020, just before COVID-19 vaccines became available, seroprevalence ranged from 3.9% (Maine) to 39.7% (New Jersey), with 13 states having a SARS-CoV-2 seroprevalence above 20%. As of March 31, 2021, twenty-two states had achieved COVID-19 immunity greater than 50%. However, only 19.2?31.5% (mean: 25.7%) of their populations have received at least one vaccine dose. 2)&nbsp; We further estimated the seroprevalence of SARS-CoV-2 in 823 U.S. colleges and universities to inform their safe opening and fe found that almost all colleges can safely open in August 2021?with 100% in-person classes. 3) We found that NFL and NCAA football games hosted with limited in-person attendance were not associated with substantial risk for local COVID-19 cases.</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/01/2022<br>      Modified by: Turgay&nbsp;Ayer</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ To address several time-sensitive policy decisions at the state and national levels, we have developed an interactive online COVID-19 policy simulation model. Our COVID-19 Simulator (www.covid19sim.org ) utilizes the best available evidence and state-of-the-art epidemiological, statistical, and machine learning modeling approaches and is updated frequently as new data and evidence arises. COVID-19 simulator mimicked the spread of COVID-19 and the effects of different interventions on the mitigation of COVID-19. In addition, causal decision tree and mixed-integer programming-based machine learning algorithms have been utilized to identify county-level hotspots of transmission.     The intellectual merits of this project included: 1) linking and using various datasets in near real-time to improve our understanding of disease epidemiology, 2) estimating the underlying prevalence of COVID-19 and projecting future trajectories under various interventions, 3) developing innovative approaches for real-time parameter estimations,  model calibrations, and projections, and (4) detecting early signs of community-level COVID-19 outbreaks using epidemiological, statistical and machine learning-based modeling techniques.     Our key findings were: 1)  substantial temporal variation existed in the spread of COVID-19 across the U.S. Census divisions. For example, by December 15, 2020, just before COVID-19 vaccines became available, seroprevalence ranged from 3.9% (Maine) to 39.7% (New Jersey), with 13 states having a SARS-CoV-2 seroprevalence above 20%. As of March 31, 2021, twenty-two states had achieved COVID-19 immunity greater than 50%. However, only 19.2?31.5% (mean: 25.7%) of their populations have received at least one vaccine dose. 2)  We further estimated the seroprevalence of SARS-CoV-2 in 823 U.S. colleges and universities to inform their safe opening and fe found that almost all colleges can safely open in August 2021?with 100% in-person classes. 3) We found that NFL and NCAA football games hosted with limited in-person attendance were not associated with substantial risk for local COVID-19 cases.          Last Modified: 12/01/2022       Submitted by: Turgay Ayer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

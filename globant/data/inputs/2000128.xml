@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Numerical Methods for Optimal Transport with Applications to Manifold Learning on Singular Spaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>180000.00</AwardTotalIntnAmount>
+<AwardAmount>180000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+<PO_EMAI>mbocea@nsf.gov</PO_EMAI>
+<PO_PHON>7032922595</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Optimal transport concerns the classical question of how to optimize the cost of transporting mass from one location to another. Optimal transport models have been successfully applied in fields as diverse as atmospheric sciences, surface matching, data clustering, and manifold learning, among others. The theoretical study of optimal transport has greatly advanced in recent years and calls for improved numerical tools that can be mathematically guaranteed to have good performance. This project is aimed at the development of improved numerical methods for optimal transport calculations and variants, employing partial-differential-equation techniques to produce computational tools backed by rigorous theory. The project provides research training opportunities for undergraduate and graduate students. The PI will also engage in outreach by supervising an undergraduate team through the university's Summer Undergraduate Research Institute in Experimental Mathematics program, aimed at students who are at an earlier stage of study, with an eye toward recruitment of students from groups underrepresented in the mathematical sciences. &lt;br/&gt; &lt;br/&gt;Specifically, the project aims to exploit the geometric information that can be discerned from the regularity theory of the Monge-Ampère type equation that arises naturally in optimal transport, in order to develop numerical algorithms with proven convergence rates, error bounds, and computational complexity. The project will also undertake a systematic study of singular behavior when full regularity is unavailable to develop fast and accurate numerical schemes in such difficult cases. One intended application of this latter direction is toward a theory of manifold learning that can be applied to data sets coming from singular geometries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2000128</AwardID>
+<Investigator>
+<FirstName>Jun</FirstName>
+<LastName>Kitagawa</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jun Kitagawa</PI_FULL_NAME>
+<EmailAddress><![CDATA[jun@msu.edu]]></EmailAddress>
+<NSF_ID>000705090</NSF_ID>
+<StartDate>06/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>426 AUDITORIUM RD RM 2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>East Lansing</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488241096</ZipCode>
+<StreetAddress><![CDATA[426 Administration Bldg, Rm2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~180000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project involved education, mentoring, and research related to the quantitative and qualitative behavior of the optimal transport problem and its variants, and the development of numerical algorithms to approximate solutions of these problems. The products generated include 7 papers, 6 of which are accepted/published in peer-reviewed journals, and 1 in submission to a journal as of this report.<br />The research conducted in this project led to a better understanding of quantitative behavior of the semi-discrete optimal transport problem and some of its variants, and regularity results for the partial differential equations governing the problem in the continuous case. These problems have applications to logistical problems, including shipping and urban design.&nbsp; The PI's research also involved developing computational methods for these problems, which are both efficient and come with theoretical guarantees of performance. These results have been very widely disseminated at meetings, seminars, intensive minischools, and conferences in the United States and internationally. Due to lingering restrictions from Covid-19, a number of presentations were made online.<br />Broader impacts included student advising and research mentoring by the PI at both undergraduate and graduate levels. The PI mentored one undergraduate student through research projects. During the period of the grant, the student successfully finished their undergraduate degree and began a Ph.D. program in mathematics at another institution. The PI also co-supervised a team of three undergraduate students in a summer Research Experience for Undergraduates problem, which lead to a publication by the group. The co-supervision was with a former postdoctoral mentee of the PI, which provided growth opportunities for the former mentee as well. The grant also supported participation of one student in this summer program.<br />The PI also served as advisor for two Ph.D. students in mathematics. Both graduate students successfully finished their Ph.D.s during the support period, and subsequently continued on to academic positions.</p><br> <p>            Last Modified: 07/10/2023<br>      Modified by: Jun&nbsp;Kitagawa</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project involved education, mentoring, and research related to the quantitative and qualitative behavior of the optimal transport problem and its variants, and the development of numerical algorithms to approximate solutions of these problems. The products generated include 7 papers, 6 of which are accepted/published in peer-reviewed journals, and 1 in submission to a journal as of this report. The research conducted in this project led to a better understanding of quantitative behavior of the semi-discrete optimal transport problem and some of its variants, and regularity results for the partial differential equations governing the problem in the continuous case. These problems have applications to logistical problems, including shipping and urban design.  The PI's research also involved developing computational methods for these problems, which are both efficient and come with theoretical guarantees of performance. These results have been very widely disseminated at meetings, seminars, intensive minischools, and conferences in the United States and internationally. Due to lingering restrictions from Covid-19, a number of presentations were made online. Broader impacts included student advising and research mentoring by the PI at both undergraduate and graduate levels. The PI mentored one undergraduate student through research projects. During the period of the grant, the student successfully finished their undergraduate degree and began a Ph.D. program in mathematics at another institution. The PI also co-supervised a team of three undergraduate students in a summer Research Experience for Undergraduates problem, which lead to a publication by the group. The co-supervision was with a former postdoctoral mentee of the PI, which provided growth opportunities for the former mentee as well. The grant also supported participation of one student in this summer program. The PI also served as advisor for two Ph.D. students in mathematics. Both graduate students successfully finished their Ph.D.s during the support period, and subsequently continued on to academic positions.       Last Modified: 07/10/2023       Submitted by: Jun Kitagawa]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

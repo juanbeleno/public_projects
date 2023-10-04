@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Drone Control in Turbulence via Reinforcement Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2022</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255882.00</AwardTotalIntnAmount>
+<AwardAmount>255882</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to improve drone control. Current controllers are effective in specific environments but perform poorly in environments and flight conditions such as turbulence, thereby narrowing the scope in which drones can be used.  This project will advance a plug-and-play solution in which users can focus on higher-level tasks specific to their use case, like obstacle avoidance and route planning. This new controller has broad applications in both commercial and military settings: it enables stable flight across a wide array of environments, expands the flight envelope in turbulent conditions, and allows for longer missions due to increased control efficiency.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project addresses the problem of drone control in turbulence through the development of a reinforcement learning-based flight controller. The project will enlarge the design envelope for quadcopters as well as provide a system and environment for testing reinforcement learning algorithms that can be applied to other control problems. Contemporary systems rely on Proportional Integrative Derivative (PID) controllers as an essential part of stable flight. These PID controllers rely on holistically tuned, static functions to convert maneuvering commands into voltage changes across drone motors to meet the rotor’s targeted rotation speed. In lieu of statically defined PID equations, this novel controller uses a reinforcement learning algorithm, which is a subset of machine learning where an agent is trained to select actions that maximize a reward across an environment. This technique has led to greater-than-human performance across a variety of different control and game theory tasks, but little is known about how these techniques fare when replacing PID control systems. The primary advantage the development of a reinforcement learning controller would have over simpler PID controllers is the ability for the user to view drone control at a higher level of abstraction, thus mitigating the need to focus on the minutiae of flight control for complex missions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/11/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037836</AwardID>
+<Investigator>
+<FirstName>Ben</FirstName>
+<LastName>Hightower</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ben Hightower</PI_FULL_NAME>
+<EmailAddress><![CDATA[benhightower@gmail.com]]></EmailAddress>
+<NSF_ID>000815555</NSF_ID>
+<StartDate>06/11/2021</StartDate>
+<EndDate>10/14/2021</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anish</FirstName>
+<LastName>Sambamurthy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anish Sambamurthy</PI_FULL_NAME>
+<EmailAddress><![CDATA[anish.sambamurthy@gmail.com]]></EmailAddress>
+<NSF_ID>000865042</NSF_ID>
+<StartDate>10/14/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>AIFLY VENTURES</Name>
+<CityName>SARATOGA</CityName>
+<ZipCode>950703333</ZipCode>
+<PhoneNumber>4088248539</PhoneNumber>
+<StreetAddress>19745 NORTHAMPTON DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E18ZPWTRKL89</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AIFLY VENTURES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[AIFLY VENTURES]]></Name>
+<CityName>SARATOGA</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950703333</ZipCode>
+<StreetAddress><![CDATA[19745 NORTHAMPTON DR]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255882</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-8d9106c1-7fff-c874-f224-e9739bdfb768"> </span></p> <p dir="ltr"><span>Throughout the course of Phase I, our results show that reinforcement learning is a promising approach for improving drone control in turbulent conditions. The controller enabled drones to fly in wind conditions that were up to 2 times stronger than those handled by baseline controllers and had no convergence issues during training. This is a significant achievement as it demonstrates the ability of reinforcement learning to enhance the robustness and performance of drone control systems in challenging environments and can open up expanded opportunities for drone usage.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Transfer of the learned policies to physical drones enables the use of empirical data collection to further improve the simulation fidelity. The use of physical drones allow us to test the robustness of the learned policies and gather data that can be used to improve the simulation. This also allows expansion of the scope of flight conditions simulated and enables tests of robustness in a variety of real-world scenarios.</span></p> <p>&nbsp;</p> <p dir="ltr"><span>These results demonstrate the potential for reinforcement learning to have a significant impact on the drone industry. The ability to fly in stronger winds and adapt to changing conditions can open up new opportunities for drone usage in various industries. The use of reinforcement learning can enhance the robustness and performance of drone control systems in challenging environments, and allows for the drone to continuously learn and adapt to changing conditions. Additionally, the next step of transferring the learned policies to physical drones and gathering data to improve the simulation will require further funding and resources. An enormous amount of data needs to be collected to train the models effectively, and collecting that data is costly, as it requires the use of physical drones and the necessary equipment to gather and process the data.</span></p><br> <p>            Last Modified: 01/14/2023<br>      Modified by: Anish&nbsp;Sambamurthy</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Throughout the course of Phase I, our results show that reinforcement learning is a promising approach for improving drone control in turbulent conditions. The controller enabled drones to fly in wind conditions that were up to 2 times stronger than those handled by baseline controllers and had no convergence issues during training. This is a significant achievement as it demonstrates the ability of reinforcement learning to enhance the robustness and performance of drone control systems in challenging environments and can open up expanded opportunities for drone usage.    Transfer of the learned policies to physical drones enables the use of empirical data collection to further improve the simulation fidelity. The use of physical drones allow us to test the robustness of the learned policies and gather data that can be used to improve the simulation. This also allows expansion of the scope of flight conditions simulated and enables tests of robustness in a variety of real-world scenarios.    These results demonstrate the potential for reinforcement learning to have a significant impact on the drone industry. The ability to fly in stronger winds and adapt to changing conditions can open up new opportunities for drone usage in various industries. The use of reinforcement learning can enhance the robustness and performance of drone control systems in challenging environments, and allows for the drone to continuously learn and adapt to changing conditions. Additionally, the next step of transferring the learned policies to physical drones and gathering data to improve the simulation will require further funding and resources. An enormous amount of data needs to be collected to train the models effectively, and collecting that data is costly, as it requires the use of physical drones and the necessary equipment to gather and process the data.       Last Modified: 01/14/2023       Submitted by: Anish Sambamurthy]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

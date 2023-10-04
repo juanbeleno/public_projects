@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Models to predict soil and plant water status from continuous in-plant measurements]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255544.00</AwardTotalIntnAmount>
+<AwardAmount>255544</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to help fruit and tree nut growers minimize environmental impacts and improve profitability. This project will use data from implantable microchip sensors that directly measure tree hydration to develop precision models of tree and vine needs for water. These models require no hardware installation and are packaged in a user-friendly format. They will automatically provide growers with affordable advice tailored to their field and crop, enabling accurate 24/7 water status data, forecasts, and recommendations for large-scale improvements in irrigation management of tree crops.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project will explore plant health via continuous variation of water status or drought stress within the tissues. This data stream will be used to build dynamical models of plant water stress. The project's technical aims are to: 1) Characterize the spatial (due to plant position in the field) and temporal variations; 2) Develop a framework for iterative development of predictive models of water stress dynamics from the single-plant to the whole-field scale; and 3) Develop a system optimized for industrial modeling of the spatial and temporal dynamics of water across the full orchard or vineyard, diagnostics of high- and low-performing cultivars, irrigation blocks, and decision support to optimize field design and crop management.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026205</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Santiago</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Santiago</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael@florapulse.com]]></EmailAddress>
+<NSF_ID>000730205</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>FloraPulse Co</Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956164740</ZipCode>
+<PhoneNumber>6072329244</PhoneNumber>
+<StreetAddress>720 OLIVE DR</StreetAddress>
+<StreetAddress2><![CDATA[STE E]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PDLSFM7GLZH7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORAPULSE CO.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[FloraPulse Co]]></Name>
+<CityName>Davis</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956184869</ZipCode>
+<StreetAddress><![CDATA[170 Louise Ln]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~255544</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>FloraPulse has developed the world?s only sensor capable of measuring the water status, or ?thirst?, of a single tree accurately and automatically. The data, although accurate, is limited because each sensor only measures one tree and thus it becomes necessary to extrapolate measurements to hundreds of trees to provide guidance to growers for irrigation. Through this NSF-funded project, we gathered FloraPulse water status data across an orchard, along with other information (soil water status, irrigation events, weather, etc.) to better understand how water status varies across a field with varying soil types, how to better extrapolate single-tree measurements into recommendations for growers, and how water status develops over time. We aimed to define how hydraulic conductance across the soil-plant-atmosphere-continuum (SPAC) can explain and predict how tree water status responds to changes in the environment and applied irrigations. This work represents a significant fundamental contribution to the broad area of plant water relations and provides important guidance for next steps in developing guidelines for using FloraPulse data to inform irrigation decisions.</p> <p>We found that water status models based on the way trees transport water from the soil to the atmosphere produced reasonable predictions of water status up to about 3 days into the future. Beyond this point, changes in tree hydraulic conductance causes predictions to diverge from observed behavior. This limitation strongly motivates the exploration of data-driven models to better capture tree behavior and extend the prediction horizon towards that of long-term weather forecasting (10 days or longer).</p> <p>We also found that water status heterogeneity can be modest even across various soil types and management regimes. This work lays a foundation for data-driven predictive models and suggests that sampling water status across a low density of sentinel trees may be enough to guide irrigation decisions for a whole field.</p> <p>Developments built under this award form the foundation for FloraPulse to provide not just single-point measurements of water status, but also accurate predictions of tree water status across large fields and water status forecasts for days to weeks into the future. Growers will greatly benefit from more accurate water status data, at a better price, and irrigation recommendations based on actual and predicted tree water status.</p><br> <p>            Last Modified: 06/14/2022<br>      Modified by: Michael&nbsp;Santiago</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2026205/2026205_10694938_1655253017076_FloraPulsesystem--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2026205/2026205_10694938_1655253017076_FloraPulsesystem--rgov-800width.jpg" title="FloraPulse system"><img src="/por/images/Reports/POR/2022/2026205/2026205_10694938_1655253017076_FloraPulsesystem--rgov-66x44.jpg" alt="FloraPulse system"></a> <div class="imageCaptionContainer"> <div class="imageCaption">FloraPulse system to measure tree water status, including (a) sensor and datalogger hardware, (b) pressure switch and (c) online user interface with irrigation recommendations</div> <div class="imageCredit">FloraPulse</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Michael&nbsp;Santiago</div> <div class="imageTitle">FloraPulse system</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ FloraPulse has developed the world?s only sensor capable of measuring the water status, or ?thirst?, of a single tree accurately and automatically. The data, although accurate, is limited because each sensor only measures one tree and thus it becomes necessary to extrapolate measurements to hundreds of trees to provide guidance to growers for irrigation. Through this NSF-funded project, we gathered FloraPulse water status data across an orchard, along with other information (soil water status, irrigation events, weather, etc.) to better understand how water status varies across a field with varying soil types, how to better extrapolate single-tree measurements into recommendations for growers, and how water status develops over time. We aimed to define how hydraulic conductance across the soil-plant-atmosphere-continuum (SPAC) can explain and predict how tree water status responds to changes in the environment and applied irrigations. This work represents a significant fundamental contribution to the broad area of plant water relations and provides important guidance for next steps in developing guidelines for using FloraPulse data to inform irrigation decisions.  We found that water status models based on the way trees transport water from the soil to the atmosphere produced reasonable predictions of water status up to about 3 days into the future. Beyond this point, changes in tree hydraulic conductance causes predictions to diverge from observed behavior. This limitation strongly motivates the exploration of data-driven models to better capture tree behavior and extend the prediction horizon towards that of long-term weather forecasting (10 days or longer).  We also found that water status heterogeneity can be modest even across various soil types and management regimes. This work lays a foundation for data-driven predictive models and suggests that sampling water status across a low density of sentinel trees may be enough to guide irrigation decisions for a whole field.  Developments built under this award form the foundation for FloraPulse to provide not just single-point measurements of water status, but also accurate predictions of tree water status across large fields and water status forecasts for days to weeks into the future. Growers will greatly benefit from more accurate water status data, at a better price, and irrigation recommendations based on actual and predicted tree water status.       Last Modified: 06/14/2022       Submitted by: Michael Santiago]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: SCH: Smart Wearable COVID19 BioTracker Necklace: Remote Assessment and Monitoring of Symptoms for Early Diagnosis, Continual Monitoring, and Prediction of Adverse Event]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>125000.00</AwardTotalIntnAmount>
+<AwardAmount>125000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Nilsen</SignBlockName>
+<PO_EMAI>wnilsen@nsf.gov</PO_EMAI>
+<PO_PHON>7032922568</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Due to the outbreak of the 2019 novel Coronavirus and the shock to the healthcare systems, it is critical to conduct fundamental research and scientific studies on the development of smart and scalable technologies that can be produced rapidly and in large scales for (a) continual in-home and in-hospital objective tracking of multiple symptoms using wearable sensors, (b) detecting early&lt;br/&gt;health anomalies from the measured multiple symptoms, and (c) predicting potential adverse events from the measured historical data. This project will address the aforementioned aims to transform the current subjective infrequent telemonitoring for COVID19 patients to continuous objective monitoring and help to reduce the burden on the health care system and the corresponding social and economic impacts. The successful development and deployment of the wearable device will further open doors to conducting fundamental research on the temporal evolution of COVID19 symptoms and behavior.&lt;br/&gt;&lt;br/&gt;The project will develop a wireless smart Internet of Things (IoT) necklace, containing multimodality sensors that can accurately and objectively track multiple vital symptoms of respiratory malfunction and infection, covering a large spectrum of COVID19 symptoms. It will be capable of recording and telereporting, the sound and vibration dynamics due to breathing and coughing together with the body temperature, heart rate, and fatigue-related mobility. In addition, peripheral oxygen saturation (SpO2) will be measured and fused with the collected data by the IoT necklace. The project will also develop novel machine learning models to detect early health anomalies in the multidimensional biosignal space and predict the upcoming adverse events over a future temporal horizon based on the past time-series captured by the device. By partnering with industry, this technology can be used not only for COVID-19 but also for patients with other causes of pneumonia and other respiratory conditions, including lung cancer. The project will generate a unique transdisciplinary educational environment by conducting workshops and undergraduate projects with a focus on promoting STEM-related activities within underrepresented groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031594</AwardID>
+<Investigator>
+<FirstName>Yao</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yao Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yw523@nyu.edu]]></EmailAddress>
+<NSF_ID>000467592</NSF_ID>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>S Farokh</FirstName>
+<LastName>Atashzar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>S Farokh Atashzar</PI_FULL_NAME>
+<EmailAddress><![CDATA[f.atashzar@nyu.edu]]></EmailAddress>
+<NSF_ID>000808423</NSF_ID>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>New York City</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~125000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Intellectual Merit:</strong></p> <p><strong><em><span style="text-decoration: underline;">1) Hardware and Knowledge Translation:&nbsp;</span></em></strong>The project resulted in the design and implementation of a multimodal wearable wireless smart IoT device (composed of a smart head-piece and a smart neck-piece) that is capable of continuously tracking and wirelessly reporting vital signs of patients, including SPo2, body temperature, heart rate, breathing and cough, and fatigue-related mobility and physical ability.&nbsp;Specific attention was paid to the wearability and robustness of recordings. A provisional US patent and a PCT Application were filed, and the work was licensed to Tactile Robotics Inc., Canada. Collaboration with the industry is ongoing toward commercialization. The concept is published as follows.&nbsp;&nbsp;</p> <ul> <li>S. Mehrdad, Y. Wang, and S. F. Atashzar, "Perspective: Wearable Internet of Medical Things for Remote Tracking of Symptoms, Prediction of Health Anomalies, Implementation of Preventative Measures, and Control of Virus Spread During the Era of COVID-19,"&nbsp;<em>Frontiers in Robotics and &nbsp;AI</em>, vol. 8, p. 610653, Apr. 2021, DOI: 10.3389/frobt.2021.610653. [Online]. Available:&nbsp;<a href="http://dx.doi.org/10.3389/frobt.2021.610653">http://dx.doi.org/10.3389/frobt.2021.610653</a></li> </ul> <p>&nbsp;</p> <p><strong><em>2) Computational Prognosis Model:&nbsp;</em></strong>We also developed an artificial intelligence prognosis model to evaluate if a patient with COVID infection is going to experience health deterioration in the following 3 to 24 hours using the sequential monitoring of routine triadic patient biomarkers&nbsp;, including time-series of (a) oxygen saturation level, (b) heart rate, and (c) temperature. The model was also provided with basic patient information, including gender, age, obesity status, vaccination status, vaccination date, hypertension status, and diabetes status. The proposed model was trained using data from 37006 patients who tested positive for COVID-19.&nbsp; The proposed model achieved an area under the receiver operating characteristic curve (AUROC) of 0.808-0.880 for&nbsp; 3 to 24-hour deterioration prediction. An occlusion experiment revealed the significance of monitoring the sequential recording and variations in the dynamical history of the biomarkers. The model was motivated by wearable systems that longitudinally measure vital signs and can be used to avoid unrecognized patient deterioration.</p> <ul> <li>S. Mehrdad, F. E. Shamout, Y. Wang, and S. Farokh Atashzar, "Deterioration Prediction using Time-Series of Three Vital Signs and Current Clinical Features Amongst COVID-19 Patients,"&nbsp;<em>arXiv [cs.LG]</em>, Oct. 12, 2022 [Online]. Available:&nbsp;<a href="http://arxiv.org/abs/2210.05881">http://arxiv.org/abs/2210.05881</a></li> </ul> <p><strong><em>3) Publication:</em></strong>&nbsp;Paper: In addition to the citations above, we have published several papers covering various aspects of the project. Please check the publication list associated with the project here:&nbsp;<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031594&amp;HistoricalAwards=false">https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031594&amp;HistoricalAwards=false</a></p> <p>&nbsp;</p> <p><strong>Broader Impact</strong>:</p> <p>Our smart wearable for tracking common vital signs and our AI model for forecasting the deterioration of COVID-19 patients provide valuable yet convenient tools for the diagnosis and treatment of COVID-19 patients. The results of this project can be used not only for COVID-19 but also for the development of intelligent health assessment technologies for patients with other causes of pneumonia and other respiratory conditions, including lung cancer.</p> <p>Our project also has several educational components, including scientific workshops related to the focus of this project, special issues to promote research in the field, vertically integrated projects for undergraduate research, and events to promote diversity.&nbsp;</p> <p><strong><em>(a)&nbsp;&nbsp;Workshop:&nbsp;</em></strong>&nbsp;"Impact of COVID-19 on Medical Robotics and Wearables Research" at The 2021 International Conference on Robotics and Automation.&nbsp;The workshop was composed of a collection of leading talks, round-table discussions, and posters. This workshop aimed to bring together leaders and young researchers, and stakeholders from academia and industry to generate a unique environment focusing on the future of modern healthcare and the contribution of AI, smart wearable, and medical technologies.&nbsp;</p> <ul> <li>The link to the event:&nbsp;<a href="https://sites.google.com/ualberta.ca/2021-icra-workshop/home">https://sites.google.com/ualberta.ca/2021-icra-workshop/home</a></li> <li>The link to the 6-hour recording:&nbsp;<a href="https://www.youtube.com/watch?v=d-r4Mjb_tO0&amp;t=195s">https://www.youtube.com/watch?v=d-r4Mjb_tO0&amp;t=195s</a></li> </ul> <p><strong><em>(b)&nbsp;&nbsp;Vertically Integrated Projects (VIP)</em></strong><em>:</em>&nbsp;The project includes a vertically integrated project for undergraduate students. The team won the best Research Excellence Exhibit Award at NYU Tandon School of Engineering. This team of undergraduate students was able to publish the results of their research in IEEE Robotics and Automation Letter (impact Factor: 4.3), and the paper is invited for presentation at IROS2022 (<a href="https://ieeexplore.ieee.org/abstract/document/9830886" target="_blank">10.1109/LRA.2022.3191238</a>). Link:&nbsp;<a href="https://wp.nyu.edu/meriit/undergraduate-vertically-integrated-projects-smart-wearable-bio-tracker-for-telehealth/">https://wp.nyu.edu/meriit/undergraduate-vertically-integrated-projects-smart-wearable-bio-tracker-for-telehealth/</a></p> <p><strong><em>(c)&nbsp;&nbsp;&nbsp;New K-12 Program:</em></strong><em>&nbsp;</em>We have initiated a two-year MERIIT-K12-STEM program mainly for students from under-represented minority groups. The goal is to make them familiar with the foundations of telehealth, wearable technologies, and telerobotics early in their careers. Link:&nbsp;<a href="https://wp.nyu.edu/meriit/meriit-k12-stem-program/">https://wp.nyu.edu/meriit/meriit-k12-stem-program/</a></p> <p><strong><em>&nbsp;(d)&nbsp;&nbsp;Special Issue</em></strong><em>:&nbsp;</em>We have edited a successful special issue on "Robotics, Autonomous Systems and AI for Nonurgent/Nonemergent Healthcare Delivery During and After the COVID-19 Pandemic". We accepted&nbsp; 35 articles for publication from 183 authors in total, which so far resulted in 30K full article downloads.<em>&nbsp;Link to the special issue:&nbsp;</em><a href="https://www.frontiersin.org/research-topics/14462/robotics-autonomous-systems-and-ai-for-nonurgentnonemergent-healthcare-delivery-during-and-after-the#impact"><em>https://www.frontiersin.org/research-topics/14462/robotics-autonomous-systems-and-ai-for-nonurgentnonemergent-healthcare-delivery-during-and-after-the#impact</em></a></p> <p><strong><em>(e)&nbsp;&nbsp;&nbsp;&nbsp;Promoting Diversity in Academia:</em></strong><em>&nbsp;</em>We have organized several workshops to promote diversity in academic careers, with an emphasis on diversity in signal processing. In this regard, we collaborated with the IEEE Signal Processing Society and organized IEE SPS PROGRESS at ICIP2022, ICASSP 2022, ICIP 2021, and ICASSP 2021. PROGRESS aims to motivate and prepare women and underrepresented minority groups to pursue academic careers in signal processing. Link to the event:&nbsp;<a href="https://ieeeprogress.org/">https://ieeeprogress.org/</a>.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/17/2022<br>      Modified by: S Farokh&nbsp;Atashzar</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2031594/2031594_10676167_1665977834123_Image-Outcome--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2031594/2031594_10676167_1665977834123_Image-Outcome--rgov-800width.jpg" title="Smart Wearable BioTracker"><img src="/por/images/Reports/POR/2022/2031594/2031594_10676167_1665977834123_Image-Outcome--rgov-66x44.jpg" alt="Smart Wearable BioTracker"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The figure shows the proposed smart wearable bio-tracker. The system has two components: a headpiece and a neckpiece. The device benefits from redundant and spatially distributed multipoint sensing to boost sensitivity & robustness. An app is also developed to communicate wirelessly with the device.</div> <div class="imageCredit">S. Farokh Atashzar & Yao Wang</div> <div class="imageSubmitted">S Farokh&nbsp;Atashzar</div> <div class="imageTitle">Smart Wearable BioTracker</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Intellectual Merit:  1) Hardware and Knowledge Translation: The project resulted in the design and implementation of a multimodal wearable wireless smart IoT device (composed of a smart head-piece and a smart neck-piece) that is capable of continuously tracking and wirelessly reporting vital signs of patients, including SPo2, body temperature, heart rate, breathing and cough, and fatigue-related mobility and physical ability. Specific attention was paid to the wearability and robustness of recordings. A provisional US patent and a PCT Application were filed, and the work was licensed to Tactile Robotics Inc., Canada. Collaboration with the industry is ongoing toward commercialization. The concept is published as follows.    S. Mehrdad, Y. Wang, and S. F. Atashzar, "Perspective: Wearable Internet of Medical Things for Remote Tracking of Symptoms, Prediction of Health Anomalies, Implementation of Preventative Measures, and Control of Virus Spread During the Era of COVID-19," Frontiers in Robotics and  AI, vol. 8, p. 610653, Apr. 2021, DOI: 10.3389/frobt.2021.610653. [Online]. Available: http://dx.doi.org/10.3389/frobt.2021.610653      2) Computational Prognosis Model: We also developed an artificial intelligence prognosis model to evaluate if a patient with COVID infection is going to experience health deterioration in the following 3 to 24 hours using the sequential monitoring of routine triadic patient biomarkers , including time-series of (a) oxygen saturation level, (b) heart rate, and (c) temperature. The model was also provided with basic patient information, including gender, age, obesity status, vaccination status, vaccination date, hypertension status, and diabetes status. The proposed model was trained using data from 37006 patients who tested positive for COVID-19.  The proposed model achieved an area under the receiver operating characteristic curve (AUROC) of 0.808-0.880 for  3 to 24-hour deterioration prediction. An occlusion experiment revealed the significance of monitoring the sequential recording and variations in the dynamical history of the biomarkers. The model was motivated by wearable systems that longitudinally measure vital signs and can be used to avoid unrecognized patient deterioration.  S. Mehrdad, F. E. Shamout, Y. Wang, and S. Farokh Atashzar, "Deterioration Prediction using Time-Series of Three Vital Signs and Current Clinical Features Amongst COVID-19 Patients," arXiv [cs.LG], Oct. 12, 2022 [Online]. Available: http://arxiv.org/abs/2210.05881   3) Publication: Paper: In addition to the citations above, we have published several papers covering various aspects of the project. Please check the publication list associated with the project here: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031594&amp;HistoricalAwards=false     Broader Impact:  Our smart wearable for tracking common vital signs and our AI model for forecasting the deterioration of COVID-19 patients provide valuable yet convenient tools for the diagnosis and treatment of COVID-19 patients. The results of this project can be used not only for COVID-19 but also for the development of intelligent health assessment technologies for patients with other causes of pneumonia and other respiratory conditions, including lung cancer.  Our project also has several educational components, including scientific workshops related to the focus of this project, special issues to promote research in the field, vertically integrated projects for undergraduate research, and events to promote diversity.   (a)  Workshop:  "Impact of COVID-19 on Medical Robotics and Wearables Research" at The 2021 International Conference on Robotics and Automation. The workshop was composed of a collection of leading talks, round-table discussions, and posters. This workshop aimed to bring together leaders and young researchers, and stakeholders from academia and industry to generate a unique environment focusing on the future of modern healthcare and the contribution of AI, smart wearable, and medical technologies.   The link to the event: https://sites.google.com/ualberta.ca/2021-icra-workshop/home The link to the 6-hour recording: https://www.youtube.com/watch?v=d-r4Mjb_tO0&amp;t=195s   (b)  Vertically Integrated Projects (VIP): The project includes a vertically integrated project for undergraduate students. The team won the best Research Excellence Exhibit Award at NYU Tandon School of Engineering. This team of undergraduate students was able to publish the results of their research in IEEE Robotics and Automation Letter (impact Factor: 4.3), and the paper is invited for presentation at IROS2022 (10.1109/LRA.2022.3191238). Link: https://wp.nyu.edu/meriit/undergraduate-vertically-integrated-projects-smart-wearable-bio-tracker-for-telehealth/  (c)   New K-12 Program: We have initiated a two-year MERIIT-K12-STEM program mainly for students from under-represented minority groups. The goal is to make them familiar with the foundations of telehealth, wearable technologies, and telerobotics early in their careers. Link: https://wp.nyu.edu/meriit/meriit-k12-stem-program/   (d)  Special Issue: We have edited a successful special issue on "Robotics, Autonomous Systems and AI for Nonurgent/Nonemergent Healthcare Delivery During and After the COVID-19 Pandemic". We accepted  35 articles for publication from 183 authors in total, which so far resulted in 30K full article downloads. Link to the special issue: https://www.frontiersin.org/research-topics/14462/robotics-autonomous-systems-and-ai-for-nonurgentnonemergent-healthcare-delivery-during-and-after-the#impact  (e)    Promoting Diversity in Academia: We have organized several workshops to promote diversity in academic careers, with an emphasis on diversity in signal processing. In this regard, we collaborated with the IEEE Signal Processing Society and organized IEE SPS PROGRESS at ICIP2022, ICASSP 2022, ICIP 2021, and ICASSP 2021. PROGRESS aims to motivate and prepare women and underrepresented minority groups to pursue academic careers in signal processing. Link to the event: https://ieeeprogress.org/.           Last Modified: 10/17/2022       Submitted by: S Farokh Atashzar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FET: Small: 2D Material Compound Synapse Arrays for Robust In-Memory and Neuromorphic Computing (2DNeuro)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/16/2019</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Novel computing systems that emulate the brain have received significant attention from the scientific and engineering community, as they can help analyze large amounts of information while consuming only small amounts of energy. Significant advances have been made on these neuro-inspired systems, but there are still limitations that prevent their practical application on portable devices. This work will investigate novel materials and designs that can alleviate these limitations, enabling a better execution of critical mathematical functions. The scientific breakthroughs resulting from this work will support robust, efficient, and massively parallel computing for data-intensive machine learning applications. A profound societal impact will be achieved by laying the foundations for novel computing hardware that will support cognitive systems and artificial intelligence of tomorrow. Another objective of this project is to integrate research and education by training students (including graduate and undergraduate researchers), by developing educational tools in form of web-based interactive platforms, and by supporting a graduate-level course in the topic of novel integrated memory and neuro-inspired computing architectures.&lt;br/&gt;&lt;br/&gt;This project will establish the foundations of new storage technology based on two-dimensional (2-D) atomically-thin materials, extending the practical engineering limits of neuro-inspired systems. These storage devices, known as memristors, can be programmed to different states, based on an externally applied stimulus. When organized in specific configurations, memristor arrays can be used to implement complex functions that are used by the system in a decision-making process. However, because of randomness in the operation of memristors, variation is inevitable, affecting the accuracy of the computation and the trustworthiness of the system-based decisions. This work aims to combine novel 2-D materials with new array configurations to mitigate the impact of variability in order to improve accuracy and performance of computation, while maintaining the benefits of low-energy consumption. The intellectual significance of this project extends from fundamental science relating to atomic-scale storage in 2-D materials, to applied engineering contributions relating to the demonstration of robust memristor arrays for neuro-inspired computing applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/22/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>10/22/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001107</AwardID>
+<Investigator>
+<FirstName>Ivan</FirstName>
+<LastName>Sanchez Esqueda</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ivan Sanchez Esqueda</PI_FULL_NAME>
+<EmailAddress><![CDATA[isesqueda@asu.edu]]></EmailAddress>
+<NSF_ID>000792267</NSF_ID>
+<StartDate>10/22/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>660 S MILL AVENUE STE 204</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>TEMPE</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852816011</ZipCode>
+<StreetAddress><![CDATA[660 South Mill Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>2878</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>076Z</Code>
+<Text>FET: Foundations of Emerging Technologie</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~500000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Project Outcomes Report ? NSF Award #2001107</p> <p>Project Title: FET: Small: 2D Material Compound Synapse Arrays for Robust In-Memory and Neuromorphic Computing (2DNeuro)</p> <p>Recipient Organization: Arizona State University</p> <p>Project/Grant Period: 10/02/2019 ? 09/30-2022</p> <p>PI: Ivan Sanchez Esqueda</p> <p>This project focused on developing a new type of electronic device that can be used in making brain-inspired (neuromorphic) computing systems more efficient, reliable, and have better performance. This device uses materials know as two-dimensional (2D) because their layered structure that can be thinned down to atomically-thin sheets. Using these materials, we have prepared devices that can easily adjust their electrical resistance by stimulating them with external voltage signals. These devices can hold their resistance state indefinitely even after removing the external stimulus. In other words, they have a non-volatile or memory effect. We refer to these devices as 2D resistive random-access memory (2D-RRAM) or 2D ?memristors?. In this project we have constructed arrays of interconnected 2D memristors to achieve robust programming of multiple resistive states. Alternatively, by independently programming and stimulating each device in the array we implement a very fast and energy-efficient computation of dot-products. This operation is very important in machine learning (ML) applications as it is found in the most widely used algorithms and artificial neural network (ANN) models.</p> <p>This work has realized some of the 1<sup>st</sup> demonstrations of dot-product computation, as well demonstrations of stochastic multivariable linear regression and logistic regression using 2D memristor hardware. Specifically, this work used 2D hexagonal boron nitride (h-BN) memristor arrays, where h-BN is the active material responsible for the resistive switching effects. The promising resistive switching characteristics, performance of dot-product computation, and accuracy/efficiency of linear and logistic regression signify important steps towards the integration of 2D materials for next-generation brain-inspired computing hardware. The intellectual merit of this work includes advancing the fundamental understanding of resistive-switching effects in two-dimensional materials towards the design and fabrication of ultra-scaled (down to atomic dimensions) electronic devices with potential for large improvements in electronic systems that affect all aspects of our daily lives.</p> <p>This project has enabled the training of both undergraduate and graduate students from underrepresented groups in research areas related to emerging computing technologies (materials, devices, circuits, architectures, and algorithms). Importantly, it has helped increase the participation and advancement of women in STEM by partly supporting two female PhD students from diverse backgrounds towards the completion of their degree. Moreover, it has help promote the participation of a new generation of women engineers through an undergraduate research initiative at our university (three female undergraduate students have participated in this project).</p> <p>&nbsp;</p><br> <p>            Last Modified: 02/13/2023<br>      Modified by: Ivan&nbsp;Sanchez Esqueda</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2001107/2001107_10637945_1676338577782_Picture1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2001107/2001107_10637945_1676338577782_Picture1--rgov-800width.jpg" title="Figure 1. Characteristics of two-dimensional resistive-switching devices"><img src="/por/images/Reports/POR/2023/2001107/2001107_10637945_1676338577782_Picture1--rgov-66x44.jpg" alt="Figure 1. Characteristics of two-dimensional resistive-switching devices"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 1. (a) Photograph of Si wafer with h-BN memristor arrays. (b) Micrograph of some h-BN memristor arrays. (c) Cross-sectional schematic of the h-BN memristors. (d) TEM image and EELS mapping of the h-BN memristor cross-section. (e) Current-voltage resistive-switching characteristics (100 cycles</div> <div class="imageCredit">Ivan Sanchez Esqueda</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Ivan&nbsp;Sanchez Esqueda</div> <div class="imageTitle">Figure 1. Characteristics of two-dimensional resistive-switching devices</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Project Outcomes Report ? NSF Award #2001107  Project Title: FET: Small: 2D Material Compound Synapse Arrays for Robust In-Memory and Neuromorphic Computing (2DNeuro)  Recipient Organization: Arizona State University  Project/Grant Period: 10/02/2019 ? 09/30-2022  PI: Ivan Sanchez Esqueda  This project focused on developing a new type of electronic device that can be used in making brain-inspired (neuromorphic) computing systems more efficient, reliable, and have better performance. This device uses materials know as two-dimensional (2D) because their layered structure that can be thinned down to atomically-thin sheets. Using these materials, we have prepared devices that can easily adjust their electrical resistance by stimulating them with external voltage signals. These devices can hold their resistance state indefinitely even after removing the external stimulus. In other words, they have a non-volatile or memory effect. We refer to these devices as 2D resistive random-access memory (2D-RRAM) or 2D ?memristors?. In this project we have constructed arrays of interconnected 2D memristors to achieve robust programming of multiple resistive states. Alternatively, by independently programming and stimulating each device in the array we implement a very fast and energy-efficient computation of dot-products. This operation is very important in machine learning (ML) applications as it is found in the most widely used algorithms and artificial neural network (ANN) models.  This work has realized some of the 1st demonstrations of dot-product computation, as well demonstrations of stochastic multivariable linear regression and logistic regression using 2D memristor hardware. Specifically, this work used 2D hexagonal boron nitride (h-BN) memristor arrays, where h-BN is the active material responsible for the resistive switching effects. The promising resistive switching characteristics, performance of dot-product computation, and accuracy/efficiency of linear and logistic regression signify important steps towards the integration of 2D materials for next-generation brain-inspired computing hardware. The intellectual merit of this work includes advancing the fundamental understanding of resistive-switching effects in two-dimensional materials towards the design and fabrication of ultra-scaled (down to atomic dimensions) electronic devices with potential for large improvements in electronic systems that affect all aspects of our daily lives.  This project has enabled the training of both undergraduate and graduate students from underrepresented groups in research areas related to emerging computing technologies (materials, devices, circuits, architectures, and algorithms). Importantly, it has helped increase the participation and advancement of women in STEM by partly supporting two female PhD students from diverse backgrounds towards the completion of their degree. Moreover, it has help promote the participation of a new generation of women engineers through an undergraduate research initiative at our university (three female undergraduate students have participated in this project).          Last Modified: 02/13/2023       Submitted by: Ivan Sanchez Esqueda]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

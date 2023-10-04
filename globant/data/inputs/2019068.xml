@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[MRI: Development of a Sensors and Machine Learning Instrument Suite for Solar Array Monitoring]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>349930.00</AwardTotalIntnAmount>
+<AwardAmount>365930</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project develops a testbed for solar energy grids that brings together several labs, centers, and researchers to address &lt;br/&gt;• Elevating power efficiency in solar farms, &lt;br/&gt;• Automatic fault detection, &lt;br/&gt;• Maximizing solar power output, &lt;br/&gt;• Optimizing inverter performance, &lt;br/&gt;• Providing secure communication for analytics, and m&lt;br/&gt;• Making provisions for Smart Grid. &lt;br/&gt;Solar energy research strives to solve challenging problems in increased photovoltaic (PV) efficiency, grid management, power storage, intelligent inverters, and various problems of economic nature, such as financing and manufacturing. The instrument is intended to enable several innovations and elevate the state of the art of solar technologies. It enables research on integrating sensors and machine learning to elevate considerably the output power and robustness of solar arrays. The seamless integration of several software and hardware components is designed to enhance all aspects of solar array monitoring and control. &lt;br/&gt;&lt;br/&gt;'A key component of the instrument, an Intelligent Monitoring and Control Device (IMCD) consists of sensors, actuators, a processor/controller chip, a secure radio, embedded machine learning software, and signal processing and authentication algorithms. The overarching long term goal is to Miniaturize IMCDs with the goal to embed it in photovoltaic (PV) modules, to enable the building of a new generation of smart programmable PV modules. This platform integrates a new intelligent monitoring and control instrument suite and enabling researchers to obtain, process, and utilize real-time PV and environmental data in order to: &lt;br/&gt;• Develop, integrate and test detection and classification algorithms for PV faults;&lt;br/&gt;• Track cloud movement and predict panel shading, and hence optimize further the output of PV arrays; &lt;br/&gt;• Use secure networked connectivity and protocols to protect data and avoid MRI instrument hacking;&lt;br/&gt;• Integrate all the acquired data using fusion algorithms and enable appropriate control of the panels; &lt;br/&gt;• Predict and eliminate inverter transients caused by faults and dynamic shading conditions; &lt;br/&gt;• Provide continuous analytics and create a mobile dashboard to monitor and control the array; &lt;br/&gt;• Use data and design ground breaking optimization algorithms to improve the PV array power output;&lt;br/&gt;• Elevate overall efficiency of solar farms in terms of power output by more than 16%; &lt;br/&gt;• Create the foundations for designing a new generation of solar panel technology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/31/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019068</AwardID>
+<Investigator>
+<FirstName>cihan</FirstName>
+<LastName>tepedelenlioglu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>cihan tepedelenlioglu</PI_FULL_NAME>
+<EmailAddress><![CDATA[cihan@asu.edu]]></EmailAddress>
+<NSF_ID>000496188</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rajapandian</FirstName>
+<LastName>Ayyanar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rajapandian Ayyanar</PI_FULL_NAME>
+<EmailAddress><![CDATA[rayyanar@asu.edu]]></EmailAddress>
+<NSF_ID>000381044</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>Spanias</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andreas S Spanias</PI_FULL_NAME>
+<EmailAddress><![CDATA[spanias@asu.edu]]></EmailAddress>
+<NSF_ID>000248204</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Qin</FirstName>
+<LastName>Lei</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qin Lei</PI_FULL_NAME>
+<EmailAddress><![CDATA[Qin.Lei@asu.edu]]></EmailAddress>
+<NSF_ID>000736471</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate>07/26/2023</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Kitchen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer Kitchen</PI_FULL_NAME>
+<EmailAddress><![CDATA[kitchen.jennifer@asu.edu]]></EmailAddress>
+<NSF_ID>000641357</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>660 S MILL AVENUE STE 204</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>Tempe</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852876011</ZipCode>
+<StreetAddress><![CDATA[PO Box 876011]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~349930</FUND_OBLG>
+<FUND_OBLG>2022~8000</FUND_OBLG>
+<FUND_OBLG>2023~8000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Accelerating Machine Learning on Encrypted Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be to enable organizations to collaborate and extract insights from data without revealing private or proprietary information. Data-driven innovations benefit all aspects of our lives, ranging from better healthcare and increased productivity to smarter energy consumption. Artificial intelligence (AI) has so much potential but access to data has become the major bottleneck. Improved data security and privacy techniques enabled by this proposal will remove barriers to realizing these benefits. Commercialization of the proposed technology will have major implications for the cloud computing and data analytics market. The proposed technology eliminates the security risks that prevent companies from moving computations to the cloud, which offers affordable and scalable data processing infrastructure. Furthermore, organizations can collaborate on sensitive data without revealing the underlying information.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project will enable machine learning and AI on encrypted data based on Fully-Homomorphic Encryption (FHE). Current approaches are too slow and difficult to use; therefore, they have limited applicability in enterprise settings. This Phase I project extends current approaches by designing a hardware-accelerated FHE service that meets mandated security standards and targets enterprise AI applications. To advance translation quickly, off-the-shelf accelerators will be used, which are available in major cloud computing data centers. Further performance gains will be achieved through neural network optimizations that reduce the computation overhead of encrypted computations. In addition to the performance improvements, software integration with common machine learning frameworks will be implemented to lower the barrier for usability.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/11/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052185</AwardID>
+<Investigator>
+<FirstName>Ahmet</FirstName>
+<LastName>Ozcan</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ahmet S Ozcan</PI_FULL_NAME>
+<EmailAddress><![CDATA[aozcan@semiotic.ai]]></EmailAddress>
+<NSF_ID>000836372</NSF_ID>
+<StartDate>06/11/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SEMIOTIC AI, INC.</Name>
+<CityName>LOS ALTOS</CityName>
+<ZipCode>940222794</ZipCode>
+<PhoneNumber>9142612120</PhoneNumber>
+<StreetAddress>127 2ND ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 2]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PK49MYM8TN55</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SEMIOTIC AI, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SEMIOTIC AI, INC.]]></Name>
+<CityName>Los Altos</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>940222794</ZipCode>
+<StreetAddress><![CDATA[127 2nd St. Ste.2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8027</Code>
+<Text>Cyber Secur - Cyberinfrastruc</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Semiotic AI developed a new computer algorithm to accelerate post-quantum cryptography and enable processing of encrypted data without decrypting it.&nbsp; The new algorithm improves a fundamental mathematical procedure that is used in all lattice-based cryptography schemes.&nbsp; Therefore, the speed-up has the potential to impact multiple cybersecurity and privacy areas, including fully-homomorphic encryption (FHE), which was the focus of this project.</p> <p>Cloud computing has enabled organizations to outsource their IT and provided a scalable infrastructure.&nbsp; However, outsourcing computing has security and privacy implications.&nbsp; Even though modern cloud vendors offer advanced security measures to protect data at rest through encryption, data need to be decrypted during processing.&nbsp; Hence, data in use can be prone to attacks, which can expose financial or personal information.&nbsp; For example, a healthcare application running on the cloud might be using a machine learning model to predict risk for certain diseases.&nbsp; Even though, personal health data is protected at rest, during the prediction step, data will be exposed.&nbsp; One of the goals of this NSF SBIR Phase I project was to investigate the feasibility of machine learning directly on encrypted data based on FHE. Current FHE techniques are slow and costly, which makes this approach impractical.&nbsp; The innovations developed by Semiotic AI under this grant accelerated FHE computing by more than 10 times compared to the state of the art. &nbsp;In addition to performance benchmarking, we have demonstrated two machine learning applications to show feasibility for commercial applications.&nbsp; The first one was a secure fraud detection model for credit card transactions, which encrypted user meta data and average measured inference time was 20 milliseconds.&nbsp; The second application was heart rate anomaly detection, which is a common use case for wearable devices. &nbsp;In this scenario, the user ECG data are sent to the cloud for processing, which includes a neural network model to detect abnormal conditions.&nbsp; The average inference time for encrypted prediction was 1.3 seconds.&nbsp;&nbsp; These prediction latency results were within the acceptable ranges according to the industry experts that we interviewed.</p> <p>The results of the NSF Phase I project show that outsourced computing does not need to compromise privacy or security.&nbsp; Even though general-purpose encrypted computing is too costly, critical applications in healthcare, finance and defense could take advantage of the developments demonstrated in this project.</p> <p>&nbsp;</p><br> <p>            Last Modified: 04/04/2022<br>      Modified by: Ahmet&nbsp;S&nbsp;Ozcan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Semiotic AI developed a new computer algorithm to accelerate post-quantum cryptography and enable processing of encrypted data without decrypting it.  The new algorithm improves a fundamental mathematical procedure that is used in all lattice-based cryptography schemes.  Therefore, the speed-up has the potential to impact multiple cybersecurity and privacy areas, including fully-homomorphic encryption (FHE), which was the focus of this project.  Cloud computing has enabled organizations to outsource their IT and provided a scalable infrastructure.  However, outsourcing computing has security and privacy implications.  Even though modern cloud vendors offer advanced security measures to protect data at rest through encryption, data need to be decrypted during processing.  Hence, data in use can be prone to attacks, which can expose financial or personal information.  For example, a healthcare application running on the cloud might be using a machine learning model to predict risk for certain diseases.  Even though, personal health data is protected at rest, during the prediction step, data will be exposed.  One of the goals of this NSF SBIR Phase I project was to investigate the feasibility of machine learning directly on encrypted data based on FHE. Current FHE techniques are slow and costly, which makes this approach impractical.  The innovations developed by Semiotic AI under this grant accelerated FHE computing by more than 10 times compared to the state of the art.  In addition to performance benchmarking, we have demonstrated two machine learning applications to show feasibility for commercial applications.  The first one was a secure fraud detection model for credit card transactions, which encrypted user meta data and average measured inference time was 20 milliseconds.  The second application was heart rate anomaly detection, which is a common use case for wearable devices.  In this scenario, the user ECG data are sent to the cloud for processing, which includes a neural network model to detect abnormal conditions.  The average inference time for encrypted prediction was 1.3 seconds.   These prediction latency results were within the acceptable ranges according to the industry experts that we interviewed.  The results of the NSF Phase I project show that outsourced computing does not need to compromise privacy or security.  Even though general-purpose encrypted computing is too costly, critical applications in healthcare, finance and defense could take advantage of the developments demonstrated in this project.          Last Modified: 04/04/2022       Submitted by: Ahmet S Ozcan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Distributed Mechanism Design with Learning Guarantees: Resource Allocation among Networked Strategic Agents]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Kuh</SignBlockName>
+<PO_EMAI>akuh@nsf.gov</PO_EMAI>
+<PO_PHON>7032924714</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[During the last decades there has been significant research in understanding how strategic agents in communication, transportation, energy, economic, societal networks make decisions in the presence of uncertainty about other agents' preferences. This research is motivated by a multitude of applications in our ever-connected society and economy, and the realization that assumptions such as fully-informed or fully-compliant agents are untenable in vastly decentralized networks. The design of incentives for resource allocation problems in the presence of strategic agents falls under the research area of mechanism design (MD). There are two issues with the current state of the art in MD. First, it assumes the existence of a central entity accepting bids and being capable of communicating with each agent. Second, it does not adequately address the question of how agents converge to the designed equilibria.&lt;br/&gt; &lt;br/&gt;Intellectual Merit: Our overarching objective in this proposal is to create a new subfield of research that addresses these issues in a unified framework. We utilize this framework to design mechanisms that are distributed and have learning (i.e., convergence) guarantees for a sufficiently broad range of agents' behaviors. To achieve our objective, we plan to proceed along a path that blends in fundamental research with targeted applications. In particular, we first investigate the design of distributed mechanisms. We consider two illustrative applications, namely, rate allocation in unicast/multicast-multirate networks and demand management of energy communities. We then investigate distributed mechanisms that incorporate learning guarantees, by which the community reaches an equilibrium. Finally, we study the above two problems in the context of non-Bayesian agents with ``no-regret'' type limited rationality.&lt;br/&gt;&lt;br/&gt;Broader Impacts: Besides the two illustrative applications, research to be carried in this project will benefit a broad range of practical fields of large societal impact. Examples include smart energy and infrastructure systems, communication systems, cyber physical and human systems, social and economical systems, to name a few. The research outcomes will be utilized for curriculum development, for training undergraduate and graduate students, and for various outreach activities at the PIs’ institutions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015191</AwardID>
+<Investigator>
+<FirstName>Achilleas</FirstName>
+<LastName>Anastasopoulos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Achilleas Anastasopoulos</PI_FULL_NAME>
+<EmailAddress><![CDATA[anastas@umich.edu]]></EmailAddress>
+<NSF_ID>000489550</NSF_ID>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481092122</ZipCode>
+<StreetAddress><![CDATA[1301 Beal Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>092E</Code>
+<Text>Control systems &amp; applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1653</Code>
+<Text>Adaptive &amp; intelligent systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~225000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Mechanism design (MD) is the design of incentives that when put to place strategic users reach a desired equilibrium.During the ensuing game, players broadcast messages and receive allocations for goods and taxes/subsidies according to the designed contract.In this project we are interested in the following two questions:</p> <p>1) What happens if agents are not allowed to broadcast messages to each other or to a central authority but are only allowed to exchange local messages with their neighbors? How can we design mechanisms that obey such communication constraints?&nbsp;Clearly, such a mechanism would be more robust and more amenable to practical implementation. These questions motivate a new area of research in MD that we investigate, namely distributed mechanism design (DMD).</p> <p>2) Since the concept of NE (and similarly for other equilibrium notions) is asymptotic in nature, how can we design mechanisms with guarantees of convergent behavior to the designed equilibrium?&nbsp;</p> <p>We investigate these two questions in the following settings of societal interest:</p> <p>A) We consider a demand management problem of an energy community, in which several users obtain energy from an external organization such as an energy company, and pay for the energy according to pre-specified prices that consist of a time-dependent price per unit of energy, as well as a separate price for peak demand.We design mechanisms for communities where message exchanges are allowed only within neighborhoods, and consequently, the tax/subsidy and allocation functions of each user are only determined by the messages from her neighbors. All the desirable properties of the baseline mechanism are preserved in the distributed mechanism. Furthermore, we design a learning algorithm for the above mechanism, based on projected gradient descent, that is guaranteed to converge to the NE of the induced game.</p> <p>B) We consider a queueing system with unobservable backlog by the incoming users. There is an information designer that observes the queue backlog and makes recommendations to the users arriving at the queue whether to join or not to joint the queue. The arriving users have payoff relevant private types. The users, upon arrival, send a message, that is supposed to be their type, to the information designer if they are willing to hear a recommendation. The information designer then creates a recommendation for that specific type of user. The users have to pay a tax in exchange for the information they receive. We combined mechanism design and information design to study the queuing system with heterogeneous users. We formulate an optimization problem that characterizes the solution of the joint design problem. We characterize the tax functions and provide structural results for the recommendation policy of the information designer.</p> <p>C) We consider the problem of Bayesian social learning in the presence of a coordinator. Social learning refers to the process by which networked strategic agents learn an unknown state of the world by observing private state-related signals as well as other agents&rsquo; actions. Classic work in this area showed that information cascades occur in social learning, in which agents blindly follow others&rsquo; behavior, and consequently, if information cascade occurs at a belief in favor of the wrong state, successive agents always stick to this imprecise belief even though their private signal could have improved the belief. In our research, we consider the introduction of an information coordinator to mitigate information cascades. The coordinator commits to a mechanism, which is a contract that agents may choose to accept or not. If an agent enters the mechanism, she pays a fee, and sends a message to the coordinator indicating their private signal (not necessarily truthfully). The coordinator, in turn, suggests an action to the agents according to his knowledge and interest. We show the existence of mechanisms which strictly improve social welfare, and results in strictly positive profit, so that such a mechanism is acceptable for both agents and the coordinator, and is beneficial to the agent community. Furthermore, we analyze the performance of this mechanism and show significant gains on both aforementioned metrics.</p> <p>D) We study coordination in dynamic games with asymmetric information. We propose a solution concept called perfect correlated equilibrium (PCE), realized by a correlation device that observes only the public information of past actions. At each time, the device generates a prescription profile from a commonly known joint distribution, and sends each player a prescription privately before they act. Players are expected to take actions according to the prescriptions at equilibrium by evaluating the suggested prescription at the private types.We show that players' rationality constraints can be characterized through appropriate Markov decision processes. Based on this characterization, we develop a backward dynamic approach, with which one can verify if a structured device is feasible, or even design a structured PCE in a backward recursive manner. We consider specific examples demonstrating how coordination can improve social welfare.&nbsp;</p><br> <p>            Last Modified: 08/24/2023<br>      Modified by: Achilleas&nbsp;Anastasopoulos</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Mechanism design (MD) is the design of incentives that when put to place strategic users reach a desired equilibrium.During the ensuing game, players broadcast messages and receive allocations for goods and taxes/subsidies according to the designed contract.In this project we are interested in the following two questions:  1) What happens if agents are not allowed to broadcast messages to each other or to a central authority but are only allowed to exchange local messages with their neighbors? How can we design mechanisms that obey such communication constraints? Clearly, such a mechanism would be more robust and more amenable to practical implementation. These questions motivate a new area of research in MD that we investigate, namely distributed mechanism design (DMD).  2) Since the concept of NE (and similarly for other equilibrium notions) is asymptotic in nature, how can we design mechanisms with guarantees of convergent behavior to the designed equilibrium?   We investigate these two questions in the following settings of societal interest:  A) We consider a demand management problem of an energy community, in which several users obtain energy from an external organization such as an energy company, and pay for the energy according to pre-specified prices that consist of a time-dependent price per unit of energy, as well as a separate price for peak demand.We design mechanisms for communities where message exchanges are allowed only within neighborhoods, and consequently, the tax/subsidy and allocation functions of each user are only determined by the messages from her neighbors. All the desirable properties of the baseline mechanism are preserved in the distributed mechanism. Furthermore, we design a learning algorithm for the above mechanism, based on projected gradient descent, that is guaranteed to converge to the NE of the induced game.  B) We consider a queueing system with unobservable backlog by the incoming users. There is an information designer that observes the queue backlog and makes recommendations to the users arriving at the queue whether to join or not to joint the queue. The arriving users have payoff relevant private types. The users, upon arrival, send a message, that is supposed to be their type, to the information designer if they are willing to hear a recommendation. The information designer then creates a recommendation for that specific type of user. The users have to pay a tax in exchange for the information they receive. We combined mechanism design and information design to study the queuing system with heterogeneous users. We formulate an optimization problem that characterizes the solution of the joint design problem. We characterize the tax functions and provide structural results for the recommendation policy of the information designer.  C) We consider the problem of Bayesian social learning in the presence of a coordinator. Social learning refers to the process by which networked strategic agents learn an unknown state of the world by observing private state-related signals as well as other agents’ actions. Classic work in this area showed that information cascades occur in social learning, in which agents blindly follow others’ behavior, and consequently, if information cascade occurs at a belief in favor of the wrong state, successive agents always stick to this imprecise belief even though their private signal could have improved the belief. In our research, we consider the introduction of an information coordinator to mitigate information cascades. The coordinator commits to a mechanism, which is a contract that agents may choose to accept or not. If an agent enters the mechanism, she pays a fee, and sends a message to the coordinator indicating their private signal (not necessarily truthfully). The coordinator, in turn, suggests an action to the agents according to his knowledge and interest. We show the existence of mechanisms which strictly improve social welfare, and results in strictly positive profit, so that such a mechanism is acceptable for both agents and the coordinator, and is beneficial to the agent community. Furthermore, we analyze the performance of this mechanism and show significant gains on both aforementioned metrics.  D) We study coordination in dynamic games with asymmetric information. We propose a solution concept called perfect correlated equilibrium (PCE), realized by a correlation device that observes only the public information of past actions. At each time, the device generates a prescription profile from a commonly known joint distribution, and sends each player a prescription privately before they act. Players are expected to take actions according to the prescriptions at equilibrium by evaluating the suggested prescription at the private types.We show that players' rationality constraints can be characterized through appropriate Markov decision processes. Based on this characterization, we develop a backward dynamic approach, with which one can verify if a structured device is feasible, or even design a structured PCE in a backward recursive manner. We consider specific examples demonstrating how coordination can improve social welfare.        Last Modified: 08/24/2023       Submitted by: Achilleas Anastasopoulos]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: PPoSS: Planning: Hardware-accelerated Trustworthy Deep Neural Network]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>60000.00</AwardTotalIntnAmount>
+<AwardAmount>60000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Danella Zhao</SignBlockName>
+<PO_EMAI>dzhao@nsf.gov</PO_EMAI>
+<PO_PHON>7032924434</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Deep-learning approaches have recently achieved much higher accuracy than traditional machine-learning approaches in various applications (e.g., computer vision, virtual/augmented reality, and natural language processing). Existing research has shown that large-scale data from various sources with high-resolution sensing or large-volume data-collection capabilities can significantly improve the performance of deep-learning approaches. However, state-of-the-art hardware and software cannot provide sufficient computing capabilities and resources to ensure accurate deep-learning performance in a timely manner when using extremely large-scale data. This project develops a scalable and robust heterogeneous system that includes a new low-cost, secure, deep-learning hardware-accelerator architecture and a suite of large-data-compatible deep-learning algorithms. It allows deep learning to fully benefit from extremely large-scale data and facilitates efficient, low-latency applications in connected vehicles, real-time mobile applications, and timely precision health. The new technologies resulting from this project can enable more research opportunities to design new hardware accelerators for deep learning and obtain further optimization in computational complexity and reduction in power consumption. Moreover, by integrating the research results with the undergraduate and graduate curricula and outreach activities, this project has great impacts on education and training of researchers and engineers for computer architecture, security, theory and algorithms, and systems.&lt;br/&gt;&lt;br/&gt;This project designs trustworthy hardware accelerators optimized for large-scale deep-learning computations and models the complicated structure of large-scale datasets. More specifically, this project develops a novel hardware accelerator for deep learning that can achieve low power consumption. In addition, this project designs innovative in-memory encryption schemes to secure the neural models in deep-learning accelerators. Furthermore, data-modeling and statistical-learning algorithms are developed in this project to further reduce the computing cost of deep learning when processing extremely large-scale datasets. Finally, this project builds and evaluates a prototype of the proposed heterogeneous deep-learning system in terms of efficiency, scalability, and security in multiple application domains including mobile applications, connected vehicles and precision health.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028858</AwardID>
+<Investigator>
+<FirstName>Yan</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yan Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[y.wang@temple.edu]]></EmailAddress>
+<NSF_ID>000702932</NSF_ID>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Temple University</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191226003</ZipCode>
+<PhoneNumber>2157077547</PhoneNumber>
+<StreetAddress>1801 N BROAD ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD4MGHFDJKU1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEMPLE UNIVERSITY-OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD4MGHFDJKU1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Temple University]]></Name>
+<CityName/>
+<StateCode>PA</StateCode>
+<ZipCode>191226003</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>PPoSS-PP of Scalable Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~60000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This planning project explored designing trustworthy hardware accelerators optimized for large-scale deep-learning computations and models the complicated structure of large-scale datasets. More specifically, this project develops a novel hardware accelerator for deep learning that can achieve low power consumption. Furthermore, data-modeling and statistical-learning algorithms were developed to further reduce the computing cost of deep learning when processing extremely large-scale datasets. Finally, this project developed a prototype of the proposed heterogeneous deep-learning system in terms of efficiency, scalability, and security in multiple application domains including mobile applications, connected vehicles and precision health. Particularly, we accomplished the following aspects. (1) Global Mixture Pruning for Further Flops Compression via Neuron Bond. (2) Low-Effort Personalized Fitness Monitoring Using Millimeter Wave. (3) Defending against Thru-barrier Stealthy Voice Attacks via Cross-Domain Sensing on Phoneme Sounds.</p> <p>&nbsp;</p> <p>(1) Global Mixture Pruning for Further Flops Compression via Neuron Bond. Neuron networks pruning is effective in compressing pre-trained CNNs for their deployment on low-end edge devices. However, few works have focused on reducing the computational cost of pruning and inference. We found that existing pruning methods usually remove parameters without fine-grained impact analysis, making it hard to achieve an optimal solution. We developed a global mixture pruning mechanism, aiming to effectively reduce the computational cost of CNNs while maintaining a high weight compression ratio and model accuracy. We proposed removing neuron bonds between the paths between filter and output map in the convolution layer and the paths between two fully connected layers. By pruning the neuron bond, we can skip corresponding conventional computation for generating each pixel of the output map. We also designed an influence factor to analyze the importance of neuron bonds and weights in a fine-grained way so that our approach could significantly reduce the pruning iterations by only performing a one-shot pruning when the total number of unimportant parameters reaches the compress ratio. Therefore, our approach required less retraining iterations to recover the accuracy of the network.</p> <p>&nbsp;</p> <p>(2) Low-Effort Personalized Fitness Monitoring Using Millimeter Wave.<strong> </strong>There is a growing trend for people to perform workouts at home due to the global pandemic of COVID-19 and the stay-at-home policy of many countries. Since a self-designed &#64257;tness plan often lacks professional guidance to achieve ideal outcomes, it is important to have an in-home &#64257;tness monitoring system that can track the exercise process of users. We designed and implemented &#64257;tness monitoring system using a single COTS mmWave device. The proposed system integrated workout recognition, user identi&#64257;cation, multi-user monitoring, and training effort reduction modules and makes them work together in a single system. In particular, we developed a domain adaptation framework to reduce the amount of training data collected from different domains via mitigating impacts caused by domain characteristics embedded in mmWave signals. We also developed a GAN-assisted method to achieve better user identi&#64257;cation and workout recognition when only limited training data from the same domain is available.</p> <p>&nbsp;</p> <p>(3) Defending against Thru-barrier Stealthy Voice Attacks via Cross-Domain Sensing on Phoneme Sounds.<strong> </strong>The open nature of voice input makes voice assistant (VA) systems vulnerable to various acoustic attacks (e.g., replay and voice synthesis attacks). Our study found that acoustic signals passing through the barriers generally present a unique frequency-selective effect in the vibration domain. Thus, we proposed to devise a system to capture this unique effect of barriers by leveraging low-cost, cross-domain sensing available in users&rsquo; wearables. The system replayed the audio-domain signals with the wearable&rsquo;s speaker and captures the conductive vibrations caused by the audio sounds in the vibration domain via the built-in accelerometer. To improve the proposed system&rsquo;s reliability, we developed a unique vibration-domain enhancement method to extract the phonemes most sensitive to the frequency-selective effect of barriers. We identified effective vibration-domain features that capture the barriers&rsquo; effects in the vibration domain.</p> <p>&nbsp;</p> <p>The new technologies resulting from this project can enable more research opportunities to design new hardware accelerators for deep learning and obtain further optimization in computational complexity and reduction in power consumption. Moreover, by integrating the research results with the undergraduate and graduate curricula and outreach activities, this project has great impacts on education and training of researchers and engineers for computer architecture, security, theory and algorithms, and systems. Results are disseminated through scholarly publications, active outreach to the wireless and mobile industry through WINLAB's industry events and connections. The project provided students with rich mentoring and research experience in experiment design, prototyping, and data analysis. Three Ph.D. students got support from this project and gained significant results. Additional master students and eight undergraduate students also participated in the project through summer internship and independent study programs.</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/28/2023<br>      Modified by: Yan&nbsp;Wang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This planning project explored designing trustworthy hardware accelerators optimized for large-scale deep-learning computations and models the complicated structure of large-scale datasets. More specifically, this project develops a novel hardware accelerator for deep learning that can achieve low power consumption. Furthermore, data-modeling and statistical-learning algorithms were developed to further reduce the computing cost of deep learning when processing extremely large-scale datasets. Finally, this project developed a prototype of the proposed heterogeneous deep-learning system in terms of efficiency, scalability, and security in multiple application domains including mobile applications, connected vehicles and precision health. Particularly, we accomplished the following aspects. (1) Global Mixture Pruning for Further Flops Compression via Neuron Bond. (2) Low-Effort Personalized Fitness Monitoring Using Millimeter Wave. (3) Defending against Thru-barrier Stealthy Voice Attacks via Cross-Domain Sensing on Phoneme Sounds.     (1) Global Mixture Pruning for Further Flops Compression via Neuron Bond. Neuron networks pruning is effective in compressing pre-trained CNNs for their deployment on low-end edge devices. However, few works have focused on reducing the computational cost of pruning and inference. We found that existing pruning methods usually remove parameters without fine-grained impact analysis, making it hard to achieve an optimal solution. We developed a global mixture pruning mechanism, aiming to effectively reduce the computational cost of CNNs while maintaining a high weight compression ratio and model accuracy. We proposed removing neuron bonds between the paths between filter and output map in the convolution layer and the paths between two fully connected layers. By pruning the neuron bond, we can skip corresponding conventional computation for generating each pixel of the output map. We also designed an influence factor to analyze the importance of neuron bonds and weights in a fine-grained way so that our approach could significantly reduce the pruning iterations by only performing a one-shot pruning when the total number of unimportant parameters reaches the compress ratio. Therefore, our approach required less retraining iterations to recover the accuracy of the network.     (2) Low-Effort Personalized Fitness Monitoring Using Millimeter Wave. There is a growing trend for people to perform workouts at home due to the global pandemic of COVID-19 and the stay-at-home policy of many countries. Since a self-designed &#64257;tness plan often lacks professional guidance to achieve ideal outcomes, it is important to have an in-home &#64257;tness monitoring system that can track the exercise process of users. We designed and implemented &#64257;tness monitoring system using a single COTS mmWave device. The proposed system integrated workout recognition, user identi&#64257;cation, multi-user monitoring, and training effort reduction modules and makes them work together in a single system. In particular, we developed a domain adaptation framework to reduce the amount of training data collected from different domains via mitigating impacts caused by domain characteristics embedded in mmWave signals. We also developed a GAN-assisted method to achieve better user identi&#64257;cation and workout recognition when only limited training data from the same domain is available.     (3) Defending against Thru-barrier Stealthy Voice Attacks via Cross-Domain Sensing on Phoneme Sounds. The open nature of voice input makes voice assistant (VA) systems vulnerable to various acoustic attacks (e.g., replay and voice synthesis attacks). Our study found that acoustic signals passing through the barriers generally present a unique frequency-selective effect in the vibration domain. Thus, we proposed to devise a system to capture this unique effect of barriers by leveraging low-cost, cross-domain sensing available in users’ wearables. The system replayed the audio-domain signals with the wearable’s speaker and captures the conductive vibrations caused by the audio sounds in the vibration domain via the built-in accelerometer. To improve the proposed system’s reliability, we developed a unique vibration-domain enhancement method to extract the phonemes most sensitive to the frequency-selective effect of barriers. We identified effective vibration-domain features that capture the barriers’ effects in the vibration domain.     The new technologies resulting from this project can enable more research opportunities to design new hardware accelerators for deep learning and obtain further optimization in computational complexity and reduction in power consumption. Moreover, by integrating the research results with the undergraduate and graduate curricula and outreach activities, this project has great impacts on education and training of researchers and engineers for computer architecture, security, theory and algorithms, and systems. Results are disseminated through scholarly publications, active outreach to the wireless and mobile industry through WINLAB's industry events and connections. The project provided students with rich mentoring and research experience in experiment design, prototyping, and data analysis. Three Ph.D. students got support from this project and gained significant results. Additional master students and eight undergraduate students also participated in the project through summer internship and independent study programs.          Last Modified: 01/28/2023       Submitted by: Yan Wang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

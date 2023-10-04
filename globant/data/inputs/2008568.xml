@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[On the Dynamics of Nonlinear Systems in Applied Sciences: From Theory, Computations, and Experiments to Insights]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>269998.00</AwardTotalIntnAmount>
+<AwardAmount>323970</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research investigation focuses on the modeling and mathematical analysis of nonlinear systems of partial differential equations arising in physical applications. The analysis involves nonlinear systems for compressible flows, mixtures, and polymeric fluids, which are relevant to several practical applications in science and engineering, and kinetic models describing self-organized dynamics, which are important in biology, physics, and bioengineering. The project includes training and research opportunities for graduate students. &lt;br/&gt;&lt;br/&gt;The existence of statistically stationary states in randomly driven systems in fluid dynamics is of basic importance from both mathematical and experimental points of view. On the one hand, the existence of an invariant measure provides information on the generic long-time behavior of the system. On the other hand, under ergodicity assumptions, they provide a link between experimental observations, for example in turbulence theory. This project aims to (a) establish well-posedness results for variational solutions to deterministic systems and (b) analyze weak martingale solutions and invariant measures for randomly forced systems. The variational framework developed in this investigation will be employed for the construction of numerical algorithms for the approximation of nonlinear systems that arise in science and engineering. One of the goals of the project involves connecting the theoretical and computational results to experiments, in order to optimize theoretical models for more accurate predictions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008568</AwardID>
+<Investigator>
+<FirstName>Konstantina</FirstName>
+<LastName>Trivisa</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Konstantina Trivisa</PI_FULL_NAME>
+<EmailAddress><![CDATA[trivisa@math.umd.edu]]></EmailAddress>
+<NSF_ID>000110494</NSF_ID>
+<StartDate>08/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland College Park]]></Name>
+<CityName>College Park</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207425103</ZipCode>
+<StreetAddress><![CDATA[4176 Campus Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~269998</FUND_OBLG>
+<FUND_OBLG>2022~53972</FUND_OBLG>
+</Award>
+</rootTag>

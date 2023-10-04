@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Development of AI Software to Capture and Identify Circulating Rare Cells in Lung Patients]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224426.00</AwardTotalIntnAmount>
+<AwardAmount>224426</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+<PO_EMAI>hahn@nsf.gov</PO_EMAI>
+<PO_PHON>7032927069</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This broader impacts/commercial potential of this SBIR Phase I NSF project is to develop Artificial Intelligence (AI) software to identify circulating lung cancer related cells efficiently and accurately. It is estimated that there will be over 200,000 new cases of lung cancer in the US in 2020, driving the cost above $166 billion. The current standard of care requires close monitoring of these patients, with chest Computed Tomography (CT) scans taken every 6 weeks. Patients also undergo pelvis CT scans concurrently if their cancer is determined to be at later stages. The proposed technology will provide the clinician additional data for early detection of lung cancer with a simple blood draw in a clinical laboratory setting for immediate feedback to the patient and clinician, thus avoiding more invasive procedures and radiation exposures. &lt;br/&gt;&lt;br/&gt;The proposed project will advance liquid biopsy techniques in R&amp;D clinical settings. This project’s novel imaging system’s ability to identify the fluorescent tumor-derived cells will provide a more sensitive and reliable methodology to detect early-stage disease and differentiate indolent from aggressive lung cancer, with further potential to be integrated into lung cancer screening programs. Utilizing advanced Artificial Intelligence (AI) algorithms and world-class optical immunofluorescent detection methods, this project’s fluorescent microscope will be an AI-driven image processing system. This project provides an unprecedented solution for detecting low levels of rare cells in a clinical setting through the combination of high resolution multichannel optical imaging, proprietary fluorescent taggants and assays, and state-of-the-art AI segmentation and classification techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015008</AwardID>
+<Investigator>
+<FirstName>Yongjian</FirstName>
+<LastName>Yu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yongjian Yu</PI_FULL_NAME>
+<EmailAddress><![CDATA[yongjian.yu@axonconnected.com]]></EmailAddress>
+<NSF_ID>000804499</NSF_ID>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Axon Dx LLC</Name>
+<CityName>EARLYSVILLE</CityName>
+<ZipCode>229362407</ZipCode>
+<PhoneNumber>5402390668</PhoneNumber>
+<StreetAddress>379 REAS FORD RD STE 1</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MTLNDGKGVNX7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AXONDX, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Axon Dx]]></Name>
+<CityName>Earlysville</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229362407</ZipCode>
+<StreetAddress><![CDATA[379 Reas Ford Rd Ste 1]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~224426</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Project Outcomes</strong></p> <p>Development of methods for non-invasive cancer detection have been ongoing. Liquid biopsy cancer detection systems have the potential to dramatically improve patient survival rates.&nbsp; In order to be successful, diagnostic assays must have a high level of sensitivity and specificity and rely on unique cancer biomarkers. Currently, in the evolving area of rare cell detection technology system, Axon Dx?s novel imaging system?s ability to identify the fluorescent tumor-derived cells could provide a more sensitive and reliable methodology to detect early-stage disease and differentiate indolent from aggressive lung cancer, with further potential to be integrated into many cancer screening programs.&nbsp; Utilizing advanced AI algorithms and world class optical immunofluorescent detection methods, early diagnosis of metastasis in lung cancer patients could be achieved while anticipating metastatic progression allowing prompt treatment before being detectable with standard radiographic imaging.</p> <p>Cancer has been a major and severe public medical problem worldwide. According to the National Center for Health Statistics, there were 1,806,590 new cancer cases and 606,520 cancer deaths in the United States in 2020, that is, approximately 1,600 deaths per day. The American Cancer Society claims Cancer is the second leading cause of death in the US . The four leading cancers are lung, colorectal, breast, and prostate cancer. Lung cancer maintains the highest mortality rate both for males and females, taking over 25% of cancer death.</p> <p>By utilizing Artificial Intelligence (AI) algorithms, this Phase 1 Development Program demonstrated new liquid biopsy techniques to detect, enumerate and analyze cancer derived cells and cell fragments, which are known to circulate in the blood stream of cancer patients. &nbsp;The detection and analysis of circulating tumor cells, stromal cells and other cells / cell fragments driving new liquid biopsy techniques for oncologists and their patients. Cancer derived cells provide methods to determine prognosis, treatment selection and monitoring, and recurrence. &nbsp;Circulating tumor DNA ctDNA and cell free DNA cfDNA show promise in determining molecular profile of patients but they do not provide information only cells and cell fragments can provide.</p> <p>During this Phase 1, Axon Dx has demonstrated the development of artificial intelligence AI algorithms to identify, classify and analyze circulating tumor cells and circulating stromal cells (structural cells for the tumor) and circulating endothelial cells that provide blood vessels and nourishment for the tumor in responding to the fact that many cancers produce little to no CTCs for example NSCLC, even in late-stage half of all patients have zero CTCs.</p> <p>Axon Dx's <strong><em>nCyte</em><sup>TM</sup></strong> fluorescent microscopy system allows the clinician the ability to interpretate subtle image features to verify and classify CTC/CSC from high-resolution image in normal office work flow with the results being subjective. The developed <strong><em>automated</em></strong> AI driven image analysis (search and classification) allows realization of fast, objective liquid biopsy CTC/CSC testing for oncology with minimal effort from the clinician. During the Phase I, Axon Dx exploited deep learning AI techniques on the existing <strong><em>nCyte</em><sup>TM</sup></strong> image analysis platform towards high sensitivity/specificity of CSC/CTC identification/classification, and data interpretation automation.&nbsp; To support future Phase II efforts, this program demonstrated clinical application and automated analysis by developing:&nbsp; 1) hierarchical AI algorithm framework, 2) AI algorithm(s) for CTC/CSC searching, 3) AI algorithm(s) for CSC/CTCs subtype classification, 4) validation of developed algorithms and AI training, and 5) established commercialization pathway(s) with an identified commercial partner.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/16/2021<br>      Modified by: Yongjian&nbsp;Yu</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Project Outcomes  Development of methods for non-invasive cancer detection have been ongoing. Liquid biopsy cancer detection systems have the potential to dramatically improve patient survival rates.  In order to be successful, diagnostic assays must have a high level of sensitivity and specificity and rely on unique cancer biomarkers. Currently, in the evolving area of rare cell detection technology system, Axon Dx?s novel imaging system?s ability to identify the fluorescent tumor-derived cells could provide a more sensitive and reliable methodology to detect early-stage disease and differentiate indolent from aggressive lung cancer, with further potential to be integrated into many cancer screening programs.  Utilizing advanced AI algorithms and world class optical immunofluorescent detection methods, early diagnosis of metastasis in lung cancer patients could be achieved while anticipating metastatic progression allowing prompt treatment before being detectable with standard radiographic imaging.  Cancer has been a major and severe public medical problem worldwide. According to the National Center for Health Statistics, there were 1,806,590 new cancer cases and 606,520 cancer deaths in the United States in 2020, that is, approximately 1,600 deaths per day. The American Cancer Society claims Cancer is the second leading cause of death in the US . The four leading cancers are lung, colorectal, breast, and prostate cancer. Lung cancer maintains the highest mortality rate both for males and females, taking over 25% of cancer death.  By utilizing Artificial Intelligence (AI) algorithms, this Phase 1 Development Program demonstrated new liquid biopsy techniques to detect, enumerate and analyze cancer derived cells and cell fragments, which are known to circulate in the blood stream of cancer patients.  The detection and analysis of circulating tumor cells, stromal cells and other cells / cell fragments driving new liquid biopsy techniques for oncologists and their patients. Cancer derived cells provide methods to determine prognosis, treatment selection and monitoring, and recurrence.  Circulating tumor DNA ctDNA and cell free DNA cfDNA show promise in determining molecular profile of patients but they do not provide information only cells and cell fragments can provide.  During this Phase 1, Axon Dx has demonstrated the development of artificial intelligence AI algorithms to identify, classify and analyze circulating tumor cells and circulating stromal cells (structural cells for the tumor) and circulating endothelial cells that provide blood vessels and nourishment for the tumor in responding to the fact that many cancers produce little to no CTCs for example NSCLC, even in late-stage half of all patients have zero CTCs.  Axon Dx's nCyteTM fluorescent microscopy system allows the clinician the ability to interpretate subtle image features to verify and classify CTC/CSC from high-resolution image in normal office work flow with the results being subjective. The developed automated AI driven image analysis (search and classification) allows realization of fast, objective liquid biopsy CTC/CSC testing for oncology with minimal effort from the clinician. During the Phase I, Axon Dx exploited deep learning AI techniques on the existing nCyteTM image analysis platform towards high sensitivity/specificity of CSC/CTC identification/classification, and data interpretation automation.  To support future Phase II efforts, this program demonstrated clinical application and automated analysis by developing:  1) hierarchical AI algorithm framework, 2) AI algorithm(s) for CTC/CSC searching, 3) AI algorithm(s) for CSC/CTCs subtype classification, 4) validation of developed algorithms and AI training, and 5) established commercialization pathway(s) with an identified commercial partner.             Last Modified: 12/16/2021       Submitted by: Yongjian Yu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

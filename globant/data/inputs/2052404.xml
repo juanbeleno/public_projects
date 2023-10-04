@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Instructor-friendly intelligent VR platform for secondary and post-secondary distance learning and STEAM education]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255550.00</AwardTotalIntnAmount>
+<AwardAmount>255550</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to use virtual reality (VR) to create immersive, highly engaging environments for collaborative remote learning. As more students take at least some of their classes online, there is a need to develop virtual learning environments that support diverse learners with different strengths, interests, and learning preferences. The project will support diverse learning environments by leveraging the rich data available from VR to detect and classify learner engagement in an immersive, collaborative learning experience. As a major scientific contribution, the new system will provide feedback on levels of learner engagement and ultimately make recommendations for personalized learning activities. &lt;br/&gt; &lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project seeks to create a novel real-time recommendation system for maintaining learner engagement in a collaborative, immersive, VR learning environment. The research will collect behavioral data that can identify different engagement types during collaborative learning to support learners with different strengths, various interests, and learning preferences. Subsequently, the metadata will allow for the development of algorithms for automating real-time, system-generated recommendations for personalizing curriculum options. The knowledge gained will aid diversity and increase engagement in remote VR learning as well as other collaborative, digital environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/09/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/03/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052404</AwardID>
+<Investigator>
+<FirstName>Alex</FirstName>
+<LastName>Stolyarik</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alex Stolyarik</PI_FULL_NAME>
+<EmailAddress><![CDATA[stolyarikalex@gmail.com]]></EmailAddress>
+<NSF_ID>000826510</NSF_ID>
+<StartDate>08/09/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ECOSYSTEMONE LLC</Name>
+<CityName>MOUNTAIN VIEW</CityName>
+<ZipCode>940434257</ZipCode>
+<PhoneNumber>2159009690</PhoneNumber>
+<StreetAddress>265 N RENGSTORFF AVE</StreetAddress>
+<StreetAddress2><![CDATA[APT 32]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QTN5NWKMZE93</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ECOSYSTEMONE LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ECOSYSTEMONE LLC]]></Name>
+<CityName>Santa Clara</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950512233</ZipCode>
+<StreetAddress><![CDATA[3270 Cabrillo Ave, Apt 321]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1707</Code>
+<Text>ADVANCED LEARNING TECHNOLOGIES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255550</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>ESO SBIR Phase I Outcomes Report</strong></p> <p>EcoSystemOne (ESO) is an Immersive Unity/Photon-based Virtual Reality multiplayer environment for collaborative project-based distance learning online. The application uses a cloud architecture in which all computations are hosted directly on the servers, with results being simultaneously streamed to clients; thus, all user audio-visual activities are synchronized in real-time.</p> <p>The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be the creation of an advanced Immersive Virtual Reality (IVR) collaborative learning platform that is fully instrumented to provide instructors and students with feedback and support for productive collaborative learning. As the cost of immersive technologies becomes more affordable, an increasing amount of formal and informal education is taking place in digital environments, with distributed IVR being the digital environment with the greatest growth and potential for online distance learning.</p> <p>The work undertaken in this project represents the first collaborative VR learning environment with adaptive learning engine to take advantage of the great amount of spatial data generated in virtual environments to actively monitor and provide visual feedback/ recommendations on student collaborative behavior (via teacher dashboards). This project will not only help build one of the most advanced, intelligent adaptive VR learning platforms, but will also provide a framework for the creation of future intelligent virtual environments for collaborative learning.</p> <p>Specific objectives of the project included technical and pedagogical refinement of EcoSystemOne (ESO), to support diverse modes of group collaboration in a virtual learning environment, with the focus on the design and development of data-driven adaptive learning dashboards for teachers. Our ultimate goal is to develop an automated adaptive learning engine that will analyze student behaviors in order to identify specific group collaboration patterns and then implement automatic adaptive scaffolds to provide case-appropriate supports when needed.</p> <p>Specific outcomes for this Phase I SBIR project included:</p> <ul> <li>The development of a theory-driven, research-based framework of collaboration and group work to guide development of the ESO system</li> <li>The design and development of a data management system to store and organize the spatial and primary data generated by the ESO system</li> </ul> <ul> <li>A Pilot study that: <ul> <li>Collected spatial and primary data to evaluate group collaboration and students? performance</li> <li>Assigned and codified group-collaboration patterns (video analyses)</li> <li>Tested and refined top-down and emerging collaborative group patterns</li> </ul> </li> </ul> <ul> <li>The design of a functional teacher dashboards prototype that provides insight into student participation and collaborative group functionality</li> </ul> <p>&nbsp;</p><br> <p>            Last Modified: 10/26/2022<br>      Modified by: Alex&nbsp;Stolyarik</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2052404/2052404_10759578_1666765745832_GroupLocationCoherence--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052404/2052404_10759578_1666765745832_GroupLocationCoherence--rgov-800width.jpg" title="Group Location Coherence"><img src="/por/images/Reports/POR/2022/2052404/2052404_10759578_1666765745832_GroupLocationCoherence--rgov-66x44.jpg" alt="Group Location Coherence"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A high-level view of the data dashboard for Group Collaborative Coherence (left panel) and drill-down view of cohesion variable sub-scores (communication actions & location). Note: Green = all good; Yellow = OK, but not optimal; Orange = caution; Red = intervention may be needed</div> <div class="imageCredit">ALEX STOLYARIK</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alex&nbsp;Stolyarik</div> <div class="imageTitle">Group Location Coherence</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2052404/2052404_10759578_1666766150310_StudentAttention--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052404/2052404_10759578_1666766150310_StudentAttention--rgov-800width.jpg" title="Student Attention"><img src="/por/images/Reports/POR/2022/2052404/2052404_10759578_1666766150310_StudentAttention--rgov-66x44.jpg" alt="Student Attention"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Student gaze: percentage of students with gaze on instructor or; Slides green: percentage above 75%; Red: percentage below 25%; Off-task activities: percentage of students drawing, grabbing, etc. Green: percentage below 25%; Red: percentage above 50%.</div> <div class="imageCredit">JAN PLASS</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alex&nbsp;Stolyarik</div> <div class="imageTitle">Student Attention</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2052404/2052404_10759578_1666766391199_StudentBehaviourData--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052404/2052404_10759578_1666766391199_StudentBehaviourData--rgov-800width.jpg" title="Student Behavior Data"><img src="/por/images/Reports/POR/2022/2052404/2052404_10759578_1666766391199_StudentBehaviourData--rgov-66x44.jpg" alt="Student Behavior Data"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Example of dashboard data (voice, movement, rotation, grab, embody, laser, primary activity) for group collaborative patterns. Note: Green = all good; Yellow = OK, but not optimal; Orange = caution; Red = intervention may be needed</div> <div class="imageCredit">JAN PLASS</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alex&nbsp;Stolyarik</div> <div class="imageTitle">Student Behavior Data</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2052404/2052404_10759578_1666766545199_Studentbehaviourdatainterval--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052404/2052404_10759578_1666766545199_Studentbehaviourdatainterval--rgov-800width.jpg" title="Student behavior data interval"><img src="/por/images/Reports/POR/2022/2052404/2052404_10759578_1666766545199_Studentbehaviourdatainterval--rgov-66x44.jpg" alt="Student behavior data interval"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Example of dashboard data comparison in an interval of time selected. Note: Green = all good; Yellow = OK, but not optimal; Orange = caution; Red = intervention may be needed</div> <div class="imageCredit">ALEX STOLYARIK</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Alex&nbsp;Stolyarik</div> <div class="imageTitle">Student behavior data interval</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ ESO SBIR Phase I Outcomes Report  EcoSystemOne (ESO) is an Immersive Unity/Photon-based Virtual Reality multiplayer environment for collaborative project-based distance learning online. The application uses a cloud architecture in which all computations are hosted directly on the servers, with results being simultaneously streamed to clients; thus, all user audio-visual activities are synchronized in real-time.  The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be the creation of an advanced Immersive Virtual Reality (IVR) collaborative learning platform that is fully instrumented to provide instructors and students with feedback and support for productive collaborative learning. As the cost of immersive technologies becomes more affordable, an increasing amount of formal and informal education is taking place in digital environments, with distributed IVR being the digital environment with the greatest growth and potential for online distance learning.  The work undertaken in this project represents the first collaborative VR learning environment with adaptive learning engine to take advantage of the great amount of spatial data generated in virtual environments to actively monitor and provide visual feedback/ recommendations on student collaborative behavior (via teacher dashboards). This project will not only help build one of the most advanced, intelligent adaptive VR learning platforms, but will also provide a framework for the creation of future intelligent virtual environments for collaborative learning.  Specific objectives of the project included technical and pedagogical refinement of EcoSystemOne (ESO), to support diverse modes of group collaboration in a virtual learning environment, with the focus on the design and development of data-driven adaptive learning dashboards for teachers. Our ultimate goal is to develop an automated adaptive learning engine that will analyze student behaviors in order to identify specific group collaboration patterns and then implement automatic adaptive scaffolds to provide case-appropriate supports when needed.  Specific outcomes for this Phase I SBIR project included:  The development of a theory-driven, research-based framework of collaboration and group work to guide development of the ESO system The design and development of a data management system to store and organize the spatial and primary data generated by the ESO system   A Pilot study that:  Collected spatial and primary data to evaluate group collaboration and students? performance Assigned and codified group-collaboration patterns (video analyses) Tested and refined top-down and emerging collaborative group patterns     The design of a functional teacher dashboards prototype that provides insight into student participation and collaborative group functionality           Last Modified: 10/26/2022       Submitted by: Alex Stolyarik]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

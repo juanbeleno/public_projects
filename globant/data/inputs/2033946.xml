@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Neighborhood-level U.S. Internet Accessibility Assessment through Dataset Aggregation and Statistical and Predictive Modeling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>149439.00</AwardTotalIntnAmount>
+<AwardAmount>149439</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The U.S. has long suffered from digital inequities in multiple dimensions: rural and tribal regions are far less likely than urban cities to have high speed Internet access. Internet availability and quality within communities can often be predicted based on demographic and socioeconomic factors. The COVID-19 pandemic has brought to the forefront these inequalities; due to shelter-in-place orders, the lack of high quality Internet access has had dramatic impacts, including on the ability to participate in remote learning, remote work, and telehealth. While new government programs have been created to try to broaden access, a fundamental problem persists: no one accurately knows who does and does not have high quality access. There are many datasets of Internet measurements, but each on its own represents too incomplete a picture to provide the fine-grained information needed to discern which communities, or, ideally, neighborhoods lack quality Internet access. However, these datasets, when combined, is expected to provide a rich and geographically broad data source through which it may be possible to accurately assess Internet connectivity and performance. Furthermore, this study can let one  learn trends from these datasets to predict Internet accessibility in regions for which no measurement data is currently available. &lt;br/&gt;&lt;br/&gt;The goal of this project is threefold: (i) to aggregate data from public and private sources to produce the most fine-grained analysis and detailed maps, to date, within states, at the community and, ideally, neighborhood level, of where fixed and mobile Internet access exists, where it does not, and where it is of too poor quality to be usable; (ii) to build statistical models that use demographic and other social variables to understand variation in Internet availability and quality; and (iii) to use what is  learned to build predictive models of Internet service in areas for which there exist insufficient measurement data from available sources. &lt;br/&gt;&lt;br/&gt;This work will have broad impacts, including the informing of local, state and federal governments about where investments must be made to ensure all Americans have access to high quality mobile and/or fixed Internet. The project website, digitalaccess.cs.ucsb.edu,  will contain information about research methodology and outcomes, including a report on what is learned about the state of California, the first state of focus for this award.  Prediction models will also be made available.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033946</AwardID>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Belding</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elizabeth M Belding</PI_FULL_NAME>
+<EmailAddress><![CDATA[ebelding@cs.ucsb.edu]]></EmailAddress>
+<NSF_ID>000264752</NSF_ID>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>3227 CHEADLE HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName>Santa Barbara</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931062050</ZipCode>
+<StreetAddress><![CDATA[3227 Cheadle Hall, 3rd Floor]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~149439</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In the effort to create more accurate maps of fixed broadband deployment, crowdsourced measurement data, i.e. ?speed tests?, are an invaluable piece of the puzzle; they offer a snapshot of the instantaneous network performance, or the network quality, as experienced by the end user on their device.&nbsp; Aggregated from a single user over time, speed tests provide a longitudinal view on the reliability, stability, and performance consistency of the network connection.&nbsp; Alternatively, aggregated from multiple users over a small geographic area, they can point to important performance gaps within a region.&nbsp;</p> <p>However, there are several issues with taking speed tests measurements at face value; we must be very careful to understand what the speed test is actually measuring and how it compares to expected speed values. For example, many fixed broadband plans offer download speeds as high as 1 Gbps. If a speed test measures performance significantly less than these values, is it because the access network is under-performing, the user has purchased a lower-tier plan, or the user?s home WiFi network is misconfigured or experiencing interference? It is critical to determine the source of the under-performance, to know whether or not it is the fault of the ISP.&nbsp;</p> <p>Because these measurements provide critically important data about link performance, this project studied the impact of a variety of factors on speed test performance.&nbsp; In one of the primary studies from this project, we analyzed 745k individual Ookla speed test measurements and 717k individual Measurement-Lab (M-Lab) speed tests, two of the most used speed test platforms.&nbsp; The data represents all measurements taken in 2021 from the same four major U.S. cities.&nbsp;</p> <p>As a first step, we developed a method to reverse engineer the ISP speed plan from which each measurement originates. This first step is critical to contextualize the measurement to understand what range of speeds should have been achieved.&nbsp; We found, unsurprisingly, that lower speed plans are much more likely to achieve the purchased speed than are higher speed plans.&nbsp; We also found that the majority of speed tests stem from lower tier plans, thereby skewing aggregated results towards lower throughputs.</p> <p>As a second step, we investigated the impact of a variety of link and device characteristics on the measured performance.&nbsp; Our findings demonstrate that the access link type (WiFi versus ethernet), the WiFi link characteristics (RSSI, spectrum band), and the device type all influence the measured results.&nbsp; For instance, across ISP subscription tiers, tests conducted over ethernet are much more likely to achieve speeds closer to the purchased plan speed than tests conducted over WiFi.&nbsp; The same is true for tests in the WiFi 5GHz band compared to the 2.4GHz band.&nbsp; Similarly, WiFi signal strength (RSSI) and the available memory in the device also have an impact of measured performance.&nbsp; We do not claim that these are the only factors that can impact performance.&nbsp; It is likely that the operating system and other factors will also play a role.</p> <p>In addition to these findings, the measurement methodology is critical.&nbsp; For example, M-Lab and Ookla measure broadband speed in different ways.&nbsp; When we categorized results by their ISP broadband subscription tier, our analysis found that the median download speed of M-Lab measurements can be up to twice as slow as that measured by Ookla, for users of the same ISP plan.&nbsp;</p> <p>Based on our study, we urge speed test providers to include as much contextual information as possible to better understand the speed test measurements.&nbsp; This includes but is not limited to meta-data about the access link type, device type, and user subscription plan.&nbsp; We also encourage providing ?reasonable? location accuracy for measurement data so that it can be useful for understanding connectivity patterns.&nbsp; IP-geolocation techniques are known to have inaccuracies of up to 20km.&nbsp; This margin of error is much too large for planning broadband buildouts.&nbsp;&nbsp; Tagging measurements with latitude/longitude data of two to three decimal places offers a good starting point while still maintaining user privacy.</p> <p>Finally, we urge the FCC to not overlook this value data source, but instead to work with measurement providers and researchers to extract meaningful, contextualized Internet performance data to more fully understand internet performance and quality in current buildouts.</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/05/2022<br>      Modified by: Elizabeth&nbsp;M&nbsp;Belding</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ In the effort to create more accurate maps of fixed broadband deployment, crowdsourced measurement data, i.e. ?speed tests?, are an invaluable piece of the puzzle; they offer a snapshot of the instantaneous network performance, or the network quality, as experienced by the end user on their device.  Aggregated from a single user over time, speed tests provide a longitudinal view on the reliability, stability, and performance consistency of the network connection.  Alternatively, aggregated from multiple users over a small geographic area, they can point to important performance gaps within a region.   However, there are several issues with taking speed tests measurements at face value; we must be very careful to understand what the speed test is actually measuring and how it compares to expected speed values. For example, many fixed broadband plans offer download speeds as high as 1 Gbps. If a speed test measures performance significantly less than these values, is it because the access network is under-performing, the user has purchased a lower-tier plan, or the user?s home WiFi network is misconfigured or experiencing interference? It is critical to determine the source of the under-performance, to know whether or not it is the fault of the ISP.   Because these measurements provide critically important data about link performance, this project studied the impact of a variety of factors on speed test performance.  In one of the primary studies from this project, we analyzed 745k individual Ookla speed test measurements and 717k individual Measurement-Lab (M-Lab) speed tests, two of the most used speed test platforms.  The data represents all measurements taken in 2021 from the same four major U.S. cities.   As a first step, we developed a method to reverse engineer the ISP speed plan from which each measurement originates. This first step is critical to contextualize the measurement to understand what range of speeds should have been achieved.  We found, unsurprisingly, that lower speed plans are much more likely to achieve the purchased speed than are higher speed plans.  We also found that the majority of speed tests stem from lower tier plans, thereby skewing aggregated results towards lower throughputs.  As a second step, we investigated the impact of a variety of link and device characteristics on the measured performance.  Our findings demonstrate that the access link type (WiFi versus ethernet), the WiFi link characteristics (RSSI, spectrum band), and the device type all influence the measured results.  For instance, across ISP subscription tiers, tests conducted over ethernet are much more likely to achieve speeds closer to the purchased plan speed than tests conducted over WiFi.  The same is true for tests in the WiFi 5GHz band compared to the 2.4GHz band.  Similarly, WiFi signal strength (RSSI) and the available memory in the device also have an impact of measured performance.  We do not claim that these are the only factors that can impact performance.  It is likely that the operating system and other factors will also play a role.  In addition to these findings, the measurement methodology is critical.  For example, M-Lab and Ookla measure broadband speed in different ways.  When we categorized results by their ISP broadband subscription tier, our analysis found that the median download speed of M-Lab measurements can be up to twice as slow as that measured by Ookla, for users of the same ISP plan.   Based on our study, we urge speed test providers to include as much contextual information as possible to better understand the speed test measurements.  This includes but is not limited to meta-data about the access link type, device type, and user subscription plan.  We also encourage providing ?reasonable? location accuracy for measurement data so that it can be useful for understanding connectivity patterns.  IP-geolocation techniques are known to have inaccuracies of up to 20km.  This margin of error is much too large for planning broadband buildouts.   Tagging measurements with latitude/longitude data of two to three decimal places offers a good starting point while still maintaining user privacy.  Finally, we urge the FCC to not overlook this value data source, but instead to work with measurement providers and researchers to extract meaningful, contextualized Internet performance data to more fully understand internet performance and quality in current buildouts.          Last Modified: 12/05/2022       Submitted by: Elizabeth M Belding]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

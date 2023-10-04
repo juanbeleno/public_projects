@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: RAPID: Building a Spatiotemporal Platform for Rapid Response to COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Behrooz Shirazi</SignBlockName>
+<PO_EMAI>bshirazi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928343</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Spatiotemporal Innovation IUCRC develops novel spatiotemporal analytical tools to enable applications of national and global significance.  In response to the COVID-19 crisis, Harvard University and George Mason University, university sites within this IUCRC, propose this collaborative project to collect and share COVID related data in near real time, conduct spatiotemporal analytics, and mine socioeconomic and environmental knowledge to facilitate decision support systems in response to the pandemic. &lt;br/&gt; &lt;br/&gt;This project will build a unique cloud-based platform composed of a data collection subsystem for collecting global, high quality COVID-19-related data; spatiotemporal analytics tools for analyzing the disease evolution and socioeconomic patterns; and, modeling tools for assessing medical supplies and logistics.  Through web access services, the platform will provide capabilities for easy access to the data collected as well as access to the developed spatiotemporal analytical and modeling tools.  Such capabilities will facilitate quick production of data-driven decision support systems for community preparedness. This project has secured participation of 50+ international researchers in developing the proposed platform.  These researchers will help collect and validate data, analyze how policies influence the outbreaks, how the Earth environment is impacted, and how to balance reopening of the economy and controlling the spreading of the disease in the U.S. based on experiences from Asia and Europe. Over 200 undergraduate volunteers, including many from underrepresented groups, are already involved in this project through Harvard’s Coronavirus Visualization Team efforts. &lt;br/&gt;&lt;br/&gt;Data, information, and knowledge accumulated in this project have been, and will continue to be, archived long term in a comprehensive gateway (covid-19.stcenter.net). Such data include spatiotemporal distribution of confirmed cases, relevant social, economic and natural information from different resources, such as authoritative reports, news releases, Earth observation, and social media. Software and tools developed are posted on GitHub for open access. Sustained online collaboration is being conducted to produce replicable research using spatiotemporal analyses to mine patterns and relations between COVID-19 and social and natural factors for community response and preparedness.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027540</AwardID>
+<Investigator>
+<FirstName>Weihe</FirstName>
+<LastName>Guan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Weihe Guan</PI_FULL_NAME>
+<EmailAddress><![CDATA[wguan@cga.harvard.edu]]></EmailAddress>
+<NSF_ID>000781606</NSF_ID>
+<StartDate>05/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385369</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE 5TH FL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LN53LCFJFL45</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ML98SNHE8XL1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harvard University, IQSS]]></Name>
+<CityName>CAMBRIDGE</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021383016</ZipCode>
+<StreetAddress><![CDATA[1737 Cambridge Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>COVID-19 is a global pandemic that demands rapid responses. Given the urgency and complexity of this problem, no single research team can provide the solution quickly enough. Biotech and Geotech are two major technologies in responding to this crisis. Biotech research leads to the development of test kits, drugs and vaccines while Geotech research leads to the development of disease transmission predictions, social distancing measures, population vulnerability identifications, health care resource allocations, economic impact assessment, etc.</p> <p>This project leverages the research infrastructure of the IUCRC Spatiotemporal Innovation Center built in the past eight years, established several interconnected platforms to allow Geotech researchers to collaborate and build on each other?s work effectively. Outcomes of this project provided rich collections of COVID-19 related data and analytical tools on cloud-based virtual desktops, offered accounts to vetted researchers to login, use the data, contribute more data, use the tools (GIS, statistics, visualization, etc.), create analytical workflows (for reproduction, replication and expansion of published studies), share both data and workflows for others to replicate and expand on, thus quickly produce results for exploration, publication, and education.</p> <p>The&nbsp;project&nbsp;exemplified&nbsp;the utilization of spatiotemporal research in public health problems and other societal benefit areas.&nbsp;Specifically, it&nbsp;focused on advancing COVID-19 research, produced a source of knowledge related to&nbsp;covid-19 topics, including spatiotemporal-integrated datasets, big data computational platforms, analytical models, replicable workflows, visualization dashboards, and training materials and programs. These resources are well received and widely used by the global research community.&nbsp;The data collections, archives, models and computing capabilities developed in this project&nbsp;strengthened the public health infrastructure for addressing infectious diseases in the future.&nbsp;</p> <p>We conducted webinars that engaged&nbsp;more than 10,000 attendees, topics covering data usage, analytical methodology, modeling studies, policy analysis and many other scientific research and technology application cases.&nbsp;Over a dozen secondary cities around the world benefited from having a comprehensive geospatial dataset available online. People from over 150 countries downloaded COVID-19 data collections produced by the Center, which constitutes&nbsp;510,000+ accumulated downloads as of&nbsp;May&nbsp;15, 2021.&nbsp;Over a thousand people attended events hosted or co-hosted&nbsp;and more than 50 high school and colleague students received mentorship&nbsp;through the project&nbsp;on how to conduct data-driven research.&nbsp;</p><br> <p>            Last Modified: 09/01/2021<br>      Modified by: Weihe&nbsp;Guan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ COVID-19 is a global pandemic that demands rapid responses. Given the urgency and complexity of this problem, no single research team can provide the solution quickly enough. Biotech and Geotech are two major technologies in responding to this crisis. Biotech research leads to the development of test kits, drugs and vaccines while Geotech research leads to the development of disease transmission predictions, social distancing measures, population vulnerability identifications, health care resource allocations, economic impact assessment, etc.  This project leverages the research infrastructure of the IUCRC Spatiotemporal Innovation Center built in the past eight years, established several interconnected platforms to allow Geotech researchers to collaborate and build on each other?s work effectively. Outcomes of this project provided rich collections of COVID-19 related data and analytical tools on cloud-based virtual desktops, offered accounts to vetted researchers to login, use the data, contribute more data, use the tools (GIS, statistics, visualization, etc.), create analytical workflows (for reproduction, replication and expansion of published studies), share both data and workflows for others to replicate and expand on, thus quickly produce results for exploration, publication, and education.  The project exemplified the utilization of spatiotemporal research in public health problems and other societal benefit areas. Specifically, it focused on advancing COVID-19 research, produced a source of knowledge related to covid-19 topics, including spatiotemporal-integrated datasets, big data computational platforms, analytical models, replicable workflows, visualization dashboards, and training materials and programs. These resources are well received and widely used by the global research community. The data collections, archives, models and computing capabilities developed in this project strengthened the public health infrastructure for addressing infectious diseases in the future.   We conducted webinars that engaged more than 10,000 attendees, topics covering data usage, analytical methodology, modeling studies, policy analysis and many other scientific research and technology application cases. Over a dozen secondary cities around the world benefited from having a comprehensive geospatial dataset available online. People from over 150 countries downloaded COVID-19 data collections produced by the Center, which constitutes 510,000+ accumulated downloads as of May 15, 2021. Over a thousand people attended events hosted or co-hosted and more than 50 high school and colleague students received mentorship through the project on how to conduct data-driven research.        Last Modified: 09/01/2021       Submitted by: Weihe Guan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

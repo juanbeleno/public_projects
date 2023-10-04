@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Convergence Accelerator Track - Track D - AI-Enabled, Privacy-Preserving Information Sharing for Securing Network Infrastructure]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>968013.00</AwardTotalIntnAmount>
+<AwardAmount>968013</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mike Pozmantier</SignBlockName>
+<PO_EMAI>mpozmant@nsf.gov</PO_EMAI>
+<PO_PHON>7032924475</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future. Cyber attacks on enterprise networks pose a tremendous threat to business operations today. Defending against the ever-changing landscape of threats and normal user traffic is time-consuming and labor-intensive. To address this challenge, there is an ongoing effort across many sectors to adopt artificial intelligence and machine learning (AI/ML) models to automate security incident detection and response. In practice, however, there are two roadblocks to AI/ML-enabled workflows: (1) lack of sufficient data to train a reliable model to detect new attack campaigns or model normal behaviors; (2) lack of confidence in model outputs over a short timeframe, inducing undesirable tradeoffs between false positives (i.e., blocking legitimate users) and false negatives (i.e., missing attacks). Ideally, sharing data would help address both of these problems, however this information is rarely shared (if at all) due to concerns about consumer or business privacy, and what is shared in many cases is anonymized in such way that the data loses its value. This project will create new capabilities for sharing detailed yet privacy-preserving information about security incidents that will substantially alter the data-sharing pipeline, both within and across organizations and accelerate the industry transition to AI-driven security workflows. Having better AI-driven cybersecurity tools will have an enormous impact in protecting critical infrastructure and networks across all sectors from cybers attacks. &lt;br/&gt;&lt;br/&gt;This project will take an interdisciplinary approach spanning AI/ML, security, privacy, networked systems, law, and policy. It will tackle the fundamental tradeoffs among privacy, utility, and efficiency along three key thrusts: (1) design and implement novel generative adversarial networks (GANs) by which an enterprise can model its network data to inform anomaly detection by others. This thrust will design and implement novel GANs and analyze their privacy implications and their utility for use by others to detect malicious network activity. (2) Design and implement new cryptographic protocols and systems workflows for efficiently comparing hypotheses (suspicious identifiers, such as domain names, IP subnets, and program hashes) across enterprises to inform policy deployments. (3) Develop new legal and policy analyses on the implications of sharing such synthetic data, ML models, and hypotheses. By addressing these three critical areas and engaging key stakeholders, the tools developed by this project stand a high probably of gaining adoption and having tremendous value to the country by improving cybersecurity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040675</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Feamster</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicholas G Feamster</PI_FULL_NAME>
+<EmailAddress><![CDATA[feamster@uchicago.edu]]></EmailAddress>
+<NSF_ID>000489704</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lior</FirstName>
+<LastName>Strahilevitz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lior Strahilevitz</PI_FULL_NAME>
+<EmailAddress><![CDATA[lior@uchicago.edu]]></EmailAddress>
+<NSF_ID>000832376</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Reiter</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Reiter</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.reiter@duke.edu]]></EmailAddress>
+<NSF_ID>000161868</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vyas</FirstName>
+<LastName>Sekar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vyas Sekar</PI_FULL_NAME>
+<EmailAddress><![CDATA[vsekar@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000654046</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Giulia</FirstName>
+<LastName>Fanti</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Giulia Fanti</PI_FULL_NAME>
+<EmailAddress><![CDATA[gfanti@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000734916</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie Mellon University]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 Forbes Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~968013</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-2c91392a-7fff-5fe7-ab6e-a10ba284c613"> <p dir="ltr"><span>Our goal for this project was to implement new infrastructure within existing Information Sharing and Analysis Centers (ISACs), which are nonprofit organizations that facilitate the sharing of information regarding cybersecurity threats between enterprises. Our initial goal was to build software that could be integrated with ISAC infrastructure to increase the amount and flexibility of data that is shared within ISACs. Specifically, we wanted to facilitate the sharing of network traffic to detect emergent threats. This software would enable ISAC members to upload and share synthetic data (e.g., raw network traces) from their local data stores, which other members could use to train detection models. Additionally, our software would allow organizations to compare encrypted policies or alerts to identify similar policies across organizations.</span></p> <p dir="ltr"><span>Over the course of this grant, our focus shifted as a result of the PI curriculum, which involved meeting with potential customers (including ISAC operators and members). Although our technological goals remained the same, we instead turned our focus to data sharing in enterprise settings not mediated by ISACs. Over the period of this grant, we had several major project outcomes.&nbsp;</span></p> <br /> <p dir="ltr"><span>1) </span><strong>Synthetic data</strong><span>: We have developed new technologies for enabling data sharing across organizations via &ldquo;synthetic data&rdquo;, or data that is generated to mimic real data, without directly copying it. Our approach in this project was to generate synthetic data from deep generative models, which have recently gained traction in the machine learning community for their ability to model complex distributions, such as images. We have designed new architectures to model network traffic with deep generative models and demonstrated the efficacy of such approaches on various types of network traces, including traffic measurements, resource usage traces, and packet captures. Our work has resulted in academic publications in the networking, security, and machine learning domains. It has also resulted in an open source project (DataFuel), which allows users to generate synthetic data models on their own datasets.&nbsp;</span></p> <br /> <p dir="ltr"><span>2) </span><strong>Network traffic analysis</strong><span>: </span><span>Data representation plays a critical role in the performance of novelty detection (or ``anomaly detection'') methods in machine learning. The data representation of network traffic often determines the effectiveness of these models as much as the model itself. Over the course of this project, we have developed a systematic framework, open-source toolkit, and public Python library that makes it both possible and easy to extract and generate features from network traffic and perform and end-to-end evaluation of these representations across most prevalent modern novelty detection models. We first develop and publicly release an open-source tool, an accompanying Python library (NetML), and end-to-end pipeline for novelty detection in network traffic. Second, we apply this tool to five different novelty detection problems in networking, across a range of scenarios from attack detection to novel device detection. Our findings general insights and guidelines concerning which features appear to be more appropriate for particular situations.</span></p> <br /> <p dir="ltr"><span>3) </span><strong>Encrypted data comparison techniques</strong><span>: </span><span>To enable organizations to compare encrypted policies or alerts to identify similar policies across organizations, we developed novel generalizations of private set intersection (PSI) protocols, which generally allow two mutually untrusting parties to compute an intersection of their sets, without revealing information about items that are not in the intersection.&nbsp; In particular, we introduced a PSI variant called distance-aware PSI (DA-PSI) for sets whose elements lie in a metric space. DA-PSI returns pairs of items that are within a specified distance threshold of each other. We showed how this new construct can be used to compare lists of suspicious IP addresses when an entire subnetwork of IP addresses is malicious. In these cases, different organizations may not see the exact same suspicious IP addresses, but their lists of suspicious IP addresses may fall in the same range, or &ldquo;subnetwork&rdquo;. In these cases, existing PSI tools fail; we show that our relaxed construction succeeds over real honeypot data.&nbsp;</span></p> </span></p><br> <p>            Last Modified: 09/12/2022<br>      Modified by: Giulia&nbsp;Fanti</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Our goal for this project was to implement new infrastructure within existing Information Sharing and Analysis Centers (ISACs), which are nonprofit organizations that facilitate the sharing of information regarding cybersecurity threats between enterprises. Our initial goal was to build software that could be integrated with ISAC infrastructure to increase the amount and flexibility of data that is shared within ISACs. Specifically, we wanted to facilitate the sharing of network traffic to detect emergent threats. This software would enable ISAC members to upload and share synthetic data (e.g., raw network traces) from their local data stores, which other members could use to train detection models. Additionally, our software would allow organizations to compare encrypted policies or alerts to identify similar policies across organizations. Over the course of this grant, our focus shifted as a result of the PI curriculum, which involved meeting with potential customers (including ISAC operators and members). Although our technological goals remained the same, we instead turned our focus to data sharing in enterprise settings not mediated by ISACs. Over the period of this grant, we had several major project outcomes.    1) Synthetic data: We have developed new technologies for enabling data sharing across organizations via "synthetic data", or data that is generated to mimic real data, without directly copying it. Our approach in this project was to generate synthetic data from deep generative models, which have recently gained traction in the machine learning community for their ability to model complex distributions, such as images. We have designed new architectures to model network traffic with deep generative models and demonstrated the efficacy of such approaches on various types of network traces, including traffic measurements, resource usage traces, and packet captures. Our work has resulted in academic publications in the networking, security, and machine learning domains. It has also resulted in an open source project (DataFuel), which allows users to generate synthetic data models on their own datasets.    2) Network traffic analysis: Data representation plays a critical role in the performance of novelty detection (or ``anomaly detection'') methods in machine learning. The data representation of network traffic often determines the effectiveness of these models as much as the model itself. Over the course of this project, we have developed a systematic framework, open-source toolkit, and public Python library that makes it both possible and easy to extract and generate features from network traffic and perform and end-to-end evaluation of these representations across most prevalent modern novelty detection models. We first develop and publicly release an open-source tool, an accompanying Python library (NetML), and end-to-end pipeline for novelty detection in network traffic. Second, we apply this tool to five different novelty detection problems in networking, across a range of scenarios from attack detection to novel device detection. Our findings general insights and guidelines concerning which features appear to be more appropriate for particular situations.   3) Encrypted data comparison techniques: To enable organizations to compare encrypted policies or alerts to identify similar policies across organizations, we developed novel generalizations of private set intersection (PSI) protocols, which generally allow two mutually untrusting parties to compute an intersection of their sets, without revealing information about items that are not in the intersection.  In particular, we introduced a PSI variant called distance-aware PSI (DA-PSI) for sets whose elements lie in a metric space. DA-PSI returns pairs of items that are within a specified distance threshold of each other. We showed how this new construct can be used to compare lists of suspicious IP addresses when an entire subnetwork of IP addresses is malicious. In these cases, different organizations may not see the exact same suspicious IP addresses, but their lists of suspicious IP addresses may fall in the same range, or "subnetwork". In these cases, existing PSI tools fail; we show that our relaxed construction succeeds over real honeypot data.         Last Modified: 09/12/2022       Submitted by: Giulia Fanti]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

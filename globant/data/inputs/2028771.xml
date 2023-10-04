@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research:  PPoSS: Planning: Making Smart Use of SmartNICs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>79997.00</AwardTotalIntnAmount>
+<AwardAmount>79997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wei Ding</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Computing paradigms occasionally undergo rather dramatic shifts as underlying technologies change, significantly modifying the dominant use cases. Some of these revolutions are seen far in advance and are heralded by great fanfare, with the hype long preceding the actual payoffs. Others are more opportunistic in nature, leveraging a technology initially developed for another purpose, and the adoption of this technology starts altering practice without much notice from the broader community. Computing is now on the verge of such a “quiet revolution” having to do with inserting computation on the devices that connect computers to the network. This trend towards what are called SmartNICs (for computationally enhanced network interface cards) shows great promise in both making applications faster and in keeping data more secure. This project will focus on how to best leverage SmartNICs in order to improve application performance and security.&lt;br/&gt;&lt;br/&gt;SmartNICs were originally designed to offload packet-processing from the host CPU, which processing is necessary in certain settings to perform encryption and other compute-intensive tasks on the data path. SmartNICs combine this packet-processing power with three other characteristics: (i) isolation from the host CPU, (ii) direct access to memory, and (iii) general programmability. It turns out that this combination gives SmartNICs the potential to play a powerful and unique role in the overall computational ecosystem. In particular, by sitting on the boundary between the network and hosts, they can change the interfaces being exposed to both, allowing SmartNICs to substantially improve application performance while also providing greater security and privacy. However, realizing these gains requires making progress on three separate issues. First, the hardware design of SmartNICs must combine several different units (a specialized packet-handling unit, an remote direct memory access unit, and a general computation unit), and provide fast interconnections between them and with the host memory. The design space is vast, and there is little agreement on what designs represent the best trade-offs. Second, these SmartNICs must offer applications a set of primitives that can improve their performance and security. These primitives must be chosen wisely to be feasible for SmartNICs to support while being easy for applications to leverage for better performance and security. Third, verification tools are needed to ensure that the programs on the SmartNIC are correctly executed and that the overall system -- running on multiple hosts and their SmartNICs -- is correct. This will require extensions to current verification techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028771</AwardID>
+<Investigator>
+<FirstName>Arvind</FirstName>
+<LastName>Krishnamurthy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arvind Krishnamurthy</PI_FULL_NAME>
+<EmailAddress><![CDATA[arvind@cs.washington.edu]]></EmailAddress>
+<NSF_ID>000488256</NSF_ID>
+<StartDate>08/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 BROOKLYN AVE NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF WASHINGTON VICE PR</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981952350</ZipCode>
+<StreetAddress><![CDATA[185 Stevens Way CSE101]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>PPoSS-PP of Scalable Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~79997</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-446b5ea3-7fff-593a-8b50-3d8387c1e62b"> </span></p> <p dir="ltr"><span>This planning grant enabled us to explore some of the more far-reaching implications of a new generation of network interface cards (or NICs) that are equipped with substantial computing power. These so-called SmartNICs were originally intended to mainly offload compute-intensive network datapath functionality (such as encryption, routing packets between VMs, and congestion control) from the host. However, these SmartNICs have three special properties:&nbsp; (i) isolation from the host CPU (eliminating many timing side-channels and making the NIC harder to compromise), (ii) direct access to memory (so the host CPU can be bypassed), and (iii) varying degrees of programmability for both packet-handling and general computation (making it possible to offload computation from the host). We believe that because of these traits the impact of SmartNICs will be profound. Leveraging the power of SmartNICs will require us to rethink how we build systems to take advantage of these specific capabilities, and this planning grant was the first step in our attempts to do so.</span></p> <p><br /><span>Our results furthered our understanding of: (i) how to use SmartNICs to interpose functionality on traffic that is bypassing the kernel, (ii)&nbsp; how to use SmartNICs to offload load-balancing functionality, (iii) how to build a runtime-reconfigurable network stack, and (iv) how to provide a flexible interface for remote memory access. </span><span>We also hosted an all-day workshop on Programmable Device Hardware Implementations and Applications. </span></p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/04/2021<br>      Modified by: Arvind&nbsp;Krishnamurthy</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   This planning grant enabled us to explore some of the more far-reaching implications of a new generation of network interface cards (or NICs) that are equipped with substantial computing power. These so-called SmartNICs were originally intended to mainly offload compute-intensive network datapath functionality (such as encryption, routing packets between VMs, and congestion control) from the host. However, these SmartNICs have three special properties:  (i) isolation from the host CPU (eliminating many timing side-channels and making the NIC harder to compromise), (ii) direct access to memory (so the host CPU can be bypassed), and (iii) varying degrees of programmability for both packet-handling and general computation (making it possible to offload computation from the host). We believe that because of these traits the impact of SmartNICs will be profound. Leveraging the power of SmartNICs will require us to rethink how we build systems to take advantage of these specific capabilities, and this planning grant was the first step in our attempts to do so.   Our results furthered our understanding of: (i) how to use SmartNICs to interpose functionality on traffic that is bypassing the kernel, (ii)  how to use SmartNICs to offload load-balancing functionality, (iii) how to build a runtime-reconfigurable network stack, and (iv) how to provide a flexible interface for remote memory access. We also hosted an all-day workshop on Programmable Device Hardware Implementations and Applications.              Last Modified: 12/04/2021       Submitted by: Arvind Krishnamurthy]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

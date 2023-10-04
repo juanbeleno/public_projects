@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Computer Progress and Economic Prosperity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>359772</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Walker</SignBlockName>
+<PO_EMAI>edwalker@nsf.gov</PO_EMAI>
+<PO_PHON>7032924863</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Besides contributing to U.S. productivity, information technology (IT) improvements have been an important source of competitive advantage for U.S. firms.  This research project explores alternative sources of information technology improvements that could drive U.S. economic prosperity in the future, and identifies research and policy interventions that would be needed to generate the improvements.  The work combines techniques and content from two fields – computer science and empirical economics.  It applies new expertise, and incorporates novel disciplinary and interdisciplinary perspectives.  Many of these analyses will also be the first of these types to be done, fulfilling the EAGER goal of being exploratory.  &lt;br/&gt;&lt;br/&gt;The project identifies opportunities for computer productivity improvement as the contributions from Moore’s Law ends, focusing in three specific areas: hardware, algorithms, and software.&lt;br/&gt; - Recent roadmaps developed by the International Roadmap for Devices and Systems (IRDS) and the Heterogeneous Integration Roadmap (HIR) propose domain specialization as the alternative driving force for hardware improvement. However, specialization also fractures the semiconductor market, undermining the economics of chip production. The hardware component of this project will examine how much specialization would be economical.&lt;br/&gt; - The President’s Council of Advisors on Science and Technology has claimed, based on case studies, that algorithms are more important than hardware for computer improvements.  The PI has recently created a first-of-its-kind census of algorithm progress, and shows that such rapid improvements only happened in a limited number of areas. The algorithm component of this project would map how algorithms are being used, to understand how much algorithm progress is benefiting users, who is benefiting, and how much this is changing over time.&lt;br/&gt; - Machine learning (ML) has been producing substantial benefits. However, much of this improvement has come from deep learning, an area where economics could impact future gains.  Continued progress will require either better software performance engineering or new, more-efficient machine learning techniques. The software/ML component of this project will explore the potential for these approaches.&lt;br/&gt;Overall, this EAGER project will fill an important gap in understanding of the technical, economic, and policy implications of various approaches to computing and IT productivity improvement, and provide a better understanding of the connections between scientific advances, industrial policies, and economic progress.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/21/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041897</AwardID>
+<Investigator>
+<FirstName>Neil</FirstName>
+<LastName>Thompson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Neil Thompson</PI_FULL_NAME>
+<EmailAddress><![CDATA[neil_t@mit.edu]]></EmailAddress>
+<NSF_ID>000657484</NSF_ID>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394307</ZipCode>
+<StreetAddress><![CDATA[77 Massachusetts Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7231</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7726</Code>
+<Text>Data Cyberinfrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7231</Code>
+<Text>CYBERINFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<FUND_OBLG>2022~59772</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-3f179a97-7fff-6fbe-ad47-4ee3e5b48ebf">&nbsp;</span></p> <p dir="ltr"><span>Progress in information technology has been responsible for a large share of U.S. productivity growth in recent decades, generating trillions of dollars in U.S. GDP. But these productivity contributions have slowed since 2004, as Dennard Scaling ended and Moore&rsquo;s Law faded. This grant explores what other sources of I.T. improvements could drive U.S. economic prosperity and what research or policy interventions would be needed to generate them. By uncovering the technical and economic trends in computing, policymakers, firms, and technical researchers can better advance computing and generate economic prosperity. </span><span>Our group has examined computer progress and economic prosperity from three perspectives of (1) hardware, (2) algorithm, and (3) AI.&nbsp;</span></p> <p dir="ltr"><span>In the hardware project, we propose two Amdahl&rsquo;s law-like arguments that purport to show that hardware specialization will rapidly run out of steam as it hits technical limits to provide speed-ups. We show that the fragmenting of chip-designs that is required for chip-specialization to provide a steady stream of performance improvements will strain the economic ability to finance the necessary R&amp;D and innovation.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>In the algorithm project, we identify algorithm patents and show that algorithm patents are significantly crucial for firm-level efficiency. Having algorithm patents is positively associated with firm market value. On the other hand, we also find that most algorithm problems already have provably optimal algorithms. </span><span>65% have time complexities that are asymptotically optimal, while the rest have gaps remaining between the best known algorithms and theoretical bounds: 14% have a sublinear gap, 7% have a linear gap, 13% have a polynomial gap, and 1% have an exponential gap.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Lastly, in the AI project, we find that</span><span> the growing computational burden of deep learning will soon be constraining for a range of applications, making the achievement of important benchmark milestones impossible if current trajectories hold. Finally, we have discussed the likely impact of these computational limits: forcing Deep Learning towards less computationally-intensive methods of improvement, and pushing machine learning towards techniques that are more computationally-efficient than current deep learning approaches. In addition, for several AI examples such as Go, protein fold, and weather prediction, we examined the contribution of more computing power to better outcomes by analyzing it based on the natural units of computing power. We find that computing power account for half or more of all improvement. The size of this contribution is remarkable since a change in computing power has only a tiny effect per unit.</span></p><br> <p>            Last Modified: 01/09/2023<br>      Modified by: Neil&nbsp;Thompson</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Progress in information technology has been responsible for a large share of U.S. productivity growth in recent decades, generating trillions of dollars in U.S. GDP. But these productivity contributions have slowed since 2004, as Dennard Scaling ended and Moore’s Law faded. This grant explores what other sources of I.T. improvements could drive U.S. economic prosperity and what research or policy interventions would be needed to generate them. By uncovering the technical and economic trends in computing, policymakers, firms, and technical researchers can better advance computing and generate economic prosperity. Our group has examined computer progress and economic prosperity from three perspectives of (1) hardware, (2) algorithm, and (3) AI.  In the hardware project, we propose two Amdahl’s law-like arguments that purport to show that hardware specialization will rapidly run out of steam as it hits technical limits to provide speed-ups. We show that the fragmenting of chip-designs that is required for chip-specialization to provide a steady stream of performance improvements will strain the economic ability to finance the necessary R&amp;D and innovation.     In the algorithm project, we identify algorithm patents and show that algorithm patents are significantly crucial for firm-level efficiency. Having algorithm patents is positively associated with firm market value. On the other hand, we also find that most algorithm problems already have provably optimal algorithms. 65% have time complexities that are asymptotically optimal, while the rest have gaps remaining between the best known algorithms and theoretical bounds: 14% have a sublinear gap, 7% have a linear gap, 13% have a polynomial gap, and 1% have an exponential gap.     Lastly, in the AI project, we find that the growing computational burden of deep learning will soon be constraining for a range of applications, making the achievement of important benchmark milestones impossible if current trajectories hold. Finally, we have discussed the likely impact of these computational limits: forcing Deep Learning towards less computationally-intensive methods of improvement, and pushing machine learning towards techniques that are more computationally-efficient than current deep learning approaches. In addition, for several AI examples such as Go, protein fold, and weather prediction, we examined the contribution of more computing power to better outcomes by analyzing it based on the natural units of computing power. We find that computing power account for half or more of all improvement. The size of this contribution is remarkable since a change in computing power has only a tiny effect per unit.       Last Modified: 01/09/2023       Submitted by: Neil Thompson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

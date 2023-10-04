@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative Research: VAPOC: Visualization, Analysis and Prediction of COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>40000.00</AwardTotalIntnAmount>
+<AwardAmount>40000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michelle Rogers</SignBlockName>
+<PO_EMAI>mlrogers@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Preliminary statistical analysis of COVID-19 data shows that African Americans are more affected by COVID-19 than other ethnic groups in the USA. Recent data from the Centers for Disease Control and Prevention (CDC) confirms that the black population accounted for 30% of cases of the virus in the United States, although it is only approximately 13% of the US population. In New York city, an epicenter of COVID-19, data also show that the black population represents 28% of deaths due to COVID-19. The goal of the VAPOC (Visualization, Analysis and Prediction of COVID-19) project is to find out reasons as to why the black community is disproportionately impacted during the coronavirus pandemic. It seems a combination of factors is responsible for African Americans’ susceptibility to COVID-19. This poses a pattern recognition as well as knowledge discovery problem. It is hypothesized that pre-existing conditions, type of employment, and access to healthcare among other factors have significant influences in the higher death rate of African Americans during the COVID-19 pandemic. The visualization, analysis, and prediction of COVID-19 in the African American community is necessary for: 1) the community to be well informed about measures to ameliorate the impact of coronavirus and to reduce its spread, and 2) a proper understanding of what factors medical professionals should prioritize when performing health assessments and diagnostic tests for COVID-19 patients.  VAPOC will also help decision-makers to improve mitigation strategies. This project is a collaborative effort between the University of the District of Columbia and Bowie State University.&lt;br/&gt;&lt;br/&gt;To accomplish the research goal, the three research objectives of this project are: 1) to design, develop and evaluate a COVID-19 model to determine vulnerability to coronavirus; 2) to develop a visualization and interaction tool to analyze COVID-19 patients’ data in an immersive and non-immersive environment, and evaluate how graphical objects (such as data-shapes) developed in accordance with the user’s requirements can enhance situational awareness; and 3) to design, develop and evaluate a deep learning model to predict the extent of COVID-19 damage to discharged patients. VAPOC combines neural network predictions with human-centric situational awareness and data analytics to provide accurate, timely and scientifically-based strategy for combating and mitigating the spread of the novel coronavirus in the black community. Ultimately, understanding how COVID-19 affects the black community will also provide criteria for mitigating the spread of future outbreaks. Furthermore, the project will leverage research in deep learning, data analytics and data visualization to provide information that could be used to inform the allocation of resources and institutional policies to reduce the disparity of COVID-19 deaths in the African American community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032344</AwardID>
+<Investigator>
+<FirstName>Sharad</FirstName>
+<LastName>Sharma</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sharad Sharma</PI_FULL_NAME>
+<EmailAddress><![CDATA[sharad.sharma@unt.edu]]></EmailAddress>
+<NSF_ID>000326939</NSF_ID>
+<StartDate>05/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bowie State University</Name>
+<CityName>BOWIE</CityName>
+<ZipCode>207153319</ZipCode>
+<PhoneNumber>3018604399</PhoneNumber>
+<StreetAddress>14000 JERICHO PARK RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WMEEHCAPGR65</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOWIE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bowie State University]]></Name>
+<CityName>Bowie</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>207159465</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>070y</Code>
+<Text>HBCU-EiR - HBCU-Excellence in</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~40000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;The goal of VAPOC (Visualization, Analysis, and Prediction of COVID-19) project was to find out the reasons why the black community is disproportionally impacted during the coronavirus pandemic. The VAPOC project combined neural network predictions with human-centric situational awareness and data analytics to provide accurate, timely, and scientific strategy in combatting and mitigating the spread of the coronavirus plague. The project was a collaboration between BSU (Bowie State University) and UDC (University of District of Columbia). BSU&rsquo;s goal was to develop a visualization and interaction tool to analyze COVID-19 patients&rsquo; dataset in an immersive and non-immersive environment, and evaluate how graphical objects (such as data shapes) developed in accordance with the user&rsquo;s requirements can enhance situational awareness. COVID-19 data is huge. The data is rapidly growing and the numbers are changing exponentially. Real-time data visualization can enhance decision-making and empower teams with human-centric situational awareness insights. Decision making relies on data that comes in overwhelming velocity and volume, that one cannot comprehend without some layer of abstraction.</p> <p>This research effort demonstrated the data visualization of the COVID pandemic in real-time for the fifty states in the USA. Our proposed data visualization tool includes both conceptual and data-driven information. The tool incorporates the USA map displaying different variables related to COVID data for each state. The data visualization includes stacked bar graphs, geographic representations of the data, and offers situational awareness of the COVID-19 pandemic. The developed data visualization tool provides situational awareness of COVID-19 data by incorporating the real-time API to help in analyzing the data change which can be helpful in predictive analysis. The development and testing of the data visualization tool were done using the Unity gaming engine. Testing was done with a real-time feed of the COVID -19 data set for immersive environment, non-immersive environment, and mobile environment. The tool automatically loads the COVID data from the current COVID-19 tracking API. This research has shown: (1) virtual reality can be used as a data visualization platform, (2) a more immersive environment with oculus integration allows human-centric situational awareness and visualization that is needed for analyzing the big data, (3) The mobile version allowed the user to navigate in the environment using two controllers that were incorporated at the bottom of the screen on each side. (4) big data visualization can be represented two-fold, focusing on both visualization and interaction.</p> <p>The grant leveraged research in&nbsp;AI, data science, data analytics, and visualization among the two HBCUs. The project contributed to broader impacts by a) addressing the need for a greater number of underrepresented minorities in computer science; b) addressing the need for more effective approaches to computer science research among diverse students; and c) enhancing the infrastructure for research and computer science education, through partnerships across HBCUs. Outcomes of the project and research initiatives were documented and shared broadly with implications for computer science education and research in the African American community.</p><br> <p>            Last Modified: 06/16/2022<br>      Modified by: Sharad&nbsp;Sharma</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2032344/2032344_10671943_1655405597312_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2032344/2032344_10671943_1655405597312_1--rgov-800width.jpg" title="3D data visualization in an immersive environment"><img src="/por/images/Reports/POR/2022/2032344/2032344_10671943_1655405597312_1--rgov-66x44.jpg" alt="3D data visualization in an immersive environment"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure shows the immersive environment for data visualization of COVID-19 data</div> <div class="imageCredit">Sharad Sharma</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Sharad&nbsp;Sharma</div> <div class="imageTitle">3D data visualization in an immersive environment</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2032344/2032344_10671943_1655405466810_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2032344/2032344_10671943_1655405466810_2--rgov-800width.jpg" title="Interacting with the map through Oculus touch controllers."><img src="/por/images/Reports/POR/2022/2032344/2032344_10671943_1655405466810_2--rgov-66x44.jpg" alt="Interacting with the map through Oculus touch controllers."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure shows the user interacting in the immersive VR environment through Oculus controllers</div> <div class="imageCredit">Sharad Sharma</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Sharad&nbsp;Sharma</div> <div class="imageTitle">Interacting with the map through Oculus touch controllers.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2032344/2032344_10671943_1655406759213_5--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2032344/2032344_10671943_1655406759213_5--rgov-800width.jpg" title="Oculus and Mobile version UI Interaction"><img src="/por/images/Reports/POR/2022/2032344/2032344_10671943_1655406759213_5--rgov-66x44.jpg" alt="Oculus and Mobile version UI Interaction"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The menu attached to the left hand is responsible for enabling and disabling the bars on the graph</div> <div class="imageCredit">Sharad Sharma</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Sharad&nbsp;Sharma</div> <div class="imageTitle">Oculus and Mobile version UI Interaction</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2032344/2032344_10671943_1655410221137_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2032344/2032344_10671943_1655410221137_1--rgov-800width.jpg" title="3D data visualization in an immersive environment"><img src="/por/images/Reports/POR/2022/2032344/2032344_10671943_1655410221137_1--rgov-66x44.jpg" alt="3D data visualization in an immersive environment"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure shows the immersive environment for data visualization of COVID-19 data</div> <div class="imageCredit">Sharad Sharma</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sharad&nbsp;Sharma</div> <div class="imageTitle">3D data visualization in an immersive environment</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The goal of VAPOC (Visualization, Analysis, and Prediction of COVID-19) project was to find out the reasons why the black community is disproportionally impacted during the coronavirus pandemic. The VAPOC project combined neural network predictions with human-centric situational awareness and data analytics to provide accurate, timely, and scientific strategy in combatting and mitigating the spread of the coronavirus plague. The project was a collaboration between BSU (Bowie State University) and UDC (University of District of Columbia). BSU’s goal was to develop a visualization and interaction tool to analyze COVID-19 patients’ dataset in an immersive and non-immersive environment, and evaluate how graphical objects (such as data shapes) developed in accordance with the user’s requirements can enhance situational awareness. COVID-19 data is huge. The data is rapidly growing and the numbers are changing exponentially. Real-time data visualization can enhance decision-making and empower teams with human-centric situational awareness insights. Decision making relies on data that comes in overwhelming velocity and volume, that one cannot comprehend without some layer of abstraction.  This research effort demonstrated the data visualization of the COVID pandemic in real-time for the fifty states in the USA. Our proposed data visualization tool includes both conceptual and data-driven information. The tool incorporates the USA map displaying different variables related to COVID data for each state. The data visualization includes stacked bar graphs, geographic representations of the data, and offers situational awareness of the COVID-19 pandemic. The developed data visualization tool provides situational awareness of COVID-19 data by incorporating the real-time API to help in analyzing the data change which can be helpful in predictive analysis. The development and testing of the data visualization tool were done using the Unity gaming engine. Testing was done with a real-time feed of the COVID -19 data set for immersive environment, non-immersive environment, and mobile environment. The tool automatically loads the COVID data from the current COVID-19 tracking API. This research has shown: (1) virtual reality can be used as a data visualization platform, (2) a more immersive environment with oculus integration allows human-centric situational awareness and visualization that is needed for analyzing the big data, (3) The mobile version allowed the user to navigate in the environment using two controllers that were incorporated at the bottom of the screen on each side. (4) big data visualization can be represented two-fold, focusing on both visualization and interaction.  The grant leveraged research in AI, data science, data analytics, and visualization among the two HBCUs. The project contributed to broader impacts by a) addressing the need for a greater number of underrepresented minorities in computer science; b) addressing the need for more effective approaches to computer science research among diverse students; and c) enhancing the infrastructure for research and computer science education, through partnerships across HBCUs. Outcomes of the project and research initiatives were documented and shared broadly with implications for computer science education and research in the African American community.       Last Modified: 06/16/2022       Submitted by: Sharad Sharma]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

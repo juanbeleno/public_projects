@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Pinpointing Expected Covid-19 Related Voter Turnout Problems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199298.00</AwardTotalIntnAmount>
+<AwardAmount>199298</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeremy Epstein</SignBlockName>
+<PO_EMAI>jepstein@nsf.gov</PO_EMAI>
+<PO_PHON>7032928338</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Voting is a fundamental democratic activity. And yet, the process is vulnerable to disruption. Natural disasters such as hurricanes, and those created by humans, such as the 9/11 terrorist attack pose serious impediments to citizens' ability to vote. Hurricane Sandy, for example, affected twenty States during an election. When disasters occur during voting seasons, special investments must be directed into affected areas to ensure that voters can cast their ballots. Such investments may be as simple as information campaigns focused on particular areas or more hands-on such as providing an auxiliary transportation supply. However, all these measures require monetary, volunteer, and government commitments, and thereby advance notice.&lt;br/&gt;&lt;br/&gt;The Covid virus is the latest disaster that threatens an election. As with hurricanes, some US regions are more affected than others. Similar obstacles to voting may be expected: Polling places may need to be moved, voting hours may need to change, and disaster related economic harm to the population may lower motivation.  This&lt;br/&gt;project creates a data driven early warning system that discovers regions threatened by disaster related voter turnout collapse. The tool aims to help all stake holders take localized action towards mitigating problems in time. The system will continuously monitor many diverse online sources such as Google searches, National Conference of State Legislatures (NCSL) data, and social media trends. While each source by itself may not be wholly reliable, their composite signals will help the system decide where difficulties are in the making. The results of this work are initially aimed to support the 2020 election. But the tool will serve for elections in the future.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031398</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Hancock</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey T Hancock</PI_FULL_NAME>
+<EmailAddress><![CDATA[hancockj@stanford.edu]]></EmailAddress>
+<NSF_ID>000156585</NSF_ID>
+<StartDate>06/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>STANFORD</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>450 JANE STANFORD WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJD6G4D6TJY5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE LELAND STANFORD JUNIOR UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stanford University]]></Name>
+<CityName>Stanford</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943052004</ZipCode>
+<StreetAddress><![CDATA[450 Jane Stanford Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>064Z</Code>
+<Text>Voting/election security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199298</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In contrast to more localized disasters, the Covid pandemic affected all of the US States. This new phenomenon of malady across entire nations amplifies the question whether natural disasters significantly impede voter turnout. For example, in 2012 Hurricane Sandy caused damage in many Atlantic States during election season. How much does such damage reduce voter turnout? Must we expect nationally experienced natural mayhem during election seasons to reduce participation in US democracy? If so, how can we help?</p> <p>The answer is that elections are quite resilient in the face of disasters. This project's investigation showed that States each have their own voter turnout ?track??their past is the strongest predictor of future turnout. A number of potential indicators were examined to arrive at this conclusion. Past experiences in disaster stricken States were examined, but more indirect possibilities were explored as well. For example, disaster related Google search keywords during the period between storms causing destruction, and a subsequent election up to three weeks later were examined for predicting decreased turnout. The result was consistent: overall, past participation was the strongest harbinger of voter turnout.</p> <p>This finding is good news in that one can hope the increasingly frequent hurricane, fire, and flooding events will not unduly impact participation. Nevertheless, local populations are affected by disruptions, and this project illuminated a number of election related County level facts, which are of interest to the public, and to organizations wishing to support voter turnout. As sometimes happens, there was consequently an unexpected outcome of this investigation.</p> <p>Gathering data at County level is tedious, error prone, and requires skill in merging disparate datasets. In order for everyone to enjoy the fruit of this NSF supported labor, the integrated dataset is not only available for data researchers in <a href="https://purl.stanford.edu/rw694qh3935">archival form</a>, but is also <a href="https://public.tableau.com/app/profile/paepckealternate/viz/electionAnatomy18/USElectionDynamics">provided as a set of interactive data exploration dashboards</a>.</p> <p>The facility includes information about historic election participation, both in the United States, and elsewhere. Visitors can select countries for comparison over multiple years. Also included is a panel to explore how requiring voting has impacted countries who have implemented such laws. Maybe most intriguing are panels that allow visitors to select individual US Counties, and see the history of disasters, such as crop loss and hurricane strikes. Another panel interactively shows how voting modalities?by mail, absentee, in-person?changed across Counties over time, how many ballots were rejected, and other details.&nbsp;</p> <p>An important goal of this project was to help uphold high voter participation, even in the face of adversity. The visualizations are therefore intended particularly as a tool to focus attention on areas that may be vulnerable in the future. Despite the project's overall encouraging findings, highly local infrastructure destruction may still create need for transportation on election day, or polling stations positioned in cognizance of the problems.&nbsp;</p> <p>Preparation for disruptive events is possible. County level history can be a guide for such preparatory measures.&nbsp; For example, the above side-by-side charts show the near perfect overlap of hurricane paths with one particular corridor of poverty. Disasters, however local, are of national importance, always, and particularly during elections. Their impact can be mitigated.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 11/09/2021<br>      Modified by: Jeffrey&nbsp;T&nbsp;Hancock</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2031398/2031398_10678967_1636477549792_Rapid_outcomreport_image2--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2031398/2031398_10678967_1636477549792_Rapid_outcomreport_image2--rgov-800width.jpg" title="Interactive data panels"><img src="/por/images/Reports/POR/2021/2031398/2031398_10678967_1636477549792_Rapid_outcomreport_image2--rgov-66x44.jpg" alt="Interactive data panels"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Interactive data panels to explore types and locations of disasters, voting modality, ballot rejection rates, and more.</div> <div class="imageCredit">Andreas Paepcke</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jeffrey&nbsp;T&nbsp;Hancock</div> <div class="imageTitle">Interactive data panels</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2031398/2031398_10678967_1636477358740_rapid_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2031398/2031398_10678967_1636477358740_rapid_1--rgov-800width.jpg" title="natural disasters"><img src="/por/images/Reports/POR/2021/2031398/2031398_10678967_1636477358740_rapid_1--rgov-66x44.jpg" alt="natural disasters"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Natural disasters</div> <div class="imageCredit">Shutterstock</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Jeffrey&nbsp;T&nbsp;Hancock</div> <div class="imageTitle">natural disasters</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2031398/2031398_10678967_1636477901153_Rapid_outcomereport_image3--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2031398/2031398_10678967_1636477901153_Rapid_outcomereport_image3--rgov-800width.jpg" title="Hurricane paths and poverty"><img src="/por/images/Reports/POR/2021/2031398/2031398_10678967_1636477901153_Rapid_outcomereport_image3--rgov-66x44.jpg" alt="Hurricane paths and poverty"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Near perfect overlap of frequent hurricane paths and a corridor of poverty</div> <div class="imageCredit">Andreas Paepcke</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Jeffrey&nbsp;T&nbsp;Hancock</div> <div class="imageTitle">Hurricane paths and poverty</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ In contrast to more localized disasters, the Covid pandemic affected all of the US States. This new phenomenon of malady across entire nations amplifies the question whether natural disasters significantly impede voter turnout. For example, in 2012 Hurricane Sandy caused damage in many Atlantic States during election season. How much does such damage reduce voter turnout? Must we expect nationally experienced natural mayhem during election seasons to reduce participation in US democracy? If so, how can we help?  The answer is that elections are quite resilient in the face of disasters. This project's investigation showed that States each have their own voter turnout ?track??their past is the strongest predictor of future turnout. A number of potential indicators were examined to arrive at this conclusion. Past experiences in disaster stricken States were examined, but more indirect possibilities were explored as well. For example, disaster related Google search keywords during the period between storms causing destruction, and a subsequent election up to three weeks later were examined for predicting decreased turnout. The result was consistent: overall, past participation was the strongest harbinger of voter turnout.  This finding is good news in that one can hope the increasingly frequent hurricane, fire, and flooding events will not unduly impact participation. Nevertheless, local populations are affected by disruptions, and this project illuminated a number of election related County level facts, which are of interest to the public, and to organizations wishing to support voter turnout. As sometimes happens, there was consequently an unexpected outcome of this investigation.  Gathering data at County level is tedious, error prone, and requires skill in merging disparate datasets. In order for everyone to enjoy the fruit of this NSF supported labor, the integrated dataset is not only available for data researchers in archival form, but is also provided as a set of interactive data exploration dashboards.  The facility includes information about historic election participation, both in the United States, and elsewhere. Visitors can select countries for comparison over multiple years. Also included is a panel to explore how requiring voting has impacted countries who have implemented such laws. Maybe most intriguing are panels that allow visitors to select individual US Counties, and see the history of disasters, such as crop loss and hurricane strikes. Another panel interactively shows how voting modalities?by mail, absentee, in-person?changed across Counties over time, how many ballots were rejected, and other details.   An important goal of this project was to help uphold high voter participation, even in the face of adversity. The visualizations are therefore intended particularly as a tool to focus attention on areas that may be vulnerable in the future. Despite the project's overall encouraging findings, highly local infrastructure destruction may still create need for transportation on election day, or polling stations positioned in cognizance of the problems.   Preparation for disruptive events is possible. County level history can be a guide for such preparatory measures.  For example, the above side-by-side charts show the near perfect overlap of hurricane paths with one particular corridor of poverty. Disasters, however local, are of national importance, always, and particularly during elections. Their impact can be mitigated.           Last Modified: 11/09/2021       Submitted by: Jeffrey T Hancock]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

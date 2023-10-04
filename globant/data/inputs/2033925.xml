@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Numerical Modeling of Laser-Driven Experiments to Study Astrophysical Processes in Magnetized Turbulence]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>411456.00</AwardTotalIntnAmount>
+<AwardAmount>411456</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vyacheslav (Slava) Lukin</SignBlockName>
+<PO_EMAI>vlukin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927382</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The goal of this project is to use numerical simulations to design and analyze experiments at the world's most energetic laser facilities to demonstrate and study high energy astrophysical processes in the laboratory.  Magnetic fields are present throughout the universe and play critical roles in astrophysical phenomena, such as the acceleration of extragalactic charged particles, cosmic rays which can reach energies that are a billion times larger than those achieved in the Large Hadron Collider, the world's highest-energy particle accelerator. However, the origin of cosmic magnetic fields is not fully understood. The consensus among cosmologists and astrophysicists is that they are the result of the amplification of tiny seed fields, which are stretched and twisted by turbulent motions in astrophysical plasmas -- a process called turbulent dynamo. The magnetized turbulence then mediates the propagation and acceleration of cosmic rays as they randomly scatter with the tangled magnetic fields. These astrophysical processes occur frequently in space but are extremely hard to recreate in terrestrial laboratories. &lt;br/&gt;&lt;br/&gt;The goal of this project is to design and model laser-driven experiments that will demonstrate for the first time in the laboratory (1) the turbulent dynamo mechanism in the radiative, compressible regime, and (2) the acceleration of charged particles via second-order Fermi acceleration in magnetized turbulence. These experiments will be carried out at the Omega Laser Facility at the Laboratory for Laser Energetics at Rochester, the National Ignition Facility (NIF) at Lawrence Livermore National Laboratory, and the GSI Helmholtz Centre for Heavy Ion Research in Darmstadt, Germany. The effort will exploit the mature TDYNO (turbulent dynamo) experimental platform, which was developed and deployed in a prior highly successful three-year experimental campaign at Omega and NIF.  The experiments will be designed through simulation campaigns using FLASH, the highly capable radiation magneto-hydrodynamics code developed by the University of Chicago, and large-scale three-dimensional simulations on the Mira BG/Q supercomputer at Argonne National Laboratory. The simulations are critical to ensuring the laser-driven experiments achieve the plasma conditions necessary for these processes to operate; determining when to fire the diagnostics; and interpreting the results of the experiments. The results of the project will be of broad interest to the plasma and astrophysics communities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033925</AwardID>
+<Investigator>
+<FirstName>Petros</FirstName>
+<LastName>Tzeferacos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Petros Tzeferacos</PI_FULL_NAME>
+<EmailAddress><![CDATA[p.tzeferacos@rochester.edu]]></EmailAddress>
+<NSF_ID>000656470</NSF_ID>
+<StartDate>06/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Rochester</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146113847</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress>910 GENESEE ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F27KDXZMF9Y8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ROCHESTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Rochester]]></Name>
+<CityName>Rochester</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146270171</ZipCode>
+<StreetAddress><![CDATA[370 Bausch & Lomb Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1242</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1062</Code>
+<Text>BASIC PLASMA SCIENCE &amp; ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1242</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~112192</FUND_OBLG>
+<FUND_OBLG>2020~149320</FUND_OBLG>
+<FUND_OBLG>2021~149944</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Here we report the Project Outcomes of the NSF/DOE Partnership in Basic Plasma Science and Engineering project "Numerical Modeling of Laser-Driven Experiments to Study Astrophysical Processes in Magnetized Turbulence" (PI: P. Tzeferacos, PHY-2033925).</p> <p><strong>Introduction. </strong>Astrophysicists frame the understanding of cosmic magnetic fields in a two-part process: the generation of tiny seed magnetic fields and their subsequent amplification by some form of turbulent dynamo. The latter is the result of stochastic motions in the matter that makes up the interstellar and intra-cluster mediums, which lead to an exponential amplification of magnetic energy density, reaching the values we observe today. The resulting magnetic fields can then be salient agents in a myriad of astrophysical processes, regulating how heat flows and how cosmic rays are accelerated and propagate through the cosmos. Even though conditions favorable for dynamos are common in astrophysics, they are extremely difficult to realize in laboratory experiments. The turbulent wrapping of field-lines operates against magnetic diffusivity, an interplay characterized by the system's "magnetic Reynolds number, Rm," the ratio of the magnetic diffusion over the wrapping (advection) timescale. Theory predicts that turbulent dynamo operates when magnetic Reynolds number surpasses values of ~100-200, which are hard to achieve in terrestrial laboratories. As a result, demonstrating experimentally turbulent dynamo has been considered a "holy grail" for laboratory astrophysics. The TDYNO (turbulent dynamo) collaboration, co-led by the University of Rochester and the University of Oxford, was able to achieve this goal through a concerted campaign of laser-driven experiments (Tzeferacos et al. Nat. Comm. 2018), carried out at the Omega Laser Facility at the Laboratory for Laser Energetics of the University of Rochester. The breakthrough established laboratory experiments as a component in the study of turbulent magnetized plasmas and opened a new path to laboratory investigations of other astrophysical processes (APS-DPP John Dawson Award for Excellence in Plasma Physics Research 2019).<strong></strong></p> <p><strong>Intellectual merit.</strong> The goals of this project are the design, execution, and interpretation of experimental campaigns of the TDYNO collaboration at the Omega Laser Facility, the National Ignition Facility (NIF) at Lawrence Livermore National Laboratory, and the GSI Helmholtz Centre for Heavy Ion Research in Darmstadt, Germany, to study astrophysical processes in magnetized turbulence. The experiments aim to demonstrate and study (1) the turbulent dynamo mechanism in the radiative, compressible regime, and (2) the acceleration of charged particles in magnetized turbulence. We designed these experiments through simulation campaigns using FLASH (Fryxell et al. ApJS 2000), a highly capable radiation-MHD code (Tzeferacos et al. HEDP 2015) the Flash Center for Computational Science develops, and large-scale 3D simulations. The simulations guide the experimental platform design for each facility to ensure that the experiments achieve the plasma conditions and the large Rm values required for the turbulent dynamo mechanism to operate; inform the timing and configuration of the experimental diagnostics; and enable the interpretation of the results of the experiments. The current project enabled (1) the first time-resolved characterization of turbulent dynamo in the laboratory (Bott et al. PNAS 2021); (2) the creation of an experimental analogue of ultra-high-energy cosmic ray transport in turbulent magnetized plasmas at Omega (Chen et al. ApJ 2020); (3) the first experimental demonstration of ion acceleration in a stochastic magnetic field at GSI (Campbell et al. 64th APS-DPP 2022); (4) the first realization of magnetized and supersonic, high-Rm plasma turbulence at the Laser Megajoule Facility (LMJ) in France (Bott et al. Phys. Rev. Lett. 2021); (5) the experimental demonstration at Omega of the insensitivity of dynamo-amplified magnetic fields to the strength of the seed fields from which they originate (Bott et al. MRE 2022); and (6) the demonstration of strong suppression of heat transport in a laboratory replica of galaxy-cluster turbulent plasmas (Meinecke et al. Sci. Adv. 2022), which may explain hot galaxy cluster cores and the observed large temperature variations in small spatial scales (see also accompanying figure).</p> <p><strong>Broader impacts.</strong> The project supported the training of early-career scientists in the design, execution, and interpretation of High Energy Density Physics (HEDP) experiments using validated FLASH simulations. More specifically, the project engaged at the Flash Center five graduate students, three postdocs, and five undergraduate students, who were involved in activities that have significantly enhanced their research experience and advanced their scientific skills. Throughout the course of the project, we enhanced, verified, and validated the capabilities of the FLASH code to enable higher fidelity simulations of laser-driven experiments. These capabilities were made widely available in the public releases of the FLASH code. The project furthered the Flash Center's efforts to transform the academic community's ability to use numerical simulations to design and analyze HEDP experiments at large laser facilities. This was made possible by the successful application and validation of the code in simulating highly demanding experimental campaigns, and with the availability of FLASH and its adoption by the academic HEDP community.</p><br> <p>            Last Modified: 04/23/2023<br>      Modified by: Petros&nbsp;Tzeferacos</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2033925/2033925_10622957_1682260609329_Outcomes-PHY-2033925--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2033925/2033925_10622957_1682260609329_Outcomes-PHY-2033925--rgov-800width.jpg" title="FLASH simulations of the NIF TDYNO experiments that demonstrated strong suppression of heat transport in a laboratory replica of galaxy-cluster turbulent plasmas (Meinecke et al. Sci. Adv. 2022)"><img src="/por/images/Reports/POR/2023/2033925/2033925_10622957_1682260609329_Outcomes-PHY-2033925--rgov-66x44.jpg" alt="FLASH simulations of the NIF TDYNO experiments that demonstrated strong suppression of heat transport in a laboratory replica of galaxy-cluster turbulent plasmas (Meinecke et al. Sci. Adv. 2022)"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Left: Visrad schematic of the NIF TDYNO platform (Meinecke et al. Sci. Adv. 2022). Right: FLASH-simulated plasma conditions showing (a) temperature, (b) magnetic Reynolds number, and (c) magnetic Prandtl number. Efficient dynamo action amplifies magnetic fields that strongly suppress heat transport.</div> <div class="imageCredit">Y. Lu and P. Tzeferacos, Flash Center for Computational Science, University of Rochester</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Petros&nbsp;Tzeferacos</div> <div class="imageTitle">FLASH simulations of the NIF TDYNO experiments that demonstrated strong suppression of heat transport in a laboratory replica of galaxy-cluster turbulent plasmas (Meinecke et al. Sci. Adv. 2022)</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Here we report the Project Outcomes of the NSF/DOE Partnership in Basic Plasma Science and Engineering project "Numerical Modeling of Laser-Driven Experiments to Study Astrophysical Processes in Magnetized Turbulence" (PI: P. Tzeferacos, PHY-2033925).  Introduction. Astrophysicists frame the understanding of cosmic magnetic fields in a two-part process: the generation of tiny seed magnetic fields and their subsequent amplification by some form of turbulent dynamo. The latter is the result of stochastic motions in the matter that makes up the interstellar and intra-cluster mediums, which lead to an exponential amplification of magnetic energy density, reaching the values we observe today. The resulting magnetic fields can then be salient agents in a myriad of astrophysical processes, regulating how heat flows and how cosmic rays are accelerated and propagate through the cosmos. Even though conditions favorable for dynamos are common in astrophysics, they are extremely difficult to realize in laboratory experiments. The turbulent wrapping of field-lines operates against magnetic diffusivity, an interplay characterized by the system's "magnetic Reynolds number, Rm," the ratio of the magnetic diffusion over the wrapping (advection) timescale. Theory predicts that turbulent dynamo operates when magnetic Reynolds number surpasses values of ~100-200, which are hard to achieve in terrestrial laboratories. As a result, demonstrating experimentally turbulent dynamo has been considered a "holy grail" for laboratory astrophysics. The TDYNO (turbulent dynamo) collaboration, co-led by the University of Rochester and the University of Oxford, was able to achieve this goal through a concerted campaign of laser-driven experiments (Tzeferacos et al. Nat. Comm. 2018), carried out at the Omega Laser Facility at the Laboratory for Laser Energetics of the University of Rochester. The breakthrough established laboratory experiments as a component in the study of turbulent magnetized plasmas and opened a new path to laboratory investigations of other astrophysical processes (APS-DPP John Dawson Award for Excellence in Plasma Physics Research 2019).  Intellectual merit. The goals of this project are the design, execution, and interpretation of experimental campaigns of the TDYNO collaboration at the Omega Laser Facility, the National Ignition Facility (NIF) at Lawrence Livermore National Laboratory, and the GSI Helmholtz Centre for Heavy Ion Research in Darmstadt, Germany, to study astrophysical processes in magnetized turbulence. The experiments aim to demonstrate and study (1) the turbulent dynamo mechanism in the radiative, compressible regime, and (2) the acceleration of charged particles in magnetized turbulence. We designed these experiments through simulation campaigns using FLASH (Fryxell et al. ApJS 2000), a highly capable radiation-MHD code (Tzeferacos et al. HEDP 2015) the Flash Center for Computational Science develops, and large-scale 3D simulations. The simulations guide the experimental platform design for each facility to ensure that the experiments achieve the plasma conditions and the large Rm values required for the turbulent dynamo mechanism to operate; inform the timing and configuration of the experimental diagnostics; and enable the interpretation of the results of the experiments. The current project enabled (1) the first time-resolved characterization of turbulent dynamo in the laboratory (Bott et al. PNAS 2021); (2) the creation of an experimental analogue of ultra-high-energy cosmic ray transport in turbulent magnetized plasmas at Omega (Chen et al. ApJ 2020); (3) the first experimental demonstration of ion acceleration in a stochastic magnetic field at GSI (Campbell et al. 64th APS-DPP 2022); (4) the first realization of magnetized and supersonic, high-Rm plasma turbulence at the Laser Megajoule Facility (LMJ) in France (Bott et al. Phys. Rev. Lett. 2021); (5) the experimental demonstration at Omega of the insensitivity of dynamo-amplified magnetic fields to the strength of the seed fields from which they originate (Bott et al. MRE 2022); and (6) the demonstration of strong suppression of heat transport in a laboratory replica of galaxy-cluster turbulent plasmas (Meinecke et al. Sci. Adv. 2022), which may explain hot galaxy cluster cores and the observed large temperature variations in small spatial scales (see also accompanying figure).  Broader impacts. The project supported the training of early-career scientists in the design, execution, and interpretation of High Energy Density Physics (HEDP) experiments using validated FLASH simulations. More specifically, the project engaged at the Flash Center five graduate students, three postdocs, and five undergraduate students, who were involved in activities that have significantly enhanced their research experience and advanced their scientific skills. Throughout the course of the project, we enhanced, verified, and validated the capabilities of the FLASH code to enable higher fidelity simulations of laser-driven experiments. These capabilities were made widely available in the public releases of the FLASH code. The project furthered the Flash Center's efforts to transform the academic community's ability to use numerical simulations to design and analyze HEDP experiments at large laser facilities. This was made possible by the successful application and validation of the code in simulating highly demanding experimental campaigns, and with the availability of FLASH and its adoption by the academic HEDP community.       Last Modified: 04/23/2023       Submitted by: Petros Tzeferacos]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

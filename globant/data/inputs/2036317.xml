@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Blockchain-Enabled Clinical Registry Program]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact and commercial potential of this Small Business Innovation Research (SBIR) project will develop novel cybersecurity for highly regulated industries and expand the applications of blockchain, focusing on enhancing and securing the exchange of medical data among different stakeholders.  To date, medical consents can involve multiple parties: participant, medical center, physician, ethical review boards across various research institutions, and sponsors. Each group maintains independent systems, resulting in delays and potential for misuse of underlying clinical data. Additionally, minimal controls ensure the data input's completeness and accuracy, leading to lower confidence in and stagnation of the data and lost opportunity for real-world learning experiences.  The proposed project proposes to establish a proof-of-concept decentralized, digital health data platform.  It can be expanded to other highly regulated industries where it can improve the accuracy, confidentiality and security of data sets.&lt;br/&gt; &lt;br/&gt;This SBIR Phase I project will utilize blockchain immutability to provide an advanced electronic medical consenting service, ensuring the integrity of consenting transactions and a novel publish/subscribe and fine-grained, attribute-based access control to audit access to underlying datasets. Additionally, the project will employ novel approaches to encryption that can preserve the privacy of the transactions and messages that transit the system. The approach is built on emerging threshold cryptography standards, but proposes a novel vector-label-input threshold encryption. Today's labeled threshold encryption implementations only take a single string as a label, but a vector-label-input threshold encryption implementation will support a vector of strings as labels. This enables an innovative approach to fine-grained access control by allowing the system to check for any number of string-based attributes at the time the transactions are signed and committed into the ledger on the blockchain. To enable high-performance, total-order preserving data streams, the project will combine innovations in the publish/subscribe messaging pattern with state-of-practice blockchain technology platforms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036317</AwardID>
+<Investigator>
+<FirstName>Anthony</FirstName>
+<LastName>Deasey</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anthony P Deasey</PI_FULL_NAME>
+<EmailAddress><![CDATA[2ndstage.tony@gmail.com]]></EmailAddress>
+<NSF_ID>000829693</NSF_ID>
+<StartDate>08/04/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SOFTHREAD, INC.</Name>
+<CityName>CATONSVILLE</CityName>
+<ZipCode>212284851</ZipCode>
+<PhoneNumber>4437564010</PhoneNumber>
+<StreetAddress>5520 RESEARCH PARK DR</StreetAddress>
+<StreetAddress2><![CDATA[STE 100]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>P4MHVSNWGAW5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOFTHREAD INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SOFTHREAD, INC.]]></Name>
+<CityName>BALTIMORE</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212284851</ZipCode>
+<StreetAddress><![CDATA[5520 RESEARCH PARK DR STE 100]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong><span style="text-decoration: underline;">SBIR Phase I Project out comes Report for Softhread&rsquo;s Blockchain-Enabled Clinical Registry Program</span></strong></p> <p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p> <p>Softhread&rsquo;s SBIR Phase I Project, titled &ldquo;Blockchain-Enabled Clinical Registry Program&rdquo;, proposed the establishment of a proof-of-concept decentralized, digital health data platform to enhance and secure the exchange of medical data among different stakeholders.</p> <p>In partnership with the Medical Device Epidemiology Network (MDEpiNet), Softhread developed a proof-of-concept, permissioned, blockchain based overlay system, &ldquo;Chios&trade;&rdquo;, that was designed to complement the existing consortium of coordinated registry networks (CRNs). The proof-of concept system was built as an overlay to the existing HIVE (High-performance Integrated Virtual Environment) registry.</p> <p>During all implementations completed in phase I, Chios&trade; demonstrated its unique privacy-preserving smart contracting capability, the advanced user access control overlay, support for publish/subscribe messaging patterns, and integration with off-chain, confidentiality-preserving machine learning models. Chios&trade; also demonstrated the efficiency, labor saving and security enhancing properties of its consenting process potentially reducing the elapsed time to respond to data requests from days to seconds.</p> <p>Chios&trade; demonstrated superior functionality compared to existing blockchain systems due to the combination of the publish/subscribe functionality with traditional blockchain features, which represents a novel method of increasing potential automation across authorized clients within the blockchain network.&nbsp; Rather than requiring a manual push or pull command triggered by a user or software, Chios allows nodes to publish updates to other specific nodes that are properly subscribed to those updates.&nbsp; Despite being automated, each of these transactions is able to pass the rules established by both the smart contract and the fine-grained attribute-based access controls defining the relationship between the two entities.</p> <p>Chios &trade; also demonstrated the unique benefits of its fine-grained attribute-based access control, which also constitutes a proprietary method allowing superior performance compared to existing blockchain systems.&nbsp; This unique feature allows Chios&trade;&rsquo; smart contracts to govern lists of institutions and users down to the individual data element level and, therefore, it can support an extremely wide range of permissioning models, as well as offer superior data governance required in heavily regulated industries.<strong>&nbsp;</strong></p> <p>Chios &trade; demonstrated its ability to enhance the privacy and security of client operations via integrity-protected chaincode, confidential encryption of ledger data, and the establishment of secure private channels.</p> <p>Chios&trade; demonstrated its capability to enhance data provenance, traceability, auditability, and compliance with regulatory requirements. The proprietary enclave functionality can be programmed, and verified to process and/or release data only according to specific compliance rules such as those encountered in regulated industries dealing with highly sensitive large data sets.<strong>&nbsp;</strong></p> <p>&nbsp;</p><br> <p>            Last Modified: 03/30/2022<br>      Modified by: Anthony&nbsp;P&nbsp;Deasey</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ SBIR Phase I Project out comes Report for Softhread’s Blockchain-Enabled Clinical Registry Program     Softhread’s SBIR Phase I Project, titled "Blockchain-Enabled Clinical Registry Program", proposed the establishment of a proof-of-concept decentralized, digital health data platform to enhance and secure the exchange of medical data among different stakeholders.  In partnership with the Medical Device Epidemiology Network (MDEpiNet), Softhread developed a proof-of-concept, permissioned, blockchain based overlay system, "Chios&trade;", that was designed to complement the existing consortium of coordinated registry networks (CRNs). The proof-of concept system was built as an overlay to the existing HIVE (High-performance Integrated Virtual Environment) registry.  During all implementations completed in phase I, Chios&trade; demonstrated its unique privacy-preserving smart contracting capability, the advanced user access control overlay, support for publish/subscribe messaging patterns, and integration with off-chain, confidentiality-preserving machine learning models. Chios&trade; also demonstrated the efficiency, labor saving and security enhancing properties of its consenting process potentially reducing the elapsed time to respond to data requests from days to seconds.  Chios&trade; demonstrated superior functionality compared to existing blockchain systems due to the combination of the publish/subscribe functionality with traditional blockchain features, which represents a novel method of increasing potential automation across authorized clients within the blockchain network.  Rather than requiring a manual push or pull command triggered by a user or software, Chios allows nodes to publish updates to other specific nodes that are properly subscribed to those updates.  Despite being automated, each of these transactions is able to pass the rules established by both the smart contract and the fine-grained attribute-based access controls defining the relationship between the two entities.  Chios &trade; also demonstrated the unique benefits of its fine-grained attribute-based access control, which also constitutes a proprietary method allowing superior performance compared to existing blockchain systems.  This unique feature allows Chios&trade;’ smart contracts to govern lists of institutions and users down to the individual data element level and, therefore, it can support an extremely wide range of permissioning models, as well as offer superior data governance required in heavily regulated industries.   Chios &trade; demonstrated its ability to enhance the privacy and security of client operations via integrity-protected chaincode, confidential encryption of ledger data, and the establishment of secure private channels.  Chios&trade; demonstrated its capability to enhance data provenance, traceability, auditability, and compliance with regulatory requirements. The proprietary enclave functionality can be programmed, and verified to process and/or release data only according to specific compliance rules such as those encountered in regulated industries dealing with highly sensitive large data sets.           Last Modified: 03/30/2022       Submitted by: Anthony P Deasey]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

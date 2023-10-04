@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Convergence Accelerator Track C: A Toolkit for Solving Practical Materials Science Problems on Near-Term]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>999087.00</AwardTotalIntnAmount>
+<AwardAmount>999087</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pradeep Fulay</SignBlockName>
+<PO_EMAI>pfulay@nsf.gov</PO_EMAI>
+<PO_PHON>7032922445</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future. This project seeks to address the gap between the theoretical advantages of quantum simulations and the capabilities of existing quantum hardware. By bringing together a cross-sector team, the project will develop quantum tensor network simulation techniques for materials and chemistry problems. The project aims to deploy and demonstrate these techniques on trapped ion quantum computing systems being developed at Honeywell Quantum Solutions. Deliverables include a comprehensive software development toolkit that will enable its use by a multi-disciplinary and cross-sector user base. &lt;br/&gt;&lt;br/&gt;The project team includes academic researchers in quantum information theory computational materials and chemistry techniques along with industry scientists at Honeywell Quantum Solutions who are developing large-scale high-performance trapped-ion quantum computing systems. The cross-sector team will aim to pioneer a new suite of quantum algorithm methods and software tools for “holographic” quantum-algorithms. These tools will exploit efficient compression of physically important states afforded by tensor-network state representations. Mid-circuit measurement and reset (MCMR) of selected qubits will be enabled by Honeywell’s trapped ion quantum computers in order to apply qubits as efficiently as possible towards the classically hard aspect of materials simulation: representing electronic correlations and entanglement. These techniques aim to reduce the number of qubits and accuracy of gates required to tackle large-scale realistic materials and chemistry simulations. This project seeks to narrow the gap between real-world problems and the capabilities of near-term quantum hardware. Deliverables include a comprehensive MCMR algorithm development toolkit that is tightly integrated with existing material science, chemistry simulation packages, and quantum programming frameworks. This toolkit will engage a broad user- and researcher- base to aid in the further development of techniques and innovations in quantum computing. In-person workshops and conferences, and online education and training materials will be developed to disseminate this work to a broad audience of industry and academic engineers, chemists, materials scientists, and software developers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/13/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040549</AwardID>
+<Investigator>
+<FirstName>Garnet</FirstName>
+<LastName>Chan</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Garnet K Chan</PI_FULL_NAME>
+<EmailAddress><![CDATA[garnetc@caltech.edu]]></EmailAddress>
+<NSF_ID>000486308</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Zaletel</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael P Zaletel</PI_FULL_NAME>
+<EmailAddress><![CDATA[mikezaletel@berkeley.edu]]></EmailAddress>
+<NSF_ID>000827717</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Foss-Feig</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Foss-Feig</PI_FULL_NAME>
+<EmailAddress><![CDATA[michael.feig@honeywell.com]]></EmailAddress>
+<NSF_ID>000827712</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Hayes</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Hayes</PI_FULL_NAME>
+<EmailAddress><![CDATA[david.hayes@honeywell.com]]></EmailAddress>
+<NSF_ID>000827638</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate>12/13/2021</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Potter</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew C Potter</PI_FULL_NAME>
+<EmailAddress><![CDATA[acpotter86@gmail.com]]></EmailAddress>
+<NSF_ID>000727409</NSF_ID>
+<StartDate>09/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shyam</FirstName>
+<LastName>Shankar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shyam Shankar</PI_FULL_NAME>
+<EmailAddress><![CDATA[shyam.shankar@utexas.edu]]></EmailAddress>
+<NSF_ID>000798962</NSF_ID>
+<StartDate>12/13/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121203</ZipCode>
+<StreetAddress><![CDATA[2515 Speedway, RLM 7.210]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~999087</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-9f645630-7fff-d87a-cbd6-97b2dab7f86e"> </span></p> <p dir="ltr"><span>Accurate modeling and simulation are essential to developing advanced materials, compounds, and devices that power our healthcare, energy, and digital economies. However, capturing the quantum nature of materials eludes the capabilities of even the most powerful conventional supercomputers. It is widely hoped that quantum computers can overcome this challenge by playing by the same rules as the materials they model, and thereby dramatically advance materials modeling and device design across essentially all advanced industrial sectors. Rapid advances in commercial quantum computing technology have spurred tremendous enthusiasm that this goal could be close at hand. However, it is clear that existing quantum algorithms for materials simulation require resources well-beyond the reach of near-term quantum hardware, which have rather limited quantum memories and are vulnerable to noise and errors. Overcoming these limitations requires a radical rethinking of the fundamental ways in which we approach quantum algorithms design, and a convergence of expertise from a broad range of physical, computer, and materials science and engineering fields. Unlike conventional computers, for which software and hardware evolve largely independently, the nascent and resource-constrained state of quantum computers requires an intimate link between software and hardware development, and necessitates close-knit collaborations with companies building commercial quantum computing systems.</span></p> <p dir="ltr"><span>To this end, this project brought together academic researchers in quantum information theory, computational materials and chemistry techniques (Potter, Zaletel, Chan), with industry scientists at Honeywell Quantum Solutions (Foss-Feig, Hayes) leading the development of large-scale high- performance trapped-ion quantum computing systems. This cross-sector team pioneered a new suite of quantum algorithm methods and software tools for ?holographic? quantum algorithms that exploits efficient quantum data compression schemes, along with mid-circuit measurement and reset (MCMR) of selected qubits enabled by Honeywell?s trapped-ion quantum computing architecture, in order to apply qubits as efficiently as possible towards the classically hard aspect of materials simulation: representing electronic correlations and entanglement.</span></p> <p dir="ltr"><span>During the course of this project, the team devised advanced simulation capabilities to simulate real-world materials and chemistry problems, prototyped a software toolkit to design commercial solutions based on these algorithms, and implemented and validated these techniques on Honeywell?s trapped-ion quantum processors. These hardware implementations achieved state-of-the-art performance on simulating models strongly-interacting electron materials, phase transitions in magnetic systems, and chaotic quantum dynamics far from equilibrium on systems with 30-40 electron or spin orbitals, using only a handful (2-10) of trapped ion qubits. Furthermore, through large-scale classical simulations conducted utilizing Texas Advanced Computing Center?s (TACC) leadership-class supercomputer, the team provided strong evidence that these methods can be effectively scaled up to tackle larger scale problems beyond the reach of classical computational methods in future generations of quantum processors.&nbsp;</span></p> <p dir="ltr"><span>These advances pave the way to solving real-world problems of practical scientific and/or commercial importance on quantum processors. Moreover, our open-source code lays the foundations for a holographic-simulation software developer toolkit that is thoughtfully integrated with existing computational physics, and quantum programming frameworks. We anticipate that this will extend the user- and researcher base for these promising, but untapped techniques, fueling future innovations in this area.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 11/29/2022<br>      Modified by: Andrew&nbsp;C&nbsp;Potter</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2040549/2040549_10704998_1669749711134_Fig1holoVQE--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040549/2040549_10704998_1669749711134_Fig1holoVQE--rgov-800width.jpg" title="Large-scale simulation of quantum tensor network methods"><img src="/por/images/Reports/POR/2022/2040549/2040549_10704998_1669749711134_Fig1holoVQE--rgov-66x44.jpg" alt="Large-scale simulation of quantum tensor network methods"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Show that holographic simulations (qMPS) can accurately simulate large 2d models of quantum magnetism with a small number of qubits, and requiring fewer tunable parameters than state-of-the-art classical methods (dMPS).</div> <div class="imageCredit">Adapted from PRX 12, 011047 (2022)</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;C&nbsp;Potter</div> <div class="imageTitle">Large-scale simulation of quantum tensor network methods</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2040549/2040549_10704998_1669749856410_Fig2holoquads--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040549/2040549_10704998_1669749856410_Fig2holoquads--rgov-800width.jpg" title="Simulating chaotic quantum dynamics on a trapped-ion processor"><img src="/por/images/Reports/POR/2022/2040549/2040549_10704998_1669749856410_Fig2holoquads--rgov-66x44.jpg" alt="Simulating chaotic quantum dynamics on a trapped-ion processor"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Simulating non-equilibrium quantum is one of the most challenging tasks for conventional computers. Here, a small trapped-ion quantum processor with 10 qubits is used to simulate a model of a much larger 32-site spin chain kicked out of equilibrium by laser pulses.</div> <div class="imageCredit">Adapted from Nature Physics�18, 1074�1079 (2022)</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Andrew&nbsp;C&nbsp;Potter</div> <div class="imageTitle">Simulating chaotic quantum dynamics on a trapped-ion processor</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Accurate modeling and simulation are essential to developing advanced materials, compounds, and devices that power our healthcare, energy, and digital economies. However, capturing the quantum nature of materials eludes the capabilities of even the most powerful conventional supercomputers. It is widely hoped that quantum computers can overcome this challenge by playing by the same rules as the materials they model, and thereby dramatically advance materials modeling and device design across essentially all advanced industrial sectors. Rapid advances in commercial quantum computing technology have spurred tremendous enthusiasm that this goal could be close at hand. However, it is clear that existing quantum algorithms for materials simulation require resources well-beyond the reach of near-term quantum hardware, which have rather limited quantum memories and are vulnerable to noise and errors. Overcoming these limitations requires a radical rethinking of the fundamental ways in which we approach quantum algorithms design, and a convergence of expertise from a broad range of physical, computer, and materials science and engineering fields. Unlike conventional computers, for which software and hardware evolve largely independently, the nascent and resource-constrained state of quantum computers requires an intimate link between software and hardware development, and necessitates close-knit collaborations with companies building commercial quantum computing systems. To this end, this project brought together academic researchers in quantum information theory, computational materials and chemistry techniques (Potter, Zaletel, Chan), with industry scientists at Honeywell Quantum Solutions (Foss-Feig, Hayes) leading the development of large-scale high- performance trapped-ion quantum computing systems. This cross-sector team pioneered a new suite of quantum algorithm methods and software tools for ?holographic? quantum algorithms that exploits efficient quantum data compression schemes, along with mid-circuit measurement and reset (MCMR) of selected qubits enabled by Honeywell?s trapped-ion quantum computing architecture, in order to apply qubits as efficiently as possible towards the classically hard aspect of materials simulation: representing electronic correlations and entanglement. During the course of this project, the team devised advanced simulation capabilities to simulate real-world materials and chemistry problems, prototyped a software toolkit to design commercial solutions based on these algorithms, and implemented and validated these techniques on Honeywell?s trapped-ion quantum processors. These hardware implementations achieved state-of-the-art performance on simulating models strongly-interacting electron materials, phase transitions in magnetic systems, and chaotic quantum dynamics far from equilibrium on systems with 30-40 electron or spin orbitals, using only a handful (2-10) of trapped ion qubits. Furthermore, through large-scale classical simulations conducted utilizing Texas Advanced Computing Center?s (TACC) leadership-class supercomputer, the team provided strong evidence that these methods can be effectively scaled up to tackle larger scale problems beyond the reach of classical computational methods in future generations of quantum processors.  These advances pave the way to solving real-world problems of practical scientific and/or commercial importance on quantum processors. Moreover, our open-source code lays the foundations for a holographic-simulation software developer toolkit that is thoughtfully integrated with existing computational physics, and quantum programming frameworks. We anticipate that this will extend the user- and researcher base for these promising, but untapped techniques, fueling future innovations in this area.          Last Modified: 11/29/2022       Submitted by: Andrew C Potter]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

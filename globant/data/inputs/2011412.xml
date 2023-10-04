@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: Scalable Spectral Sparsification of Graph Laplacians and Integrated Circuits]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/12/2019</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>181823.00</AwardTotalIntnAmount>
+<AwardAmount>181823</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research is motivated by investigations on scalable methods for design simplifications of nanoscale integrated circuits (ICs). This is to be achieved by extending the associated spectral graph sparsification framework to handle Laplacian-like matrices derived from general nonlinear IC modeling and simulation problems. The results from this research may prove to be key to the development of highly scalable computer-aided design algorithms for modeling, simulation, design, optimization, as well as verification of future nanoscale ICs that can easily involve multi-billions of circuit components. The algorithms and methodologies developed will be disseminated to leading technology companies that may include semiconductor and Electronic Design Automation companies as well as social and network companies, for potential industrial deployments. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Spectral graph sparsification aims to find an ultra-sparse subgraph (a.k.a. sparsifier) such that its Laplacian can well approximate the original one in terms of its eigenvalues and eigenvectors. Since spectrally similar subgraphs can approximately preserve the distances, much faster numerical and graph-based algorithms can be developed based on these "spectrally" sparsified networks. A nearly-linear complexity spectral graph sparsification algorithm is to be developed based on a spectral perturbation approach. The proposed method is highly scalable and thus can be immediately leveraged for the development of nearly-linear time sparse matrix solvers and spectral graph (data) partitioning (clustering) algorithms for large real-world graph problems in general. The results of the research may also influence a broad range of computer science and engineering problems related to complex system/network modeling, numerical linear algebra, optimization, machine learning, computational fluid dynamics, transportation and social networks, etc.]]></AbstractNarration>
+<MinAmdLetterDate>01/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011412</AwardID>
+<Investigator>
+<FirstName>Zhuo</FirstName>
+<LastName>Feng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhuo Feng</PI_FULL_NAME>
+<EmailAddress><![CDATA[zfeng12@stevens.edu]]></EmailAddress>
+<NSF_ID>000555056</NSF_ID>
+<StartDate>01/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stevens Institute of Technology</Name>
+<CityName>HOBOKEN</CityName>
+<ZipCode>07030</ZipCode>
+<PhoneNumber>2012168762</PhoneNumber>
+<StreetAddress>1 CASTLEPOINT ON HUDSON</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJ6CN5Y5A2R5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName>Hoboken</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>070305991</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0116</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001617DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2016~181823</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p dir="ltr">This research plan aims at developing scalable methods for the sparsification of nanoscale integrated circuit networks without impacting the original structural properties. The PI has been investigating a novel spectral graph sparsification framework to handle Laplacian-like matrices derived from general nonlinear IC modeling and simulation problems. The results from this research may prove to be key to the development of highly scalable computer-aided design algorithms for modeling, simulation, design, optimization, as well as verification of future nanoscale ICs that can involve multi-billions of circuit components.</p> <p dir="ltr">To achieve the research goals, the PI has investigated a practically efficient and nearly-linear time spectral graph sparsification framework based on spectral perturbation analysis of generalized eigenvalue problems. The proposed spectral perturbation-based spectral sparsification approach is highly scalable and can be leveraged for the development of scalable sparse matrix solvers and graph partitioning algorithms for large-scale real-world graph problems. The PI also has investigated approaches for spectral sparsification of integrated circuits by leveraging the proposed spectral graph sparsification framework, which will allow approximately preserving effective resistances between vertices. As a result, ultra-sparse yet ``spectrally similar" circuit networks can be constructed to facilitate the development of a series of nearly-linear time computer-aided (CAD) algorithms.</p> <p dir="ltr">Research outcomes:</p> <p dir="ltr">In VLSI-related areas, the proposed spectral graph sparsification method (GRASS) allowed significantly accelerating algorithms for solving sparse matrices involved in integrated circuit simulations, vectorless integrity verification of 3D-IC power/thermal grids, spectral clustering/coarsening of large (un)directed/hypergraphs, etc.&nbsp;Some of the ideas developed through this project have been successfully integrated into industrial VLSI CAD tools.</p> <p><br />In other related fields, this research project has also led to significant results in areas such as numerical linear algebra, data analytics, machine learning, etc. For example, a sparsified algebraic multigrid (SAMG) solver has been proposed to improve the efficiency of existing graph-based AMG methods; &#8203;&#8203;a multilevel spectral method for graph embedding (GraphZoom) has been introduced to increase the node classification accuracy while significantly reducing the runtime; a spectral method (SPADE) has been introduced for black-box adversarial robustness evaluation of machine learning models.</p> <div><span style="color: #000000; font-family: Arial;"><br /></span></div> <div> <p>Software releases:</p> <p>This research project resulted in the first software, "GRASS: GRaph Spectral Sparsifier", for similarity-aware spectral graph sparsification. GRASS is highly (runtime and memory) efficient for sparsifying large-scale undirected graphs, which is capable of processing every million edges using just a few seconds and less than 200MB on a single CPU core.&nbsp;This project also leads to the development&nbsp;of software packages for spectral hypergraph coarsening (HyperSF), multilevel graph embedding (GraphZoom), and adversarial robustness evaluation (SPADE).</p> <div>Research paper publications:</div> There are several papers published in leading EDA/ML conferences/journals, such as DAC'16, DAC'17, ICCAD'17, DAC'18, DAC'19, ICCAD'20, ICLR'20,&nbsp;DATE'20, WSDM'21, DAC'21, TCAD'20, TCAD'21, ICML'21, and CG'20.&nbsp;&nbsp;</div> <p dir="ltr">&nbsp;</p><br> <p>            Last Modified: 09/21/2021<br>      Modified by: Zhuo&nbsp;Feng</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2011412/2011412_10432435_1632247147833_GRASS-fig--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2011412/2011412_10432435_1632247147833_GRASS-fig--rgov-800width.jpg" title="GRASS: Graph Spectral Sparsification"><img src="/por/images/Reports/POR/2021/2011412/2011412_10432435_1632247147833_GRASS-fig--rgov-66x44.jpg" alt="GRASS: Graph Spectral Sparsification"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A spectrally similar graph (right) computed by GRASS</div> <div class="imageCredit">Zhuo Feng</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Zhuo&nbsp;Feng</div> <div class="imageTitle">GRASS: Graph Spectral Sparsification</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2011412/2011412_10432435_1632247328761_overview-spectralgraph--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2011412/2011412_10432435_1632247328761_overview-spectralgraph--rgov-800width.jpg" title="VLSICAD-Applications"><img src="/por/images/Reports/POR/2021/2011412/2011412_10432435_1632247328761_overview-spectralgraph--rgov-66x44.jpg" alt="VLSICAD-Applications"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Spectral sparsification for VLSI CAD</div> <div class="imageCredit">Zhuo Feng</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Zhuo&nbsp;Feng</div> <div class="imageTitle">VLSICAD-Applications</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[This research plan aims at developing scalable methods for the sparsification of nanoscale integrated circuit networks without impacting the original structural properties. The PI has been investigating a novel spectral graph sparsification framework to handle Laplacian-like matrices derived from general nonlinear IC modeling and simulation problems. The results from this research may prove to be key to the development of highly scalable computer-aided design algorithms for modeling, simulation, design, optimization, as well as verification of future nanoscale ICs that can involve multi-billions of circuit components. To achieve the research goals, the PI has investigated a practically efficient and nearly-linear time spectral graph sparsification framework based on spectral perturbation analysis of generalized eigenvalue problems. The proposed spectral perturbation-based spectral sparsification approach is highly scalable and can be leveraged for the development of scalable sparse matrix solvers and graph partitioning algorithms for large-scale real-world graph problems. The PI also has investigated approaches for spectral sparsification of integrated circuits by leveraging the proposed spectral graph sparsification framework, which will allow approximately preserving effective resistances between vertices. As a result, ultra-sparse yet ``spectrally similar" circuit networks can be constructed to facilitate the development of a series of nearly-linear time computer-aided (CAD) algorithms. Research outcomes: In VLSI-related areas, the proposed spectral graph sparsification method (GRASS) allowed significantly accelerating algorithms for solving sparse matrices involved in integrated circuit simulations, vectorless integrity verification of 3D-IC power/thermal grids, spectral clustering/coarsening of large (un)directed/hypergraphs, etc. Some of the ideas developed through this project have been successfully integrated into industrial VLSI CAD tools.   In other related fields, this research project has also led to significant results in areas such as numerical linear algebra, data analytics, machine learning, etc. For example, a sparsified algebraic multigrid (SAMG) solver has been proposed to improve the efficiency of existing graph-based AMG methods; &#8203;&#8203;a multilevel spectral method for graph embedding (GraphZoom) has been introduced to increase the node classification accuracy while significantly reducing the runtime; a spectral method (SPADE) has been introduced for black-box adversarial robustness evaluation of machine learning models.     Software releases:  This research project resulted in the first software, "GRASS: GRaph Spectral Sparsifier", for similarity-aware spectral graph sparsification. GRASS is highly (runtime and memory) efficient for sparsifying large-scale undirected graphs, which is capable of processing every million edges using just a few seconds and less than 200MB on a single CPU core. This project also leads to the development of software packages for spectral hypergraph coarsening (HyperSF), multilevel graph embedding (GraphZoom), and adversarial robustness evaluation (SPADE). Research paper publications: There are several papers published in leading EDA/ML conferences/journals, such as DAC'16, DAC'17, ICCAD'17, DAC'18, DAC'19, ICCAD'20, ICLR'20, DATE'20, WSDM'21, DAC'21, TCAD'20, TCAD'21, ICML'21, and CG'20.           Last Modified: 09/21/2021       Submitted by: Zhuo Feng]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

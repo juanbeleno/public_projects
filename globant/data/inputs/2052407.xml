@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Electric Vehicle Useful Life Prediction]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>251958.00</AwardTotalIntnAmount>
+<AwardAmount>251958</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ela Mirowski</SignBlockName>
+<PO_EMAI>emirowsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032922936</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this SBIR Phase I project is enabling middle and low income car buyers to fully participate in the electrification of transportation, ensuring that all Americans can benefit from lower fuel bills, maintenance costs, and healthier community environments. It is not well understood how electric vehicle (EV) battery packs in cars on the road today degrade over time and how they should be valued. This uncertainty in future battery performance directly impacts confidence in buying a used EV. The project proposes the development of a battery report that is able to remotely and rapidly diagnose and predict the state of health of EV battery packs through machine learning models validated by physical inspection and evaluation of a sample of EVs. The project’s scale, scope, and commercial result would accelerate the adoption and accessibility of EVs. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project addresses the need for scalable, accessible and non-invasive state of health prediction on a wide variety of plug-in electric vehicles (PEVs) by using a set of machine learning models. This will be accomplished by collecting daily observation data from an unprecedented number of PEVs on the road from a diverse set of makes, models, years, and climates. This dataset will be used to train machine learning algorithms on a key set of remotely accessible features to predict range and battery health metrics.  The machine learning approach builds on a combination of tree-based ensemble models and linear models informed by physics-based experiments, and will eventually expand to other more advanced algorithms as appropriate. The goals of this Phase I project are to (1) recruit 25,000+ more PEV drivers over 6 months, (2) demonstrate a set of tools that are accurate enough to meet consumer demand for near-term degradation models for the used PEVs on the road, (3) validate machine learning determined state of health estimates with hands-on experimentation with a subset of vehicles, and (4) use these hands-on experiments to better understand the relationships between remotely accessible proxy data and state of health.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/21/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052407</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Case</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Scott Case</PI_FULL_NAME>
+<EmailAddress><![CDATA[scott@recurrentauto.com]]></EmailAddress>
+<NSF_ID>000837486</NSF_ID>
+<StartDate>04/21/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>RECURRENT MOTORS INC.</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981042250</ZipCode>
+<PhoneNumber>2066270013</PhoneNumber>
+<StreetAddress>240 2ND AVE S STE 300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KCBPRATNNLE4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECURRENT MOTORS INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[RECURRENT MOTORS INC.]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981042250</ZipCode>
+<StreetAddress><![CDATA[240 2nd Ave S STE 300]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>059P</Code>
+<Text>SCIENCE IN MOTION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~251958</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-8fd98604-7fff-2395-cbef-3a2084e54cfe"> </span></p> <p dir="ltr"><span>Recurrent has completed research and development for their NSF Phase I SBIR grant over 12 months. The grant enabled Recurrent to ground-truth their battery degradation machine learning models, which are based on telematic data from EV battery management systems. The additional data from the ground-truth experiments went to improve the performance of their machine learning models by recruiting more in-the-field EV data. The grant also allowed them to strengthen the relevance of features used in their machine learning models for calendar aging and temperature exposure, and went on to develop a patent-pending method to collect data from non-telematically connected vehicles.&nbsp;</span></p> <p dir="ltr"><span>To collect data to improve their telematically based models, Recurrent gathered high resolution data on 49 Nissan Leafs and 50 Tesla Model 3s for 3 months. Data included energy metrics, such as charging and energy outputs, and driving metrics, like odometer changes and speed. As a result, they uncovered relationships between battery capacity, manufacturer estimated dashboard range, and achievable range. Additionally, they developed infrastructure to maintain and expand their ground-truthing efforts. The findings from these experiments were shared with the larger EV community and were published in several industry outlets.&nbsp;</span></p> <p dir="ltr"><span><span> </span></span><span>Using the SBIR grant, Recurrent was able to&nbsp; expand their telematically connected fleet from 1,000 to over 11,000 vehicles across a wide variety of climate zones. They went from having data on 15 vehicle models to 44 vehicle models during the grant period and from 60,000 observations to 7 million. As a result, the performance metrics for their range prediction models have improved across multiple makes and models of vehicles.</span></p> <p dir="ltr"><span>Some older vehicles are not able to connect telematically to any service due to a lack of compatible hardware or the obsolescence of hardware. Additionally, some vehicles have limited data provided through their telematic connections. During the Phase I grant, Recurrent launched a photo submission process to collect data on these non-telematically connected vehicles (patent pending). This submission process has proven critical to developing and improving models on older electric vehicles.</span></p> <p dir="ltr"><span><span> </span></span><span>Lastly, calendar aging and temperature exposure are known to affect battery performance. The Phase I grant enabled Recurrent to increase the accuracy of manufacture date estimations, location, and temperature exposure history of electric vehicles. Using vehicle-specific data from a third party, they can now automatically incorporate these features into battery estimates for a majority of vehicles on the road.</span></p> <p dir="ltr"><span>As Recurrent grows and expands its coverage, they intend to accelerate the growth of the used electric vehicle market and increase overall EV adoption. Recurrent&rsquo;s consumer-facing vehicle reports provide transparency and clearly communicate expectations of what to expect regarding EV ownership to prospective owners, making the used EV market less daunting and uncertain. Nearly 70% of vehicles on the road are purchased as pre-owned vehicles, and are often the most affordable options for low income families. Information transparency is a key component needed to encourage used electric vehicle adoptions, and all the benefits that electric vehicles have to offer, i.e. cleaner air, lower maintenance and fuel costs, etc.</span></p> <p dir="ltr"><span>Recurrent seeks to expand its impact beyond its own product. Recurrent often shares the insights gathered from their data on publicly available, and widely read, news websites. On Recurrent&rsquo;s own website, during the Phase I grant, traffic (primarily potential EV buyers) grew from ~13,000 users to 58,000 users on a monthly basis. They also offer and accept invitations to provide educational seminars, including podcasts, auto industry conferences and consulting with policy makers. Recurrent employees have presented seminars on EV adoption and trends, hosted by the International Council of Clean Transportation, the California Air Resource Board, and electric vehicle owner&rsquo;s associations. Additionally, Recurrent has agreed to share insights from anonymized EV data in support of academic research studying air quality and related health impacts of EV adoption.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 07/25/2022<br>      Modified by: Scott&nbsp;Case</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Recurrent has completed research and development for their NSF Phase I SBIR grant over 12 months. The grant enabled Recurrent to ground-truth their battery degradation machine learning models, which are based on telematic data from EV battery management systems. The additional data from the ground-truth experiments went to improve the performance of their machine learning models by recruiting more in-the-field EV data. The grant also allowed them to strengthen the relevance of features used in their machine learning models for calendar aging and temperature exposure, and went on to develop a patent-pending method to collect data from non-telematically connected vehicles.  To collect data to improve their telematically based models, Recurrent gathered high resolution data on 49 Nissan Leafs and 50 Tesla Model 3s for 3 months. Data included energy metrics, such as charging and energy outputs, and driving metrics, like odometer changes and speed. As a result, they uncovered relationships between battery capacity, manufacturer estimated dashboard range, and achievable range. Additionally, they developed infrastructure to maintain and expand their ground-truthing efforts. The findings from these experiments were shared with the larger EV community and were published in several industry outlets.   Using the SBIR grant, Recurrent was able to  expand their telematically connected fleet from 1,000 to over 11,000 vehicles across a wide variety of climate zones. They went from having data on 15 vehicle models to 44 vehicle models during the grant period and from 60,000 observations to 7 million. As a result, the performance metrics for their range prediction models have improved across multiple makes and models of vehicles. Some older vehicles are not able to connect telematically to any service due to a lack of compatible hardware or the obsolescence of hardware. Additionally, some vehicles have limited data provided through their telematic connections. During the Phase I grant, Recurrent launched a photo submission process to collect data on these non-telematically connected vehicles (patent pending). This submission process has proven critical to developing and improving models on older electric vehicles.  Lastly, calendar aging and temperature exposure are known to affect battery performance. The Phase I grant enabled Recurrent to increase the accuracy of manufacture date estimations, location, and temperature exposure history of electric vehicles. Using vehicle-specific data from a third party, they can now automatically incorporate these features into battery estimates for a majority of vehicles on the road. As Recurrent grows and expands its coverage, they intend to accelerate the growth of the used electric vehicle market and increase overall EV adoption. Recurrent’s consumer-facing vehicle reports provide transparency and clearly communicate expectations of what to expect regarding EV ownership to prospective owners, making the used EV market less daunting and uncertain. Nearly 70% of vehicles on the road are purchased as pre-owned vehicles, and are often the most affordable options for low income families. Information transparency is a key component needed to encourage used electric vehicle adoptions, and all the benefits that electric vehicles have to offer, i.e. cleaner air, lower maintenance and fuel costs, etc. Recurrent seeks to expand its impact beyond its own product. Recurrent often shares the insights gathered from their data on publicly available, and widely read, news websites. On Recurrent’s own website, during the Phase I grant, traffic (primarily potential EV buyers) grew from ~13,000 users to 58,000 users on a monthly basis. They also offer and accept invitations to provide educational seminars, including podcasts, auto industry conferences and consulting with policy makers. Recurrent employees have presented seminars on EV adoption and trends, hosted by the International Council of Clean Transportation, the California Air Resource Board, and electric vehicle owner’s associations. Additionally, Recurrent has agreed to share insights from anonymized EV data in support of academic research studying air quality and related health impacts of EV adoption.          Last Modified: 07/25/2022       Submitted by: Scott Case]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

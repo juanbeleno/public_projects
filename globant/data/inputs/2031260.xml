@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: III: Collaborative Research: In silico Algorithm for Assessing the Effects of Amino Acid Insertion and Deletion Mutations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>72684.00</AwardTotalIntnAmount>
+<AwardAmount>72684</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project proposes to advance current capabilities in predicting the impact of changes to protein sequence to changes in three-dimensional structure and function. The investigators focus on amino-acid insertions and deletions. This expansion is warranted, as changes to DNA include not just mutations but also insertions and deletions of entire fragments. A timely example of the need for the capabilities that will be developed in this project is the fast evolution observed in near real-time in SARS-Cov2. Many of the changes are concentrated in the sequence of the spike protein that binds to the lung receptors. Recent reports indicate that such changes are affecting changes to the structure of this protein and possibly its function. The problem of predicting the impact of changes to sequence to the structure and function of a protein is a hallmark problem in molecular biology. In this project, the investigators combine sequence data, a promising geometric treatment to predict changes to structure, and informatics techniques for predicting changes to function. The activities in this project constitute promising exploratory research.&lt;br/&gt;&lt;br/&gt;This project makes two key contributions. First, an inverse kinematics approach predicts sub-sequence configurations impacted by the insertion or deletion of amino acids and then accommodates such configurations via a constrained optimization approach in a physically-realistic tertiary structure of the entire protein sequence. Second, graph-rigidity analysis is employed to analyze computed structures and predict rigidity data. Coupled with evolutionary conservation, the data are employed to train machine learning models capable of predicting the stability of sequences of interest. The investigators have a track record of collaborative dissemination. The developed algorithms will be made freely available to the scientific community. In addition, the investigators have made increasing student diversity one of their top priorities. The investigators will continue to expand their efforts in successful mentoring of undergraduate students, including undergraduates from other STEM majors. In close coordination, the investigators will actively work with women and students from under-represented groups through several programs. One of them builds off an existing NSF award. The investigators will also leverage outreach efforts such as the Bridges to the Baccalaureate program, the University of Massachusetts Boston Women in Science club, and the Initiative for Maximizing Student Development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031260</AwardID>
+<Investigator>
+<FirstName>Nurit</FirstName>
+<LastName>Haspel</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nurit Haspel</PI_FULL_NAME>
+<EmailAddress><![CDATA[nurit.haspel@umb.edu]]></EmailAddress>
+<NSF_ID>000571046</NSF_ID>
+<StartDate>05/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Boston</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021253300</ZipCode>
+<PhoneNumber>6172875370</PhoneNumber>
+<StreetAddress>100 MORRISSEY BLVD RM 80</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CGCDJ24JJLZ1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MLBQUML9JJT6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Boston]]></Name>
+<CityName>Dorchester</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021253300</ZipCode>
+<StreetAddress><![CDATA[100 Morrissey Blvd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~72684</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Summary:</p> <p>Proteins and protein complexes play a central role in cellular organization and function, ion transport and regulation, signal transduction, protein degradation, and transcriptional regulation. Some specific regions or amino acids in the protein may play a critical role in its structural, dynamical and functional<br />properties.&nbsp; For example, proteins usually bind to one another through<br />a specific site on their surfaces which tends to be highly conserved.</p> <p>Intellectual Merit:</p> <p>Our goal was to develop a computational framework to explore the effects of indels on protein structure. This is in contrast to most other methods, which reason about the effects of point mutations, or amino substitutions only. In this project we accomplished the following:</p> <p>1. We developed a computational pipeline that performs indels <em>in silico </em>using Inverse Kinematics, and adjusts the resulting structure via energy minimization.</p> <p>2. We developed a coarse-grained rigidity analysis module that allows for faster rigidity and flexibility analysis.</p> <p>The results are a basis for a large-scale work that aims to mine and analyze InDels.</p> <p>Broader Impacts:</p> <p>Understanding the role of critical residues in protein structure and function, including insertions and deletions, can have implications for many diseases such as cystic fibrosis, certain types of cancer, and also the SARS-Cov-II proteins. Learning about the contribution of specific regions in the protein to their structural stability can also aid in drug design. <br />The results of the research were disseminated through several publications, and the developed algorithms are freely available to the scientific community.<br />The project provided research opportunities for several graduate students. Increasing student diversity is among the top of the PI's and co-PI's priorities. This grant was used to partially fund three PhD students, all of whom are immigrants, two of whom are women.</p> <p>The results from the grant will be incorporated in future coursework and will be used as part of a large scale analysis that will be built into a publicly available server.</p> <p>&nbsp;</p><br> <p>            Last Modified: 11/06/2022<br>      Modified by: Nurit&nbsp;Haspel</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Summary:  Proteins and protein complexes play a central role in cellular organization and function, ion transport and regulation, signal transduction, protein degradation, and transcriptional regulation. Some specific regions or amino acids in the protein may play a critical role in its structural, dynamical and functional properties.  For example, proteins usually bind to one another through a specific site on their surfaces which tends to be highly conserved.  Intellectual Merit:  Our goal was to develop a computational framework to explore the effects of indels on protein structure. This is in contrast to most other methods, which reason about the effects of point mutations, or amino substitutions only. In this project we accomplished the following:  1. We developed a computational pipeline that performs indels in silico using Inverse Kinematics, and adjusts the resulting structure via energy minimization.  2. We developed a coarse-grained rigidity analysis module that allows for faster rigidity and flexibility analysis.  The results are a basis for a large-scale work that aims to mine and analyze InDels.  Broader Impacts:  Understanding the role of critical residues in protein structure and function, including insertions and deletions, can have implications for many diseases such as cystic fibrosis, certain types of cancer, and also the SARS-Cov-II proteins. Learning about the contribution of specific regions in the protein to their structural stability can also aid in drug design.  The results of the research were disseminated through several publications, and the developed algorithms are freely available to the scientific community. The project provided research opportunities for several graduate students. Increasing student diversity is among the top of the PI's and co-PI's priorities. This grant was used to partially fund three PhD students, all of whom are immigrants, two of whom are women.  The results from the grant will be incorporated in future coursework and will be used as part of a large scale analysis that will be built into a publicly available server.          Last Modified: 11/06/2022       Submitted by: Nurit Haspel]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

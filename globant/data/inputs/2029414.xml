@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID/Collaborative Research: Developing Pandemics and Healing Models for Coronavirus COVID-19 to Assist in Policy Making]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>80000.00</AwardTotalIntnAmount>
+<AwardAmount>80000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Von Lehmen</SignBlockName>
+<PO_EMAI>avonlehm@nsf.gov</PO_EMAI>
+<PO_PHON>7032924756</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The current pandemic has stimulated a strong response on the part of local, state, and federal government, with containment largely achieved through stringent lockdowns, effectively quarantining nearly every household in the country.  Given the enormous socio-economic impacts of this approach, it is imperative to understand how to minimize the spread of the epidemic while also minimizing deleterious effects and maximizing the availability of critical health resources.  This project seeks to address this challenge by devising a better and scalable alternative to lockdown under suitable constraints.&lt;br/&gt;&lt;br/&gt;This project focuses on developing models for the COVID-19 pandemic, in particular looking at neighboring community spread, mitigation measures, and optimal distribution of healthcare resources in that context.  This project aims to (i) devise a better and scalable alternative to full lockdown; (ii) devise a cognitive solution that can be applied to various demographics having heterogeneous connectivity and population distribution with minimal information regarding previous epidemic spread; and (iii) minimize the impact of epidemic model uncertainties on the confinement and medical resource allocation strategies. The PIs will employ a collection of novel mathematical techniques to the problem that can handle heterogeneity and are scalable. The interdisciplinary team includes Johns Hopkins University, which has been a major Center for the collection of COVID-19 data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029414</AwardID>
+<Investigator>
+<FirstName>Houman</FirstName>
+<LastName>Homayoun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Houman Homayoun</PI_FULL_NAME>
+<EmailAddress><![CDATA[hhomayoun@ucdavis.edu]]></EmailAddress>
+<NSF_ID>000624468</NSF_ID>
+<StartDate>06/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956186153</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>1850 RESEARCH PARK DR, STE 300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TX2DAGQPENZ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[UC Davis ECE]]></Name>
+<CityName>DAVIS</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>956160100</ZipCode>
+<StreetAddress><![CDATA[1 shields Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~80000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The emergence of deadly viruses like AIDS, measles, SARS, Ebola, H1N1 influenza, and Tuberculosis has transformed the human race in recent decades, causing millions of deaths and long-term health issues. The impact of pandemics in today's interconnected world is exceptionally high in terms of human lives and financial burden. The ongoing SARS-2 COVID-19 outbreak has been declared a pandemic by the World Health Organization (WHO).</p> <p>To contain the COVID-19 pandemic, governments and public health organizations have implemented various measures such as mandatory mask usage, lockdowns, social distancing, restricted travel, and vaccine mandates. The enforcement and effectiveness of these measures depend on factors like demographics, population density, availability of personal protective equipment (PPE), regional variants of COVID-19, and people's compliance.</p> <p>Addressing the variability of demographic factors requires tailored containment strategies, considering the impact of neighboring areas. Confining the pandemic while minimizing economic repercussions is a complex task. Existing studies lack effective ways to contain the spread using minimal resources.</p> <p>To tackle this challenge, a game-theoretic optimization solution is proposed. Game theory provides a framework for understanding disease spread and control policies. It involves the defender (government) aiming to minimize losses caused by the attacker (COVID-19 virus). By modeling game theory, an optimal outcome for control strategies can be identified. A demography-aware confinement strategy is proposed, incorporating game theory, demographic information, population distribution, mobility, economic constraints, and public health requirements.</p> <p>&nbsp;Adaptability to new COVID-19 variants is crucial, and a confinement model is developed by considering dynamic infection rates and epidemic characteristics. The extended strategy incorporates external factors and extends the SEIRV/D model.</p> <p>&nbsp;Applying game theory on a large scale, such as considering each state in the US, presents challenges and time constraints. Graph learning is employed to create nodes representing each state and build a graph database, replicating real-world conditions. This approach allows identification of crucial connections and modifying them to restrict mobility between states, affecting the spread of COVID-19. The proposed demography- and mobility-aware confinement policy-making system can reduce the infection rate of each state by over 50%.</p> <p>Analyzing US government policies is crucial to mitigate the spread. Economic and health indicators, containment strategies, and stringency measures are considered in evaluating the government's response to COVID-19. Accurate predictions and insights can help manage the ongoing pandemic effectively.</p> <p>A website is developed to provide visualizations of COVID-19 data, offering an interactive platform to access key statistics and trends. The user-friendly interface aims to enhance public understanding and facilitate informed decision-making. The website provides up-to-date information on infection rates, hospitalizations, vaccination progress, and other relevant metrics.</p> <p>In summary, efforts include proposing a demography- and mobility-aware confinement strategy using game theory, evaluating US government response, and developing a website for data visualization to empower individuals and communities in combating the spread of COVID-19.</p> <p>&nbsp;</p><br> <p>            Last Modified: 06/01/2023<br>      Modified by: Houman&nbsp;Homayoun</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The emergence of deadly viruses like AIDS, measles, SARS, Ebola, H1N1 influenza, and Tuberculosis has transformed the human race in recent decades, causing millions of deaths and long-term health issues. The impact of pandemics in today's interconnected world is exceptionally high in terms of human lives and financial burden. The ongoing SARS-2 COVID-19 outbreak has been declared a pandemic by the World Health Organization (WHO).  To contain the COVID-19 pandemic, governments and public health organizations have implemented various measures such as mandatory mask usage, lockdowns, social distancing, restricted travel, and vaccine mandates. The enforcement and effectiveness of these measures depend on factors like demographics, population density, availability of personal protective equipment (PPE), regional variants of COVID-19, and people's compliance.  Addressing the variability of demographic factors requires tailored containment strategies, considering the impact of neighboring areas. Confining the pandemic while minimizing economic repercussions is a complex task. Existing studies lack effective ways to contain the spread using minimal resources.  To tackle this challenge, a game-theoretic optimization solution is proposed. Game theory provides a framework for understanding disease spread and control policies. It involves the defender (government) aiming to minimize losses caused by the attacker (COVID-19 virus). By modeling game theory, an optimal outcome for control strategies can be identified. A demography-aware confinement strategy is proposed, incorporating game theory, demographic information, population distribution, mobility, economic constraints, and public health requirements.   Adaptability to new COVID-19 variants is crucial, and a confinement model is developed by considering dynamic infection rates and epidemic characteristics. The extended strategy incorporates external factors and extends the SEIRV/D model.   Applying game theory on a large scale, such as considering each state in the US, presents challenges and time constraints. Graph learning is employed to create nodes representing each state and build a graph database, replicating real-world conditions. This approach allows identification of crucial connections and modifying them to restrict mobility between states, affecting the spread of COVID-19. The proposed demography- and mobility-aware confinement policy-making system can reduce the infection rate of each state by over 50%.  Analyzing US government policies is crucial to mitigate the spread. Economic and health indicators, containment strategies, and stringency measures are considered in evaluating the government's response to COVID-19. Accurate predictions and insights can help manage the ongoing pandemic effectively.  A website is developed to provide visualizations of COVID-19 data, offering an interactive platform to access key statistics and trends. The user-friendly interface aims to enhance public understanding and facilitate informed decision-making. The website provides up-to-date information on infection rates, hospitalizations, vaccination progress, and other relevant metrics.  In summary, efforts include proposing a demography- and mobility-aware confinement strategy using game theory, evaluating US government response, and developing a website for data visualization to empower individuals and communities in combating the spread of COVID-19.          Last Modified: 06/01/2023       Submitted by: Houman Homayoun]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

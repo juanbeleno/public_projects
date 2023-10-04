@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC* Networking Infrastructure: A Science DMZ For Quantitative Biology and Precision Agriculture]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>483122.00</AwardTotalIntnAmount>
+<AwardAmount>483122</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+<PO_EMAI>kthompso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924220</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Moore’s Law has ushered in a scientific data revolution.  This is particularly acute in the life sciences, where the devices used to collect data and the theoretical tools used to generate models have benefited tremendously from the advent of inexpensive digital sensors and general-purpose graphics processing units, which have led to an explosive increase in the volume of high-quality data.  Sharing large amounts of this data for analysis by other researchers will result in tremendous benefits to the scientific community.&lt;br/&gt;&lt;br/&gt;This project creates a Science DMZ at Michigan State University, which will facilitate MSU researchers’ ability to share huge volumes of data with the external research community at very high bandwidth.  The project supports the networking hardware and software necessary to implement up to 100Gbps network connections used for sharing data already stored at MSU’s High Performance Computing System and on the NSF-funded MI-OSIRIS file system.  The project uses data provided by four research groups on campus as a testbed, making cryo-electron microscopy images, hyperspectral imaging of crops using drones, three-dimensional volumetric images of plants generated via X-ray computed tomography, and a databank of biomolecular simulation data available to other researchers and the public. This project enhances the impact of MSU scientists and leverages prior NSF scientific and cyberinfrastructure investments.  In addition, it involves the participation of students in the deployment and usage of the science DMZ.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018432</AwardID>
+<Investigator>
+<FirstName>Melissa</FirstName>
+<LastName>Woo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Melissa Woo</PI_FULL_NAME>
+<EmailAddress><![CDATA[mwoo@msu.edu]]></EmailAddress>
+<NSF_ID>000820202</NSF_ID>
+<StartDate>05/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>O'Shea</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Brian W O'Shea</PI_FULL_NAME>
+<EmailAddress><![CDATA[oshea@msu.edu]]></EmailAddress>
+<NSF_ID>000316254</NSF_ID>
+<StartDate>05/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>EAST LANSING</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>426 AUDITORIUM RD RM 2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R28EKN92ZTZ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MICHIGAN STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>VJKZC4D1JN36</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Michigan State University]]></Name>
+<CityName>East Lansing</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>488242600</ZipCode>
+<StreetAddress><![CDATA[426 Auditorium Rd, Room 2]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~483122</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The goal of this project was to build a high-speed research network at Michigan State University (MSU) that will facilitate MSU researchers' ability to share huge volumes of data both within MSU and with the external research community at very high bandwidth - up to 100 Gbps.&nbsp; The funding from this grant was used for the networking hardware and software necessary to implement the high-speed network connections used for sharing data already stored at MSU's High Performance Computing Center (HPCC) and the NSF-funded MI-OSiRIS data storage systems, as well as to individual facilities on campus.&nbsp; As a testbed, we used data provided by four research groups on campus whose work focuses on data-intensive applications in biology and agriculture.</span></p> <p><span>The&nbsp;<strong>intellectual merit</strong>&nbsp;of this project is that it has immediately accelerated data transfer for MSU's data-intensive core research facilities (i.e., the MSU HPCC, MI-OSiRIS, and MSU's cryogenic electron microscopy facility), to the benefit of all research and educational efforts that use these facilities.&nbsp; In addition, research groups whose work focuses on precision agriculture with hyperspectral drone imaging and LIDAR, and molecular simulations of plant interactions, have experienced speedups in data transfers to and from their labs. Serendipitously, speeds between the Atlas Great Lakes Tier 2 data center locations at MSU and the University of Michigan, as well as to CERN, were increased and their connectivity was made more robust.&nbsp; Beyond these immediate and significant impacts, additional research groups with data-intensive experimental equipment will be brought onto the high speed research network in the near future.</span></p> <p><span>The&nbsp;<strong>broader impacts</strong>&nbsp;of this project are as follows.&nbsp; A significant number of undergraduate students, graduate students, and postdoctoral researchers&nbsp; participated in either the construction and optimization of the high speed research network or used it for their own research, thus giving them experience with cutting-edge research cyberinfrastructure and (in the latter case) accelerated their own research projects.&nbsp; In particular, undergraduate students participated in the network controllers used in this project, giving them real-world experience with high end networking equipment.&nbsp; In addition, the new network has enhanced the ability to share large datasets in a variety of research areas (most notably, computational plant science) that will be used to train students in computational biology.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 10/09/2022<br>      Modified by: Brian&nbsp;W&nbsp;O'shea</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The goal of this project was to build a high-speed research network at Michigan State University (MSU) that will facilitate MSU researchers' ability to share huge volumes of data both within MSU and with the external research community at very high bandwidth - up to 100 Gbps.  The funding from this grant was used for the networking hardware and software necessary to implement the high-speed network connections used for sharing data already stored at MSU's High Performance Computing Center (HPCC) and the NSF-funded MI-OSiRIS data storage systems, as well as to individual facilities on campus.  As a testbed, we used data provided by four research groups on campus whose work focuses on data-intensive applications in biology and agriculture.  The intellectual merit of this project is that it has immediately accelerated data transfer for MSU's data-intensive core research facilities (i.e., the MSU HPCC, MI-OSiRIS, and MSU's cryogenic electron microscopy facility), to the benefit of all research and educational efforts that use these facilities.  In addition, research groups whose work focuses on precision agriculture with hyperspectral drone imaging and LIDAR, and molecular simulations of plant interactions, have experienced speedups in data transfers to and from their labs. Serendipitously, speeds between the Atlas Great Lakes Tier 2 data center locations at MSU and the University of Michigan, as well as to CERN, were increased and their connectivity was made more robust.  Beyond these immediate and significant impacts, additional research groups with data-intensive experimental equipment will be brought onto the high speed research network in the near future.  The broader impacts of this project are as follows.  A significant number of undergraduate students, graduate students, and postdoctoral researchers  participated in either the construction and optimization of the high speed research network or used it for their own research, thus giving them experience with cutting-edge research cyberinfrastructure and (in the latter case) accelerated their own research projects.  In particular, undergraduate students participated in the network controllers used in this project, giving them real-world experience with high end networking equipment.  In addition, the new network has enhanced the ability to share large datasets in a variety of research areas (most notably, computational plant science) that will be used to train students in computational biology.          Last Modified: 10/09/2022       Submitted by: Brian W O'shea]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

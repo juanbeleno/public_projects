@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Inference, Forecasting, and Intervention Modeling of COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>198643.00</AwardTotalIntnAmount>
+<AwardAmount>198643</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zhilan Feng</SignBlockName>
+<PO_EMAI>zfeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927523</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A novel coronavirus emerged in late 2019 and by the end of March 2020 had spread to more than 170 countries, causing more than 750,000 confirmed cases of COVID-19 disease and over 4000 deaths. There is an urgent need to better understand this rapidly evolving crisis to predict and mitigate its effects.  The focus of this project is to apply mathematical and statistical models to: 1) estimate critical characteristics of the virus and its transmission; 2) forecast new COVID-19 outcomes; and 3) estimate the potential effectiveness of non-pharmaceutical (e.g. school closures, travel restrictions) interventions.  Projections of COVID-19 cases, hospital bed demand and ventilator demand, will be communicated to the public, public health agencies and government officials as they are developed in order to support real-time policy decision making.&lt;br/&gt; &lt;br/&gt;Inference, forecasting, and intervention modeling of the COVID-19 outbreak in the US is needed to improve understanding of SARS-CoV2 transmission dynamics and to support COVID-19 response and intervention efforts.  For this project, observations of reported infections in the US, in conjunction with commuting data, a networked dynamic metapopulation model and Bayesian inference, will be used to infer critical and evolving characteristics associated with SARS-CoV2 spread in the US, including the fraction of undocumented infections and their contagiousness. Using these same model-inference methods, ensemble projections of future COVID-19 incidence in the US will be developed and generated. Finally, models will be developed to simulate and study the effects of non-pharmaceutical interventions, including school closure, isolation, quarantine and travel restrictions, on COVID-19 incidence. Project findings will be communicated in real time to public health and government officials.  &lt;br/&gt;&lt;br/&gt;This award is co-funded with the Ecology and Evolution of Infectious Diseases program (Division of Environmental Biology), the Applied Mathematics program (Division of Mathematical Sciences), and the Office of Multidisciplinary Activities (OMA) program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027369</AwardID>
+<Investigator>
+<FirstName>Wan</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wan Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[wy2202@cumc.columbia.edu]]></EmailAddress>
+<NSF_ID>000763247</NSF_ID>
+<StartDate>04/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Shaman</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey L Shaman</PI_FULL_NAME>
+<EmailAddress><![CDATA[jls106@columbia.edu]]></EmailAddress>
+<NSF_ID>000215768</NSF_ID>
+<StartDate>04/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>202 LOW LIBRARY 535 W 116 ST MC</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F4N1QNPB95M4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Trustees of Columbia University in the City of New York]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100323702</ZipCode>
+<StreetAddress><![CDATA[722 West 168th Srreet]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7242</Code>
+<Text>Ecology of Infectious Diseases</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7334</Code>
+<Text>MATHEMATICAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~198643</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our aims for this project were to develop mathematical models representing the transmission of SARS-CoV-2, the causative agent of COVID-19, and to use those models in conjunction with Bayesian inference approaches and observations to: 1) infer the epidemiological characteristics of COVID-19 in the US; 2) generate COVID-19 projections; and 3) simulate the effects of various interventions.&nbsp;</p> <p>Among our Aim 1 results, we estimated the overall ascertainment rate&mdash;the percentage of all infections reported as COVID-19 cases&mdash;in the US during 2020 was 21.6% and population susceptibility at the end of 2020 was 69.0%, indicating roughly one third of the US population had been infected. Community infectious rates, the percentage of people harboring a contagious infection, rose nationally above 0.8% before the end of the year, and were as high as 2.4% in some major metropolitan areas.&nbsp;</p> <p>We also developed a model-inference approach to simultaneously estimate the transmissibility and immune escape potential of the alpha, beta and gamma SARS-CoV-2 variants in each of the countries in which these variants were first identified. We found alpha to be substantially more transmissible than the original ancestral variant, but only nominally capable of escaping the protection conferred by prior infection with the ancestral variant, i.e. causing symptomatic repeat infection; however, both beta and gamma exhibited some increase in transmissibility but substantial immune escape potential.</p> <p>We also developed a separate system to estimate infection fatality rate (IFR) by age group in New York City during the spring 2020 wave and found that IFR was three orders of magnitude higher for people over 75 years compared with individuals under 25 years of age.</p> <p>For Aim 2, we participated in CDC&rsquo;s COVID-19 forecasting efforts and submitted weekly projections of state-level COVID-19 deaths and hospitalizations, and county and state-level COVID-19 cases. Weekly projections were generated based on hypothetical scenarios describing changes in disease transmission rates due to individual behavior and government policies. The scenarios were changed as needed over time in response to changing policies during different phases of the pandemic.</p> <p>We also developed a spatiotemporal tool to rapidly determine where and when pandemic demand for critical care overwhelms county-level surge capacity and to compare public health and medical responses. Additional projections were separately generated for New York City at finer geographic resolution and communicated directly to public health officials.</p> <p>For Aim 3, estimating the effects of interventions, we simulated the impact of the vaccination campaign on averted SARS-COV-2 infections and deaths. We estimated that the joint enforcement of vaccination and non-pharmaceutical interventions over the 15 months following vaccine rollout in mid-December 2020 could have averted more than 60% of infections and 70% of deaths during that period, and that expanding the vaccination rate from 5 to 11 million people per week could increase the averted burden by more than one third. In a separate study, we also found that mass-vaccination in New York City would be critical for mitigating epidemic severity and that prioritizing key risk groups for earlier vaccination would lead to greater reductions in hospitalizations and deaths than infections.</p> <p>In a study of the spring 2020 outbreak, we showed that, had social distancing and other control measures been implemented 1 to 2 weeks earlier, substantial cases and deaths could have been averted and that delayed responses to future initial surges of increased incidence would allow a stronger rebound of the virus and more infections and death.&nbsp; This latter finding underscored the importance of both rapid public health response to upticks in community infection rates and community compliance with the non-pharmaceutical interventions (e.g. masking, social distancing, restrictions of mass gatherings) needed to better contain the virus.</p> <p>We also developed a hypothetical hurricane evacuation model and showed that the total number of COVID-19 cases in both evacuation origin and destination locations increases; however, if transmission rates in destination counties are prevented from rising during evacuation, excess case numbers can be minimized by directing evacuees to counties experiencing lower COVID-19 transmission rates.</p> <p>We also supported research showing how epidemic management and control could be improved by proximity data obtained from mobile devices. In proof-of-concept simulations, tracking and identifying high-risk individuals in a network and tailoring contact interventions to those individuals achieves more efficient epidemic control than test and tracing approaches.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/27/2021<br>      Modified by: Jeffrey&nbsp;L&nbsp;Shaman</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Our aims for this project were to develop mathematical models representing the transmission of SARS-CoV-2, the causative agent of COVID-19, and to use those models in conjunction with Bayesian inference approaches and observations to: 1) infer the epidemiological characteristics of COVID-19 in the US; 2) generate COVID-19 projections; and 3) simulate the effects of various interventions.   Among our Aim 1 results, we estimated the overall ascertainment rate&mdash;the percentage of all infections reported as COVID-19 cases&mdash;in the US during 2020 was 21.6% and population susceptibility at the end of 2020 was 69.0%, indicating roughly one third of the US population had been infected. Community infectious rates, the percentage of people harboring a contagious infection, rose nationally above 0.8% before the end of the year, and were as high as 2.4% in some major metropolitan areas.   We also developed a model-inference approach to simultaneously estimate the transmissibility and immune escape potential of the alpha, beta and gamma SARS-CoV-2 variants in each of the countries in which these variants were first identified. We found alpha to be substantially more transmissible than the original ancestral variant, but only nominally capable of escaping the protection conferred by prior infection with the ancestral variant, i.e. causing symptomatic repeat infection; however, both beta and gamma exhibited some increase in transmissibility but substantial immune escape potential.  We also developed a separate system to estimate infection fatality rate (IFR) by age group in New York City during the spring 2020 wave and found that IFR was three orders of magnitude higher for people over 75 years compared with individuals under 25 years of age.  For Aim 2, we participated in CDC’s COVID-19 forecasting efforts and submitted weekly projections of state-level COVID-19 deaths and hospitalizations, and county and state-level COVID-19 cases. Weekly projections were generated based on hypothetical scenarios describing changes in disease transmission rates due to individual behavior and government policies. The scenarios were changed as needed over time in response to changing policies during different phases of the pandemic.  We also developed a spatiotemporal tool to rapidly determine where and when pandemic demand for critical care overwhelms county-level surge capacity and to compare public health and medical responses. Additional projections were separately generated for New York City at finer geographic resolution and communicated directly to public health officials.  For Aim 3, estimating the effects of interventions, we simulated the impact of the vaccination campaign on averted SARS-COV-2 infections and deaths. We estimated that the joint enforcement of vaccination and non-pharmaceutical interventions over the 15 months following vaccine rollout in mid-December 2020 could have averted more than 60% of infections and 70% of deaths during that period, and that expanding the vaccination rate from 5 to 11 million people per week could increase the averted burden by more than one third. In a separate study, we also found that mass-vaccination in New York City would be critical for mitigating epidemic severity and that prioritizing key risk groups for earlier vaccination would lead to greater reductions in hospitalizations and deaths than infections.  In a study of the spring 2020 outbreak, we showed that, had social distancing and other control measures been implemented 1 to 2 weeks earlier, substantial cases and deaths could have been averted and that delayed responses to future initial surges of increased incidence would allow a stronger rebound of the virus and more infections and death.  This latter finding underscored the importance of both rapid public health response to upticks in community infection rates and community compliance with the non-pharmaceutical interventions (e.g. masking, social distancing, restrictions of mass gatherings) needed to better contain the virus.  We also developed a hypothetical hurricane evacuation model and showed that the total number of COVID-19 cases in both evacuation origin and destination locations increases; however, if transmission rates in destination counties are prevented from rising during evacuation, excess case numbers can be minimized by directing evacuees to counties experiencing lower COVID-19 transmission rates.  We also supported research showing how epidemic management and control could be improved by proximity data obtained from mobile devices. In proof-of-concept simulations, tracking and identifying high-risk individuals in a network and tailoring contact interventions to those individuals achieves more efficient epidemic control than test and tracing approaches.                 Last Modified: 10/27/2021       Submitted by: Jeffrey L Shaman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

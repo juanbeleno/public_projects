@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Ultra-high throughput parallel optical links for chip-to-chip interconnects.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255612.00</AwardTotalIntnAmount>
+<AwardAmount>255612</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to demonstrate a platform for increasing computing power and decreasing power consumption in applications such as: datacenter search, machine learning, cell phones, and personal electronics.  By addressing the key bottleneck of data interconnects at short length scales, this project will enable new computing architectures that can learn, retrieve information, and solve problems beyond the reach of conventional computing.  The impact will range from chip companies to electronic packaging, to the system companies and ultimately to the users of computing services, from businesses to individuals.  Addressing this interconnect bottleneck will realize more powerful personal computing that consumes less power, creates more efficient data centers, and accelerates widespread adoption of new machine learning architectures.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project addresses a key issue of moving data within and between computing platforms.  As the length of a datalink increases, the power consumption and density drop.  Generally electrical wires are used for length scales less than a meter, and optics are used for high speed signals over a few meters.  This project will enable a new light source based on Gallium Nitride devices, typically used in lighting and display applications.  Through this approach, optical signaling can be used at shorter distances, giving much higher density and lower electrical power consumptions.  The goal of this project is to demonstrate an optical link with 10x to 100x lower power than electrical wiring and 100x the density of traditional optical links.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/01/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036649</AwardID>
+<Investigator>
+<FirstName>Bardia</FirstName>
+<LastName>Pezeshki</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bardia Pezeshki</PI_FULL_NAME>
+<EmailAddress><![CDATA[bardia@avicena.tech]]></EmailAddress>
+<NSF_ID>000828091</NSF_ID>
+<StartDate>02/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>AVICENATECH, CORP.</Name>
+<CityName>MOUNTAIN VIEW</CityName>
+<ZipCode>940431604</ZipCode>
+<PhoneNumber>6502456701</PhoneNumber>
+<StreetAddress>1130 INDEPENDENCE AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HAMDAN824UG1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AVICENATECH, CORP.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>HAMDAN824UG1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[AVICENATECH, CORP.]]></Name>
+<CityName>Sunnyvale</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>940891203</ZipCode>
+<StreetAddress><![CDATA[1231 Bordeaux Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255612</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Interconnects in computers are pervasive, connecting CPU's, GPU's, memory, and storage. Computer performance is limited by the speed and latency of interconnects, which ultimately is controlled by the physical layer transmission medium. It is well known that the electrical transmission technology is limited in bandwidth, reach, and latency, and system designers are increasingly hampered by the cost, power, and the limited performance of electrical interconnects. Optical interconnects promise to solve these problems, but to date optical solutions have been impractical for short distances. &nbsp;Avicena's approach using high speed microLEDs sending signals in parallel multicore fibers match the width and speeds of the internal busses of high-speed ASICs and could eliminate the need for SERDES and allow much higher overall interconnectivity at high energy efficiency.&nbsp;</p> <p>&nbsp;</p> <p>Under Phase 1 support Avicena demonstrated many aspects of its innovative ultra-low power, Light Emitting Diode (LED) based optical links for short distance computer interconnect applications. &nbsp;&nbsp;Termed "LightBundle", this technology is based on parallel arrays of GaN micro-LEDs with high-speed modulation capabilities.&nbsp; The specialized high-speed LEDs, termed CROME's, or Cavity-Reinforced Optical Micro-Emitters, form the basis of the Avicena system.</p> <p>&nbsp;</p> <p>More specifically, under Phase 1 support Avicena fabricated arrays of 256 CROME LEDs operating at 4 Gbps, providing a total interconnect bandwidth of 1 Tbps. At the receiver end, Avicena fabricated arrays of custom photodiodes and transimpedance amplifiers optimized for the short wavelength of the GaN LEDs. &nbsp;&nbsp;The two ends of the link were connected with a novel multicore fiber bundle, so that a single 0.5mm thick optical cable could support all 256 lanes with 1 Tbps of capacity. &nbsp;Link power dissipation of under 200 fJ/bit were achieved, with the long-term target goal being &lt; 100 fJ/bit. These power dissipation figures are ~ 100x less than competing optical technologies.</p> <p>&nbsp;</p> <p>The key objectives of the proposed program for Phase 1 were as follows:</p> <ul> <li>Demonstrate LED based parallel links with per-line data rates &gt; 2Gbps and data throughput density of &gt; 200Tbps/cm2, with a goal of 4Gbps line rate and 1Pbps/cm2 throughput density.</li> <li>Demonstrate link power dissipation &lt; 200fJ/bit with a goal of &lt; 100fJ/bit.</li> <li>Demonstrate the use of established volume manufacturing processes for assembling links, including die bonding, solder bump bonding, and automated closed loop positioning.</li> </ul> <p>These objectives were demonstrated during Phase 1.&nbsp; We have continued to increase the efficiency of the LED's obtaining up to 10Gb/s per lane and demonstrated the manufacturability and the scalability in the number of lanes to permit even greater bandwidths.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/28/2021<br>      Modified by: Bardia&nbsp;Pezeshki</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2036649/2036649_10715177_1635458314243_Picture1--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2036649/2036649_10715177_1635458314243_Picture1--rgov-800width.jpg" title="LightBundleTM"><img src="/por/images/Reports/POR/2021/2036649/2036649_10715177_1635458314243_Picture1--rgov-66x44.jpg" alt="LightBundleTM"></a> <div class="imageCaptionContainer"> <div class="imageCaption">LightBundleTM -Use Parallel "Images" to Move Data</div> <div class="imageCredit">Avicena Tech Corp.</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Bardia&nbsp;Pezeshki</div> <div class="imageTitle">LightBundleTM</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Interconnects in computers are pervasive, connecting CPU's, GPU's, memory, and storage. Computer performance is limited by the speed and latency of interconnects, which ultimately is controlled by the physical layer transmission medium. It is well known that the electrical transmission technology is limited in bandwidth, reach, and latency, and system designers are increasingly hampered by the cost, power, and the limited performance of electrical interconnects. Optical interconnects promise to solve these problems, but to date optical solutions have been impractical for short distances.  Avicena's approach using high speed microLEDs sending signals in parallel multicore fibers match the width and speeds of the internal busses of high-speed ASICs and could eliminate the need for SERDES and allow much higher overall interconnectivity at high energy efficiency.      Under Phase 1 support Avicena demonstrated many aspects of its innovative ultra-low power, Light Emitting Diode (LED) based optical links for short distance computer interconnect applications.   Termed "LightBundle", this technology is based on parallel arrays of GaN micro-LEDs with high-speed modulation capabilities.  The specialized high-speed LEDs, termed CROME's, or Cavity-Reinforced Optical Micro-Emitters, form the basis of the Avicena system.     More specifically, under Phase 1 support Avicena fabricated arrays of 256 CROME LEDs operating at 4 Gbps, providing a total interconnect bandwidth of 1 Tbps. At the receiver end, Avicena fabricated arrays of custom photodiodes and transimpedance amplifiers optimized for the short wavelength of the GaN LEDs.   The two ends of the link were connected with a novel multicore fiber bundle, so that a single 0.5mm thick optical cable could support all 256 lanes with 1 Tbps of capacity.  Link power dissipation of under 200 fJ/bit were achieved, with the long-term target goal being &lt; 100 fJ/bit. These power dissipation figures are ~ 100x less than competing optical technologies.     The key objectives of the proposed program for Phase 1 were as follows:  Demonstrate LED based parallel links with per-line data rates &gt; 2Gbps and data throughput density of &gt; 200Tbps/cm2, with a goal of 4Gbps line rate and 1Pbps/cm2 throughput density. Demonstrate link power dissipation &lt; 200fJ/bit with a goal of &lt; 100fJ/bit. Demonstrate the use of established volume manufacturing processes for assembling links, including die bonding, solder bump bonding, and automated closed loop positioning.   These objectives were demonstrated during Phase 1.  We have continued to increase the efficiency of the LED's obtaining up to 10Gb/s per lane and demonstrated the manufacturability and the scalability in the number of lanes to permit even greater bandwidths.          Last Modified: 10/28/2021       Submitted by: Bardia Pezeshki]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Acoustic Communications and Sensing for COVID-19 Data Collection]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alhussein Abouzeid</SignBlockName>
+<PO_EMAI>aabouzei@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The outbreak of the novel coronavirus (COVID-19) has unfolded as a major international crisis whose influence has extended to every aspect of daily life. This has led to a devastating loss of human life as well as the nation's economic well-being. As various US states begin to restart their economies, contact tracing has become an invaluable tool in allowing the workforce to return in a safe and controlled manner. The proposed project aims to build a privacy-preserving crowdsensing system for effective COVID-19 tracking and tracing by leveraging the ubiquity of mobile devices. This work overcomes key challenges of infrastructure-based techniques such as video monitoring systems, etc., that are difficult to scale and provide broad coverage. This approach uses a unique inaudible acoustic based communication system to identify and monitor persons with whom users have interacted with. It uses only acoustic signal transmission with every day mobile phone sensors (i.e., inbuilt speakers and microphones) to facilitate easy implementation.  The research conducted during this project will overcome key challenges in energy management and power control to prolong battery life, dealing with an occluded environment where the phone may be in a pocket or a purse, and detecting physical interactions between users, thus making fundamental contributions to domain specific research areas themselves.&lt;br/&gt; &lt;br/&gt;The system will leverage the normal procedure of human interactions in the context of social encounters and adapt a novel acoustic signals dissemination service that selectively broadcasts information within particular "turfs". The encounters' information will be uploaded to a central server either automatically or with users' manual processing. The map at the central server will be updated accordingly. The solution will preserve a number of desirable qualities in the following dimensions: (i) The sensing range of acoustic signals on mobile phones is small compared with competing systems such as Bluetooth, but meets the requirements on virus detection. In fact, this feature enables far less false positives than Bluetooth based approaches. The short range also helps with privacy. (ii) Each user's unique ID such as WiFi and Bluetooth MAC addresses would not be disclosed to their peer encounters. Instead, only randomly generated IDs are disclosed. (iii) Users can choose what information to report to the central server, e.g., their encounters with/without GPS, their medical condition, age, real ID, etc. They could also choose not to report certain encounters or encounters at certain locations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028547</AwardID>
+<Investigator>
+<FirstName>Ness</FirstName>
+<LastName>Shroff</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ness Shroff</PI_FULL_NAME>
+<EmailAddress><![CDATA[shroff@ece.osu.edu]]></EmailAddress>
+<NSF_ID>000445637</NSF_ID>
+<StartDate>06/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dong</FirstName>
+<LastName>Xuan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dong Xuan</PI_FULL_NAME>
+<EmailAddress><![CDATA[xuan@cse.ohio-state.edu]]></EmailAddress>
+<NSF_ID>000492149</NSF_ID>
+<StartDate>06/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>1960 KENNY RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Ohio State University]]></Name>
+<CityName/>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The outbreak of the novel coronavirus (COVID-19) [1] is unfolding as a major international crisis whose influence extends to major aspects of our daily lives. For example, the U.S. imposed a travel ban on European countries [2] and international manufacturing operations have curtailed production [3]. Unlike seasonal flu, the World Health Organization (WHO) declared the rapidly spreading coronavirus a pandemic in early March 2020. There have been over 1,000,000 infections worldwide in early April 2020. To this end, tracking and predicting how the virus could spread among people and regions became a critical part of public health response strategies and early warning and prediction systems. The project resulted in the following key developments.&nbsp;</p> <p>A&nbsp; new acoustic signal transmission based app was developed by using common mobile phone sensors (<em>i.e.</em>, speakers and microphones). A-Turf selectively broadcasts inaudible ultrasonic signals (including its randomly generated ID) in a nearby area. In mobile contact tracing, indiviudal mobile phone broadcasts and receives random IDs to achieve automatic contact tracing.&nbsp;Most existing contact tracing solutions use Bluetooth, which may lead to lots of false alarms, because Blutooth penetrates walls and other obstacles that prevent the spread of the virus. In A-Turf, each user generates a virtual proximity range. If two users enter each other&rsquo;s proximity range, they will receive each other&rsquo;s random ID.&nbsp;If one user tests positive for COVID-19, the public health authority can publish her/his random ID history (this action doesn&rsquo;t disclose the user&rsquo;s identity. Users can compare the random IDs they&rsquo;ve received with the published patient&rsquo;s random ID history to know if they have contact(s) with patient(s). A-Turf was tested and implemented on sevral android based systems and shown the system to work effectively.&nbsp;</p> <p><span>A large number of Bluetooth-based mobile apps have been developed recently to help tracing close contacts of contagious COVID19 individuals. These apps make decisions based on whether two users are in close proximity (e.g., within 6 ft) according to the distance measured from the received signal strength (RSSI ) of Bluetooth. The project provided a detailed study of the current practice of RSSI-based distance measurements among contact tracing apps by analyzing various factors that can affect the RSSI value and how each app has responded to them.&nbsp;</span></p> <p>Traditional methods for mitigating pandemics employ a dual strategy of contact tracing plus testing combined with quarantining and isolation. The contact tracing aspect is usually done via manual (human) contact tracers, which are labor-intensive and expensive. In many large-scale pandemics (e.g., COVID-19), testing capacity is resource limited, and current myopic testing strategies are resource wasteful. To address these challenges, the project developed a blueprint on how to contain the spread of a pandemic by leveraging wireless technologies and advances in sequential learning for efficiently using testing resources in order to mitigate the spread of a large-scale pandemic. In particular, a study was conducted on how different wireless technologies could be leveraged to improve contact tracing and reduce the probabilities of detection and false alarms. The idea is to integrate different streams of data in order to create a susceptibility graph whose nodes correspond to an individual and whose links correspond to spreading probabilities. It was then shown how to develop efficient sequential learning based algorithms in order to minimize the spread of the virus infection. In particular, it was shown that current contact tracing plus testing strategies that are aimed at identifying (and testing) individuals with the highest probability of infection are inefficient. Rather, it is instead better to test those individuals whose expected impact on virus spread is the highest.&nbsp;</p> <p>Beyond publications in conferences and journals the work conducted on this project has also been reported in the popular press, and we were interviewed on a Cleveland TV station. Here is an example press release:&nbsp;</p> <p>&nbsp;<a href="https://urldefense.com/v3/__https:/www.newswise.com/coronavirus/using-your-phone-s-microphone-to-track-possible-covid-19-exposure?page=2&amp;search*status*=3&amp;search*sort*=date*desc&amp;search*channel_id*=6546&amp;category=*__;W11bXStbXSM!!KGKeukY!mrdLLAUS_YB88D8X1sW3Vw_AjH2x2dyv0Bn1poglRZlfumojfzuKqhIYXjXIO7PDJw$">https://www.newswise.com/coronavirus/using-your-phone-s-microphone-to-track-possible-covid-19-exposure?page=2&amp;search[status]=3&amp;search[sort]=date+desc&amp;search[channel_id]=6546&amp;category=#</a>!</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 07/30/2022<br>      Modified by: Ness&nbsp;Shroff</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The outbreak of the novel coronavirus (COVID-19) [1] is unfolding as a major international crisis whose influence extends to major aspects of our daily lives. For example, the U.S. imposed a travel ban on European countries [2] and international manufacturing operations have curtailed production [3]. Unlike seasonal flu, the World Health Organization (WHO) declared the rapidly spreading coronavirus a pandemic in early March 2020. There have been over 1,000,000 infections worldwide in early April 2020. To this end, tracking and predicting how the virus could spread among people and regions became a critical part of public health response strategies and early warning and prediction systems. The project resulted in the following key developments.   A  new acoustic signal transmission based app was developed by using common mobile phone sensors (i.e., speakers and microphones). A-Turf selectively broadcasts inaudible ultrasonic signals (including its randomly generated ID) in a nearby area. In mobile contact tracing, indiviudal mobile phone broadcasts and receives random IDs to achieve automatic contact tracing. Most existing contact tracing solutions use Bluetooth, which may lead to lots of false alarms, because Blutooth penetrates walls and other obstacles that prevent the spread of the virus. In A-Turf, each user generates a virtual proximity range. If two users enter each other’s proximity range, they will receive each other’s random ID. If one user tests positive for COVID-19, the public health authority can publish her/his random ID history (this action doesn’t disclose the user’s identity. Users can compare the random IDs they’ve received with the published patient’s random ID history to know if they have contact(s) with patient(s). A-Turf was tested and implemented on sevral android based systems and shown the system to work effectively.   A large number of Bluetooth-based mobile apps have been developed recently to help tracing close contacts of contagious COVID19 individuals. These apps make decisions based on whether two users are in close proximity (e.g., within 6 ft) according to the distance measured from the received signal strength (RSSI ) of Bluetooth. The project provided a detailed study of the current practice of RSSI-based distance measurements among contact tracing apps by analyzing various factors that can affect the RSSI value and how each app has responded to them.   Traditional methods for mitigating pandemics employ a dual strategy of contact tracing plus testing combined with quarantining and isolation. The contact tracing aspect is usually done via manual (human) contact tracers, which are labor-intensive and expensive. In many large-scale pandemics (e.g., COVID-19), testing capacity is resource limited, and current myopic testing strategies are resource wasteful. To address these challenges, the project developed a blueprint on how to contain the spread of a pandemic by leveraging wireless technologies and advances in sequential learning for efficiently using testing resources in order to mitigate the spread of a large-scale pandemic. In particular, a study was conducted on how different wireless technologies could be leveraged to improve contact tracing and reduce the probabilities of detection and false alarms. The idea is to integrate different streams of data in order to create a susceptibility graph whose nodes correspond to an individual and whose links correspond to spreading probabilities. It was then shown how to develop efficient sequential learning based algorithms in order to minimize the spread of the virus infection. In particular, it was shown that current contact tracing plus testing strategies that are aimed at identifying (and testing) individuals with the highest probability of infection are inefficient. Rather, it is instead better to test those individuals whose expected impact on virus spread is the highest.   Beyond publications in conferences and journals the work conducted on this project has also been reported in the popular press, and we were interviewed on a Cleveland TV station. Here is an example press release:    https://www.newswise.com/coronavirus/using-your-phone-s-microphone-to-track-possible-covid-19-exposure?page=2&amp;search[status]=3&amp;search[sort]=date+desc&amp;search[channel_id]=6546&amp;category=#!             Last Modified: 07/30/2022       Submitted by: Ness Shroff]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

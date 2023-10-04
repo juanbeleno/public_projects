@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative Research: Quarantined Networks and the Spread of COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>59541.00</AwardTotalIntnAmount>
+<AwardAmount>59541</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pawel Hitczenko</SignBlockName>
+<PO_EMAI>phitczen@nsf.gov</PO_EMAI>
+<PO_PHON>7032925330</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As the global community weighs the necessary extent of quarantine and social distancing to fight the spread of COVID-19, the critical question is how disease transmission is mitigated by these measures. Recent predictions suggest that without serious interventions, a large portion of the world population will become infected, resulting in millions of deaths. To mitigate this worst-case scenario, key policy decisions are being guided by mathematical models. However, several prominent models make unrealistic assumptions about human contacts i.e., that an individual is equally likely to infect a close family member as a complete stranger on the other side of the country. Such assumptions are useful for calculations, but fail to take into account the full geographic complexity of the outbreak. Furthermore, many models do not consider the consequences of the quarantine of healthy individuals. This project will use rigorous analysis and simulation to address these shortcomings by describing a more realistic structure of quarantined networks and how disease spreads in them. The proposed research will use real-world data about contact networks to make predictions and recommendations for controlling the COVID-19 outbreak, improving our understanding of how best to contain the current as well as future pandemics. The project will involve the training of undergraduate students.&lt;br/&gt;&lt;br/&gt;This research will describe the effect of quarantine on connectivity and disease transmission on more realistic networks than have previously been considered. Of particular importance will be locating critical thresholds which, when exceeded, allow large epidemics to occur. There is recent study of these thresholds, but for networks that model digital infrastructure and social networks. The first objective of the research will be to determine the effect of biased site percolation on graph structure, especially how different percolation rules influence the size of the largest component of a given graph. The second part will then focus on how the critical threshold and size of the epidemic for an SIR model change after percolation. This will be explored rigorously on graphs generated from the configuration model as well as random spatial networks such as Gilbert graphs. Additionally, these questions will be investigated on real world face-to-face networks using data specific to the current COVID-19 pandemic. Answering them will help test robustness of previous models, while also exploring the effectiveness of stronger preemptive distancing.&lt;br/&gt;&lt;br/&gt;This grant is being awarded using funds made available by the Coronavirus Aid, Relief, and Economic Security (CARES) Act supplemental funds allocated to MPS.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028892</AwardID>
+<Investigator>
+<FirstName>Felicia</FirstName>
+<LastName>Keesing</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Felicia Keesing</PI_FULL_NAME>
+<EmailAddress><![CDATA[keesing@bard.edu]]></EmailAddress>
+<NSF_ID>000449720</NSF_ID>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Junge</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew S Junge</PI_FULL_NAME>
+<EmailAddress><![CDATA[Matthew.Junge@baruch.cuny.edu]]></EmailAddress>
+<NSF_ID>000703023</NSF_ID>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bard College</Name>
+<CityName>ANNANDALE ON HUDSON</CityName>
+<ZipCode>125049800</ZipCode>
+<PhoneNumber>8457587434</PhoneNumber>
+<StreetAddress>30 CAMPUS RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>PCWWUCWEV363</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>PCWWUCWEV363</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bard College]]></Name>
+<CityName>Annandale-on-Hudson</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>125045000</ZipCode>
+<StreetAddress><![CDATA[Office of Institutional Support]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~59541</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-71eb0c8b-7fff-3bc7-0bac-1bbd0fd59ff4">&nbsp;</span>This project had two modes of inquiry: one applied and one theoretical.</p> <p dir="ltr"><span>In the applied vein, two preprints were produced. Both concern modeling COVID-19 spread in university settings. The first project developed a stochastic agent-based model on a network to describe COVID-19 spread in a small college with 2000 students. The goal was to understand what level of intervention was needed to safely reopen such campuses for the Fall 2020 academic year. The second project concerned safe reopening of larger urban universities (16000 students) for Fall 2021 with the presence of vaccines.&nbsp;</span></p> <p dir="ltr">For small colleges, we found that a safe reopening requires strong policy from administrators combined with cautious behavior from students. Strong policy includes weekly screening tests with quick turnaround and halving the campus population. Cautious behavior from students means wearing facemasks, socializing less, and showing up for COVID-19 testing. We also found that comprehensive testing and facemasks are the most effective single interventions, building closures can lead to infection spikes in other areas depending on student behavior, and faster return of test results significantly reduces total infections.</p> <p dir="ltr"><span>For urban universities, we found that mRNA vaccine coverage above 80% makes it possible to safely reopen to in-person instruction. Our model assumes that facemasks are still used on campus, but we find with 100% vaccine coverage facemasks are not neccessary. Our simulations with vaccine coverage below 70% exhibit a right-skew for total infections over the semester, which suggests that high levels of infection are not exceedingly rare with campus social connections the main transmission route. Less effective vaccines or incidence of new variants may require additional intervention such as screening testing to reopen safely.&nbsp;</span></p> <p dir="ltr"><span>The theoretical pursuits are still being written up. Viewing social connections as a network, one project asks how global connectivity is reduced by removing the most connected individuals. Another project concerns spatial stochastic epidemic models for infection spread in a mobile population. This is modeled with an interacting multiple random walk model on the square integer lattice. The dynamics include the impact of travel (i.e. occasional large power-law jumps) on infection spread and also the impact of vaccination of infection spread.&nbsp;<br /></span></p> <p dir="ltr"><span>We find that network connectivity is greatly impacted by removing high-degree vertices in certain random networks. However, connections can persist if the removal is done in a sparse manner. We also find that travel greatly accelerates infection spread in our spatial epidemic with interacting random walks. Moreover, the presence of vaccination quickly stifles infection spread in similar spatial models.</span></p> <p dir="ltr"><span>Several students were trained during this project. The small college model actively involved three undergraduates and one graduate student. Two of the undergraduates and the graduate student belong to underrepresented groups in mathematics. The urban university model includes a graduate student. The theoretical work includes three undergraduates as well.</span></p> <p dir="ltr"><span>Moreover, the PI and CoPIs come from different fields (mathematics, biology, and computer science) and personally benefited from the interdisciplinary aspects of the research. Future collaborations will likely arise from this work. On the urban university model, the PI worked with a researcher in epidemiology at the CUNY school of public health as well as a researcher in engineering at Cornell University. This too was a fruitful, mutually beneficial collaboration with great future prospects.</span></p> <p dir="ltr">&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/14/2021<br>      Modified by: Matthew&nbsp;S&nbsp;Junge</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This project had two modes of inquiry: one applied and one theoretical. In the applied vein, two preprints were produced. Both concern modeling COVID-19 spread in university settings. The first project developed a stochastic agent-based model on a network to describe COVID-19 spread in a small college with 2000 students. The goal was to understand what level of intervention was needed to safely reopen such campuses for the Fall 2020 academic year. The second project concerned safe reopening of larger urban universities (16000 students) for Fall 2021 with the presence of vaccines.  For small colleges, we found that a safe reopening requires strong policy from administrators combined with cautious behavior from students. Strong policy includes weekly screening tests with quick turnaround and halving the campus population. Cautious behavior from students means wearing facemasks, socializing less, and showing up for COVID-19 testing. We also found that comprehensive testing and facemasks are the most effective single interventions, building closures can lead to infection spikes in other areas depending on student behavior, and faster return of test results significantly reduces total infections. For urban universities, we found that mRNA vaccine coverage above 80% makes it possible to safely reopen to in-person instruction. Our model assumes that facemasks are still used on campus, but we find with 100% vaccine coverage facemasks are not neccessary. Our simulations with vaccine coverage below 70% exhibit a right-skew for total infections over the semester, which suggests that high levels of infection are not exceedingly rare with campus social connections the main transmission route. Less effective vaccines or incidence of new variants may require additional intervention such as screening testing to reopen safely.  The theoretical pursuits are still being written up. Viewing social connections as a network, one project asks how global connectivity is reduced by removing the most connected individuals. Another project concerns spatial stochastic epidemic models for infection spread in a mobile population. This is modeled with an interacting multiple random walk model on the square integer lattice. The dynamics include the impact of travel (i.e. occasional large power-law jumps) on infection spread and also the impact of vaccination of infection spread.   We find that network connectivity is greatly impacted by removing high-degree vertices in certain random networks. However, connections can persist if the removal is done in a sparse manner. We also find that travel greatly accelerates infection spread in our spatial epidemic with interacting random walks. Moreover, the presence of vaccination quickly stifles infection spread in similar spatial models. Several students were trained during this project. The small college model actively involved three undergraduates and one graduate student. Two of the undergraduates and the graduate student belong to underrepresented groups in mathematics. The urban university model includes a graduate student. The theoretical work includes three undergraduates as well. Moreover, the PI and CoPIs come from different fields (mathematics, biology, and computer science) and personally benefited from the interdisciplinary aspects of the research. Future collaborations will likely arise from this work. On the urban university model, the PI worked with a researcher in epidemiology at the CUNY school of public health as well as a researcher in engineering at Cornell University. This too was a fruitful, mutually beneficial collaboration with great future prospects.                  Last Modified: 09/14/2021       Submitted by: Matthew S Junge]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

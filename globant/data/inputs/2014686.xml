@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Development of a fully annotated corpus for the training of a Clinical Question Answering System for critical results delivery at the Point of Care]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224961.00</AwardTotalIntnAmount>
+<AwardAmount>224961</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project will result from improving the quality of healthcare and streamlining its delivery. The accumulation of clinical data has become a potentially valuable resource for clinical practice, as Electronic Medical Records (EMRs) contain information on day-to-day patient care. Latest Natural Language Processing (NLP) techniques applied to EMR data enable the development of health Intelligent Virtual Assistants (hIVAs) to assist healthcare professionals in incorporating evidence-based decision support, reducing errors and improving efficiency. Current most promising NLP approaches are underdeveloped for the clinical domain given the lack of high-quality annotated clinical data required for training, testing and validating the machine learning algorithms. As most EMR data is available as unstructured free text, software developers in Artificial Intelligence (AI) struggle to find these annotated texts. The proposed project will inform the production of high-quality hIVAs - from voice-based clinical AI chatbots for assisting physicians at the point of care to Question-Answering systems for clinical decision-making. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project addresses the technical challenge of exploiting different combinations of Deep Learning (DL) structures for developing a novel set of annotation tools and an expert adjudication methodology to optimize the development of annotated corpora, specifically tailored for the clinical domain. The lack of these standard and annotated data sets is a major bottleneck preventing progress in clinical Information Extraction. Without these corpora, individual Natural Language Processing applications abound without the ability to train different algorithms, share and integrate modules, or compare performance. The company is leveraging the latest DL techniques to develop a unique architecture, able to identify a comprehensive set of context modifiers within unstructured clinical texts. This approach will boost the semi-automatic annotation of clinical corpora; produce accurate and robust annotated corpora; and reduce corpora production time and cost. The project objectives include: (1) adapting the existing in-house algorithm for automatic clinical text pre-annotation; (2) integrating a hybrid algorithm into a multi-user operable software platform for obtaining a minimum viable semi-automatic annotation product; (3) conducting a small pilot study to validate the performance of the resulting software platform and a Minimum Viable Product of an annotated corpus for diagnostic imaging reports.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014686</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Grzeszczuk</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert Grzeszczuk</PI_FULL_NAME>
+<EmailAddress><![CDATA[InContextReporting_Grants@outlook.com]]></EmailAddress>
+<NSF_ID>000816131</NSF_ID>
+<StartDate>05/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>IN CONTEXT REPORTING INC</Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>770053748</ZipCode>
+<PhoneNumber>4155050240</PhoneNumber>
+<StreetAddress>6540 SEWANEE AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HHU1LZDSAMY6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IN CONTEXT REPORTING INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[IN CONTEXT REPORTING INC]]></Name>
+<CityName>Houston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>770053748</ZipCode>
+<StreetAddress><![CDATA[6540 Sewanee Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~224961</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The main outcome of the Phase I project has been the development of an initial version of inAnnotator, a set of digital tools (integrated as a software platform for semi-automatic annotation of clinical corpora) for building a preliminary but functional version of an annotated corpus of diagnostic imaging reports: inCorpus. The main aim of inCorpus is to leverage the training and evaluation of Deep Learning (DL) models to enable future development of final user applications aimed at healthcare professionals (in the form of health Intelligent Virtual Assistants ?hIVAs?). These applications will deliver critical clinical insights at the Point of Care by performing an intelligent and autonomous analysis of medical reports (from free-text diagnostic reports like radiology/pathology/cardiology reports, discharge notes, and patient histories or EMRs ? Electronic Medical Records). <strong>Figure 1</strong> depicts the relation between inAnnotator and inCorpus as the main Phase I developments, and how the DL models (integrated within inPlatform, inContext's AI-enhanced platform for decision support on clinical reports ?to be developed during Phase II project?) can support hIVAs operation.</p> <p>The research and developments performed during Phase I project have provided advanced knowledge and further understanding within the fields of Information Extraction (IE) and Natural Language Understanding (NLU) applied to healthcare delivery. An in-house annotation methodology (see <strong>Figure 2</strong>) was adapted for automatic clinical Question/Answer pair corpus generation (see an example in <strong>Figure 3</strong>), leading to a 10,000+ pair corpus annotated. An original reliance on BiLSTMs (Bidirectional Long Short-Term Memory artificial neural networks) for the classification models was enhanced by substituting them by BERT transformers (particularly, BERT and RoBERTa). However, a hybrid algorithm, capable of handling inference types not supported by attention-based models (temporal, causal, arithmetic, etc.), also had to be developed. Then, the performance of the improved models was analyzed on common inference tasks (lexical, syntactic, temporal, causal, arithmetic, etc.), confirming a significant improvement of the accuracy of the proposed adaptations (obtaining an average inter-reader agreement of 0.81, as measured by Fleiss Kappa metric; see Figure 4).</p> <p>The resulting transformer models were finally fine-tuned by developing a Proof of Concept (PoC) of a Clinical Decision Support (CDS) tool to screen Diagnostic Imaging reports for presence of Incidental Pulmonary Nodules that meet the Fleischman criteria (recommendations pertain to the follow-up and management of indeterminate pulmonary nodules) and, thus, do require a follow-up. Figure 5 presents a standard view of the task Worklist within the resulting PoC, which shows all the patients whose diagnostic imaging reports make them candidates for a recall to reimage their lungs. Notice that the ?Recall? column indicates when the patient needs to be brought back in for follow-up. In a typical workflow, an administrative user or a nurse would go through this list daily and contact the patient to schedule an appointment.</p> <p>Beyond these specific technical advances, the developed approach also offers a broader impact to society, as the ultimate objective of the project is to provide healthcare professionals from hospitals, clinics, and medical centers with a set of intelligent tools (in the form of different versions of hIVAs) to support a better patient care delivery. In this line, the performed developments have proved that healthcare applications can be significantly improved in terms of cost, quality, medico-legal exposure, and, eventually, better provision of healthcare by introducing AI-based intelligence into problem-specific hIVAs. By seamlessly integrating the technology developed within this project into existing EMR systems, the cost and complexity associated with clinical care delivery can rapidly decrease.</p> <p>The performed developments have been carried out by an expert team of in-house professionals (totally accounting +50 years of experience in, just to name a few, Computer Assisted Surgery and Detection, 3D clinical data registration-fusion, distributed computing or ICT engineering), external consultants and advisors (senior research scientists, as a Medical Director at Stanford Children's Health or an Assistant Professor at Baylor College of Medicine), and clinical/technological partners (e.g., Stanford &amp; Texas Children's Hospitals) with extensive experience and excellent qualifications to support the development of the project with success. In fact, the course of the project leaded to the need of complementing the pool of experts' annotators (originally planned to be 100% recruited from Stanford Medical School) with crowdsourced annotators to scale the labeling process and to achieve project success. This unexpected challenge led to a rapid adaptation of the methodology to assess annotators performance, while maintaining the quality of the obtained results.</p><br> <p>            Last Modified: 09/01/2021<br>      Modified by: Robert&nbsp;Grzeszczuk</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489790280_Figure1--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489790280_Figure1--rgov-800width.jpg" title="Figure 1"><img src="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489790280_Figure1--rgov-66x44.jpg" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Phase I and Phase II developments</div> <div class="imageCredit">inContext Reporting, Inc</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Robert&nbsp;Grzeszczuk</div> <div class="imageTitle">Figure 1</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489846460_Figure2--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489846460_Figure2--rgov-800width.jpg" title="Figure 2"><img src="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489846460_Figure2--rgov-66x44.jpg" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Developed annotation workflow (showing BERT deviation).</div> <div class="imageCredit">inContext Reporting, Inc</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Robert&nbsp;Grzeszczuk</div> <div class="imageTitle">Figure 2</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489891732_Figure3--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489891732_Figure3--rgov-800width.jpg" title="Figure 3"><img src="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489891732_Figure3--rgov-66x44.jpg" alt="Figure 3"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Annotator tool presents Q/A choices to human annotators one pair at a time.</div> <div class="imageCredit">inContext Reporting, Inc</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Robert&nbsp;Grzeszczuk</div> <div class="imageTitle">Figure 3</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489940349_Figure4--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489940349_Figure4--rgov-800width.jpg" title="Figure 4"><img src="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489940349_Figure4--rgov-66x44.jpg" alt="Figure 4"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Fleiss�s Kappa per annotation mini-batch (left). Interpretation of Fleiss� Kappa statistic (right).</div> <div class="imageCredit">inContext Reporting, Inc</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Robert&nbsp;Grzeszczuk</div> <div class="imageTitle">Figure 4</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489992051_Figure5--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489992051_Figure5--rgov-800width.jpg" title="Figure 5"><img src="/por/images/Reports/POR/2021/2014686/2014686_10673567_1630489992051_Figure5--rgov-66x44.jpg" alt="Figure 5"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Standard view of the task Worklist within the PoC, showing all the patients whose diagnostic imaging reports make them candidates for a recall to reimage their lungs, based on Fleischner criteria.</div> <div class="imageCredit">inContext Reporting, Inc</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Robert&nbsp;Grzeszczuk</div> <div class="imageTitle">Figure 5</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The main outcome of the Phase I project has been the development of an initial version of inAnnotator, a set of digital tools (integrated as a software platform for semi-automatic annotation of clinical corpora) for building a preliminary but functional version of an annotated corpus of diagnostic imaging reports: inCorpus. The main aim of inCorpus is to leverage the training and evaluation of Deep Learning (DL) models to enable future development of final user applications aimed at healthcare professionals (in the form of health Intelligent Virtual Assistants ?hIVAs?). These applications will deliver critical clinical insights at the Point of Care by performing an intelligent and autonomous analysis of medical reports (from free-text diagnostic reports like radiology/pathology/cardiology reports, discharge notes, and patient histories or EMRs ? Electronic Medical Records). Figure 1 depicts the relation between inAnnotator and inCorpus as the main Phase I developments, and how the DL models (integrated within inPlatform, inContext's AI-enhanced platform for decision support on clinical reports ?to be developed during Phase II project?) can support hIVAs operation.  The research and developments performed during Phase I project have provided advanced knowledge and further understanding within the fields of Information Extraction (IE) and Natural Language Understanding (NLU) applied to healthcare delivery. An in-house annotation methodology (see Figure 2) was adapted for automatic clinical Question/Answer pair corpus generation (see an example in Figure 3), leading to a 10,000+ pair corpus annotated. An original reliance on BiLSTMs (Bidirectional Long Short-Term Memory artificial neural networks) for the classification models was enhanced by substituting them by BERT transformers (particularly, BERT and RoBERTa). However, a hybrid algorithm, capable of handling inference types not supported by attention-based models (temporal, causal, arithmetic, etc.), also had to be developed. Then, the performance of the improved models was analyzed on common inference tasks (lexical, syntactic, temporal, causal, arithmetic, etc.), confirming a significant improvement of the accuracy of the proposed adaptations (obtaining an average inter-reader agreement of 0.81, as measured by Fleiss Kappa metric; see Figure 4).  The resulting transformer models were finally fine-tuned by developing a Proof of Concept (PoC) of a Clinical Decision Support (CDS) tool to screen Diagnostic Imaging reports for presence of Incidental Pulmonary Nodules that meet the Fleischman criteria (recommendations pertain to the follow-up and management of indeterminate pulmonary nodules) and, thus, do require a follow-up. Figure 5 presents a standard view of the task Worklist within the resulting PoC, which shows all the patients whose diagnostic imaging reports make them candidates for a recall to reimage their lungs. Notice that the ?Recall? column indicates when the patient needs to be brought back in for follow-up. In a typical workflow, an administrative user or a nurse would go through this list daily and contact the patient to schedule an appointment.  Beyond these specific technical advances, the developed approach also offers a broader impact to society, as the ultimate objective of the project is to provide healthcare professionals from hospitals, clinics, and medical centers with a set of intelligent tools (in the form of different versions of hIVAs) to support a better patient care delivery. In this line, the performed developments have proved that healthcare applications can be significantly improved in terms of cost, quality, medico-legal exposure, and, eventually, better provision of healthcare by introducing AI-based intelligence into problem-specific hIVAs. By seamlessly integrating the technology developed within this project into existing EMR systems, the cost and complexity associated with clinical care delivery can rapidly decrease.  The performed developments have been carried out by an expert team of in-house professionals (totally accounting +50 years of experience in, just to name a few, Computer Assisted Surgery and Detection, 3D clinical data registration-fusion, distributed computing or ICT engineering), external consultants and advisors (senior research scientists, as a Medical Director at Stanford Children's Health or an Assistant Professor at Baylor College of Medicine), and clinical/technological partners (e.g., Stanford &amp; Texas Children's Hospitals) with extensive experience and excellent qualifications to support the development of the project with success. In fact, the course of the project leaded to the need of complementing the pool of experts' annotators (originally planned to be 100% recruited from Stanford Medical School) with crowdsourced annotators to scale the labeling process and to achieve project success. This unexpected challenge led to a rapid adaptation of the methodology to assess annotators performance, while maintaining the quality of the obtained results.       Last Modified: 09/01/2021       Submitted by: Robert Grzeszczuk]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

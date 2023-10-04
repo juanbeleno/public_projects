@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Computational Modeling of Contact Density and Outbreak Estimation for COVID-19 Using Large-scale Geolocation Data from Mobile Devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199958.00</AwardTotalIntnAmount>
+<AwardAmount>199958</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+<PO_EMAI>bhamilto@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The outbreak of COVID-19 has highlighted both the growing global risk of emerging pandemics and the urgent need for enhanced data-driven tools to identify, contain, and mitigate their effects, particularly in dense urban areas. There has been increasing attention given to locational data from smartphones as a way to enhance epidemiological modeling and predict outbreak progression, transmission, and exposure risk. When combined with artificial intelligence or machine learning algorithms, these high resolution data have the potential to vastly improve the granularity and precision of infection and hospitalization estimates. However, the use of locational data raises serious social, ethical, and technical challenges. Trade-offs between the potential public health benefits and the impacts for privacy and civil liberties have started to be debated in earnest within the context of the current pandemic, especially in light of increasing use of these data by private companies to promote targeted advertisements, evaluate retail consumer behavior, and model travel demand, among other applications. Furthermore, the use of these data in the public interest is undermined by an incomplete understanding of the representativeness and bias embedded in these data, particularly in relation to under-represented and vulnerable communities. What is not yet known is the extent of this bias in locational data and how the public health benefits of using these data diminish with spatial and temporal aggregation, which could help to minimize privacy concerns in the collection and use of these data. To address these questions, this project will develop computational models derived from large-scale locational data to (1) estimate the exposure density across a range of temporal (hourly, daily, etc.) and spatial (census block, neighborhood, etc.) scales, which will enable officials and researchers to evaluate and predict transmission rates in a particular area; (2) measure and evaluate the extent and effectiveness of social (physical) distancing efforts over time and comparatively within and across counties and cities, as well as understand the disparate impacts on vulnerable communities and populations; and (3) measure the extent of disease spread based on movement and travel patterns between neighborhoods and communities, which will support predictions of the spatial-temporal patterns of disease outbreak and identify “at-risk” locations based on the aggregated mobility trajectories for areas were infections have been identified or suspected. &lt;br/&gt;&lt;br/&gt;The project team is particularly concerned with how shelter-in-place orders and exposure risk disproportionately impact low-income and minority communities, and the implications of potential bias in locational data in assessing socioeconomic variations. The project will assess how the usefulness of these models for epidemiologists and public health officials varies with spatial aggregation (e.g. is neighborhood level data superior to county level data) and temporal aggregation (e.g. is a near-real-time model superior to daily or weekly timescales) and provide quantitative performance assessments that can be used for collective decision-making on the trade-offs between health benefits and privacy risk. Project outputs will be made open-source and publicly available as appropriate.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028687</AwardID>
+<Investigator>
+<FirstName>Constantine</FirstName>
+<LastName>Kontokosta</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Constantine E Kontokosta</PI_FULL_NAME>
+<EmailAddress><![CDATA[ckontokosta@nyu.edu]]></EmailAddress>
+<NSF_ID>000649995</NSF_ID>
+<StartDate>04/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arpit</FirstName>
+<LastName>Gupta</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arpit Gupta</PI_FULL_NAME>
+<EmailAddress><![CDATA[arpit.gupta@stern.nyu.edu]]></EmailAddress>
+<NSF_ID>000797327</NSF_ID>
+<StartDate>04/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lorna</FirstName>
+<LastName>Thorpe</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lorna E Thorpe</PI_FULL_NAME>
+<EmailAddress><![CDATA[lorna.thorpe@nyulangone.org]]></EmailAddress>
+<NSF_ID>000806428</NSF_ID>
+<StartDate>04/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100118868</ZipCode>
+<StreetAddress><![CDATA[60 5th Ave 2nd Floor]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199958</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>COVID-19 has highlighted both the growing global risk of emerging pandemics and the urgent need for enhanced data-driven tools to identify, contain, and mitigate their effects, particularly in dense urban areas. This project developed computational models derived from large-scale locational data to <strong>(1)</strong> estimate the exposure density across a range of temporal (hourly, daily, etc.) and spatial (census block, neighborhood, MSA, etc.) scales; <strong>(2)</strong> measure and evaluate the extent and effectiveness of social (physical) distancing efforts over time and comparatively within and across neighborhoods and cities, as well as understand the disparate impacts on vulnerable communities and populations; and <strong>(3)</strong> measure the extent of disease spread based on movement and travel patterns between neighborhoods and communities. The project was particularly concerned with how shelter-in-place orders and exposure risk disproportionately impact low-income and minority communities, and the implication of potential bias in locational data in assessing socioeconomic disparities. The following summarizes research completed:</p> <p><strong>Exposure density and neighborhood disparities in COVID-19 infection risk in New York City. </strong>We developed a computational approach to measure exposure density at high spatial and temporal resolution to understand localized disparities in transmission risk of COVID-19 by integrating geolocation data and granular land-use classifications. Our findings demonstrate distinct behavioral patterns across neighborhoods after the stay-at-home order in New York City and that variations in exposure density had a direct and measurable impact on the risk of COVID-19 infection. We found that lower-income neighborhoods and areas of minority concentration faced greater infection risk resulting from mobility behaviors, while wealthier neighborhoods reduced exposure density by relocating or working from home. As a result, exposure density in lower-income and minority communities remained relatively constant over the study period, which contributed to higher rates of infection, mortality, and test positivity.</p> <p><strong>Generalization of exposure density and the analysis of neighborhood disparities across 15 U.S. cities.</strong> After collecting COVID-19 infection data, land use information, socioeconomic and demographic characteristics, and mobility data, we applied our exposure density metric and computational approach to quantify neighborhood disparities in COVID-19 behavior change and infection risk across 15 U.S. cities. This work focused on the scale of the neighborhood to understand the factors associated with mobility behavior change within and across different social, political, economic, and geographic contexts.</p> <p><strong>Differential behavioral responses to social distancing compliance and disparities in social distancing sensitivity. </strong>During the first half of 2020, New York City added a complaint category for social distancing violations to its 311 resident-reporting system with the intent to use resident complaints to better enforce social distancing recommendations and mandates. When relying on resident reports for enforcement in the public health context, potential bias in reporting behaviors can lead to increased health risk for under-reporting communities. Our research developed a social distancing sensitivity metric using hourly visit data to establishments (POIs) and 311 social distancing complaints to identify and analyze disparities in social distancing complaint reporting. The relationship between sensitivity and other public health metrics suggests that the behavioral response to social distancing is indicative of the local population's perception of the risk posed by COVID-19. The least sensitive communities were found to have lower vaccination rates and among the highest per capita COVID-19 infection rates.</p> <p><strong>Developing a visualization tool. </strong>Based on our analyses, we created a web-based visualization tool (which is being finalized for public launch) to disseminate our results and findings. The tool is designed to enable the general public, public sector officials, and public health decision-makers to understand the magnitude and extent of disparities in exposure risks and in the behavioral responses to social distancing guidelines.</p> <p>The data processing workflow and mobility models developed during the project can provide a new resource to epidemiologists and public health officials as they plan, implement, and evaluate the full range of policy responses to infectious disease outbreaks. The project provides locational data analysis tools to support equitable and targeted public health policies that overcome current constraints to the objective and timely evaluation of local decision-making processes and interventions. The methods developed during the project can be applied to problems in a range of disciplines, including engineering, urban planning, sociology, transportation, as well as other areas of public health. The project supported the work of several graduate students, a research scientist, and a postdoctoral associate from diverse disciplines. Project outputs have been disseminated to a wide array of audiences, including city agencies, community organizations, and researchers through peer-reviewed publication (including the <em>Proceedings of the National Academy of Sciences</em>) and presentations and have been incorporated into the co-PIs' course materials.</p><br> <p>            Last Modified: 03/03/2022<br>      Modified by: Constantine&nbsp;E&nbsp;Kontokosta</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ COVID-19 has highlighted both the growing global risk of emerging pandemics and the urgent need for enhanced data-driven tools to identify, contain, and mitigate their effects, particularly in dense urban areas. This project developed computational models derived from large-scale locational data to (1) estimate the exposure density across a range of temporal (hourly, daily, etc.) and spatial (census block, neighborhood, MSA, etc.) scales; (2) measure and evaluate the extent and effectiveness of social (physical) distancing efforts over time and comparatively within and across neighborhoods and cities, as well as understand the disparate impacts on vulnerable communities and populations; and (3) measure the extent of disease spread based on movement and travel patterns between neighborhoods and communities. The project was particularly concerned with how shelter-in-place orders and exposure risk disproportionately impact low-income and minority communities, and the implication of potential bias in locational data in assessing socioeconomic disparities. The following summarizes research completed:  Exposure density and neighborhood disparities in COVID-19 infection risk in New York City. We developed a computational approach to measure exposure density at high spatial and temporal resolution to understand localized disparities in transmission risk of COVID-19 by integrating geolocation data and granular land-use classifications. Our findings demonstrate distinct behavioral patterns across neighborhoods after the stay-at-home order in New York City and that variations in exposure density had a direct and measurable impact on the risk of COVID-19 infection. We found that lower-income neighborhoods and areas of minority concentration faced greater infection risk resulting from mobility behaviors, while wealthier neighborhoods reduced exposure density by relocating or working from home. As a result, exposure density in lower-income and minority communities remained relatively constant over the study period, which contributed to higher rates of infection, mortality, and test positivity.  Generalization of exposure density and the analysis of neighborhood disparities across 15 U.S. cities. After collecting COVID-19 infection data, land use information, socioeconomic and demographic characteristics, and mobility data, we applied our exposure density metric and computational approach to quantify neighborhood disparities in COVID-19 behavior change and infection risk across 15 U.S. cities. This work focused on the scale of the neighborhood to understand the factors associated with mobility behavior change within and across different social, political, economic, and geographic contexts.  Differential behavioral responses to social distancing compliance and disparities in social distancing sensitivity. During the first half of 2020, New York City added a complaint category for social distancing violations to its 311 resident-reporting system with the intent to use resident complaints to better enforce social distancing recommendations and mandates. When relying on resident reports for enforcement in the public health context, potential bias in reporting behaviors can lead to increased health risk for under-reporting communities. Our research developed a social distancing sensitivity metric using hourly visit data to establishments (POIs) and 311 social distancing complaints to identify and analyze disparities in social distancing complaint reporting. The relationship between sensitivity and other public health metrics suggests that the behavioral response to social distancing is indicative of the local population's perception of the risk posed by COVID-19. The least sensitive communities were found to have lower vaccination rates and among the highest per capita COVID-19 infection rates.  Developing a visualization tool. Based on our analyses, we created a web-based visualization tool (which is being finalized for public launch) to disseminate our results and findings. The tool is designed to enable the general public, public sector officials, and public health decision-makers to understand the magnitude and extent of disparities in exposure risks and in the behavioral responses to social distancing guidelines.  The data processing workflow and mobility models developed during the project can provide a new resource to epidemiologists and public health officials as they plan, implement, and evaluate the full range of policy responses to infectious disease outbreaks. The project provides locational data analysis tools to support equitable and targeted public health policies that overcome current constraints to the objective and timely evaluation of local decision-making processes and interventions. The methods developed during the project can be applied to problems in a range of disciplines, including engineering, urban planning, sociology, transportation, as well as other areas of public health. The project supported the work of several graduate students, a research scientist, and a postdoctoral associate from diverse disciplines. Project outputs have been disseminated to a wide array of audiences, including city agencies, community organizations, and researchers through peer-reviewed publication (including the Proceedings of the National Academy of Sciences) and presentations and have been incorporated into the co-PIs' course materials.       Last Modified: 03/03/2022       Submitted by: Constantine E Kontokosta]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

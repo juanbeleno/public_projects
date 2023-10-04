@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative: PPSRC: Privacy-Preserving Self-Reporting for COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>66665.00</AwardTotalIntnAmount>
+<AwardAmount>66665</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Joshi</SignBlockName>
+<PO_EMAI>jjoshi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With the reopening of the country and the restarting of economic as well as other activities, it becomes important to ensure vigilantly monitoring the spreading of COVID-19 and nimbly adjusting the policies accordingly. Technologies can play an important role in this process. This project aims at understanding how mobile-app based contact tracing and symptom monitoring technologies can help in fighting COVID-19 and deploying effective technologies. It is expected that knowledge learned through the project can be a valuable tool to fight SARS-CoV-2 as well as future emerging pathogens. &lt;br/&gt;&lt;br/&gt;This project has two thrusts. Thrust 1 studies to what extent contact tracing based on mobile phones can help. Thrust 1 has three tasks. First, summarize the design choices of existing proposals, systematically explore the design space, and identify potential privacy and security attacks and possible defenses. Second, use existing data related to contact tracing to understand the epidemiological characteristics of COVID-19. Third, assess the effectiveness of technology-aided case finding and contact-tracing using simulation models. Thrust 2 aims at developing Privacy-Preserving COVID-19 Symptom Monitoring Technologies, through three tasks. First, design and implement privacy protection technologies based on local differential privacy. Second, design and implement an App for self-reporting of symptoms. Third, integrate data collected from the app with data from other public sources, and model the integrated data using a dynamic state-space model to provide early warning for high risk districts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034364</AwardID>
+<Investigator>
+<FirstName>Yang</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yang Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yangyang.4@uga.edu]]></EmailAddress>
+<NSF_ID>000792706</NSF_ID>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1523 UNION RD RM 207</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>Gainesville</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326112002</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~66665</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Default">Our research focused on the coupling of deidentified contact-tracing data and household data with cutting-edge statistical models to understand a variety of epidemiological features of COVID-19, including natural history of disease, transmissibility in close contact settings, risk factors for transmission at both population level and household level, and effectiveness of nonpharmaceutical interventions. Our work resulted in four peer-reviewed publications and one manuscript in preparation. Here we briefly describe the findings and broader impacts.</p> <p class="Default">&nbsp;</p> <p class="Default">We analyzed data from more than 27,000 households in the first epicenter of COVID-19, Wuhan of China. We used a chain-binomial model that integrates out uncertainty in infection times and missing laboratory testing results.<sup>1</sup> Our analysis revealed that asymptomatic infections were about 80% less infectious than symptomatic cases. While children were less susceptible, once infected, they could be as infectious as adults. Using contact-tracing data from Shandong, China, we compared transmissibility of COVID-19 across different close contact settings and found that secondary attack rate within households was comparable that in hospitals, and that superspreading events occurred in both settings.<sup>2</sup> Using crowd-sourced contact-tracing data across more than 40 cities in China, we showed that local real-time effective reproductive numbers of COVID-19 depended on temperature, relative humidity and human movements. We predicted that northeastern China and the Yangtze River Delta in Eastern China could be hot spots in cold seasons, which was consistent with subsequent observations during the winter of 2020-2021.<sup>3</sup> In addition to transmissibility, we estimated the distributions of incubation period, serial interval and generation interval of SARS-CoV-2.<sup>4</sup> We found that children &lt; 18 years had a longer incubation period than adults and that average serial interval and generation time are similar, about 4-5 days. Our results indicate that peak infectivity occurred 1 day before symptom onset on average, and the incubation period accounted for up to 70% of transmission. Lastly, we developed a particle filtering model that combines COVID-19 case data, human movements and serosurveys to estimate the transmission process of the disease across all cities in Hubei Province of China during the first wave.<sup>5</sup> We estimated more than 70% of cases younger than 45 years did not show any symptoms, while only 47% of older cases were asymptomatic. We also found that, in comparison to full lockdown, partial lockdown would lead to a 44-fold increase in the number of symptomatic cases and relaxing all movement restrictions would lead to a jump of more than 100 folds. In collaboration with Drs. Ninghui Li and Faming Liang at Purdue University, we contributed to the development of an app that enables users to self-report COVID-19 related symptoms and vaccination status in a privacy-preserving way. This App is available both as a cell phone app and a webpage. This project has provided a PhD student at University of Florida, Neda Jalali, and a junior faculty at University of Hong Kong, Tim Tsang, with extensive training experiences in statistical modeling based on contact-tracing data of infectious diseases through this project. We also disseminated our findings at academic conferences and invited webinar. &nbsp;</p> <p class="Default">&nbsp;</p> <p class="Default">The impact of our work is broad and multifaceted. Our findings contributed novel and crucial knowledge to the fields of epidemiology, public health, statistical modeling, and ethics. Our Wuhan household study has been cited 135 times and received media coverage, e.g., Channel 9 in Orlando and Bay News 9 in Tampa, Florida. The de-identified data used in our research may serve as a template for public health agencies to share data with the academic community while preserving privacy of individuals who have been investigated. Our research provides valuable information to peer researchers, especially those in the modeling community, and has profound implications for effective public health response to control the ongoing and future pandemics.</p> <p class="Default">&nbsp;</p> <p class="Default"><strong>References</strong></p> <p class="Default">1. Li F et al. Household transmission of SARS-CoV-2 and risk factors for susceptibility and infectivity in Wuhan: a retrospective observational study. Lancet Infectious Diseases, 2021;21(5):617-628. doi.org/10.1016/S1473-3099(20)30981-6.</p> <p class="Default">2. Tsang TK et al. Variability in transmission risk of SARS-CoV-2 in close contact settings: A contact tracing study in Shandong Province, China. Epidemics. 2022;39:100553. doi: 10.1016/j.epidem.2022.100553.</p> <p class="Default">3. Fang LQ, et al. Meteorological conditions and non-pharmaceutical interventions jointly determined local transmissibility of COVID-19 in 41 Chinese cities: a retrospective observational study. Lancet Regional Health-Western Pacific. 2020;2:100020. doi.org/10.1016/j.lanwpc.2020.100020.</p> <p class="Default">4. Lu QB et al. Natural history of disease of the novel coronavirus and its implication for infectivity among patients in China. Eurosurveillance, 2020; 25(40):pii=2000250. doi.org/10.2807/1560-7917.ES.2020.25.40.2000250.</p> <p class="Default">5. Jalali N. Infectious Disease Modeling with Limited Surveillance Data (dissertation, advisor: Yang Y). http://ufdc.ufl.edu/UFE0057671/00001</p> <p>&nbsp;</p><br> <p>            Last Modified: 04/24/2022<br>      Modified by: Yang&nbsp;Yang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[Our research focused on the coupling of deidentified contact-tracing data and household data with cutting-edge statistical models to understand a variety of epidemiological features of COVID-19, including natural history of disease, transmissibility in close contact settings, risk factors for transmission at both population level and household level, and effectiveness of nonpharmaceutical interventions. Our work resulted in four peer-reviewed publications and one manuscript in preparation. Here we briefly describe the findings and broader impacts.   We analyzed data from more than 27,000 households in the first epicenter of COVID-19, Wuhan of China. We used a chain-binomial model that integrates out uncertainty in infection times and missing laboratory testing results.1 Our analysis revealed that asymptomatic infections were about 80% less infectious than symptomatic cases. While children were less susceptible, once infected, they could be as infectious as adults. Using contact-tracing data from Shandong, China, we compared transmissibility of COVID-19 across different close contact settings and found that secondary attack rate within households was comparable that in hospitals, and that superspreading events occurred in both settings.2 Using crowd-sourced contact-tracing data across more than 40 cities in China, we showed that local real-time effective reproductive numbers of COVID-19 depended on temperature, relative humidity and human movements. We predicted that northeastern China and the Yangtze River Delta in Eastern China could be hot spots in cold seasons, which was consistent with subsequent observations during the winter of 2020-2021.3 In addition to transmissibility, we estimated the distributions of incubation period, serial interval and generation interval of SARS-CoV-2.4 We found that children &lt; 18 years had a longer incubation period than adults and that average serial interval and generation time are similar, about 4-5 days. Our results indicate that peak infectivity occurred 1 day before symptom onset on average, and the incubation period accounted for up to 70% of transmission. Lastly, we developed a particle filtering model that combines COVID-19 case data, human movements and serosurveys to estimate the transmission process of the disease across all cities in Hubei Province of China during the first wave.5 We estimated more than 70% of cases younger than 45 years did not show any symptoms, while only 47% of older cases were asymptomatic. We also found that, in comparison to full lockdown, partial lockdown would lead to a 44-fold increase in the number of symptomatic cases and relaxing all movement restrictions would lead to a jump of more than 100 folds. In collaboration with Drs. Ninghui Li and Faming Liang at Purdue University, we contributed to the development of an app that enables users to self-report COVID-19 related symptoms and vaccination status in a privacy-preserving way. This App is available both as a cell phone app and a webpage. This project has provided a PhD student at University of Florida, Neda Jalali, and a junior faculty at University of Hong Kong, Tim Tsang, with extensive training experiences in statistical modeling based on contact-tracing data of infectious diseases through this project. We also disseminated our findings at academic conferences and invited webinar.     The impact of our work is broad and multifaceted. Our findings contributed novel and crucial knowledge to the fields of epidemiology, public health, statistical modeling, and ethics. Our Wuhan household study has been cited 135 times and received media coverage, e.g., Channel 9 in Orlando and Bay News 9 in Tampa, Florida. The de-identified data used in our research may serve as a template for public health agencies to share data with the academic community while preserving privacy of individuals who have been investigated. Our research provides valuable information to peer researchers, especially those in the modeling community, and has profound implications for effective public health response to control the ongoing and future pandemics.   References 1. Li F et al. Household transmission of SARS-CoV-2 and risk factors for susceptibility and infectivity in Wuhan: a retrospective observational study. Lancet Infectious Diseases, 2021;21(5):617-628. doi.org/10.1016/S1473-3099(20)30981-6. 2. Tsang TK et al. Variability in transmission risk of SARS-CoV-2 in close contact settings: A contact tracing study in Shandong Province, China. Epidemics. 2022;39:100553. doi: 10.1016/j.epidem.2022.100553. 3. Fang LQ, et al. Meteorological conditions and non-pharmaceutical interventions jointly determined local transmissibility of COVID-19 in 41 Chinese cities: a retrospective observational study. Lancet Regional Health-Western Pacific. 2020;2:100020. doi.org/10.1016/j.lanwpc.2020.100020. 4. Lu QB et al. Natural history of disease of the novel coronavirus and its implication for infectivity among patients in China. Eurosurveillance, 2020; 25(40):pii=2000250. doi.org/10.2807/1560-7917.ES.2020.25.40.2000250. 5. Jalali N. Infectious Disease Modeling with Limited Surveillance Data (dissertation, advisor: Yang Y). http://ufdc.ufl.edu/UFE0057671/00001          Last Modified: 04/24/2022       Submitted by: Yang Yang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

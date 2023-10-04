@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative Research: Covid-19 Hotspot Network Size and Node Counting using Consensus Estimation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>99995.00</AwardTotalIntnAmount>
+<AwardAmount>99995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Huaiyu Dai</SignBlockName>
+<PO_EMAI>hdai@nsf.gov</PO_EMAI>
+<PO_PHON>7032924568</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In order to open up the economy in light of the reality of COVID-19, a suite of solutions are needed to minimize the spread of COVID-19 which include providing tools for businesses to minimize the risk for their employees and customers. It is important to detect transmission hotspots where the contact between infected and uninfected persons is higher than average. This project will provide information to assess precisely the size, density and locations of COVID-19 hotspots and enable issuing well-informed advisories based on data-driven continuous risk assessment. Every step will be taken to ensure privacy and network security and specific algorithms will be developed for secure access and information transfer. The project will access databases at CDC, Johns Hopkins and the WHO, and create a comprehensive website to disseminate real-time localized COVID-19 hotspot data, while maintaining privacy. The project will create new algorithms and embed them in iOS and Android apps that will continuously interact with databases. The software for mobile devices as well as central hubs will be made publicly available through APIs for use by the broader community.&lt;br/&gt;&lt;br/&gt;The project will use advanced consensus-based methods for estimating network area/size, node locations and node counts in a network based on minimal transmit-receive data. The proposed methods will lead to significant improvements compared to existing algorithms. The project will design consensus-based algorithms to estimate (a) the center, radius, and consequently, the size of the network, and (b) the number of users in the network. Localization algorithms will be designed that work with noisy and incomplete data. The proposed work is different from the contact-tracing technology used by Google and Apple which is limited to newer devices. The proposed algorithms and software will advance the state of the art while retaining compatibility with emerging and existing mobile technology. The project will help reduce COVID-19 infections and save lives. The research will also have applicability to other fields such as the E911 system, indoor user tracking, infrastructure-free implementations applicable to robotics, autonomous systems and vehicle fleets, and location-aware patient care and other mobile health applications. The developed algorithms can be used in other emergency situations, such as locating clusters of sheltering groups in the case of earthquakes and tsunamis, to assist first responders in finding survivors after an event, and for detection of transmission nodes in the case of future pandemics or future waves of COVID-19. Outreach activities will be integrated with the research and include the creation of software and web content for dissemination.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032106</AwardID>
+<Investigator>
+<FirstName>Stephanie</FirstName>
+<LastName>Schuckers</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stephanie C Schuckers</PI_FULL_NAME>
+<EmailAddress><![CDATA[sschucke@clarkson.edu]]></EmailAddress>
+<NSF_ID>000388807</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mahesh</FirstName>
+<LastName>Banavar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mahesh Banavar</PI_FULL_NAME>
+<EmailAddress><![CDATA[mbanavar@clarkson.edu]]></EmailAddress>
+<NSF_ID>000594119</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clarkson University</Name>
+<CityName>POTSDAM</CityName>
+<ZipCode>136761401</ZipCode>
+<PhoneNumber>3152686475</PhoneNumber>
+<StreetAddress>8 CLARKSON AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>21</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY21</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SL2PF6R7MRN1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CLARKSON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Clarkson University]]></Name>
+<CityName>Potsdam</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>136761401</ZipCode>
+<StreetAddress><![CDATA[8 Clarkson Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>21</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY21</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~99995</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>As part of this project, we:</p> <p>(1) demonstrated a methodology to measure how fragile a network is, how its connectivity can be affected when nodes and edges are removed, and provided guidelines for how to construct networks that are robust to edge removal.</p> <p>(2) designed and demonstrated a consensus-based algorithm for hotspot detection. By using a combination of distributed node counting algorithm, DBSCAN, and Hough-based wall detection, we were able to show that we could find and cluster devices using distributed algorithms, leading to hotspot detection.</p> <p>(3) Showed how infectious diseases progress in a population by using the modified SEIRS model. We modified the traditional SEIRS model to include populations for vaccinated and non-vaccinated subjects, and infected persons who are both symptomatic and asymptomatic. Our model allowed us to use different rates and lengths of infection based on vaccination status and different levels of infectivity based on whether the infected persons were symptomatic or not. We were able to show how the disease progresses, calculate the basic reproduction number, find the fixed points (such as the endemic equilibrium and the disease-free equilibrium) the model converges to, and show that the model is stable at these fixed points.</p> <p>(4) Build interactive visualizations and embedded them on the project website. We have a video demonstrating our consensus algorithms and an interactive dashboard to show the evolution of the populations in the modified SEIR model.</p> <p>(5) We submitted our work for publication, resulting in a show and tell at the 2021 International Conference on Acoustics, Speech, and Signal Processing (ICASSP) and conference presentations/papers at the Sixth Northeast Regional Conference on Complex Systems (NERCCS-23) and the 2023 Asilomar Conference on Signals, Systems, and Computers.</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/20/2023<br>      Modified by: Mahesh&nbsp;Banavar</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171759590_attractor_plots--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171759590_attractor_plots--rgov-800width.jpg" title="Attractor Plots"><img src="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171759590_attractor_plots--rgov-66x44.jpg" alt="Attractor Plots"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Attractor plots: Fig (a) to (e) show the long-term behavior of the model by varying compartment values as a function of S. The contact rate is fixed at 0.5. All the curves in the attractor plots, irrespective of initialization, converge at a single point.</div> <div class="imageCredit">Mahesh Banavar</div> <div class="imageSubmitted">Mahesh&nbsp;Banavar</div> <div class="imageTitle">Attractor Plots</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171492396_minimal_edge_removal--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171492396_minimal_edge_removal--rgov-800width.jpg" title="Minimal Edge Removal"><img src="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171492396_minimal_edge_removal--rgov-66x44.jpg" alt="Minimal Edge Removal"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Minimal edge removal for maximum component size c in (a) a complete graph on 8 nodes (K8) and (b) a CEB graph on 8 nodes (CEB8).</div> <div class="imageCredit">Mahesh Banavar</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Mahesh&nbsp;Banavar</div> <div class="imageTitle">Minimal Edge Removal</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171605967_hotspot_demo--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171605967_hotspot_demo--rgov-800width.jpg" title="Hotspot Detection Demonstration"><img src="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171605967_hotspot_demo--rgov-66x44.jpg" alt="Hotspot Detection Demonstration"></a> <div class="imageCaptionContainer"> <div class="imageCaption">GUI developed for hotspot detection application in an indoor setting. Wall detection algorithm is run on the floor map to detect the walls and the communication network was formed with 160 nodes and communication range of six feet.</div> <div class="imageCredit">Mahesh Banavar</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Mahesh&nbsp;Banavar</div> <div class="imageTitle">Hotspot Detection Demonstration</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171676836_SEIRS_model--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171676836_SEIRS_model--rgov-800width.jpg" title="Modified SEIRS Model"><img src="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171676836_SEIRS_model--rgov-66x44.jpg" alt="Modified SEIRS Model"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Transition diagram of modified six compartmental SEIRS model to predict disease spread.</div> <div class="imageCredit">Mahesh Banavar</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Mahesh&nbsp;Banavar</div> <div class="imageTitle">Modified SEIRS Model</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171364717_wall_detection_using_Hough_transform--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171364717_wall_detection_using_Hough_transform--rgov-800width.jpg" title="Wall Detection"><img src="/por/images/Reports/POR/2023/2032106/2032106_10677276_1693171364717_wall_detection_using_Hough_transform--rgov-66x44.jpg" alt="Wall Detection"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Wall detection using the Hough Transform</div> <div class="imageCredit">Mahesh Banavar</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Mahesh&nbsp;Banavar</div> <div class="imageTitle">Wall Detection</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ As part of this project, we:  (1) demonstrated a methodology to measure how fragile a network is, how its connectivity can be affected when nodes and edges are removed, and provided guidelines for how to construct networks that are robust to edge removal.  (2) designed and demonstrated a consensus-based algorithm for hotspot detection. By using a combination of distributed node counting algorithm, DBSCAN, and Hough-based wall detection, we were able to show that we could find and cluster devices using distributed algorithms, leading to hotspot detection.  (3) Showed how infectious diseases progress in a population by using the modified SEIRS model. We modified the traditional SEIRS model to include populations for vaccinated and non-vaccinated subjects, and infected persons who are both symptomatic and asymptomatic. Our model allowed us to use different rates and lengths of infection based on vaccination status and different levels of infectivity based on whether the infected persons were symptomatic or not. We were able to show how the disease progresses, calculate the basic reproduction number, find the fixed points (such as the endemic equilibrium and the disease-free equilibrium) the model converges to, and show that the model is stable at these fixed points.  (4) Build interactive visualizations and embedded them on the project website. We have a video demonstrating our consensus algorithms and an interactive dashboard to show the evolution of the populations in the modified SEIR model.  (5) We submitted our work for publication, resulting in a show and tell at the 2021 International Conference on Acoustics, Speech, and Signal Processing (ICASSP) and conference presentations/papers at the Sixth Northeast Regional Conference on Complex Systems (NERCCS-23) and the 2023 Asilomar Conference on Signals, Systems, and Computers.          Last Modified: 09/20/2023       Submitted by: Mahesh Banavar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Distributed Fault Diagnosis for Large-Scale Nonlinear Stochastic Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>115235.00</AwardTotalIntnAmount>
+<AwardAmount>115235</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harry Dankowicz</SignBlockName>
+<PO_EMAI>hdankowi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922344</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Certain industrial and commercial processes or systems consist of increasingly large and complex networks with a number of spatially distributed sub-systems that continually exchange information between each other over a band-limited communication network. Such complex large scale systems are vulnerable for faults and a single malfunction in any sub-system component can cause the entire system to fail or malfunction. This project is motivated by a growing need for a solution that will allow reliable real-time monitoring and supervision of such complex systems especially the safety-critical systems in particular. Current fault detection and isolation technology relies on centralized information processing based on collecting data from the sensors from across the entire network. For complex and large scale networks this approach is not practical due to computational complexity and communication bandwidth limitations. The research will use a novel decentralized approach based on advanced mathematical tools to formulate a solution framework that will enable real-time fault detection and isolation in such large networks and will provide resiliency, availability, and dependability. The project outcomes will impact broader societal applications such as cyber-security, multi-robot systems, structural and agricultural monitoring, pollution source localization, and healthcare monitoring. The project not only has an educational plan for graduate students but also a strong outreach program aimed at multidisciplinary groups of undergraduate and under-represented students to engage them in a real-world scientific experience that lies in the intersection of control systems, communications and algorithms. &lt;br/&gt;&lt;br/&gt;The primary research objective of this project is to establish an analytical and computational foundation for distributed fault diagnosis algorithms of nonlinear, large-scale stochastic systems. A distributed version of the particle filtering method will serve as the foundation of the derived diagnostic algorithms. The particle filtering technique is a highly suitable estimator for fault diagnosis since it avoids linearity and Gaussian noise assumptions typically found in current state-of-the-art. The target monolithic process is monitored by a network of interconnected diagnostic nodes with local processing and communication capabilities. The diagnostic network infers information of the entire system based on partial observations and local information exchange between neighboring nodes. The methodology conducts simultaneous real-time fault detection and isolation, keeping the computational complexity to a minimum. The project will establish a novel distributed fault detection methodology that takes advantage of the decentralized architecture and computational strength of modern embedded systems such as wireless sensor networks and multi-core processors. The specific tasks include: derivation of a computationally efficient, centralized fault-sensitive filter that eliminates the need for a bank of estimators to conduct fault isolation; establishment of an analytical method for obtaining global inference about the health of the system based on local observations and information exchange, targeting monolithic processes with geographically sparse subcomponents; and formulation of a distributed FD method that subdivides the monitoring task to low-order, possibly interconnected, components targeted to high-dimensional processes that cannot be accommodated by a central configuration. This research combines previously disparate concepts from estimation theory, fault-tolerance and combinatorics to provide a robust and coherent framework for resilient, available and dependable systems.]]></AbstractNarration>
+<MinAmdLetterDate>12/27/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>12/27/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002627</AwardID>
+<Investigator>
+<FirstName>Ioannis</FirstName>
+<LastName>Raptis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ioannis Raptis</PI_FULL_NAME>
+<EmailAddress><![CDATA[iraptis@ncat.edu]]></EmailAddress>
+<NSF_ID>000657803</NSF_ID>
+<StartDate>12/27/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina Agricultural &amp; Technical State University</Name>
+<CityName>GREENSBORO</CityName>
+<ZipCode>274110002</ZipCode>
+<PhoneNumber>3363347995</PhoneNumber>
+<StreetAddress>1601 E MARKET ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SKH5GMBR9GL3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA AGRICULTURAL AND TECHNICAL STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina Agricultural & Technical State University]]></Name>
+<CityName>Greensboro</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>274110001</ZipCode>
+<StreetAddress><![CDATA[1601 E. Market Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7569</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~115235</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The primary outcome of this project is the development of methods and algorithms for detecting and identifying faults (or changes) in complex, large-scale systems in a distributed manner. In the project's proposal and through the project's duration, we have addressed the need for distributed sensing systems that can infer the "health" (normal or abnormal operation) of an underlying system, e.g., a physical process or an engineered system. Distributed monitoring is well-suited for large-scale systems and systems with geographically distributed subcomponents (e.g., transportation systems or power systems). Our research impacts diverse technologies in the rapidly emerging Cyber-Physical and Networked Control Systems fields. For engineering systems connected to a communication network, malicious cyber-attacks can also cause unexpected alterations. Traditional Information Technology (IT) cyber-security practices are incompatible to control system security. The proposed methodology can lead to the developing of novel cybersecurity technologies that protect sensitive information and critical infrastructure from cyber-attacks.</p> <p>We have obtained a fundamental understanding of the theory for distributed inference and created new knowledge in distributed system monitoring. The fault diagnosis problem (i.e., diagnosing system abnormalities) introduces theoretical and computational challenges. Our theoretical contributions entail the development of analytical methodologies for developing "distributed filters," that is, distributed estimation algorithms with decision-making capacity for deducing the health of the monitored process. &nbsp;&nbsp;Our developed methods accommodate systems with different configurations and needs regarding communication and processing (computational) resources. Estimation algorithms for complex systems are computationally demanding. In addition, the ability to make "global" assessments based on "local" information gathering and peer-to-peer communications results in an overhead to the communication network. Our computational contributions concisely acknowledge each proposed algorithm's computational and information-exchange requirements and provide powerful means to improve each.&nbsp;</p> <p>We have successfully transitioned our algorithms from theory (theoretical methods and algorithm development) to practice by implementing them in distributed computing systems utilizing existing communication protocols, middleware, and system-design software for data acquisition and instrument control. Typically, the validation of theoretical contributions on the subject matter is limited to numerical simulations. We have demonstrated the applicability of our algorithms by implementing them with available software and hardware. As a project outcome, we have disseminated instructions to the research community on actualizing distributed monitoring systems with current technology. With this knowledge, researchers and practitioners can concentrate their efforts on algorithm development rather than dealing with the implementation challenges of distributed embedded systems. &nbsp;</p> <p>As part of the research efforts for this project, a testbed for evaluating and validating fault diagnosis algorithms has been designed, manufactured, and assembled. It consists of a physical process and a distributed monitoring network. The experimental system permits the controlled and measurable insertion of fake fault modes, the collection of measured data from the physical process, and its real-time monitoring. The outcomes of this research activity are twofold. Firstly, open-access data from our experimental system suited for testing and validating fault diagnosis methods are available to the academic community. Secondly, undergraduate and graduate students at North Carolina A&amp;T State University (NCAT) in communications, cybersecurity, and control systems can use this experimental system to gain practical knowledge of cyber-physical systems technology.</p> <p>The project enabled the development of the new graduate course offering&nbsp;"ECEN.685/885 Introduction to Estimation Theory," for M.S. and Ph.D. students. The course covers foundational notions of estimation, sequential filtering, and detection theory. The PI has created notes, homework assignments and exams, and slides (lecture material) that cover an entire semester. This new curriculum entry intends to teach graduate students a topical subject&mdash;estimation and detection theory&mdash;at the intersection of control systems theory and signal processing. A course in estimation theory provides a considerable breadth of knowledge to enrolled students, being a subject that methodically embodies linear algebra, optimization, matrix calculus, and probability theory. The project has provided the opportunity for one graduate student to perform research in the field of fault diagnosis and state estimation. The project's products are an M.S. thesis, journal articles, and conference proceedings. Finally, the project was hosted at NCAT, the largest HBCU institution in the U.S., and its College of Engineering is first in the number of undergraduate and graduate degrees awarded to African Americans.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/10/2023<br>      Modified by: Ioannis&nbsp;Raptis</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The primary outcome of this project is the development of methods and algorithms for detecting and identifying faults (or changes) in complex, large-scale systems in a distributed manner. In the project's proposal and through the project's duration, we have addressed the need for distributed sensing systems that can infer the "health" (normal or abnormal operation) of an underlying system, e.g., a physical process or an engineered system. Distributed monitoring is well-suited for large-scale systems and systems with geographically distributed subcomponents (e.g., transportation systems or power systems). Our research impacts diverse technologies in the rapidly emerging Cyber-Physical and Networked Control Systems fields. For engineering systems connected to a communication network, malicious cyber-attacks can also cause unexpected alterations. Traditional Information Technology (IT) cyber-security practices are incompatible to control system security. The proposed methodology can lead to the developing of novel cybersecurity technologies that protect sensitive information and critical infrastructure from cyber-attacks.  We have obtained a fundamental understanding of the theory for distributed inference and created new knowledge in distributed system monitoring. The fault diagnosis problem (i.e., diagnosing system abnormalities) introduces theoretical and computational challenges. Our theoretical contributions entail the development of analytical methodologies for developing "distributed filters," that is, distributed estimation algorithms with decision-making capacity for deducing the health of the monitored process.   Our developed methods accommodate systems with different configurations and needs regarding communication and processing (computational) resources. Estimation algorithms for complex systems are computationally demanding. In addition, the ability to make "global" assessments based on "local" information gathering and peer-to-peer communications results in an overhead to the communication network. Our computational contributions concisely acknowledge each proposed algorithm's computational and information-exchange requirements and provide powerful means to improve each.   We have successfully transitioned our algorithms from theory (theoretical methods and algorithm development) to practice by implementing them in distributed computing systems utilizing existing communication protocols, middleware, and system-design software for data acquisition and instrument control. Typically, the validation of theoretical contributions on the subject matter is limited to numerical simulations. We have demonstrated the applicability of our algorithms by implementing them with available software and hardware. As a project outcome, we have disseminated instructions to the research community on actualizing distributed monitoring systems with current technology. With this knowledge, researchers and practitioners can concentrate their efforts on algorithm development rather than dealing with the implementation challenges of distributed embedded systems.    As part of the research efforts for this project, a testbed for evaluating and validating fault diagnosis algorithms has been designed, manufactured, and assembled. It consists of a physical process and a distributed monitoring network. The experimental system permits the controlled and measurable insertion of fake fault modes, the collection of measured data from the physical process, and its real-time monitoring. The outcomes of this research activity are twofold. Firstly, open-access data from our experimental system suited for testing and validating fault diagnosis methods are available to the academic community. Secondly, undergraduate and graduate students at North Carolina A&amp;T State University (NCAT) in communications, cybersecurity, and control systems can use this experimental system to gain practical knowledge of cyber-physical systems technology.  The project enabled the development of the new graduate course offering "ECEN.685/885 Introduction to Estimation Theory," for M.S. and Ph.D. students. The course covers foundational notions of estimation, sequential filtering, and detection theory. The PI has created notes, homework assignments and exams, and slides (lecture material) that cover an entire semester. This new curriculum entry intends to teach graduate students a topical subject&mdash;estimation and detection theory&mdash;at the intersection of control systems theory and signal processing. A course in estimation theory provides a considerable breadth of knowledge to enrolled students, being a subject that methodically embodies linear algebra, optimization, matrix calculus, and probability theory. The project has provided the opportunity for one graduate student to perform research in the field of fault diagnosis and state estimation. The project's products are an M.S. thesis, journal articles, and conference proceedings. Finally, the project was hosted at NCAT, the largest HBCU institution in the U.S., and its College of Engineering is first in the number of undergraduate and graduate degrees awarded to African Americans.                 Last Modified: 03/10/2023       Submitted by: Ioannis Raptis]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

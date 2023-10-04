@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER:Predictive Surrogate Modeling and Analysis of Radiative Heat transfer in Porous Media]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>143725.00</AwardTotalIntnAmount>
+<AwardAmount>143725</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+<PO_EMAI>rjoslin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927030</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Radiative heat transfer in porous media is complex and ambiguous; yet, measuring the radiative properties of a target porous media is of vital importance. Measurement and prediction of the radiative properties is critical for simulation and design of energy technologies that involve porous material structures, including pebble beds in nuclear reactors, selective laser sintering technology, solar absorbers, solar thermochemical reactors, biological tissues, thermal barriers for jet engines and space vehicles, ceramic foams for catalytic combustion and many more. At present, predicting radiative properties of randomly packed beds requires large time-consuming ray-tracing simulations. This project replaces these computations with efficient machine learning based methods to revolutionize a wide range of related applications and underlying technologies.&lt;br/&gt; &lt;br/&gt;This transformative project demonstrates that surrogate models can approximate and predict the probability distribution functions of radiative properties of randomly packed structures reliably and efficiently. Large time-consuming ray-tracing Monte Carlo simulations are replaced by predictive models based on machine learning methods. The inputs to the models are statistics of a wide range of variables pertaining to the physical configurations of void, solid, boundary conditions and dimensions and the medium shape. Various learning models are studied for data fitting, and an analysis of accuracy versus the cost of computation is performed for each. Data sampling, model selection and model fitting are all engineered to render surrogate models that are accurate, efficient, scalable and generalizable. Sampling, design of experiment and model fitting is studied for each surrogate model to reduce the computational load while minimizing the cost of data collection and learning. The practical accuracy of the proposed models is validated based on comparison with direct Monte Carlo simulations and previously established laboratory-based experiments. The proposed predictive models are applied in computed tomography for inference of porous media structures in various applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2054124</AwardID>
+<Investigator>
+<FirstName>Shima</FirstName>
+<LastName>Hajimirza</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shima Hajimirza</PI_FULL_NAME>
+<EmailAddress><![CDATA[shima.hajimirza@stevens.edu]]></EmailAddress>
+<NSF_ID>000692626</NSF_ID>
+<StartDate>10/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stevens Institute of Technology</Name>
+<CityName>HOBOKEN</CityName>
+<ZipCode>07030</ZipCode>
+<PhoneNumber>2012168762</PhoneNumber>
+<StreetAddress>1 CASTLEPOINT ON HUDSON</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJ6CN5Y5A2R5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName/>
+<StateCode>NJ</StateCode>
+<ZipCode>070305991</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~143725</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>&nbsp;</strong>The goal of this project is to establish machine-learning based surrogate models for reliably and efficiently predicting the radiative properties of porous media. At present, the standard method for estimating radiative properties in heterogeneous and polydisperse environments, including porous media, is through large time-consuming ray-tracing Monte Carlo (MC) simulations. The hypothesis that this project pursued is that these inefficient computations can be replaced with predictive models based on machine learning methods. The input to the models are statistics of a wide range of variables pertaining to the physical configurations of void/solid, boundary conditions, dimensions, and the medium shape, as well as radiative properties of the material and the incident ray of light. The output of these models are macro-radiative properties such as overall absorption of radiation inside a packed bed, or reflection from it. In pursuit of the project goals, we created in-house computational ray tracing simulation tools for generating large amounts of input/output ground truth data for supervised learning of surrogate models under various configurations and conditions. The final version of the ground truth generation code is a pixel-based ray tracing software, capable of taking any array-based figure as the input configuration and running radiative calculations based on ray tracing. We generated randomly packed data along with radiative labels for several large sets of configurations with monodisperse and polydisperse particles of various shapes and used those for the training of Artificial Neural Networks (ANN). To train the inference models, we focused on engineered geometric features&nbsp;capturing the local and global statistics of the interaction of light and matter at heterogeneous interfaces and media. The schematics of this ground truth generation, feature construction and model training pipeline is shown in Figure 1. &nbsp;We demonstrated that the learning models are generalizable in that they work reliably in out-sample data of different shape particles in polydisperse media. We also used combinations of cross-validation and data mixture techniques to assure that the models are not overfit to a particular class of configurations. As a result, we demonstrated that the models proposed in this work can estimate the radiative properties of configurations in out-sample data generated based on different generation schemes with high accuracy.&nbsp;As a conclusion,&nbsp;we demonstrated that the radiative properties of polydisperse packed beds can be learned via geometric feature engineering using model fitting with neural networks and delivered a proof-of-concept for reliability and generalizability of the learning methods. Using one of the developed ANN models, a sensitivity analysis was conducted to assess the relative importance of the designed engineered features. This insight helps in identifying the most crucial features to improve the learning for more complex geometries. The precision of predictions was calculated based on different hypotheses made over the training data, i.e., whole-size, wall-wise, and pointwise classes. It was shown that the designed models can predict the radiative properties of out-sample data with high accuracy, while they can benefit from more directional engineering features or more holistic techniques such as Convolutional Neural Networks (albeit with proper domain expertise). Results show that the current models are generalizable and applicable to a variety of porous configurations.</p> <p>&nbsp;</p><br> <p>            Last Modified: 04/01/2023<br>      Modified by: Shima&nbsp;Hajimirza</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2054124/2054124_10606459_1680374050824_Picture1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2054124/2054124_10606459_1680374050824_Picture1--rgov-800width.jpg" title="Figure 1"><img src="/por/images/Reports/POR/2023/2054124/2054124_10606459_1680374050824_Picture1--rgov-66x44.jpg" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Flow chart of the methodology (pipeline) for dataset generation, feature construction, ground truth computation and learning.</div> <div class="imageCredit">Dr. Shima Hajimirza</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Shima&nbsp;Hajimirza</div> <div class="imageTitle">Figure 1</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The goal of this project is to establish machine-learning based surrogate models for reliably and efficiently predicting the radiative properties of porous media. At present, the standard method for estimating radiative properties in heterogeneous and polydisperse environments, including porous media, is through large time-consuming ray-tracing Monte Carlo (MC) simulations. The hypothesis that this project pursued is that these inefficient computations can be replaced with predictive models based on machine learning methods. The input to the models are statistics of a wide range of variables pertaining to the physical configurations of void/solid, boundary conditions, dimensions, and the medium shape, as well as radiative properties of the material and the incident ray of light. The output of these models are macro-radiative properties such as overall absorption of radiation inside a packed bed, or reflection from it. In pursuit of the project goals, we created in-house computational ray tracing simulation tools for generating large amounts of input/output ground truth data for supervised learning of surrogate models under various configurations and conditions. The final version of the ground truth generation code is a pixel-based ray tracing software, capable of taking any array-based figure as the input configuration and running radiative calculations based on ray tracing. We generated randomly packed data along with radiative labels for several large sets of configurations with monodisperse and polydisperse particles of various shapes and used those for the training of Artificial Neural Networks (ANN). To train the inference models, we focused on engineered geometric features capturing the local and global statistics of the interaction of light and matter at heterogeneous interfaces and media. The schematics of this ground truth generation, feature construction and model training pipeline is shown in Figure 1.  We demonstrated that the learning models are generalizable in that they work reliably in out-sample data of different shape particles in polydisperse media. We also used combinations of cross-validation and data mixture techniques to assure that the models are not overfit to a particular class of configurations. As a result, we demonstrated that the models proposed in this work can estimate the radiative properties of configurations in out-sample data generated based on different generation schemes with high accuracy. As a conclusion, we demonstrated that the radiative properties of polydisperse packed beds can be learned via geometric feature engineering using model fitting with neural networks and delivered a proof-of-concept for reliability and generalizability of the learning methods. Using one of the developed ANN models, a sensitivity analysis was conducted to assess the relative importance of the designed engineered features. This insight helps in identifying the most crucial features to improve the learning for more complex geometries. The precision of predictions was calculated based on different hypotheses made over the training data, i.e., whole-size, wall-wise, and pointwise classes. It was shown that the designed models can predict the radiative properties of out-sample data with high accuracy, while they can benefit from more directional engineering features or more holistic techniques such as Convolutional Neural Networks (albeit with proper domain expertise). Results show that the current models are generalizable and applicable to a variety of porous configurations.          Last Modified: 04/01/2023       Submitted by: Shima Hajimirza]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

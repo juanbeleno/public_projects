@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Inference for Networks: Bridging the Gap between Metric Spaces and Graphs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Network data, representing interactions and relationships between units, has become ubiquitous in many science disciplines and technology areas. Analyzing such complex and structurally novel data requires new ideas and tools beyond the scope of classical statistics. A sequence of methods will be developed for several common statistical analyses involving network data, motivated by various applied problems in cyber-security, social behavior studies, genetics, and medical imaging. These methods can be used to identify the risk factors for the reliability of a complex system, to infer social and peer effects on health-related behaviors, to flexibly model the differential networks between genes, and to infer neuron functionality from brain images. The results will be disseminated through publications and presentations, but will also be incorporated in teaching. The research will include projects suitable for student participation at various levels, and undergraduate research training will be emphasized. The codes will be provided through statistical packages implemented in the programming language R for broader use. &lt;br/&gt;&lt;br/&gt;The broad theme of the research is developing versatile and flexible network analysis tools by connecting and extending mature statistical methods in metric space to network data. Overall, the technical challenges in developing these tools range from the lack of clear definitions for sampling units and sample sizes, to the discrete and noisy nature of network observations. Addressing such challenges requires extensions and combinations of tools from different research areas, including random matrix theory, optimization algorithms, and statistical inference. Collaborations between the PI and researchers in computer science, social science, and medical sciences will provide opportunities to apply the developed methods to real-world problems in these domains.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015298</AwardID>
+<Investigator>
+<FirstName>Tianxi</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tianxi Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[tianxili@umn.edu]]></EmailAddress>
+<NSF_ID>000807658</NSF_ID>
+<StartDate>06/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>1001 EMMET ST N</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>Charlottesville</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229044195</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~32602</FUND_OBLG>
+<FUND_OBLG>2021~33326</FUND_OBLG>
+<FUND_OBLG>2022~34072</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Intellectual Merit:</strong></p> <p><span>The primary objective of this collaborative research project was to bridge the gap between metric spaces and graphs, aiming to develop new methodologies for network inference. The project focused on creating interpretable and computationally efficient algorithms to understand and interpret complex network structures, thereby providing a better framework for the statistical analysis of graphs and networks.</span></p> <p><span>The PI and collaborators successfully designed and developed a suite of statistical methods and algorithms that integrate the principles of metric spaces into graph theory. This integrative approach has provided a novel way to interpret and analyze complex network structures, leading to a more accurate and nuanced understanding of real-world networks.</span></p> <p><span>One significant output of our project is a linear regression framework on networks with observation errors. The proposed model is interpretable, and the inference is shown to be robust to network observation errors. Another important outcome is a mixing algorithm for network estimation. This new algorithm has a more accurate ability to predict and analyze network connections, providing insights into the formation and dynamics of real-world networks. The project also generated a comprehensive mathematical framework that bridges the gap between metric spaces and graphs, paving the way for future research in this field.</span></p> <p><span>The research efforts resulted in 10 innovative research articles, greatly contributing to the field of network inference and providing a substantial foundation for further explorations.</span></p> <p>&nbsp;</p> <p><strong>Broader Impacts:</strong></p> <p><span>The potential impacts of this research are far-reaching and multi-disciplinary. The developed statistical tools and algorithms can significantly enhance our ability to analyze network data in various scientific and societal contexts.</span></p> <p><span>The project involved both graduate and undergraduate students. Four Ph.D. students, seven master's students, and four undergraduate students were involved in related research partially supported by the award. Such research opportunities offer them invaluable experience in advanced statistical research, thus inspiring and training the next generation of mathematicians and data scientists.</span></p> <p><span>The PI has made significant efforts to communicate our research findings to the public. We conducted seminars, workshop lectures, interactive exhibits, and webinars aimed at explaining the importance and applications of network inference in understandable terms. The project has integrated some of its findings into educational materials and curricula at both undergraduate and graduate levels. The PI developed specialized courses about Optimization and Monte Carlo Methods. Some of the topics of the course are designed around network analysis. This ensures our work influences the next generation of statisticians and data scientists.</span></p> <p><span>From an economic perspective, the proposed new methods can be applied in sectors like telecommunications, transportation, and health, potentially leading to more efficient network designs and operations, yielding economic benefits. The PI has also established long-term collaboration projects with domain scientists to ensure the sustainability and future applications of the current outcomes.</span></p> <p><span>The PI has committed to sharing all project data and algorithms in open-source formats. All of the proposed statistical methods have their implementations publicly available as R software packages or Python packages.&nbsp;</span></p> <p><span>In conclusion, the PI made broad and comprehensive efforts to ensure the research is disseminated widely and effectively, contributing to scientific advancement, education, and public understanding of the complex yet fascinating field of network inference.</span></p> <p>&nbsp;</p> <p><strong>Diversion Promotion:</strong></p> <p><span>In addition to the previously outlined intellectual and broader impacts, this project also significantly contributed to promoting diversity in the STEM field. The project engaged students from underrepresented groups in data science, providing them with opportunities to participate in cutting-edge research.</span></p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 07/12/2023<br>      Modified by: Tianxi&nbsp;Li</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Intellectual Merit:  The primary objective of this collaborative research project was to bridge the gap between metric spaces and graphs, aiming to develop new methodologies for network inference. The project focused on creating interpretable and computationally efficient algorithms to understand and interpret complex network structures, thereby providing a better framework for the statistical analysis of graphs and networks.  The PI and collaborators successfully designed and developed a suite of statistical methods and algorithms that integrate the principles of metric spaces into graph theory. This integrative approach has provided a novel way to interpret and analyze complex network structures, leading to a more accurate and nuanced understanding of real-world networks.  One significant output of our project is a linear regression framework on networks with observation errors. The proposed model is interpretable, and the inference is shown to be robust to network observation errors. Another important outcome is a mixing algorithm for network estimation. This new algorithm has a more accurate ability to predict and analyze network connections, providing insights into the formation and dynamics of real-world networks. The project also generated a comprehensive mathematical framework that bridges the gap between metric spaces and graphs, paving the way for future research in this field.  The research efforts resulted in 10 innovative research articles, greatly contributing to the field of network inference and providing a substantial foundation for further explorations.     Broader Impacts:  The potential impacts of this research are far-reaching and multi-disciplinary. The developed statistical tools and algorithms can significantly enhance our ability to analyze network data in various scientific and societal contexts.  The project involved both graduate and undergraduate students. Four Ph.D. students, seven master's students, and four undergraduate students were involved in related research partially supported by the award. Such research opportunities offer them invaluable experience in advanced statistical research, thus inspiring and training the next generation of mathematicians and data scientists.  The PI has made significant efforts to communicate our research findings to the public. We conducted seminars, workshop lectures, interactive exhibits, and webinars aimed at explaining the importance and applications of network inference in understandable terms. The project has integrated some of its findings into educational materials and curricula at both undergraduate and graduate levels. The PI developed specialized courses about Optimization and Monte Carlo Methods. Some of the topics of the course are designed around network analysis. This ensures our work influences the next generation of statisticians and data scientists.  From an economic perspective, the proposed new methods can be applied in sectors like telecommunications, transportation, and health, potentially leading to more efficient network designs and operations, yielding economic benefits. The PI has also established long-term collaboration projects with domain scientists to ensure the sustainability and future applications of the current outcomes.  The PI has committed to sharing all project data and algorithms in open-source formats. All of the proposed statistical methods have their implementations publicly available as R software packages or Python packages.   In conclusion, the PI made broad and comprehensive efforts to ensure the research is disseminated widely and effectively, contributing to scientific advancement, education, and public understanding of the complex yet fascinating field of network inference.     Diversion Promotion:  In addition to the previously outlined intellectual and broader impacts, this project also significantly contributed to promoting diversity in the STEM field. The project engaged students from underrepresented groups in data science, providing them with opportunities to participate in cutting-edge research.             Last Modified: 07/12/2023       Submitted by: Tianxi Li]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

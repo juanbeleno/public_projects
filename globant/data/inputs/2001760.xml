@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Modern Neutrino Physics in Neutron Star Merger Models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>234000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrea Prestwich</SignBlockName>
+<PO_EMAI>aprestwi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922210</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Sherwood Richers is awarded an NSF Astronomy and Astrophysics Postdoctoral Fellowship to conduct a program of research and education at the University of California, Berkeley.  He will perform computer simulations of the effect of subatomic particles called neutrinos on material ejected during the merger of two neutron stars.  The treatment of neutrinos remains one of the biggest sources of uncertainty in modeling these events. Results from this research will allow astronomers to understand how heavy elements are formed in binary neutron star mergers, which are sources of gravitational waves.  Along with this research, Richers will conduct astronomy outreach to high school and college students in Central America.&lt;br/&gt;&lt;br/&gt;This research project will incorporate key physical processes, including neutrino transport, collisions, and flavor transformation, into existing large-scale computer codes used for modeling neutron star mergers.  The central thrust of the project is a rigorous treatment of the impact of neutrino flavor transformation on merger ejecta.  Including this critical missing process in models will permit a thorough interpretation of light curves from binary neutron star mergers, and allow a better understanding of heavy-element nucleosynthesis in such mergers.  This project advances the goals of the NSF Windows on the Universe Big Idea.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001760</AwardID>
+<Investigator>
+<FirstName>Sherwood</FirstName>
+<LastName>Richers</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME>III</PI_SUFX_NAME>
+<PI_FULL_NAME>Sherwood A Richers</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000733873</NSF_ID>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Richers                 Sherwood       A</Name>
+<CityName>Pasadena</CityName>
+<ZipCode>911063648</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>28</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA28</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Richers                 Sherwood       A]]></Name>
+<CityName>Berkeley</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947207301</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>107Y</Code>
+<Text>WoU-Windows on the Universe: T</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~234000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Core-collapse supernovae and neutron star mergers host some of the most extreme conditions in the universe that give us the opportunity to study Nature's most elusive particles in conditions impossible to reproduce in laboratories. We have simulated the behavior of neutrinos changing flavor in these explosive environments. We demonstrated that this small detail of this tiny particle can significantly modify how the universe produces heavy elements in collisions of neutron star mergers. Although this means that models of supernovae and mergers require flavor-changing physics to accurately predict the outcomes of the explosions, we have also paved a path forward toward the next generation of reliable models. We have built connections to schools and universities in El Salvador to inspire students to pursue careers in physics, guide them in their paths, and develop local expertise in computational astrophysics that is already yielding productive research collaborations.</p> <p>In the extreme densities encountered in supernovae and mergers, neutrinos change their flavor on length scales of less than a centimeter, though simulations must cover a domain of thousands of kilometers. This presents a problem larger than any existing supercomputer is capable of treating. We developed the open-source, "exact" (mean-field) quantum kinetics code Emu using the exascale computing framework AMReX to enable the largest and currently only three-dimensional flavor transformation simulations that can efficiently make use of cutting-edge supercomputers. We verified that the global flavor transformation community agrees on results of simulations with the same initial conditions to resolve some apparent discrepancies in the field. We implemented an approximation to this exact method and demonstrated that approximate three-dimensional simulations show very similar results to the exact ones at more than an order of magnitude lower cost, making it a viable option for large-scale global simulations of supernovae and mergers. Finally, we simulated the mass ejection and nucleosynthesis in a neutron star merger disk using a parameterized treatment of neutrino flavor transformation, which is so inexpensive that we could do dozens of simulations. The amount of material rich in heavy metals that is ejected into space to enrich future stars and planets is significantly affected by this physics, although we see that the predictions are still intricately tied to ongoing developments in modeling methods and the behavior of matter at nuclear densities.</p> <p>El Salvador is home to many students passionate about astronomy and astrophysics, although there is currently no path to careers in astronomy research within the country. As part of the project, we gave public talks at nearly a dozen schools and observed the fine details of the sun's magnetic structures with several hundred students using a portable narrowband solar telescope to keep their inspiration kindled. We hosted research talks and university workshops on computational astrophysics, including evaluating models of dense matter with observations of neutron stars and processing images of the sun's surface to quantify properties of magnetic structures. These workshops continue to be replicated by instructors in El Salvador, and have already sparked student research projects that are contributing novel work to the field. The connection forged in this project will be the foundation for even more productive collaborations in the future.</p><br> <p>            Last Modified: 01/16/2023<br>      Modified by: Sherwood&nbsp;A&nbsp;Richers</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2001760/2001760_10672704_1673898114826_ElSalvador_solar_observing--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2001760/2001760_10672704_1673898114826_ElSalvador_solar_observing--rgov-800width.jpg" title="Astronomy in El Salvador"><img src="/por/images/Reports/POR/2023/2001760/2001760_10672704_1673898114826_ElSalvador_solar_observing--rgov-66x44.jpg" alt="Astronomy in El Salvador"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Hundreds of students line up to see the magnetic structures of the sun through a portable narrowband solar telescope at a rural school in El Salvador. We hosted activities supporting astronomy for students everywhere from primary school through universities.</div> <div class="imageCredit">Sherwood Richers</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Sherwood&nbsp;A&nbsp;Richers</div> <div class="imageTitle">Astronomy in El Salvador</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2001760/2001760_10672704_1673901500511_Emu_3D--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2001760/2001760_10672704_1673901500511_Emu_3D--rgov-800width.jpg" title="Neutrino Flavor Transformation in Three Dimensions"><img src="/por/images/Reports/POR/2023/2001760/2001760_10672704_1673901500511_Emu_3D--rgov-66x44.jpg" alt="Neutrino Flavor Transformation in Three Dimensions"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Three-dimensional cube of neutrinos changing flavor in a neutron star merger. The cube has side length of 8cm. The different colors show that neutrinos in different parts of the cube are in different stages of flavor transformation.</div> <div class="imageCredit">Donald Willcox</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Sherwood&nbsp;A&nbsp;Richers</div> <div class="imageTitle">Neutrino Flavor Transformation in Three Dimensions</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Core-collapse supernovae and neutron star mergers host some of the most extreme conditions in the universe that give us the opportunity to study Nature's most elusive particles in conditions impossible to reproduce in laboratories. We have simulated the behavior of neutrinos changing flavor in these explosive environments. We demonstrated that this small detail of this tiny particle can significantly modify how the universe produces heavy elements in collisions of neutron star mergers. Although this means that models of supernovae and mergers require flavor-changing physics to accurately predict the outcomes of the explosions, we have also paved a path forward toward the next generation of reliable models. We have built connections to schools and universities in El Salvador to inspire students to pursue careers in physics, guide them in their paths, and develop local expertise in computational astrophysics that is already yielding productive research collaborations.  In the extreme densities encountered in supernovae and mergers, neutrinos change their flavor on length scales of less than a centimeter, though simulations must cover a domain of thousands of kilometers. This presents a problem larger than any existing supercomputer is capable of treating. We developed the open-source, "exact" (mean-field) quantum kinetics code Emu using the exascale computing framework AMReX to enable the largest and currently only three-dimensional flavor transformation simulations that can efficiently make use of cutting-edge supercomputers. We verified that the global flavor transformation community agrees on results of simulations with the same initial conditions to resolve some apparent discrepancies in the field. We implemented an approximation to this exact method and demonstrated that approximate three-dimensional simulations show very similar results to the exact ones at more than an order of magnitude lower cost, making it a viable option for large-scale global simulations of supernovae and mergers. Finally, we simulated the mass ejection and nucleosynthesis in a neutron star merger disk using a parameterized treatment of neutrino flavor transformation, which is so inexpensive that we could do dozens of simulations. The amount of material rich in heavy metals that is ejected into space to enrich future stars and planets is significantly affected by this physics, although we see that the predictions are still intricately tied to ongoing developments in modeling methods and the behavior of matter at nuclear densities.  El Salvador is home to many students passionate about astronomy and astrophysics, although there is currently no path to careers in astronomy research within the country. As part of the project, we gave public talks at nearly a dozen schools and observed the fine details of the sun's magnetic structures with several hundred students using a portable narrowband solar telescope to keep their inspiration kindled. We hosted research talks and university workshops on computational astrophysics, including evaluating models of dense matter with observations of neutron stars and processing images of the sun's surface to quantify properties of magnetic structures. These workshops continue to be replicated by instructors in El Salvador, and have already sparked student research projects that are contributing novel work to the field. The connection forged in this project will be the foundation for even more productive collaborations in the future.       Last Modified: 01/16/2023       Submitted by: Sherwood A Richers]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: RNA-adenylation sequencing for rapid ribosome profiling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a next generation sequencing technology that aims to quantify ribosome-protected mRNA fragments, to infer protein synthesis with superior resolution. Given the central role of individual protein production in disease diagnosis and treatment, the proposed technology aims to bridge bench-side to bedside by accelerating personalized medicine. The proposed technology is readily applicable to cells in culture and solid tissues obtained by needle biopsy, and is expected to have application for a wide range of scientists and healthcare professionals. Further, the ability to explore the translation of protein production inside cells towards disease progression may offer novel strategies for treatment and prevention. The technology may enable a genetic testing approach that may have far-reaching impacts on basic research and clinical diagnosis. &lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of an RNA-adenylation sequencing, a next generation sequencing technology. To date, monitoring individual protein production remains a formidable challenge in biomedical and clinical laboratories. Ribosome profiling (Ribo-seq) captures protein-producing mRNAs and reveals their translation step-by-step. This effort defines the requirements to provide a snapshot of ribosome positions and density across the transcriptome at a sub-codon resolution. The current Ribo-seq methodology requires a large amount of starting material, needs expensive equipment and reagents, and is time-consuming. Compared to the conventional Ribo-seq method, the proposed RNA-adenylation sequencing technology dramatically reduces the amount of starting material (~1 ng RNA), shortens the library processing time (~6 hour), and increases the footprint resolution (&gt;90% in-frame accuracy of 5' end). The proposed technology may improve genome-wide evaluation of translation with superior sensitivity at single-nucleotide resolution. In addition, the proposed technology may be adapted for RNA sequencing technology.  The technology may be used for broad RNA next-generation sequencing in both laboratories and clinical settings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033614</AwardID>
+<Investigator>
+<FirstName>SHU-BING</FirstName>
+<LastName>QIAN</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>SHU-BING QIAN</PI_FULL_NAME>
+<EmailAddress><![CDATA[sq38@cornell.edu]]></EmailAddress>
+<NSF_ID>000508656</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY23</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EQA8NBEN9WD5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148502820</ZipCode>
+<StreetAddress><![CDATA[373 Pine Tree Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY23</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Intellectual merit</strong></p> <p>mRNA translation is one of the most fundamental cellular processes and is critical for cell survival. Due to technicallimitations, it is challenging to conduct genome-wide mRNA translation analysis without having a large amount of biological materials and deep technical expertise. These 'bottleneck' conditions impose a significant barrier to the understanding ofmRNA translation. The proposed technology successfully overcomes these challenges and would facilitate scientific advancement in the mRNA translation field.&nbsp;The core technology of this proposal is Ezra-seq: a robust, rapid, and versatile sequencing technology that quantify ribosome protected mRNA fragments and infer protein production inside cells with superior resolution. With the newly developed Ezraenzyme and re-designed protocol, Ezra-seq not only shortens the library processing time (~6 hr), but also increases theribosome footprint resolution with an averaged IFR &gt;90% (IFR denotes in-frame ratio, the relative percentage of footprints mapped to the frame 0). From the same original sample, Ezra-seq nearly doubles the amount of ribosome footprints with perfect reading frame when compared to the conventional Ribo-seq.</p> <p><strong>Broader Impacts</strong></p> <p>The proposed technology has the potential to revolutionize genetic testing by offering individual gene expression at the levelof protein synthesis. If adopted, we envision that the proposed technology will help researchers in academia and industry todetect changes in mRNA translation in biological samples, which can lead to discoveries of new mechanisms, novel protein biomarkers, and potential therapeutical options. Broadly, the accumulated mRNA translation data sets generated by the proposed technology can serve as a basis for screening druggable targets. We anticipate that the proposed technology will provide valuable data for individualized precision medicine, helping individuals make informed decisions based on more comprehensive health datasets.&nbsp;Through the proposed activity, a startup company was founded and is likely to create jobs locally and/or nationally in the future.</p><br> <p>            Last Modified: 07/06/2022<br>      Modified by: Shu-Bing&nbsp;Qian</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Intellectual merit  mRNA translation is one of the most fundamental cellular processes and is critical for cell survival. Due to technicallimitations, it is challenging to conduct genome-wide mRNA translation analysis without having a large amount of biological materials and deep technical expertise. These 'bottleneck' conditions impose a significant barrier to the understanding ofmRNA translation. The proposed technology successfully overcomes these challenges and would facilitate scientific advancement in the mRNA translation field. The core technology of this proposal is Ezra-seq: a robust, rapid, and versatile sequencing technology that quantify ribosome protected mRNA fragments and infer protein production inside cells with superior resolution. With the newly developed Ezraenzyme and re-designed protocol, Ezra-seq not only shortens the library processing time (~6 hr), but also increases theribosome footprint resolution with an averaged IFR &gt;90% (IFR denotes in-frame ratio, the relative percentage of footprints mapped to the frame 0). From the same original sample, Ezra-seq nearly doubles the amount of ribosome footprints with perfect reading frame when compared to the conventional Ribo-seq.  Broader Impacts  The proposed technology has the potential to revolutionize genetic testing by offering individual gene expression at the levelof protein synthesis. If adopted, we envision that the proposed technology will help researchers in academia and industry todetect changes in mRNA translation in biological samples, which can lead to discoveries of new mechanisms, novel protein biomarkers, and potential therapeutical options. Broadly, the accumulated mRNA translation data sets generated by the proposed technology can serve as a basis for screening druggable targets. We anticipate that the proposed technology will provide valuable data for individualized precision medicine, helping individuals make informed decisions based on more comprehensive health datasets. Through the proposed activity, a startup company was founded and is likely to create jobs locally and/or nationally in the future.       Last Modified: 07/06/2022       Submitted by: Shu-Bing Qian]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

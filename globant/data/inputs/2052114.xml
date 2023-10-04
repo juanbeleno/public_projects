@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Silicon Photonic Optical Gyroscope using Planar Waveguide Coil and Integrated Photonics Circuit]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255834.00</AwardTotalIntnAmount>
+<AwardAmount>255834</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is improving the safety and reliability of autonomous systems with affordable high-precision instruments.  Due to high component cost and extensive manual assembly, improvements in high-precision inertial navigation equipment has traditionally been slow, with system prices actually increasing instead of decreasing as in most other high-technology products.   An affordable yet highly accurate gyroscope will open a $10 B market opportunity in autonomous systems applications, and it will provide disruptive, more compact new technology into the $2 B existing high-performance inertial navigation market.  Possible market applications include sensors for consumer electronics, automotive safety systems, industrial robots, and national security systems.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will develop a new 3-D Silicon Nitride bandgap waveguide to enable small, high-precision integrated optical gyroscopes.  Traditionally, on-chip Silicon Nitride waveguides are short centimeter length structures with optical loss on the order of a 100 dB per meter making them unsuitable to fabricate long gyroscope waveguides.  Gyroscope waveguides typically require a spiraled sensing waveguide greater than 40 meters long to generate the sufficient Sagnac Phase for performant operation.  Additionally, there is a trade-off between tight pitch waveguides that fit more sensing area per die, and the errors generated from optical phase coupling between neighboring waveguide spiral tracks.  This SBIR will demonstrate a novel 3-D bandgap structure and process methodology to densely pack an ultra-low loss waveguide that will enable an approximate 400x improvement in optical loss and a 4x improvement in waveguide density versus conventional Silicon Nitride waveguide approaches found in today’s standard CMOS process.  The results of the Phase I is a key-enabling technology for small integrated optical gyroscopes as well as other photonic devices that require low loss on-chip optical waveguides.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/02/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/02/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052114</AwardID>
+<Investigator>
+<FirstName>Mike</FirstName>
+<LastName>Horton</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mike A Horton</PI_FULL_NAME>
+<EmailAddress><![CDATA[mike@anellophotonics.com]]></EmailAddress>
+<NSF_ID>000837371</NSF_ID>
+<StartDate>04/02/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ANELLO PHOTONICS INC.</Name>
+<CityName>SANTA CLARA</CityName>
+<ZipCode>950541858</ZipCode>
+<PhoneNumber>4084214805</PhoneNumber>
+<StreetAddress>4699 OLD IRONSIDES DR</StreetAddress>
+<StreetAddress2><![CDATA[STE 150]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NRU3LN2L3KL9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ANELLO PHOTONICS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DJ7RAW2F7KW1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ANELLO PHOTONICS INC.]]></Name>
+<CityName>Santa Clara</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>950541820</ZipCode>
+<StreetAddress><![CDATA[4800 Patrick Henry Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255834</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Motion measurement using inertial sensing, as enabled by accelerometers and rotational rate/angular rate gyroscopes, is ubiquitous in our daily lives. The mobile phone in your hand, the car you drive, and the plane you fly home on; all these things have one or more embedded gyroscopes tracking motion in real-time. Given the numerous applications, the market for these sensors is large with several billion devices per year delivered annually into existing markets. Furthermore, growth trends in the Internet of Things, Autonomy, and Augmented / Virtual Reality are driving new applications for accurate, cost-effective motion measurement.</p> <p>A market and technology gap exists between high-performance optical gyros and low-cost MEMS gyros, and this is the impetus for the development of ANELLO's Silicon Photonic Optical Gyro (<em>SiPhOG<sup>TM</sup>).</em> In simple terms, a SiPhOG is a Fiber Optic Gyroscope with a planar Silicon Nitride (SiN) waveguide instead of a precision-wound coil of fiber and an integrated photonics chip instead of discrete hand-assembled optical components (Figure 1). There are numerous technical challenges in the development of this class of optical gyros, and ANELLO has invested in the development and realization of fundamental processing technology, planar waveguide design, silicon photonics integrated circuits, and control electronics and software. This combination provides unique benefits in size, weight, power, performance, and cost for optical gyroscope based inertial measurement units.</p> <p>Having developed and recently announced a low-loss SiN process with Tower Semiconductor, the major goals of this project were to model, design, fabricate, and characterize a novel 3-D SiN waveguide structure on a variation of this process. While current SiN processing and waveguide fabrication have been maturing, the design for increasingly smaller devices with high-performance is ever-present. The technical work plan proposed to develop a new process and device structure for significantly higher waveguide density (Figure 2). The NSF Phase I SBIR funding enabled an initial proof of concept for both process and device as well as increased the understanding of the theoretical limits in planar waveguide density for optical gyroscopes.</p> <p>The key outcomes of the project included the identification of the minimum pitch at which the optical crosstalk is not impacted for homogenous structures. Using 3-D numerical modeling, we extracted design scaling models for crosstalk performance in etched waveguide structures as compared to a homogeneous device baseline. A calculated improvement in crosstalk of up to 85dB for etched cavity geometry was predicted based upon design parameters (Figure 3). Much of the project work was process focused. We were able to demonstrate etch process feasibility on short loop vehicles with minimal etch bias, no damage to waveguide surface, minimal impact to line edge roughness, and well-controlled etch profiles (Figure 4). Preliminary results on full loop devices showed an increase of optical propagation loss as a function of etch cavity width (i.e., proximity to signal waveguide). Roughly a 2x improvement in pitch with use of air cavities was observed with negligible loss penalty, but further experiments are required to validate whether this is the limit or further density improvements are possible (Figure 5). Finally, the performance of small pitch coils was evaluated in an optical gyroscope testbed showing that equivalent system performance can be achieved. The result suggested that design density can incur some level of crosstalk penalty before system degradation in either angular random walk or bias instability is observed. The threshold for this interaction would require further system modeling and experimentation.</p> <p>More broadly, the project helped to advance theoretical understanding of a class of inhomogeneous planar structures to better predict performance in complex interferometric systems. We further implemented preliminary process flows and identified future challenges in SiN low-loss wafer scale processing (deep etch, wafer stress management, etc.). Finally, we probed feasibility for more radical size reductions in the class of moderately performing gyroscope product architectures, although additional work remains to fully understand size / performance tradeoffs. While we primarily focused on optical gyroscopes, other delay line applications that value chip-scale density would potentially profit from the integration of these high-density structures.</p> <p><strong>In summary, the body of work resulting from this project suggests that small form factor planar integrated waveguide coils can be manufactured in a low-loss SiN process with high density to provide sufficient area for tactical grade gyroscope applications. Further process development and design model optimization inclusive of reliability, performance, assembly are required to fully assess the feasibility of this approach for commercial implementation.</strong></p><br> <p>            Last Modified: 05/17/2022<br>      Modified by: Mike&nbsp;A&nbsp;Horton</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2052114/Figure3--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052114/Figure3--rgov-800width.jpg" title="><img src="/por/images/Reports/POR/2022/2052114/Figure3--rgov-66x44.jpg" alt="></a> <div class="imageCaptionContainer"> <div class="imageSubmitted">&nbsp;</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2052114/Figure4--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052114/Figure4--rgov-800width.jpg" title="><img src="/por/images/Reports/POR/2022/2052114/Figure4--rgov-66x44.jpg" alt="></a> <div class="imageCaptionContainer"> <div class="imageSubmitted">&nbsp;</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2052114/Figure1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052114/Figure1--rgov-800width.jpg" title="><img src="/por/images/Reports/POR/2022/2052114/Figure1--rgov-66x44.jpg" alt="></a> <div class="imageCaptionContainer"> <div class="imageSubmitted">&nbsp;</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2052114/Figure2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052114/Figure2--rgov-800width.jpg" title="><img src="/por/images/Reports/POR/2022/2052114/Figure2--rgov-66x44.jpg" alt="></a> <div class="imageCaptionContainer"> <div class="imageSubmitted">&nbsp;</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2052114/Figure5--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052114/Figure5--rgov-800width.jpg" title="><img src="/por/images/Reports/POR/2022/2052114/Figure5--rgov-66x44.jpg" alt="></a> <div class="imageCaptionContainer"> <div class="imageSubmitted">&nbsp;</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Motion measurement using inertial sensing, as enabled by accelerometers and rotational rate/angular rate gyroscopes, is ubiquitous in our daily lives. The mobile phone in your hand, the car you drive, and the plane you fly home on; all these things have one or more embedded gyroscopes tracking motion in real-time. Given the numerous applications, the market for these sensors is large with several billion devices per year delivered annually into existing markets. Furthermore, growth trends in the Internet of Things, Autonomy, and Augmented / Virtual Reality are driving new applications for accurate, cost-effective motion measurement.  A market and technology gap exists between high-performance optical gyros and low-cost MEMS gyros, and this is the impetus for the development of ANELLO's Silicon Photonic Optical Gyro (SiPhOGTM). In simple terms, a SiPhOG is a Fiber Optic Gyroscope with a planar Silicon Nitride (SiN) waveguide instead of a precision-wound coil of fiber and an integrated photonics chip instead of discrete hand-assembled optical components (Figure 1). There are numerous technical challenges in the development of this class of optical gyros, and ANELLO has invested in the development and realization of fundamental processing technology, planar waveguide design, silicon photonics integrated circuits, and control electronics and software. This combination provides unique benefits in size, weight, power, performance, and cost for optical gyroscope based inertial measurement units.  Having developed and recently announced a low-loss SiN process with Tower Semiconductor, the major goals of this project were to model, design, fabricate, and characterize a novel 3-D SiN waveguide structure on a variation of this process. While current SiN processing and waveguide fabrication have been maturing, the design for increasingly smaller devices with high-performance is ever-present. The technical work plan proposed to develop a new process and device structure for significantly higher waveguide density (Figure 2). The NSF Phase I SBIR funding enabled an initial proof of concept for both process and device as well as increased the understanding of the theoretical limits in planar waveguide density for optical gyroscopes.  The key outcomes of the project included the identification of the minimum pitch at which the optical crosstalk is not impacted for homogenous structures. Using 3-D numerical modeling, we extracted design scaling models for crosstalk performance in etched waveguide structures as compared to a homogeneous device baseline. A calculated improvement in crosstalk of up to 85dB for etched cavity geometry was predicted based upon design parameters (Figure 3). Much of the project work was process focused. We were able to demonstrate etch process feasibility on short loop vehicles with minimal etch bias, no damage to waveguide surface, minimal impact to line edge roughness, and well-controlled etch profiles (Figure 4). Preliminary results on full loop devices showed an increase of optical propagation loss as a function of etch cavity width (i.e., proximity to signal waveguide). Roughly a 2x improvement in pitch with use of air cavities was observed with negligible loss penalty, but further experiments are required to validate whether this is the limit or further density improvements are possible (Figure 5). Finally, the performance of small pitch coils was evaluated in an optical gyroscope testbed showing that equivalent system performance can be achieved. The result suggested that design density can incur some level of crosstalk penalty before system degradation in either angular random walk or bias instability is observed. The threshold for this interaction would require further system modeling and experimentation.  More broadly, the project helped to advance theoretical understanding of a class of inhomogeneous planar structures to better predict performance in complex interferometric systems. We further implemented preliminary process flows and identified future challenges in SiN low-loss wafer scale processing (deep etch, wafer stress management, etc.). Finally, we probed feasibility for more radical size reductions in the class of moderately performing gyroscope product architectures, although additional work remains to fully understand size / performance tradeoffs. While we primarily focused on optical gyroscopes, other delay line applications that value chip-scale density would potentially profit from the integration of these high-density structures.  In summary, the body of work resulting from this project suggests that small form factor planar integrated waveguide coils can be manufactured in a low-loss SiN process with high density to provide sufficient area for tactical grade gyroscope applications. Further process development and design model optimization inclusive of reliability, performance, assembly are required to fully assess the feasibility of this approach for commercial implementation.       Last Modified: 05/17/2022       Submitted by: Mike A Horton]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

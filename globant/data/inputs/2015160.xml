@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Focal Plane Array for Active Coherent Imaging]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to enable a cost-effective high-performance imaging technology with widespread commercial opportunities for industrial applications, such as autonomous navigation. The technology has the potential to greatly enhance the performance of autonomous navigation systems, enabling more precise detection of objects at further distances and enjoying greater robustness against environmental conditions. These capabilities help increase the safety of autonomous driving. The proposed technology is designed for manufacturability at low cost and high volume.  Applications will benefit the defense, industrial, medical and scientific sectors, potentially bringing new opportunities in the areas of surveillance, security, remote sensing, machine vision, material surface characterization, biomedical imaging, as well as novel areas such as quantum imaging.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims at developing a multi-pixel optical focal plane array (FPA) capable of coherent detection by leveraging photonic integrated circuit technology. Current conventional FPA technologies operate by direct photon detection wherein the incoming photons are converted into electron charges directly at each detection pixel. The measured signal is thus proportional to the intensity of the incident light.  However, coherent detection measures both intensity and phase, with advantages including near-shot-noise-limited performance, background light rejection, and additional object information contained in the phase. The proposed technology will enable thousands to millions of coherent detection pixels to be fabricated monolithically on a photonic chip, enabling mass production.  This research will result in a design of the coherent FPA with optimal detection performance and small form-factor.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/23/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015160</AwardID>
+<Investigator>
+<FirstName>Kam Wai</FirstName>
+<LastName>Chan</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kam Wai C Chan</PI_FULL_NAME>
+<EmailAddress><![CDATA[cliff.chan@oamphotonics.com]]></EmailAddress>
+<NSF_ID>000553543</NSF_ID>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>OAM PHOTONICS LLC</Name>
+<CityName>ALBUQUERQUE</CityName>
+<ZipCode>871118009</ZipCode>
+<PhoneNumber>5852363374</PhoneNumber>
+<StreetAddress>6100 CORTADERIA ST NE</StreetAddress>
+<StreetAddress2><![CDATA[APT 3424]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>R5LKNWKFPSB1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OAM PHOTONICS LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[OAM PHOTONICS LLC]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>921265746</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>51</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA51</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~225000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The technology in development as supported by this NSF SBIR is a compact, high-performance, true solid-state three-dimensional (3D) imaging sensor for light detection and ranging (LiDAR). Through computer simulations, chip fabrication, and experimental measurements, the Phase I R&amp;D showed that the proposed 3D imaging sensor can achieve high spatial resolution with small pixel size and long ranging capability in a low SWaP-C (size, weight, power and cost) form factor. The final product incorporating the 3D sensor will be similar to a palm-sized camera that is compact, lightweight and easy to operate. Importantly, the R&amp;D demonstrated that the 3D sensor can be manufactured in commercial foundries using standard CMOS fabrication process. This ensures that the sensor can be produced commercially at low cost through economies of scale.<br /><br />LiDAR has widespread applications in the civil and defense areas. The 3D LiDAR sensor in development provides a high-performance, low SWaP-C LiDAR sensing solution for advanced mapping and navigation that operates like an ordinary camera, requires minimal maintenance, and is installable on commercial small unmanned aerial vehicles (UAVs). Having low SWaP-C without sacrificing the performance, the sensor will revolutionize the commercial small UAV market by enabling small UAV service providers and users to obtain LiDAR surveying benefits that has been currently hindered by the high entry-costs of owning a survey-grade LiDAR system and the required use of an expensive professional UAV. The popularization of the 3D sensor in use with consumer-grade small UAVs, specifically in small-scale projects, will bring significant economic impacts to industries employing small UAVs for surveying, inspection, monitoring, and topographic mapping in applications like precision agriculture, construction, infrastructure and power-line management, environment and forestry planning and management, mining, fire behavior and flood modeling, transportation, archaeology, cinematography, gaming, and many more. Other than drone-based applications, the innovation is posed to significantly bring down the cost and provide seamless integration of 3D LiDAR sensing in self-driving vehicles and other industrial applications including robotics, smart city and infrastructure, surveillance, and security, as well as consumer applications including 3D sensing for augmented reality. The numerous applications enabled by the proposed project not only help increase the economic competitiveness of the U.S., but also improve quality of life, security and safety.<br /><br /><br /></p><br> <p>            Last Modified: 05/18/2023<br>      Modified by: Kam Wai&nbsp;C&nbsp;Chan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The technology in development as supported by this NSF SBIR is a compact, high-performance, true solid-state three-dimensional (3D) imaging sensor for light detection and ranging (LiDAR). Through computer simulations, chip fabrication, and experimental measurements, the Phase I R&amp;D showed that the proposed 3D imaging sensor can achieve high spatial resolution with small pixel size and long ranging capability in a low SWaP-C (size, weight, power and cost) form factor. The final product incorporating the 3D sensor will be similar to a palm-sized camera that is compact, lightweight and easy to operate. Importantly, the R&amp;D demonstrated that the 3D sensor can be manufactured in commercial foundries using standard CMOS fabrication process. This ensures that the sensor can be produced commercially at low cost through economies of scale.  LiDAR has widespread applications in the civil and defense areas. The 3D LiDAR sensor in development provides a high-performance, low SWaP-C LiDAR sensing solution for advanced mapping and navigation that operates like an ordinary camera, requires minimal maintenance, and is installable on commercial small unmanned aerial vehicles (UAVs). Having low SWaP-C without sacrificing the performance, the sensor will revolutionize the commercial small UAV market by enabling small UAV service providers and users to obtain LiDAR surveying benefits that has been currently hindered by the high entry-costs of owning a survey-grade LiDAR system and the required use of an expensive professional UAV. The popularization of the 3D sensor in use with consumer-grade small UAVs, specifically in small-scale projects, will bring significant economic impacts to industries employing small UAVs for surveying, inspection, monitoring, and topographic mapping in applications like precision agriculture, construction, infrastructure and power-line management, environment and forestry planning and management, mining, fire behavior and flood modeling, transportation, archaeology, cinematography, gaming, and many more. Other than drone-based applications, the innovation is posed to significantly bring down the cost and provide seamless integration of 3D LiDAR sensing in self-driving vehicles and other industrial applications including robotics, smart city and infrastructure, surveillance, and security, as well as consumer applications including 3D sensing for augmented reality. The numerous applications enabled by the proposed project not only help increase the economic competitiveness of the U.S., but also improve quality of life, security and safety.          Last Modified: 05/18/2023       Submitted by: Kam Wai C Chan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

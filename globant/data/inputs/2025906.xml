@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  Early Detection of Anomalies in Large-Scale Gas Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>999855.00</AwardTotalIntnAmount>
+<AwardAmount>999855</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to reduce the incidence of natural gas pipeline failures across the country within the next 3 to 5 years. Every year there are a few hundred 'significant' pipeline accidents (fatalities or significant property damage) causing massive damage to life and property, dispersing hazardous materials and disrupting gas delivery services. Such events can have severe consequences for a utility including bankruptcy, billions of dollars in liabilities, civil/criminal penalties and higher insurance premiums. This proposed scalable and economical capability to proactively identify potential issues prior to catastrophic failure will significantly reduce the likelihood of such failures without requiring additional infrastructure. The project will also help prevent unauthorized third-party activity near pipelines, a leading cause of accidents. The methods developed in this project can be directly applied to improve detection accuracy in other contexts such as power-grids, computer cluster management and financial fraud detection.&lt;br/&gt;&lt;br/&gt;This SBIR Phase II project proposes to detect anomalies in large-scale gas-utility networks through statistical inference from continuously observed time-series data on pressure, temperature, and network characteristics. Anomalies within gas-utility networks occur for various reasons, such as sulphur or ice buildup, regulator malfunction, corrosion/aging of hardware, and human error. Such failures are often preceded by detectable signatures in the time-series of gas-pressure data. Early detection of such signatures with significant advance warning (90 minutes or more) allows corrective action that will avoid loss of life, property damage and service disruption. This project proposes new methods for the rapid estimation of short and medium timescale models of gas pressure behavior from real-time pipeline data, along with methods for constructing prediction bands through Monte Carlo and stochastic optimization techniques. Such methods are non-generic and their success relies crucially on exploiting specific structural properties unique to network-level gas-pressure time series. The proposed stochastic optimization techniques will probabilistically classify identified anomalies into failure type, allowing the prioritizing of network level emergency operations. The project will also develop scalable automated high-dimensional classification models to detect construction activity from satellite and other image data, to initiate preventive action.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025906</AwardID>
+<Investigator>
+<FirstName>Krishna</FirstName>
+<LastName>Karambakkam</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Krishna P Karambakkam</PI_FULL_NAME>
+<EmailAddress><![CDATA[krishna@eigenpatterns.com]]></EmailAddress>
+<NSF_ID>000713352</NSF_ID>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>EigenPatterns Inc.</Name>
+<CityName>SAN JOSE</CityName>
+<ZipCode>951181943</ZipCode>
+<PhoneNumber>7324292804</PhoneNumber>
+<StreetAddress>1527 ILIKAI AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA16</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>X21KCLCN4MQ1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EIGENPATTERNS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[EigenPatterns Inc.]]></Name>
+<CityName>San Jose</CityName>
+<StateCode/>
+<ZipCode>951181943</ZipCode>
+<StreetAddress><![CDATA[1527 Ilikai Avenue]]></StreetAddress>
+<CountryCode>CA</CountryCode>
+<CountryName>Canada</CountryName>
+<StateName>RI REQUIRED</StateName>
+<CountryFlag>0</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>"16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1064</Code>
+<Text>URBAN INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~999855</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this NSF SBIR Phase II effort algorithms and tools were built and deployed for the early detection of potentially catastrophic failures in large-scale gas distribution networks. Many existing alert systems are designed to trigger when pressure exceeds hardcoded thresholds that are typically set close to operational limits and leave no time for remediation. Proactive detection entails the use of real-time operational and contextual data to infer anomalous behavior soon after its emergence, and while ensuring a low likelihood of false alarms.</p> <p>New and scalable approaches were developed for the comparison of time series across different time scales and with non-uniform observations, and to perform large searches in interactive time. The monitoring system is infinitely scalable with no performance degradation and can be securely accessed from the large cloud providers. Real-time performance was demonstrated. The platform can also be used to perform scalable and fast operations to cluster large sets of time series patterns and to identify specific types of anomalies. Technically the outcomes represent a clear performance improvement over existing systems, enabled by advanced models and analytics customized for the domain. The detection algorithms are currently deployed across the gas pipeline network of one of the world&rsquo;s largest utilities.</p> <p>The capability developed in this project has the potential to significantly improve safety and reliability of gas delivery and reduce environmental impact. Natural gas pipeline explosions cause massive damage to life and property. Existing remedies include the use of slam-shut valves to stop pressure excursions. However, that approach will also disrupt gas distribution services, leaving significant areas without gas supply, for many days and the effort/expense to re-light these homes. The proposed approach proactively prevents pipeline accidents and improves reliability without significant downsides. The detection system is available as a real-time scalable plug and play service, for quick installation. Users can access the product in the cloud or install on-premises, facilitating wide adoption and enhance safety industry-wide. The availability of such systems will be especially valuable as we deal with an increase in extreme climate patterns including cold-waves and flooding.</p> <p>The project created multiple opportunities for training and professional development by providing internships in the areas of data science and engineering, offering real world experience in collaboration with a diverse team, exposure to state of the art industry practices, expertise in the development and rigorous benchmarking of new algorithms and real-world product development. The project also provided opportunities in the development of automated, scalable and secure applications, and their deployment in the cloud.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/30/2022<br>      Modified by: Krishna&nbsp;P&nbsp;Karambakkam</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ In this NSF SBIR Phase II effort algorithms and tools were built and deployed for the early detection of potentially catastrophic failures in large-scale gas distribution networks. Many existing alert systems are designed to trigger when pressure exceeds hardcoded thresholds that are typically set close to operational limits and leave no time for remediation. Proactive detection entails the use of real-time operational and contextual data to infer anomalous behavior soon after its emergence, and while ensuring a low likelihood of false alarms.  New and scalable approaches were developed for the comparison of time series across different time scales and with non-uniform observations, and to perform large searches in interactive time. The monitoring system is infinitely scalable with no performance degradation and can be securely accessed from the large cloud providers. Real-time performance was demonstrated. The platform can also be used to perform scalable and fast operations to cluster large sets of time series patterns and to identify specific types of anomalies. Technically the outcomes represent a clear performance improvement over existing systems, enabled by advanced models and analytics customized for the domain. The detection algorithms are currently deployed across the gas pipeline network of one of the world’s largest utilities.  The capability developed in this project has the potential to significantly improve safety and reliability of gas delivery and reduce environmental impact. Natural gas pipeline explosions cause massive damage to life and property. Existing remedies include the use of slam-shut valves to stop pressure excursions. However, that approach will also disrupt gas distribution services, leaving significant areas without gas supply, for many days and the effort/expense to re-light these homes. The proposed approach proactively prevents pipeline accidents and improves reliability without significant downsides. The detection system is available as a real-time scalable plug and play service, for quick installation. Users can access the product in the cloud or install on-premises, facilitating wide adoption and enhance safety industry-wide. The availability of such systems will be especially valuable as we deal with an increase in extreme climate patterns including cold-waves and flooding.  The project created multiple opportunities for training and professional development by providing internships in the areas of data science and engineering, offering real world experience in collaboration with a diverse team, exposure to state of the art industry practices, expertise in the development and rigorous benchmarking of new algorithms and real-world product development. The project also provided opportunities in the development of automated, scalable and secure applications, and their deployment in the cloud.          Last Modified: 10/30/2022       Submitted by: Krishna P Karambakkam]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

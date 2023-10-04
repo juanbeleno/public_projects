@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: SaTC: COVID19: Science of using wirelessly powered sensors to quickly scale up verifiable decontamination of individual N95 respirator masks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeremy Epstein</SignBlockName>
+<PO_EMAI>jepstein@nsf.gov</PO_EMAI>
+<PO_PHON>7032928338</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[It's extremely important for the health of our nation to ensure that front-line healthcare workers have access to a supply of N95 masks while caring for COVID-19 patients.  A global shortage of N95 respirator masks has led to the emergency construction of various decontamination systems for reuse of disposable masks worn by healthcare workers. While the best choice is a new mask, decontamination serves as an emergency backup when new masks are in short supply during likely COVID19 resurgence.  Any decontamination must protect against damage to the masks' filter performance in addition to ensuring inactivation of harmful levels of bioburdens.  Moist heat is one of the readily deployable decontamination methods.  An oven set to a particular temperature will likely have hot spots and cold spots, leading to a decontamination risk that can be detected with sensor technology.  However, wiring temperature and humidity sensors for each mask is cumbersome, time consuming, and difficult to scale up. In high threat environments beyond a controlled clinical environment, sensors must also withstand adversarial interference.  An adversary could use international radio interference to fool sensors into seeing a false reality at the analog layer.  For instance, cryogenic chambers may cause unintended thawing of stored specimens if an adversary tricks a temperature sensor into seeing false, cold temperatures. Thus, this research project further investigates how to protect large numbers of temperature and humidity sensors from malicious interference in high-threat environments accessible by an adversary with signal injection capabilities. The broader impact includes contributions to N95decon.org, a volunteer consortium of scientists, engineers, and clinicians from universities and healthcare facilities across the world to study N95 mask decontamination. Technical reports, publications, and educational training webinars conducted in multiple languages contribute to broader impact by helping to protect healthcare workers globally.  Moreover, the science of trustworthy sensor technology can extend to protecting other COVID-19 environments such as fleets of vehicles transporting patients or office spaces needing technology to verify the effectiveness of decontamination processes during social distancing.&lt;br/&gt;&lt;br/&gt;This research project tackles the urgent research needs to (1) assure and inform healthcare workers of the conditions necessary for mask decontamination processes in ovens with known risks of non-uniform heating, (2) rapidly encourage the deployment of highly scalable and trustworthy sensor network technology for monitoring and validation of individual mask decontamination by using wirelessly powered computational RFID tags, (3) advance the knowledge and understanding of sensor-based systems security by preventing malicious interference from violating the integrity, availability, and confidentiality of sensor data.  Key to the approach is the design and deployment of a wirelessly powered computational RFID tag based on the Intel WISP and UMass Moo with sensors to measure the moist heat decontamination processes. By removing wires and batteries, the approach enables more rapid deployment of monitoring without requiring significant modification to decontamination systems.  The research has particular benefit to small clinics, rural facilities, and developing countries that lack convenient access to dedicated N95 mask decontamination systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031077</AwardID>
+<Investigator>
+<FirstName>Sara</FirstName>
+<LastName>Rampazzi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sara Rampazzi</PI_FULL_NAME>
+<EmailAddress><![CDATA[srampazzi@ufl.edu]]></EmailAddress>
+<NSF_ID>000817487</NSF_ID>
+<StartDate>05/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Fu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kevin Fu</PI_FULL_NAME>
+<EmailAddress><![CDATA[kevinfu@umich.edu]]></EmailAddress>
+<NSF_ID>000247354</NSF_ID>
+<StartDate>05/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress><![CDATA[2260 Hayward]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>During the early stages of the pandemic, hospitals across the country suffered from dire shortages of PPE such as N95 respirator masks. &nbsp;For a period of the shortage, the FDA issued an emergency use authorization for re-use of decontaminated N95 masks in the healthcare setting. However, a key research problem was how to verify each mask was individually verified to meet decontamination parameters of heat and moisture without impeding the workflow of mask decontamination.</p> <p>Outcomes and FIndings: Our research demonstrates that N95 masks can be verifiably decontaminated in moist heat using ultra-low power, wireless sensors. &nbsp;Our VeriMask system is an embedded system placed inside the N95 mask during decontamination of moist heat. &nbsp;Because the system is wireless, no cumbersome wires were necessary as in previous designs that slowed the workflow.</p> <p>The intellectual merit included discovery of system-level techniques within embedded systems to rapidly deploy wireless sensors in extremely hot environments where there is no wired power. The intellectual merit also includes innovation of how to effectively address many wireless sensors simultaneously within a metal enclosure of a moist heat oven.</p> <p>The broader impact included helping society cope with the crisis of PPE shortage by giving confidence that the masks were decontaminated at the correct temperature and humidity to ensure destruction of potential COVID19 pathogens on the N95 mask.</p><br> <p>            Last Modified: 09/20/2021<br>      Modified by: Kevin&nbsp;Fu</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ During the early stages of the pandemic, hospitals across the country suffered from dire shortages of PPE such as N95 respirator masks.  For a period of the shortage, the FDA issued an emergency use authorization for re-use of decontaminated N95 masks in the healthcare setting. However, a key research problem was how to verify each mask was individually verified to meet decontamination parameters of heat and moisture without impeding the workflow of mask decontamination.  Outcomes and FIndings: Our research demonstrates that N95 masks can be verifiably decontaminated in moist heat using ultra-low power, wireless sensors.  Our VeriMask system is an embedded system placed inside the N95 mask during decontamination of moist heat.  Because the system is wireless, no cumbersome wires were necessary as in previous designs that slowed the workflow.  The intellectual merit included discovery of system-level techniques within embedded systems to rapidly deploy wireless sensors in extremely hot environments where there is no wired power. The intellectual merit also includes innovation of how to effectively address many wireless sensors simultaneously within a metal enclosure of a moist heat oven.  The broader impact included helping society cope with the crisis of PPE shortage by giving confidence that the masks were decontaminated at the correct temperature and humidity to ensure destruction of potential COVID19 pathogens on the N95 mask.       Last Modified: 09/20/2021       Submitted by: Kevin Fu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

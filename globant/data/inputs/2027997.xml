@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Accelerated Testing for COVID-19 using Group Testing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>114612.00</AwardTotalIntnAmount>
+<AwardAmount>114612</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Scott Acton</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[COVID-19 has resulted in an unprecedented global health crisis that may become even more widespread over the upcoming months. Extensive and immediate testing of symptomatic and asymptomatic people is known to be important for implementing containment policies and to ensure that medical resources can be apportioned to different geographic regions appropriately. Individual testing can provide the necessary information; however, this requires enormous amounts of medical and human resources. This project will facilitate widespread testing for COVID-19 while using fewer tests. The main approach is based on the idea of pooling samples from multiple patients and performing tests on combined samples. If the result of a test is negative, one can conclude that no one in the pool is infected, and if the result is positive, then further fine-grained testing can be performed. Pooling-based testing, also known as group testing, can be very effective in reducing the number of tests required for both identifying infected people in a population and for obtaining coarse-grained population-level information about infection rates. In this project, effective group-testing schemes that minimize the total number of tests required and/or the total time taken to conduct tests will be designed, and their performance will be analyzed. &lt;br/&gt;&lt;br/&gt;In this project, group-testing schemes that do not require precise knowledge of the infection rates and multi-stage group-testing schemes will be designed and optimized. The trade-off between the number of tests required and the total time taken to complete testing will also be characterized. The robustness of group-testing schemes to correlation in the infection status among the tested population and to errors in the tests will be studied. Using mathematical tools from group testing and hypothesis testing, strategies for rapid classification of infection rates will also be designed and analyzed. Finally, a smart-phone application which guides laboratory technicians through the group-testing process will be developed. The focus will be on small pool sizes and population sizes. Successful completion of the proposed activities in this project will advance the state of the art in the field of group testing, and provide practical and efficient solutions for COVID-19 testing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027997</AwardID>
+<Investigator>
+<FirstName>Krishna</FirstName>
+<LastName>Narayanan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Krishna Narayanan</PI_FULL_NAME>
+<EmailAddress><![CDATA[krn@tamu.edu]]></EmailAddress>
+<NSF_ID>000388923</NSF_ID>
+<StartDate>04/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anoosheh</FirstName>
+<LastName>Heidarzadeh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anoosheh Heidarzadeh</PI_FULL_NAME>
+<EmailAddress><![CDATA[anoosheh@ieee.org]]></EmailAddress>
+<NSF_ID>000754518</NSF_ID>
+<StartDate>04/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>3124 TAMU</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>College Station</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433128</ZipCode>
+<StreetAddress><![CDATA[3128 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7797</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~114612</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>COVID-19 resulted in an unprecedented global health crisis and has taught us several important lessons for effectively managing a pandemic. Extensive and rapid testing of symptomatic and asymptomatic people has been a critical component in effectively containing the spread of the virus. While individual testing (using one test kit per person) is common practice, it is very resource-intensive.&nbsp;Indeed, at several phases of the pandemic, testing kits/human resources could be in short supply and it may be unaffordable in several parts of the world. Group testing or pooled testing has been recognized to be an effective approach to increasing the efficiency of testing by decreasing the number of test kits required per person. Group testing is based on the idea of pooling samples from multiple patients and performing tests on combined samples. If the result of a test is negative, we can conclude that no one in the pool is infected, and if the result is positive, then further fine-grained testing can be performed. Group testing (also known as pooled testing) can be very effective in reducing the number of tests required for both identifying infected people in a population and for obtaining coarse-grained population-level information about infection rates. The goal of this project was to design effective group testing schemes that minimize the total number of tests required and/or the total time taken to conduct tests and to theoretically analyze their performance.&nbsp;This focus of the project was on the design of group testing schemes and on analyzing their performance through mathematical analysis and computer simulations. No experiments were conducted.<br /><br />The main outcomes from the project were novel two-stage adaptive group testing strategies that take into account soft information that is available from real-time reverse transcription quantitative polymerase chain reaction (RT-qPCR) test kits that are typically used for COVID-19 detection. The proposed schemes leverage one round of feedback based on the test results in the first stage of testing, and optimize the number and the design of the tests that need to be carried out in the second stage of testing.&nbsp;In addition, we proposed novel recovery algorithms for noisy group testing where the test results are not always accurate. The proposed algorithms can achieve higher success probability, lower false-negative rate and lower false-positive rate, when compared to commonly-used recovery algorithms. We also developed a statistical model for contact tracing, and designed new recovery algorithms for noisy group testing. The proposed algorithms take into account the prevalence rate and the interaction model between the individuals, and outperform the existing schemes for noisy group testing in terms of the success probability, false-negative rate and false-positive rate.&nbsp;<br /><br />Several activities aimed at broad dissemination of research results and educating a broad section of the population on group testing were undertaken. One research paper has been published and another research paper is currently under review. Our research results were presented at several venues including a conference and workshops. The investigators organized a weekly online seminar series where researchers around the world presented their latest research results on group testing for COVID detection. The investigators presented their results at the Texas A&amp;M University Physics and Engineering festival aimed at educating the general public.One graduate student has been trained in group testing and two high school students were trained in the basics of group testing and optimization.While the focus of this project was on group testing for COVID detection, the results from the project apply more broadly.This has led to a new collaboration between engineers and a microbiologist who are investigating the applicability of sophisticated group testing principles for food safety.</p><br> <p>            Last Modified: 03/07/2022<br>      Modified by: Krishna&nbsp;Narayanan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ COVID-19 resulted in an unprecedented global health crisis and has taught us several important lessons for effectively managing a pandemic. Extensive and rapid testing of symptomatic and asymptomatic people has been a critical component in effectively containing the spread of the virus. While individual testing (using one test kit per person) is common practice, it is very resource-intensive. Indeed, at several phases of the pandemic, testing kits/human resources could be in short supply and it may be unaffordable in several parts of the world. Group testing or pooled testing has been recognized to be an effective approach to increasing the efficiency of testing by decreasing the number of test kits required per person. Group testing is based on the idea of pooling samples from multiple patients and performing tests on combined samples. If the result of a test is negative, we can conclude that no one in the pool is infected, and if the result is positive, then further fine-grained testing can be performed. Group testing (also known as pooled testing) can be very effective in reducing the number of tests required for both identifying infected people in a population and for obtaining coarse-grained population-level information about infection rates. The goal of this project was to design effective group testing schemes that minimize the total number of tests required and/or the total time taken to conduct tests and to theoretically analyze their performance. This focus of the project was on the design of group testing schemes and on analyzing their performance through mathematical analysis and computer simulations. No experiments were conducted.  The main outcomes from the project were novel two-stage adaptive group testing strategies that take into account soft information that is available from real-time reverse transcription quantitative polymerase chain reaction (RT-qPCR) test kits that are typically used for COVID-19 detection. The proposed schemes leverage one round of feedback based on the test results in the first stage of testing, and optimize the number and the design of the tests that need to be carried out in the second stage of testing. In addition, we proposed novel recovery algorithms for noisy group testing where the test results are not always accurate. The proposed algorithms can achieve higher success probability, lower false-negative rate and lower false-positive rate, when compared to commonly-used recovery algorithms. We also developed a statistical model for contact tracing, and designed new recovery algorithms for noisy group testing. The proposed algorithms take into account the prevalence rate and the interaction model between the individuals, and outperform the existing schemes for noisy group testing in terms of the success probability, false-negative rate and false-positive rate.   Several activities aimed at broad dissemination of research results and educating a broad section of the population on group testing were undertaken. One research paper has been published and another research paper is currently under review. Our research results were presented at several venues including a conference and workshops. The investigators organized a weekly online seminar series where researchers around the world presented their latest research results on group testing for COVID detection. The investigators presented their results at the Texas A&amp;M University Physics and Engineering festival aimed at educating the general public.One graduate student has been trained in group testing and two high school students were trained in the basics of group testing and optimization.While the focus of this project was on group testing for COVID detection, the results from the project apply more broadly.This has led to a new collaboration between engineers and a microbiologist who are investigating the applicability of sophisticated group testing principles for food safety.       Last Modified: 03/07/2022       Submitted by: Krishna Narayanan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

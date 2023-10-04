@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Rapid and Point-of-Care Electrical Detection of COVID-19 RNA]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>80000.00</AwardTotalIntnAmount>
+<AwardAmount>80000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+<PO_EMAI>uvarshne@nsf.gov</PO_EMAI>
+<PO_PHON>7032925385</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The current pandemic of Coronavirus (COVID-19) and its reoccurrence is a great threat to public health, the economy, and national security. To cope with this emergency, there is a need for a testing method that is rapid, accurate, and deployable in the field (doctor’s offices, hospitals, airports, etc.) at a large scale. Typically, a COVID-19 test takes several hours day as it involves sending the patient’s sample to a limited number of certified labs or the Centers for Disease Control and Prevention (CDC).  In addition, it is extremely alarming that the current capacity of COVID-19 testing is significantly lower than the desired capacity. To address this situation, this project proposes a transformative detection technique that enables rapid, portable, and direct electrical detection of COVID-19 RNA in less than ten minutes on a silicon chip test kit smaller than the size of an average human thumb with high sensitivity and specificity. These silicon chip test kits can be cost-effectively mass-produced using standard well-established CMOS technology. The success of this RAPID RAPID project will have a transformative impact in the present COVID-19 pandemic environment not only in U.S. but also globally.&lt;br/&gt;&lt;br/&gt;The proposed technique offers detection of single COVID-19 RNA molecules directly and electrically in less than 10 minutes on a one square centimeter Si chip. A specific sequence T-oligo of 30-mer COVID-19 RNA will be used as the target molecule.  Numerous single T-oligo molecules will be sandwiched between two Au functionalized metal nanoparticles. One metal nanoparticle will be in contact with a negative electrode and the other metal nanoparticle with a positive electrode, providing electrical paths between the two electrodes. A voltage bias between the two electrodes will produce an electrical current, thereby enabling direct electrical detection of single T-oligo molecule. This direct electrical detection of COVID-19 RNA will occur in a circular nanowell of ~100 nm diameter, which acts as an independent COVID-19 RNA detector. One COVID-19 test kit of one square centimeter will be made to accommodate two and half billion nanowell COVID-19 detectors. This enormous number of detectors on a single test kit enables a highly sensitive and rapid detection of single COVID-19 RNA molecules. Furthermore, RNA detection has been relying on time-consuming technique of reverse transcription polymerase chain reaction (RT-PCR).  In the proposed approach single target RNA molecules will be directly detected without reverse transcription and PCR amplification reaction there by expending the test results with more sensitivity and specificity. The technique will have extended applications in other infectious diseases, fundamental biomedical research, pharmaceutical drug development, and early disease diagnosis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031770</AwardID>
+<Investigator>
+<FirstName>Seong Jin</FirstName>
+<LastName>Koh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Seong Jin Koh</PI_FULL_NAME>
+<EmailAddress><![CDATA[skoh@uta.edu]]></EmailAddress>
+<NSF_ID>000302206</NSF_ID>
+<StartDate>05/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Arlington</Name>
+<CityName>ARLINGTON</CityName>
+<ZipCode>760199800</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress>701 S. NEDDERMAN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMLUKUPJJ9N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF TEXAS AT ARLINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Arlington]]></Name>
+<CityName/>
+<StateCode>TX</StateCode>
+<ZipCode>760190145</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>108E</Code>
+<Text>Bioelectronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~80000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong><span style="text-decoration: underline;">Intellectual Merit</span></strong></p> <p>A method that can enable a rapid, portable, and inexpensive detection of specific pathogens, such as COVID-19, will play an important role in public health, economic stability, and the national security. Currently, the gold standard for detecting COVID-19 is the reverse transcription polymerase chain reaction (RT-PCR), which is time consuming (&gt; 1 hour) and expensive. It also requires trained personnel and lab space. This project has investigated a new method that enables a fast, portable, and inexpensive detection of COVID-19. In our approach, target oligonucleotides (<em>T</em>-oligos) having a COVID-19 sequence are sandwiched between two different types of Au nanoparticles, 50 nm capture Au nanoparticle (<em>C</em>-AuNP) and 30 nm detection Au nanoparticle (<em>D</em>-AuNP). On the <em>C</em>-AuNP and <em>D</em>-AuNP surfaces, capture DNA (<em>C</em>-DNA) and detection DNA (<em>D</em>-DNA) is immobilized, respectively. The sequence of the <em>C</em>-DNA is made complementary to a portion of COVID-19 <em>T</em>-oligo, and the sequence of the <em>D</em>-DNA complementary to the other portion of <em>T</em>-oligo, enabling a specific capture of COVID-19 <em>T</em>-oligos and producing core-satellite nanoparticle conjugates (COVID-19 <em>T</em>-oligo is sandwiched between <em>C</em>-AuNP and <em>D</em>-AuNP). The core-satellite nanostructures are then detected optically or electrically. This approach has enabled a rapid detection of COVID-19 <em>T</em>-oligos, with a total hybridization time only 3 minutes (2-minute hybridization to capture <em>T</em>-oligos by <em>C</em>-AuNPs and 1 minute of <em>T</em>-Oligo/<em>D</em>-AuNP hybridization to form the core-satellite nanostructures). Even including other miscellaneous times (e.g., time for rinsing), our method enables detection of COVID-19 <em>T</em>-oligos in less than 5 minutes. The detection sensitivity of our method is as high as 500 fM; the core-satellite nanostructures can be formed in 3-minute total hybridization time at 500 fM <em>T</em>-oligo concentration. We have also demonstrated that the formed core-satellite nanostructures can be readily identified by UV-VIS spectroscopy, in which the core-satellite nanostructures produce a plasmon resonance peak at ~620 nm. Importantly, our detection of COVID-19 <em>T</em>-oligos is carried out on a very small substrate (6 mm by 9 mm), enabling pathogen detection in the field (e.g., doctor?s office, airport, battlefield). Our detection units are fabricated using widely available microelectronics fabrication technology, allowing mass productions at a very little cost. Our method has a potential to be used as a rapid and inexpensive initial screening of various pathogens in the field.</p> <p><strong><span style="text-decoration: underline;">Broader Impacts</span></strong></p> <p>The public health, our economy, and the national security critically depend on well-trained and creative work forces in science and engineering fields. This project has provided graduate and undergraduate students excellent opportunities to develop their technical skills and broaden their knowledge, shaping them as creative scientists and engineers who can lead future innovations. This project has enabled training of two PhD students, three master students, and two undergraduate students. Healthy and diversified workforce would be an important element for global leadership in science and engineering. Aiming for creating diversified scientific leadership, this project has provided trainings for students in the underrepresented minority (URM) group. One URM PhD student and two URM undergraduate students have been trained throughout this project. The research outcomes that this project produced can contribute to preparing for future pandemics. The ability to detect a specific sequence of oligonucleotides in a short time (&lt;5 minutes) in the field and inexpensively produce the detection units on a large scale can contribute to protecting people in health crises, protecting the economy, and ensuring the national security.</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/30/2023<br>      Modified by: Seong Jin&nbsp;Koh</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Intellectual Merit  A method that can enable a rapid, portable, and inexpensive detection of specific pathogens, such as COVID-19, will play an important role in public health, economic stability, and the national security. Currently, the gold standard for detecting COVID-19 is the reverse transcription polymerase chain reaction (RT-PCR), which is time consuming (&gt; 1 hour) and expensive. It also requires trained personnel and lab space. This project has investigated a new method that enables a fast, portable, and inexpensive detection of COVID-19. In our approach, target oligonucleotides (T-oligos) having a COVID-19 sequence are sandwiched between two different types of Au nanoparticles, 50 nm capture Au nanoparticle (C-AuNP) and 30 nm detection Au nanoparticle (D-AuNP). On the C-AuNP and D-AuNP surfaces, capture DNA (C-DNA) and detection DNA (D-DNA) is immobilized, respectively. The sequence of the C-DNA is made complementary to a portion of COVID-19 T-oligo, and the sequence of the D-DNA complementary to the other portion of T-oligo, enabling a specific capture of COVID-19 T-oligos and producing core-satellite nanoparticle conjugates (COVID-19 T-oligo is sandwiched between C-AuNP and D-AuNP). The core-satellite nanostructures are then detected optically or electrically. This approach has enabled a rapid detection of COVID-19 T-oligos, with a total hybridization time only 3 minutes (2-minute hybridization to capture T-oligos by C-AuNPs and 1 minute of T-Oligo/D-AuNP hybridization to form the core-satellite nanostructures). Even including other miscellaneous times (e.g., time for rinsing), our method enables detection of COVID-19 T-oligos in less than 5 minutes. The detection sensitivity of our method is as high as 500 fM; the core-satellite nanostructures can be formed in 3-minute total hybridization time at 500 fM T-oligo concentration. We have also demonstrated that the formed core-satellite nanostructures can be readily identified by UV-VIS spectroscopy, in which the core-satellite nanostructures produce a plasmon resonance peak at ~620 nm. Importantly, our detection of COVID-19 T-oligos is carried out on a very small substrate (6 mm by 9 mm), enabling pathogen detection in the field (e.g., doctor?s office, airport, battlefield). Our detection units are fabricated using widely available microelectronics fabrication technology, allowing mass productions at a very little cost. Our method has a potential to be used as a rapid and inexpensive initial screening of various pathogens in the field.  Broader Impacts  The public health, our economy, and the national security critically depend on well-trained and creative work forces in science and engineering fields. This project has provided graduate and undergraduate students excellent opportunities to develop their technical skills and broaden their knowledge, shaping them as creative scientists and engineers who can lead future innovations. This project has enabled training of two PhD students, three master students, and two undergraduate students. Healthy and diversified workforce would be an important element for global leadership in science and engineering. Aiming for creating diversified scientific leadership, this project has provided trainings for students in the underrepresented minority (URM) group. One URM PhD student and two URM undergraduate students have been trained throughout this project. The research outcomes that this project produced can contribute to preparing for future pandemics. The ability to detect a specific sequence of oligonucleotides in a short time (&lt;5 minutes) in the field and inexpensively produce the detection units on a large scale can contribute to protecting people in health crises, protecting the economy, and ensuring the national security.          Last Modified: 03/30/2023       Submitted by: Seong Jin Koh]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

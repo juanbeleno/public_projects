@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Low Earth Orbit Navigation System (LEONS) - The Ground Network]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255979.00</AwardTotalIntnAmount>
+<AwardAmount>275979</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to make critical United States infrastructure less dependent on the Global Positioning System (GPS). The transportation industry, power grid, banking operations, and communication systems are all interconnected and heavily rely on GPS for accurate and reliable positioning or time synchronization. This project addresses this single point of failure by providing accurate positioning and timing, completely independent of GPS. Additionally, the emerging autonomous vehicle market requires a more reliable positioning, navigation, and timing (PNT) system than GPS can provide alone for the market to reach full potential. Addressing the known pain points of GPS signal jamming and spoofing will improve vehicle safety and consumer confidence in autonomous applications ranging from self-driving cars, and package delivery drones, to autonomous search and rescue. This impact will increase sales for autonomous vehicle manufactures and supporting technology companies, such as sensor, battery, and computer chip manufacturers.  &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project studies the feasibility of using a network of ground stations to receive low Earth orbit (LEO) satellite signals that were never designed for PNT and convert them into PNT-usable signals. Thousands of LEO satellites are being launched into space for internet and communication. However, unlike the GPS signal structure designed for extraction of PNT measurements, the signal structure transmitted from communication and internet LEO satellites was never intended for PNT. GPS satellites transmit accurate satellite ephemeris, atmospheric, and clock information to the GPS receiver, whereas this information is typically unavailable for LEO satellites. This project proposes to deploy a ground network to determine this information from LEO satellite signals and make this information available for PNT purposes. To this end, this project involves the following research thrusts: 1) find the optimal geometric distribution of the ground stations to minimize LEO satellite ephemeris, clock, and atmospheric errors, 2) develop special signal processing and estimation theory techniques to extract accurate PNT measurements from existing and future LEO satellite signals for free (without a subscription to their network), and 3) derive theoretical limits on PNT estimation errors when using the ground network’s produced information.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/17/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2054113</AwardID>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Morales</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joshua J Morales</PI_FULL_NAME>
+<EmailAddress><![CDATA[joshua.morales@starnav.io]]></EmailAddress>
+<NSF_ID>000822900</NSF_ID>
+<StartDate>11/17/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>STARNAV LLC</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925010937</ZipCode>
+<PhoneNumber>9512505397</PhoneNumber>
+<StreetAddress>3600 LIME ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 725]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>39</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA39</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FYQCMBJ2HG93</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>STARNAV LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[STARNAV LLC]]></Name>
+<CityName>Colton</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>923246217</ZipCode>
+<StreetAddress><![CDATA[1857 Runaway Circle]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>33</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA33</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1218</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~275979</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this project, the use of communication signals transmitted from&nbsp;low Earth orbit (LEO) satellites were investigated as a backup to traditional Global Positioning System (GPS) signals for safety critical applications. The United States Department of Homeland Security has identified that 13 of the 16 major infrastructures in the U.S. are critically dependent on GPS. These infrastructures include the power grid and banking system. When GPS is inevitably disrupted, not only will vehicles lose their ability to navigate, but these major infrastructures will experience failures due to a loss of time synchronization.</p> <p>Signals transmitted from LEO communication satellites are abundant and usable during GPS disruptions. With a specially designed system they can be used for positioning and timing. SpaceX, Iridium, Globalstar, and Orbcomm are just a few examples of companies launching communication LEO satellites into space, which are collectively transmitting 1000's of signals towards the Earth. However, these signals were never intended to be used for positioning nor timing, like GPS signals were. StarNav is developing a system that uses them as if they were GPS signals to enhance the safety and reliability of vehicle navigation and critical systems. To this end, LEO satellite signal availability, vehicle positioning and timing accuracy expectations, and practical design considerations were investigated. Additionally, a detailed market analysis was conducted. The following are the key outcomes of this study.</p> <ul> <li>Through over 100 customer discovery interviews, a beachhead product fit for this technology has been identified within the aerial vehicle market. This market is seeing tremendous growth and is expected to see double digit market growth over the next 5 years.</li> <li>The number of unique LEO satellites available at any point on Earth is comparable or larger than the number of signals available from GPS. This includes polar regions and areas near the equator. This means that a user of this technology would expect to see better signal reception when traversing areas that are typically difficult to receive GPS signals.</li> <li>Vehicle positioning accuracy between 4 and 12 meters can be achieved, during complete GPS outages, when Globalstar, Iridium, and Orbcomm satellite signals are simultaneously used for positioning. This level of accuracy is high enough for consumers navigating via an application like Google Maps, which utilizes road snapping algorithms. Centimeter-level accuracy is demanded by autonomous applications, such as future self-driving cars. This level of accuracy is typically achieved using a suite of other sensors blended with GPS. Given that using LEO satellite signals provides comparable accuracy to GPS when it is used in a standalone fashion, it is inferred that LEO satellite signals could be blended with other sensors to maintain the centimeter-level accuracy requirements of future autonomous vehicles. If GPS becomes unavailable, the LEO satellite signals could still be used in the place of GPS. At the very least, LEO satellite signals provide system redundancy in the positioning system, which will enhance the integrity of the navigation system.</li> <li>Infrastructure needs to be deployed to support a LEO satellite-based positioning and timing system. The infrastructure was found to be sustainable from a business cost and energy usage standpoint. Through a detailed power requirement analysis, it is determined that any deployed infrastructure could easily be powered by solar panels, with batteries for nighttime holdover. </li> <li>Receiver proofs-of-concepts were developed and tested to process signals from multiple LEO satellite constellations. These designs have been packed into utility patents, submitted to the United States Patent Trademark Office.</li> </ul> <p>&nbsp;</p><br> <p>            Last Modified: 12/16/2022<br>      Modified by: Joshua&nbsp;J&nbsp;Morales</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ In this project, the use of communication signals transmitted from low Earth orbit (LEO) satellites were investigated as a backup to traditional Global Positioning System (GPS) signals for safety critical applications. The United States Department of Homeland Security has identified that 13 of the 16 major infrastructures in the U.S. are critically dependent on GPS. These infrastructures include the power grid and banking system. When GPS is inevitably disrupted, not only will vehicles lose their ability to navigate, but these major infrastructures will experience failures due to a loss of time synchronization.  Signals transmitted from LEO communication satellites are abundant and usable during GPS disruptions. With a specially designed system they can be used for positioning and timing. SpaceX, Iridium, Globalstar, and Orbcomm are just a few examples of companies launching communication LEO satellites into space, which are collectively transmitting 1000's of signals towards the Earth. However, these signals were never intended to be used for positioning nor timing, like GPS signals were. StarNav is developing a system that uses them as if they were GPS signals to enhance the safety and reliability of vehicle navigation and critical systems. To this end, LEO satellite signal availability, vehicle positioning and timing accuracy expectations, and practical design considerations were investigated. Additionally, a detailed market analysis was conducted. The following are the key outcomes of this study.  Through over 100 customer discovery interviews, a beachhead product fit for this technology has been identified within the aerial vehicle market. This market is seeing tremendous growth and is expected to see double digit market growth over the next 5 years. The number of unique LEO satellites available at any point on Earth is comparable or larger than the number of signals available from GPS. This includes polar regions and areas near the equator. This means that a user of this technology would expect to see better signal reception when traversing areas that are typically difficult to receive GPS signals. Vehicle positioning accuracy between 4 and 12 meters can be achieved, during complete GPS outages, when Globalstar, Iridium, and Orbcomm satellite signals are simultaneously used for positioning. This level of accuracy is high enough for consumers navigating via an application like Google Maps, which utilizes road snapping algorithms. Centimeter-level accuracy is demanded by autonomous applications, such as future self-driving cars. This level of accuracy is typically achieved using a suite of other sensors blended with GPS. Given that using LEO satellite signals provides comparable accuracy to GPS when it is used in a standalone fashion, it is inferred that LEO satellite signals could be blended with other sensors to maintain the centimeter-level accuracy requirements of future autonomous vehicles. If GPS becomes unavailable, the LEO satellite signals could still be used in the place of GPS. At the very least, LEO satellite signals provide system redundancy in the positioning system, which will enhance the integrity of the navigation system. Infrastructure needs to be deployed to support a LEO satellite-based positioning and timing system. The infrastructure was found to be sustainable from a business cost and energy usage standpoint. Through a detailed power requirement analysis, it is determined that any deployed infrastructure could easily be powered by solar panels, with batteries for nighttime holdover.  Receiver proofs-of-concepts were developed and tested to process signals from multiple LEO satellite constellations. These designs have been packed into utility patents, submitted to the United States Patent Trademark Office.           Last Modified: 12/16/2022       Submitted by: Joshua J Morales]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

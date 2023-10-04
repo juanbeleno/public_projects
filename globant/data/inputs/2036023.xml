@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  An innovative calibration software to suppress torque ripple and improve performance of electric motors.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255238.00</AwardTotalIntnAmount>
+<AwardAmount>255238</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to improve the market by developing a software solution to intrinsic electric motors’ hardware problems. Inexpensive Brushless Direct Current (BLDC) motors have electromagnetic flaws that limit their adoption in industrial and service robotic applications. These industries require precise positioning, advanced trajectory control, and smooth operation which require high-end motors that minimize electromagnetic flaws using high-quality materials and complex hardware designs. Unfortunately, this increases production costs, making them prohibitively expensive for many applications. The proposed solution will make electric motors extremely precise, efficient, and easily controllable while keeping manufacturing costs low. The combination of low-cost hardware and performance-enhancing calibration software will bring high-end motor performance to a wide range of industries, which may be able to improve the performance of their devices while saving up to 90% on motor costs. The first target will be the Robotic Market, expected to reach $158 billion by 2025, in particular the drone and industrial segments, where many manufacturers must balance cost and performance. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project seeks to prove the technical feasibility of a new calibration approach to solving electromagnetic and hardware flaws in brushless direct current (BLDC) motors. The technology is based on 1) embedded position sensors in the motor to collect the position-dependent parameters necessary to generate maps of motors’ electromagnetic flaws; 2) proprietary algorithms that map cogging and mutual torque to vary the input voltage/current, eliminating the negative impact of the respective torque ripple; 3) encoder error correction to eliminate the discrepancies between the true and the measured angular positions of the motor magnets, improving motor calibration and position control. The research activities in this project may result in the generation and validation of a minimum viable calibration process that integrates all the described components. The ability of the calibration software to minimize the impact of the inherent electromagnetic flaws in low-end BLDC motors and enhance performance will be assessed together with the feasibility of generating an innovative hardware motor configuration specifically designed to reduce manufacturing costs. The successful outcome of this project will demonstrate the commercial feasibility of the calibration software.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036023</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Piccoli</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew Piccoli</PI_FULL_NAME>
+<EmailAddress><![CDATA[SBIR_PI@iq-control.com]]></EmailAddress>
+<NSF_ID>000817021</NSF_ID>
+<StartDate>12/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>IQInetics Technologies Inc.</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191462701</ZipCode>
+<PhoneNumber>9733499234</PhoneNumber>
+<StreetAddress>3401 GRAYS FERRY AVE</StreetAddress>
+<StreetAddress2><![CDATA[BLDG 197]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ENEEPNQ1JRE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IQINETICS TECHNOLOGIES INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[IQinetics Technologies LLC]]></Name>
+<CityName>Philadelphia</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191462701</ZipCode>
+<StreetAddress><![CDATA[3401 Grays Ferry Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255238</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Project Outcomes Report</strong></p> <p><strong>&nbsp;</strong></p> <p class="Body">Brushless Direct Current (BLDC) motors are commonly used in robotic and industrial applications. IQ Motion Control (IQ) is developing the first calibration software to fully compensate for the intrinsic electromagnetic and hardware flaws that hinder the performance of BLDC motors. Torque ripple and errors in the motor position registered by encoders cause vibration, poor responsiveness, noise, imprecise positioning, and high-power consumption, which limit the effectiveness of BLDC motors in the robotics industry. Thanks to its proprietary algorithms, IQ can eliminate these deficiencies and optimize motor performance.</p> <p class="Body">This Small Business Innovation Research Phase I project proved the technical feasibility of a new calibration approach to solve electromagnetic and hardware flaws in BLDC motors. IQ's disruptive technology is based on 1) an embedded position sensor in the motor used to collect the position-dependent parameters necessary to generate maps of motors? electromagnetic flaws; 2) proprietary algorithms that map cogging and mutual torque to vary the input voltage/current, eliminating the negative impact of the respective torque ripple; 3) encoder error correction to eliminate the discrepancy between the true and the measured angular position of the motor magnet, improving motor calibration and position control. The research activities in this project resulted in the generation and validation of a minimum viable calibration process that integrates all the described components of calibration. IQ demonstrated its ability to minimize the impact of the inherent electromagnetic flaws in inexpensive, low-end BLDC motors and proved that these low-end motors can significantly outperform expensive, high-end alternatives when utilizing IQ's technology. In addition, IQ validated the feasibility of generating novel motor configurations specifically designed to reduce manufacturing costs and use IQ's calibration software to achieve optimal performance.</p> <p class="Body">The completion of this SBIR project will revolutionize the electric motor market and give the U.S. a competitive advantage in motor manufacturing. The electromagnetic flaws in inexpensive BLDC motors have limited their broader adoption in expanding areas such as industrial and mobile robotic applications. These industries require high efficiency, precise positioning, advanced trajectory control, and smooth operation. To date, such characteristics could only be achieved with high-end motors, which attempt to minimize electromagnetic flaws by using high-quality materials and complex hardware designs. These motors and the controllers that pair with the motors can be prohibitively expensive for robotics companies. By developing a software solution to an intrinsic hardware problem, IQ will make electric motors extremely smooth, precise, efficient, responsive, and easily controllable while keeping manufacturing costs low. The innovation will allow for the broad adoption of optimal motor performance and advanced motor control in the robotics industry.</p> <p class="Body">&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/01/2022<br>      Modified by: Matthew&nbsp;Piccoli</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Project Outcomes Report    Brushless Direct Current (BLDC) motors are commonly used in robotic and industrial applications. IQ Motion Control (IQ) is developing the first calibration software to fully compensate for the intrinsic electromagnetic and hardware flaws that hinder the performance of BLDC motors. Torque ripple and errors in the motor position registered by encoders cause vibration, poor responsiveness, noise, imprecise positioning, and high-power consumption, which limit the effectiveness of BLDC motors in the robotics industry. Thanks to its proprietary algorithms, IQ can eliminate these deficiencies and optimize motor performance. This Small Business Innovation Research Phase I project proved the technical feasibility of a new calibration approach to solve electromagnetic and hardware flaws in BLDC motors. IQ's disruptive technology is based on 1) an embedded position sensor in the motor used to collect the position-dependent parameters necessary to generate maps of motors? electromagnetic flaws; 2) proprietary algorithms that map cogging and mutual torque to vary the input voltage/current, eliminating the negative impact of the respective torque ripple; 3) encoder error correction to eliminate the discrepancy between the true and the measured angular position of the motor magnet, improving motor calibration and position control. The research activities in this project resulted in the generation and validation of a minimum viable calibration process that integrates all the described components of calibration. IQ demonstrated its ability to minimize the impact of the inherent electromagnetic flaws in inexpensive, low-end BLDC motors and proved that these low-end motors can significantly outperform expensive, high-end alternatives when utilizing IQ's technology. In addition, IQ validated the feasibility of generating novel motor configurations specifically designed to reduce manufacturing costs and use IQ's calibration software to achieve optimal performance. The completion of this SBIR project will revolutionize the electric motor market and give the U.S. a competitive advantage in motor manufacturing. The electromagnetic flaws in inexpensive BLDC motors have limited their broader adoption in expanding areas such as industrial and mobile robotic applications. These industries require high efficiency, precise positioning, advanced trajectory control, and smooth operation. To date, such characteristics could only be achieved with high-end motors, which attempt to minimize electromagnetic flaws by using high-quality materials and complex hardware designs. These motors and the controllers that pair with the motors can be prohibitively expensive for robotics companies. By developing a software solution to an intrinsic hardware problem, IQ will make electric motors extremely smooth, precise, efficient, responsive, and easily controllable while keeping manufacturing costs low. The innovation will allow for the broad adoption of optimal motor performance and advanced motor control in the robotics industry.               Last Modified: 03/01/2022       Submitted by: Matthew Piccoli]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

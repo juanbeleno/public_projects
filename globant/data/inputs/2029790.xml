@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Developing Social Differentiation-respecting Disease Transmission Models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>174891.00</AwardTotalIntnAmount>
+<AwardAmount>174891</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Whitmeyer</SignBlockName>
+<PO_EMAI>jwhitmey@nsf.gov</PO_EMAI>
+<PO_PHON>7032927808</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In this project, transmission models that account for differences in social networks and exposure opportunities are developed to gain insight into the unequal spread of COVID-19 across populations.  Some areas have experienced slow to no spread of COVID-19 while other settings have been overwhelmed.  Within high-volume locations, some neighborhoods have been at much greater risk than others.  To account for this uneven spread, these models incorporate population differences related to social density and sociodemographic characteristics—features that shape disease exposure and ability to social distance.  These models augment general understanding of how social situation affects both disease risk and the cost of disease mitigation efforts, which will allow decisionmakers to evaluate the relative costs of different health-preserving interventions and, potentially, optimize interventions that minimize economic harm while maximizing physical safety.&lt;br/&gt;&lt;br/&gt;This project aims to have accurate, flexible and scalable models for disease transmission that can account for observed social differentiation in disease spread.  Simulation models are employed to meet this goal, drawing on best estimates from the COVID-19 pandemic for disease-specific infection parameters and rates of transitioning into hospitalization, death, or recovery.  Modeling occurs on two levels: Agent-Based Models (ABMs) and small-area cell-based simulation models.  ABMs are constructed from social network data and allow for maximum flexibility, being tunable to different types of populations, ranging from rural communities in developing nations to dense urban centers.  Small-area (census block group) cell-based simulation models, which translate network structure to interaction probabilities based on demographic and economic similarity profiles, include population differentiation but scale to the national level.  These two modeling strategies complement each other and can be used to evaluate different mitigation strategies for both health effectiveness (lives saved) and economic hardship.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029790</AwardID>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Keister</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lisa A Keister</PI_FULL_NAME>
+<EmailAddress><![CDATA[lkeister@duke.edu]]></EmailAddress>
+<NSF_ID>000214080</NSF_ID>
+<StartDate>06/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Moody</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James W Moody</PI_FULL_NAME>
+<EmailAddress><![CDATA[jmoody77@soc.duke.edu]]></EmailAddress>
+<NSF_ID>000414686</NSF_ID>
+<StartDate>06/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dana</FirstName>
+<LastName>Pasquale</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dana K Pasquale</PI_FULL_NAME>
+<EmailAddress><![CDATA[dana.pasquale@duke.edu]]></EmailAddress>
+<NSF_ID>000821973</NSF_ID>
+<StartDate>06/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>Durham</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054677</ZipCode>
+<StreetAddress><![CDATA[2020 W. Main Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1331</Code>
+<Text>Sociology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~174891</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our project sought to help understand social disparities in disease transmission and develop simulation tools to help interrogate the sources of such disparities.&nbsp; We used data on US City transportation networks and village level interpersonal data to simulate the spread of disease across close contacts. Much of the work was invested in tool development that is still ongoing. But, our extant models show two substantively interesting findings.&nbsp; First, simulation models of vaccine uptake and mask wearing show a critical tipping point for each behavior such that if sufficient numbers of people adopt then everyone is protected.&nbsp; Importantly, this tipping point exists for almost any assumption about how effective each mitigation modality is.&nbsp; Though since we can rarely know for any given situation (in real time) how effective each is, the presence of a sharp tipping point suggests that policy should strive for maximal compliance to protect the most people.&nbsp; Second, the village level data showed clearly that while people tried to comply with mandates to moderate contact and thus mitigate disease-relevant behavior, social and economic constraints limited flexibility. Substantively this means that policy needs to be cognizant of social and economic constraints that people face to maximize disease flow protection &nbsp;while minimizing family disruption. We are extending this work to build generalized tools for modeling disease flow and intervention on simulated populations. &nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/28/2023<br>      Modified by: James&nbsp;W&nbsp;Moody</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2029790/2029790_10674998_1693279563125_Surfaces_compiled_editedv3--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2029790/2029790_10674998_1693279563125_Surfaces_compiled_editedv3--rgov-800width.jpg" title="Sharp Threshold Effects of Epidemic Mitigation"><img src="/por/images/Reports/POR/2023/2029790/2029790_10674998_1693279563125_Surfaces_compiled_editedv3--rgov-66x44.jpg" alt="Sharp Threshold Effects of Epidemic Mitigation"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This figure shows the effect on population transmission given various levels of mask wearing and vaccination under different contact and effectiveness assumptions.</div> <div class="imageCredit">James Moody</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">James&nbsp;W&nbsp;Moody</div> <div class="imageTitle">Sharp Threshold Effects of Epidemic Mitigation</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Our project sought to help understand social disparities in disease transmission and develop simulation tools to help interrogate the sources of such disparities.  We used data on US City transportation networks and village level interpersonal data to simulate the spread of disease across close contacts. Much of the work was invested in tool development that is still ongoing. But, our extant models show two substantively interesting findings.  First, simulation models of vaccine uptake and mask wearing show a critical tipping point for each behavior such that if sufficient numbers of people adopt then everyone is protected.  Importantly, this tipping point exists for almost any assumption about how effective each mitigation modality is.  Though since we can rarely know for any given situation (in real time) how effective each is, the presence of a sharp tipping point suggests that policy should strive for maximal compliance to protect the most people.  Second, the village level data showed clearly that while people tried to comply with mandates to moderate contact and thus mitigate disease-relevant behavior, social and economic constraints limited flexibility. Substantively this means that policy needs to be cognizant of social and economic constraints that people face to maximize disease flow protection  while minimizing family disruption. We are extending this work to build generalized tools for modeling disease flow and intervention on simulated populations.            Last Modified: 08/28/2023       Submitted by: James W Moody]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

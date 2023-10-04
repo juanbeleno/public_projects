@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Approximate Causal Inference]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>391529.00</AwardTotalIntnAmount>
+<AwardAmount>391529</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vladimir Pavlovic</SignBlockName>
+<PO_EMAI>vpavlovi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928318</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Causality is central to scientific inquiry across the sciences. Without causal information, researchers cannot predict the effects of new interventions, estimate retrospective counterfactuals, and, perhaps more importantly, construct meaningful, in-depth explanations of the phenomenon under investigation. With the unprecedented accumulation of data, the challenge of finding meaningful explanations can be summarized under the rubric of "data-fusion" -- namely, deriving a causal interpretation from a combination of experimental and observational studies collected under disparate, non-exchangeable conditions (Bareinboim and Pearl, Proc. Natl. Acad. Sci. U.S.A, 2016). Despite all the recent progress, it is still non-trivial to apply state-of-the-art causal inference methods in many large-scale settings. In particular, the scientist's available knowledge does not always match what the theory expects, and the theory does not accept as input (and generate as output) more relaxed causal specifications. Given the completeness of the theory, these requirements cannot be strictly waived. In reality, however, some researchers continue to make their claims even when the required conditions are not met. There is an increasing recognition throughout the empirical disciplines that many of the scientific findings articulated today are too fragile, incapable of resisting to a more rigorous scrutiny or even being reproduced. The goal of this project is to bridge the gap between the conditions entailed by the theory (which, if followed, would generate robust and scientifically-grounded claims) and the knowledge available at the hands of the scientist. Specifically, the project seeks (1) to characterize the trade-off between the combination of data and background knowledge (scientific theories) available versus the strength of newly hypothesized causal explanations, and (2) to construct approximation schemes allowing inputs that are coarse and imprecise, while generating outputs that are still causally meaningful. The proposed research is expected to offer foundational grounding for most of the data science inferences made today, which will impact the practice of several data-intensive fields that are built on cause-and-effect relationships, including econometrics, education, bioinformatics, and medicine. The project also contains a significant educational component. Similar to the importance of physics and calculus in basic science education in the 20th century, causal inference will be a vital component of the curriculum of undergraduate studies in a modern, data-rich society. The project develops a new educational platform tailored to teaching causal inference concepts, principles, and tools to STEM students. The primary goal of this new platform is to move from acausal claims obtained from pervasive regression-based techniques, as well as vague and self-evident statements such as "association does not imply causation", and go towards a more fundamental understanding of the conditions necessary to support causal statements.&lt;br/&gt;&lt;br/&gt; The goal of this proposal is to develop a principled framework for approximations in causal inference. There are two possible approximation dimensions, one regarding the input and the other the output of a given problem instance. First, we will develop sufficient and necessary identification conditions to accept as input a model that is not fully specified (e.g., a causal DAG), but only a coarser description of the phenomenon is available. We will further develop effective procedures for determining whether a causal quantity can be approximated from a combination of observational and experimental datasets, given structural knowledge about the underlying data-generating process. The project will further leverage both results to design efficient learning algorithms under the relaxed assumption that the input is just partially specified and the output can be an approximation of the target causal distribution. Finally, we will consider the problem of learning causal explanations when multiple biased datasets are available, including when plagued with selection bias, confounding bias, and structural heterogeneity. The goal is to develop a general algorithmic theory of approximate causal inference that is capable of producing more robust, reproducible, and generalizable causal explanations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/19/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>05/23/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011497</AwardID>
+<Investigator>
+<FirstName>Elias</FirstName>
+<LastName>Bareinboim</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elias Bareinboim</PI_FULL_NAME>
+<EmailAddress><![CDATA[eb@cs.columbia.edu]]></EmailAddress>
+<NSF_ID>000717905</NSF_ID>
+<StartDate>12/19/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>202 LOW LIBRARY 535 W 116 ST MC</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F4N1QNPB95M4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276902</ZipCode>
+<StreetAddress><![CDATA[500 W 120th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~89246</FUND_OBLG>
+<FUND_OBLG>2020~101268</FUND_OBLG>
+<FUND_OBLG>2021~103328</FUND_OBLG>
+<FUND_OBLG>2022~97687</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-554d1d7a-7fff-4172-d00d-7c1e87d8ae88"> <p dir="ltr"><span>The primary goal of the project is to construct approximation schemes to allow inputs that are coarse and imprecise while still generating outputs that are causal and informative. In particular, this is achieved through the pursuit of different sub-goals. First, we derived new sufficient and necessary identification conditions to accept as input a model that is not fully specified (e.g., a causal DAG), but a coarser description of the available knowledge. Further, we develop new algorithms for determining whether a causal quantity can be approximated (e.g., bounded) from a combination of observational and experimental datasets, given structural knowledge about the underlying data-generating process. More broadly, our goal is to leverage these results to design efficient learning algorithms under the relaxed assumption that the input is just partially specified and the output can be an approximation of the target causal distribution.</span></p> <p dir="ltr"><span>Objective 1: Equivalence Class Causal Calculus:</span></p> <p dir="ltr"><span>When trying to understand a cause-and-effect system, in the past, we needed a complete picture of all the cause-and-effect relationships involved to decide identifiability and estimate the identifiable causal effects. In practice, the specific causal diagram is not always available to the researcher. Our team introduced a new approach using partial ancestral graphs (PAGs) to identify and estimate causal effects even without the full description of the system. We developed algorithms that enable one to determine whether specific causal effects are computable from purely observational data without fully specifying the causal DAG. This opens up new possibilities for understanding causality even without full knowledge of the system. This is part of the effort related to relaxing the input of the analysis.</span></p> <p dir="ltr"><span>Objective 2: Effect Identification in Cluster Causal Diagrams:</span></p> <p dir="ltr"><span>Real-world problems often involve a large number of variables and intricate relationships, making it challenging to analyze and understand them fully through the lens of causality. Our team tackled this problem by developing a new tool called cluster DAGs (C-DAGs). These graphical models allow us to break down high-dimensional data into simpler components without losing important cause-and-effect information. By doing so, we can still uncover causal relationships and estimate the effects of specific factors. This approach provides a way to analyze and make sense of high-dimensional systems, opening up new avenues for research and decision-making.</span></p> <p dir="ltr"><span>Objective 2: Counterfactual Transportability and Bounding:</span></p> <p dir="ltr"><span>Counterfactuals are a &ldquo;what-if&rdquo; type query that would enable algorithms to reflect on their decisions. Counterfactuals are an even harder quantity to obtain than interventional effects because they are never observed, whereas at least interventional effects can be in an experimental setting. However, in certain domains and environments, we may be able to accurately estimate counterfactuals. One may need to generalize this understanding across different domains to allow agents to counterfactually reason across different environments and changing conditions. We developed a method to determine the applicability of counterfactual knowledge from one environment to another, even when the underlying factors are different. This problem is known as counterfactual transportability. We further developed an algorithm framework for bounding any unidentifiable counterfactual query, which may be useful in a large variety of settings, where the causal DAG and available data are insufficient to uniquely identify the target counterfactual quantity. This breakthrough has implications for various fields, from improving AI algorithms to guiding decision-making in diverse domains.</span></p> <p dir="ltr"><span>Key Outcomes and Other Achievements</span></p> <p dir="ltr"><span>Our work has been recognized for its significance, with some of our papers being highlighted and others selected as the best paper from highly competitive AI and ML conferences. This recognition demonstrates the impact of our research and its potential to revolutionize the field of understanding complex systems. In conclusion, our project has achieved important milestones in unraveling the mysteries of causality even with limited causal knowledge. We developed ways to leverage incomplete data, or data from different domains, and represent the data in a more compact format, all of which enable us to advance our understanding of cause-and-effect relationships in real-world problems. These outcomes have the potential to impact various fields, from improving AI algorithms to making more informed decisions in areas like healthcare and social sciences. Ultimately, our work brings us closer to unraveling the intricate workings of the world around us and harnessing that causal knowledge for the benefit of society.</span></p> </span></p> <p>&nbsp;</p><br> <p>            Last Modified: 06/26/2023<br>      Modified by: Elias&nbsp;Bareinboim</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The primary goal of the project is to construct approximation schemes to allow inputs that are coarse and imprecise while still generating outputs that are causal and informative. In particular, this is achieved through the pursuit of different sub-goals. First, we derived new sufficient and necessary identification conditions to accept as input a model that is not fully specified (e.g., a causal DAG), but a coarser description of the available knowledge. Further, we develop new algorithms for determining whether a causal quantity can be approximated (e.g., bounded) from a combination of observational and experimental datasets, given structural knowledge about the underlying data-generating process. More broadly, our goal is to leverage these results to design efficient learning algorithms under the relaxed assumption that the input is just partially specified and the output can be an approximation of the target causal distribution. Objective 1: Equivalence Class Causal Calculus: When trying to understand a cause-and-effect system, in the past, we needed a complete picture of all the cause-and-effect relationships involved to decide identifiability and estimate the identifiable causal effects. In practice, the specific causal diagram is not always available to the researcher. Our team introduced a new approach using partial ancestral graphs (PAGs) to identify and estimate causal effects even without the full description of the system. We developed algorithms that enable one to determine whether specific causal effects are computable from purely observational data without fully specifying the causal DAG. This opens up new possibilities for understanding causality even without full knowledge of the system. This is part of the effort related to relaxing the input of the analysis. Objective 2: Effect Identification in Cluster Causal Diagrams: Real-world problems often involve a large number of variables and intricate relationships, making it challenging to analyze and understand them fully through the lens of causality. Our team tackled this problem by developing a new tool called cluster DAGs (C-DAGs). These graphical models allow us to break down high-dimensional data into simpler components without losing important cause-and-effect information. By doing so, we can still uncover causal relationships and estimate the effects of specific factors. This approach provides a way to analyze and make sense of high-dimensional systems, opening up new avenues for research and decision-making. Objective 2: Counterfactual Transportability and Bounding: Counterfactuals are a "what-if" type query that would enable algorithms to reflect on their decisions. Counterfactuals are an even harder quantity to obtain than interventional effects because they are never observed, whereas at least interventional effects can be in an experimental setting. However, in certain domains and environments, we may be able to accurately estimate counterfactuals. One may need to generalize this understanding across different domains to allow agents to counterfactually reason across different environments and changing conditions. We developed a method to determine the applicability of counterfactual knowledge from one environment to another, even when the underlying factors are different. This problem is known as counterfactual transportability. We further developed an algorithm framework for bounding any unidentifiable counterfactual query, which may be useful in a large variety of settings, where the causal DAG and available data are insufficient to uniquely identify the target counterfactual quantity. This breakthrough has implications for various fields, from improving AI algorithms to guiding decision-making in diverse domains. Key Outcomes and Other Achievements Our work has been recognized for its significance, with some of our papers being highlighted and others selected as the best paper from highly competitive AI and ML conferences. This recognition demonstrates the impact of our research and its potential to revolutionize the field of understanding complex systems. In conclusion, our project has achieved important milestones in unraveling the mysteries of causality even with limited causal knowledge. We developed ways to leverage incomplete data, or data from different domains, and represent the data in a more compact format, all of which enable us to advance our understanding of cause-and-effect relationships in real-world problems. These outcomes have the potential to impact various fields, from improving AI algorithms to making more informed decisions in areas like healthcare and social sciences. Ultimately, our work brings us closer to unraveling the intricate workings of the world around us and harnessing that causal knowledge for the benefit of society.           Last Modified: 06/26/2023       Submitted by: Elias Bareinboim]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  An Artificial Intelligence-Inspired Computing Application for Detecting the Early Onset of Pneumonia (COVID-19)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255315.00</AwardTotalIntnAmount>
+<AwardAmount>255315</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to develop a Human-Artificial Intelligence (AI) computing application for detecting the early onset of pneumonia. It can be particularly useful for complications of COVID-19; clinical studies have identified a significant association between COVID-19 and pneumonia, with studies observing up to 70.1% of older COVID-19 patients diagnosed with pneumonia. This work aims to collect physiological data and symptomatic determinants using remote health monitoring and stream it to our AI-based cloud application to detect the pattern associated with pneumonia. Through accessible monitoring outside the hospital setting, this proposed application affords patient care management at the earliest signs of worsening and serving as a complementary diagnostic tool, useful for general detection of this life-threatening ailment - particularly for COVID-19 patients. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project proposes to address some of the public health challenge of the current COVID-19 pandemic by developing a predictive algorithm strategy for providing optimal care for outpatient COVID-19 patients at risk of pneumonia. The proposed application uses a multimodal dataset (physiological and user inputs) integrated with collaborative cloud-based AI. The proposed application will include a cloud-based predictive analytics unit that receives multimodal information from Remote Health Monitoring, identifies the early onset of pneumonia, and alerts healthcare providers.  One of the proposed work’s key innovations is the dynamic analytics unit’s dynamically adaptive approach that performs classifications on low-dimensional data and expands the dimensionality model as needed by including real-time patient symptoms. This approach affords a novel collaborative approach to AI, where the COVID-19 patient is actively collaborating in the system decision-making process. The system will automatically decide what should be interactively requested from the patient to enhance prediction accuracy. The approach will provide enhanced clinical information, allowing for clinician oversight for rapid response when the algorithm detects a pattern associated with the early onset of pneumonia.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/12/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/12/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028972</AwardID>
+<Investigator>
+<FirstName>Apostolos</FirstName>
+<LastName>Kalatzis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Apostolos Kalatzis</PI_FULL_NAME>
+<EmailAddress><![CDATA[apostoloskalatzisla@gmail.com]]></EmailAddress>
+<NSF_ID>000824821</NSF_ID>
+<StartDate>05/12/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>IMMERSIVE REALITY GROUP LLC</Name>
+<CityName>MANHATTAN</CityName>
+<ZipCode>597418647</ZipCode>
+<PhoneNumber>4062233391</PhoneNumber>
+<StreetAddress>13013 LITTLE HOLLAND RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>X3Z6G11S8J37</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>IMMERSIVE REALITY GROUP LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[IMMERSIVE REALITY GROUP LLC]]></Name>
+<CityName/>
+<StateCode>MT</StateCode>
+<ZipCode>597150604</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255315</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-260387c5-7fff-9455-5ae8-3dcbff8753f2"> <p dir="ltr"><span>An ongoing outbreak of severe respiratory infections associated with the 2019 novel coronavirus (COVID-19) has recently emerged in the world. Approximately 40 million people in the US suffer from respiratory diseases including Pneumonia, Asthma, COPD, Emphysema, and Chronic bronchitis. According to the American Thoracic Society, Pneumonia is the most common cause of hospital admissions for US adults and the most common reason for US children to be hospitalized. Multiple studies have reported that over 70% of COPD and 45% of Asthma worldwide may be underdiagnosed (Misses), and their burden includes increased mortality, morbidity, and 60% higher chances of accessing a hospital. Moreover, the cost burden of COPD, Asthma, and Pneumonia in the US for 2019 was estimated to be $116.31 billion. In recent years the increasing incidence of diseases, rising geriatric population, and demand for independent and healthy living along with post-acute care management have driven the growth of Remote Health Monitoring (RHM) systems. RHM systems and Body Sensor Networks have proven to be effective tools to monitor and improve health conditions by collecting continuous data from patients at home.</span></p> <br /> <p dir="ltr"><span>This Small Business Innovation Research Phase I project focused on developing a novel and transformative framework to predict respiratory infections.&nbsp; We used a multimodal dataset (physiological and user inputs) integrated with collaborative cloud-based AI. For this, we developed an artificial neural network that is trained to detect several respiratory infectious diseases based on publicly available physiological data. Additionally, we developed a rule-based algorithm that detects a disease based on the symptoms, user feedback, and physiological data. The proposed application included a cloud-based predictive analytics unit that receives multimodal information from RHM, identifies the early onset of respiratory infections and alerts healthcare providers.&nbsp; One of the proposed work&rsquo;s key innovations is the dynamic analytics unit&rsquo;s dynamically adaptive approach that performs classifications on low-dimensional data and expands the dimensionality model as needed by including real-time patient symptoms. This approach affords a novel collaborative approach to AI, where the patient is actively collaborating in the system decision-making process. The system automatically decides what should be interactively requested from the patient to enhance prediction accuracy. This approach will enhance clinical information, allowing for clinician oversight for rapid response when the algorithm detects a pattern associated with the early onset of respiratory infections.</span></p> <br /> <p dir="ltr"><span>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project was to develop a Human-Artificial Intelligence (AI) computing application for detecting the early onset of respiratory diseases. Clinical studies have identified a significant association between COVID-19 and respiratory infections This work is poised to revolutionize how individuals learn, discover, create, and heal in the broader context of developing treatment strategies for patients. To our knowledge, no Remote RHM devices can detect the early onset of respiratory diseases using a combination of subjective and objective data. This work aimed to collect physiological data and symptomatic determinants using RHM and stream it to our AI-based cloud application to detect the pattern associated with respiratory diseases. Through accessible monitoring outside the hospital setting, this proposed application affords patient care management at the earliest signs of worsening, potentially being the difference between life and death for vulnerable COVID-19 outpatients. The proposed technology will serve as a complementary tool that gives healthcare professionals access to the critical information they need to decide in treating their patients. Based on the results from this work we were able to acquire a patent pending status on our novel algorithm for detecting the early onset of respiratory diseases which aligns with the SBIRs mission of creating opportunities to move fundamental science and engineering out of the lab and into the market or other use at scale, through startups and small businesses representing deep technology ventures.</span></p> <div><span><br /></span></div> </span></p> <p>&nbsp;</p><br> <p>            Last Modified: 08/01/2022<br>      Modified by: Apostolos&nbsp;Kalatzis</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  An ongoing outbreak of severe respiratory infections associated with the 2019 novel coronavirus (COVID-19) has recently emerged in the world. Approximately 40 million people in the US suffer from respiratory diseases including Pneumonia, Asthma, COPD, Emphysema, and Chronic bronchitis. According to the American Thoracic Society, Pneumonia is the most common cause of hospital admissions for US adults and the most common reason for US children to be hospitalized. Multiple studies have reported that over 70% of COPD and 45% of Asthma worldwide may be underdiagnosed (Misses), and their burden includes increased mortality, morbidity, and 60% higher chances of accessing a hospital. Moreover, the cost burden of COPD, Asthma, and Pneumonia in the US for 2019 was estimated to be $116.31 billion. In recent years the increasing incidence of diseases, rising geriatric population, and demand for independent and healthy living along with post-acute care management have driven the growth of Remote Health Monitoring (RHM) systems. RHM systems and Body Sensor Networks have proven to be effective tools to monitor and improve health conditions by collecting continuous data from patients at home.   This Small Business Innovation Research Phase I project focused on developing a novel and transformative framework to predict respiratory infections.  We used a multimodal dataset (physiological and user inputs) integrated with collaborative cloud-based AI. For this, we developed an artificial neural network that is trained to detect several respiratory infectious diseases based on publicly available physiological data. Additionally, we developed a rule-based algorithm that detects a disease based on the symptoms, user feedback, and physiological data. The proposed application included a cloud-based predictive analytics unit that receives multimodal information from RHM, identifies the early onset of respiratory infections and alerts healthcare providers.  One of the proposed work’s key innovations is the dynamic analytics unit’s dynamically adaptive approach that performs classifications on low-dimensional data and expands the dimensionality model as needed by including real-time patient symptoms. This approach affords a novel collaborative approach to AI, where the patient is actively collaborating in the system decision-making process. The system automatically decides what should be interactively requested from the patient to enhance prediction accuracy. This approach will enhance clinical information, allowing for clinician oversight for rapid response when the algorithm detects a pattern associated with the early onset of respiratory infections.   The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project was to develop a Human-Artificial Intelligence (AI) computing application for detecting the early onset of respiratory diseases. Clinical studies have identified a significant association between COVID-19 and respiratory infections This work is poised to revolutionize how individuals learn, discover, create, and heal in the broader context of developing treatment strategies for patients. To our knowledge, no Remote RHM devices can detect the early onset of respiratory diseases using a combination of subjective and objective data. This work aimed to collect physiological data and symptomatic determinants using RHM and stream it to our AI-based cloud application to detect the pattern associated with respiratory diseases. Through accessible monitoring outside the hospital setting, this proposed application affords patient care management at the earliest signs of worsening, potentially being the difference between life and death for vulnerable COVID-19 outpatients. The proposed technology will serve as a complementary tool that gives healthcare professionals access to the critical information they need to decide in treating their patients. Based on the results from this work we were able to acquire a patent pending status on our novel algorithm for detecting the early onset of respiratory diseases which aligns with the SBIRs mission of creating opportunities to move fundamental science and engineering out of the lab and into the market or other use at scale, through startups and small businesses representing deep technology ventures.             Last Modified: 08/01/2022       Submitted by: Apostolos Kalatzis]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

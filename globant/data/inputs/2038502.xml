@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Self-powered, Low-Cost Smart Traffic Detection and Warning System]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a traffic monitoring system that may have a great economic impact by saving lives at intersections. The state and municipalities transportation engineers will benefit from integrating the sensing technology with the data collected in order to improve intersection design and adjust signage and approaching speeds. The technology also will provide real-time data that may be used in post-event inspection and traffic analysis. The impact of this system may benefit rural communities by reducing crashes and fatalities as a result of improved driver awareness of active signage. In addition, the energy sector may benefit since renewable energy will be used to activate these low cost sensors allowing them to function independent of the utility grid. The system may impact other areas/applications, such as improving pedestrian traffic as well as the safety of railroad intersections. The goal is to identify potential customers, including government agencies such as Department of Transportation engineers, city public works directors, consultants, and industries to make the system adaptable across a variety of industries and use cases.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a self-powered and low-cost active traffic monitoring system to be used at unsignalized intersections to warn vehicles of traffic control devices. This system uses one multi-pixel passive infrared sensing detection module with a horizontal viewing angle to detect passing vehicles and estimate the traffic parameters of a two-lane, two-way roadway, and then provide active signage to alert the motorist of potential dangers. The detection module is designed to be an off-pavement system that is quickly and easily installed on pre-existing infrastructure without impeding traffic. The sensor consumes low power, has a large field of view, and is able to collect a wide range of data while protecting the privacy of the motorist. Multiple novel sets of algorithms have been developed to enable this type of sensor to detect traffic, calculate velocity, determine the classification of passing vehicles by their thermal signatures, and send a warning transmission. The warning module activates the traffic control device for a dynamic period of time that is determined using the calculated velocity of the vehicle. The goal of this project is to achieve a better understanding of the customer needs and requirements to achieve commercialization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2038502</AwardID>
+<Investigator>
+<FirstName>Sara</FirstName>
+<LastName>Ahmed</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sara Ahmed</PI_FULL_NAME>
+<EmailAddress><![CDATA[Sara.Ahmed@utsa.edu]]></EmailAddress>
+<NSF_ID>000745758</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at San Antonio</Name>
+<CityName>SAN ANTONIO</CityName>
+<ZipCode>782491644</ZipCode>
+<PhoneNumber>2104584340</PhoneNumber>
+<StreetAddress>1 UTSA CIRCLE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U44ZMVYU52U6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT SAN ANTONIO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas at San Antonio]]></Name>
+<CityName>San Antonio</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>782491644</ZipCode>
+<StreetAddress><![CDATA[One UTSA Circle]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The smart detector is a self-powered low cost smart traffic detection and warning system. It incorporates passive infrared sensing with a horizontal viewing angle to detect vehicles, estimate the traffic state parameters of a two-lane bidirectional roadway, and warn motorist of potential dangers.&nbsp;The system has been developed to: 1) increase the safety of motorist, pedestrians, etc., 2) adopt low cost, high reliability detection and warning systems in cities and area with few amount of active signage, for example, rural roadways, 3) decrease economic loss by decreasing number of accidents and fatalities and 4) collect data like vehicle count, speed, accident time for agencies; such as the Federal Highway Administration and DOT. This data is vital for tasks of traffic estimation and forecasting, travel demand forecasting, future infrastructure planning, rural roadway performance, and safety analysis. A patent was filed for this proposed smart detector.&nbsp;</p> <p>Our I-Corps team was established to determine the commercialization potential of our proposed system. We sought information and clarification from different relevant customer segments on their needs and factors that influence their decision on adapting and utilizing new traffic detection systems. The three main areas of application identified for the detector were roadways in rural areas, railway crossing intersections and pedestrian crossings. Through the grant, we conducted more than 100 interviews with potential key partners in the three identified areas of application; mainly traffic, planning engineers and managers from state and US department of transportation (DOT), cities public works directors, federal railroad administration (FRA) engineers as well as suppliers and materials manufactures, vision zero, office of sustainability in different universities, school districts safety coordinators, professors and researchers in the intelligent transportation and safety area as well as home owners associations.</p> <p>The primary outcome of this process was the down-selection of the various market sectors/customers where this smart detector has a need and potential application. For example, during our initial interviews, we learned that railroad industry is not inclined to use off track system due to fail-safe purposes and therefore we had to adjust our customer segment.&nbsp; We then learned about the decision-making process for purchasing, testing, and implementing traffic detection and warning systems. We also learned how these systems are evaluated and current flaws in modern devices that customers want to see improved. Another outcome was establishing&nbsp;partnerships with industry to perform field/pilot testing to proof the technology reliability, efficiency and enhance its features based on customer needs.&nbsp;&nbsp;Finally, the&nbsp;team was also able to determine the optimal path to market for this smart detector and understand the market fit.&nbsp;</p> <p>In conclusion, there is a growing demand for technologies that can increase the safety of citizens on the road and, if the devices are cost effective, it can help reduce the large budget costs spent on current methods. However it is not just detection and active warning signage that customers want, they also need effective data collection methods for traffic report data which is necessary to receive funding for future development. In addition, communication from remote areas is pivotal to monitor the health and performance of the device. Although our technology is headed in the right direction there are still some features that need to be further explored and developed to have a technology that completely solves all our intended customers' problems.</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/04/2023<br>      Modified by: Sara&nbsp;Ahmed</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The smart detector is a self-powered low cost smart traffic detection and warning system. It incorporates passive infrared sensing with a horizontal viewing angle to detect vehicles, estimate the traffic state parameters of a two-lane bidirectional roadway, and warn motorist of potential dangers. The system has been developed to: 1) increase the safety of motorist, pedestrians, etc., 2) adopt low cost, high reliability detection and warning systems in cities and area with few amount of active signage, for example, rural roadways, 3) decrease economic loss by decreasing number of accidents and fatalities and 4) collect data like vehicle count, speed, accident time for agencies; such as the Federal Highway Administration and DOT. This data is vital for tasks of traffic estimation and forecasting, travel demand forecasting, future infrastructure planning, rural roadway performance, and safety analysis. A patent was filed for this proposed smart detector.   Our I-Corps team was established to determine the commercialization potential of our proposed system. We sought information and clarification from different relevant customer segments on their needs and factors that influence their decision on adapting and utilizing new traffic detection systems. The three main areas of application identified for the detector were roadways in rural areas, railway crossing intersections and pedestrian crossings. Through the grant, we conducted more than 100 interviews with potential key partners in the three identified areas of application; mainly traffic, planning engineers and managers from state and US department of transportation (DOT), cities public works directors, federal railroad administration (FRA) engineers as well as suppliers and materials manufactures, vision zero, office of sustainability in different universities, school districts safety coordinators, professors and researchers in the intelligent transportation and safety area as well as home owners associations.  The primary outcome of this process was the down-selection of the various market sectors/customers where this smart detector has a need and potential application. For example, during our initial interviews, we learned that railroad industry is not inclined to use off track system due to fail-safe purposes and therefore we had to adjust our customer segment.  We then learned about the decision-making process for purchasing, testing, and implementing traffic detection and warning systems. We also learned how these systems are evaluated and current flaws in modern devices that customers want to see improved. Another outcome was establishing partnerships with industry to perform field/pilot testing to proof the technology reliability, efficiency and enhance its features based on customer needs.  Finally, the team was also able to determine the optimal path to market for this smart detector and understand the market fit.   In conclusion, there is a growing demand for technologies that can increase the safety of citizens on the road and, if the devices are cost effective, it can help reduce the large budget costs spent on current methods. However it is not just detection and active warning signage that customers want, they also need effective data collection methods for traffic report data which is necessary to receive funding for future development. In addition, communication from remote areas is pivotal to monitor the health and performance of the device. Although our technology is headed in the right direction there are still some features that need to be further explored and developed to have a technology that completely solves all our intended customers' problems.          Last Modified: 09/04/2023       Submitted by: Sara Ahmed]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Learning from Hidden Signatures in High-Dimensional Models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Methods directly applicable to the determination of regulatory cell mechanisms associated with vaccine responses will be developed as an integral part of this project.  Such mechanisms are not directly observable or measurable, but a wealth of indirect measurements can be obtained, for instance on antibody titer-driven effects. New methodology, that meets the challenge of extracting these hidden signals from a very large volume of data, consisting of a diverse arrays of indirect measurements, are developed and  put to test immediately, for emerging pandemics data sets. More broadly,  techniques that allow for reliable, mathematically grounded, inference and prediction from essential, but hidden,  signatures will be developed and applied to data sets arising from  neuroscience and high-throughput text data. &lt;br/&gt;&lt;br/&gt;A foundational study of inference and prediction from high-dimensional data with low-dimensional  embeddings modeled by factor models are undertaken in this project. Within new classes of  identifiable factor regression models in which the latent factors are interpretable, new scalable methods for estimating the regression coefficients of the latent factors  will be developed. Optimality of estimation from a finite-sample, minimax perspective, as well as the derivation of  the asymptotic limit of the estimates, and especially of their efficient asymptotic variance will be a cornerstone of research under this project.  Prediction from high-dimensional dependent features, with reduced-effective-rank covariance matrix, will be analyzed under generic factor regression models. In particular, interpolating predictors, popular in deep-learning,  will be contrasted with other contenders, with the aim of offering  fundamental understanding of model-free versus model-based prediction, when data arises from a factor regression model. Sparse topic models, together with inference and prediction from the hidden topics, will be studied as  companion models for data in which all the features are discrete. Applications of the newly developed, scalable and  theoretically founded methods  will constitute a focal point of this project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015195</AwardID>
+<Investigator>
+<FirstName>Florentina</FirstName>
+<LastName>Bunea</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Florentina Bunea</PI_FULL_NAME>
+<EmailAddress><![CDATA[fb238@cornell.edu]]></EmailAddress>
+<NSF_ID>000431503</NSF_ID>
+<StartDate>06/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marten</FirstName>
+<LastName>Wegkamp</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marten H Wegkamp</PI_FULL_NAME>
+<EmailAddress><![CDATA[marten.wegkamp@cornell.edu]]></EmailAddress>
+<NSF_ID>000112756</NSF_ID>
+<StartDate>06/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>Ithaca</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148537501</ZipCode>
+<StreetAddress><![CDATA[107 Hoy Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This proposal considered &nbsp;the problem of &nbsp;formulating statistical models with meaningful, hidden structures &nbsp;for &nbsp;building scientifically interpretable models and estimators for statistical inference and prediction.</p> <p>The PIs carefully formulated high-dimensional statistical models with low-dimensional latent structures that are both identifiable and interpretable. The PIs developed a new method to estimate the low-dimensional structure that&nbsp;has desirable theoretical and computational properties.</p> <p>On the collaborative front, the PIs continued their interdisciplinary research in immunology and cancer studies that revealed that hidden, unmeasurable mechanisms are directly connected to health outcomes using identifiable and interpretable latent factor regression models.&nbsp;</p> <p>Further, these high-dimensional models with hidden structures were exploited to explain newly observed phenomena regarding minimum norm interpolating predictors.&nbsp;The PIs developed minimax adaptive risk bounds for general classes of interpolating estimators, as well as for principal component regression predictors and the PIs model-based predictors,&nbsp;under their latent factor model specifications. &nbsp;</p> <p>Fast, minimax adaptive algorithms were developed of the word-topic matrix in sparse topic models with applications to supervised text classification. The PIs estimated the topic-document matrix at minimax optimal rates and used this in turn to estimate Wasserstein distances between document generating distributions, that are meaningful to compare two documents.&nbsp;</p> <p>Two graduate students were co-advised by the PIs and worked with the PIs on this project and the outcomes of this proposal form parts of their doctoral dissertation theses at Cornell University.</p> <p><br /><br />&nbsp;</p><br> <p>            Last Modified: 08/10/2023<br>      Modified by: Marten&nbsp;H&nbsp;Wegkamp</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This proposal considered  the problem of  formulating statistical models with meaningful, hidden structures  for  building scientifically interpretable models and estimators for statistical inference and prediction.  The PIs carefully formulated high-dimensional statistical models with low-dimensional latent structures that are both identifiable and interpretable. The PIs developed a new method to estimate the low-dimensional structure that has desirable theoretical and computational properties.  On the collaborative front, the PIs continued their interdisciplinary research in immunology and cancer studies that revealed that hidden, unmeasurable mechanisms are directly connected to health outcomes using identifiable and interpretable latent factor regression models.   Further, these high-dimensional models with hidden structures were exploited to explain newly observed phenomena regarding minimum norm interpolating predictors. The PIs developed minimax adaptive risk bounds for general classes of interpolating estimators, as well as for principal component regression predictors and the PIs model-based predictors, under their latent factor model specifications.    Fast, minimax adaptive algorithms were developed of the word-topic matrix in sparse topic models with applications to supervised text classification. The PIs estimated the topic-document matrix at minimax optimal rates and used this in turn to estimate Wasserstein distances between document generating distributions, that are meaningful to compare two documents.   Two graduate students were co-advised by the PIs and worked with the PIs on this project and the outcomes of this proposal form parts of their doctoral dissertation theses at Cornell University.            Last Modified: 08/10/2023       Submitted by: Marten H Wegkamp]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

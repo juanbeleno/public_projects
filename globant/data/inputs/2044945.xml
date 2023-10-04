@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Mathematical Analysis and Numerical Methods for Peridynamics and Nonlocal Models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>58381.00</AwardTotalIntnAmount>
+<AwardAmount>58381</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Improvements in computer technology are fueling the development of more realistic mathematical models for complex applications, including nonlocal models that are more realistic than conventional local models for studying various phenomena from physics and biology to materials and social sciences. An example is the peridynamics model, a spatially nonlocal mechanics theory, which has been successfully used to model material defects and predict dynamics of crack formation in various engineering applications. Although new nonlocal models have been gaining popularity in various applications, the study of mathematics behind them is still at the nascent stage, impeding the further development of computational tools. The goal of this project is to develop efficient and reliable numerical methods for simulating nonlocal models and establish related mathematical analysis as part of the rigorous validation and verification process. It aims to improve the effectiveness and robustness of nonlocal modeling while retaining modeling accuracy. On the educational side, this project will provide training to students in both mathematics and computational mechanics. &lt;br/&gt;&lt;br/&gt;This project aims to develop state-of-the-art multiscale modeling techniques to improve computational efficiency while retaining the accuracy of nonlocal models for predicting dynamic fractures, with new theoretical methodologies built to study the analytic properties of the models.  Three specific methods of multiscale modeling will be addressed, in which the treatment of boundary traces and interfacial conditions plays pivotal roles. The first is the seamless coupling of nonlocal and local models via heterogeneous localization of nonlocal interactions at the interface. A novel nonlocal trace theorem is used to ensure the well-posedness of the coupling. The goal is to treat the interface as a free boundary based on the development of the solution. The second is a quasi-nonlocal coupling method inspired by the atomistic-to-continuum coupling method. It is aimed at building a bridge between the discrete atomistic model and continuous nonlocal model. The third is to design appropriate nonlocal boundary conditions to reduce the computational cost for problems on unbounded domains. A new notion of nonlocal Neumann boundary condition will be introduced, which will shed light on domain decomposition methods and the coupling of nonlocal models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2044945</AwardID>
+<Investigator>
+<FirstName>Xiaochuan</FirstName>
+<LastName>Tian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaochuan Tian</PI_FULL_NAME>
+<EmailAddress><![CDATA[xatian@ucsd.edu]]></EmailAddress>
+<NSF_ID>000764749</NSF_ID>
+<StartDate>08/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>9500 GILMAN DRIVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>920930621</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~58381</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The overall objective of this project is to develop state-of-the-art numerical methods for nonlocal models, with new theoretical methodologies built to study the analytic properties of the models. A major focus is on developing multiscale modeling and computation techniques. We have devoted our efforts to develop nonlocal-to-local coupling techniques that can improve computational efficiency while retaining the accuracy of nonlocal models. This includes two novel coupling method based on energy variations. The first is the seamless coupling of nonlocal and local models through the heterogeneous localization process, and the second is the quasi-nonlocal coupling method inspired by the quasi-continuum method for atomistic-to-continuum coupling. The coupling methods are accurate and stable with a theoretical guarantee of convergence. The integration of the coupled model with the asymptotically compatible (AC) schemes, a class of robust schemes independent of the nonlocal length parameter, makes the coupling strategy more effective in practice. Another major focus is then the development of AC schemes for nonlocal models. Different numerical methods, including Galerkin approximation and a meshless method named reproducing kernel particle method are developed with new theoretical frameworks for analyazing convergence. Other developments include an FMM-type fast algorithm for nonlocal models with a finite interaction length and a physically-consistent and efficient strategy to construct nonlocal Neumann boundary conditions.&nbsp;</p> <p><br />Our research has produced a number of publications in top journals such as Acta Numerica, SIAM Review, SIAM Numerical Analysis and Multiscale Modeling and Simulation. Another highlight is that our work on AC schemes has been featured in SIAM Review as the SIGEST award in 2020, in which a general variational framework for constructing AC schemes for nonlocal models has been developed extending the previous work.&nbsp;&nbsp;</p> <p><br />One Ph.D. thesis is completed under the supervision of the PI and the research outcome has been incorporated into a graduate topics course taught by the PI at University of California, San Diego. In addition, together with some colleagues, the PI has co-initiated the online "One Nonlocal World" project which aims at keeping researchers connected virtually and building up new communication channels for a more connected and inclusive research community on nonlocal models. We have organized events using the online platform that help students and early career researchers from diverse backgrounds get educated about the newly emerging area of nonlocal modeling and computation.&nbsp;</p><br> <p>            Last Modified: 10/30/2022<br>      Modified by: Xiaochuan&nbsp;Tian</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The overall objective of this project is to develop state-of-the-art numerical methods for nonlocal models, with new theoretical methodologies built to study the analytic properties of the models. A major focus is on developing multiscale modeling and computation techniques. We have devoted our efforts to develop nonlocal-to-local coupling techniques that can improve computational efficiency while retaining the accuracy of nonlocal models. This includes two novel coupling method based on energy variations. The first is the seamless coupling of nonlocal and local models through the heterogeneous localization process, and the second is the quasi-nonlocal coupling method inspired by the quasi-continuum method for atomistic-to-continuum coupling. The coupling methods are accurate and stable with a theoretical guarantee of convergence. The integration of the coupled model with the asymptotically compatible (AC) schemes, a class of robust schemes independent of the nonlocal length parameter, makes the coupling strategy more effective in practice. Another major focus is then the development of AC schemes for nonlocal models. Different numerical methods, including Galerkin approximation and a meshless method named reproducing kernel particle method are developed with new theoretical frameworks for analyazing convergence. Other developments include an FMM-type fast algorithm for nonlocal models with a finite interaction length and a physically-consistent and efficient strategy to construct nonlocal Neumann boundary conditions.    Our research has produced a number of publications in top journals such as Acta Numerica, SIAM Review, SIAM Numerical Analysis and Multiscale Modeling and Simulation. Another highlight is that our work on AC schemes has been featured in SIAM Review as the SIGEST award in 2020, in which a general variational framework for constructing AC schemes for nonlocal models has been developed extending the previous work.     One Ph.D. thesis is completed under the supervision of the PI and the research outcome has been incorporated into a graduate topics course taught by the PI at University of California, San Diego. In addition, together with some colleagues, the PI has co-initiated the online "One Nonlocal World" project which aims at keeping researchers connected virtually and building up new communication channels for a more connected and inclusive research community on nonlocal models. We have organized events using the online platform that help students and early career researchers from diverse backgrounds get educated about the newly emerging area of nonlocal modeling and computation.        Last Modified: 10/30/2022       Submitted by: Xiaochuan Tian]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

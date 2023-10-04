@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Representation and Subspace Learning for Decentralized and Dependent Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>199002.00</AwardTotalIntnAmount>
+<AwardAmount>129473</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pena Edsel</SignBlockName>
+<PO_EMAI>epena@nsf.gov</PO_EMAI>
+<PO_PHON>7032928080</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Learning concise and informative representations of high-dimensional data is a precursor to the success of modern data analytics. However, recent years have witnessed many non-standard data regimes that impose unprecedented challenges for representation learning. The first scenario is that data are decentralized, that is, they are scattered across different places across which the communication is highly restricted. This is common for international companies that collect data worldwide, but cannot aggregate them due to constraints on network bandwidth or legal policies. The second scenario is that data exhibit significant temporal dependence, as seen in stock prices, traffic flow, and clinical trials. This project will develop novel statistical methods with theoretical guarantees to handle these modern data regimes. It also aims to train the next generation of data scientists under these important problem setups. &lt;br/&gt;&lt;br/&gt;The principal investigator (PI) will develop novel methods and theory for subspace and representation learning for decentralized and dependent data. For decentralized data, the PI plans to design and study a new methodological framework for distributed estimation of a general latent variable model. This framework requires only one round of communication of model parameters, adapts to a wide range of complex latent variable models (including those based on deep neural nets) and has been shown to yield superior numerical performance over existing approaches. Another more specific setup that the PI will consider is distributed estimation of singular spaces, with applications to spectral clustering. For dependent data, the PI will focus on learning the top singular space of a low-rank Markov transition kernel to perform state compression and dimension reduction. The PI plans to solve the problem via maximizing the log-likelihood with either nuclear-norm penalty or rank constraint. The statistical rate of the resulting M-estimator will be explicitly derived, and new optimization algorithms will be developed to compute these problems with convergence guarantee.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/30/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015366</AwardID>
+<Investigator>
+<FirstName>Ziwei</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ziwei Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[ziweiz@umich.edu]]></EmailAddress>
+<NSF_ID>000814456</NSF_ID>
+<StartDate>06/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091107</ZipCode>
+<StreetAddress><![CDATA[1085 S. University]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~71537</FUND_OBLG>
+<FUND_OBLG>2021~57935</FUND_OBLG>
+<FUND_OBLG>2022~0</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-21056a97-7fff-0753-df0f-d907069376df"><span>Modern data are often generated in multiple places with communication restriction (in short, decentralized), or in streams with sequential dependence. The NSF-funded project titled &ldquo;Representation and Subspace Learning for Decentralized and Dependent Data&rdquo; (referred to as &ldquo;the Project&rdquo; hereinafter) developed novel methods and theory for subspace and representation learning for decentralized and dependent data. For decentralized data, the Project developed a new one-shot distributed learning framework called ReBoot, short for refitting Bootstrap samples. ReBoot accommodates much more decentralized data setups than competing methods without essential loss of statistical accuracy. It can be applied to a wide range of unsupervised learning problems with complicated model structure, such as automatic image generation and student capability measurement. For dependent data, the Project developed a new optimization algorithm to learn a high-dimensional low-rank Markov model from its status trajectories with rigorous statistical guarantee. This algorithm has been applied to taxi trip datasets to learn a dynamic functional partition of big cities, which can guide the allocation of transportation resources to balance the supply and demand. The methodology and theory developed for the two aforementioned main setups have also inspired and advanced other projects of the PI on low-rank matrix estimation with missing data or heavy-tailed data. All the research results have been disseminated through publications on top statistics and operations research journals such as the Journal of Royal Statistical Society: Series B, Operations Research, etc, and through presentations at international conferences such as Artificial Intelligence and Statistics (AISTATS), Joint Statistical Meetings (JSM), etc. Regarding the education contributions, the Project built an online judge (OJ) system that conducted automatic code grading for various data science classes at the University of Michigan, including STATS 415: Data Mining, STATS 601: </span><span>Multivariate and Categorical Analysis, etc. The PI also developed a new PhD topic class, STATS 700: Federated / Distributed Statistical Learning, based on the research results of the Project. </span></span></p><br> <p>            Last Modified: 12/09/2022<br>      Modified by: Ziwei&nbsp;Zhu</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Modern data are often generated in multiple places with communication restriction (in short, decentralized), or in streams with sequential dependence. The NSF-funded project titled "Representation and Subspace Learning for Decentralized and Dependent Data" (referred to as "the Project" hereinafter) developed novel methods and theory for subspace and representation learning for decentralized and dependent data. For decentralized data, the Project developed a new one-shot distributed learning framework called ReBoot, short for refitting Bootstrap samples. ReBoot accommodates much more decentralized data setups than competing methods without essential loss of statistical accuracy. It can be applied to a wide range of unsupervised learning problems with complicated model structure, such as automatic image generation and student capability measurement. For dependent data, the Project developed a new optimization algorithm to learn a high-dimensional low-rank Markov model from its status trajectories with rigorous statistical guarantee. This algorithm has been applied to taxi trip datasets to learn a dynamic functional partition of big cities, which can guide the allocation of transportation resources to balance the supply and demand. The methodology and theory developed for the two aforementioned main setups have also inspired and advanced other projects of the PI on low-rank matrix estimation with missing data or heavy-tailed data. All the research results have been disseminated through publications on top statistics and operations research journals such as the Journal of Royal Statistical Society: Series B, Operations Research, etc, and through presentations at international conferences such as Artificial Intelligence and Statistics (AISTATS), Joint Statistical Meetings (JSM), etc. Regarding the education contributions, the Project built an online judge (OJ) system that conducted automatic code grading for various data science classes at the University of Michigan, including STATS 415: Data Mining, STATS 601: Multivariate and Categorical Analysis, etc. The PI also developed a new PhD topic class, STATS 700: Federated / Distributed Statistical Learning, based on the research results of the Project.        Last Modified: 12/09/2022       Submitted by: Ziwei Zhu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: SaTC-EDU: Advancing Cybersecurity Education to Human-Level Artificial Intelligence]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>299777.00</AwardTotalIntnAmount>
+<AwardAmount>299777</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<Abbreviation>EDU</Abbreviation>
+<LongName>Directorate for STEM Education</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DGE</Abbreviation>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ambareen Siraj</SignBlockName>
+<PO_EMAI>asiraj@nsf.gov</PO_EMAI>
+<PO_PHON>7032928182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[All sectors of the national critical infrastructure are expected to apply secure artificial intelligence (AI) in their daily operations, and benefit from AI-based decision-making tools and AI-human systems. These outcomes require a thorough understanding of human behavior in different environments. However, for mathematical convenience, existing cybersecurity education approaches assume humans always make rational decisions. Important factors, such as confounding variables, are often ignored. In addition, there is an emphasis on learning to conduct correlation and association analyses, and insufficient attention paid to learning causation analysis. This project will develop and evaluate educational modules that will prepare a new generation of engineering and computer science (CS) students to develop realistic computational models of decision-making. The proposed activities will advance cybersecurity education from association to causation analysis and contribute to the goal of achieving human-level AI. &lt;br/&gt;&lt;br/&gt;This project will address two fundamental challenges in cybersecurity, privacy, and AI education. First, the project will investigate how engineering and CS students can be prepared to learn cybersecurity and privacy behaviors computationally. Students will learn to apply advanced AI methods to develop realistic computational models of decision-making that address both affective and cognitive processes. Second, the project will seek to understand how causal (vs. correlative) models in cybersecurity and privacy can be developed. The project team will provide opportunities for students to develop causal networks vs. traditional correlation networks. Course modules based on this research will be implemented and evaluated in existing advanced undergraduate/graduate courses at the Georgia Institute of Technology. The project will assess the impact of these modules on students' understanding on the role of AI in addressing cybersecurity and privacy issues. &lt;br/&gt;&lt;br/&gt;This project is supported by a special initiative of the Secure and Trustworthy Cyberspace (SaTC) program to foster new, previously unexplored, collaborations between the fields of cybersecurity, artificial intelligence, and education. The SaTC program aligns with the Federal Cybersecurity Research and Development Strategic Plan and the National Privacy Research Strategy to protect and preserve the growing social and economic benefits of cyber systems while ensuring security and privacy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.076</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041788</AwardID>
+<Investigator>
+<FirstName>Fariborz</FirstName>
+<LastName>Farahmand</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fariborz Farahmand</PI_FULL_NAME>
+<EmailAddress><![CDATA[fariborz@ece.gatech.edu]]></EmailAddress>
+<NSF_ID>000258871</NSF_ID>
+<StartDate>07/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Tech Research Corporation]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320420</ZipCode>
+<StreetAddress><![CDATA[Office of Sponsored Programs]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>093Z</Code>
+<Text>AI Education/Workforce Develop</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299777</FUND_OBLG>
+</Award>
+</rootTag>

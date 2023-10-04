@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: The effect of contact network structure on the spread of COVID-19: balancing disease mitigation and socioeconomic well-being]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>199136.00</AwardTotalIntnAmount>
+<AwardAmount>199136</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+<PO_EMAI>kdittmar@nsf.gov</PO_EMAI>
+<PO_PHON>7032927799</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[What makes COVID-19 spread rapidly in some places, yet slowly in others? How should society lessen social distancing while limiting an increase in infections? To answer these questions, this Rapid Response Research (RAPID) project seeks to understand how patterns of interpersonal interaction (“structure”) in social contact networks affect disease spread in a population. The researchers will simulate a disease spreading through a variety of social contact networks, and use machine learning to relate each network’s structure to the number and timing of new infections. By limiting structures related to increased disease, societies may be able to reopen other parts of their economies while still curbing overall disease spread. The researchers will produce an interactive web application for the public and decision-makers to visualize trade-offs between reducing disease and maintaining social cohesion. This research will support the professional development of an early career scientist.&lt;br/&gt;&lt;br/&gt;This research aims to determine the inherent risk of SARS-CoV-2 spread based on contact network structure. The researchers will use machine learning to 1) identify network structures that influence disease spread and 2) predict disease spread on empirical contact networks. Important network structures will serve as targets for simulated disease mitigation interventions (e.g. reducing structures that increase levels of disease or increasing structures that reduce disease levels). Finally, the researchers will investigate whether future outbreaks of COVID-19 or other diseases could be alleviated through optimizing social contact networks ahead of time. The outcomes of this research will inform and facilitate quick, efficient interventions to reduce the social and economic costs of COVID-19. This research will develop a general framework for relating disease to network structure. Thus, results can be generalized beyond the current pandemic, serving to further our understanding of potential future waves of COVID-19, as well as other directly-transmitted diseases in humans, livestock, and wildlife.&lt;br/&gt;&lt;br/&gt;This RAPID award is made by the Ecology and Evolution of Infectious Diseases Program in the Division of Environmental Biology, using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030509</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Michalska-Smith</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew J Michalska-Smith</PI_FULL_NAME>
+<EmailAddress><![CDATA[michalsm@umn.edu]]></EmailAddress>
+<NSF_ID>000824726</NSF_ID>
+<StartDate>05/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eva</FirstName>
+<LastName>Enns</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eva Enns</PI_FULL_NAME>
+<EmailAddress><![CDATA[eenns@umn.edu]]></EmailAddress>
+<NSF_ID>000683548</NSF_ID>
+<StartDate>05/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Meggan</FirstName>
+<LastName>Craft</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Meggan E Craft</PI_FULL_NAME>
+<EmailAddress><![CDATA[craft@umn.edu]]></EmailAddress>
+<NSF_ID>000376298</NSF_ID>
+<StartDate>05/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>Saint Paul</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>551086009</ZipCode>
+<StreetAddress><![CDATA[385C AS/VM, 1988 Fitch Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199136</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This grant for rapid response research (RAPID) sought to explore the role of contact network structure on the spread of COVID-19 and similarly transmitted pathogens. Over the course of this funding, Drs. Craft, Michalska-Smith, and Enns have considered the relationship between the patterns of interpersonal interaction (that is, "contact network structure") and the dynamics of disease spread through a population at two levels.<br /><br />First, they considered variables that determine contact network structure in empirical populations, such as age- and household size distributions, individual differences in behavior, for instance as relates to risk-tolerance, and potential context-specific differences in interaction patterns, for instance comparing workplace interactions to those at school or within a household. This research culminated in both a peer-reviewed published manuscript and a publicly accessible online application for both education and experimental use, as well as presentation of these results at a national academic conference.</p> <p>One major finding of this work was the importance of community-wide action in limiting disease spread. Because modern societies are highly interconnected, there are many avenues for a pathogen to spread to those individuals most at risk of adverse outcomes. As a consequence, we found that when prevention measures are only undertaken by these vulnerable individuals, there was limited effect on overall disease spread. In contrast, if household members also participated, we saw dramatic reductions in disease and mortality. This work has clear implications for public health recommendations and policies, which most often focus on individuals themselves, rather than their ability to spread the disease to others.</p> <p>Second, they looked at the effect of individuals moving between populations (cities, for instance) on the disease dynamics in each of the populations involved. This work, conducted at a general level that allows application to a variety of disease systems, including those in both livestock and wildlife, culminated in a peer-reviewed academic publication and presentation at a national academic conference.</p> <p>In brief, the researchers found that the movement of individuals can have dramatic effects on the dynamics of disease, for instance stabilizing prevalence in a population where it was once fluctuating, or introducing fluctuations where the infected proportion of a population was relatively constant. The key determiner of the direction of this change was the dynamics of disease in the population from which the migrants were emigrating from.</p> <p>Finally, they considered specific measures of network structure at the level of a whole population, including, for instance, the degree of clustering (are your friends also friends with each other?) and the distribution of interactions across individuals (does everyone have about the same number of contacts, or do a small subset have many while most people have few?). This research is ongoing, but has produced one manuscript in preparation for publication so far, as well as presentation of preliminary results at a national academic conference.</p><br> <p>            Last Modified: 03/29/2023<br>      Modified by: Meggan&nbsp;E&nbsp;Craft</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This grant for rapid response research (RAPID) sought to explore the role of contact network structure on the spread of COVID-19 and similarly transmitted pathogens. Over the course of this funding, Drs. Craft, Michalska-Smith, and Enns have considered the relationship between the patterns of interpersonal interaction (that is, "contact network structure") and the dynamics of disease spread through a population at two levels.  First, they considered variables that determine contact network structure in empirical populations, such as age- and household size distributions, individual differences in behavior, for instance as relates to risk-tolerance, and potential context-specific differences in interaction patterns, for instance comparing workplace interactions to those at school or within a household. This research culminated in both a peer-reviewed published manuscript and a publicly accessible online application for both education and experimental use, as well as presentation of these results at a national academic conference.  One major finding of this work was the importance of community-wide action in limiting disease spread. Because modern societies are highly interconnected, there are many avenues for a pathogen to spread to those individuals most at risk of adverse outcomes. As a consequence, we found that when prevention measures are only undertaken by these vulnerable individuals, there was limited effect on overall disease spread. In contrast, if household members also participated, we saw dramatic reductions in disease and mortality. This work has clear implications for public health recommendations and policies, which most often focus on individuals themselves, rather than their ability to spread the disease to others.  Second, they looked at the effect of individuals moving between populations (cities, for instance) on the disease dynamics in each of the populations involved. This work, conducted at a general level that allows application to a variety of disease systems, including those in both livestock and wildlife, culminated in a peer-reviewed academic publication and presentation at a national academic conference.  In brief, the researchers found that the movement of individuals can have dramatic effects on the dynamics of disease, for instance stabilizing prevalence in a population where it was once fluctuating, or introducing fluctuations where the infected proportion of a population was relatively constant. The key determiner of the direction of this change was the dynamics of disease in the population from which the migrants were emigrating from.  Finally, they considered specific measures of network structure at the level of a whole population, including, for instance, the degree of clustering (are your friends also friends with each other?) and the distribution of interactions across individuals (does everyone have about the same number of contacts, or do a small subset have many while most people have few?). This research is ongoing, but has produced one manuscript in preparation for publication so far, as well as presentation of preliminary results at a national academic conference.       Last Modified: 03/29/2023       Submitted by: Meggan E Craft]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

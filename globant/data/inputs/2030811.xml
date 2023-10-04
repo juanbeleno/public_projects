@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Flexure mechanism-based advanced nanopositioning motion stages for the semiconductor industry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a cost-effective, high-speed, nanopositioning stage for use in the semiconductor industry. A nanopositioning stage is a macro-scale motion system that is capable of nanometric precision and resolution. Given the nanometric feature sizes in the semiconductor devices found in everyday electronics such as computers, mobile devices, displays, etc., nanopositioning stages are used in various steps of semiconductor device manufacturing and metrology. Conventional nanopositioning motion systems are either too slow: limiting process throughput, or too expensive: leading to higher production cost of semiconductor devices. The challenges associated with the current systems result in higher retail costs of electronic products. Commercialization of the proposed nanopositioning stages may lead to yield improvements in semiconductor manufacturing, resulting in lower costs of production.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of cost-effective, high-speed, nanopositioning stages that use flexure mechanisms. Conventional nanopositioning stages based on ball bearing technology provide a large range of motion, but are limited by slower speeds and settling times because of their size. Slower settling times lead to lower throughput in the various processes where these motion systems are used. Maglev-based nanopositioning stages offer larger ranges of motion as well as higher speeds but are expensive, and their cost is justified only in limited applications. Flexure mechanism-based nanopositioning stages are compact, affordable, and have existed for decades. Flexure mechanisms are jointless, monolithic structures that are free of friction, backlash, and assembly. However, these stages suffer from significant trade-offs between range of motion and high speed. Large range of motion results in geometric non-linearities, which in turn lead to complex dynamics and control challenges. Previous basic research in non-linear flexure mechanics and dynamics, flexure mechanism design, electromagnetic actuators, and control schemes have helped overcome these historical tradeoffs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030811</AwardID>
+<Investigator>
+<FirstName>Shorya</FirstName>
+<LastName>Awtar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shorya Awtar</PI_FULL_NAME>
+<EmailAddress><![CDATA[awtar@umich.edu]]></EmailAddress>
+<NSF_ID>000148893</NSF_ID>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName/>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Low throughput process control (i.e. inspection and metrology) of silicon wafers is currently a bottleneck in semiconductor manufacturing. Market demand for higher performance, increased functionality, smaller sizes, and lower prices in electronic chips has continued to push the industry towards smaller and more complex chip designs. These strong market drivers have led to stringent requirements for highly sensitive inspection and metrology of semiconductor wafers, which results in a tradeoff between throughput and yield. The commercially available process control equipment, limited by nanopositioning stage capabilities, slow down the production throughput. Alternatively, if inadequate inspection and metrology is conducted to maintain throughput, then the yield of functional chips manufactured gets adversely impacted.</p> <p>This I-Corps customer discovery project has helped understand and categorize the needs of the semiconductor inspection and metrology equipment suppliers. Furthermore, I-Corps has helped the team estimate the market size and create a Business Model Canvas (i.e. business plan) for a future tech startup based on high performance flexure-based nanopositioning. The focus of this startup will be on technology innovation, product development, and commercialization. This can lead to much-needed throughput improvement and lower production costs for chip manufacturers. The societal impact of this project will ultimately be in the form of cheaper and ubiquitous electronics that will have a dominos effect on computers, mobile devices, automobiles, robotics, automation, and IoT, among others.</p><br> <p>            Last Modified: 03/12/2023<br>      Modified by: Shorya&nbsp;Awtar</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Low throughput process control (i.e. inspection and metrology) of silicon wafers is currently a bottleneck in semiconductor manufacturing. Market demand for higher performance, increased functionality, smaller sizes, and lower prices in electronic chips has continued to push the industry towards smaller and more complex chip designs. These strong market drivers have led to stringent requirements for highly sensitive inspection and metrology of semiconductor wafers, which results in a tradeoff between throughput and yield. The commercially available process control equipment, limited by nanopositioning stage capabilities, slow down the production throughput. Alternatively, if inadequate inspection and metrology is conducted to maintain throughput, then the yield of functional chips manufactured gets adversely impacted.  This I-Corps customer discovery project has helped understand and categorize the needs of the semiconductor inspection and metrology equipment suppliers. Furthermore, I-Corps has helped the team estimate the market size and create a Business Model Canvas (i.e. business plan) for a future tech startup based on high performance flexure-based nanopositioning. The focus of this startup will be on technology innovation, product development, and commercialization. This can lead to much-needed throughput improvement and lower production costs for chip manufacturers. The societal impact of this project will ultimately be in the form of cheaper and ubiquitous electronics that will have a dominos effect on computers, mobile devices, automobiles, robotics, automation, and IoT, among others.       Last Modified: 03/12/2023       Submitted by: Shorya Awtar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

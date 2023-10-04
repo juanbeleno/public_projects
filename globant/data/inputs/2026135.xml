@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Using Automation to Deliver Photo-Realistic Clothing Simulations for Virtual Fittings]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be to demonstrate the feasibility of the virtual garment creation and try-on system. As businesses increase their e-commerce presence, they face a major challenge: the high rate of returns in e-commerce. The return rate for online purchases exceeds that of in-store purchases by roughly 4 to 1, with customers (52-74%) citing dissatisfaction with the garments’ fit as the primary reason for returns. A reduction in returns as small as 1% could keep over 50 million pounds of goods out of the landfill and return $2.3 B to fashion retailers. This Phase I project is aimed at developing a sophisticated process using 3D modeling and fabric simulation technologies to enable customized fit and sizing visualizations prior to purchase. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will demonstrate the feasibility of the virtual garment creation system by using machine learning, numerical simulations and 3D graphic rendering to generate virtual garments based on (i) images and text that describe the garment and (ii) a minimum set of measurements of the customer's body.  This process will advance the translation of novel approaches to combining artificial intelligence and 3D representation of a deformable shape in a computationally efficient manner.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026135</AwardID>
+<Investigator>
+<FirstName>Marcelino</FirstName>
+<LastName>Rodriguez-Cancio</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marcelino Rodriguez-Cancio</PI_FULL_NAME>
+<EmailAddress><![CDATA[me@marcelinorc.com]]></EmailAddress>
+<NSF_ID>000778920</NSF_ID>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>COUTURE TECHNOLOGIES LLC</Name>
+<CityName>GALLATIN</CityName>
+<ZipCode>370666205</ZipCode>
+<PhoneNumber>6156331917</PhoneNumber>
+<StreetAddress>350 ODOMS BEND RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WDFQQRMAPNN6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COUTURE TECHNOLOGIES, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[COUTURE TECHNOLOGIES LLC]]></Name>
+<CityName/>
+<StateCode>TN</StateCode>
+<ZipCode>370666205</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>As e-commerce becomes a rising force in fashion retail, it faces a major challenge: online purchases are subject to a much higher rate of returns (30-50%) compared to in-store (8.9%). This is mostly due to poor fitting, as it is not possible for customers to try on clothing online. These returns cost retailers money, time, and manpower. Yet, the pressure to offer easy returns for online purchases is great. Indeed, 11,000 apparel stores closed in 2020. While COVID-19 dealt a tremendous blow, closures were already a sustained trend<a href="https://www.zotero.org/google-docs/?T0eBnc">]</a>. The so-called "retail apocalypse" closed 7500 fashion stores in 2019, and 6100 in 2018. Hence, it is critical that fashion brands develop a stronger online presence to survive. In 2019, these returns cost US fashion brands more than $100B dollars, roughly one-third of their total revenue (including brick and mortar sales).<br /><br />To address the online returns fashion e-commerce pain-point, Couture Technologies' proposes an innovative virtual try-on tool [Figure 1] that delivers custom fit and sizing visualizations to retail customers. The Virtual Try-On tool consists of a sophisticated data pipeline using 3D modeling and fabric simulation technologies. Specifically, customers will be able to easily create a personal <em>virtual avatar</em> that reflects their own body measurements and can be used to try on clothes. Using inputs of (i) images and text describing a garment and (ii) a minimum set of measures describing a user's body, the proposed pipeline uses machine learning (ML) algorithms, numerical simulations, and 3D graphic rendering techniques to create a photorealistic image that accurately depicts how the garments a user selects online would look on their body. By allowing customers to accurately visualize how apparel items will look and fit prior to purchase, this technology will reduce the number of online returns, thus reducing brand's costs and improving their margins.<br /><br />&nbsp;Within this landscape, specifically for proposal #2026135, Couture aimed at attacking one major technical challenge that has caused virtual try-on to fail in gaining widespread adoption. This lies in the process to create the 3D virtual garment (i.e. the dataset needed to simulate the physical garment) which is required for the custom fit and sizing visualization. Existing commercial solutions obtain their virtual garments from a combination of CAD files, human technicians, and 3D scanners. However, these processes for virtual garment creation introduce additional economic and logistical challenges that brands might not be able or willing to tackle. To solve this, Couture proposed a virtual garment creation process that uses ML to benefit from more challenging (but far more accessible) data such as web images and text, allowing Couture's virtual try-on to be the first one able to commercially scale to the needs of the industry. </p> <p>Couture worked to demonstrate that it was possible to accomplish the following research objectives:</p> <ul> <li>Create accurate, virtual representations of physical garments using only images and text describing such garments (i.e. accuracy).</li> <li>Obtain such virtual representations of the broadest classes of garments possible (i.e. coverage)</li> <li>To obtain virtual garments lesser time than it would require human experts to build such virtual garments by hand (i.e. construction time).</li> <li>Truthfully represent in a 3D virtual environment the way a user looks wearing a physical garment in real life.</li> </ul> <p>Our findings show that it is possible to accurately build garments from pictures and text in such a way that users think the representation on their bodies is faithful [Figure 2]. Using data analysis, we estimate the algorithm should be able to generate virtual garments for at least 50.2% of all the physical garments in the market today, achieving this with only a handful of Machine Learning models. However, the most significant result is that the algorithm developed significantly increased our virtual garment creation speed between 150% to 700%, depending on the garment type, doubling such speed for most types. Since the profits of Couture are directly related to our ability to create virtual garments, as we charge both for digitization services and pay-per-use of try-on digitized garments, the virtual garment creation speed is the most significant metric. The results obtained from Phase I have convinced us that we must continue investing R&amp;D in this direction and that it is possible and it is profitable to invest in automated ways to generate virtual garments in general. Additionally, we found additional unexpected applications for our research. Currently, we are in the process of creating a closet feature that will allow us to create a garment similar to the ones owned by a brand's buyer. This will allow users to mix and match brand garments with garments similar to the ones the user already owns.</p><br> <p>            Last Modified: 10/27/2021<br>      Modified by: Marcelino&nbsp;Rodriguez Cancio</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2026135/2026135_10699527_1635129758276_Figure1--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2026135/2026135_10699527_1635129758276_Figure1--rgov-800width.jpg" title="Couture's Virtual Try On"><img src="/por/images/Reports/POR/2021/2026135/2026135_10699527_1635129758276_Figure1--rgov-66x44.jpg" alt="Couture's Virtual Try On"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 1: Couture is developing a virtual try-on tool capable of representing a garment being worn by a user. This aims at reducing returns and increasing conversion for online apparel stores. In an initial step, the user selects the garment to try. Secondly, an avatar can be created using several m</div> <div class="imageCredit">Couture Technologies</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Marcelino&nbsp;Rodriguez Cancio</div> <div class="imageTitle">Couture's Virtual Try On</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2026135/2026135_10699527_1635353324953_UserVsClothing--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2026135/2026135_10699527_1635353324953_UserVsClothing--rgov-800width.jpg" title="Real User wearing a Real Garment Vs an Avatar wearing a Virtual Garment"><img src="/por/images/Reports/POR/2021/2026135/2026135_10699527_1635353324953_UserVsClothing--rgov-66x44.jpg" alt="Real User wearing a Real Garment Vs an Avatar wearing a Virtual Garment"></a> <div class="imageCaptionContainer"> <div class="imageCaption">We ask several users to test clothing in real life and compare it to our virtual garments. The figure shows a user and his avatar, produced with our virtual try-on tool.</div> <div class="imageCredit">Couture Technologies</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Marcelino&nbsp;Rodriguez Cancio</div> <div class="imageTitle">Real User wearing a Real Garment Vs an Avatar wearing a Virtual Garment</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ As e-commerce becomes a rising force in fashion retail, it faces a major challenge: online purchases are subject to a much higher rate of returns (30-50%) compared to in-store (8.9%). This is mostly due to poor fitting, as it is not possible for customers to try on clothing online. These returns cost retailers money, time, and manpower. Yet, the pressure to offer easy returns for online purchases is great. Indeed, 11,000 apparel stores closed in 2020. While COVID-19 dealt a tremendous blow, closures were already a sustained trend]. The so-called "retail apocalypse" closed 7500 fashion stores in 2019, and 6100 in 2018. Hence, it is critical that fashion brands develop a stronger online presence to survive. In 2019, these returns cost US fashion brands more than $100B dollars, roughly one-third of their total revenue (including brick and mortar sales).  To address the online returns fashion e-commerce pain-point, Couture Technologies' proposes an innovative virtual try-on tool [Figure 1] that delivers custom fit and sizing visualizations to retail customers. The Virtual Try-On tool consists of a sophisticated data pipeline using 3D modeling and fabric simulation technologies. Specifically, customers will be able to easily create a personal virtual avatar that reflects their own body measurements and can be used to try on clothes. Using inputs of (i) images and text describing a garment and (ii) a minimum set of measures describing a user's body, the proposed pipeline uses machine learning (ML) algorithms, numerical simulations, and 3D graphic rendering techniques to create a photorealistic image that accurately depicts how the garments a user selects online would look on their body. By allowing customers to accurately visualize how apparel items will look and fit prior to purchase, this technology will reduce the number of online returns, thus reducing brand's costs and improving their margins.   Within this landscape, specifically for proposal #2026135, Couture aimed at attacking one major technical challenge that has caused virtual try-on to fail in gaining widespread adoption. This lies in the process to create the 3D virtual garment (i.e. the dataset needed to simulate the physical garment) which is required for the custom fit and sizing visualization. Existing commercial solutions obtain their virtual garments from a combination of CAD files, human technicians, and 3D scanners. However, these processes for virtual garment creation introduce additional economic and logistical challenges that brands might not be able or willing to tackle. To solve this, Couture proposed a virtual garment creation process that uses ML to benefit from more challenging (but far more accessible) data such as web images and text, allowing Couture's virtual try-on to be the first one able to commercially scale to the needs of the industry.   Couture worked to demonstrate that it was possible to accomplish the following research objectives:  Create accurate, virtual representations of physical garments using only images and text describing such garments (i.e. accuracy). Obtain such virtual representations of the broadest classes of garments possible (i.e. coverage) To obtain virtual garments lesser time than it would require human experts to build such virtual garments by hand (i.e. construction time). Truthfully represent in a 3D virtual environment the way a user looks wearing a physical garment in real life.   Our findings show that it is possible to accurately build garments from pictures and text in such a way that users think the representation on their bodies is faithful [Figure 2]. Using data analysis, we estimate the algorithm should be able to generate virtual garments for at least 50.2% of all the physical garments in the market today, achieving this with only a handful of Machine Learning models. However, the most significant result is that the algorithm developed significantly increased our virtual garment creation speed between 150% to 700%, depending on the garment type, doubling such speed for most types. Since the profits of Couture are directly related to our ability to create virtual garments, as we charge both for digitization services and pay-per-use of try-on digitized garments, the virtual garment creation speed is the most significant metric. The results obtained from Phase I have convinced us that we must continue investing R&amp;D in this direction and that it is possible and it is profitable to invest in automated ways to generate virtual garments in general. Additionally, we found additional unexpected applications for our research. Currently, we are in the process of creating a closet feature that will allow us to create a garment similar to the ones owned by a brand's buyer. This will allow users to mix and match brand garments with garments similar to the ones the user already owns.       Last Modified: 10/27/2021       Submitted by: Marcelino Rodriguez Cancio]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Software that allows beekeepers to identify potential bee health issues]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is to improve the health of bees. Pollination due to bees is responsible for more than $15 billion in increased crop value each year. The proposed technology uses artificial intelligence to listen to bees and compare their in-hive sounds to an extensive database of healthy and unhealthy bees.  This technology has the potential to significantly reduce the time commercial beekeepers spend inspecting their bees, and as a result to improve the health of the bees.  The technology also has the potential to allow more people to become backyard beekeepers as they now have a technology tool to help them asses their bees' health.&lt;br/&gt;&lt;br/&gt;This I-Corps project seeks to evaluate the commercial potential of technology that listens to bees at the hive entrance for 30 seconds, and then compares that sound to an onboard proprietary database of recorded reference sounds of bees having specific health issues. Using artificial neural network software, the technology rapidly assesses whether the sounds match those made by bees with one of seven bee health issues significant to beekeepers. These health issues are Queenless, Varroa mite, Africanized, Small Hive Beetle, Foul Brood, Nosema Ceranae and Failing Colony (sometimes referred to as Colony Collapse Disorder). Extensive global research has been conducted on listening to bees in the hive and matching those sounds to very specific bee health issues.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033265</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Firth</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Firth</PI_FULL_NAME>
+<EmailAddress><![CDATA[david.firth@umontana.edu]]></EmailAddress>
+<NSF_ID>000827325</NSF_ID>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Montana</Name>
+<CityName>MISSOULA</CityName>
+<ZipCode>598120003</ZipCode>
+<PhoneNumber>4062436670</PhoneNumber>
+<StreetAddress>32 CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DAY7Z8ZD48Q3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MONTANA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Montana]]></Name>
+<CityName/>
+<StateCode>MT</StateCode>
+<ZipCode>598120001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This I-Corps project was initially aimed at finding a customer base for smartphone-based software that we have developed that listens to bees and tells the beekeeper what, if any, the health issues are with those bees.&nbsp; The I-Corps program first taught us and then had us implement the testing of hypotheses with potential customers without describing the Bee Health Guru itself.&nbsp; At the start of the program we had thought that there were two potential customers for the Bee Health Guru: 1) backyard beekeepers and 2) commercial beekeepers.&nbsp; Through the course of the I-Corps 9-week program, based on the training we received, the work we did with potential customers, and the feedback we got from the I-Corps instructors, we completely changed the basic description of what the Bee Health Guru does. We found that our two potential customers for the Bee Health Guru, backyard beekeepers and commercial beekeepers, were not viable, and found a brand-new customer segment for our technology (the pivot).</p> <p>The pivot was into a rapidly expanding customer segment that we?d not even heard of before:&nbsp; renting out bees for <em>corporate social responsibility</em> purposes.&nbsp; Corporate social responsibility means that a company can show that it is being socially responsible or socially accountable.&nbsp; This is different from the usual focus a business has on serving its customers and providing returns to its stakeholders.&nbsp;</p> <p>We then spent time tracking down master beekeepers who rented out bees for corporate social responsibility purposes, and found them in Denver, CO, and Palm Beach/Miami Beach, FL.&nbsp; Typically, bees are placed on golf courses, but we also found them on hotel roofs.&nbsp; With the I-Corps program funding we were able to go and visit these master beekeepers, talk to them face to face, and see what they do and how they do it.&nbsp; In the process we learnt a lot about the different ways our technology could help these master beekeepers, and figured out a brand-new business offering that could use our technology.</p> <p>The most important findings from our visits to master beekeepers in Denver, CO, and Palm Beach/Miami Beach, FL are:</p> <p>1) <strong>Everyone has to be happy: the bees, the beekeeper, the client and the public</strong>, Sierra Malnove, Palm Beach, FL master beekeeper.&nbsp; This means that the bees must be near food, water and be safe (usually from the public), close to access for the beekeeper to check up on them, provide honey for the hotels and Audubon Cooperative Sanctuary for sustainable resources management practice for the golf courses, and be away from the public so that no one gets stung.&nbsp; The increase in bees and beehives for golf courses, hotels and for the general public because of this provides an increase in scientific literacy and public engagement with science and technology around bees and the technology we have developed.</p> <p>2) Our Bee Health Guru would help master beekeepers deliver their services as it would point the beekeepers to the bee colonies that need the most attention.&nbsp; Time is a scare resource for these master beekeepers, and travel to the bee colonies is a major factor in both time and expense.</p> <p>3) We found a brand-new service that we can offer as a business: <strong>Helping Golf Clubs get Audubon Certification</strong>.&nbsp; The Bee Health Guru lowers the barriers to entry for a master beekeeper providing the ability of golf courses to get this very valuable corporate social responsibility certification.&nbsp; We can provide a complete service for master beekeepers who want to get into the business of placing bees on golf courses by helping them sell the Audubon Cooperative Sanctuary Program for Golf.&nbsp; We can train and guide the master beekeepers to: a) work with the club to select and prepare the site including installing fences, b) install the bees, c) manage the bees over time with the help of the Bee Health Guru, d) help the golf course market that they have their Audubon Cooperative Sanctuary Program for Golf certification to existing and potential new members, e) and finally help the golf course market the golf course?s own honey to existing and potential new members.</p> <p>&nbsp;</p><br> <p>            Last Modified: 04/22/2023<br>      Modified by: David&nbsp;Firth</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This I-Corps project was initially aimed at finding a customer base for smartphone-based software that we have developed that listens to bees and tells the beekeeper what, if any, the health issues are with those bees.  The I-Corps program first taught us and then had us implement the testing of hypotheses with potential customers without describing the Bee Health Guru itself.  At the start of the program we had thought that there were two potential customers for the Bee Health Guru: 1) backyard beekeepers and 2) commercial beekeepers.  Through the course of the I-Corps 9-week program, based on the training we received, the work we did with potential customers, and the feedback we got from the I-Corps instructors, we completely changed the basic description of what the Bee Health Guru does. We found that our two potential customers for the Bee Health Guru, backyard beekeepers and commercial beekeepers, were not viable, and found a brand-new customer segment for our technology (the pivot).  The pivot was into a rapidly expanding customer segment that we?d not even heard of before:  renting out bees for corporate social responsibility purposes.  Corporate social responsibility means that a company can show that it is being socially responsible or socially accountable.  This is different from the usual focus a business has on serving its customers and providing returns to its stakeholders.   We then spent time tracking down master beekeepers who rented out bees for corporate social responsibility purposes, and found them in Denver, CO, and Palm Beach/Miami Beach, FL.  Typically, bees are placed on golf courses, but we also found them on hotel roofs.  With the I-Corps program funding we were able to go and visit these master beekeepers, talk to them face to face, and see what they do and how they do it.  In the process we learnt a lot about the different ways our technology could help these master beekeepers, and figured out a brand-new business offering that could use our technology.  The most important findings from our visits to master beekeepers in Denver, CO, and Palm Beach/Miami Beach, FL are:  1) Everyone has to be happy: the bees, the beekeeper, the client and the public, Sierra Malnove, Palm Beach, FL master beekeeper.  This means that the bees must be near food, water and be safe (usually from the public), close to access for the beekeeper to check up on them, provide honey for the hotels and Audubon Cooperative Sanctuary for sustainable resources management practice for the golf courses, and be away from the public so that no one gets stung.  The increase in bees and beehives for golf courses, hotels and for the general public because of this provides an increase in scientific literacy and public engagement with science and technology around bees and the technology we have developed.  2) Our Bee Health Guru would help master beekeepers deliver their services as it would point the beekeepers to the bee colonies that need the most attention.  Time is a scare resource for these master beekeepers, and travel to the bee colonies is a major factor in both time and expense.  3) We found a brand-new service that we can offer as a business: Helping Golf Clubs get Audubon Certification.  The Bee Health Guru lowers the barriers to entry for a master beekeeper providing the ability of golf courses to get this very valuable corporate social responsibility certification.  We can provide a complete service for master beekeepers who want to get into the business of placing bees on golf courses by helping them sell the Audubon Cooperative Sanctuary Program for Golf.  We can train and guide the master beekeepers to: a) work with the club to select and prepare the site including installing fences, b) install the bees, c) manage the bees over time with the help of the Bee Health Guru, d) help the golf course market that they have their Audubon Cooperative Sanctuary Program for Golf certification to existing and potential new members, e) and finally help the golf course market the golf course?s own honey to existing and potential new members.          Last Modified: 04/22/2023       Submitted by: David Firth]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

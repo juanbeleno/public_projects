@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Developing a Rapid Antibody Generation Platform for Emerging COVID-19 Variants]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Pierstorff</SignBlockName>
+<PO_EMAI>epiersto@nsf.gov</PO_EMAI>
+<PO_PHON>7032922165</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to improve and accelerate the development of antibody therapies to fight the COVID-19 pandemic. Antibody therapies are in development to target SARS-CoV-2, the virus responsible for COVID-19, but emerging virus mutations may result in resistance and require the development of new therapies. Antibody therapies typically enter the clinic after a year of development or longer, and the medical and economic consequences of this delay are severely felt throughout the world. To reduce the time to produce an antibody against an emerging SARS-CoV-2 mutant, this project develops a computational platform trained using massive experimental datasets to rapidly predict the therapeutic potency. This platform will enable drugs against SARS-CoV-2 mutants to more rapidly reach the clinic, saving thousands of lives.  Moreover, the proposed platform can be utilized to predict therapeutic efficacy against future coronavirus strains unassociated with the COVID-19 pandemic, providing an invaluable tool to fight future pandemics.&lt;br/&gt;&lt;br/&gt;The proposed project will demonstrate the feasibility of using quantitative and library-on-library protein interaction datasets to train machine learning models for predicting antibody binding to novel SARS-CoV-2 variants. Existing approaches to build computational predictions for antibody drug development have been limited to few target variants, since datasets with binding measurements against hundreds or thousands of targets are not available. This project involves optimizing and validating a cell-based platform for generating a sufficient quantity and quality of antibody-antigen binding data for training computational models. The platform uses genetically engineered yeast cells and next generation sequencing to link protein interaction strength with cellular mating frequency. To demonstrate feasibility, large multi-chain antibody libraries will be genomically integrated in yeast and enriched for binding to SARS-CoV-2 and related coronaviruses. Next, a large network of antibody-antigen interactions will be measured and validated for quantitative accuracy by comparing to biophysical measurements. Finally, the resulting data will be used to train machine learning models and evaluate their predictive power using cross-validation. Training of computational models with sufficient predictive power will demonstrate the feasibility of using quantitative and library-on-library binding data coupled with machine learning to develop a platform for rapid antibody development to a novel SARS-CoV-2 mutant.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033772</AwardID>
+<Investigator>
+<FirstName>Randolph</FirstName>
+<LastName>Lopez Barrezueta</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Randolph M Lopez Barrezueta</PI_FULL_NAME>
+<EmailAddress><![CDATA[rlopez@aalphabio.com]]></EmailAddress>
+<NSF_ID>000825819</NSF_ID>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>A-Alpha Bio, Inc.</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981212348</ZipCode>
+<PhoneNumber>2068909704</PhoneNumber>
+<StreetAddress>2101 4TH AVE STE 500</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HCTNBH41FKL1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>A-ALPHA BIO INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[A-Alpha Bio, Inc.]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981950001</ZipCode>
+<StreetAddress><![CDATA[4000 Mason Rd.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>008E</Code>
+<Text>Gene and Drug Delivery</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This NSF Small Business Innovation Research (SBIR) Phase I project was focused on developing new experimental and computational technologies for the rapid identification of antibodies that bind targets of interest &ndash; for example, identification of antibodies that bind to variants of SARS-CoV-2, and that could be tested against new viral variants as they arise. To achieve this, under this award, we strengthened our AlphaSeq experimental platform, which is a unique synthetic biology method that enables us to measure quantitatively hundreds of thousands of antibody-target interactions simultaneously. The scale and speed of this approach is unmatched by other methods, which focus on far fewer antibody-target interactions. In one example application from this SBIR we tested the binding profile of more than 70 antibodies against more than 2400 potential targets for a total of nearly 200,000 antibody-target measurements, and were able to quantitatively measure off-target, on-target, and strength of interaction for each.</p> <p>As a component of this award we also built a computational framework and demonstrated that our ability to generate a tremendous scale of highly relevant experimental data enables us to develop machine learning algorithms that can learn the &ldquo;rules&rdquo; of how to proteins interact. As an example of this, we mutated an antibody that binds weakly to a SARS-CoV-2 target protein and measured the interaction strength across all of our mutant antibodies in relation to the wildtype version. Of the thousands of mutations to the antibody, we observed a spectrum of impacts on target binding &ndash; ranging from worse, to no impact, to improved target recognition. Training and applying our machine learning models on these data then enabled us to analyze new antibody sequences, and predict the likelihood of binding to the target. &nbsp;This framework of cyclical experimental measurements and computational predictions is foundational in our ongoing work to use the learned rules of protein interactions for the design, creation, and validation of never-before-seen antibodies that bind to new and emerging targets.</p><br> <p>            Last Modified: 03/31/2022<br>      Modified by: Randolph&nbsp;M&nbsp;Lopez Barrezueta</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This NSF Small Business Innovation Research (SBIR) Phase I project was focused on developing new experimental and computational technologies for the rapid identification of antibodies that bind targets of interest &ndash; for example, identification of antibodies that bind to variants of SARS-CoV-2, and that could be tested against new viral variants as they arise. To achieve this, under this award, we strengthened our AlphaSeq experimental platform, which is a unique synthetic biology method that enables us to measure quantitatively hundreds of thousands of antibody-target interactions simultaneously. The scale and speed of this approach is unmatched by other methods, which focus on far fewer antibody-target interactions. In one example application from this SBIR we tested the binding profile of more than 70 antibodies against more than 2400 potential targets for a total of nearly 200,000 antibody-target measurements, and were able to quantitatively measure off-target, on-target, and strength of interaction for each.  As a component of this award we also built a computational framework and demonstrated that our ability to generate a tremendous scale of highly relevant experimental data enables us to develop machine learning algorithms that can learn the "rules" of how to proteins interact. As an example of this, we mutated an antibody that binds weakly to a SARS-CoV-2 target protein and measured the interaction strength across all of our mutant antibodies in relation to the wildtype version. Of the thousands of mutations to the antibody, we observed a spectrum of impacts on target binding &ndash; ranging from worse, to no impact, to improved target recognition. Training and applying our machine learning models on these data then enabled us to analyze new antibody sequences, and predict the likelihood of binding to the target.  This framework of cyclical experimental measurements and computational predictions is foundational in our ongoing work to use the learned rules of protein interactions for the design, creation, and validation of never-before-seen antibodies that bind to new and emerging targets.       Last Modified: 03/31/2022       Submitted by: Randolph M Lopez Barrezueta]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

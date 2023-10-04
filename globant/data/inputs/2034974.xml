@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A Model-Based Intelligent Agent Approach for Supply Chain Transparency and Resilience]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>408922.00</AwardTotalIntnAmount>
+<AwardAmount>408922</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+<PO_EMAI>gaklutke@nsf.gov</PO_EMAI>
+<PO_PHON>7032922443</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award will contribute to the national prosperity by providing new methods to improve resilience and efficiency of global supply chains, enabling them to respond to unexpected disruptions promptly and proactively.  Supply chains are critical components of all commercial enterprises, and as the COVID-19 pandemic has demonstrated, supply chain efficiency must be balanced with the ability of supply chains to respond to major disruptions.  This project will investigate models for monitoring and operating supply chains using intelligent agents to represent supply chain components, from raw material suppliers, intermediate producers, assemblers, distributors, to end users. The agents have the ability to communicate, share information and negotiate with other agents, as well as to use this information to make local decisions in real time with other agent's status and objectives in mind. The research is expected to lead towards improved operations with lower costs in supply chain management and increased resilience in the face of large-scale disruptions. The project will build data dashboards and open-source software that will be widely disseminated to support supply-chain risk management.  The research activities are integrated with educational and outreach activities, including participation in the Detroit Area Pre-College Engineering Program. &lt;br/&gt;&lt;br/&gt;This award will develop, validate, and calibrate a cloud-based intelligent agent modeling architecture to characterize information, communication, and negotiation in complex supply chains.  Specific research tasks include: characterization of the set of supply chain components that will be modeled with agents, their performance objectives and control activities; construction of communication links and information sets that each agent uses to negotiate with other agents; development of methods for different agents to optimize their actions given their own risk attitudes and uncertainty characterization; and specification of the classes of disturbances in supply chains and development of mechanisms to detect them promptly. The framework is expected to improve modern supply chain management through a new understanding of the characteristics and impact of disruptions and of the requirements and limitations of agent-based technology in supply chain management.  The project will deliver a new distributed control framework with modeling flexibility, communication transparency, and the ability to respond to supply chain disruptions. The approach will be validated through a real-world case study in automotive manufacturing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/26/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>01/23/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034974</AwardID>
+<Investigator>
+<FirstName>Kira</FirstName>
+<LastName>Barton</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kira Barton</PI_FULL_NAME>
+<EmailAddress><![CDATA[bartonkl@umich.edu]]></EmailAddress>
+<NSF_ID>000614093</NSF_ID>
+<StartDate>08/26/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xi Jessie</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xi Jessie Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[xijyang@umich.edu]]></EmailAddress>
+<NSF_ID>000754053</NSF_ID>
+<StartDate>01/23/2023</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Siqian</FirstName>
+<LastName>Shen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Siqian Shen</PI_FULL_NAME>
+<EmailAddress><![CDATA[siqian@umich.edu]]></EmailAddress>
+<NSF_ID>000596783</NSF_ID>
+<StartDate>08/26/2021</StartDate>
+<EndDate>01/23/2023</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress><![CDATA[3003 S State St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>006Y</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071E</Code>
+<Text>MFG ENTERPRISE OPERATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>078E</Code>
+<Text>ENTERPRISE DESIGN &amp; LOGISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~408922</FUND_OBLG>
+</Award>
+</rootTag>

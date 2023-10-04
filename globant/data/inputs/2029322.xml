@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: MolSSI COVID-19 Biomolecular Simulation Data and Algorithm Consortium]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Seung-Jong Park</SignBlockName>
+<PO_EMAI>spark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924383</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In response to the growing COVID-19 pandemic, the Molecular Sciences Software Institute (MolSSI) will leverage its position as a neutral commodity resource to help the global computational molecular sciences community quickly provide their scientific data and expertise to address the COVID-19 crisis. The MolSSI is jointly supported by the Office of Advanced Cyberinfrastructure and the Divisions of Chemistry and Materials Research. The centerpieces of this engagement will be (1) a centralized repository for simulation-related data targeting the virus and host proteins and potential pharmaceuticals, and (2) a select set of MolSSI Software Seed Fellowships for Ph.D. students and postdocs targeting COVID-19 related software tools that operate on the data developed in the repository.  These two components will enable the biomolecular simulation community to share and utilize key data and other resources to help identify the structural and dynamic characteristics of the host-virus complex to generate potential leads for therapeutics.  Although this project is intended to address the acute COVID-19 crisis, in the near term, it also will impact research communities and the next generation of computational molecular scientists in the confrontation and proactive resolution of future world problems.&lt;br/&gt;&lt;br/&gt;The MolSSI will create and curate a large-scale repository containing: simulation input files (structures, configurations, scripts, Jupyter notebooks) in an organized structure; MD trajectories, analysis tools, and ready models for drug discovery; pointers to preprint servers such as arXiv, bioRxiv, and ChemRxiv on biomolecular simulation research in regards SARS-CoV-2; and DOI services that create citable data.  In addition, it will engage the molecular sciences community through a set of Software Fellowships for graduate student and postdocs to carry out software development, such as large-scale MD simulations, design of drug discovery tools such as docking, machine learning for small molecule toxicity predictions, and methods for determining whether new drugs are bioavailable or can be synthesized.  Collectively, these resources will speed the identification and development of leads for antiviral drugs, analyzing structural effects of genetic variation in the SARS-CoV-2 virus, and inhibitors that can disrupt protein-protein interactions to viral entry into cells and adherence to surfaces that cause disease spread.&lt;br/&gt;&lt;br/&gt;This award is being funded by the CARES Act supplemental funds allocated to CISE and MPS.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029322</AwardID>
+<Investigator>
+<FirstName>Teresa</FirstName>
+<LastName>Head-Gordon</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Teresa L Head-Gordon</PI_FULL_NAME>
+<EmailAddress><![CDATA[thg@berkeley.edu]]></EmailAddress>
+<NSF_ID>000282950</NSF_ID>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cecilia</FirstName>
+<LastName>Clementi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cecilia Clementi</PI_FULL_NAME>
+<EmailAddress><![CDATA[cecilia@rice.edu]]></EmailAddress>
+<NSF_ID>000489631</NSF_ID>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Crawford</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas D Crawford</PI_FULL_NAME>
+<EmailAddress><![CDATA[crawdad@vt.edu]]></EmailAddress>
+<NSF_ID>000350632</NSF_ID>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>Blacksburg</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240610001</ZipCode>
+<StreetAddress><![CDATA[300 Turner Street, NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The Molecular Sciences Software Institute (MolSSI) saw an opportunity to bring scientists from across the computational molecular sciences (CMS) together and work together to more effectively attack the COVID-19 pandemic. Our position in the CMS field lets us act as a neutral party, not tied to a specific institute or company. The start of the pandemic and the numerous scientists who reached out to us, indicated a need for researchers to share their own works publicly for other researchers to use. This grant from the National Science Foundation (NSF) provided our team with the resources to approach the COVID-19 pandemic in a three-fold approach: 1) Create a centralized place where CMS researchers could share their own work, while accessing others&rsquo; work in a logically organized way; 2) Create a primer for the biological and scientific impact each researcher&rsquo;s work would have in the larger scope of both understanding the virus and working to create drugs to combat it. This primer could then be tied into the centralized work share and available on-demand; 3) Commission specialized research projects into COVID-19 from a select few graduate students and postdoctoral candidates &ndash; MolSSI COVID-19 Software Fellows &ndash; to work at the bleeding edge of the CMS field with respect to COVID-19. Their work then improved the primer and information, and then could be uploaded to the centralized knowledge share.</p> <div><br />These three approaches together helped speed the sharing of information between the CMS community and helped deliver a consistent, easily accessed repository of efforts and data for everyone to use. The MolSSI/BioExcel COVID-19 Hub &ndash; located at covid.molssi.org &ndash; is the centralized data resource that was developed under this grant. The Hub has had over 18,000 worldwide users, contributions from over 100 different research groups, over 200 ready-to-use COVID-19 models under different conditions for researchers to examine and experiment on for drug development, and enough simulation data to rival even what the largest supercomputers could hope to achieve. The specialized research projects carried out by our COVID-19 Software Fellows have produced a number of the simulations and models in the Hub along with over a dozen different journal publications and technologies spanning generalized methods to assess drug effectiveness against COVID-19, specific variant targeting and spread modeling, and techniques to combat the next pandemic before it can become as widespread.</div><br> <p>            Last Modified: 08/27/2021<br>      Modified by: Thomas&nbsp;D&nbsp;Crawford</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The Molecular Sciences Software Institute (MolSSI) saw an opportunity to bring scientists from across the computational molecular sciences (CMS) together and work together to more effectively attack the COVID-19 pandemic. Our position in the CMS field lets us act as a neutral party, not tied to a specific institute or company. The start of the pandemic and the numerous scientists who reached out to us, indicated a need for researchers to share their own works publicly for other researchers to use. This grant from the National Science Foundation (NSF) provided our team with the resources to approach the COVID-19 pandemic in a three-fold approach: 1) Create a centralized place where CMS researchers could share their own work, while accessing others’ work in a logically organized way; 2) Create a primer for the biological and scientific impact each researcher’s work would have in the larger scope of both understanding the virus and working to create drugs to combat it. This primer could then be tied into the centralized work share and available on-demand; 3) Commission specialized research projects into COVID-19 from a select few graduate students and postdoctoral candidates &ndash; MolSSI COVID-19 Software Fellows &ndash; to work at the bleeding edge of the CMS field with respect to COVID-19. Their work then improved the primer and information, and then could be uploaded to the centralized knowledge share.  These three approaches together helped speed the sharing of information between the CMS community and helped deliver a consistent, easily accessed repository of efforts and data for everyone to use. The MolSSI/BioExcel COVID-19 Hub &ndash; located at covid.molssi.org &ndash; is the centralized data resource that was developed under this grant. The Hub has had over 18,000 worldwide users, contributions from over 100 different research groups, over 200 ready-to-use COVID-19 models under different conditions for researchers to examine and experiment on for drug development, and enough simulation data to rival even what the largest supercomputers could hope to achieve. The specialized research projects carried out by our COVID-19 Software Fellows have produced a number of the simulations and models in the Hub along with over a dozen different journal publications and technologies spanning generalized methods to assess drug effectiveness against COVID-19, specific variant targeting and spread modeling, and techniques to combat the next pandemic before it can become as widespread.       Last Modified: 08/27/2021       Submitted by: Thomas D Crawford]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

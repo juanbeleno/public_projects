@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[PPoSS: Planning: Cross-Layer Design for Cost-Effective HPC in the Cloud]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wei Ding</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Many high-performance computing (HPC) applications of national importance (e.g., nuclear simulations, climate modeling, drug discovery, epidemiology, and finance) process enormous datasets and have significant resource demands and strict performance/accuracy/power constraints. Ever-changing hardware elements (e.g., emerging new compute elements) and systems software (continuous fixes to operating systems, compilers and runtime systems) make hosting such HPC applications in locally-managed compute platforms increasingly less attractive.  A promising alternate approach is to host these applications in the cloud.  However, making legacy HPC applications cloud-ready and identifying the best blend of cloud services for a given application are significant challenges that need to be addressed. In this project, a holistic, cross-layer approach is taken to address the problem of securely mounting such HPC applications in the cloud with high efficiency, low cost, and good performance. A key distinguishing aspect of this project is that it combines both compile-time and run-time innovations and makes contributions to both client and cloud-provider sides. &lt;br/&gt;&lt;br/&gt;This project spans the following five complementary thrusts, all of which are made  challenging by the increasing complexity and scale of the HPC applications of interest, and by the complexity of cloud service offerings and application service-level objectives: (i) characterizing HPC application behavior on myriad cloud infrastructural options;  (ii) compiler support for HPC application cloudization; (iii) novel programming language support -- Object-as-a-Service (OaaS); (iv) workload placement and scheduling support; and (v)  systems software support for PaaS/SaaS on heterogeneous hardware.  The ultimate goal of this project is to devise systematic methodologies for mapping HPC applications to different types of services (spanning IaaS, SaaS, FaaS, OaaS) in multi/hybrid-cloud.  This research facilitates improvements in the costs of running HPC applications. This project also enables easy transitioning of HPC applications from one cloud to another and provides data for cloud architecture designers to tune their systems better for current and future HPC workloads. In addition to its technical contributions, this project involves various educational and outreach activities as well. In particular, a new graduate curriculum for cloud computing focusing on HPC applications is created and freely disseminated.  Finally, the code being developed and experimental results collected are documented and open-sourced.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028929</AwardID>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Kesidis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>George Kesidis</PI_FULL_NAME>
+<EmailAddress><![CDATA[kesidis@gmail.com]]></EmailAddress>
+<NSF_ID>000490250</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mahmut</FirstName>
+<LastName>Kandemir</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mahmut T Kandemir</PI_FULL_NAME>
+<EmailAddress><![CDATA[mtk2@psu.edu]]></EmailAddress>
+<NSF_ID>000163936</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bhuvan</FirstName>
+<LastName>Urgaonkar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bhuvan Urgaonkar</PI_FULL_NAME>
+<EmailAddress><![CDATA[bhuvan@cse.psu.edu]]></EmailAddress>
+<NSF_ID>000104900</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>201 OLD MAIN</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>University Park</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168021503</ZipCode>
+<StreetAddress><![CDATA[110 Technology Center Building]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>PPoSS-PP of Scalable Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~250000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The main goal of this project was to automate the mapping of high-performance computing (HPC) applications to cloud environments. With the emergence of cloud platforms and easy access to them, many HPC application owners are planning to migrate their applications/workloads to cloud. Unfortunately, this is not a trivial task as it requires understanding the technical details of cloud and impact of different service pricing strategies. This project automated HPC applications-to-cloud migration using well-known techniques from the optimizing/parallelizing compiler domain.&nbsp; The project showed that both loop-based applications and microservice-based applications can be mapped to cloud with the goal of maximizing application performance under a given monetary budget. In short, this NSF project has made significant constributions in three inter-related research domains: (i) Automated code partitioning across different cloud services; (ii)&nbsp;Exploring alternative cloud paradigms; and (iii)&nbsp;Cloud service tuning and containerization for heterogeneous cloud platforms.&nbsp;&nbsp;</p> <p>The project also contributed to the PhD theses of at least two students - one on mapping loop-based HPC codes to serverless (FaaS) model, and one on mapping of microservice-based applications to heterigeneous cloud platforms (in terms of both datacenter architecture and available cloud services). Finally, the results were/are being disseminated to the research community at large via timely publications in relevant computer science venues.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/05/2023<br>      Modified by: Mahmut&nbsp;T&nbsp;Kandemir</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The main goal of this project was to automate the mapping of high-performance computing (HPC) applications to cloud environments. With the emergence of cloud platforms and easy access to them, many HPC application owners are planning to migrate their applications/workloads to cloud. Unfortunately, this is not a trivial task as it requires understanding the technical details of cloud and impact of different service pricing strategies. This project automated HPC applications-to-cloud migration using well-known techniques from the optimizing/parallelizing compiler domain.  The project showed that both loop-based applications and microservice-based applications can be mapped to cloud with the goal of maximizing application performance under a given monetary budget. In short, this NSF project has made significant constributions in three inter-related research domains: (i) Automated code partitioning across different cloud services; (ii) Exploring alternative cloud paradigms; and (iii) Cloud service tuning and containerization for heterogeneous cloud platforms.    The project also contributed to the PhD theses of at least two students - one on mapping loop-based HPC codes to serverless (FaaS) model, and one on mapping of microservice-based applications to heterigeneous cloud platforms (in terms of both datacenter architecture and available cloud services). Finally, the results were/are being disseminated to the research community at large via timely publications in relevant computer science venues.           Last Modified: 03/05/2023       Submitted by: Mahmut T Kandemir]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

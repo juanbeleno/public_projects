@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Reducing Numerical Weather Forecasting Computational Expense Using Machine Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>254060.00</AwardTotalIntnAmount>
+<AwardAmount>254060</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is the development of artificial intelligence (AI) weather forecasting tools to improve forecast accuracy and strengthen power grid resiliency. The United States is currently transitioning to an increasingly renewable energy-based economy. The availability of the leading renewable sources, solar and wind, vary with weather, making forecasts critical to plan for daily plant and energy grid operations. When weather forecasts are wrong, the grid suffers inefficiencies, causing power prices to spike and hurt consumers. Worldwide, national weather agencies continually release weather data to the public. This project demonstrates the feasibility of improving weather forecasting by collecting, organizing, and leveraging large public weather datasets in real-time. AI will sort through these data to deliver advanced weather insights to the energy industry as well as other commercial consumers requiring high fidelity forecasts. These insights will allow energy market participants to anticipate market movements, correct inefficiencies, and lead to a more resilient energy grid and power distribution.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to advance the state of weather forecasting by augmenting physics-based atmospheric models with artificial intelligence. The intellectual merit of this project is the development of a toolkit of algorithms that in real-time applies AI to detect errors in weather forecasts and uses machine learning accessing historical forecasts to provide error correction. The project’s objectives are 1) development of a database of historical wind forecast data corresponding to major Texas wind farm sites; 2) training and validation of an ensemble of AI algorithms, e.g. artificial neural networks, random forests, and probabilistic analogs, that detect errors in historical forecast data; and 3) development of software that ingests publicly available weather forecasts from physics-based models, applies AI algorithms, and delivers advanced weather forecast insights in real-time. This research will provide feasibility that AI algorithms can easily integrate with high-fidelity models to complement the existing weather forecasting infrastructure. The technology developed in this project is a general environmental forecasting framework that demonstrates the use of AI/ML applications to a broad set of weather-dependent scientific and engineering challenges.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/09/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/09/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051891</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Sherman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas Sherman</PI_FULL_NAME>
+<EmailAddress><![CDATA[tjsherman24@gmail.com]]></EmailAddress>
+<NSF_ID>000836620</NSF_ID>
+<StartDate>08/09/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CRCL SOLUTIONS LLC</Name>
+<CityName>FAIRFAX STATION</CityName>
+<ZipCode>220391222</ZipCode>
+<PhoneNumber>7039730204</PhoneNumber>
+<StreetAddress>11610 HAVENNER RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DH7GNUHGFL18</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CRCL SOLUTIONS LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CRCL SOLUTIONS LLC]]></Name>
+<CityName>South Bend</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>466171148</ZipCode>
+<StreetAddress><![CDATA[317 Tonti Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8609</Code>
+<Text>Other Energy Research</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~254060</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Both the United States and global energy infrastructure is undergoing a rapid transition from fossil fuel-based sources to renewables sources, such as wind and solar energy. Wind and solar energy production are heavily dependent on the weather. Wind energy production is related to the wind speed and direction, while solar production is related to incoming solar radiation and cloud coverage. An outstanding challenge in the renewable energy community is forecasting how much energy will be produced by weather dependent energy sources. Predicting energy production is important for grid optimization and energy price forecasting.</p> <p>&nbsp;</p> <p>Errors in weather forecasting lead to errors in energy forecasting and create energy market volatility. Hence, a first step in improving energy forecasting is improving weather forecasting. Typically, energy forecasting relies on using data from large-scale atmospheric models provided by federally funded groups, e.g. NOAA, and 3<sup>rd</sup> party vendors. While such models do a remarkable job of forecasting general continental-wide weather conditions, they do suffer from local biases that can manifest as large errors in wind energy production forecasts. In other words, the model that is the ?best? weather model for the entire United States, might not be the most accurate wind model for a specific wind farm site.</p> <p>&nbsp;</p> <p>Fortunately, there is a wealth of publicly available historical forecast and observational weather data archived by NOAA, meaning historical weather forecasts can be compared with actual measurements and we can identify where weather models typically fail. The latest advancements in artificial intelligence and machine learning can ingest these large historical weather databases and learn typical model trends. Then using historical analysis, the AI/ML models can be applied to operational weather data to provide real-time corrections and improve the current state of forecasting.</p> <p>&nbsp;</p> <p>In this phase 1 SBIR project, CRCL developed a novel modeling pipeline that ingests operational NOAA High Resolution Rapid Refresh (HRRR) wind speed data, corrects it with a suite of AI/ML algorithms, and converts this corrected wind speed data into an advanced wind production forecast. The HRRR is NOAA?s high-resolution, highest fidelity operational continental weather model and its operational data is publicly available. In this project, we pulled over 100 billion historical weather forecast and observational samples and trained an AI/ML model suite to learn historical model trends. The models were then validated on blind data that was not included in the training data. The AI/ML models were tested by predicting wind speed at 253 wind farm sites in Texas? ERCOT market. The AI/ML models demonstrated that they could improve wind speed forecast error by over 25%. After validation, these models were implemented into CRCL?s cloud environment, where they correct operational weather data in real-time, and feed into a power production model. Due to this SBIS research, CRCL can now provide advanced energy insights at nearly every wind farm operating in Independent System Operators (ISO). CRCL provides an hourly forecast (extending 48 hours) four times a day and is building a reputation as the industry?s best short-term wind energy production forecast vendor.</p> <p>&nbsp;</p><br> <p>            Last Modified: 05/11/2022<br>      Modified by: Thomas&nbsp;Sherman</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Both the United States and global energy infrastructure is undergoing a rapid transition from fossil fuel-based sources to renewables sources, such as wind and solar energy. Wind and solar energy production are heavily dependent on the weather. Wind energy production is related to the wind speed and direction, while solar production is related to incoming solar radiation and cloud coverage. An outstanding challenge in the renewable energy community is forecasting how much energy will be produced by weather dependent energy sources. Predicting energy production is important for grid optimization and energy price forecasting.     Errors in weather forecasting lead to errors in energy forecasting and create energy market volatility. Hence, a first step in improving energy forecasting is improving weather forecasting. Typically, energy forecasting relies on using data from large-scale atmospheric models provided by federally funded groups, e.g. NOAA, and 3rd party vendors. While such models do a remarkable job of forecasting general continental-wide weather conditions, they do suffer from local biases that can manifest as large errors in wind energy production forecasts. In other words, the model that is the ?best? weather model for the entire United States, might not be the most accurate wind model for a specific wind farm site.     Fortunately, there is a wealth of publicly available historical forecast and observational weather data archived by NOAA, meaning historical weather forecasts can be compared with actual measurements and we can identify where weather models typically fail. The latest advancements in artificial intelligence and machine learning can ingest these large historical weather databases and learn typical model trends. Then using historical analysis, the AI/ML models can be applied to operational weather data to provide real-time corrections and improve the current state of forecasting.     In this phase 1 SBIR project, CRCL developed a novel modeling pipeline that ingests operational NOAA High Resolution Rapid Refresh (HRRR) wind speed data, corrects it with a suite of AI/ML algorithms, and converts this corrected wind speed data into an advanced wind production forecast. The HRRR is NOAA?s high-resolution, highest fidelity operational continental weather model and its operational data is publicly available. In this project, we pulled over 100 billion historical weather forecast and observational samples and trained an AI/ML model suite to learn historical model trends. The models were then validated on blind data that was not included in the training data. The AI/ML models were tested by predicting wind speed at 253 wind farm sites in Texas? ERCOT market. The AI/ML models demonstrated that they could improve wind speed forecast error by over 25%. After validation, these models were implemented into CRCL?s cloud environment, where they correct operational weather data in real-time, and feed into a power production model. Due to this SBIS research, CRCL can now provide advanced energy insights at nearly every wind farm operating in Independent System Operators (ISO). CRCL provides an hourly forecast (extending 48 hours) four times a day and is building a reputation as the industry?s best short-term wind energy production forecast vendor.          Last Modified: 05/11/2022       Submitted by: Thomas Sherman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

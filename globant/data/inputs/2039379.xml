@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SaTC: CORE: Medium: Toward Age-Aware Continuous Authentication on Personal Computing Devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>255486.00</AwardTotalIntnAmount>
+<AwardAmount>255486</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeremy Epstein</SignBlockName>
+<PO_EMAI>jepstein@nsf.gov</PO_EMAI>
+<PO_PHON>7032928338</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Current software for user authentication relies on the user to directly initiate some interaction (i.e., active authentication). However, active authentication systems are not accessible to individuals across all age groups. Continuous authentication schemes transparently observe a user's natural multimodal behaviors to leverage all possible signals as input for authentication, and hence do not require explicit authentication interactions to be initiated by the user, and are thus a promising framework for authentication by individuals of different age groups. This project's novelties are 1) to advance understanding of how individuals of different age groups use and perceive existing authentication methods, especially concerning users' mental models and acceptance of monitoring for the purposes of continuous authentication, and 2) to collect and analyze a variety of user signals in multiple behavioral and physiological modalities for age-aware continuous authentication on personal computing devices. This research also informs the design of continuous authentication interactions in other contexts such as public spaces and other smart environments, in which continuous authentication might be useful. &lt;br/&gt;&lt;br/&gt;The research includes three phases. (1) Elicit the mental models multi-generational users have of what it means to authenticate to a system, if and when they expect the system to re-authenticate them to confirm their identity as they continue to interact, and if and how they expect to receive feedback of authentication attempts. (2) Produce a novel dataset of behavioral and physiological data, such as touch gestures, keystroke dynamics, heart-rate variability, and skin temperature, through a series of data collection sessions wherein individuals of different age groups will be recruited to complete a diverse set of tasks. (3) Develop fundamental knowledge of age-aware continuous authentication through the analysis of these data using state-of-the-art machine and deep learning techniques. This project broadens participation in computing by involving students underrepresented in STEM and through K-12 outreach.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/16/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039379</AwardID>
+<Investigator>
+<FirstName>Jaime</FirstName>
+<LastName>Ruiz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jaime Ruiz</PI_FULL_NAME>
+<EmailAddress><![CDATA[jaime.ruiz@ufl.edu]]></EmailAddress>
+<NSF_ID>000633045</NSF_ID>
+<StartDate>03/16/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Anthony</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lisa Anthony</PI_FULL_NAME>
+<EmailAddress><![CDATA[lanthony@cise.ufl.edu]]></EmailAddress>
+<NSF_ID>000610857</NSF_ID>
+<StartDate>03/16/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1523 UNION RD RM 207</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName/>
+<StateCode>FL</StateCode>
+<ZipCode>326112002</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255486</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The convenience offered by smart home devices such as Amazon Alexa, Google Home, and similar products has revolutionized how users interact with their living spaces. However, this convenience also raises significant challenges regarding data privacy and security. Since smart home devices are connected to the internet within the Internet of Things (IoT) environment, they become vulnerable to cyber-attacks and unauthorized access, potentially resulting in the theft of personal information or compromising users' physical security. In addition, smart home contexts often involve multiple potential users, including those of different ages such as children and older adults, whose needs, expectations, and abilities related to security, authentication, and access may vary greatly.</p> <p>Continuous Authentication (CA) is an emerging security technology that intermittently verifies user identities based on passive observation and monitoring of user behaviors, without requiring users to explicitly authenticate themselves via, for example, passwords. CA allows for a more seamless user experience in the smart home and can significantly reduce the risk of unauthorized access. However, this continuous monitoring, which is required for the effective operation of smart home services, presents another layer of challenges to privacy and security. All of these concerns highlight the need for improved security measures and privacy protection in smart homes. Furthermore, developing a clear understanding of users' attitudes toward these challenges and CA in general is crucial for assessing its acceptance and potential for adoption.</p> <p>In this two-year project, we conducted a series of research focus groups with over 30 participants (ages 18 to 35) to investigate how potential end-users of continuous authentication technology think about security, privacy, data, and CA. We created a conceptual video to illustrate usage scenarios for CA in lay language. These focus groups revealed key insights and a conceptual model of CA that will be informative for future design and research for this technology. Our team also conducted an exhaustive literature review to explore the state of the field in terms of understanding users' needs, expectations, and abilities regarding security and authentication, especially considering how these might vary across age groups including children and older adults.</p> <p>Key findings from our focus groups research activities revealed that <em>system transparency </em>is a pivotal factor in mediating the relationship between users and systems for CA applications. Transparency means that the system will reveal to its users details of its operation, such as: why did it authenticate them, why didn't it authenticate them, why did it accidentally authenticate someone else, what access might it give to unauthorized users in case of errors, and so on. This concept has been explored in prior work, but the conceptual model our research generated establishes a concrete framework for thinking about design in the CA domain.</p> <p>A second key finding revealed the underlying motivations users have and trade-offs that they are willing to make related to convenience of an application and security/privacy concerns of monitoring and data sharing. This willingness to compromise has been identified in cybersecurity research, but our work digs deeper into the reasons when and why users make these compromises. Our results showed that users make such trade-offs based on the context of use, the data involved, and the people/relationships involved. For example, the closer the relationship between users, the more likely they are to be willing to share or grant access to their personal data. Users also often mentioned they place more trust in large, well-known companies like Amazon and Google to safeguard their data.</p> <p>Also, our literature review established a wide gap in the field's understanding of age-related differences in support of users in the security and privacy domain. The results of this research will motivate further investigation, design, and development of security and privacy technologies for security in general, and CA specifically.</p> <p>Ultimately, the final outcomes of this project show that there is a clear and present need to design context-aware CA systems that provide explicit information on their security measures, privacy safeguards, and convenience features to help users of all ages make informed decisions about their adoption and use.</p> <p>We have shared our research results with the public though journal publications, conference presentations, and local, national, and international events. The conceptual model we created, along with the illustrating video scenarios, can serve to inform the design and development of future CA systems for all age groups.<strong></strong></p> <p>The broader impacts of this project at the University of Florida include the training and mentorship of eight students (seven graduate students and one undergraduate student), including four students who identify as female and one student who identifies as Latino. These students learned relevant research methods and procedures, including human-computer interaction research methods such as participant recruiting, focus groups, affinity diagramming, and quantitative data collection, as well as literature reviews, cybersecurity research, academic writing, and design methods.</p> <p>Video images created with Storyboard That tool.</p><br> <p>            Last Modified: 06/02/2023<br>      Modified by: Lisa&nbsp;Anthony</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2039379/2039379_10722687_1685720631279_SATC-CA-demo-01--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2039379/2039379_10722687_1685720631279_SATC-CA-demo-01--rgov-800width.jpg" title="Screenshot from our conceptual video showing two parents asking their smart fridge to add butter to their shopping list."><img src="/por/images/Reports/POR/2023/2039379/2039379_10722687_1685720631279_SATC-CA-demo-01--rgov-66x44.jpg" alt="Screenshot from our conceptual video showing two parents asking their smart fridge to add butter to their shopping list."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Screenshot from our conceptual video showing two parents asking their smart fridge to add butter to their shopping list. The smart fridge recognizes Mr. Smith�s voice and adds butter to his shopping list.</div> <div class="imageCredit">Wang et al, under review</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Lisa&nbsp;Anthony</div> <div class="imageTitle">Screenshot from our conceptual video showing two parents asking their smart fridge to add butter to their shopping list.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2039379/2039379_10722687_1685720732447_SATC-CA-demo-02--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2039379/2039379_10722687_1685720732447_SATC-CA-demo-02--rgov-800width.jpg" title="Screenshot from our conceptual video showing a young child asking the smart fridge to add candy to the shopping list."><img src="/por/images/Reports/POR/2023/2039379/2039379_10722687_1685720732447_SATC-CA-demo-02--rgov-66x44.jpg" alt="Screenshot from our conceptual video showing a young child asking the smart fridge to add candy to the shopping list."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Screenshot from our conceptual video showing a young child asking the smart fridge to add candy to the shopping list. When it recognizes little Johnny�s voice, it prompts Johnny to ask for permission first.</div> <div class="imageCredit">Wang et al, under review</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Lisa&nbsp;Anthony</div> <div class="imageTitle">Screenshot from our conceptual video showing a young child asking the smart fridge to add candy to the shopping list.</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The convenience offered by smart home devices such as Amazon Alexa, Google Home, and similar products has revolutionized how users interact with their living spaces. However, this convenience also raises significant challenges regarding data privacy and security. Since smart home devices are connected to the internet within the Internet of Things (IoT) environment, they become vulnerable to cyber-attacks and unauthorized access, potentially resulting in the theft of personal information or compromising users' physical security. In addition, smart home contexts often involve multiple potential users, including those of different ages such as children and older adults, whose needs, expectations, and abilities related to security, authentication, and access may vary greatly.  Continuous Authentication (CA) is an emerging security technology that intermittently verifies user identities based on passive observation and monitoring of user behaviors, without requiring users to explicitly authenticate themselves via, for example, passwords. CA allows for a more seamless user experience in the smart home and can significantly reduce the risk of unauthorized access. However, this continuous monitoring, which is required for the effective operation of smart home services, presents another layer of challenges to privacy and security. All of these concerns highlight the need for improved security measures and privacy protection in smart homes. Furthermore, developing a clear understanding of users' attitudes toward these challenges and CA in general is crucial for assessing its acceptance and potential for adoption.  In this two-year project, we conducted a series of research focus groups with over 30 participants (ages 18 to 35) to investigate how potential end-users of continuous authentication technology think about security, privacy, data, and CA. We created a conceptual video to illustrate usage scenarios for CA in lay language. These focus groups revealed key insights and a conceptual model of CA that will be informative for future design and research for this technology. Our team also conducted an exhaustive literature review to explore the state of the field in terms of understanding users' needs, expectations, and abilities regarding security and authentication, especially considering how these might vary across age groups including children and older adults.  Key findings from our focus groups research activities revealed that system transparency is a pivotal factor in mediating the relationship between users and systems for CA applications. Transparency means that the system will reveal to its users details of its operation, such as: why did it authenticate them, why didn't it authenticate them, why did it accidentally authenticate someone else, what access might it give to unauthorized users in case of errors, and so on. This concept has been explored in prior work, but the conceptual model our research generated establishes a concrete framework for thinking about design in the CA domain.  A second key finding revealed the underlying motivations users have and trade-offs that they are willing to make related to convenience of an application and security/privacy concerns of monitoring and data sharing. This willingness to compromise has been identified in cybersecurity research, but our work digs deeper into the reasons when and why users make these compromises. Our results showed that users make such trade-offs based on the context of use, the data involved, and the people/relationships involved. For example, the closer the relationship between users, the more likely they are to be willing to share or grant access to their personal data. Users also often mentioned they place more trust in large, well-known companies like Amazon and Google to safeguard their data.  Also, our literature review established a wide gap in the field's understanding of age-related differences in support of users in the security and privacy domain. The results of this research will motivate further investigation, design, and development of security and privacy technologies for security in general, and CA specifically.  Ultimately, the final outcomes of this project show that there is a clear and present need to design context-aware CA systems that provide explicit information on their security measures, privacy safeguards, and convenience features to help users of all ages make informed decisions about their adoption and use.  We have shared our research results with the public though journal publications, conference presentations, and local, national, and international events. The conceptual model we created, along with the illustrating video scenarios, can serve to inform the design and development of future CA systems for all age groups.  The broader impacts of this project at the University of Florida include the training and mentorship of eight students (seven graduate students and one undergraduate student), including four students who identify as female and one student who identifies as Latino. These students learned relevant research methods and procedures, including human-computer interaction research methods such as participant recruiting, focus groups, affinity diagramming, and quantitative data collection, as well as literature reviews, cybersecurity research, academic writing, and design methods.  Video images created with Storyboard That tool.       Last Modified: 06/02/2023       Submitted by: Lisa Anthony]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

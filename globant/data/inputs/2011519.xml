@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Advancing Theoretical Understanding of Accelerated Nonlinear Solvers, with Applications to Fluids]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>175379.00</AwardTotalIntnAmount>
+<AwardAmount>175379</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Many mathematical models used to describe and predict behavior of physical, biological, chemical, and financial systems lead to systems of equations for which the problem coefficients depend on an unknown solution. These are known as nonlinear problems, and they are solved iteratively, by generating a sequence of successive approximations.  For many such problems, even state of-the-art solution methods can be slow, can fail, and may not be robust with respect to changes in the underlying problem data. This project aims to develop faster and more reliable iterative solution techniques using methods which recombine information from previous approximations to create a more accurate next approximation.  Theory will be developed to mathematically show how these methods improve current solution techniques, and the improved methods will be demonstrated on a wide range of systems that arise from important practical problems in optics and fluid mechanics. This project provides research training opportunities for graduate students.&lt;br/&gt;&lt;br/&gt;The efficient solution of systems of nonlinear equations is essential to the high-fidelity simulation technology necessary for predictive physical modeling throughout engineering and the life sciences.  An extrapolation technique commonly referred to as Anderson acceleration (AA) has been known since 1965 to often improve the efficiency and robustness of iterative solvers for nonlinear problems. It has been successfully used in a surprisingly wide variety of applications, however theoretical understanding of its convergence properties remains largely open. Better theoretical understanding of mathematical algorithms is fundamentally important for both practical implementation and for the creation of the next generation of algorithms. The aim of this proposal is to improve theoretical understanding for AA, and to develop robust and efficient variants with improved convergence properties, both in general settings and for specific nonlinear PDEs. The main theoretical components are (1) the analysis of a variant using principal component analysis; (2) the design and analysis of robust adaptive damping and algorithmic depth strategies for noncontractive operators; (3) the analysis of the superlinear convergence of accelerated Newton iterations for degenerate problems.  The proposed work will include theory and practical application of AA to several difficult nonlinear PDEs from fluid mechanics and optics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011519</AwardID>
+<Investigator>
+<FirstName>Sara</FirstName>
+<LastName>Pollock</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sara Pollock</PI_FULL_NAME>
+<EmailAddress><![CDATA[s.pollock@ufl.edu]]></EmailAddress>
+<NSF_ID>000735195</NSF_ID>
+<StartDate>05/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1523 UNION RD RM 207</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName>Gainesville</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>326112002</ZipCode>
+<StreetAddress><![CDATA[1 University of Florida]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~175379</FUND_OBLG>
+</Award>
+</rootTag>

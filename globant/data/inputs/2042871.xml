@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FMiTF: Track II: Alloy Analyzer Plus: An Integrated Development Environment for Alloy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>68290.00</AwardTotalIntnAmount>
+<AwardAmount>68290</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pavithra Prabhakar</SignBlockName>
+<PO_EMAI>pprabhak@nsf.gov</PO_EMAI>
+<PO_PHON>7032922585</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[To deliver reliable and correct software systems, developers can create a software model, a representation of their software design written in a mathematical logic, which can then be checked for consistency. Unfortunately, the difficulty in writing models correctly remains a barrier to their adoption for large, complex software designs. This project develops the Alloy Analyzer Plus, an integrated development environment (IDE) toolset, that will provide a one-stop shop for software testing methods and enables the development of correct models written in the Alloy modeling language.&lt;br/&gt;&lt;br/&gt;Specifically, the project will create the Alloy Analyzer Plus IDE by building out two important infrastructure thrusts:  first, the creation of workflows for verification techniques of Alloy models, enabling systematic unit testing, mutation testing and fault localization; and second, the creation of workflows for synthesis techniques of Alloy models, enabling correct from construction models through repair and sketching. These two thrusts will culminate in the creation of a guided development environment that can iteratively walk users through building correct models. &lt;br/&gt;&lt;br/&gt;This project bridges the gap between imperative IDEs and declarative-modeling IDEs. A robust verification-oriented IDE reduces the learning curve for Alloy and facilitates a larger adoption of software modeling. Furthermore, by enabling more reliable Alloy models, this project in turn leads to the development of more reliable software systems. The project will also help enhance formal methods curricula, as the Alloy Analyzer Plus synthesis capabilities provide an interactive tool to teach first-order logic. The project will extensively involve graduate students, notably those from underrepresented minorities, and expose them to formal methods and tool development.&lt;br/&gt;&lt;br/&gt;The main code base will be maintained for a minimum of three years on GitHub under the Apache License 2.0. The public repository, which will accumulate the code, documentation, and evaluation materials, is available at: [https://github.com/alloyanalyzerplus]. An associated GitHub Page will provide quick access to the latest stable release and tutorials for the extensions, and is available at: [https://alloyanalyzerplus.github.io].&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2042871</AwardID>
+<Investigator>
+<FirstName>Allison</FirstName>
+<LastName>Sullivan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Allison Sullivan</PI_FULL_NAME>
+<EmailAddress><![CDATA[allison.sullivan@uta.edu]]></EmailAddress>
+<NSF_ID>000789548</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Arlington</Name>
+<CityName>ARLINGTON</CityName>
+<ZipCode>760199800</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress>701 S. NEDDERMAN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMLUKUPJJ9N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF TEXAS AT ARLINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[university of texas at arlington]]></Name>
+<CityName>Arlington</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>760190145</ZipCode>
+<StreetAddress><![CDATA[701 South Nedderman]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>094Y</Code>
+<Text>FMitF: Formal Methods in the F</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>071Z</Code>
+<Text>FMitF-Formal Methods in the Field</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~68290</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project extended the Alloy Analyzer, the main Integrated Development Environment (IDE), for Alloy, to include built in support for verification and synthesis frameworks for the Alloy modeling language. Our overall project framework, the Alloy Analyzer Plus, is publicly available on GitHub and an entirely open source project.</p> <p>This project improved the native support for declaring test cases in Alloy. This allows for users to systematically check if their model actually allows or prevents a specific behavior, which can be valuable when you are new to writing Alloy models. In addition to improving support for test cases, this project includes support for mutation testing, which helps reveal how strong a test suite is, and fault localization, which highlights portions of the Alloy model we think might be faulty. Together, these efforts help automate the task of exploring whether or not an Alloy model matches the user?s expectation.</p> <p>This project also includes several efforts to provide light weight synthesis of Alloy models. We support sketching Alloy models as an extension to the Analyzer, as well as automated repair. Automated repair uses the fault localization framework to try and figure out which portion of the model might be fault. Then, automated repair uses the sketching framework to fix the model for the user. With repair, we can actually help users get the model right without having to invest in a full synthesis effort, which can have runtime issues.</p> <p>With the efforts of this project released as open source toolsets for the broader community, this project includes access to a collection of real world faulty Alloy models that other developers can use as a resource for other efforts related to improving model accuracy. In addition, this project illustrates to other formal methods practitioners how they may want to consider incorporating common imperative testing practices into their own modeling languages and highlights the advantages that effort can have in improving both the quality of software models.</p> <p>Altogether, both the verification and synthesis support help improve the main Alloy development environment to help steer users towards more accurate Alloy models, which can ultimately lead to more reliable software systems. Moreover, this project in particular enables even novice Alloy users to create more accurate models of their systems.</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/07/2022<br>      Modified by: Allison&nbsp;Sullivan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project extended the Alloy Analyzer, the main Integrated Development Environment (IDE), for Alloy, to include built in support for verification and synthesis frameworks for the Alloy modeling language. Our overall project framework, the Alloy Analyzer Plus, is publicly available on GitHub and an entirely open source project.  This project improved the native support for declaring test cases in Alloy. This allows for users to systematically check if their model actually allows or prevents a specific behavior, which can be valuable when you are new to writing Alloy models. In addition to improving support for test cases, this project includes support for mutation testing, which helps reveal how strong a test suite is, and fault localization, which highlights portions of the Alloy model we think might be faulty. Together, these efforts help automate the task of exploring whether or not an Alloy model matches the user?s expectation.  This project also includes several efforts to provide light weight synthesis of Alloy models. We support sketching Alloy models as an extension to the Analyzer, as well as automated repair. Automated repair uses the fault localization framework to try and figure out which portion of the model might be fault. Then, automated repair uses the sketching framework to fix the model for the user. With repair, we can actually help users get the model right without having to invest in a full synthesis effort, which can have runtime issues.  With the efforts of this project released as open source toolsets for the broader community, this project includes access to a collection of real world faulty Alloy models that other developers can use as a resource for other efforts related to improving model accuracy. In addition, this project illustrates to other formal methods practitioners how they may want to consider incorporating common imperative testing practices into their own modeling languages and highlights the advantages that effort can have in improving both the quality of software models.  Altogether, both the verification and synthesis support help improve the main Alloy development environment to help steer users towards more accurate Alloy models, which can ultimately lead to more reliable software systems. Moreover, this project in particular enables even novice Alloy users to create more accurate models of their systems.          Last Modified: 03/07/2022       Submitted by: Allison Sullivan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

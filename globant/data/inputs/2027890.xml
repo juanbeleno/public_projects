@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF RAPID: Modeling Corona Spread Using Big Data Analytics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>95751.00</AwardTotalIntnAmount>
+<AwardAmount>95751</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Nilsen</SignBlockName>
+<PO_EMAI>wnilsen@nsf.gov</PO_EMAI>
+<PO_PHON>7032922568</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The novel coronavirus COVID-19 is a virus with serious clinical manifestations, including death. Although the ultimate course and impact of COVID-19 are uncertain, public health efforts depend heavily on accurately predicting how COVID-19 spreads across the globe. During new outbreaks, when reliable data are still scarce, researchers turn to mathematical models that can predict where people who could be infected are going and how likely they are to bring the disease with them. This process sometimes involves making assumptions about unknown factors, such as travel patterns. By plugging in different possible versions of each input, however, researchers can update the models as new information becomes available and compare their results to observed patterns for the illness. In this project we propose developing of a model of COVID-19 spread by using innovative big data analytics techniques and tools. We will leverage experience from research in modeling Ebola spread to successfully model Corona spread. We expect to obtain new results, which will help in reducing the number of infected a patients and related deaths. Because of our partner's large database (through our collaboration with LexisNexis), we are proposing "automatic" process, so we can quickly identify the virus' trajectory in a  community to significantly reduce the infection rate and the number of deaths. The proposed research activities have a great potential to advance knowledge within the field of big data analytics as well as across different fields including medical, healthcare, and public applications. &lt;br/&gt;&lt;br/&gt;We propose to develop a model of COVID spread by using innovative big data analytics techniques and tools to understand Corona spread patterns will be fed into a Decision Support System (DSS) for public health systems.  Based on spread patterns, the DSS will then calculate probabilities for a social group or area will get infected with Corona. The data will be presented in the form of reports to responsible state and government agencies, who will then immediately take action of testing and containing virus hotspots. &lt;br/&gt;We will closely collaborate with LexisNexis Corporation, which is a leading US data analytics company and a member of our NSF I/UCRC for Advanced Knowledge Enablement. LexisNexis is committed to provide a large amount of data for our study of computational models to predict the spread of this disease utilizing both, forward simulation and the propagation of the infection into the community and backward simulation, tracing a number of verified infections. Mathematical compartmental models have been successfully applied to predict the behavior of disease outbreaks in many studies. These models aim to understand the dynamics of a disease propagation process and focus on partitioning the population into several health states. Common assumptions can include: number of individuals, infection probability, incubation period, infected recovery time, etc.  These phenomenological assumptions limit the scope of the model while preserving the most realistic aspects of it, but some model dimension assumptions are necessary because actual data does not exist.  Therefore, in our research we plan to use of the proposed emerging technologies could accelerate the accumulation of knowledge around disease propagation in the United States.  In our research we plan to calculate various scores related to Corona spread including: Population density rank, Household mortality risk, Street level mortality risk, and County mortality risk. The project will help build a coalition between Florida Atlantic University and LexisNexis to jointly address public health problems of national and global significance using the state of the art in computer science, big data analytics, data visualization techniques, and decision support systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027890</AwardID>
+<Investigator>
+<FirstName>Borko</FirstName>
+<LastName>Furht</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Borko Furht</PI_FULL_NAME>
+<EmailAddress><![CDATA[borko@cse.fau.edu]]></EmailAddress>
+<NSF_ID>000484092</NSF_ID>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Taghi</FirstName>
+<LastName>Khoshgoftaar</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Taghi M Khoshgoftaar</PI_FULL_NAME>
+<EmailAddress><![CDATA[taghi@cse.fau.edu]]></EmailAddress>
+<NSF_ID>000107129</NSF_ID>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Waseem</FirstName>
+<LastName>Asghar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Waseem Asghar</PI_FULL_NAME>
+<EmailAddress><![CDATA[wasghar@fau.edu]]></EmailAddress>
+<NSF_ID>000699357</NSF_ID>
+<StartDate>06/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida Atlantic University</Name>
+<CityName>BOCA RATON</CityName>
+<ZipCode>334316424</ZipCode>
+<PhoneNumber>5612970777</PhoneNumber>
+<StreetAddress>777 GLADES RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL23</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q266L2NDAVP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA ATLANTIC UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida Atlantic University]]></Name>
+<CityName>BOCA RATON</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>334316424</ZipCode>
+<StreetAddress><![CDATA[777 GLADES RD]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL23</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~95751</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this project we developed a model of COVID-19 spread by using innovative big data analytics techniques and tools. In 2015 we received the NSF RAPID award for the project on Modeling Ebola Spread Using Big Data Analytics.. We presented our results to the Florida government, and Bill Nelson, who was Florida Senator at that time, sent us a congratulatory letter. In this project, we will leverage experience from the Ebola research to successfully model COVID-19 spread. Social groups can be, for example, nurses and doctors who had contact with a COVID-19 patient, or passengers who travelled in the same plane with a COVID-19 patient, or family members of a COVID-19 patent, and others. Based on spread patterns, the Decision Support System calculates probabilities for a social group or a given person to get infected with COVID-19. The data is presented in the form of reports to responsible government agencies.<strong>&nbsp;</strong></p> <p>We closely collaborated with LexisNexis Corporation, which is a leading USA data analytics company and a member of our NSF I/UCRC for Advanced Knowledge Enablement. LexisNexis provided a large amount of data about the relationship of people in the USA. Using Big Data analytics techniques, data about underlying personal relationships, health center locations, and the known mechanisms for spread of the Corona virus, this research analyzed computational models to predict the spread of this disease utilizing both, forward simulation from a given patient and the propagation of the infection into the community and backward simulation, tracing a number of verified infections to a possible patient zero.</p> <p>The accomplishments can be summarized as:</p> <p>We developed the model for tracking COVID-19 cases using big data analytics on LexisNexis HPCC platform..</p> <p>We iinvestigated deep learning techniques for COVID-19.</p> <p>We developed the system for forecasting of COVID-19 spread risk at the county level.</p> <p>These research activities have a great potential to advance knowledge within the proposed field of research as well as across different fields including medical, healthcare, and public applications. The presearch project is on the leading edge of technology in the field of big data analytics and data visualization. The completed project also leverages several of our recent interdisciplinary projects that include applications of big data and data mining and visualization techniques in medicine and healthcare.</p> <p>The project helped to build a coalition between FAU and LexisNexis to jointly address public health problems of national and global significance using the state of the art in computer science, big data analytics, data visualization techniques, and decision support systems. The proposed methodology will support solutions for a wide range of other public health issues.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/26/2021<br>      Modified by: Borko&nbsp;Furht</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2027890/2027890_10675784_1635180880848_fig2_Sep18--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2027890/2027890_10675784_1635180880848_fig2_Sep18--rgov-800width.jpg" title="System Architecture"><img src="/por/images/Reports/POR/2021/2027890/2027890_10675784_1635180880848_fig2_Sep18--rgov-66x44.jpg" alt="System Architecture"></a> <div class="imageCaptionContainer"> <div class="imageCaption">System architecture for modeling and tracking COVID-19 pandemic</div> <div class="imageCredit">FAU and LexisNexis</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Borko&nbsp;Furht</div> <div class="imageTitle">System Architecture</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2027890/2027890_10675784_1635181835053_social_graph_user_case_update--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2027890/2027890_10675784_1635181835053_social_graph_user_case_update--rgov-800width.jpg" title="Identifying family and social groups"><img src="/por/images/Reports/POR/2021/2027890/2027890_10675784_1635181835053_social_graph_user_case_update--rgov-66x44.jpg" alt="Identifying family and social groups"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure illustrates how the system identifies and visualize families and tightly connected social groups who have connections with a COVID-19 patent.</div> <div class="imageCredit">FAU and LexisNexis</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Borko&nbsp;Furht</div> <div class="imageTitle">Identifying family and social groups</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ In this project we developed a model of COVID-19 spread by using innovative big data analytics techniques and tools. In 2015 we received the NSF RAPID award for the project on Modeling Ebola Spread Using Big Data Analytics.. We presented our results to the Florida government, and Bill Nelson, who was Florida Senator at that time, sent us a congratulatory letter. In this project, we will leverage experience from the Ebola research to successfully model COVID-19 spread. Social groups can be, for example, nurses and doctors who had contact with a COVID-19 patient, or passengers who travelled in the same plane with a COVID-19 patient, or family members of a COVID-19 patent, and others. Based on spread patterns, the Decision Support System calculates probabilities for a social group or a given person to get infected with COVID-19. The data is presented in the form of reports to responsible government agencies.   We closely collaborated with LexisNexis Corporation, which is a leading USA data analytics company and a member of our NSF I/UCRC for Advanced Knowledge Enablement. LexisNexis provided a large amount of data about the relationship of people in the USA. Using Big Data analytics techniques, data about underlying personal relationships, health center locations, and the known mechanisms for spread of the Corona virus, this research analyzed computational models to predict the spread of this disease utilizing both, forward simulation from a given patient and the propagation of the infection into the community and backward simulation, tracing a number of verified infections to a possible patient zero.  The accomplishments can be summarized as:  We developed the model for tracking COVID-19 cases using big data analytics on LexisNexis HPCC platform..  We iinvestigated deep learning techniques for COVID-19.  We developed the system for forecasting of COVID-19 spread risk at the county level.  These research activities have a great potential to advance knowledge within the proposed field of research as well as across different fields including medical, healthcare, and public applications. The presearch project is on the leading edge of technology in the field of big data analytics and data visualization. The completed project also leverages several of our recent interdisciplinary projects that include applications of big data and data mining and visualization techniques in medicine and healthcare.  The project helped to build a coalition between FAU and LexisNexis to jointly address public health problems of national and global significance using the state of the art in computer science, big data analytics, data visualization techniques, and decision support systems. The proposed methodology will support solutions for a wide range of other public health issues.          Last Modified: 10/26/2021       Submitted by: Borko Furht]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

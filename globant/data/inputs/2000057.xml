@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Dynamics, Groupoids, and C*-Algebras]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>258217.00</AwardTotalIntnAmount>
+<AwardAmount>258217</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+<PO_EMAI>mbocea@nsf.gov</PO_EMAI>
+<PO_PHON>7032922595</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[One key goal of pure mathematics is to classify highly abstract objects; in doing so, invariants can serve to distinguish different types. The key properties of a useful invariant are that it is computable and that it distinguishes many different objects. It is challenging to determine such invariants for dynamical systems, an important class of mathematical structure. This project studies invariants of dynamical systems using the abstract concepts of operator algebras, in particular C*-algebras. The project will involve significant contributions from early-career researchers, graduate students, and undergraduate students, who will benefit from training through research involvement. &lt;br/&gt;&lt;br/&gt;In more detail, given a dynamical system one can (often) construct a C*-algebra using a groupoid construction. The K-theory of this C*- algebra is an invariant of the original dynamical system. An important question is to determine the distinguishing power and computability of this invariant at the dynamical system level. The investigator will study the range of the Elliott invariant, which consists of K-theory and tracial information, for C*-algebras constructed from minimal and hyperbolic dynamical systems. The investigator and collaborators will systematically construct minimal dynamical systems with prescribed K-theory and will compute the K-theory of specific examples of C*-algebras associated to hyperbolic dynamical systems called Smale spaces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2000057</AwardID>
+<Investigator>
+<FirstName>Robin</FirstName>
+<LastName>Deeley</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robin Deeley</PI_FULL_NAME>
+<EmailAddress><![CDATA[robin.deeley@colorado.edu]]></EmailAddress>
+<NSF_ID>000732574</NSF_ID>
+<StartDate>03/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>BOULDER</CityName>
+<ZipCode>803090001</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 MARINE ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 481 572 UCB]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SPVKK1RC2MZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE REGENTS OF THE UNIVERSITY OF COLORADO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Regents of the University of Colorado]]></Name>
+<CityName>Boulder</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>803031058</ZipCode>
+<StreetAddress><![CDATA[3100 Marine St, Room 481, 572 UC]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~258217</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p id="docs-internal-guid-79d27e1e-7fff-6aba-8da6-2f86222add21" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The main area of research for this project was the connection between operator algebras and dynamical systems. This area of research has a long history going back to the work of Frank Murray and John von Neumann. The specific dynamical systems studied were minimal dynamical systems and hyperbolic dynamical systems. From such systems one can construct C*-algebras and we studied the interaction between properties at the dynamical system level and C*-algebra level. In particular, the study of K-theory as an invariant of the relevant dynamical systems played a center role in this research.&nbsp;</span></p> <p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><br /></span></p> <p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The most important results regarding minimal dynamical systems were published in the paper "Classifiable C*-algebras from minimal Z-actions and their orbit-breaking subalgebras" in joint work between the PI, Ian Putnam and Karen Strung. In this paper, we constructed spaces that admit minimal homeomorphism with any given finitely generated K-theory and determined the range of K-theory for crossed products obtained from a minimal homeomorphism on a space with finitely generated K-theory.</span></p> <p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><br /></span></p> <p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The most important results regarding hyperbolic dynamics were published in the paper "Synchronizing Dynamical Systems: their groupoids and C*-algebras" joint between the PI and Andrew Stocker (the PI's first PhD student). The results of this paper open the door to a much larger class of dynamical systems to study and in addition point to some limitations when only considering Smale spaces. For example, there are examples of expansive systems whose C*-algebras have infinite rank K-theory; this cannot occur in the case of Smale spaces.</span></p> <p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><br /></span></p> <p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">A short summary of some other results is as follows. The PI produced the first counterexample to the HK-conjecture that is a principal groupoid. With Magnus Goffeng, Allan Yashinski, the PI studied the Fell algebras associated with a local homeomorphism. With graduate and undergraduate students, the PI studied Smale spaces associated with self-covers of flat manifolds.</span></p> <p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><br /></span></p> <p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 12pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">In terms of broader impacts, four graduate students and nine undergraduate students were involved in the project. They received significant research training and these efforts resulted in the publication "Invariants for the Smale space associated to an expanding endomorphism of a flat manifold". The PI's first PhD student, Andrew Stocker, graduated during the time of the grant. His PhD thesis resulted in two publications. The PI was a pre tenure faculty member during the time of this grant and it allowed for the development and expansion of the PI's research program and group.</span></p><br> <p>            Last Modified: 07/19/2023<br>      Modified by: Robin&nbsp;Deeley</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[The main area of research for this project was the connection between operator algebras and dynamical systems. This area of research has a long history going back to the work of Frank Murray and John von Neumann. The specific dynamical systems studied were minimal dynamical systems and hyperbolic dynamical systems. From such systems one can construct C*-algebras and we studied the interaction between properties at the dynamical system level and C*-algebra level. In particular, the study of K-theory as an invariant of the relevant dynamical systems played a center role in this research.    The most important results regarding minimal dynamical systems were published in the paper "Classifiable C*-algebras from minimal Z-actions and their orbit-breaking subalgebras" in joint work between the PI, Ian Putnam and Karen Strung. In this paper, we constructed spaces that admit minimal homeomorphism with any given finitely generated K-theory and determined the range of K-theory for crossed products obtained from a minimal homeomorphism on a space with finitely generated K-theory.   The most important results regarding hyperbolic dynamics were published in the paper "Synchronizing Dynamical Systems: their groupoids and C*-algebras" joint between the PI and Andrew Stocker (the PI's first PhD student). The results of this paper open the door to a much larger class of dynamical systems to study and in addition point to some limitations when only considering Smale spaces. For example, there are examples of expansive systems whose C*-algebras have infinite rank K-theory; this cannot occur in the case of Smale spaces.   A short summary of some other results is as follows. The PI produced the first counterexample to the HK-conjecture that is a principal groupoid. With Magnus Goffeng, Allan Yashinski, the PI studied the Fell algebras associated with a local homeomorphism. With graduate and undergraduate students, the PI studied Smale spaces associated with self-covers of flat manifolds.   In terms of broader impacts, four graduate students and nine undergraduate students were involved in the project. They received significant research training and these efforts resulted in the publication "Invariants for the Smale space associated to an expanding endomorphism of a flat manifold". The PI's first PhD student, Andrew Stocker, graduated during the time of the grant. His PhD thesis resulted in two publications. The PI was a pre tenure faculty member during the time of this grant and it allowed for the development and expansion of the PI's research program and group.       Last Modified: 07/19/2023       Submitted by: Robin Deeley]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[A1: KnowWhereGraph: Enriching and Linking Cross-Domain Knowledge Graphs using Spatially-Explicit AI Technologies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>4998896.00</AwardTotalIntnAmount>
+<AwardAmount>5598096</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jemin George</SignBlockName>
+<PO_EMAI>jgeorge@nsf.gov</PO_EMAI>
+<PO_PHON>7032922251</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future.&lt;br/&gt;&lt;br/&gt;The goal of this project is to improve data-driven decision making and data analytics, specifically data analytics that involve geographic data. This project will create the “KnowWhereGraph” – a knowledge graph tool that specifically enables other data-analysis knowledge tools that have a geospatial component. &lt;br/&gt;&lt;br/&gt;GeoEnrichment describes the process by which data becomes augmented with a wide range of auxiliary information tailored to a geospatial study area (such as demographic data). GeoEnrichment tools significantly reduce the costs involved in acquiring, entering, and cleaning geo-data. Unfortunately, currently available geoenrichment services provide access to only pre-defined categories of information, do not effectively handle interconnected data, offer limited support for data integration, and are generally expensive. This project plans to make data-driven decision making and data analytics substantially more effective, accessible, and affordable. The project will merge novel Artificial Intelligence-based geoenrichment technologies with a knowledge graph that brings together open, cross-domain, densely integrated data spanning the human-environment interface. &lt;br/&gt;&lt;br/&gt;This project’s work is enabled by an open, freely usable knowledge graph. These graphs are a combination of scalable, Web-standard technologies, specifications, and data cultures for representing densely interconnected statements derived from structured or unstructured data across domains, in both human and machine-readable ways. The technology tools are designed to be useful to and useable by researchers, analysts, decision-makers, and the interested public in any domain or cross-domain activity requiring geospatial intelligence. &lt;br/&gt;&lt;br/&gt;This project includes strong partnerships with non-academic and academic stakeholders including 4 for-profit organizations, 2 government agencies, and one non-profit, as well as five academic partnerships:  ESRI (Geographic Information Systems); Oliver Wyman, (commodity markets and supply chains), Princeton Climate Analytics (weather and climate information services), In10T (digital agriculture, farm partnerships); US Geological Survey (USGS), Natural Resources Conservation Service within the U.S. Department of Agriculture (USDA): and DirectRelief (humanitarian aid); as well as University of California Santa Barbara(UCSB), Kansas State University (K-State), Michigan State University (MSU), Arizona State University (ASU), and University of Southern California(USC). Additional partnerships are expected to develop during this Phase II effort. &lt;br/&gt;&lt;br/&gt;The “KnowWhereGraph” will be a valuable element of the Convergence Accelerator Phase II cohort, providing geospatial tools to the other projects within the cohort. In addition the project plans to focus on several strategic application areas that are likely to benefit US society, including:  COVID-19 related supply chain disruptions and the US food, agriculture, and energy sectors, and their attendant supply chains generally; environmental policy issues relative to interactions among agricultural sustainability, soil conservation practice, and farm labor; and delivery of emergency humanitarian aid, within the US and internationally. Anytime knowing “where” is key, this project’s tools may be helpful. &lt;br/&gt;&lt;br/&gt;Formally, a knowledge graph consists of a massive set of statements, constructed from inter-connected node- and edge-labeled resources, allowing multiple, heterogeneous edges for the same nodes. A collection of definitional statements specifying the meaning of the knowledge graph's vocabulary is called its (KG) schema or ontology. The ontology is critical for rigorous logical interpretation and machine-actionability. Several innovations in knowledge graph technology will drive the project: (I) creating an open, web-accessible knowledge graph, with attendant methods and tools, to enable contributions to the graph from a range of sources; (II) developing strategies for semantically lifting imagery data, such as remotely sensed imagery and drone imagery, into this graph, thereby integrating vast amounts of data; (III) developing novel spatially-explicit AI-based methods, models, and services to enable geoenrichment on top of this graph; and (IV) developing both programmatic (application program interface, API) and human-accessible interfaces for the KnowWhereGraph. By merging the flexibility, expressive power, and community-driven features of open graph technologies with multi-format geospatial data and advanced geospatial intelligence, the KnowWhereGraph is designed to become a rich, integrative information resource that can transform and converge discovery, analysis, and synthesis within and across a multitude of fields and sectors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.083, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033521</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Schildhauer</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark P Schildhauer</PI_FULL_NAME>
+<EmailAddress><![CDATA[schild@nceas.ucsb.edu]]></EmailAddress>
+<NSF_ID>000465368</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dean</FirstName>
+<LastName>Rehberger</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dean A Rehberger</PI_FULL_NAME>
+<EmailAddress><![CDATA[rehberge@msu.edu]]></EmailAddress>
+<NSF_ID>000340125</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pascal</FirstName>
+<LastName>Hitzler</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pascal Hitzler</PI_FULL_NAME>
+<EmailAddress><![CDATA[hitzler@ksu.edu]]></EmailAddress>
+<NSF_ID>000548535</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Krzysztof</FirstName>
+<LastName>Janowicz</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Krzysztof W Janowicz</PI_FULL_NAME>
+<EmailAddress><![CDATA[jano@geog.ucsb.edu]]></EmailAddress>
+<NSF_ID>000582770</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wenwen</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wenwen Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[wenwen@asu.edu]]></EmailAddress>
+<NSF_ID>000626762</NSF_ID>
+<StartDate>08/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>3227 CHEADLE HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>931062050</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>095Y</Code>
+<Text>CA-HDR: Convergence Accelerato</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~2744794</FUND_OBLG>
+<FUND_OBLG>2021~2254102</FUND_OBLG>
+<FUND_OBLG>2022~599200</FUND_OBLG>
+</Award>
+</rootTag>

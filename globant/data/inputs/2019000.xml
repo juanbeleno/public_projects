@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC*Compute: From classroom to the lab: NMSU responds to the changing HPC landscape in New Mexico]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>399869.00</AwardTotalIntnAmount>
+<AwardAmount>399869</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+<PO_EMAI>kthompso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924220</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[New Mexico State University (NMSU), a Minority-Serving Institution and Hispanic-Serving Institution, recognizes the vital need for universal access to a high performance computing (HPC) facility.  Increasing the computational resources at NMSU, including storage, supports NMSU’s high research need, instructors interested in incorporating HPC into their classroom activities, and state-wide collaborations with faculty who are excited to have a supportive HPC team to assist their classrooms.  New Mexico as a state has a high need for personnel experienced with HPC use, but lacks resources dedicated to student learning.  By utilizing existing relationships between NMSU and other NM-based universities, the new resources increase HPC-based classroom activities around the state through a dedicated queue.  &lt;br/&gt;&lt;br/&gt;Students trained in HPC use are in high demand both in industry and academia, providing our students with new opportunities.  Much of the research performed on the HPC is either unfunded or funded through smaller grants that cannot purchase dedicated HPC resources and many users start on their HPC journey without the basic knowledge of Unix or how to use an HPC.  &lt;br/&gt;&lt;br/&gt;Time on regional and national super clusters is valuable and not a good learning environment for those who are beginning their venture into computing-intensive science.  With extensive collaborations across institutions and already having streamlined NMSU-affiliated user on-boarding and account creation, NMSU is key in increasing HPC knowledge across the entire state.&lt;br/&gt;&lt;br/&gt;This activity expands the existing HPC resources at NMSU by roughly 30% through the acquisition of 10 compute nodes each with 36 CPU cores, at least 256 GB of RAM and 960 GB of local storage for a total of 360 cores, two GPU nodes similar to the compute nodes but with dual Tesla V100 GPUs, 600 TB of network connected storage, and Infiniband interconnect hardware. The cluster supports both research and educational activities in a range of fields from biology and environmental sciences to physics, chemistry, and material science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019000</AwardID>
+<Investigator>
+<FirstName>Piyasat</FirstName>
+<LastName>Nilkaew</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Piyasat Nilkaew</PI_FULL_NAME>
+<EmailAddress><![CDATA[piyasat@nmsu.edu]]></EmailAddress>
+<NSF_ID>000668234</NSF_ID>
+<StartDate>05/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Phillip</FirstName>
+<LastName>De Leon</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Phillip De Leon</PI_FULL_NAME>
+<EmailAddress><![CDATA[pdeleon@nmsu.edu]]></EmailAddress>
+<NSF_ID>000372281</NSF_ID>
+<StartDate>05/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Diana</FirstName>
+<LastName>Dugas</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Diana V Dugas</PI_FULL_NAME>
+<EmailAddress><![CDATA[dugasdvt@nmsu.edu]]></EmailAddress>
+<NSF_ID>000729606</NSF_ID>
+<StartDate>05/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Mexico State University</Name>
+<CityName>LAS CRUCES</CityName>
+<ZipCode>880038001</ZipCode>
+<PhoneNumber>5756461590</PhoneNumber>
+<StreetAddress>1050 STEWART ST STE E1200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J3M5GZAT8N85</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW MEXICO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ED67D3S7GM79</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Mexico State University]]></Name>
+<CityName>Las Cruces</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>880038002</ZipCode>
+<StreetAddress><![CDATA[Corner of Espina St. & Stewart]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~399869</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>During the funding period of "From classroom to the lab: NMSU responds to the changing HPC landscape in New Mexico", New Mexico State University (NMSU) expanded its high performance computer (HPC) and created a space where classrooms around the state were able to take advantage of a free cluster for training students.&nbsp; The resources were also used by other NMSU researchers and affiliates when the classes were not utilizing them.&nbsp; The HPC network also recieved an upgrade which allowed for more effective communication between nodes and improving run times for parallel programming jobs.&nbsp;</p> <p>Awarded the summer of 2020, the project was impacted by the world-wide COVID-19 pandemic.&nbsp; Supply chain issues and shipping delays affected the start of the project; the emotional, physical, and mental toll the pandemic placed on students and faculty influenced how aggressively we sought to bring classes online.&nbsp; Despite these setbacks, 40 students across 4 classes and over 140 researchers have benefited from the computational resources this award provided.&nbsp; As the resources were meant to have the greatest&nbsp;impact possible, they became a part of what NMSU contributed to Open Science Grid (OSG).&nbsp; During the length of the award, over 20 million core hours were used and over 4.6 million total jobs were run on the NMSU system by OSG users.</p> <p>Intellectual merit and broader impacts are woven together in the outcomes of this project.&nbsp; The classes that took advantage of the resources contributed to both the intellectual merit and broader impacts. While some instructors worked the HPC resources into their existing courses, one faculty member from New Mexico Institute of Mining and Technology (NMT) designed an entire bioinformatics class around access to the resources. To quote the NMT faculty member the course was "Successful beyond my wildest dreams" and his students "didn't know they needed the skills until they learned them and realized how much it will influence their career options".&nbsp; This particular class worked on publicly accessible mitochondrial data and the paper is forthcoming with the students as authors based on their in-class contributions [the expected title and additional information are being withheld as the paper is not in preprint yet].&nbsp; The experience of using real-world data to contribute to scientific research within a classroom environment was only possible through the use of the resources this grant provided.&nbsp; Had the students only been able to access a standard desktop for analysis, they would not have been able to use all of the available data and therefore not have found the results that they did.&nbsp; As some of the resources were also designated for the OpenOnDemand web-based access to the system, those using that partition, over 70% students working on research, benefited from the project.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/10/2023<br>      Modified by: Diana&nbsp;V&nbsp;Dugas</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ During the funding period of "From classroom to the lab: NMSU responds to the changing HPC landscape in New Mexico", New Mexico State University (NMSU) expanded its high performance computer (HPC) and created a space where classrooms around the state were able to take advantage of a free cluster for training students.  The resources were also used by other NMSU researchers and affiliates when the classes were not utilizing them.  The HPC network also recieved an upgrade which allowed for more effective communication between nodes and improving run times for parallel programming jobs.   Awarded the summer of 2020, the project was impacted by the world-wide COVID-19 pandemic.  Supply chain issues and shipping delays affected the start of the project; the emotional, physical, and mental toll the pandemic placed on students and faculty influenced how aggressively we sought to bring classes online.  Despite these setbacks, 40 students across 4 classes and over 140 researchers have benefited from the computational resources this award provided.  As the resources were meant to have the greatest impact possible, they became a part of what NMSU contributed to Open Science Grid (OSG).  During the length of the award, over 20 million core hours were used and over 4.6 million total jobs were run on the NMSU system by OSG users.  Intellectual merit and broader impacts are woven together in the outcomes of this project.  The classes that took advantage of the resources contributed to both the intellectual merit and broader impacts. While some instructors worked the HPC resources into their existing courses, one faculty member from New Mexico Institute of Mining and Technology (NMT) designed an entire bioinformatics class around access to the resources. To quote the NMT faculty member the course was "Successful beyond my wildest dreams" and his students "didn't know they needed the skills until they learned them and realized how much it will influence their career options".  This particular class worked on publicly accessible mitochondrial data and the paper is forthcoming with the students as authors based on their in-class contributions [the expected title and additional information are being withheld as the paper is not in preprint yet].  The experience of using real-world data to contribute to scientific research within a classroom environment was only possible through the use of the resources this grant provided.  Had the students only been able to access a standard desktop for analysis, they would not have been able to use all of the available data and therefore not have found the results that they did.  As some of the resources were also designated for the OpenOnDemand web-based access to the system, those using that partition, over 70% students working on research, benefited from the project.           Last Modified: 09/10/2023       Submitted by: Diana V Dugas]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

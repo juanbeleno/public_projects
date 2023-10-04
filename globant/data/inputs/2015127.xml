@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Predictive Analytics for Battery Formation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be the acceleration and improvement of battery manufacturing and production. Forecasting battery safety and lifetime is largely an unsolved problem in the battery industry. For manufacturers, this uncertainty increases cell cost through control measures during production as well as the precautions taken to avoid warranty events. This project proposes "data science-as-a-service" for battery formation to address both issues. By streamlining the battery formation, test, and grading process, manufacturers benefit from reduced work-in-progress (WIP) inventory waiting for final inspection, reducing facility space requirement to store WIP cell, and reducing scrap rates and increasing manufacturing yields.  The impact of these improvements will potentially enable wider spread adoption of electric vehicle applications, a major driver for battery demand.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project focuses on developing information technology infrastructure and algorithms for the prediction of battery performance during cell production. By combining state-of-the-art machine learning techniques with data management and manufacturing execution systems, battery cell manufacturers will greatly reduce the cost to operate and manage cell formation and test - an environment which has been largely underserved for innovation. The proposed project objectives will be achieved through two developing battery classification and prediction machine learning algorithms to improve early detection of battery failures.  Novel implementation of the proof-of-concept algorithms in battery production environments will improve the key performance indicators of these battery manufacturers.  Regression and clustering models will be used as often as possible, and the bulk of the technical work will be dedicated to the feature engineering required to elucidate changes in the change and discharge voltage profile during the first few cycles. New features will be developed by a) modelling physical processes (e.g. growth of the solid-electrolyte interphase layer) expected for a given cluster group or b) employing dynamical systems techniques like time-delay embeddings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015127</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Masse</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert C Masse</PI_FULL_NAME>
+<EmailAddress><![CDATA[robert@astrolabe-analytics.com]]></EmailAddress>
+<NSF_ID>000783484</NSF_ID>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ASTROLABE ANALYTICS, INC.</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981054026</ZipCode>
+<PhoneNumber>9206986028</PhoneNumber>
+<StreetAddress>4625 UNION BAY PL NE, SUITE 215</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T6S1Y4JY4BM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ASTROLABE ANALYTICS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ASTROLABE ANALYTICS, INC.]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981054026</ZipCode>
+<StreetAddress><![CDATA[4625 Union Bay Place NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8009</Code>
+<Text>Scientifc Software Integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~250000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The overarching goal of this project was to develop and implement predictive analytics for battery longevity and performance. While the original target was to implement these analytics at the end of a battery manufacturing line for quality assurance, the effects of COVID forced us to modify our plans. Through the I-Corps program we identified electric aviation as a compelling alternative beachhead market.</p> <p><strong>Intellectual Merit</strong></p> <p>The research demonstrated how features derived from the first few charge-discharge cycles can classify cells by their expected performance and predict the ultimate cycle life. We extended state-of-the-art results to forecast battery performance across a wider range of temperatures, operating conditions, and battery cell chemistries than previously reported. To accelerate quality assurance testing, we also quantified models using different amounts of input data, and found that approximately 50-60% fewer cycles (and therefore 50-60% less time) are required to make acceptable estimates of battery lifetime than previously reported.</p> <p>&nbsp;</p> <p><strong>Broader Impacts</strong></p> <p>By empowering battery development teams with predictive analytics, significant time and cost will be removed from the scale-up of battery production and systems integration in the US. An accelerated scale-up and development schedule will increase the survival rate of new battery technologies and startups, which is a category where the US sadly lags behind Japan, Korea, and China. Bringing better battery technology to market faster will in turn accelerate the transition away from fossil fuels and towards electric aircraft, electric vehicles, grid-scale energy storage, and other clean technologies.<strong>&nbsp;</strong></p> <p>&nbsp;</p><br> <p>            Last Modified: 07/07/2022<br>      Modified by: Robert&nbsp;C&nbsp;Masse</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The overarching goal of this project was to develop and implement predictive analytics for battery longevity and performance. While the original target was to implement these analytics at the end of a battery manufacturing line for quality assurance, the effects of COVID forced us to modify our plans. Through the I-Corps program we identified electric aviation as a compelling alternative beachhead market.  Intellectual Merit  The research demonstrated how features derived from the first few charge-discharge cycles can classify cells by their expected performance and predict the ultimate cycle life. We extended state-of-the-art results to forecast battery performance across a wider range of temperatures, operating conditions, and battery cell chemistries than previously reported. To accelerate quality assurance testing, we also quantified models using different amounts of input data, and found that approximately 50-60% fewer cycles (and therefore 50-60% less time) are required to make acceptable estimates of battery lifetime than previously reported.     Broader Impacts  By empowering battery development teams with predictive analytics, significant time and cost will be removed from the scale-up of battery production and systems integration in the US. An accelerated scale-up and development schedule will increase the survival rate of new battery technologies and startups, which is a category where the US sadly lags behind Japan, Korea, and China. Bringing better battery technology to market faster will in turn accelerate the transition away from fossil fuels and towards electric aircraft, electric vehicles, grid-scale energy storage, and other clean technologies.           Last Modified: 07/07/2022       Submitted by: Robert C Masse]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Nonoscillatory Phase Methods for the Variable Coefficient Helmholtz Equation in the High-Frequency Regime]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>111866.00</AwardTotalIntnAmount>
+<AwardAmount>111866</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The importance of the numerical simulation of physical phenomena by computers cannot be overstated. Such computations have become essential tools both in scientific research and in industrial research and development. This project concerns the numerical simulation of the scattering of waves. Such simulations have applications to sonar and radar, as well as in medical imaging, geophysics, and many other applications. Wave phenomena become more complicated to model as the frequency of the wave increases, and our current ability to accurately model high-frequency waves is quite limited. This project seeks to develop new methods for modeling high-frequency waves efficiently and to high accuracy. The project provides research training opportunities for graduate students. &lt;br/&gt;&lt;br/&gt;The numerical simulation of the scattering of waves from inhomogeneous media has important applications in radar and sonar, medical imaging, geophysics, and a host of other scientific applications. In many cases of interest, such simulations can be performed by solving the variable coefficient Helmholtz equation. The solutions of this equation are oscillatory, and the difficulty of calculating them using conventional approaches grows quickly with the frequency of the oscillations. Recently, one of the investigators developed a new class of solvers for the variable coefficient Helmholtz equation that achieve extremely high accuracy and have run times that scale much more slowly with increasing frequency than conventional solvers. They operate by solving the nonlinear Riccati equation that is satisfied by the logarithms of solutions of the Helmholtz equation. Currently, these solvers only apply in special cases. This project aims to extend them to the general case to develop a method for the variable coefficient Helmholtz equation that is significantly faster than current techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012606</AwardID>
+<Investigator>
+<FirstName>Per-Gunnar</FirstName>
+<LastName>Martinsson</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Per-Gunnar J Martinsson</PI_FULL_NAME>
+<EmailAddress><![CDATA[pgm@ices.utexas.edu]]></EmailAddress>
+<NSF_ID>000257904</NSF_ID>
+<StartDate>07/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName/>
+<StateCode>TX</StateCode>
+<ZipCode>787595316</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~111866</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The numerical simulation of the scattering of waves from inhomogeneous media is a central building block of modern scientific computing. This problem lies at the heart of mathematical modeling of medical imaging, geophysics, non destructive testing, and a host of other applications. In many cases of interest, such simulations can be performed by solving a mathematical equation known as the "variable coefficient Helmholtz equation". The solutions of this equation are oscillatory, and the difficulty of calculating them using conventional approaches grows quickly with the frequency of the oscillations. Indeed, in the high-frequency regime, when the solutions of the variable coefficient Helmholtz equation oscillate rapidly, conventional approaches become prohibitively expensive.<br /><br />The project supported the development of several new techniques that make computational modeling of wave phenomena faster and more accurate. Of particular note is a new solver that was developed in collaboration with doctoral student Anna Yesypenko. This technique is designed for wave propagation problems in heterogeneous media, and is engineered to take full advantage of modern computing hardware. It parallelizes well, and fully exploits GPU accelerators. The solver has been implemented for problems in both two and three dimensions, and has enabled the solution of problems that were previously impossible to solve without the use of super computers.<br /><br />Another discovery concerns a set of numerical techniques for converting a class of continuum equations that model scattering phenomena into large systems of linear equations that can be solved using computers. The new technique was discovered by combining insights from differential geometry with mathematical results concerning so called "lattice sums". It was proven that the dominant terms in the errors incurred when a continuum surface is locally approximated by polynomials can in some cases be evaluated exactly, and expressed in terms of derivatives of the Riemann and Epstein zeta functions. The ideas were implemented in code and tested on realistic geometries in two and three dimensions. These methods proved to be substantially faster and more accurate than previously existing methods.<br /><br />The project supported the professional development of several early career STEM researchers. Two doctoral students were directly supported with research assistantships, and the research supported facilitated the training of several other students and postdocs. During the course of the award, two doctoral students involved in the work graduated, and one more will graduate shortly. Three postdoctoral scholars involved in the work have secured tenure-track assistant professorships at research universities.</p><br> <p>            Last Modified: 09/13/2023<br>      Modified by: Per-Gunnar&nbsp;J&nbsp;Martinsson</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The numerical simulation of the scattering of waves from inhomogeneous media is a central building block of modern scientific computing. This problem lies at the heart of mathematical modeling of medical imaging, geophysics, non destructive testing, and a host of other applications. In many cases of interest, such simulations can be performed by solving a mathematical equation known as the "variable coefficient Helmholtz equation". The solutions of this equation are oscillatory, and the difficulty of calculating them using conventional approaches grows quickly with the frequency of the oscillations. Indeed, in the high-frequency regime, when the solutions of the variable coefficient Helmholtz equation oscillate rapidly, conventional approaches become prohibitively expensive.  The project supported the development of several new techniques that make computational modeling of wave phenomena faster and more accurate. Of particular note is a new solver that was developed in collaboration with doctoral student Anna Yesypenko. This technique is designed for wave propagation problems in heterogeneous media, and is engineered to take full advantage of modern computing hardware. It parallelizes well, and fully exploits GPU accelerators. The solver has been implemented for problems in both two and three dimensions, and has enabled the solution of problems that were previously impossible to solve without the use of super computers.  Another discovery concerns a set of numerical techniques for converting a class of continuum equations that model scattering phenomena into large systems of linear equations that can be solved using computers. The new technique was discovered by combining insights from differential geometry with mathematical results concerning so called "lattice sums". It was proven that the dominant terms in the errors incurred when a continuum surface is locally approximated by polynomials can in some cases be evaluated exactly, and expressed in terms of derivatives of the Riemann and Epstein zeta functions. The ideas were implemented in code and tested on realistic geometries in two and three dimensions. These methods proved to be substantially faster and more accurate than previously existing methods.  The project supported the professional development of several early career STEM researchers. Two doctoral students were directly supported with research assistantships, and the research supported facilitated the training of several other students and postdocs. During the course of the award, two doctoral students involved in the work graduated, and one more will graduate shortly. Three postdoctoral scholars involved in the work have secured tenure-track assistant professorships at research universities.       Last Modified: 09/13/2023       Submitted by: Per-Gunnar J Martinsson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

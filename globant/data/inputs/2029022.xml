@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: PPoSS: Planning: Scalable Systems for Probabilistic Programming]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>117157.00</AwardTotalIntnAmount>
+<AwardAmount>117157</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+<PO_EMAI>abanerje@nsf.gov</PO_EMAI>
+<PO_PHON>7032927885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Statistical methods have had great successes for exploring data, making predictions, and solving problems in a wide range of problems. But in the world of big data, methods need to be scalable, so as to handle larger problems while modeling the real-world problems of messy and nonrepresentative data.  The project’s novelties are developments in software and hardware facilitating full-stack integration of Bayesian inference to allow complex and realistic models to be fit to large datasets.  The project's impacts are in many areas of pure and applied science, including fields as diverse as epidemiology, genetics, and political science, which are challenging because they are dense in parameters rather than in data.  Examples include models for disease progression and drug development, decision making under uncertainty, and trends in public opinion.&lt;br/&gt;&lt;br/&gt;The project is exploring probabilistic programming, including hardware, high-performance computing, programming languages and compilers, and algorithms.  The ultimate goal is to develop the tools necessary for an efficient, and scalable Bayesian workflow, building on the existing success of the open-source probabilistic programming language Stan.  The team of researchers on this project are working on explorations of algorithms (model validation for approximate inference), programming languages and compilers (automating of approximate algorithms and advanced performance profiling), systems (probabilistic programming for streaming data), high-performance computing (parallel processing and GPUs), and hardware (exploring domain-specific hardware for Bayesian computation).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029022</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Gelman</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew E Gelman</PI_FULL_NAME>
+<EmailAddress><![CDATA[gelman@stat.columbia.edu]]></EmailAddress>
+<NSF_ID>000233702</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>202 LOW LIBRARY 535 W 116 ST MC</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F4N1QNPB95M4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>100275927</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>PPoSS-PP of Scalable Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~117157</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>"Probabilistic programming" refers to computer programs with the ability to fit models in settings of high uncertainty, so that inference can be thought of as probabilistic. &nbsp;The goal of this project was to perform research to improve the scalability of probabilistic programming--that is, the capability of these programs to fit increasingly large and complex models.</p> <p>The project's outcomes included:</p> <p>(1) The first fast, accurate, and flexible analytical modeling framework for sparse tensor accelerators. Across representative accelerator designs and workloads, Sparseloop achieves over 600x faster-modeling speed than cycle-level simulations, less than 1% error compared to a custom accelerator model with statistical data characterization, and less than 8% error compared to simulations with real data.</p> <p>(2) Developing conditions on a probabilistic program's execution under which delayed sampling will execute in bounded memory. The conditions are dataflow properties of the core operations of delayed sampling, and the new idea is a static analysis that abstracts over these properties to soundly ensure that any program that passes the analysis satisfies these properties, and thus executes in bounded memory under delayed sampling.</p> <p>(3) Independent finite approximations for Bayesian nonparametric inference, a generalbut explicit recipe to construct a simple finite-dimensional approximation that can replace infinite-dimensional completely random measures.</p> <p>(4) Optimizations for managing memory in the automatic differentiation library of the open-source probabilistic programming language Stan. &nbsp;Stan&rsquo;s compiler is able to automatically detect when the new pattern can be used so users receive the benefit from the new memory pattern without the need to change their code.</p> <p>(5) A framework for thinking about trust for probabilistic machine learning, based on a taxonomy delineating where trust in an analysis can break down: (a) in thetranslation of real-world goals to goals on a particular set of available training data, (b) in the translation of abstract goals to a concrete mathematical problem, and (c) in the development and use of algoritihms and code.</p> <p>Together, these represent work on a range of different theoretical and implementation goals of scalable probabilistic programming.</p><br> <p>            Last Modified: 01/28/2022<br>      Modified by: Andrew&nbsp;E&nbsp;Gelman</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ "Probabilistic programming" refers to computer programs with the ability to fit models in settings of high uncertainty, so that inference can be thought of as probabilistic.  The goal of this project was to perform research to improve the scalability of probabilistic programming--that is, the capability of these programs to fit increasingly large and complex models.  The project's outcomes included:  (1) The first fast, accurate, and flexible analytical modeling framework for sparse tensor accelerators. Across representative accelerator designs and workloads, Sparseloop achieves over 600x faster-modeling speed than cycle-level simulations, less than 1% error compared to a custom accelerator model with statistical data characterization, and less than 8% error compared to simulations with real data.  (2) Developing conditions on a probabilistic program's execution under which delayed sampling will execute in bounded memory. The conditions are dataflow properties of the core operations of delayed sampling, and the new idea is a static analysis that abstracts over these properties to soundly ensure that any program that passes the analysis satisfies these properties, and thus executes in bounded memory under delayed sampling.  (3) Independent finite approximations for Bayesian nonparametric inference, a generalbut explicit recipe to construct a simple finite-dimensional approximation that can replace infinite-dimensional completely random measures.  (4) Optimizations for managing memory in the automatic differentiation library of the open-source probabilistic programming language Stan.  Stan’s compiler is able to automatically detect when the new pattern can be used so users receive the benefit from the new memory pattern without the need to change their code.  (5) A framework for thinking about trust for probabilistic machine learning, based on a taxonomy delineating where trust in an analysis can break down: (a) in thetranslation of real-world goals to goals on a particular set of available training data, (b) in the translation of abstract goals to a concrete mathematical problem, and (c) in the development and use of algoritihms and code.  Together, these represent work on a range of different theoretical and implementation goals of scalable probabilistic programming.       Last Modified: 01/28/2022       Submitted by: Andrew E Gelman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

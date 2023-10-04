@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CSR: Medium: Collaborative Research: Embedded System Design Optimization and Adaptation using Compact System-Level Models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>137038.00</AwardTotalIntnAmount>
+<AwardAmount>137038</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project will develop new techniques to help advanced computing systems for signal processing better adapt to the environments in which they operate. This project is important because signal processing is everywhere (cell phones, computer networks, manufacturing systems, agriculture, etc.). Adapting to the environment helps these systems to operate more reliably by, for example, adapting to changing radio interference or the challenging radio environments presented by clusters of tall buildings. Many of these communication systems are also battery-operated or must run on limited energy; adapting to their operating environments helps to reduce their energy consumption and improve battery life. These techniques are particularly useful for cognitive radio, an emerging technology that allows devices for wireless communication (such as cell phones) to more efficiently use radio spectrum. &lt;br/&gt;&lt;br/&gt;This project will develop new methods for creating software that can be reconfigured at run time. Typical software is created to operate in a particular mode; changing the software?s operating conditions requires redesigning the software itself. New mathematical models and algorithms will allow system designers to create software that is designed to adapt itself dynamically to its environment. The project will address both models specifying the behavior of the software and for translating that specification into an efficient implementation. &lt;br/&gt;&lt;br/&gt;The principal investigators will collaborate with colleagues at the Institut National des Sciences Appliquées (INSA) in Rennes, France, and National Chiao Tung University in Hsinchu, Taiwan. The collaborators in France and Taiwan will provide expertise in cognitive radio algorithms and hardware that complements the principal investigators? expertise in software design. The collaboration will also provide valuable international experience for the student research assistants involved in the project. Cognitive radio will be used a driving example in coursework for undergraduate and graduate students to integrate research results from this project into education. The PIs will actively recruit underrepresented minority students for this project.]]></AbstractNarration>
+<MinAmdLetterDate>11/14/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>11/14/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002853</AwardID>
+<Investigator>
+<FirstName>Marilyn</FirstName>
+<LastName>Wolf</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marilyn C Wolf</PI_FULL_NAME>
+<EmailAddress><![CDATA[mwolf@unl.edu]]></EmailAddress>
+<NSF_ID>000417217</NSF_ID>
+<StartDate>11/14/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nebraska-Lincoln</Name>
+<CityName>LINCOLN</CityName>
+<ZipCode>685032427</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress>2200 VINE ST BOX 830861</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NE01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HTQ6K6NJFHA6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BOARD OF REGENTS OF THE UNIVERSITY OF NEBRASKA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LF77GRM3FWG5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Nebraska-Lincoln]]></Name>
+<CityName>Lincoln</CityName>
+<StateCode>NE</StateCode>
+<ZipCode>685031435</ZipCode>
+<StreetAddress><![CDATA[151 Prem S Paul Research Center]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NE01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~42134</FUND_OBLG>
+<FUND_OBLG>2018~94904</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Embedded computing systems are employed across society: communication, transportation, infrastructure, medical, etc. Embedded computing systems must operate in a wide range of environments and balance energy consumption with computing performance. We have developed new algorithms and methodologies for run-time adaptation of high-performance embedded computing systems. Run-time adaptation provides several benefits: improved energy management for improved battery life; improved thermal management for system reliability; more efficient use of computational resources. &nbsp;The project developed new adaptation algorithms based on Markov decision processes (MDPs) and efficient algorithms to evaluate the MDP on embedded computing platform.&nbsp; The project also developed a neural network-based method to estimate chip temperatures during operation. These results have been published in journals (ACM Transactions on Cyber-Physical Systems, Journal of Signal Processing Systems), conferences (Conference on Design and Architectures for Signal and Image Processing, IEEE International Conference on Artificial Intelligence Circuits and Systems, International Conference on Embedded Computer Systems), and workshops (ACM/IEEE Workshop on Machine Learning for CAD). The project has trained graduate students and provided them with collaboration opportunities including the University of Maryland, Karlsruhe Institute of Technology, and Tampere University of Technology. The project delivered a tutorial at the IEEE International Symposium on Circuits and Systems. &nbsp;The project created two YouTube videos, distributed on Wolf&rsquo;s Embedded Systems Channel, for dissemination of technical results.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/29/2022<br>      Modified by: Marilyn&nbsp;C&nbsp;Wolf</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Embedded computing systems are employed across society: communication, transportation, infrastructure, medical, etc. Embedded computing systems must operate in a wide range of environments and balance energy consumption with computing performance. We have developed new algorithms and methodologies for run-time adaptation of high-performance embedded computing systems. Run-time adaptation provides several benefits: improved energy management for improved battery life; improved thermal management for system reliability; more efficient use of computational resources.  The project developed new adaptation algorithms based on Markov decision processes (MDPs) and efficient algorithms to evaluate the MDP on embedded computing platform.  The project also developed a neural network-based method to estimate chip temperatures during operation. These results have been published in journals (ACM Transactions on Cyber-Physical Systems, Journal of Signal Processing Systems), conferences (Conference on Design and Architectures for Signal and Image Processing, IEEE International Conference on Artificial Intelligence Circuits and Systems, International Conference on Embedded Computer Systems), and workshops (ACM/IEEE Workshop on Machine Learning for CAD). The project has trained graduate students and provided them with collaboration opportunities including the University of Maryland, Karlsruhe Institute of Technology, and Tampere University of Technology. The project delivered a tutorial at the IEEE International Symposium on Circuits and Systems.  The project created two YouTube videos, distributed on Wolf’s Embedded Systems Channel, for dissemination of technical results.          Last Modified: 10/29/2022       Submitted by: Marilyn C Wolf]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

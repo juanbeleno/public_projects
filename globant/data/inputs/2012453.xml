@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Scalable Computational Methods for Large-Scale Stochastic Optimization under High-Dimensional Uncertainty]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>310000.00</AwardTotalIntnAmount>
+<AwardAmount>310000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Large-scale simulation in computational science and engineering is often carried out not only to obtain insight about a system, but also as a basis for decision-making. When the decision variables represent the design or control of an engineered or natural system, and the system is governed by partial differential equations (PDEs) with uncertain input due to lack of knowledge or intrinsic variability, the task of determining the optimal design or control leads to a PDE-constrained stochastic optimization problem. Such problems abound across all areas of science and engineering. Examples include optimal control of subsurface flows, plasma fusion reactors, and chemical and materials processes; optimal structural design of aerospace, automotive, and civil infrastructure systems; and shape, layout, or topology optimization of biomedical, electronic, and nano-structured devices. There are several critical challenges in solving such problems including high dimensionality stemming from uncertainty and/or optimization variable spaces, and the need to solve large-scale PDEs with numerous  samples of the uncertain parameters. This project will develop, analyze, and implement scalable computational methods to make tractable the solution of large-scale PDE-constrained stochastic optimization problems under high-dimensional uncertainty. These methods will be applied to subsurface flow problems with societal impact; software will be developed and disseminated widely in open source form. Graduate students will be involved and will receive interdisciplinary training. &lt;br/&gt;&lt;br/&gt;This project exploits the intrinsic structure of the stochastic optimization problems--in particular the intrinsic low dimensionality, smoothness, and geometry of the random parameter-to-objective map. Specifically, the components of the research include: (1) Analysis of the rank or spectrum decay of the Hessian of this map to prove intrinsic low-dimensionality for several classical stochastic PDE-constrained optimization problems. (2) Extension of local quadratic approximation-based stochastic optimization to that based on approximation of the Hessian as a translation invariant operator, higher order Taylor approximation, and multi-point Taylor approximation with mixture models. (3) Application to a specific large-scale and challenging problem of optimal flow control in a subsurface porous medium with a random permeability field. The methods developed in this project will apply to a wide class of PDE-constrained stochastic optimization problems. To make the methods accessible to broader communities and allow stochastic optimization specialists to prototype new algorithms and quickly run experiments, a Python library, SOUPy (Stochastic Optimization under high-dimensional Uncertainty in Python), will be implemented and released. Users will be able to rapidly prototype new PDE models and objective functions, as well as quickly implement new algorithms, conduct numerical experiments, and solve challenging problems in new domains in SOUPy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/09/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012453</AwardID>
+<Investigator>
+<FirstName>Omar</FirstName>
+<LastName>Ghattas</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Omar N Ghattas</PI_FULL_NAME>
+<EmailAddress><![CDATA[omar@ices.utexas.edu]]></EmailAddress>
+<NSF_ID>000249850</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peng</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peng Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[pchen402@gatech.edu]]></EmailAddress>
+<NSF_ID>000766762</NSF_ID>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121229</ZipCode>
+<StreetAddress><![CDATA[201 E 24th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~74378</FUND_OBLG>
+<FUND_OBLG>2021~0</FUND_OBLG>
+<FUND_OBLG>2022~0</FUND_OBLG>
+</Award>
+</rootTag>

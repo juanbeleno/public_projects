@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative: A privacy-preserving contact tracing system for COVID-19 containment and mitigation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>60748.00</AwardTotalIntnAmount>
+<AwardAmount>60748</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Joshi</SignBlockName>
+<PO_EMAI>jjoshi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A crucial tool in the fight with COVID-19 is a contact tracing system that can identify individuals who had close contacts with confirmed cases in the past. Such a mechanism can alarm these individuals so that they can voluntarily self-quarantine. In addition, when these individuals start to have symptoms, a contact tracing system can prioritize them for testing, which will make more efficient use of the limited test capacity and provide early treatment for infected individuals. However, due to strict privacy-protection laws in US and many western countries, it is a challenge to deploy such a system. To solve this urgent problem, this project builds a privacy-preserving contact tracing system, named COVID Detector. COVID Detector relies on smartphones to track both patient and healthy person's past locations and leverages cryptographic computations to ensure that no private data is exposed during the contact tracing computation. This project addresses the broader need to support, in a privacy-friendly manner, user contact tracing in a modern, complex and highly-connected world. This discussion is presently highly relevant in the context of balancing public health and individual user privacy.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;While there are a few existing contact tracing apps for COVID-19, anonymity of user/patient identity is the best that they can provide to protect user privacy. COVID Detector is the first that provides strong protection of both user/patient identity and user/patient trajectory data. COVID-Detector uses homomorphic encryption techniques to match the trajectory of confirmed COVID-19 patients with that of healthy users in the ciphertext domain, so that healthy users can determine their infection risk level.  The matching process reveals neither healthy users' nor patients' location data to any party. The use of homomorphic encryption technologies in trajectory tracking is novel and has not been applied before.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028174</AwardID>
+<Investigator>
+<FirstName>Yaling</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yaling Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yyang8@vt.edu]]></EmailAddress>
+<NSF_ID>000316339</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName/>
+<StateCode>VA</StateCode>
+<ZipCode>240610001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~60748</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>Our project focused on the urgent need for a privacy-preserving digital contact tracing (DCT) system to combat COVID-19. The challenge lay in striking a balance between effective contact tracing and strict privacy laws. Our innovative approach combined geolocation and Bluetooth technologies, culminating in the creation of KHOVID, a Hybrid DCT system. This system not only protected users' privacy through k-anonymity but also integrated cryptographic techniques to ensure secure contact tracing computations. Additionally, we shared our source code on GitHub and contributed to scholarly discussions, laying the groundwork for a more distributed DCT system in the future.<br /></span></p> <p><span><strong>Intellectual Merit:&nbsp;</strong>Our project significantly contributed to the intellectual understanding of privacy-preserving contact tracing:</span></p> <ul> <li><span>KHOVID System: The design and development of KHOVID demonstrated the feasibility of geolocation-based contact tracing combined with Bluetooth, all while ensuring user privacy through k-anonymity. This novel integration opened new avenues for accurate and efficient contact detection.</span></li> <li><span>Cryptographic Techniques: We innovatively utilized cryptographic methods, including the Paillier cryptosystem, to protect users' trajectory and exposure privacy in KHOVID. This intersection of cryptography and contact tracing showcased the potential of securing sensitive data in real-world DCT applications.</span></li> </ul> <p><strong>Broader Impact:&nbsp;</strong></p> <p><span>Our project's impact extended beyond academia, focusing on both immediate and long-term implications:<br /> </span></p> <ul> <li><span>Public Health Support: By addressing privacy concerns, our system encouraged wider adoption of DCT apps, ultimately contributing to early identification and containment of COVID-19 cases. This impact was realized through the integration of geolocation-based tracking and Bluetooth technology, ensuring compatibility with manual contact tracing.</span></li> <li>Open Collaboration:Sharing our source code on GitHub and making design documents accessible promoted transparency and collaboration. Our commitment to openness fostered a sense of community engagement and empowerment.</li> <li>Scholarly Engagement:** Our submissions to academic conferences like WiSe 2021 and the publication of a survey on risk and architecture factors in DCT at SAMOS 2020 furthered scholarly discussions. This engagement enriched the field of privacy-preserving contact tracing.</li> </ul> <p><br />In a world where privacy and public health often intersect, our project's outcomes are paramount. We successfully demonstrated that a privacy-conscious approach to contact tracing is feasible through the creation of KHOVID, a Hybrid DCT system. By addressing privacy concerns and fostering open collaboration, our work directly contributed to public health efforts while respecting individual privacy rights. Our innovative blend of geolocation, Bluetooth, and cryptography has not only advanced the intellectual understanding of contact tracing but has also left a lasting impact on the broader community, setting the stage for future developments in the field.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/21/2023<br>      Modified by: Yaling&nbsp;Yang</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2028174/2028174_10668291_1692596452253_Picture1(1)--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2028174/2028174_10668291_1692596452253_Picture1(1)--rgov-800width.jpg" title="Performance of KHOVID"><img src="/por/images/Reports/POR/2023/2028174/2028174_10668291_1692596452253_Picture1(1)--rgov-66x44.jpg" alt="Performance of KHOVID"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Simulated daily new cases when DCT has 30% adoption rate. Manual contact tracing vs bluetooth-based DCT vs KHOVID hybrid DCT</div> <div class="imageCredit">Yaling Yang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yaling&nbsp;Yang</div> <div class="imageTitle">Performance of KHOVID</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Our project focused on the urgent need for a privacy-preserving digital contact tracing (DCT) system to combat COVID-19. The challenge lay in striking a balance between effective contact tracing and strict privacy laws. Our innovative approach combined geolocation and Bluetooth technologies, culminating in the creation of KHOVID, a Hybrid DCT system. This system not only protected users' privacy through k-anonymity but also integrated cryptographic techniques to ensure secure contact tracing computations. Additionally, we shared our source code on GitHub and contributed to scholarly discussions, laying the groundwork for a more distributed DCT system in the future.   Intellectual Merit: Our project significantly contributed to the intellectual understanding of privacy-preserving contact tracing:  KHOVID System: The design and development of KHOVID demonstrated the feasibility of geolocation-based contact tracing combined with Bluetooth, all while ensuring user privacy through k-anonymity. This novel integration opened new avenues for accurate and efficient contact detection. Cryptographic Techniques: We innovatively utilized cryptographic methods, including the Paillier cryptosystem, to protect users' trajectory and exposure privacy in KHOVID. This intersection of cryptography and contact tracing showcased the potential of securing sensitive data in real-world DCT applications.   Broader Impact:   Our project's impact extended beyond academia, focusing on both immediate and long-term implications:    Public Health Support: By addressing privacy concerns, our system encouraged wider adoption of DCT apps, ultimately contributing to early identification and containment of COVID-19 cases. This impact was realized through the integration of geolocation-based tracking and Bluetooth technology, ensuring compatibility with manual contact tracing. Open Collaboration:Sharing our source code on GitHub and making design documents accessible promoted transparency and collaboration. Our commitment to openness fostered a sense of community engagement and empowerment. Scholarly Engagement:** Our submissions to academic conferences like WiSe 2021 and the publication of a survey on risk and architecture factors in DCT at SAMOS 2020 furthered scholarly discussions. This engagement enriched the field of privacy-preserving contact tracing.    In a world where privacy and public health often intersect, our project's outcomes are paramount. We successfully demonstrated that a privacy-conscious approach to contact tracing is feasible through the creation of KHOVID, a Hybrid DCT system. By addressing privacy concerns and fostering open collaboration, our work directly contributed to public health efforts while respecting individual privacy rights. Our innovative blend of geolocation, Bluetooth, and cryptography has not only advanced the intellectual understanding of contact tracing but has also left a lasting impact on the broader community, setting the stage for future developments in the field.          Last Modified: 08/21/2023       Submitted by: Yaling Yang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

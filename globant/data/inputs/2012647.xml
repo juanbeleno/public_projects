@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantitative Analysis of Single Cell Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>737438.00</AwardTotalIntnAmount>
+<AwardAmount>737438</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Cyr</SignBlockName>
+<PO_EMAI>rcyr@nsf.gov</PO_EMAI>
+<PO_PHON>7032928440</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Learning is assumed to require a brain, but even very simple animals are capable of learning.  Even single cells have been shown to display primitive types of learning, but how such learning takes place, without a nervous system, is currently not understood.  In this project, a giant single cell organism, Stentor, will be used to explore how a single cell can learn.    Stentor cells are preyed upon in their natural habitat but can escape from attack by contracting into a ball when touched, but this contraction burns up energy.  For a Stentor cell sitting on a pond plant, it will often get tapped by pond plants or small algae that are not threatening.  In deciding whether or not to contract when touched, the Stentor cell relies on past experience.  The cells learn to ignore light, non-threatening touches, and only contract when hit with a larger aggressive force.   In an analogous way, humans living by a railroad track get used to the train and they don’t jump when they hear it go by.   This kind of learning is seen in all animals, but it is usually displayed in those with a nervous system.  Can single cells learn?  If so, how?  Single Stentor cells grown in the lab will be videotaped as they contract in response to a mechanical force, and the response will be measured when different genes are shut down.  This will reveal how the cell learns at a molecular level.  At the same time, a simple mathematical model of behavior will be used to: a) predict genes that are involved in sensing when touched; b) identify genes that are involved in driving the contraction; and c) identify how the cell decides whether or not to contract.  This project will show, for the first time, how a single cell is able to learn.  Broader Impact activities will include the interdisciplinary training of students along with public outreach activities. &lt;br/&gt;&lt;br/&gt;Cells integrate multiple inputs and select between different behavioral responses, in some cases seeming to learn from experience.  The computational processes by which cells process information to generate appropriate behaviors remain poorly understood.  Learning is usually considered to be a feature of multicellular animals with some form of neuronal network, but the seeming ability of single cells to learn suggests it is a more general feature of life.  One of the most tractable systems for studying learning by a single cell is Stentor coeruleus, a giant cell that shows quantifiable behaviors in response to mechanical stimulation.  Repeated stimulation leads to habituation, in which the cell learns to ignore a stimulus of a particular magnitude.  Habituation in Stentor has been well documented, but the mechanistic basis is unknown.  In this project, an expert on the biology of Stentor coeruleus will team up with an expert on computational biology, to develop a quantitative understanding of how learning takes place in a single cell.  The project will combine quantitative measurements of cell responses with a simple two-state mathematical model for cellular learning and molecular perturbations of gene function, to ask fundamental questions about how learning takes place, identify key molecular pathways that underlie learning and memory in a cell, and probe the computational complexity of cellular decision-making.  Investigation of gene function will exploit proteomic and phosphoproteomic information to identify the sensory and effector molecules along with the signaling connections that link the stimulus to the response.   Once these elements are known, it will then be possible to determine which aspects of the system (sensory, effector, or signaling) are modulated during the learning process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012647</AwardID>
+<Investigator>
+<FirstName>Wallace</FirstName>
+<LastName>Marshall</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wallace Marshall</PI_FULL_NAME>
+<EmailAddress><![CDATA[wallace.marshall@ucsf.edu]]></EmailAddress>
+<NSF_ID>000139207</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Fung</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer C Fung</PI_FULL_NAME>
+<EmailAddress><![CDATA[jennifer.fung@ucsf.edu]]></EmailAddress>
+<NSF_ID>000583994</NSF_ID>
+<StartDate>06/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Francisco</Name>
+<CityName>SAN FRANCISCO</CityName>
+<ZipCode>941434249</ZipCode>
+<PhoneNumber>4154762977</PhoneNumber>
+<StreetAddress>1855 FOLSOM ST STE 425</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KMH5K9V7S518</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF CALIFORNIA, SAN FRANCISCO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Francisco]]></Name>
+<CityName>San Francisco</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>941432200</ZipCode>
+<StreetAddress><![CDATA[600 16th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~737438</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>We usually think of thinking and learning as things that only complex animals with brains and nervous systems are capable of doing.&nbsp; But we know that cells contain very complicated molecular pathways that can perform chemical versions of computation.&nbsp; Cells also need to respond to changes in their environment, and direct what can sometimes be very complex types of movements and other behaviors.&nbsp; The goal of our project has been to learn how a single cell can be capable of simple forms of learning, for which we have used a giant pond-dwelling organism, Stentor coeruleus, as an experimental system.</p> <p>&nbsp;</p> <p>Stentor is a single-celled organism that is shaped like a cone.&nbsp; It lives in ponds, where it attaches to pond plants by the narrow part of the cone, and then stretches out to take in food through a large mouth at the wide end of the cone.&nbsp; &nbsp;Stentor cells are large, more than 1 millimeter long, and this means that other pond-organisms will often try to eat them.&nbsp; When a predator touches a Stentor cell, it contracts into a ball.&nbsp; This rapid contraction is an escape mechanism, and it keeps the cell safe from being eaten.&nbsp; But contracting like this burns up a lot of energy, and so the cell should only contract if it is actually being threatened.&nbsp; In the pond, there are lots of small algae swimming around that are not harmful, and contracting every time one of these bumps into the Stentor would be a waste of energy.&nbsp; &nbsp;Stentor is able to distinguish a real threat from a casual context based on past experience:&nbsp; if something bumps into the cell with the same level of force again and again, the cell will gradually stop responding.&nbsp; This is a simple form of learning called habituation, that is seen in virtually all animals.&nbsp; But animals do habituation using a nervous system.&nbsp; How can a single cell do this?&nbsp; &nbsp;</p> <p>&nbsp;</p> <p>Previous work in the 1980's had shown that when a dish full of Stentor cells is bumped repeatedly with the same level of force, fewer and fewer cells respond each time.&nbsp;&nbsp; The gradual decrease in response raised the idea that these cells had a graded response, in the sense that the probability of contracting could reduce over a continuous range of probabilities.&nbsp; This is exactly what happens when animals habituate to a stimulus.&nbsp;&nbsp; In order to go further, we built a computer controlled machine to deliver precisely calibrated mechanical taps to a dish of Stentor cells, and then used computer imaging to track the response of individual cells.&nbsp; We found that even though a group of cells shows a gradually reducing response, each individual cell shows a much more dramatic switch, from a state in which it responds to most or all taps, to a state where it hardly ever responds. &nbsp;The graded response of the group of cells is just because individual cells switch to the non-responsive state at different types.&nbsp;</p> <p>&nbsp;</p> <p>Once we knew that single cells showed an all-or-nothing type of response, we were able to build a simple mathematical model for how a cell learns.&nbsp; In this model, we say that a cell can be in one of two states (responsive or non-responsive) and then switch back and forth between them.&nbsp;&nbsp; Using this model, we were able to show that weaker forces, which cause the cell to learn faster, do so because they have a stronger effect on how fast the cells switch to the non-responding state.&nbsp;</p> <p>&nbsp;</p> <p>We have used the research work of this project as the basis for a public science demonstration, in which visitors can push a button to trigger the mechanical stimulation, and see how the cells respond using a computer-controlled microscope.&nbsp; We have presented this at several large public science festivals such that hundreds of people have had the chance to see for themselves that cells can respond to stimulation and can learn.&nbsp;</p> <p>&nbsp;</p> <p>The implications of this work go far beyond understanding just how this one pond-dwelling cell behaves.&nbsp; We know that a Stentor cell has almost all the same genes and proteins as a human, such that anything a Stentor cell can do, a human cell can probably do as well.&nbsp; This suggests that learning may not just be for nerve cells, but something that every cell in the body can do.&nbsp; In fact, our work suggests that learning may be a fundamental property of all living things, and by learning how it works in one cell type, we are opening a window into a fundamental hallmark of life.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/29/2023<br>      Modified by: Wallace&nbsp;Marshall</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ We usually think of thinking and learning as things that only complex animals with brains and nervous systems are capable of doing.  But we know that cells contain very complicated molecular pathways that can perform chemical versions of computation.  Cells also need to respond to changes in their environment, and direct what can sometimes be very complex types of movements and other behaviors.  The goal of our project has been to learn how a single cell can be capable of simple forms of learning, for which we have used a giant pond-dwelling organism, Stentor coeruleus, as an experimental system.     Stentor is a single-celled organism that is shaped like a cone.  It lives in ponds, where it attaches to pond plants by the narrow part of the cone, and then stretches out to take in food through a large mouth at the wide end of the cone.   Stentor cells are large, more than 1 millimeter long, and this means that other pond-organisms will often try to eat them.  When a predator touches a Stentor cell, it contracts into a ball.  This rapid contraction is an escape mechanism, and it keeps the cell safe from being eaten.  But contracting like this burns up a lot of energy, and so the cell should only contract if it is actually being threatened.  In the pond, there are lots of small algae swimming around that are not harmful, and contracting every time one of these bumps into the Stentor would be a waste of energy.   Stentor is able to distinguish a real threat from a casual context based on past experience:  if something bumps into the cell with the same level of force again and again, the cell will gradually stop responding.  This is a simple form of learning called habituation, that is seen in virtually all animals.  But animals do habituation using a nervous system.  How can a single cell do this?        Previous work in the 1980's had shown that when a dish full of Stentor cells is bumped repeatedly with the same level of force, fewer and fewer cells respond each time.   The gradual decrease in response raised the idea that these cells had a graded response, in the sense that the probability of contracting could reduce over a continuous range of probabilities.  This is exactly what happens when animals habituate to a stimulus.   In order to go further, we built a computer controlled machine to deliver precisely calibrated mechanical taps to a dish of Stentor cells, and then used computer imaging to track the response of individual cells.  We found that even though a group of cells shows a gradually reducing response, each individual cell shows a much more dramatic switch, from a state in which it responds to most or all taps, to a state where it hardly ever responds.  The graded response of the group of cells is just because individual cells switch to the non-responsive state at different types.      Once we knew that single cells showed an all-or-nothing type of response, we were able to build a simple mathematical model for how a cell learns.  In this model, we say that a cell can be in one of two states (responsive or non-responsive) and then switch back and forth between them.   Using this model, we were able to show that weaker forces, which cause the cell to learn faster, do so because they have a stronger effect on how fast the cells switch to the non-responding state.      We have used the research work of this project as the basis for a public science demonstration, in which visitors can push a button to trigger the mechanical stimulation, and see how the cells respond using a computer-controlled microscope.  We have presented this at several large public science festivals such that hundreds of people have had the chance to see for themselves that cells can respond to stimulation and can learn.      The implications of this work go far beyond understanding just how this one pond-dwelling cell behaves.  We know that a Stentor cell has almost all the same genes and proteins as a human, such that anything a Stentor cell can do, a human cell can probably do as well.  This suggests that learning may not just be for nerve cells, but something that every cell in the body can do.  In fact, our work suggests that learning may be a fundamental property of all living things, and by learning how it works in one cell type, we are opening a window into a fundamental hallmark of life.          Last Modified: 08/29/2023       Submitted by: Wallace Marshall]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

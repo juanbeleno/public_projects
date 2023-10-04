@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: RI: Learning with Low-Quality Visual Data: Handling Both Passive and Active Degradations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>77253.00</AwardTotalIntnAmount>
+<AwardAmount>77253</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jie Yang</SignBlockName>
+<PO_EMAI>jyang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924768</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project is focused on effectively and robustly exploiting low-quality (LQ) visual data for computer vision tasks. While most current computer vision systems are designed for high-quality visual data, collected from "clear" environments where subjects are well observable without significant attenuation or alteration, a dependable vision system must reckon with the entire spectrum of degradations from unconstrained environments. With various degradations arising from the visual data acquisition and processing pipeline, the ubiquitous LQ visual data can dramatically deteriorate the model performance in practice. The project outcome can broadly benefit a variety of real-world applications, such as video surveillance, autonomous/assisted driving, robotics and medical image analysis, where LQ visual data has constituted major performance and reliability bottlenecks. &lt;br/&gt;&lt;br/&gt;This research categorizes common degradations into the two types: "passive degradations" that are caused by uncontrollable environment factors (such as bad weather and low light); and "active degradations" that are intentionally introduced in a controllable way to meet certain budget requirements (such as lossy compression). The project will mainly addresses two important technical questions: i) how to overcome passive degradations and achieve more robust high-level task performance on LQ video data, using end-to-end deep learning models; and ii) how to properly introduce and control active degradations to generate the desired form of LQ data, that both satisfies certain budget requirements and maintains the target task utility, using deep adversarial learning models. The resulting new techniques are to be verified on application examples such as video recognition, video annotation, video compression, and de-identified video data sharing for recognition purpose.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2053269</AwardID>
+<Investigator>
+<FirstName>Zhangyang</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhangyang Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[atlaswang@utexas.edu]]></EmailAddress>
+<NSF_ID>000746175</NSF_ID>
+<StartDate>09/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787595316</ZipCode>
+<StreetAddress><![CDATA[3925 W Braker Lane Ste 3.340]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~77253</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1"><span>The overall goal of the proposed research is to effectively and robustly exploit low-quality (LQ) visual data for computer vision tasks. With various degradations arising from the visual data acquisition and processing pipeline, the ubiquitous LQ visual data can dramatically deteriorate the model performance in many classical and emerging applications. Depending on how the degradations are introduced to the visual data, we categorize common degradations into the following two types: (1) Passive degradations: the acquisition of visual data from the real world is often jeopardized by uncontrollable degradations, caused by complex unconstrained environments, such as bad weather and low illumination in the night, or sensor quality limitations; (2)&nbsp; Active degradations: the visual data transmission, storage and analytics are often manually introduced with controllable degradations, in order to meet certain budget requirements. Sometimes, videos are even intentionally captured or processed to be extremely low-resolution, to create privacy-preserving &ldquo;anonymized videos".&nbsp;</span></p> <p class="p1"><span>There are two important questions to be addressed in this proposal: i) how to overcome passive degradations and achieve robust high-level task performance on LQ visual data; and ii) how to properly introduce and control active data degradations to generate LQ data. To address those two challenges, we have accomplished to the following research outcomes during this project:</span></p> <p class="p1"><span>(i) Development of novel algorithms for enhancing image or video quality, in the presence of haze, rain, low light, or motion blur. Analyzing their impacts on subsequent visual understanding tasks</span></p> <p class="p1"><span>(ii) Development of novel algorithm for generating more effective&nbsp;&ldquo;anonymized videos" that balance between video utility and privacy protection, using the core technique of adversarial training.</span></p> <p class="p1"><span>(iii) Establishment of three public dataset benchmarks on visual understanding from hazy imagery, rainy imagery, and "anonymized videos". Those datasets are becoming popular in the research community.</span></p> <p><span>The project also has more broad impact outcomes, besides publications/open-source codes/public datasets, including: (1) many invited talks, especially three tutorials in CVPR/ICCV/ECCV; (2) new courses developed in TAMU/UT Austin, plus two invited short courses&nbsp;at University of Sao Paulo, Brazil; (3) two PhD students (including one female) and a few more undergraduates are involved in this research.</span></p><br> <p>            Last Modified: 09/09/2021<br>      Modified by: Zhangyang&nbsp;Wang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[The overall goal of the proposed research is to effectively and robustly exploit low-quality (LQ) visual data for computer vision tasks. With various degradations arising from the visual data acquisition and processing pipeline, the ubiquitous LQ visual data can dramatically deteriorate the model performance in many classical and emerging applications. Depending on how the degradations are introduced to the visual data, we categorize common degradations into the following two types: (1) Passive degradations: the acquisition of visual data from the real world is often jeopardized by uncontrollable degradations, caused by complex unconstrained environments, such as bad weather and low illumination in the night, or sensor quality limitations; (2)  Active degradations: the visual data transmission, storage and analytics are often manually introduced with controllable degradations, in order to meet certain budget requirements. Sometimes, videos are even intentionally captured or processed to be extremely low-resolution, to create privacy-preserving "anonymized videos".  There are two important questions to be addressed in this proposal: i) how to overcome passive degradations and achieve robust high-level task performance on LQ visual data; and ii) how to properly introduce and control active data degradations to generate LQ data. To address those two challenges, we have accomplished to the following research outcomes during this project: (i) Development of novel algorithms for enhancing image or video quality, in the presence of haze, rain, low light, or motion blur. Analyzing their impacts on subsequent visual understanding tasks (ii) Development of novel algorithm for generating more effective "anonymized videos" that balance between video utility and privacy protection, using the core technique of adversarial training. (iii) Establishment of three public dataset benchmarks on visual understanding from hazy imagery, rainy imagery, and "anonymized videos". Those datasets are becoming popular in the research community.  The project also has more broad impact outcomes, besides publications/open-source codes/public datasets, including: (1) many invited talks, especially three tutorials in CVPR/ICCV/ECCV; (2) new courses developed in TAMU/UT Austin, plus two invited short courses at University of Sao Paulo, Brazil; (3) two PhD students (including one female) and a few more undergraduates are involved in this research.       Last Modified: 09/09/2021       Submitted by: Zhangyang Wang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

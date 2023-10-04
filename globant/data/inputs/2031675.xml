@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Performant Distributed Ledgers for Cybersecurity Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255000.00</AwardTotalIntnAmount>
+<AwardAmount>255000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to advance a novel, distributed ledger-based technology to improve Application-Program Interfaces (APIs) security for enterprises.  APIs are the way that machines communicate with each other, where these machines may be servers, docker containers, IoT devices, sensors, and more.  Enterprises are moving to using hybrid cloud deployments, mixing public cloud with private and edge networks.  Further, enterprises are deploying a wide range of open architectures that support mobile access, automated deployment workflows, and application architectures like microservices, IoT enclaves, and sensor networks.  Increasingly as an enterprise turns to APIs to stitch these diverse network elements together, API security is a critical element of any enterprise’s cybersecurity strategy.  The company’s proposed API security platform leverages a private and permissioned distributed ledger network (DLN) at the heart of its product.  In fact, this DLN enables provision of the first implementation of multi-factor authentication (MFA) for APIs.  To meet the scale and latency requirements of API authentication in real-time without sacrificing security guarantees, the proposed DLN must be highly performant and efficient in both storage and processing.  This SBIR-funded research seeks to advance DLN technology but is also more broadly applicable to the advancement of enterprise applications of distributed ledgers that would benefit from pruning, flexible scaling and orchestration, and heightened performance.&lt;br/&gt; &lt;br/&gt;This SBIR Phase I project proposes to advance this foundational blockchain framework by discovering and evaluating approaches to elevate performance of the DLN in the scope of authentication application.   The project will measure and compare the effectiveness of potential advancements to the DLN platform, including: 1) Horizontal scaling of the blockchain network, i.e. varying the number of peers or other components in the network, 2). Pruning of the blockchain to only keep relevant and necessary portions of ledger data, i.e. leading to a more efficient ledger access without sacrificing deep verification.  The research work will extend modeling and simulation infrastructure to pattern and measure real-world, at-scale scenarios.  The research proposed here will have a broad impact to DLT research and serve as a blueprint for production-grade ledger-based technologies to help enable use-cases where the barrier to entry is cost, performance, and/or scalability. The company will utilize these research findings to develop a production-grade model for a performant, scalable DLT-based security product that can meet scenarios as expansive as high-performance cloud computing, and as granular as embedded, industrial control systems and sensor networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/13/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031675</AwardID>
+<Investigator>
+<FirstName>Anusha</FirstName>
+<LastName>Iyer</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anusha R Iyer</PI_FULL_NAME>
+<EmailAddress><![CDATA[anusha@corsha.com]]></EmailAddress>
+<NSF_ID>000825209</NSF_ID>
+<StartDate>05/13/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Corsha, Inc.</Name>
+<CityName>VIENNA</CityName>
+<ZipCode>221822222</ZipCode>
+<PhoneNumber>5717485010</PhoneNumber>
+<StreetAddress>8618 WESTWOOD CENTER DR</StreetAddress>
+<StreetAddress2><![CDATA[STE 300]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MM9YAUMKKJ95</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORSHA, INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[HASHLIT, INC.]]></Name>
+<CityName>Vienna</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>221822222</ZipCode>
+<StreetAddress><![CDATA[8618 Westwood Center Drive, Suit]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Distributed Ledger Technology represents an exciting new frontier in the realm of distributed systems. By distributing trust through a system, Distributed Ledgers can potentially have an impact on society of the same magnitude of the internet itself: Deed registries, vital records, national currencies, even entire autonomous organizations can be built using this technology. Distributed Ledger Technology, however, is very new and as such its performance at scale and over the long term is not as well understood as well as more mature technologies. Corsha uses a Distributed Ledger to deliver mission-critical API security products to its clients, who operate the system at scale and over long periods. This presented an opportunity to explore long term behavior of the technology in a business context.</p> <p>Corsha?s NSF SBIR award resulted in an extensive test program centered around the Hyperledger Fabric Distributed Ledger Network (DLN), and its performance under a variety of short and long term conditions. As part of this SBIR, Corsha developed a scalable, realistic workload simulating hundreds of individual clients interacting simultaneously with the DLN, while measuring the latency for each interaction.</p> <p>Corsha?s Distributed Ledger workload was then run against 23 different Hyperledger Fabric topologies, and the throughput and median latencies were obtained for each topology. A key experimental finding was that workload throughput generally increased as the number of Hyperledger Fabric peers in each DLN participating organization increased. Interestingly, the number of participating orgs in the DLN did not seem to be a substantial factor, especially at high numbers of peers.</p> <p>A key objective of this SBIR effort was the investigation of DLN performance at varying ledger sizes. The experiment methodology involved filling a ledger with data using a write-heavy workload. As the ledger grew to specified sizes, a snapshot was taken of the DLN state. At each checkpointed ledger size, identical workloads were run and the throughputs and latencies were compared. Analysis of the experimental results indicates that ledger performance degrades roughly linearly with ledger size, with write workload performance showing a particularly strong linear correlation with ledger size. Ledger read workloads also exhibited degraded performance in a roughly linear fashion, however, the correlation was not as strong and the overall effect (as a percentage of overall performance) was not as significant as the write workload.</p> <p>Finally, long-running tests under simulated real-world conditions were conducted to validate the findings from the earlier ledger snapshotting experiments. An empty DLN was instantiated, and a workload consisting of read and write operations developed from observed customer workload patterns was deployed. Both read and write operation performance was measured over a 5 day period, and the results were fed through data analysis tools to extract trends over the entire period. Findings from this data indicated that write workload latency increased by 1% daily over this period, and read workload latency increased by 2% daily.</p> <p>The experimental results obtained through this SBIR effort showed that the Hyperledger Fabric DLN did have performance degradation under a sustained workload. Comparison of workload performance at different ledger sizes did show a correlation between ledger size and latency/throughput for both read and write workloads. These findings indicate that over the long term, workload performance could degrade to levels where the customer experience could be impacted severely. To mitigate these long-term performance issues, approaches to limit the size of the ledger, such as pruning or transaction expiration, merit further investigation as ways to address the issues posed by long running blockchains.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/18/2022<br>      Modified by: Anusha&nbsp;R&nbsp;Iyer</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Distributed Ledger Technology represents an exciting new frontier in the realm of distributed systems. By distributing trust through a system, Distributed Ledgers can potentially have an impact on society of the same magnitude of the internet itself: Deed registries, vital records, national currencies, even entire autonomous organizations can be built using this technology. Distributed Ledger Technology, however, is very new and as such its performance at scale and over the long term is not as well understood as well as more mature technologies. Corsha uses a Distributed Ledger to deliver mission-critical API security products to its clients, who operate the system at scale and over long periods. This presented an opportunity to explore long term behavior of the technology in a business context.  Corsha?s NSF SBIR award resulted in an extensive test program centered around the Hyperledger Fabric Distributed Ledger Network (DLN), and its performance under a variety of short and long term conditions. As part of this SBIR, Corsha developed a scalable, realistic workload simulating hundreds of individual clients interacting simultaneously with the DLN, while measuring the latency for each interaction.  Corsha?s Distributed Ledger workload was then run against 23 different Hyperledger Fabric topologies, and the throughput and median latencies were obtained for each topology. A key experimental finding was that workload throughput generally increased as the number of Hyperledger Fabric peers in each DLN participating organization increased. Interestingly, the number of participating orgs in the DLN did not seem to be a substantial factor, especially at high numbers of peers.  A key objective of this SBIR effort was the investigation of DLN performance at varying ledger sizes. The experiment methodology involved filling a ledger with data using a write-heavy workload. As the ledger grew to specified sizes, a snapshot was taken of the DLN state. At each checkpointed ledger size, identical workloads were run and the throughputs and latencies were compared. Analysis of the experimental results indicates that ledger performance degrades roughly linearly with ledger size, with write workload performance showing a particularly strong linear correlation with ledger size. Ledger read workloads also exhibited degraded performance in a roughly linear fashion, however, the correlation was not as strong and the overall effect (as a percentage of overall performance) was not as significant as the write workload.  Finally, long-running tests under simulated real-world conditions were conducted to validate the findings from the earlier ledger snapshotting experiments. An empty DLN was instantiated, and a workload consisting of read and write operations developed from observed customer workload patterns was deployed. Both read and write operation performance was measured over a 5 day period, and the results were fed through data analysis tools to extract trends over the entire period. Findings from this data indicated that write workload latency increased by 1% daily over this period, and read workload latency increased by 2% daily.  The experimental results obtained through this SBIR effort showed that the Hyperledger Fabric DLN did have performance degradation under a sustained workload. Comparison of workload performance at different ledger sizes did show a correlation between ledger size and latency/throughput for both read and write workloads. These findings indicate that over the long term, workload performance could degrade to levels where the customer experience could be impacted severely. To mitigate these long-term performance issues, approaches to limit the size of the ledger, such as pruning or transaction expiration, merit further investigation as ways to address the issues posed by long running blockchains.          Last Modified: 08/18/2022       Submitted by: Anusha R Iyer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

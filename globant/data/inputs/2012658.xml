@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Polynomial Optimization and Finite Element Methods for Nonlinear Mechanics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>113940.00</AwardTotalIntnAmount>
+<AwardAmount>61947</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stacey Levine</SignBlockName>
+<PO_EMAI>slevine@nsf.gov</PO_EMAI>
+<PO_PHON>7032922948</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The purpose of this interdisciplinary project is to devise a new generation of computational methods based on the combination of finite element methods and polynomial optimization to analyze problems in nonlinear mechanics, which often exhibit a complex evolution over time and space. Some examples include fluid flows, convection, and nonlinear elasticity. Computing these systems’ equilibria and producing a detailed diagnosis of their stability can be of notorious difficulty, but are of profound importance for elucidating the underlying physical mechanisms involved. These novel algorithms and rigorous analysis will allow the improvement of longstanding results in fluid mechanics related to the stability and dynamics of canonical shear flows. The results may lead to a deeper knowledge of turbulent losses in fluid systems, which could play a critical role in engineering problems within the transport and energy sectors.&lt;br/&gt;&lt;br/&gt;The project has two parts. The first part focuses on rigorously establishing the nonlinear stability of fluid flows with the goal of sharpening the lower bounds on the global stability threshold of shear flows (the largest Reynolds number under which any initial velocity field eventually converges to the laminar flow), such as plane Couette and plane Poiseuille flows. This will be achieved by carefully constructing Lyapunov functionals with the computer using polynomial sum-of-squares constraints and a special framework to pose the incompressible Navier-Stokes equations. The second part proposes the first connection between finite element analysis and sparse polynomial optimization. The combination has some nice theoretical implications, since finite element error analysis is deeply rooted in functional analysis and approximation theory, while the nascent field of polynomial optimization is closely tied to results in real algebraic geometry. From the practical standpoint, the computational methods developed will form a general framework to directly solve nonlinear partial differential equations (PDEs) in general domains while concurrently globally optimizing relevant quantities of interest (e.g. energy, heat transport, etc.). The resulting numerical methods provide a systematic pathway to compute exact coherent states of physical systems without using homotopic continuation. This is essential in problems where non-unique solutions do not bifurcate from a trivial state, like in plane Couette and pipe flows.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/25/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012658</AwardID>
+<Investigator>
+<FirstName>Federico</FirstName>
+<LastName>Fuentes</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Federico Fuentes</PI_FULL_NAME>
+<EmailAddress><![CDATA[federico.fuentes@cornell.edu]]></EmailAddress>
+<NSF_ID>000811469</NSF_ID>
+<StartDate>06/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY23</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EQA8NBEN9WD5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>Ithaca</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148534201</ZipCode>
+<StreetAddress><![CDATA[582 Malott Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY23</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~61946</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Many problems in engineering science and physics involve minimizing or maximizing what is referred to as an integral functional. These include finding the stationary configurations of hyperelastic materials and nonlinear plates, seeking flows that optimize thermal transport or perturbation energy in fluid mechanics, and finding optimal pattern formation phenomena or microstructures in material science. Very often, the optimality sought is global, so finding local optima does not suffice.</p> <p>In this context, for many of these problems there may be mathematical proofs that these global minimizers or maximizers exist, but there is no algorithm (i.e. recipe) to find such global optimizers in a rigorous fashion. This means that existing algorithms, to the degree to which they succeed in obtaining a solution, only result in local optimizers, as opposed to global optimizers.</p> <p>During this project, the first algorithms that rigorously converge to the global optima of these integral functionals were described and implemented computationally. This was done by combining results from computational algebraic geometry (within polynomial optimization) and finite element analysis, thus showing the fruitful connection these two fields can have.</p> <p>In addition, within the field of fluid mechanics, a well known experimental observation in plane Couette flow was that the flow seemed to be return to its laminar shearing state despite sometimes observing a transient growth of perturbation energy.&nbsp;</p> <p>During this project, techniques in sum-of-squares polynomial optimization were used to find Lyapunov functionals that establish the global stability of the 2D version of this flow for Reynolds numbers where transient growth of energy is observed (and other numerical evidence was gathered to confirm this finding). The techniques used extend beyond this flow, and even to 3D, so it is a very promising finding, with significant future applicability.</p><br> <p>            Last Modified: 01/04/2022<br>      Modified by: Federico&nbsp;Fuentes</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Many problems in engineering science and physics involve minimizing or maximizing what is referred to as an integral functional. These include finding the stationary configurations of hyperelastic materials and nonlinear plates, seeking flows that optimize thermal transport or perturbation energy in fluid mechanics, and finding optimal pattern formation phenomena or microstructures in material science. Very often, the optimality sought is global, so finding local optima does not suffice.  In this context, for many of these problems there may be mathematical proofs that these global minimizers or maximizers exist, but there is no algorithm (i.e. recipe) to find such global optimizers in a rigorous fashion. This means that existing algorithms, to the degree to which they succeed in obtaining a solution, only result in local optimizers, as opposed to global optimizers.  During this project, the first algorithms that rigorously converge to the global optima of these integral functionals were described and implemented computationally. This was done by combining results from computational algebraic geometry (within polynomial optimization) and finite element analysis, thus showing the fruitful connection these two fields can have.  In addition, within the field of fluid mechanics, a well known experimental observation in plane Couette flow was that the flow seemed to be return to its laminar shearing state despite sometimes observing a transient growth of perturbation energy.   During this project, techniques in sum-of-squares polynomial optimization were used to find Lyapunov functionals that establish the global stability of the 2D version of this flow for Reynolds numbers where transient growth of energy is observed (and other numerical evidence was gathered to confirm this finding). The techniques used extend beyond this flow, and even to 3D, so it is a very promising finding, with significant future applicability.       Last Modified: 01/04/2022       Submitted by: Federico Fuentes]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

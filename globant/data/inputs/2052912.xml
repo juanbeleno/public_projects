@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAR-PF: A channel-belt scale source of autogenic topography controlling fluvial sedimentation and preservation: Investigation using 3D seismic volumes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>174000.00</AwardTotalIntnAmount>
+<AwardAmount>104300</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aisha Morris</SignBlockName>
+<PO_EMAI>armorris@nsf.gov</PO_EMAI>
+<PO_PHON>7032927081</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Rivers are important resources and are major shapers of the Earth’s surface. Understanding their evolution over time is important with changing climate, yet to understand how rivers evolve over longer than human timescales, we need to examine the sedimentary deposits created by ancient rivers. These deposits record the evolution and migration of rivers over long timescales before being buried. However, while external forces such as changing climate and tectonics can influence the evolution of rivers, there are also internally controlled factors related to spatially variable flow and sediment deposition that may shape river deposits. By repurposing 3D acoustic images collected by the energy industry showing river deposits in Earth’s subsurface, we will examine the deposits of ancient coastal rivers to better understand how these important deposits vary over space and time, and why. The results of this work will help us better understand how and why ancient rivers have modified Earth’s surface, and will help us predict future changes. &lt;br/&gt;&lt;br/&gt;It has long been recognized that the sedimentary record is often complicated and obscured by time-variable sedimentation, hiatus, and erosion. Exceptions have been recognized primarily at the bedform scale, where local, naturally occurring (autogenic) relief drives rapid sedimentation and preservation. River-channel belts, the sedimentary deposits created by river migration and aggradation over time, are also commonly well preserved at the scale of tens of kilometers. This exceptional preservation is often attributed to external forcings (e.g., subsidence), but autogenic sources of topography at the channel-belt scale have also been recognized and hypothesized to be an important source of autogenic relief. Inter-alluvial-ridge basins may perform this function. To quantify the relative importance of autogenic and allogenic processes in preserving fluvial channel belts, we will use 3D seismic volumes imaging the subsurface of the Gulf of Mexico. Using volumes across the continental shelf, we will map channel belts, build a database of channel-belt geometries, and identify the drivers of their preservation, ultimately tracking the relative importance of autogenic and allogenic processes in preserving channel belts across the Gulf Coast over time. Part of our workflow involves converting analyzed 3D seismic volumes to 3D Numpy arrays, a free, open-source, and easily manipulated dataset, which we will make freely available to make 3D seismic volumes more accessible.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/30/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052912</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Cardenas</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin T Cardenas</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000786763</NSF_ID>
+<StartDate>04/30/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cardenas, Benjamin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>78723</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[California Institute of Technology]]></Name>
+<CityName>Pasadena</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>911250001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>27</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA27</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7137</Code>
+<Text>Postdoctoral Fellowships</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7459</Code>
+<Text>Sedimentary Geo &amp; Paleobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~104298</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The sedimentary deposits that accumulate within river channels, called channel belts, are a fundamental component of Earth?s sedimentary record, and in the subsurface they commonly hold important resources for human, including water and hydrocarbons. This National Science Foundation Earth Sciences Postdoctoral Fellowship project proposed research to understand why channel belts are so well preserved, often for 10s of km, in the stratigraphic record. Understanding this preservation is key to understanding how ancient channel belts might record environmental signals at Earth's surface.</p> <p>The excellent preservation of sedimentary features as they are buried and archived in the stratigraphic record is surprisingly common. Conditions that can significantly shape Earth's surface, such as major river floods, are underrepresented, despite their ability to scour into older stratigraphy and replace it with deposits recording flood conditions. At the smaller scales of riverbed ripples, dunes, and bars, naturally occurring riverbed relief has been identified as the most important preservation mechanism. Small ripples are buried and preserved in front of larger dunes. Dunes are buried and preserved beneath yet larger bars. Bars are preserved and buried within river channels. We tested the hypothesis that a larger, naturally occurring source of relief also exists that explains the preservation of entire channel belts.</p> <p>We proposed the hypothesis that alluvial ridge basins (Fig. 1) are the source of naturally occurring relief that preserve channel belts. Alluvial ridge basins are 10s to 100s of km-scale depressions up to around 10 m deep that form between raised channel beds on coastal plains. We tested this hypothesis using a 3D seismic volume imaging dozens of channel belts buried beneath the seafloor of the Gulf of Mexico offshore of Louisiana (Fig. 2). 3D seismic volumes are detailed, three dimensional acoustic images of buried stratigraphy that are often collected by energy companies for hydrocarbon exploration. These volumes become available to the general public after a 25 year embargo, at which point they are hosted by the United States Geological Survey at the National Archive of Marine Seismic Surveys online database.</p> <p>To test the hypothesis, we mapped dozens of channel belts in the seismic volume (Fig. 3), and measured several aspects of their geometries (Fig. 4). We measured distances to check whether belts were preserved for km to 10s of km and were thus well preserved, which they were. We measured belt orientations to check if the distribution of paleoflow directions matched the slope directions of modern-day alluvial ridge basins, which they did (Fig. 5). We considered these two points as primary evidence that these channel belts were well-preserved within alluvial-ridge basins. We measured belt sinuosity and found it relatively low, which we interpreted as evidence for belt orientations mostly representing basin slopes. Further, the dozens of channel belts we mapped occurred over 100 m of stratigraphy. This is a thickness well beyond the relief of any one alluvial-ridge basin. We took this to imply that the entire stratigraphic interval represents preserved channel belts in multiple alluvial-ridge basins that formed over time, and that this process is common. Indeed, there is nothing inherently unique about coastal rivers that builds alluvial-ridge basins, and they may be important across all alluvial environments. We further suggested that, because preservation in alluvial-ridge basins may be very common, interpretations of channel belts in the sedimentary record may be framed in terms of whether this common process is interrupted by some external factor, such as limited sediment supply for building basins.</p> <p>Though the 3D seismic volume used in this study was freely available, as are hundreds other on the NAMSS website, they are infrequently used. A literature search showed no other scientific publications on the particular volume I analyzed, for example. These volumes have been recognized as important and underutilized resources for research and teaching. A large barrier to entry on the analysis of these volumes is likely the specialized, often industry-built software required for their interpretation. As the Broader Impacts portion of this project, I converted the seismic volume used in this study into an open-access, widely used format, a NumPy Array. This is a commonly used Python data format. I have also provided a Python script, which utilizes other Python modules, to quickly convert other seismic volumes into NumPy Arrays. The intent is to help bring these specialized but rich datasets to a wider group of scientists and teachers.</p> <p>A manuscript detailing the technical results of this project, as well as a coupled dataset release with the Numpy data, are currently undergoing peer review.</p><br> <p>            Last Modified: 10/29/2022<br>      Modified by: Benjamin&nbsp;T&nbsp;Cardenas</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879102814_Fig2_seismic-01--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879102814_Fig2_seismic-01--rgov-800width.jpg" title="Figure 2."><img src="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879102814_Fig2_seismic-01--rgov-66x44.jpg" alt="Figure 2."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Horizontal slices through the 3D seismic volume at different depths. Yellow elongate features are channel belts.</div> <div class="imageCredit">Benjamin T. Cardenas</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Benjamin&nbsp;T&nbsp;Cardenas</div> <div class="imageTitle">Figure 2.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879277364_Fig3_strat-01--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879277364_Fig3_strat-01--rgov-800width.jpg" title="Figure 3."><img src="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879277364_Fig3_strat-01--rgov-66x44.jpg" alt="Figure 3."></a> <div class="imageCaptionContainer"> <div class="imageCaption">A. Oblique view of channel-belt surfaces on the top. B. Stratigraphic positions of belt surfaces, arranged by increasing median position.</div> <div class="imageCredit">Benjamin T. Cardenas</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Benjamin&nbsp;T&nbsp;Cardenas</div> <div class="imageTitle">Figure 3.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879358817_Fig1_map-sketch-01--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879358817_Fig1_map-sketch-01--rgov-800width.jpg" title="Figure 1."><img src="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879358817_Fig1_map-sketch-01--rgov-66x44.jpg" alt="Figure 1."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Map and profile views of alluvial ridge basin on the Gulf Coast.</div> <div class="imageCredit">Benjamin T. Cardenas</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Benjamin&nbsp;T&nbsp;Cardenas</div> <div class="imageTitle">Figure 1.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879456653_Fig4_histos-01--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879456653_Fig4_histos-01--rgov-800width.jpg" title="Figure 4."><img src="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879456653_Fig4_histos-01--rgov-66x44.jpg" alt="Figure 4."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Geometries of channel belts.</div> <div class="imageCredit">Benjamin T. Cardenas</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Benjamin&nbsp;T&nbsp;Cardenas</div> <div class="imageTitle">Figure 4.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879524586_Fig5_rose-01--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879524586_Fig5_rose-01--rgov-800width.jpg" title="Figure 5."><img src="/por/images/Reports/POR/2022/2052912/2052912_10731248_1666879524586_Fig5_rose-01--rgov-66x44.jpg" alt="Figure 5."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Channel-belt orientations compared to similar orientations of channels on a modern-day basin.</div> <div class="imageCredit">Benjamin T. Cardenas</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Benjamin&nbsp;T&nbsp;Cardenas</div> <div class="imageTitle">Figure 5.</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The sedimentary deposits that accumulate within river channels, called channel belts, are a fundamental component of Earth?s sedimentary record, and in the subsurface they commonly hold important resources for human, including water and hydrocarbons. This National Science Foundation Earth Sciences Postdoctoral Fellowship project proposed research to understand why channel belts are so well preserved, often for 10s of km, in the stratigraphic record. Understanding this preservation is key to understanding how ancient channel belts might record environmental signals at Earth's surface.  The excellent preservation of sedimentary features as they are buried and archived in the stratigraphic record is surprisingly common. Conditions that can significantly shape Earth's surface, such as major river floods, are underrepresented, despite their ability to scour into older stratigraphy and replace it with deposits recording flood conditions. At the smaller scales of riverbed ripples, dunes, and bars, naturally occurring riverbed relief has been identified as the most important preservation mechanism. Small ripples are buried and preserved in front of larger dunes. Dunes are buried and preserved beneath yet larger bars. Bars are preserved and buried within river channels. We tested the hypothesis that a larger, naturally occurring source of relief also exists that explains the preservation of entire channel belts.  We proposed the hypothesis that alluvial ridge basins (Fig. 1) are the source of naturally occurring relief that preserve channel belts. Alluvial ridge basins are 10s to 100s of km-scale depressions up to around 10 m deep that form between raised channel beds on coastal plains. We tested this hypothesis using a 3D seismic volume imaging dozens of channel belts buried beneath the seafloor of the Gulf of Mexico offshore of Louisiana (Fig. 2). 3D seismic volumes are detailed, three dimensional acoustic images of buried stratigraphy that are often collected by energy companies for hydrocarbon exploration. These volumes become available to the general public after a 25 year embargo, at which point they are hosted by the United States Geological Survey at the National Archive of Marine Seismic Surveys online database.  To test the hypothesis, we mapped dozens of channel belts in the seismic volume (Fig. 3), and measured several aspects of their geometries (Fig. 4). We measured distances to check whether belts were preserved for km to 10s of km and were thus well preserved, which they were. We measured belt orientations to check if the distribution of paleoflow directions matched the slope directions of modern-day alluvial ridge basins, which they did (Fig. 5). We considered these two points as primary evidence that these channel belts were well-preserved within alluvial-ridge basins. We measured belt sinuosity and found it relatively low, which we interpreted as evidence for belt orientations mostly representing basin slopes. Further, the dozens of channel belts we mapped occurred over 100 m of stratigraphy. This is a thickness well beyond the relief of any one alluvial-ridge basin. We took this to imply that the entire stratigraphic interval represents preserved channel belts in multiple alluvial-ridge basins that formed over time, and that this process is common. Indeed, there is nothing inherently unique about coastal rivers that builds alluvial-ridge basins, and they may be important across all alluvial environments. We further suggested that, because preservation in alluvial-ridge basins may be very common, interpretations of channel belts in the sedimentary record may be framed in terms of whether this common process is interrupted by some external factor, such as limited sediment supply for building basins.  Though the 3D seismic volume used in this study was freely available, as are hundreds other on the NAMSS website, they are infrequently used. A literature search showed no other scientific publications on the particular volume I analyzed, for example. These volumes have been recognized as important and underutilized resources for research and teaching. A large barrier to entry on the analysis of these volumes is likely the specialized, often industry-built software required for their interpretation. As the Broader Impacts portion of this project, I converted the seismic volume used in this study into an open-access, widely used format, a NumPy Array. This is a commonly used Python data format. I have also provided a Python script, which utilizes other Python modules, to quickly convert other seismic volumes into NumPy Arrays. The intent is to help bring these specialized but rich datasets to a wider group of scientists and teachers.  A manuscript detailing the technical results of this project, as well as a coupled dataset release with the Numpy data, are currently undergoing peer review.       Last Modified: 10/29/2022       Submitted by: Benjamin T Cardenas]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

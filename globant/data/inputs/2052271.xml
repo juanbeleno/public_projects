@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Aviation Carbon Emissions Calculator for Commercial Air Travel and Cargo]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will accelerate the aviation industry’s adoption of more efficient aircraft and sustainable fuel sources. This project proposes a carbon calculator algorithm to effectively calculate scientifically valid and accurate carbon emissions for the consumer travel and air cargo markets. This research will lead to the first publicly accessible data on flight carbon emissions for air cargo and air travel as a point of booking decision support tool. This will enable travelers to make flight decisions based on carbon emissions and sustainability, as they do price and schedule.  Airlines can use this for important flight operations decisions in support of their sustainability goals. This can be applied to other modes of transportation.&lt;br/&gt;&lt;br/&gt;This research will lead to the development of a predictive per-passenger carbon emissions algorithm to be used as a decision support tool before booking a flight. Research and development of this type have never been done for air travel carbon emissions, and currently, no external certification and verification system exists for aviation carbon emissions. Econometrics modeling and principal component analysis will be used to develop and train a predictive carbon emission algorithm, after which software engineering will be used to develop an Application Programming Interface product to link this with consumer behavior and travel decisions. One inherent technical risk for this project is the ability to obtain and maintain consistent access to accurate, curated data describing aircraft and flights.  The ability to process such a vast amount of data from disparate sources in real-time, with the required speed and accuracy, is another major challenge.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/21/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052271</AwardID>
+<Investigator>
+<FirstName>Ian</FirstName>
+<LastName>Campbell</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ian P Campbell</PI_FULL_NAME>
+<EmailAddress><![CDATA[ian@jetsetoffset.com]]></EmailAddress>
+<NSF_ID>000837682</NSF_ID>
+<StartDate>04/21/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>JET-SET OFFSET, LLC</Name>
+<CityName>CAMDEN</CityName>
+<ZipCode>04843</ZipCode>
+<PhoneNumber>5089487505</PhoneNumber>
+<StreetAddress>19 HARDEN AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ME01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J3ZKVQMNAGW7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>JET-SET OFFSET, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[JET-SET OFFSET, LLC]]></Name>
+<CityName>Camden</CityName>
+<StateCode>ME</StateCode>
+<ZipCode>048431608</ZipCode>
+<StreetAddress><![CDATA[19 Harden Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ME01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-9517a10c-7fff-68cc-a82f-9d3b8195974f"> </span></p> <p dir="ltr"><span>Jet-Set Offset, a sustainable travel technology company, created a refined carbon emissions algorithm that predicts carbon emissions for commercial air travel at the point of sale. The algorithm predicts carbon emissions per passenger within an average Root Mean Squared Error of 8%, which is superior to existing benchmark solutions that rely on publicly available data.&nbsp;</span></p> <p>The project's research objectives included determining and prioritizing the data sets required to build a carbon calculator and predictive model for estimating carbon emissions at the point of sale, and determining the feasibility of obtaining each data set. Once researchers obtained data and determined the precision requirement for a consumer-ready decision support tool, they created an algorithm that predicts carbon emissions per passenger for a flight in real time. The final outcome is a beta version of a REST API for this algorithm that will allow customers, like airlines and online travel agencies, to get real-time emissions estimates for flights programmatically for their websites and applications. Travelers will be able to compare carbon emissions on flights, making more informed booking decisions, which could in turn inspire the aviation industry to accelerate their decarbonization efforts.&nbsp;</p> <p>Jet-Set Offset partnered with Alaska Airlines to conduct this research. Alaska Airlines shared a dataset with three years of fuel burn data for flights in North America. Project researchers first explored using linear regression to predict kg CO2 emissions and then constructed individual neural networks for each aircraft type using distance, bearing, and origin and destination airport latitude/longitude as predictors. The final analysis determined that a neural network approach produced the most accurate results while remaining viable for potential customers to quickly integrate the algorithm with their products.</p> <p dir="ltr"><span>&nbsp;</span>Jet-Set Offset is now working to further refine the outcomes of this research project and commercialize the API.&nbsp;</p><br> <p>            Last Modified: 10/26/2022<br>      Modified by: Ian&nbsp;P&nbsp;Campbell</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Jet-Set Offset, a sustainable travel technology company, created a refined carbon emissions algorithm that predicts carbon emissions for commercial air travel at the point of sale. The algorithm predicts carbon emissions per passenger within an average Root Mean Squared Error of 8%, which is superior to existing benchmark solutions that rely on publicly available data.   The project's research objectives included determining and prioritizing the data sets required to build a carbon calculator and predictive model for estimating carbon emissions at the point of sale, and determining the feasibility of obtaining each data set. Once researchers obtained data and determined the precision requirement for a consumer-ready decision support tool, they created an algorithm that predicts carbon emissions per passenger for a flight in real time. The final outcome is a beta version of a REST API for this algorithm that will allow customers, like airlines and online travel agencies, to get real-time emissions estimates for flights programmatically for their websites and applications. Travelers will be able to compare carbon emissions on flights, making more informed booking decisions, which could in turn inspire the aviation industry to accelerate their decarbonization efforts.   Jet-Set Offset partnered with Alaska Airlines to conduct this research. Alaska Airlines shared a dataset with three years of fuel burn data for flights in North America. Project researchers first explored using linear regression to predict kg CO2 emissions and then constructed individual neural networks for each aircraft type using distance, bearing, and origin and destination airport latitude/longitude as predictors. The final analysis determined that a neural network approach produced the most accurate results while remaining viable for potential customers to quickly integrate the algorithm with their products.  Jet-Set Offset is now working to further refine the outcomes of this research project and commercialize the API.        Last Modified: 10/26/2022       Submitted by: Ian P Campbell]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

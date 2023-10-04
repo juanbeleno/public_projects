@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Leveraging Heterogeneous Manycore Systems for Scalable Modeling, Simulation and Verification of Nanoscale Integrated Circuits]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>140240.00</AwardTotalIntnAmount>
+<AwardAmount>140240</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+<PO_EMAI>sabasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032927843</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The goal of this CAREER research project is to best unleash the power of emerging heterogeneous manycore CPU-GPU computing platforms. This will require revolutionizing the next-generation Electronic Design Automation (EDA) tools to deal with unprecedented complexity of circuits involving billions of components, making possible their modeling, analysis and verification tasks which would be prohibitively expensive and even intractable with methods in use today. The experience acquired in this research is also likely to contribute to advances in the use of computing in other areas of science and engineering, thus impacting areas such as complex system modeling and simulation, computational fluid dynamics, social computing, and systems biology. The PI will promote undergraduate and underrepresented student research, as well as K-12 education outreach, to motivate students in pursuing advanced engineering education or a career in STEM areas. Additionally, the PI will integrate the research outcomes into undergraduate and graduate curriculum development, and leverage interdisciplinary, industrial and international collaborations to effectively facilitate the proposed research work and broadly disseminate the results. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Future nanoscale Integrated Circuit (IC) subsystems, such as clock distributions, power delivery networks, embedded memory arrays, as well as analog and mixed-signal systems, may reach an unprecedented complexity involving billions of circuit components, making their modeling, analysis and verification tasks prohibitively expensive and intractable with existing EDA tools. On the other hand, emerging heterogeneous manycore computing systems, such as the manycore CPU-GPU computing platforms that integrate a few large yet power-consuming general purpose processors with massive number of much slimmer but more energy-efficient graphics processors, can theoretically delivery teraflops of computing power. The proposal aims to accelerate a paradigm shift in EDA research to more energy-efficient heterogeneous computing regimes. Towards this end, the PI will develop systematic hardware/software approaches to achieve scalable integrated circuit modeling, simulation and verifications by inventing heterogeneous CAD algorithms and data structures, as well as exploiting hardware-specific and domain-specific runtime performance modeling and optimization approaches.]]></AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041519</AwardID>
+<Investigator>
+<FirstName>Zhuo</FirstName>
+<LastName>Feng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zhuo Feng</PI_FULL_NAME>
+<EmailAddress><![CDATA[zfeng12@stevens.edu]]></EmailAddress>
+<NSF_ID>000555056</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stevens Institute of Technology</Name>
+<CityName>HOBOKEN</CityName>
+<ZipCode>07030</ZipCode>
+<PhoneNumber>2012168762</PhoneNumber>
+<StreetAddress>1 CASTLEPOINT ON HUDSON</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJ6CN5Y5A2R5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Stevens Institute of Technology]]></Name>
+<CityName>Hoboken</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>070305991</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0116</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001617DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2016~2051</FUND_OBLG>
+<FUND_OBLG>2017~73618</FUND_OBLG>
+<FUND_OBLG>2018~64571</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>Nanoscale integrated circuit (IC) subsystems may reach unprecedented complexities involving billions of circuit components. As a result, it is becoming increasingly challenging and even intractable for IC designers to perform essential chip modeling, analysis, and verification tasks using existing electronic design automation (EDA) tools. On the other hand, recent mainstream multiprocessors with heterogeneous architectures integrate a few large and yet flexible general-purpose processors with the massive number of much slimmer but more energy-efficient graphics processors to achieve teraflops of computing power at a relatively low cost.&nbsp;</span></p> <p><span><span><span style="text-decoration: underline;"><strong>The goal of this CAREER project</strong></span> is to best unleash the power of emerging heterogeneous manycore CPU-GPU computing platforms. This will require revolutionizing the next-generation Electronic Design Automation (EDA) tools to deal with unprecedented complexity of circuits involving billions of components, making possible their modeling, analysis and verification tasks which would be prohibitively expensive and even intractable with methods in use today.&nbsp;</span><br /></span></p> <p><span><span style="text-decoration: underline;"><strong>The outcome of this projec</strong>t </span>consists of developing heterogeneous parallel design automation algorithms for compute-intensive IC modeling, simulation, and verification tasks that are key to designs of nanoscale microprocessors, 3D-ICs, analog/mixed-signal circuits, as well as RF and microwave ICs. Specifically, we have investigated:</span></p> <p><span> (1) We have investigated nearly-linear time algorithms for time and frequency-domain SPICE-accurate post-layout IC simulations based on recent graph sparsification research, and developed a heterogeneous parallel algorithm&nbsp;to achieve nearly-optimal runtime/memory efficiency. </span></p> <p><span>(2) We have proposed a novel hybrid multigrid framework for more scalable full-chip electrical/thermal modeling, simulation, and verification tasks by leveraging heterogeneous parallel computing platforms for&nbsp;3D interconnect modeling and parasitics extraction. </span></p> <p><span>(3) We have introduced heterogeneous parallel<span>&nbsp;algorithms by exploiting the latest runtime performance modeling and optimization approaches to achieve the near-optimal computing efficiency.</span></span></p> <p><span><span>(4) We have promoted undergraduate and underrepresented student research, as well as K-12 education outreach. Additionally, we have integrated our research outcomes into undergraduate and graduate curriculum development.</span></span></p> <p><span style="text-decoration: underline;"><strong>Publications related to this project:&nbsp;</strong></span>We have published several papers in top EDA conferences/journals, such as our DAC&rsquo;15, DAC'16, ICCAD&rsquo;16, DAC'17, ICCAD'17, DAC'18, DAC'19, ICCAD'20, DATE'20, DAC'21, TCAD'20, TCAD'22, and TODAES&rsquo;22.&nbsp;&nbsp;</p><br> <p>            Last Modified: 11/09/2022<br>      Modified by: Zhuo&nbsp;Feng</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2041519/2041519_10302370_1668051597141_NSF--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2041519/2041519_10302370_1668051597141_NSF--rgov-800width.jpg" title="Heterogeneous Parallel EDA"><img src="/por/images/Reports/POR/2022/2041519/2041519_10302370_1668051597141_NSF--rgov-66x44.jpg" alt="Heterogeneous Parallel EDA"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Leveraging Heterogeneous Manycore Systems for Scalable Modeling, Simulation and Verification of Nanoscale Integrated Circuits</div> <div class="imageCredit">Zhuo Feng</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Zhuo&nbsp;Feng</div> <div class="imageTitle">Heterogeneous Parallel EDA</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Nanoscale integrated circuit (IC) subsystems may reach unprecedented complexities involving billions of circuit components. As a result, it is becoming increasingly challenging and even intractable for IC designers to perform essential chip modeling, analysis, and verification tasks using existing electronic design automation (EDA) tools. On the other hand, recent mainstream multiprocessors with heterogeneous architectures integrate a few large and yet flexible general-purpose processors with the massive number of much slimmer but more energy-efficient graphics processors to achieve teraflops of computing power at a relatively low cost.   The goal of this CAREER project is to best unleash the power of emerging heterogeneous manycore CPU-GPU computing platforms. This will require revolutionizing the next-generation Electronic Design Automation (EDA) tools to deal with unprecedented complexity of circuits involving billions of components, making possible their modeling, analysis and verification tasks which would be prohibitively expensive and even intractable with methods in use today.    The outcome of this project consists of developing heterogeneous parallel design automation algorithms for compute-intensive IC modeling, simulation, and verification tasks that are key to designs of nanoscale microprocessors, 3D-ICs, analog/mixed-signal circuits, as well as RF and microwave ICs. Specifically, we have investigated:   (1) We have investigated nearly-linear time algorithms for time and frequency-domain SPICE-accurate post-layout IC simulations based on recent graph sparsification research, and developed a heterogeneous parallel algorithm to achieve nearly-optimal runtime/memory efficiency.   (2) We have proposed a novel hybrid multigrid framework for more scalable full-chip electrical/thermal modeling, simulation, and verification tasks by leveraging heterogeneous parallel computing platforms for 3D interconnect modeling and parasitics extraction.   (3) We have introduced heterogeneous parallel algorithms by exploiting the latest runtime performance modeling and optimization approaches to achieve the near-optimal computing efficiency.  (4) We have promoted undergraduate and underrepresented student research, as well as K-12 education outreach. Additionally, we have integrated our research outcomes into undergraduate and graduate curriculum development.  Publications related to this project: We have published several papers in top EDA conferences/journals, such as our DAC’15, DAC'16, ICCAD’16, DAC'17, ICCAD'17, DAC'18, DAC'19, ICCAD'20, DATE'20, DAC'21, TCAD'20, TCAD'22, and TODAES’22.         Last Modified: 11/09/2022       Submitted by: Zhuo Feng]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

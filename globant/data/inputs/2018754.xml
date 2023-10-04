@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC* Integration-Large: Q-Factor: A Framework to Enable Ultra High-Speed Data Transfer Optimization based on Real-Time Network State Information provided by Programmable Data Planes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>749998.00</AwardTotalIntnAmount>
+<AwardAmount>760000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Communication networks are critical components of today’s scientific workflows. Researchers require long-distance, ultra high-speed networks to transfer huge data from acquisition sites (such as Vera C. Rubin Observatory, also knowns as Large Synoptic Survey Telescope in Chile) to processing sites, and to share measurements with scientists worldwide. However, while network bandwidth is continuously increasing, the majority of data transfers are unable to efficiently utilize the added capacity due to inherent limitations of parameter settings of the network transport protocols and the lack of network state information at the end hosts. To address these challenges, Q-Factor plans to use temporal network state data to dynamically configure current transport protocol parameters to reach higher network utilization and, as a result, to improve scientific workflows.&lt;br/&gt;&lt;br/&gt;Q-Factor leverages programmable network devices with the In-band Network Telemetry (INT) application and delivers a software solution to process in-band measurements at the end hosts. Using Q-Factor on Data Transfer Nodes (DTN)s, TCP/IP parameters will be configured according to temporal network characteristics, such as round-trip time, network utilization, and network congestion. This tuning is expected to result in increased network utilization, shorter flow completion times, and significantly fewer packet drops caused by network buffers overflow. Additionally, Q-Factor is geared to save host memory by tailoring kernel parameters and buffers to optimal sizes.&lt;br/&gt;&lt;br/&gt;Q-Factor targets a timely issue in communication networks: underutilization of ultra high-speed networks for science workflows. In order to keep scientific progress unconstrained, future science workflows need to support emerging data-intensive science experiments (e.g., the Vera Rubin Observatory, High Luminosity Large Hadron Collider) where data generation grows significantly, reaching exabytes of traffic each year. Results of this project will also allow better understanding of optimal buffer sizes of network devices for huge flows and the interaction of various congestion control algorithms.&lt;br/&gt;&lt;br/&gt;Experimental measurement data, network state information, network topology, software code, TCP tuning guidelines, and results will be available on the Q-Factor website https://q-factor.io, which will be maintained and indexed for at least three years after the completion of the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/06/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018754</AwardID>
+<Investigator>
+<FirstName>Wenji</FirstName>
+<LastName>Wu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wenji Wu</PI_FULL_NAME>
+<EmailAddress><![CDATA[wenji@es.net]]></EmailAddress>
+<NSF_ID>000877583</NSF_ID>
+<StartDate>06/06/2022</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Cziva</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard Cziva</PI_FULL_NAME>
+<EmailAddress><![CDATA[rcziva@lbl.gov]]></EmailAddress>
+<NSF_ID>000798206</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate>06/06/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julio</FirstName>
+<LastName>Ibarra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julio Ibarra</PI_FULL_NAME>
+<EmailAddress><![CDATA[julio@fiu.edu]]></EmailAddress>
+<NSF_ID>000267168</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeronimo</FirstName>
+<LastName>Bezerra</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeronimo A Bezerra</PI_FULL_NAME>
+<EmailAddress><![CDATA[jbezerra@fiu.edu]]></EmailAddress>
+<NSF_ID>000673895</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>MIAMI</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331990001</ZipCode>
+<StreetAddress><![CDATA[11200 SW 8th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>2890</Code>
+<Text>CISE Research Resources</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~760000</FUND_OBLG>
+</Award>
+</rootTag>

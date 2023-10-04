@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Advanced Ransomware Countermeasure]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>254977.00</AwardTotalIntnAmount>
+<AwardAmount>274977</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to provide ransomware countermeasures.  Commercially available antivirus solutions are not adequate for key critical infrastructures and do not cope with new techniques developed by cybercriminals to evade detection. The proposed project enables private and public organizations to increase protection of sensitive data, reduce data ransom costs, and decrease disruption to operational capabilities. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to explore the feasibility of a new method for continuous pre-attack observation and characterization of the environment and the network. Algorithms validate incoming interactions from the network and evaluate their threat risk by observing and characterizing the built-in commands in the software code. Simultaneously, they validate outgoing interactions assessing the risk for malicious data exfiltration. Tasks include developing a sandbox environment for the deployment and testing of the technology prior to developing needed functionalities. The system will be extensively tested with the most recent attack vectors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>03/10/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040467</AwardID>
+<Investigator>
+<FirstName>Sudesh</FirstName>
+<LastName>Kumar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sudesh Kumar</PI_FULL_NAME>
+<EmailAddress><![CDATA[sbir@kapalya.com]]></EmailAddress>
+<NSF_ID>000827937</NSF_ID>
+<StartDate>06/30/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kapalya Inc</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947041354</ZipCode>
+<PhoneNumber>4158235440</PhoneNumber>
+<StreetAddress>1935 ADDISON ST</StreetAddress>
+<StreetAddress2><![CDATA[STE A]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MCETSQLMN6Q6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>KAPALYA INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Kapalya Inc]]></Name>
+<CityName>Berkeley</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>947041182</ZipCode>
+<StreetAddress><![CDATA[1935A Addision Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~254977</FUND_OBLG>
+<FUND_OBLG>2022~20000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Project Outcome Report: Kapalya NSF SBIR Phase I</strong></p> <p><strong>&nbsp;</strong></p> <p>KAPALYA has created the first distributed and globally aware software for ransomware detection, inoculation, and stopping ransomware propagation, with a proactive strategy to stop incoming file-based and file-less attacks. Sudesh Kumar (CEO, PI), Saeed Khosravi (CTO), Nancirose Piazza (Data Scientist), and two subject matter experts, made up our professional team. Over the course of seven months, we spent $255,512 in developing and validating KAPALYA&rsquo;s Advanced Ransomware Countermeasure (ARC) platform.</p> <p>During the COVID-19 outbreak, the number of ransomware attacks launched throughout the world surged drastically. Cybercriminals exploited previously unavailable weaknesses and vulnerabilities and launched more effective attacks by taking advantage of the rising number of employees accessing business networks from their homes through VPNs while working remotely (30% in the US). With COVID-19-themed intrusions, the amount of phishing ransomware emails and attacks surged by 4,000% and 350%, respectively. These attacks mostly targeted hospitals and major corporations along with various government (Federal/State/Local) agencies, with the goal of locking them out of their critical systems to extort payments.</p> <p>Infecting a computer with ransomware usually begins by encrypting all accessible data and propagating it throughout the network. These data become useless until they are decrypted using a unique key owned only by the cybercriminal and released in exchange for a payment made through anonymous cryptocurrency accounts, like Bitcoin. Total ransoms increased from $325 million (2015) to $11.5 billion (2019). Ransomware attacks cost businesses an average of $713,000 each incident owing to disruption costs and lost sales due to reputational damage.</p> <p>Existing ransomware protection methods are not very effective. KAPALYA's technical feasibility assessment stage (Phase I) has demonstrated an early version of a successful ARC platform. The platform can already detect, inoculate, quarantine, and stop ransomware propagation. We tested our software against three well-known ransomware; WannaCry, Jigsaw, and Thanos, which we were able to successfully defend against. KAPALYA also employed the services of a third-party ethical hacking company to break into our software and plant ransomware payloads, which the ethical hacker was unable to do. This met the requirement of commercial enterprises and government organizations controlling classified information, which must be secured. ARC offers a cost-effective and scalable solution by conducting continuous pre-attack surveillance and assessment of the surroundings and network.</p> <p>KAPALYA&rsquo;s potential customers are companies and government organizations which must protect themselves from cyberattacks. The first target segment will be represented by the hospitals (~6,210 in 2019 in the US) which have an urgent need for cyber protection, followed by large corporate companies (&gt;500 employees, ~16,000 in the US) and government organizations that manage highly sensitive data, such as the DoD, DOE, NIH, DHS. &nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 07/18/2022<br>      Modified by: Sudesh&nbsp;Kumar</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Project Outcome Report: Kapalya NSF SBIR Phase I     KAPALYA has created the first distributed and globally aware software for ransomware detection, inoculation, and stopping ransomware propagation, with a proactive strategy to stop incoming file-based and file-less attacks. Sudesh Kumar (CEO, PI), Saeed Khosravi (CTO), Nancirose Piazza (Data Scientist), and two subject matter experts, made up our professional team. Over the course of seven months, we spent $255,512 in developing and validating KAPALYA’s Advanced Ransomware Countermeasure (ARC) platform.  During the COVID-19 outbreak, the number of ransomware attacks launched throughout the world surged drastically. Cybercriminals exploited previously unavailable weaknesses and vulnerabilities and launched more effective attacks by taking advantage of the rising number of employees accessing business networks from their homes through VPNs while working remotely (30% in the US). With COVID-19-themed intrusions, the amount of phishing ransomware emails and attacks surged by 4,000% and 350%, respectively. These attacks mostly targeted hospitals and major corporations along with various government (Federal/State/Local) agencies, with the goal of locking them out of their critical systems to extort payments.  Infecting a computer with ransomware usually begins by encrypting all accessible data and propagating it throughout the network. These data become useless until they are decrypted using a unique key owned only by the cybercriminal and released in exchange for a payment made through anonymous cryptocurrency accounts, like Bitcoin. Total ransoms increased from $325 million (2015) to $11.5 billion (2019). Ransomware attacks cost businesses an average of $713,000 each incident owing to disruption costs and lost sales due to reputational damage.  Existing ransomware protection methods are not very effective. KAPALYA's technical feasibility assessment stage (Phase I) has demonstrated an early version of a successful ARC platform. The platform can already detect, inoculate, quarantine, and stop ransomware propagation. We tested our software against three well-known ransomware; WannaCry, Jigsaw, and Thanos, which we were able to successfully defend against. KAPALYA also employed the services of a third-party ethical hacking company to break into our software and plant ransomware payloads, which the ethical hacker was unable to do. This met the requirement of commercial enterprises and government organizations controlling classified information, which must be secured. ARC offers a cost-effective and scalable solution by conducting continuous pre-attack surveillance and assessment of the surroundings and network.  KAPALYA’s potential customers are companies and government organizations which must protect themselves from cyberattacks. The first target segment will be represented by the hospitals (~6,210 in 2019 in the US) which have an urgent need for cyber protection, followed by large corporate companies (&gt;500 employees, ~16,000 in the US) and government organizations that manage highly sensitive data, such as the DoD, DOE, NIH, DHS.            Last Modified: 07/18/2022       Submitted by: Sudesh Kumar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

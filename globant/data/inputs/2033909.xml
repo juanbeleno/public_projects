@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: COVID-19: Robots for Automating Indoor Disinfection Tasks with Existing Non-Autonomous Devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>253836.00</AwardTotalIntnAmount>
+<AwardAmount>253836</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to fully automate frequent and regular disinfection tasks in hospitals, care centers, commercial units, universities, schools, and other indoor spaces.  This task has become critically important in light of the rapid spread of SARS-CoV-2.  By being fully automated, the proposed robotic system reduces human risk and required protective gear (as humans do not need to enter a contaminated zone to move in and position their devices) as well as human workload (due to autonomous operation of the robot system).  Current Ultra-Violet C (UVC) disinfection robots utilize integrated bulbs and have limited operation intervals due to the need to frequently recharge, the proposed solution is able to operate a wide variety of disinfection devices like UVC lamps, High-Efficiency Particulate Air (HEPA) filters, hydrogen peroxide aerosols, and others, and thus, offers maximum versatility to the customer while also allowing for the utilization of the customer’s existing devices.  In addition, the assistive system can be instructed in natural language by non-experts and can thus be operated without prior training.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will develop two autonomous robots that, together, can carry out room disinfection tasks with existing equipment.  One challenge with automating disinfection, especially UVC disinfection, is the power consumption of UVC lights and the need for frequent recharging of battery-operated units on autonomous robots.  Another is that current robotic solutions have UVC devices integrated, which prevents the use of existing or custom devices. The solution to both challenges is to build a flat carrier robot where existing or custom devices can be mounted and a second robot, tethered to the carrier robot, that can power the device by docking at a purpose-made docking station connected to a wall outlet.  While the device is on, both robots will also be able to recharge their batteries and thus operate continuously.  Advanced navigation strategies are necessary to ensure that both robots can drive through indoor environments to their target locations without tangling the tether.  Both robots will be equipped with laser and camera sensors and utilize joint sensor information communicated via their tether for improving localization and navigation.  The result will be a robust autonomous multi-robot system for navigation and disinfection tasks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/12/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033909</AwardID>
+<Investigator>
+<FirstName>Bradley</FirstName>
+<LastName>Oosterveld</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bradley Oosterveld</PI_FULL_NAME>
+<EmailAddress><![CDATA[brad@thinkingrobots.ai]]></EmailAddress>
+<NSF_ID>000846566</NSF_ID>
+<StartDate>01/12/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthias</FirstName>
+<LastName>Scheutz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthias Scheutz</PI_FULL_NAME>
+<EmailAddress><![CDATA[matthias@thinkingrobots.ai]]></EmailAddress>
+<NSF_ID>000765269</NSF_ID>
+<StartDate>12/21/2020</StartDate>
+<EndDate>01/12/2021</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Thinking Robots Inc.</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022102399</ZipCode>
+<PhoneNumber>8574889249</PhoneNumber>
+<StreetAddress>12 CHANNEL ST STE 202</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>C9MZZMYMN158</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THINKING ROBOTS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>C9MZZMYMN158</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Thinking Robots Inc.]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022102399</ZipCode>
+<StreetAddress><![CDATA[12 CHANNEL ST STE 202]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~253836</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Disinfecting indoor environments in hospitals and other care<br />facilities has become an urgent ever more important aspects of<br />containing and suppressing the spread of the new SARS-CoV-2<br />coronavirus. Various methods for disinfecting contaminated indoor<br />spaces are currently being employed in addition to wiping down<br />surfaces: from Ultraviolet C (UVC) lights, to hydrogen peroxide<br />aerosols, to HEPA filters. All of these methods require a human worker<br />to fetch disinfection devices, enter the contaminated space to<br />position them and plug them into the power outlet, leave the space to<br />initiate the disinfection process, only to then enter it again later<br />in order to retrieve the equipment. Thus, human workers twice require<br />protective gear (such as face masks, gloves, body suits, etc.) and<br />twice are exposed to the risk of becoming infected as part of this<br />process. Both human risks and equipment needs would be significantly<br />reduced if the existing disinfection equipment could be mounted on an<br />mobile robotic base that was able to plug itself in and perform the<br />disinfection task autonomously. This project will make autonomous room<br />sterilization with existing equipment feasible in the future.<br /><br />To this end, a prototype robot together with all necessary software<br />was developed that can carry a disinfection device (e.g., a UVC lamp)<br />and autonomously operate it in an indoor space based on human<br />instructions.&nbsp; Specifically, the robot is capable of (1) navigating to<br />the space that needs to be disinfected, (2) plug itself into a docking<br />station that provides 110V wall power to power the disinfection<br />device, (3) move to a disinfection location with the tethered power<br />cable, (4) turn on the device for a particular mount of time, (5)<br />retract the cable while moving back to the dock when the room is<br />disinfected, (6) unplug from the dock, and (7) leave the room.&nbsp; Human<br />operators can use spoken or written natural language to instruct the<br />robot where to disinfect and for how long, including the exact<br />location of the space, and where it should position itself.</p><br> <p>            Last Modified: 12/10/2021<br>      Modified by: Bradley&nbsp;Oosterveld</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Disinfecting indoor environments in hospitals and other care facilities has become an urgent ever more important aspects of containing and suppressing the spread of the new SARS-CoV-2 coronavirus. Various methods for disinfecting contaminated indoor spaces are currently being employed in addition to wiping down surfaces: from Ultraviolet C (UVC) lights, to hydrogen peroxide aerosols, to HEPA filters. All of these methods require a human worker to fetch disinfection devices, enter the contaminated space to position them and plug them into the power outlet, leave the space to initiate the disinfection process, only to then enter it again later in order to retrieve the equipment. Thus, human workers twice require protective gear (such as face masks, gloves, body suits, etc.) and twice are exposed to the risk of becoming infected as part of this process. Both human risks and equipment needs would be significantly reduced if the existing disinfection equipment could be mounted on an mobile robotic base that was able to plug itself in and perform the disinfection task autonomously. This project will make autonomous room sterilization with existing equipment feasible in the future.  To this end, a prototype robot together with all necessary software was developed that can carry a disinfection device (e.g., a UVC lamp) and autonomously operate it in an indoor space based on human instructions.  Specifically, the robot is capable of (1) navigating to the space that needs to be disinfected, (2) plug itself into a docking station that provides 110V wall power to power the disinfection device, (3) move to a disinfection location with the tethered power cable, (4) turn on the device for a particular mount of time, (5) retract the cable while moving back to the dock when the room is disinfected, (6) unplug from the dock, and (7) leave the room.  Human operators can use spoken or written natural language to instruct the robot where to disinfect and for how long, including the exact location of the space, and where it should position itself.       Last Modified: 12/10/2021       Submitted by: Bradley Oosterveld]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

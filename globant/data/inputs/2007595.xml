@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[III: Small: Improving automation and speed of macromolecule recognition and localization in cryo-electron tomography using unsupervised deep learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Cells are basic structural and functional units of all known living organisms. Understanding the structures and spatial localizations of large individual macromolecules inside cells is fundamental to the biological research community. However, such information has been difficult to obtain due to the lack of data acquisition techniques. Recent advances in Cryo-electron tomography (cryo-ET) have enabled submolecular resolution 3D visualization of the near-native structures and spatial organizations of large macromolecules and their interactions with other subcellular components in single cells. However, the rapidly-increasing amount of diverse cryo-ET data brings along major challenges to high-throughput systematic analysis. Automation and computation efficiency have become bottlenecks. This project will focus on improving both automation and speed of macromolecule recognition and localization in tomograms using unsupervised deep learning. The proposed methods will have a wide range of applications in life science that involve cryo-ET. This project will train graduate and undergraduate students in computational biology, bioinformatics, and bioimage analysis, as well integrate research results into university curricula.&lt;br/&gt;&lt;br/&gt;Cryo-ET has emerged as the most powerful technique for the structural recovery, recognition, and localization of macromolecules in situ. To significantly improve the automation and speed of macromolecule recognition and localization in tomograms, this project will develop two key unsupervised deep learning techniques, including (1) a novel simultaneous simulator and denoiser to create realistically simulated subtomograms; and (2) a method for clustering macromolecule structures by disentangling structure information from orientations and displacements. To facilitate broad use of the methods developed from this project, the software implementation of the proposed methods will be integrated into the open-source software AITom, so that they are ready to be used by the structural biology community. The methods focus on efficiently constructing initial homogeneous subtomogram clusters and producing initial structures for further structure refinement, which well complements existing structural refinement methods and will significantly leverage the systematic de novo and in situ analysis of macromolecules in single cells. The results of this research will be provided on the Xu Lab website and GitHub site.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007595</AwardID>
+<Investigator>
+<FirstName>Min</FirstName>
+<LastName>Xu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Min Xu</PI_FULL_NAME>
+<EmailAddress><![CDATA[mxu1@cs.cmu.edu]]></EmailAddress>
+<NSF_ID>000736192</NSF_ID>
+<StartDate>05/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName/>
+<StateCode>PA</StateCode>
+<ZipCode>152133890</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~250000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In 2020, Carnegie Mellon University received a $250,000 National Science Foundation Reward entitled: &ldquo;Improving automation and speed of macromolecule recognition and localization in cryo-electron tomography using unsupervised deep learning&rdquo;.&nbsp; The project aims to improve the automation and speed of macromolecule recognition and localization in cryo-electron tomography using unsupervised deep learning.</p> <p>&nbsp;</p> <p dir="ltr"><span>I</span><span>NTELLECTUAL MERIT</span><span>&nbsp;</span></p> <p dir="ltr"><span>This project develops unsupervised deep learning techniques for significantly improving the automation and speed of macromolecule recognition and localization in tomograms. Recent advances in macromolecular recognition and localization methods offer. Still, these methods focus on refining structures from sub-tomograms selected using a known low-resolution structure, which is limited because most native macromolecular structures are unknown. To efficaciously address the prevailing challenges, this project aims to develop two critical unsupervised deep learning techniques, including (1) a novel simultaneous simulator and denoiser to create realistically simulated subtomograms; and (2) methods for clustering macromolecule structures by disentangling structure information from orientations and displacements. For the first goal, we designed simple but effective cryo-ET data simulation and denoising methods according to GAN-based model (i.e., CryoETGAN), and we further validated the simulated data generated by the simulator to multiple downstream tasks, for example, active learning tasks, macromolecular structure classification, edge detection, and subtomogram clustering. For the second goal, we have developed a method that disentangles semantic information of cryo-ET subtomograms from transformations such as orientations and displacements.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>BROADER IMPACTS</span></p> <p dir="ltr"><span>The outcomes of the project have been seamlessly assimilated into our open-source GitHub repository, known as AITom. This enables any biologist engaged in single-cell data analysis to access and utilize the methods we have developed. The research project has offered ample training opportunities for scientific training of graduate and undergraduate students in computational biology at Carnegie Mellon University. Many of whom continued their professional careers in academia or industry. Methods and results created for the project have been presented to graduate and undergraduate students in regular bioimage informatics courses at Carnegie Mellon University.</span></p> <p><br /><br /><br /><br /></p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/24/2023<br>      Modified by: Min&nbsp;Xu</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ In 2020, Carnegie Mellon University received a $250,000 National Science Foundation Reward entitled: "Improving automation and speed of macromolecule recognition and localization in cryo-electron tomography using unsupervised deep learning".  The project aims to improve the automation and speed of macromolecule recognition and localization in cryo-electron tomography using unsupervised deep learning.    INTELLECTUAL MERIT  This project develops unsupervised deep learning techniques for significantly improving the automation and speed of macromolecule recognition and localization in tomograms. Recent advances in macromolecular recognition and localization methods offer. Still, these methods focus on refining structures from sub-tomograms selected using a known low-resolution structure, which is limited because most native macromolecular structures are unknown. To efficaciously address the prevailing challenges, this project aims to develop two critical unsupervised deep learning techniques, including (1) a novel simultaneous simulator and denoiser to create realistically simulated subtomograms; and (2) methods for clustering macromolecule structures by disentangling structure information from orientations and displacements. For the first goal, we designed simple but effective cryo-ET data simulation and denoising methods according to GAN-based model (i.e., CryoETGAN), and we further validated the simulated data generated by the simulator to multiple downstream tasks, for example, active learning tasks, macromolecular structure classification, edge detection, and subtomogram clustering. For the second goal, we have developed a method that disentangles semantic information of cryo-ET subtomograms from transformations such as orientations and displacements.     BROADER IMPACTS The outcomes of the project have been seamlessly assimilated into our open-source GitHub repository, known as AITom. This enables any biologist engaged in single-cell data analysis to access and utilize the methods we have developed. The research project has offered ample training opportunities for scientific training of graduate and undergraduate students in computational biology at Carnegie Mellon University. Many of whom continued their professional careers in academia or industry. Methods and results created for the project have been presented to graduate and undergraduate students in regular bioimage informatics courses at Carnegie Mellon University.                   Last Modified: 09/24/2023       Submitted by: Min Xu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

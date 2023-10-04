@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[IBSS: Understanding Social Diffusion Dynamics Among Networked Cognitive Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>323050.00</AwardTotalIntnAmount>
+<AwardAmount>323050</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04010000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SMA</Abbreviation>
+<LongName>SBE Off Of Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeffrey Mantz</SignBlockName>
+<PO_EMAI>jmantz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927783</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This interdisciplinary research project will examine social diffusion dynamics, including both the transmission of information within social systems and the impact of those information flows on the ways that the social system functions.  The project will bridge the cognitive and social sciences by providing new knowledge about the ways that ideas, beliefs, traditions, behaviors, and information in general move through social channels from person to person and create patterns of knowledge within communities, nations, and the world as a whole.  Although this project will focus on the diffusion dynamics of attitudes about electronic cigarettes on Twitter, the project's approach and findings will provide new ways to consider a broader range of problems, including obesity, economic and social disparities, cyberterrorism, mass migration, and natural disasters.  The project will provide new insights for many different individuals engaged who deal with issues for which the diffusion of information is critical.  The project will provide valuable education and training for undergraduate and graduate students as well as post-doctoral researchers, and it will provide new tools to enhance the infrastructure for scientific inquiry in the future.&lt;br/&gt;&lt;br/&gt;The investigators will draw on theories and approaches from the psychological and cognitive sciences, which focus on how individual people's minds work, and the social sciences, which focus on the social structures that constitute an individual's social context.  They will seek answers to three core questions:  (1) To what degree does exposure to others' beliefs via social media channels affect change in a person's beliefs?  (2) How does the spread of beliefs operate over large sociotechnical networks?  (3) What is the appropriate set of computational formalisms for representing the spread of beliefs on large sociotechnical networks?  They will employ a networked cognitive systems approach to analyze the diffusion dynamics of attitudes towards electronic cigarettes on Twitter, using online social experiments, data-mining techniques, and a to-scale formal computational model of a real Twitter network.  This project is supported through the NSF Interdisciplinary Behavioral and Social Sciences Research (IBSS) competition.]]></AbstractNarration>
+<MinAmdLetterDate>12/02/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>12/02/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002626</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Orr</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark Orr</PI_FULL_NAME>
+<EmailAddress><![CDATA[mo6xj@virginia.edu]]></EmailAddress>
+<NSF_ID>000658945</NSF_ID>
+<StartDate>12/02/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>1001 EMMET ST N</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName/>
+<StateCode>VA</StateCode>
+<ZipCode>229044195</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8213</Code>
+<Text>Interdiscp Behav&amp;SocSci IBSS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8213</Code>
+<Text>IBSS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8605</Code>
+<Text>SBE 2020</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0115</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001516DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2015~323050</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The objectives of this project were to:&nbsp; (i) develop the theory of networked cognitive systems and to provide proof-of-concept that this approach is useful for addressing how information diffuses across human systems, (ii) build computational models of the dynamics of the diffusion of attitudes in a population of agents (and other types of information that are diffused within human socio-technical systems), (iii) develop technical methods that interface empirical data from socio-technical systems (e.g., social media) with computational models of human social cognition, and (iv) disseminate findings and methods to a wide audience across the social and behavioral sciences, technical fields and, potentially for the development of usable knowledge for society and policy making stakeholders.&nbsp; The project was structured over two research thrusts: scientific publications and techinical platform development.&nbsp; Publication #1:&nbsp; Polarization of attitudes is an important, and often troubling or disruptive, effect of interest in many fields.&nbsp; We created a novel embedding of individual cognitive agents, using ACT-R?s declarative memory model, into social networks, simulated them communicating over time, and observed the evolution of the agents? attitudes, both collectively and individually.&nbsp; These simulations demonstrated that polarization can be understood from a social and cognitive perspective simultaneously, each providing insights into the system?s behavior.&nbsp; &nbsp;Publication #2: Exchange is a foundational form of human interaction underlying more complex forms of cooperation and collaboration. Exchange scholars have demonstrated that both the structure of exchange relationships, and the cultural logics that govern them influence the benefits that exchange partners contribute and receive. These factors influence behavior by shaping expectations; but, the cognitive process involved in forming expectations over the course of repeated exchanges is less well understood. We introduced a cognitive model of social exchange implemented in ACT-UP, employing what is called instance-based learning.&nbsp; We found that the cognitive model is able to replicate well the outcomes of negotiated exchanges but that reciprocal exchanges pose a greater challenge.&nbsp; Publication #3 (in process):&nbsp; The Causal Attitude Network model is, putatively, a novel graph-based model of attitude formation and change. It makes specific and important theoretic claims that are not properly justified.&nbsp; We develop a set of simulations that address two of the most central theoretical claims of the CAN model:&nbsp; (i) vertex network attributes are implicated in predictions of the dynamics of how an attitude is formed and (ii) graph topology is implicated in the degree to which an attitude is consistent.&nbsp; &nbsp;Our findings, to be submitted shortly, do not support the CAN theoretical claims.&nbsp; Further, we point out that the CAN model is not novel but simply a class of neural network commonly used in social psychology and cognitive science over the past 30 years.&nbsp; Technical Platforms: We developed two technical platforms to serve the general scientific and technical communities in the space of attitudinal models of networked cognitive systems and to serve as building a link between large-scale, unstructured verbal behavior (e.g., Twitter) and understanding attitudes.&nbsp; One of these platforms, the Phrase-based Knowledge Sentiment Graph (PKSG) was developed to build representation of both semantics and fine-grained sentiment (annd user relations on a social network) given social media texts (texts that are short and not necessarily well structured) over time.&nbsp; The second platform provided a pipeline from human attitudinal survey data to a computational cognitive model of attitude formation and change.</p><br> <p>            Last Modified: 01/10/2022<br>      Modified by: Mark&nbsp;Orr</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The objectives of this project were to:  (i) develop the theory of networked cognitive systems and to provide proof-of-concept that this approach is useful for addressing how information diffuses across human systems, (ii) build computational models of the dynamics of the diffusion of attitudes in a population of agents (and other types of information that are diffused within human socio-technical systems), (iii) develop technical methods that interface empirical data from socio-technical systems (e.g., social media) with computational models of human social cognition, and (iv) disseminate findings and methods to a wide audience across the social and behavioral sciences, technical fields and, potentially for the development of usable knowledge for society and policy making stakeholders.  The project was structured over two research thrusts: scientific publications and techinical platform development.  Publication #1:  Polarization of attitudes is an important, and often troubling or disruptive, effect of interest in many fields.  We created a novel embedding of individual cognitive agents, using ACT-R?s declarative memory model, into social networks, simulated them communicating over time, and observed the evolution of the agents? attitudes, both collectively and individually.  These simulations demonstrated that polarization can be understood from a social and cognitive perspective simultaneously, each providing insights into the system?s behavior.   Publication #2: Exchange is a foundational form of human interaction underlying more complex forms of cooperation and collaboration. Exchange scholars have demonstrated that both the structure of exchange relationships, and the cultural logics that govern them influence the benefits that exchange partners contribute and receive. These factors influence behavior by shaping expectations; but, the cognitive process involved in forming expectations over the course of repeated exchanges is less well understood. We introduced a cognitive model of social exchange implemented in ACT-UP, employing what is called instance-based learning.  We found that the cognitive model is able to replicate well the outcomes of negotiated exchanges but that reciprocal exchanges pose a greater challenge.  Publication #3 (in process):  The Causal Attitude Network model is, putatively, a novel graph-based model of attitude formation and change. It makes specific and important theoretic claims that are not properly justified.  We develop a set of simulations that address two of the most central theoretical claims of the CAN model:  (i) vertex network attributes are implicated in predictions of the dynamics of how an attitude is formed and (ii) graph topology is implicated in the degree to which an attitude is consistent.   Our findings, to be submitted shortly, do not support the CAN theoretical claims.  Further, we point out that the CAN model is not novel but simply a class of neural network commonly used in social psychology and cognitive science over the past 30 years.  Technical Platforms: We developed two technical platforms to serve the general scientific and technical communities in the space of attitudinal models of networked cognitive systems and to serve as building a link between large-scale, unstructured verbal behavior (e.g., Twitter) and understanding attitudes.  One of these platforms, the Phrase-based Knowledge Sentiment Graph (PKSG) was developed to build representation of both semantics and fine-grained sentiment (annd user relations on a social network) given social media texts (texts that are short and not necessarily well structured) over time.  The second platform provided a pipeline from human attitudinal survey data to a computational cognitive model of attitude formation and change.       Last Modified: 01/10/2022       Submitted by: Mark Orr]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

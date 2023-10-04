@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  Blockchain System for Preserving Integrity of Communication Channels]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>997567.00</AwardTotalIntnAmount>
+<AwardAmount>997567</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to preserve the integrity of communication channels for business enterprises, financial institutions, and consumers.  Attackers operate like businesses by investing in campaigns and generate returns by using stolen credentials to gain network access, inject ransomware, or commit direct fraud. The innovation aims to prevent $4 B a year in financial scams through robust and enduring countermeasures. 90% of large enterprise customer breaches start from email or p2p/SMS messages that trick customers and employees into revealing sensitive information. An average phishing attack spans 21 hours between the first and last victim and the detection of each attack occurs an average 9 hours after the first victim. This gives attackers a window of opportunity during which most of the damage is done. This project seeks to identify and protect against such attacks through a real-time machine learning system. &lt;br/&gt;&lt;br/&gt;This SBIR Phase II project develops a method for storing data in a blockchain in a high-performing manner, to ensure quality training of ML/AI models, and production level inference.  The innovation addresses the challenge of data drift and adversarial AI attacks where the provenance of the data is unknown. The Phase II project also leverages swarm intelligence as a new consensus mechanism specifically designed for more democratic online group-to-group collaboration in a distributed system.  The project's innovations will expand the understanding of telecommunications, the economics of smishing and vishing, and 5G security.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/26/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028451</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Adolphe</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric A Adolphe</PI_FULL_NAME>
+<EmailAddress><![CDATA[Eric.Adolphe@outlook.com]]></EmailAddress>
+<NSF_ID>000803325</NSF_ID>
+<StartDate>11/26/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Forward Edge AI, Inc.</Name>
+<CityName>SAN ANTONIO</CityName>
+<ZipCode>782552458</ZipCode>
+<PhoneNumber>7039997583</PhoneNumber>
+<StreetAddress>10108 CARTER CYN</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX23</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KRCZZNY5WPZ8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FORWARD EDGE AI INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Forward Edge AI, Inc.]]></Name>
+<CityName>San Antonio</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>782552458</ZipCode>
+<StreetAddress><![CDATA[10108 Carter Canyon]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX23</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~997567</FUND_OBLG>
+</Award>
+</rootTag>

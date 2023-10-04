@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CoPe EAGER: Collaborative Research: A GeoAI Data-Fusion Framework for Real-Time Assessment of Flood Damage and Transportation Resilience by Integrating Complex Sensor Datasets]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/08/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>25560.00</AwardTotalIntnAmount>
+<AwardAmount>25560</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06010000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>RISE</Abbreviation>
+<LongName>Div of Res, Innovation, Synergies, &amp; Edu</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Manda S. Adams</SignBlockName>
+<PO_EMAI>amadams@nsf.gov</PO_EMAI>
+<PO_PHON>7032924708</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Traditional modeling approaches for flood damage assessment are often labor-intensive and time-consuming due to requirements for domain expertise, training data, and field surveys. Additionally, the lack of data and standard methodologies makes it more challenging to assess transportation network resilience in real-time during flood disasters. To address these challenges, this project aims to integrate novel data streams from both physical sensor networks (e.g., remotely-sensed data using unmanned aerial vehicles [UAVs]), and citizen sensor networks (e.g., crowdsourced traffic data, social media and community responsive teams connected through a developed mobile app). The goal is to develop a framework for real-time assessment of damage and the resilience of urban transportation infrastructures after coastal floods via the state-of-the-art computer vision, deep learning and data fusion technologies. The project will also advance Data Science through multi-disciplinary and multi-institutional collaborations. The project is expected to improve the sustainability, resilience, livability, and general well-being of coastal communities by having a direct impact on the effectiveness, capability, and potential of using both physical and social sensor data. This will in turn enable and transform damage assessments, and identify critical and vulnerable components in transportation networks in a more effective and efficient manner. The interdisciplinary research team, along with students and collaborators from different coastal regions, will facilitate the sharing of knowledge and technologies from different socio-environmental contexts and testing the transferability of the research outcomes.&lt;br/&gt;&lt;br/&gt;The project will harmonize physical and citizen sensors within a geospatial artificial intelligence (GeoAI) data-fusion framework with a focus on three research thrusts: (1) unsupervised flood extent detection by integrating UAV images collected throughout this project with existing geospatial data (e.g., road networks and building footprints); (2) flood depth estimation using deep learning and computer vision techniques combined with crowdsourced photos and UAV imagery; and (3) assessment of the impact on and resilience of transportation networks based on near real-time flood and damage information. The innovative methodology will be demonstrated and deployed through collaborative efforts in response to future flood events as well as several historical storms. The project will produce open-source algorithms for future educational use, raw and processed datasets and associated processing software, a mobile app to engage community responsive science teams, and three research publications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052063</AwardID>
+<Investigator>
+<FirstName>Yi</FirstName>
+<LastName>Qiang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yi Qiang</PI_FULL_NAME>
+<EmailAddress><![CDATA[qiangy@usf.edu]]></EmailAddress>
+<NSF_ID>000763272</NSF_ID>
+<StartDate>11/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Florida</Name>
+<CityName>TAMPA</CityName>
+<ZipCode>336205800</ZipCode>
+<PhoneNumber>8139742897</PhoneNumber>
+<StreetAddress>4202 E FOWLER AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NKAZLXLL7Z91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTH FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Florida]]></Name>
+<CityName>Tampa</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>336205550</ZipCode>
+<StreetAddress><![CDATA[4202 E. Fowler Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>097Y</Code>
+<Text>CoPe-Coastlines and People</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~25560</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Project Objectives</strong></p> <p>Critical infrastructures are "lifeline" systems that provide fundamental support for human society. In the context of climate change, extreme weather events often cause disruptions to these lifeline systems, leading to adverse socio-economic impacts. To improve the resilience of critical infrastructures, this collaborative project proposed to integrate geospatial artificial intelligence (GeoAI) and data fusion techniques to provide real-time assessment of hazard impacts to and the recovery of critical infrastructures. Specifically, the project has three synergistic research components: 1) fusing satellite and UAV imageries and other data sources to map flood extent and damage, 2) developing an innovative flood depth estimation framework using deep learning and computer vision techniques, and 3) incorporating real-time flood mapping and traffic data to assess the recovery and resilience of road transportation systems. PI Qiang at the University of South Florida primarily focuses on the third component by developing an analytical workflow that utilizes real-time traffic data to assess road network resilience.</p> <p><strong>Project Outcomes</strong></p> <p>Over the course of the project, we achieved several important outcomes:</p> <p>1)&nbsp;&nbsp; We developed an analytical framework that effectively utilizes real-time traffic data to monitor the serviceability of road networks during natural hazards. This framework provides functions to monitor road conditions and assess road network resilience at different locations and individual road links.</p> <p>2)&nbsp;&nbsp; The analytical framework was tested in several case studies of real hazard events, including winter storms, hurricanes, and floods. The case studies demonstrate that the framework can provide vital real-time, location-based information for transportation planning and emergency response.</p> <p>3)&nbsp;&nbsp; Our study demonstrated that nighttime light (NTL) remote sensing images can be another useful instrument to monitor traffic changes and population in natural hazards. The analysis of Hurricane Sandy (2012) revealed urban-rural disparities in hazard impacts and traffic recovery during the event.</p> <p>4)&nbsp;&nbsp; Building on the approach in 3), we developed a workflow to detect power outages from nighttime light images. The workflow can generate power outage maps at a 500-meter resolution, which is finer than other power outage datasets. These power outage maps enable analyses of environmental justice and social equality issues at the neighborhood and even household levels. Using this approach, our study of the 2021 Winter Storm Uri discovered disproportionate impacts of power outages on Hispanic/Latino communities.</p> <p>Overall, our project has made significant progress towards the development of a real-time monitoring and decision-making system for emergency response, urban planning and policy-making in natural hazards. The analyses in the case studies have provided valuable insights into the resilience of critical infrastructures and potential measures to improve the resilience. We believe that be useful to a wide range of stakeholders, including policymakers, emergency responders, and community leaders. Thus, we remain committed to continuing our research in this area and disseminate the outcomes to broader communities.</p><br> <p>            Last Modified: 04/30/2023<br>      Modified by: Yi&nbsp;Qiang</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2052063/2052063_10640730_1682707717937_figure1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2052063/2052063_10640730_1682707717937_figure1--rgov-800width.jpg" title="Accessibility-based resilience assessment"><img src="/por/images/Reports/POR/2023/2052063/2052063_10640730_1682707717937_figure1--rgov-66x44.jpg" alt="Accessibility-based resilience assessment"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Assessment of road network resilience from accessibility. (a): Conceptual framework of recovery curve; (b): Recovery curves of accessibility in census tracts; (c): Resilience scores in census tracts; (d) hot-spot analysis of resilience scores.</div> <div class="imageCredit">Yi Qiang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yi&nbsp;Qiang</div> <div class="imageTitle">Accessibility-based resilience assessment</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2052063/2052063_10640730_1682708777224_figure2--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2052063/2052063_10640730_1682708777224_figure2--rgov-800width.jpg" title="Real-time monitoring of road links"><img src="/por/images/Reports/POR/2023/2052063/2052063_10640730_1682708777224_figure2--rgov-66x44.jpg" alt="Real-time monitoring of road links"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2: Travel time changes in individual road links in Chicago at two time points.</div> <div class="imageCredit">Yi Qiang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yi&nbsp;Qiang</div> <div class="imageTitle">Real-time monitoring of road links</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2052063/2052063_10640730_1682708906811_figure3--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2052063/2052063_10640730_1682708906811_figure3--rgov-800width.jpg" title="Power outage maps"><img src="/por/images/Reports/POR/2023/2052063/2052063_10640730_1682708906811_figure3--rgov-66x44.jpg" alt="Power outage maps"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 3: 500m resolution power outage detected from nighttime light images. (a): State of Texas; (b) Austin; (c) Houston; (d) Dallas-Fort Worth</div> <div class="imageCredit">Yi Qiang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yi&nbsp;Qiang</div> <div class="imageTitle">Power outage maps</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Project Objectives  Critical infrastructures are "lifeline" systems that provide fundamental support for human society. In the context of climate change, extreme weather events often cause disruptions to these lifeline systems, leading to adverse socio-economic impacts. To improve the resilience of critical infrastructures, this collaborative project proposed to integrate geospatial artificial intelligence (GeoAI) and data fusion techniques to provide real-time assessment of hazard impacts to and the recovery of critical infrastructures. Specifically, the project has three synergistic research components: 1) fusing satellite and UAV imageries and other data sources to map flood extent and damage, 2) developing an innovative flood depth estimation framework using deep learning and computer vision techniques, and 3) incorporating real-time flood mapping and traffic data to assess the recovery and resilience of road transportation systems. PI Qiang at the University of South Florida primarily focuses on the third component by developing an analytical workflow that utilizes real-time traffic data to assess road network resilience.  Project Outcomes  Over the course of the project, we achieved several important outcomes:  1)   We developed an analytical framework that effectively utilizes real-time traffic data to monitor the serviceability of road networks during natural hazards. This framework provides functions to monitor road conditions and assess road network resilience at different locations and individual road links.  2)   The analytical framework was tested in several case studies of real hazard events, including winter storms, hurricanes, and floods. The case studies demonstrate that the framework can provide vital real-time, location-based information for transportation planning and emergency response.  3)   Our study demonstrated that nighttime light (NTL) remote sensing images can be another useful instrument to monitor traffic changes and population in natural hazards. The analysis of Hurricane Sandy (2012) revealed urban-rural disparities in hazard impacts and traffic recovery during the event.  4)   Building on the approach in 3), we developed a workflow to detect power outages from nighttime light images. The workflow can generate power outage maps at a 500-meter resolution, which is finer than other power outage datasets. These power outage maps enable analyses of environmental justice and social equality issues at the neighborhood and even household levels. Using this approach, our study of the 2021 Winter Storm Uri discovered disproportionate impacts of power outages on Hispanic/Latino communities.  Overall, our project has made significant progress towards the development of a real-time monitoring and decision-making system for emergency response, urban planning and policy-making in natural hazards. The analyses in the case studies have provided valuable insights into the resilience of critical infrastructures and potential measures to improve the resilience. We believe that be useful to a wide range of stakeholders, including policymakers, emergency responders, and community leaders. Thus, we remain committed to continuing our research in this area and disseminate the outcomes to broader communities.       Last Modified: 04/30/2023       Submitted by: Yi Qiang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

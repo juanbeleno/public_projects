@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Rational design of self-assembled, three-dimensional DNA crystals]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nitsa Rosenzweig</SignBlockName>
+<PO_EMAI>nirosenz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927256</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[NONTECHNICAL SUMMARY&lt;br/&gt;Nature uses self-assembly in order to organize multiple nonliving components into living systems. Information-coding polymers such as DNA, RNA, and proteins have been used as ideal building blocks in the assembly of designer nano-architectures, with the goal of engineering biomimetic and bioinspired materials and devices. DNA based nanotechnology exploits the programmability of DNA molecules to accurately position functional molecules for applications including directed material assembly, structural biology, biocatalysis, artificial photosynthesis, molecular computing, nanorobotics, disease diagnosis, and drug delivery. An important goal of DNA nanotechnology is to rationally design, construct, and characterize self-assembling 3D DNA lattices as hosts to organize other guest molecules with atomic precision. This project aims to reveal the scientific principles and rules for designing novel DNA crystals with prescribed geometries, and with defined cavity and channel sizes. It will also elucidate the pathway for 3D crystal assembly and create a computational model that can be used broadly to design novel, user-specified crystals. These crystals are especially well suited for hosting other species (like proteins, small molecules, or nanoparticles) in a repeating lattice, for applications that include structural determination, purification, delivery, or materials with novel optical or catalytic properties. In this way, this project will enable both fundamental discoveries on self-assembly, and help address practical applications that rely on arranging other materials in 3D with high precision. The project will have significant societal and educational impact by developing an online curriculum for K-12 education and virtual lab research. This program will engage undergraduate, graduate, and underrepresented minority students to gain knowledge and pursue research in the science, technology, engineering, and math (STEM) fields, and help develop a new paradigm for online and distance education in nanotechnology.&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;The goal of this project is to determine the design rules for self-assembled, 3D DNA crystals in order to engineer porous, addressable scaffolds with well-defined cavities at the nanometer scale. The molecular control and tunable symmetries attainable with these materials will enable the arrangement of guest species, such as proteins, small molecules, or nanoparticles with atomic resolution. This project will systematically probe and test the parameters that affect rationally designed DNA crystals, including DNA Holliday junction sequence, duplex and sticky end length and sequence, and experimental assembly pathway. The structures of the resulting crystals will be solved by X-ray crystallography to determine their symmetry, and the size of their channels and cavity size. The pathway of self-assembly (e.g. nucleation-growth vs. hierarchical nanostructure assembly) will also be probed experimentally and used to inform a computational model of crystal self-assembly for predictive simulation of novel crystal designs. The effect of sequence in DNA duplexes and junctions will be modeled, as well as the multi-scale assembly of the crystals. Fully atomistic simulations will be used to parameterize coarse-grained models to probe the kinetic assembly pathway and symmetry of the crystals, and the model predictions will help optimize sequences for the lattice assembly. Finally, the above results will be used to design crystals with very large cavities (~40 nm) in order to accommodate guest species such as nanoparticles or mid-sized proteins. DNA-binding proteins (and fusions thereof) will be immobilized in these void spaces to create functional materials with a regular presentation of the guests in 3D space. Taken together, the work will provide: (1) a better scientific understanding of DNA crystal design; (2) a toolkit for understanding DNA structural parameters for the nanotechnology community at large; and (3) a library of 3D lattices with tunable symmetries and cavity sizes for the 3D arrangement of guest species.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004250</AwardID>
+<Investigator>
+<FirstName>Hao</FirstName>
+<LastName>Yan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hao Yan</PI_FULL_NAME>
+<EmailAddress><![CDATA[hao.yan@asu.edu]]></EmailAddress>
+<NSF_ID>000176926</NSF_ID>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Stephanopoulos</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicholas Stephanopoulos</PI_FULL_NAME>
+<EmailAddress><![CDATA[nstepha1@asu.edu]]></EmailAddress>
+<NSF_ID>000707835</NSF_ID>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Petr</FirstName>
+<LastName>Sulc</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Petr Sulc</PI_FULL_NAME>
+<EmailAddress><![CDATA[psulc@asu.edu]]></EmailAddress>
+<NSF_ID>000788026</NSF_ID>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852813670</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>660 S MILL AVENUE STE 204</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NTLHJXM55KZ6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>Tempe</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852876011</ZipCode>
+<StreetAddress><![CDATA[P.O. Box 876011]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7623</Code>
+<Text>BIOMATERIALS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~450000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Over the course of the award, we accomplished several significant objectives:&nbsp;<strong>(1) A novel, self-assembling DNA scaffold was developed with cavities of tunable sizes.</strong>&nbsp;We engineered a unique crystal scaffold containing rhombohedral symmetry that diffracted to 2.55 ?an unprecedented achievement for self-assembled DNA crystal systems. In addition, we showed that the edges of the cavities in the crystals could be expanded by an additional 50%, resulting in pore volumes that increase ~3-fold. This result effectively showed that this motif could be tailor made towards hosting guest molecules such as proteins with a range of molecular weights and dimensions.&nbsp;(<strong>2) A computational model to study in silico assembly of DNA crystal systems was developed.&nbsp;</strong>Force-field development for atomistic simulations is a complex and difficult task, and our experimental data served to provide further insight for the improvement of current state-of-the-art models. The crystallographic datasets proved as valuable resources to the molecular simulation community. In particular, DNA sequences were simulated with a popular parmbsc1 DNA force-field, and shortcomings of the methodology were identified and compared with another common OL15 computational approach. Thus, we could provide an important comparison between the force-fields, all while generating a new rich dataset for testing and optimizing available methodologies.&nbsp;<strong>(3) DNA&nbsp;</strong><strong>sequences were probed for the deliberate manipulation of crystal symmetry, isomeric form, and resolution.&nbsp;</strong>We employed two separate crystal motifs, with each containing a central molecular four-arm building block called an immobile Holliday junction with 36 possible DNA sequences, and surveyed each of them to determine if there were those that proved superior in terms of their ability to crystallize, and their resulting resolution, and solved 134 crystal structures in total. Six junction sequences, ?fatal? for crystallization, were identified that effectively allowed us to advise that they may be unwise for future designs. We also identified multiple sequences that improved resolution, and many of which re-configured the symmetry of the lattice compared to the original design, allowing for much larger cavity volumes.&nbsp;In addition, the role of global sequence downstream of the junction site was probed, and demonstrated that even the DNA sequence flanking the Holliday junction can dramatically alter symmetry.&nbsp;The results could serve to provide valuable direction towards the design of future nano-architectures.&nbsp;(<strong>4) Site-specific crystalline arrangements of small molecules were described within DNA lattices.</strong>&nbsp;In this work, we used two of our DNA motifs to position a suite of minor groove binding guest molecules (DAPI, Hoechst, and netropsin), at defined positions within the lattice. We then solved their crystal structures, and described their detailed interactions with the DNA duplex, and compared them to the original structures to demonstrate that our lattices are an attractive option towards solving structures within 3D DNA frameworks. We then used a polyamide molecule comprised as an anti-parallel, stacked, imidazole-pyrrole-pyrrole dimer which explicitly recognizes TGTCA minor groove binding sequence. We synthesized the molecule, crystallized it, and solved its structure, allowing us to describe the molecular interactions. Subsequently, unique cognate sequences at half of the minor grooves in the crystal, enabling us to co-crystallize a lattice with two unique molecules in the lattice, with defined occupancy and periodicity. The crystals diffracted to 2.45 ?, which yielded electron density maps that allowed us to describe the structure of the anti-parallel dimer and map its guest-DNA interactions with exquisite detail, which was the first time a self-assembled 3D DNA lattice was used to solve the X-ray crystal structure of a molecule that was previously not available. This achievement constituted the accomplishment of the foundational goal of structural DNA nanotechnology, an endeavor 40 years in the making.</p> <p>These accomplishments have achieved broad impact whereby&nbsp;our innovative crystal systems could dramatically increase the ease of crystallization of DNA assemblies for site-directed immobilization of guests. Our results could provide a ?toolbox? for rational design of self-assembled DNA systems. Further,&nbsp;the combination of simulations and experimental datasets will lead to more accurate modeling of DNA nanosystems and provide understanding of how to scale up DNA designs to larger 3D architectures. It will also help define the parameters for the 3D self-assembly of crystals and how fine differences in molecular parameters can have dramatic effects in the final structure.</p> <p>In addition, enhancement of the capability to rationally design avenues for the crystallization and structure solution of novel structures could reveal discoveries for drug development, leading to the potential for impact against a host of biomedical ailments. Further, it will allow for benchmarking molecular dynamics models and enables us to model DNA structures more accurately, and better understand DNA biophysics, mechanics of double-stranded DNA deformations and interactions in DNA Holliday junctions. The datasets will hence impact the fields of computational chemistry and biophysics for better understanding of DNA properties.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/25/2023<br>      Modified by: Hao&nbsp;Yan</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2004250/2004250_10668812_1692989366396_4x7_cavities--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2004250/2004250_10668812_1692989366396_4x7_cavities--rgov-800width.jpg" title="DNA crystal with designed cavities"><img src="/por/images/Reports/POR/2023/2004250/2004250_10668812_1692989366396_4x7_cavities--rgov-66x44.jpg" alt="DNA crystal with designed cavities"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Self-assembling DNA crystal with designed cavities.</div> <div class="imageCredit">Hao Yan</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Hao&nbsp;Yan</div> <div class="imageTitle">DNA crystal with designed cavities</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2004250/2004250_10668812_1692989518266_Binder_fig1_scheme--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2004250/2004250_10668812_1692989518266_Binder_fig1_scheme--rgov-800width.jpg" title="Designer DNA crystal with binder guest"><img src="/por/images/Reports/POR/2023/2004250/2004250_10668812_1692989518266_Binder_fig1_scheme--rgov-66x44.jpg" alt="Designer DNA crystal with binder guest"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Designer DNA crystal as host to organize minor groover binder molecular guests.</div> <div class="imageCredit">Hao Yan</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Hao&nbsp;Yan</div> <div class="imageTitle">Designer DNA crystal with binder guest</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Over the course of the award, we accomplished several significant objectives: (1) A novel, self-assembling DNA scaffold was developed with cavities of tunable sizes. We engineered a unique crystal scaffold containing rhombohedral symmetry that diffracted to 2.55 ?an unprecedented achievement for self-assembled DNA crystal systems. In addition, we showed that the edges of the cavities in the crystals could be expanded by an additional 50%, resulting in pore volumes that increase ~3-fold. This result effectively showed that this motif could be tailor made towards hosting guest molecules such as proteins with a range of molecular weights and dimensions. (2) A computational model to study in silico assembly of DNA crystal systems was developed. Force-field development for atomistic simulations is a complex and difficult task, and our experimental data served to provide further insight for the improvement of current state-of-the-art models. The crystallographic datasets proved as valuable resources to the molecular simulation community. In particular, DNA sequences were simulated with a popular parmbsc1 DNA force-field, and shortcomings of the methodology were identified and compared with another common OL15 computational approach. Thus, we could provide an important comparison between the force-fields, all while generating a new rich dataset for testing and optimizing available methodologies. (3) DNA sequences were probed for the deliberate manipulation of crystal symmetry, isomeric form, and resolution. We employed two separate crystal motifs, with each containing a central molecular four-arm building block called an immobile Holliday junction with 36 possible DNA sequences, and surveyed each of them to determine if there were those that proved superior in terms of their ability to crystallize, and their resulting resolution, and solved 134 crystal structures in total. Six junction sequences, ?fatal? for crystallization, were identified that effectively allowed us to advise that they may be unwise for future designs. We also identified multiple sequences that improved resolution, and many of which re-configured the symmetry of the lattice compared to the original design, allowing for much larger cavity volumes. In addition, the role of global sequence downstream of the junction site was probed, and demonstrated that even the DNA sequence flanking the Holliday junction can dramatically alter symmetry. The results could serve to provide valuable direction towards the design of future nano-architectures. (4) Site-specific crystalline arrangements of small molecules were described within DNA lattices. In this work, we used two of our DNA motifs to position a suite of minor groove binding guest molecules (DAPI, Hoechst, and netropsin), at defined positions within the lattice. We then solved their crystal structures, and described their detailed interactions with the DNA duplex, and compared them to the original structures to demonstrate that our lattices are an attractive option towards solving structures within 3D DNA frameworks. We then used a polyamide molecule comprised as an anti-parallel, stacked, imidazole-pyrrole-pyrrole dimer which explicitly recognizes TGTCA minor groove binding sequence. We synthesized the molecule, crystallized it, and solved its structure, allowing us to describe the molecular interactions. Subsequently, unique cognate sequences at half of the minor grooves in the crystal, enabling us to co-crystallize a lattice with two unique molecules in the lattice, with defined occupancy and periodicity. The crystals diffracted to 2.45 ?, which yielded electron density maps that allowed us to describe the structure of the anti-parallel dimer and map its guest-DNA interactions with exquisite detail, which was the first time a self-assembled 3D DNA lattice was used to solve the X-ray crystal structure of a molecule that was previously not available. This achievement constituted the accomplishment of the foundational goal of structural DNA nanotechnology, an endeavor 40 years in the making.  These accomplishments have achieved broad impact whereby our innovative crystal systems could dramatically increase the ease of crystallization of DNA assemblies for site-directed immobilization of guests. Our results could provide a ?toolbox? for rational design of self-assembled DNA systems. Further, the combination of simulations and experimental datasets will lead to more accurate modeling of DNA nanosystems and provide understanding of how to scale up DNA designs to larger 3D architectures. It will also help define the parameters for the 3D self-assembly of crystals and how fine differences in molecular parameters can have dramatic effects in the final structure.  In addition, enhancement of the capability to rationally design avenues for the crystallization and structure solution of novel structures could reveal discoveries for drug development, leading to the potential for impact against a host of biomedical ailments. Further, it will allow for benchmarking molecular dynamics models and enables us to model DNA structures more accurately, and better understand DNA biophysics, mechanics of double-stranded DNA deformations and interactions in DNA Holliday junctions. The datasets will hence impact the fields of computational chemistry and biophysics for better understanding of DNA properties.                                     Last Modified: 08/25/2023       Submitted by: Hao Yan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

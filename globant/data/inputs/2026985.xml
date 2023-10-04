@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative Research: The effects of evolutionary adaptations on the spreading of COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>75000.00</AwardTotalIntnAmount>
+<AwardAmount>75000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Started in December 2019, the novel coronavirus (known to cause a respiratory disease known as COVID-19) has spread rapidly and broadly and is proving to be one of the most devastating events that affect the health and well-being of humans all around the world. A key scientific goal concerning COVID-19 is to develop mathematical models that help in understanding and predicting its spreading behavior, as well as supporting guidelines on what can be done to limit its spread. In this project, the PIs aim to achieve these goals by applying their recent findings on a new epidemic model to the spread of COVID-19. The PIs will work on a model that considers the possibility of COVID-19 mutating into different strains with different spreading characteristics. By also considering changes in the spreading behavior of COVID-19 due to environmental factors and changes in human behavior (seasonal changes, travel bans, etc.), they aim to obtain results that will help assess the effectiveness of countermeasures that can be taken against the spread of the virus and to help better prepare for different mutation scenarios, including worst-cases. &lt;br/&gt;Most existing models of epidemics assume that an infectious individual passes the same pathogen strain that she was infected with to a susceptible individual in her contact network. This assumption may not hold in real-life as pathogens often evolve over time, and the ways a pathogen evolves might lead to significant changes in its spreading dynamics. This project aims to improve the state-of-the-art mathematical and computational models for predicting the spread of COVID-19 to incorporate the effects of evolution and mutations. This will be done by leveraging recent work of the PIs in which they developed a mathematical model to predict the spreading dynamics for multiple-strain epidemics models with mutations. By incorporating the potential changes in the reproduction number R0 (due to countermeasures or mutations), the PIs aim to obtain a better understanding of the future progress of the COVID-19 spread; obtain different predictions of the spread of COVID-19 under different scenarios including extensive bans on travel, school/shop closures, as well as potential evolution into different strains; and add to the public discourse on the expected effectiveness of various countermeasures that can be taken to slow down the spread of COVID-19. Project outcomes will be disseminated broadly and incorporated into teaching curricula. The project will also engage students from underrepresented groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026985</AwardID>
+<Investigator>
+<FirstName>Osman</FirstName>
+<LastName>Yagan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Osman Yagan</PI_FULL_NAME>
+<EmailAddress><![CDATA[oyagan@ece.cmu.edu]]></EmailAddress>
+<NSF_ID>000661945</NSF_ID>
+<StartDate>04/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie Mellon University]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 Forbes Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7484</Code>
+<Text>IIS SPECIAL PROJECTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~75000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>A common theme among previously proposed models for network epidemics is the assumption that the virus is transferred across individuals without going through any mutation or evolution. However, in real-life spreading processes, pathogens often evolve in response to changing environments and medical interventions. The emergence of COVID-19 provides a clear example of this phenomenon, and sheds light on the critical role of evolutionary adaptations in enabling pathogen establishment in new host species.</p> <p>In this project, we worked towards bridging the disconnect between how COVID-19 is likely to propagate and evolve and the current mathematical and simulation models that ignore evolutionary adaptations. First, we worked towards revealing how the structural properties of a contact network and the evolutionary adaptations in the pathogens affect the speed and scale at which an infection propagates. To this end, we developed a modeling framework that takes into account the&nbsp;multi-layer&nbsp;structure typical to human contact networks as well as the&nbsp;mutations&nbsp;that the spreading item may go through. This gives rise to a multi-layer epidemiological model with layer dependent transmissibilities, where each layer represents a specific congregate setting in which an individual participates.&nbsp;By explicitly accounting for variability in transmissibility for different variants of a pathogen across different layers of the host contact network, our results provide an analytical framework to investigate the relative impact of countermeasures that alter the probability of transmission per contact (e.g., mask mandates) or the host contact structure (e.g., social-distancing, lockdowns). A key conclusion is that the impact of imposing/lifting mitigation measures concerning different contact network layers (e.g., school closures, or many companies adopting work from home policies) should be evaluated in connection with their effect on the chances of a new viral strain emerging.</p> <p>Another major research direction undertaken in the project was to analyze the impact of mask-wearing in the spread of a pathogen over a contact network. To this end, we proposed a novel agent-based model of viral spread on networks where agents may either wear no mask or wear one of several types of masks with different properties (e.g., cloth or surgical). We derived analytical expressions for three key epidemiological quantities: the probability of emergence, the epidemic threshold, and the expected epidemic size. We showed how the aforementioned quantities depend on the structure of the contact network, viral transmission dynamics, and the distribution of the different types of masks within the population. A key conclusion is that mitigation strategies against a viral outbreak should differ based on the stage of the spreading process. In particular, we should focus on source-control before an epidemic emerges and on self-protection after the emergence.</p> <p>The project provided significant opportunities for training and professional development for two women graduate students. Project outcomes have been disseminated broadly through seminars, conference presentations, and journal publications, and have been incorporated into teaching curricula.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/10/2022<br>      Modified by: Osman&nbsp;Yagan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ A common theme among previously proposed models for network epidemics is the assumption that the virus is transferred across individuals without going through any mutation or evolution. However, in real-life spreading processes, pathogens often evolve in response to changing environments and medical interventions. The emergence of COVID-19 provides a clear example of this phenomenon, and sheds light on the critical role of evolutionary adaptations in enabling pathogen establishment in new host species.  In this project, we worked towards bridging the disconnect between how COVID-19 is likely to propagate and evolve and the current mathematical and simulation models that ignore evolutionary adaptations. First, we worked towards revealing how the structural properties of a contact network and the evolutionary adaptations in the pathogens affect the speed and scale at which an infection propagates. To this end, we developed a modeling framework that takes into account the multi-layer structure typical to human contact networks as well as the mutations that the spreading item may go through. This gives rise to a multi-layer epidemiological model with layer dependent transmissibilities, where each layer represents a specific congregate setting in which an individual participates. By explicitly accounting for variability in transmissibility for different variants of a pathogen across different layers of the host contact network, our results provide an analytical framework to investigate the relative impact of countermeasures that alter the probability of transmission per contact (e.g., mask mandates) or the host contact structure (e.g., social-distancing, lockdowns). A key conclusion is that the impact of imposing/lifting mitigation measures concerning different contact network layers (e.g., school closures, or many companies adopting work from home policies) should be evaluated in connection with their effect on the chances of a new viral strain emerging.  Another major research direction undertaken in the project was to analyze the impact of mask-wearing in the spread of a pathogen over a contact network. To this end, we proposed a novel agent-based model of viral spread on networks where agents may either wear no mask or wear one of several types of masks with different properties (e.g., cloth or surgical). We derived analytical expressions for three key epidemiological quantities: the probability of emergence, the epidemic threshold, and the expected epidemic size. We showed how the aforementioned quantities depend on the structure of the contact network, viral transmission dynamics, and the distribution of the different types of masks within the population. A key conclusion is that mitigation strategies against a viral outbreak should differ based on the stage of the spreading process. In particular, we should focus on source-control before an epidemic emerges and on self-protection after the emergence.  The project provided significant opportunities for training and professional development for two women graduate students. Project outcomes have been disseminated broadly through seminars, conference presentations, and journal publications, and have been incorporated into teaching curricula.                 Last Modified: 08/10/2022       Submitted by: Osman Yagan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

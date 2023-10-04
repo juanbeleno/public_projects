@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research; RUI: Non-Orthogonal Multiple Access Pricing for Wireless Multimedia Communications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>200989.00</AwardTotalIntnAmount>
+<AwardAmount>200989</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Huaiyu Dai</SignBlockName>
+<PO_EMAI>hdai@nsf.gov</PO_EMAI>
+<PO_PHON>7032924568</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Since its inception, the global internet traffic has been increasing and is projected to increase even more in the future. A significant portion of the internet traffic is expected to be due to wireless video. Such aggressive data traffic growth and additional high volume of multimedia content pose significant challenges in designing wireless communication protocols which meet the Quality of Experience requirements of mobile multimedia users. This project aims to explore new solutions leveraging economic theories to redesign wireless communication strategies for mobile multimedia users. The evolution to Non-Orthogonal Multiple Access at lower layers brings both opportunities and challenges to support wireless multimedia communications. In particular, this project will investigate pricing mechanisms for Non-Orthogonal Multiple Access wireless multimedia communications at lower layers. The outcome of this project will advance the discovery of new frontiers in wireless communications, jointly leveraging profit-centric economic pricing, quality-centric multimedia services, and Non-Orthogonal Multiple Access wireless communications.&lt;br/&gt;&lt;br/&gt;The research objective of this project is to test the hypothesis that the traffic challenge of wireless multimedia communication could be partially solved by jointly leveraging high level pricing models and low level Non-Orthogonal Multiple Access resource allocation policies. This research project will establish a theoretical foundation for a novel Non-Orthogonal Multiple Access Pricing framework, which exploits application layer economies in designing lower layer Non-Orthogonal Multiple Access wireless multimedia communication algorithms. The project consists of three essential thrusts: (1) creating a content-centric pricing mechanism, being aware of the importance of multimedia data carried within a specific Non-Orthogonal Multiple Access resource block; (2) designing an orthogonality-centric pricing model similar to Uber/Lyft rideshare service, being aware of the shared Non-Orthogonal Multiple Access and exclusive Orthogonal Multiple Access pricing differences; and (3) developing an incentive-centric Non-Orthogonal Multiple Access relay auction mechanism, leveraging the naturally cached content at relay nodes during successive interference cancellation. Research findings will be seamlessly integrated to education activities at Utah Valley University (RUI - Research in Primarily Undergraduate Institution) and San Diego State University (Hispanic Serving Institution).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2010012</AwardID>
+<Investigator>
+<FirstName>Kazem</FirstName>
+<LastName>Sohraby</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kazem Sohraby</PI_FULL_NAME>
+<EmailAddress><![CDATA[ksohraby@uvu.edu]]></EmailAddress>
+<NSF_ID>000617717</NSF_ID>
+<StartDate>05/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Utah Valley University</Name>
+<CityName>OREM</CityName>
+<ZipCode>840586703</ZipCode>
+<PhoneNumber>8018636084</PhoneNumber>
+<StreetAddress>800 W UNIVERSITY PKWY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y9EYFJSLWXU8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UTAH VALLEY UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Utah Valley University College of Engineering and Technology]]></Name>
+<CityName>Orem</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>840586703</ZipCode>
+<StreetAddress><![CDATA[800 W University Parkway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200989</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The undergraduate component of this grant benefited 25 undergraduate students on 10 different wireless systems projects. The projects span both hardware and software disciplines, some requiring new development and some were off-the-shelf components which exposed Utah Valley University undergraduate students from the Department of Engineering and computer science to the process of invention and innovation to solve real every-day problems. These students were assisted by a group of 7 dedicated Engineering and Computer Science faculty who worked under the PI&rsquo;s supervision and who mentored and helped undergraduate students understand the value of learning the problem-solving process from the definition phase to producing a pilot product that solves the problem. &nbsp;Furthermore, projects helped solidify plans for changes to undergraduate engineering curriculum which would be beneficial to the future students. Undergraduate projects all focused on wireless technologies and are as follow:</p> <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Human Presence and Traffic Monitoring for Emergency Situations</p> <p>2.&nbsp;&nbsp;&nbsp;&nbsp; Designing Telecommunication Physical Layer Modules Through Multiple Courses</p> <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Design of a Course Module for Introduction to ECE</p> <p>4.&nbsp;&nbsp;&nbsp;&nbsp; Wireless Controller Design with RF24 Module Arduino</p> <p>5.&nbsp;&nbsp;&nbsp;&nbsp; Design and Prototype Track and EV Robot</p> <p>6.&nbsp;&nbsp;&nbsp;&nbsp; Wireless EV Highway Charging</p> <p>7.&nbsp;&nbsp;&nbsp;&nbsp; Building One-Pixel Camera Interacting with Cellphone Using Compressive Sensing Technique</p> <p>8.&nbsp;&nbsp;&nbsp;&nbsp; Arduino RADAR System</p> <p>9.&nbsp;&nbsp;&nbsp;&nbsp; Wireless EV Highway Charging (multiple semesters)</p> <p>10.&nbsp; Building a Single pixel Camera Interacting with Cellphone (multiple semesters)</p> <p>11.&nbsp; UVU Smart Parking Lot</p> <p>&nbsp;</p> <p>In addition to the undergraduate projects, the graduate level research activities were also performed at the San Diego State University (SDSU). PI from UVU had collaborated with the PI at SDSU. The graduate research focused on NOMA for various resource sharing scenarios, models for economic analysis for multimedia and wireless relay communication, among others. This grant resulted in one PhD student at SDSU completing the degree requirements and a second PhD student who is working on continuation of related problems. A large number of publications resulted from the graduate research as subsequently reported in the annual reports.</p> <p>The publications during the year 3 performance are as follows. Paper #1 received best paper award from IEEE:</p> <p>&nbsp;</p> <p class="Default">1.&nbsp;&nbsp;&nbsp;&nbsp; Y. Song, W. Wang, K. Sohraby, &ldquo;Uberization of NOMA Wireless Network Resource Sharing: A Driver-Passenger Game-Theoretic Approach,&rdquo; in Proc. IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), Nov. 2022.</p> <p class="Default">&nbsp;</p> <p class="Default">2.&nbsp;&nbsp;&nbsp;&nbsp; K. Ramamoorthy, W. Wang, K. Sohraby, &ldquo;Incentivize Non-Orthogonal Multiple Access In Wireless Multimedia Communications,&rdquo; in Proc. IEEE Wireless Communications and Networking Conference (WCNC) Workshop on Next Generation Multiple Access for Future Wireless Communications, Mar. 2023.</p> <p class="Default">&nbsp;</p> <p class="Default">3.&nbsp;&nbsp;&nbsp;&nbsp; K. Ramamoorthy, W. Wang, K. Sohraby,&ldquo;A Power Auction Approach For Non-Orthogonal Multiple Access Wireless Relay Communications,&rdquo; in Proc. IEEE International Conference on Communications (ICC) Workshop on Green and Sustainable Networking (GreenNet), Jun. 2023.</p> <p class="Default">&nbsp;</p> <p class="Default">4.&nbsp;&nbsp;&nbsp;&nbsp; Y. Song, K. Ramamoorthy, W. Wang, K. Sohraby, &ldquo;A Use-It-Or-Lose-It Economic VCG Auction Approach For NOMA Wireless Relay Networks,&rdquo; in Proc. IEEE International Conference on Omni-layer Intelligent Systems (COINS) in July 2023.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>Publications in various conferences and journals were submitted in years 1 and 2. All in all, this grant has been of tremendous benefit to both graduate and undergraduate students interested in wireless systems and related technologies, both at UVU as a teaching and at SDSU as a research institution.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/01/2023<br>      Modified by: Kazem&nbsp;Sohraby</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The undergraduate component of this grant benefited 25 undergraduate students on 10 different wireless systems projects. The projects span both hardware and software disciplines, some requiring new development and some were off-the-shelf components which exposed Utah Valley University undergraduate students from the Department of Engineering and computer science to the process of invention and innovation to solve real every-day problems. These students were assisted by a group of 7 dedicated Engineering and Computer Science faculty who worked under the PI’s supervision and who mentored and helped undergraduate students understand the value of learning the problem-solving process from the definition phase to producing a pilot product that solves the problem.  Furthermore, projects helped solidify plans for changes to undergraduate engineering curriculum which would be beneficial to the future students. Undergraduate projects all focused on wireless technologies and are as follow:  1.     Human Presence and Traffic Monitoring for Emergency Situations  2.     Designing Telecommunication Physical Layer Modules Through Multiple Courses  3.     Design of a Course Module for Introduction to ECE  4.     Wireless Controller Design with RF24 Module Arduino  5.     Design and Prototype Track and EV Robot  6.     Wireless EV Highway Charging  7.     Building One-Pixel Camera Interacting with Cellphone Using Compressive Sensing Technique  8.     Arduino RADAR System  9.     Wireless EV Highway Charging (multiple semesters)  10.  Building a Single pixel Camera Interacting with Cellphone (multiple semesters)  11.  UVU Smart Parking Lot     In addition to the undergraduate projects, the graduate level research activities were also performed at the San Diego State University (SDSU). PI from UVU had collaborated with the PI at SDSU. The graduate research focused on NOMA for various resource sharing scenarios, models for economic analysis for multimedia and wireless relay communication, among others. This grant resulted in one PhD student at SDSU completing the degree requirements and a second PhD student who is working on continuation of related problems. A large number of publications resulted from the graduate research as subsequently reported in the annual reports.  The publications during the year 3 performance are as follows. Paper #1 received best paper award from IEEE:    1.     Y. Song, W. Wang, K. Sohraby, "Uberization of NOMA Wireless Network Resource Sharing: A Driver-Passenger Game-Theoretic Approach," in Proc. IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD), Nov. 2022.   2.     K. Ramamoorthy, W. Wang, K. Sohraby, "Incentivize Non-Orthogonal Multiple Access In Wireless Multimedia Communications," in Proc. IEEE Wireless Communications and Networking Conference (WCNC) Workshop on Next Generation Multiple Access for Future Wireless Communications, Mar. 2023.   3.     K. Ramamoorthy, W. Wang, K. Sohraby,"A Power Auction Approach For Non-Orthogonal Multiple Access Wireless Relay Communications," in Proc. IEEE International Conference on Communications (ICC) Workshop on Green and Sustainable Networking (GreenNet), Jun. 2023.   4.     Y. Song, K. Ramamoorthy, W. Wang, K. Sohraby, "A Use-It-Or-Lose-It Economic VCG Auction Approach For NOMA Wireless Relay Networks," in Proc. IEEE International Conference on Omni-layer Intelligent Systems (COINS) in July 2023.       Publications in various conferences and journals were submitted in years 1 and 2. All in all, this grant has been of tremendous benefit to both graduate and undergraduate students interested in wireless systems and related technologies, both at UVU as a teaching and at SDSU as a research institution.                                                                                                             Last Modified: 08/01/2023       Submitted by: Kazem Sohraby]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

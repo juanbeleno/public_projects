@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Risk Monitoring of Civil Infrastructures Using Correlated Change Patterns in Spatiotemporal Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224446.00</AwardTotalIntnAmount>
+<AwardAmount>232446</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yueyue Fan</SignBlockName>
+<PO_EMAI>yfan@nsf.gov</PO_EMAI>
+<PO_PHON>7032924453</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Faculty Early Career Development (CAREER) Program grant pioneers a change-based risk analysis method that uses diverse spatiotemporal data for predictive defect detection of aging civil infrastructure systems and early warning of structural collapse. Many failures of bridges, marine structures, and other large-scale facilities often can be forecast by gradual changes in their appearances. Civil engineers have found that certain changes across multiple structures always occur together and form collective patterns that predict collapses. For example, decaying steel structures often have collective crack developments around components under cyclic loads. Maintenance agencies can collect various spatiotemporal data, such as images, for monitoring structures and predicting behaviors of structural systems. Unfortunately, current change analysis practices are manual and tedious, so they cannot recover collective patterns from heterogeneous data. This award is for fundamental research in the development of an automated process for detecting changes across heterogeneous data and predicting structural collapse. The developed procedure will enable automated, data-driven analysis of the decays in civil infrastructure systems. Detailed data-driven change analyses of decaying structures have applications in the domains of infrastructure management, aerospace engineering, biomedical engineering, and material science. Therefore, results from this research will broadly benefit the American economy and society. In addition, findings from this project enable wider, global efforts related to change-based risk analysis of civil infrastructures through domestic and international collaborations. This research will aid workforces capable of handling diverse spatiotemporal data for proactive infrastructure management. Finally, change analysis games developed in this effort are to be integrated into the engineering curriculum, K-12 summer workshops, and industry outreach activities. A focus of this award is to engage people from underrepresented groups, especially Hispanics and Native Americans.&lt;br/&gt;&lt;br/&gt;Existing change analysis algorithms calculate deviations of data points from their nearest neighbors in other data sources. Such neighborhood searching cannot reliably track both global displacements and local deterioration of objects across heterogeneous data. That limitation impedes engineers from characterizing change patterns for predictive defect analysis of structural systems. This research resolves this difficulty through matching isomorphic spatiotemporal patterns across data sources to track both global and local changes of objects, and then correlating these changes across multiple structures for collapse prediction. Specifically, the research effort: 1) examines algorithms that hierarchically match similar spatiotemporal patterns in order to identify corresponding parts of data; 2) investigates algorithms that use corresponding parts of data to detect and classify changes; 3) uses spatial statistical algorithms to discover patterns of correlated changes of multiple structures; and 4) identifies patterns of changes that have strong correlations with collapses. The contributions include: 1) a new method that predicts structural failures through analysis of spatiotemporal change patterns of multiple structures and 2) computationally efficient algorithms for reliably detecting, classifying, and correlating changes across heterogeneous data. Developed techniques will be validated using field data collected from twenty-five structures within the United States, China, Korea, and Hong Kong, along with data from the literature and civil infrastructure data repositories.]]></AbstractNarration>
+<MinAmdLetterDate>08/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034373</AwardID>
+<Investigator>
+<FirstName>Pingbo</FirstName>
+<LastName>Tang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pingbo Tang</PI_FULL_NAME>
+<EmailAddress><![CDATA[ptang@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000585971</NSF_ID>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie-Mellon University]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 Forbes Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1631</Code>
+<Text>CIS-Civil Infrastructure Syst</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1637</Code>
+<Text>Structural and Architectural E</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>039E</Code>
+<Text>STRUCTURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1631</Code>
+<Text>CIVIL INFRASTRUCTURE SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1637</Code>
+<Text>HAZARD MIT &amp; STRUCTURAL ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0115</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001516DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2015~224446</FUND_OBLG>
+<FUND_OBLG>2021~8000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This NSF CAREER project pioneers a change-based risk analysis method that uses diverse spatiotemporal data for predictive defect detection of aging civil infrastructure systems and early warning of structural collapse. The PI has produced various outcomes that benefit society through research, education, and outreach activities to achieve this goal. These outcomes include 1) <em>new scientific methods that enable automated change diagnosis of structures with human-in-the-loop</em>, 2) <em>scientific data collection and analyses that produce discoveries about inspection and structural change analysis strategies</em>, 3) <em>three education modules, a website, and workshop materials that educate students and industry professionals about spatial change analysis of structures for safety and inspection efficiency</em>; 4) <em>presentations, publications, and magazine articles that distribute the research and education findings</em>. The following paragraphs summarize these outcomes.</p> <p>The research team directed by the PI contributed a series of computational models and algorithms that enable the integration of human and machine intelligence for reliable interpretation of spatial changes and structural defects captured in 3D images and relevant data sources into failure risks. The core spatial change analysis algorithm augmented by 3D data compression and hierarchical data pattern matching has achieved the rapid and reliable classification of structural changes. These changes include absolution displacements, relative motions, and shape changes of structural components (e.g., bending and torsions of girders) for supporting the derivation of possible failure modes of bridges. Figure 1 visualizes the change classification results of a single pier bridge for assessing its torsional and rolling over risks.</p> <p>In addition, the project team developed algorithms that cross-check the classified changes of bridge components against defect information extracted from bridge inspection reports and finite element simulation results. The purpose is to quantify the reliability of bridge change and defect information from multiple sources and predict safety-critical components that need further data collection. Figure 2 visualizes the predicted critical components of a bridge based on integrated analysis of changes, inspection reports, and structure simulations, which quantify the risks of missing data and multi-source data inconsistencies. Finally, we developed algorithms to trace humans? inspection behaviors to identify the inspection strategies of skillful inspectors who are more efficient and comprehensive in checking the conditions of a bridge. Integrating these human behaviors with the capabilities of algorithms that predict safety-critical components requiring further data collection can form human-machine teams in achieving more efficient and reliable inspection. Figure 3 shows an automatic analysis of the human-computer interactions logged by a virtual bridge inspection game for identifying inspection behaviors leading to more efficient and reliable bridge defect detection results.</p> <p>The development and tests of the computational methods presented above drive research data collection, research discoveries about structural inspection strategies, educational module development, and a variety of outreach activities of the project team. These activities produce a broad range of outcomes beneficial to other researchers and society. The research team collected large amounts of spatial, sensory, and textual data sets through both field data collection and synthesizing online resources for supporting the development and tests of the computational methods presented above. These data sets include 1) 3D images collected from 2015 to 2018 for capturing changes of 12 bridges in China and the United States, 2) a bridge data inventory that synthesizes various data sources available from professional organizations and other researchers (e.g., inspection reports, non-destructive tests data). We published these data sets through the project website for others to study, research, and work: <a href="https://sites.google.com/view/brimchange/home?authuser=0">https://sites.google.com/view/brimchange/home?authuser=0</a>.</p> <p>The educational modules integrated with course materials and outreach activities have enriched the curriculum of civil engineering education and outreach workshops for education industry professionals who work on structural inspection and infrastructure management. The three education modules include 1) 3D Laser Scanning Planning Competition Game for monitoring details of workspaces; 2) Change Analysis Using 3D Laser Scanning Data; 3) Virtual Bridge Inspection Game. Figure 4 shows that the PI introduced 3D laser scanning for change analysis to K-12 students and parents at a summer camp. Figure 5 shows the scene of a virtual bridge inspection game integrated into the learning of digital tools for project management while allowing the researchers to collect and analyze human inspection behaviors.</p> <p>Finally, this NSF CAREER grant enables the PI to distribute research findings to a broader audience through journal publications, video presentations, podcasts, and textbook chapters. Notably, the PI produced a Podcast on Human-Technology for Civil Infrastructure Operations for the American Society of Civil Engineers, and Cyber-Physical Systems Lecture Series - Human-Cyber-Physical Systems for Civil Infrastructure Management for the Transportation Research Board. In particular, the PI wrote a chapter titled ?Surveying, Geomatics, and 3D Reconstruction? as the fundamental introduction of 3D imaging and modeling techniques for a textbook titled ?Infrastructure Computer Vision.? Figure 6 shows the chapter?s first page and cover page. The project website provides more links to videos and complete lists of publications and outreach materials.</p><br> <p>            Last Modified: 01/31/2022<br>      Modified by: Pingbo&nbsp;Tang</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653181089_Slide1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653181089_Slide1--rgov-800width.jpg" title="Figure 1 - Spatial Change Classification of Bridges"><img src="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653181089_Slide1--rgov-66x44.jpg" alt="Figure 1 - Spatial Change Classification of Bridges"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 1 visualizes the change classification results of a single pier bridge for assessing its torsional and rolling over risks.</div> <div class="imageCredit">Vamsi Sai Kalasapudi</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Pingbo&nbsp;Tang</div> <div class="imageTitle">Figure 1 - Spatial Change Classification of Bridges</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653254605_Slide2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653254605_Slide2--rgov-800width.jpg" title="Figure 2 - Safety-Critical Bridge Parts for Data Collection"><img src="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653254605_Slide2--rgov-66x44.jpg" alt="Figure 2 - Safety-Critical Bridge Parts for Data Collection"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2 visualizes the predicted critical components of a bridge based on integrated analysis of changes, inspection reports, and structure simulations, which quantify the risks of missing data and multi-source data inconsistencies.</div> <div class="imageCredit">Ying Shi</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Pingbo&nbsp;Tang</div> <div class="imageTitle">Figure 2 - Safety-Critical Bridge Parts for Data Collection</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653319622_Slide3--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653319622_Slide3--rgov-800width.jpg" title="Figure 3 - Automatic Inspection Behavior Analysis"><img src="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653319622_Slide3--rgov-66x44.jpg" alt="Figure 3 - Automatic Inspection Behavior Analysis"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 3 shows an automatic analysis of the human-computer interactions logged by a virtual bridge inspection game for identifying inspection behaviors leading to more efficient and reliable bridge defect detection results.</div> <div class="imageCredit">Pengkun Liu</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Pingbo&nbsp;Tang</div> <div class="imageTitle">Figure 3 - Automatic Inspection Behavior Analysis</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653392814_Slide5--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653392814_Slide5--rgov-800width.jpg" title="Figure 4 - K-12 Change Analysis Summer Camp"><img src="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653392814_Slide5--rgov-66x44.jpg" alt="Figure 4 - K-12 Change Analysis Summer Camp"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 4 shows that the PI introduced 3D laser scanning for change analysis to K-12 students and parents at a summer camp.</div> <div class="imageCredit">Jiawei Chen</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Pingbo&nbsp;Tang</div> <div class="imageTitle">Figure 4 - K-12 Change Analysis Summer Camp</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653514605_Slide4--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653514605_Slide4--rgov-800width.jpg" title="Figure 5 - Virtual Bridge Inspection Game"><img src="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653514605_Slide4--rgov-66x44.jpg" alt="Figure 5 - Virtual Bridge Inspection Game"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 5 shows the scene of a virtual bridge inspection game integrated into the learning of digital tools for project management while allowing the researchers to collect and analyze human inspection behaviors.</div> <div class="imageCredit">Pengkun Liu, Ruoxin Xiong</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Pingbo&nbsp;Tang</div> <div class="imageTitle">Figure 5 - Virtual Bridge Inspection Game</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653640809_Slide6--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653640809_Slide6--rgov-800width.jpg" title="Figure 6 - Infrastructure Computer Vision Book Chapter"><img src="/por/images/Reports/POR/2022/2034373/2034373_10347860_1643653640809_Slide6--rgov-66x44.jpg" alt="Figure 6 - Infrastructure Computer Vision Book Chapter"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A chapter titled �Surveying, Geomatics, and 3D Reconstruction� as the fundamental introduction of 3D imaging and modeling techniques for a textbook titled �Infrastructure Computer Vision.�</div> <div class="imageCredit">Ioannis Brilakis, Pingbo Tang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Pingbo&nbsp;Tang</div> <div class="imageTitle">Figure 6 - Infrastructure Computer Vision Book Chapter</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This NSF CAREER project pioneers a change-based risk analysis method that uses diverse spatiotemporal data for predictive defect detection of aging civil infrastructure systems and early warning of structural collapse. The PI has produced various outcomes that benefit society through research, education, and outreach activities to achieve this goal. These outcomes include 1) new scientific methods that enable automated change diagnosis of structures with human-in-the-loop, 2) scientific data collection and analyses that produce discoveries about inspection and structural change analysis strategies, 3) three education modules, a website, and workshop materials that educate students and industry professionals about spatial change analysis of structures for safety and inspection efficiency; 4) presentations, publications, and magazine articles that distribute the research and education findings. The following paragraphs summarize these outcomes.  The research team directed by the PI contributed a series of computational models and algorithms that enable the integration of human and machine intelligence for reliable interpretation of spatial changes and structural defects captured in 3D images and relevant data sources into failure risks. The core spatial change analysis algorithm augmented by 3D data compression and hierarchical data pattern matching has achieved the rapid and reliable classification of structural changes. These changes include absolution displacements, relative motions, and shape changes of structural components (e.g., bending and torsions of girders) for supporting the derivation of possible failure modes of bridges. Figure 1 visualizes the change classification results of a single pier bridge for assessing its torsional and rolling over risks.  In addition, the project team developed algorithms that cross-check the classified changes of bridge components against defect information extracted from bridge inspection reports and finite element simulation results. The purpose is to quantify the reliability of bridge change and defect information from multiple sources and predict safety-critical components that need further data collection. Figure 2 visualizes the predicted critical components of a bridge based on integrated analysis of changes, inspection reports, and structure simulations, which quantify the risks of missing data and multi-source data inconsistencies. Finally, we developed algorithms to trace humans? inspection behaviors to identify the inspection strategies of skillful inspectors who are more efficient and comprehensive in checking the conditions of a bridge. Integrating these human behaviors with the capabilities of algorithms that predict safety-critical components requiring further data collection can form human-machine teams in achieving more efficient and reliable inspection. Figure 3 shows an automatic analysis of the human-computer interactions logged by a virtual bridge inspection game for identifying inspection behaviors leading to more efficient and reliable bridge defect detection results.  The development and tests of the computational methods presented above drive research data collection, research discoveries about structural inspection strategies, educational module development, and a variety of outreach activities of the project team. These activities produce a broad range of outcomes beneficial to other researchers and society. The research team collected large amounts of spatial, sensory, and textual data sets through both field data collection and synthesizing online resources for supporting the development and tests of the computational methods presented above. These data sets include 1) 3D images collected from 2015 to 2018 for capturing changes of 12 bridges in China and the United States, 2) a bridge data inventory that synthesizes various data sources available from professional organizations and other researchers (e.g., inspection reports, non-destructive tests data). We published these data sets through the project website for others to study, research, and work: https://sites.google.com/view/brimchange/home?authuser=0.  The educational modules integrated with course materials and outreach activities have enriched the curriculum of civil engineering education and outreach workshops for education industry professionals who work on structural inspection and infrastructure management. The three education modules include 1) 3D Laser Scanning Planning Competition Game for monitoring details of workspaces; 2) Change Analysis Using 3D Laser Scanning Data; 3) Virtual Bridge Inspection Game. Figure 4 shows that the PI introduced 3D laser scanning for change analysis to K-12 students and parents at a summer camp. Figure 5 shows the scene of a virtual bridge inspection game integrated into the learning of digital tools for project management while allowing the researchers to collect and analyze human inspection behaviors.  Finally, this NSF CAREER grant enables the PI to distribute research findings to a broader audience through journal publications, video presentations, podcasts, and textbook chapters. Notably, the PI produced a Podcast on Human-Technology for Civil Infrastructure Operations for the American Society of Civil Engineers, and Cyber-Physical Systems Lecture Series - Human-Cyber-Physical Systems for Civil Infrastructure Management for the Transportation Research Board. In particular, the PI wrote a chapter titled ?Surveying, Geomatics, and 3D Reconstruction? as the fundamental introduction of 3D imaging and modeling techniques for a textbook titled ?Infrastructure Computer Vision.? Figure 6 shows the chapter?s first page and cover page. The project website provides more links to videos and complete lists of publications and outreach materials.       Last Modified: 01/31/2022       Submitted by: Pingbo Tang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Invisible Shield: Can Compression Harden Deep Neural Networks Universally Against Adversarial Attacks?]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/07/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>149180.00</AwardTotalIntnAmount>
+<AwardAmount>149180</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniela Oliveira</SignBlockName>
+<PO_EMAI>doliveir@nsf.gov</PO_EMAI>
+<PO_PHON>7032924352</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Deep neural networks (DNNs) are finding applications in wide-ranging applications such as image recognition, medical diagnosis and self-driving cars. However, DNNs suffer from a security threat: decisions can be misled by adversarial inputs crafted by adding human-imperceptible perturbations into normal inputs during training of DNN model. Defending against adversarial attacks is challenging due to multiple attack vectors, unknown adversary's strategies and cost. This project investigates a compression/decompression-based defense strategy to protect DNNs against any attack, with low cost and high accuracy. &lt;br/&gt;&lt;br/&gt;The project aims to create a new paradigm of safeguarding DNNs from a radically different perspective by using signal compression with a focus on integrating defenses into compression of the inputs and DNN models. The research tasks include: (i) developing defensive compression for visual/audio inputs to maximize defense efficiency without compromising testing accuracy; (ii) developing defensive model compression, and novel gradient masking/obfuscating methods without involving retraining, to universally harden DNN models; and (iii) conducting attack-defense evaluations through algorithm-level simulation and live platform experimentation.&lt;br/&gt;&lt;br/&gt;Any success from this EAGER project will be useful to research community interested in deep learning, hardware- and cyber- security, and multimedia. This project enhances economic opportunities by promoting wider applications of deep learning into realistic systems, and gives special attention to educating women and students from traditionally under-represented/under-served groups in Florida International University (FIU).&lt;br/&gt;&lt;br/&gt;The project repository will be stored on a publicly accessible server at FIU (http://web.eng.fiu.edu/wwen/).  Data will be maintained for at least 5 years after the project period.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/17/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>12/17/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011260</AwardID>
+<Investigator>
+<FirstName>Wujie</FirstName>
+<LastName>Wen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wujie Wen</PI_FULL_NAME>
+<EmailAddress><![CDATA[wwen2@ncsu.edu]]></EmailAddress>
+<NSF_ID>000705760</NSF_ID>
+<StartDate>12/17/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lehigh University</Name>
+<CityName>BETHLEHEM</CityName>
+<ZipCode>180153008</ZipCode>
+<PhoneNumber>6107583021</PhoneNumber>
+<StreetAddress>526 BRODHEAD AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E13MDBKHLDB5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LEHIGH UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Lehigh University]]></Name>
+<CityName>Bethlehem</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>180153005</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~149180</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Deep neural networks (DNNs) are finding broad applications in many real-world applications from daily image recognition to safety- and security-sensitive medical diagnosis and self-driving cars. However, the input based adversarial-example attacks bring in ever-increasing security challenges to DNNs, as decisions can be precisely misled by simply adding human imperceptible perturbations into the legitimate model input by attackers. The primary goal of this project is to create a new paradigm of safeguarding DNNs against such attacks by directly rooting defense into compression of the inputs and DNN models, with the guarantee of low cost and high accuracy.&nbsp;&nbsp;</p> <p>We have accomplished these goals and more specifically,</p> <p>(1)&nbsp; We developed a JPEG-based defensive compression framework, namely "Feature Distillation", to effectively rectify adversarial examples without impacting classification accuracy on benign data with theoretical guarantee. The work for the first time unleashes the defense potentials of the input-transformation techniques with almost zero loss of DNN testing accuracy by re-architecting the fundamental entities of JPEG compression/decompression. This includes defensive quantization to maximize the filtering of adversarial inputs and DNN-oriented quantization to restore DNN testing accuracy. It is extremely low cost and can be widely applicable to many essential components in modern DNN powered intelligent cyber physical systems, such as image sensors, cameras. It also significantly outperforms the state-of-the-art input-transformation based defense and serves as a new benchmark.</p> <p>(2)&nbsp; We developed a low-cost frequency refinement approach to defend DNN-based biomedical image segmentation from adversarial attacks. The key idea is to redesign the quantization of JEPG compression based on the unique statistical pattern of adversarial perturbations in frequency domain in image segmentation. It almost recovers the low segmentation prediction to the original level without impacting that of benign images under adversarial settings. This is the very first study that targets the defense against the practical adversarial attacks in the context of biomedical image segmentation.</p> <p>(3)&nbsp; We developed a defensive dropout solution (a type of model compression techniques) to harden DNN models under adversarial attacks. The key is to develop a defensive dropout algorithm that determines an optimal test dropout rate given the DNN model and the attacker?s strategy for generating adversarial examples to trade-off the defense effect and testing accuracy.</p> <p>(4)&nbsp; We developed a holistic defensive model compression solution set consisting of defensive to harden DNNs? intrinsic resistance capability to a variety of unknown adversarial attacks. It consists of defensive hash compression to strengthen the decision boundary of pretrained DNN models, and retraining-free gradient inhibition methods to effectively eliminate the remaining impact of adversarial gradients with marginal accuracy loss. The work shows how weight compression-an indispensable technique originally aiming to ease the memory/storage overhead during DNN hardware implementation, can be redesigned for enhancing the robustness of DNN models.</p> <p>The research findings of this project have been disseminated in the forms of conferences papers and presentations, journal papers, as well as invited seminars. The developed software algorithms have been open sourced in Github and served as new benchmarks for the community to further advance the field. This project is the core of the thesis and project of two graduate students (one Ph.D. and one Master). This EAGER research project supported three graduate students and publications of 12 conference and 1 journal papers in total.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/05/2022<br>      Modified by: Wujie&nbsp;Wen</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Deep neural networks (DNNs) are finding broad applications in many real-world applications from daily image recognition to safety- and security-sensitive medical diagnosis and self-driving cars. However, the input based adversarial-example attacks bring in ever-increasing security challenges to DNNs, as decisions can be precisely misled by simply adding human imperceptible perturbations into the legitimate model input by attackers. The primary goal of this project is to create a new paradigm of safeguarding DNNs against such attacks by directly rooting defense into compression of the inputs and DNN models, with the guarantee of low cost and high accuracy.    We have accomplished these goals and more specifically,  (1)  We developed a JPEG-based defensive compression framework, namely "Feature Distillation", to effectively rectify adversarial examples without impacting classification accuracy on benign data with theoretical guarantee. The work for the first time unleashes the defense potentials of the input-transformation techniques with almost zero loss of DNN testing accuracy by re-architecting the fundamental entities of JPEG compression/decompression. This includes defensive quantization to maximize the filtering of adversarial inputs and DNN-oriented quantization to restore DNN testing accuracy. It is extremely low cost and can be widely applicable to many essential components in modern DNN powered intelligent cyber physical systems, such as image sensors, cameras. It also significantly outperforms the state-of-the-art input-transformation based defense and serves as a new benchmark.  (2)  We developed a low-cost frequency refinement approach to defend DNN-based biomedical image segmentation from adversarial attacks. The key idea is to redesign the quantization of JEPG compression based on the unique statistical pattern of adversarial perturbations in frequency domain in image segmentation. It almost recovers the low segmentation prediction to the original level without impacting that of benign images under adversarial settings. This is the very first study that targets the defense against the practical adversarial attacks in the context of biomedical image segmentation.  (3)  We developed a defensive dropout solution (a type of model compression techniques) to harden DNN models under adversarial attacks. The key is to develop a defensive dropout algorithm that determines an optimal test dropout rate given the DNN model and the attacker?s strategy for generating adversarial examples to trade-off the defense effect and testing accuracy.  (4)  We developed a holistic defensive model compression solution set consisting of defensive to harden DNNs? intrinsic resistance capability to a variety of unknown adversarial attacks. It consists of defensive hash compression to strengthen the decision boundary of pretrained DNN models, and retraining-free gradient inhibition methods to effectively eliminate the remaining impact of adversarial gradients with marginal accuracy loss. The work shows how weight compression-an indispensable technique originally aiming to ease the memory/storage overhead during DNN hardware implementation, can be redesigned for enhancing the robustness of DNN models.  The research findings of this project have been disseminated in the forms of conferences papers and presentations, journal papers, as well as invited seminars. The developed software algorithms have been open sourced in Github and served as new benchmarks for the community to further advance the field. This project is the core of the thesis and project of two graduate students (one Ph.D. and one Master). This EAGER research project supported three graduate students and publications of 12 conference and 1 journal papers in total.                Last Modified: 01/05/2022       Submitted by: Wujie Wen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

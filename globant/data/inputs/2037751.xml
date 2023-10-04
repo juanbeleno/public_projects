@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Software to enable use of robotic liquid handlers to produce synthetic polymers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project lies in the fact that advances in polymer science are a driving force for many technologies. Access to advanced polymers with tailored material properties remains limited to larger companies who can employ teams of in-house chemists. In contrast, small companies and research groups commonly lack the resources to have dedicated chemistry staff, which restricts their ability to develop and access useful materials that are critical for their technology and research. While these groups can attempt to source advanced polymers from the market, their options remain limited as on-demand and custom polymer synthesis remains too costly or labor intensive for companies to adopt. Team Plexymer is looking to use automated polymer synthesis technology to bridge this gap and enable smaller companies and research groups to access advanced polymer materials, empowering and accelerating their ability to develop tomorrow’s technologies.&lt;br/&gt;&lt;br/&gt;This I-Corps project aims to combat the labor intensive and costly effort required to synthesize and test new polymeric materials. Polymers are commonplace in wide variety of industries due to their material diversity and utility in different products ranging from plastics and surface coatings to pharmaceutical formulations. While the potential uses of polymers continue to rapidly expand, synthesis and analytical testing remain painstaking, manual processes. To address this unmet need for custom polymer synthesis, the team has  developed software to direct liquid handling robotic platforms that carry out on-line polymer chemistry and material analytics. So far, prototype efficacy has been demonstrated by successfully synthesizing high quality polymers as well as carrying out multi-step synthesis and chemical modification procedures. Utilizing this technology, batches of up to 96 unique polymer materials can be synthesized simultaneously and have reduced the time required for synthesis and labor by 80%. The team is collaborating with chemical companies to discover novel polymers for pharmaceutical formulations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037751</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Gormley</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adam J Gormley</PI_FULL_NAME>
+<EmailAddress><![CDATA[adam.gormley@rutgers.edu]]></EmailAddress>
+<NSF_ID>000759822</NSF_ID>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>NEW BRUNSWICK</CityName>
+<ZipCode>089018559</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>3 RUTGERS PLZ</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M1LVPE5GLSD9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RUTGERS, THE STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Rutgers University New Brunswick]]></Name>
+<CityName/>
+<StateCode>NJ</StateCode>
+<ZipCode>088545610</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The major goal of the project was to investigate a viable business model for a new startup company named Plexymer, Inc. which is based on automated and intelligent material synthesis technology developed in the lab and Dr. Adam Gormley at Rutgers University. To accomplish this, over 100 customer interviews were conducted to probe the market and to validate or invalidate potential value propositions and customer segments. We hypothesized that members of the pharmaceutical industry could utilize our services to improve drug pharmacokinetics and effectiveness. Here, we learned that the preparation of monoclonal antibodies for high dose subcutaneous administration represents a major unmet need that Plexymer may be able to solve with its technology. We also learned that the life sciences and diagnostics industry has major challenges with cold chain distribution logistics. Based on this information, a business model was established to create novel polymer excipients to stabilize monoclonal antibody drugs and life science enzymes for ambient temperature shipping and storage. Additionally, we sought to gain entrepreneurial training via the NSF I-Corps program and learn the key strategies for developing a successful startup. After the program, we aimed to further develop the skills acquired under the mentorship of the I-Corps program teaching team to continue to iterate on our business model, create a minimum viable product, and submit an application for a Phase I SBIR/STTR grant.&nbsp;This grant is intended to operationally launch Plexymer based on this newly established business model.</p><br> <p>            Last Modified: 03/31/2023<br>      Modified by: Adam&nbsp;J&nbsp;Gormley</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The major goal of the project was to investigate a viable business model for a new startup company named Plexymer, Inc. which is based on automated and intelligent material synthesis technology developed in the lab and Dr. Adam Gormley at Rutgers University. To accomplish this, over 100 customer interviews were conducted to probe the market and to validate or invalidate potential value propositions and customer segments. We hypothesized that members of the pharmaceutical industry could utilize our services to improve drug pharmacokinetics and effectiveness. Here, we learned that the preparation of monoclonal antibodies for high dose subcutaneous administration represents a major unmet need that Plexymer may be able to solve with its technology. We also learned that the life sciences and diagnostics industry has major challenges with cold chain distribution logistics. Based on this information, a business model was established to create novel polymer excipients to stabilize monoclonal antibody drugs and life science enzymes for ambient temperature shipping and storage. Additionally, we sought to gain entrepreneurial training via the NSF I-Corps program and learn the key strategies for developing a successful startup. After the program, we aimed to further develop the skills acquired under the mentorship of the I-Corps program teaching team to continue to iterate on our business model, create a minimum viable product, and submit an application for a Phase I SBIR/STTR grant. This grant is intended to operationally launch Plexymer based on this newly established business model.       Last Modified: 03/31/2023       Submitted by: Adam J Gormley]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

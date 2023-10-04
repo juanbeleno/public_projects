@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Building a visual consensus model of the SARS-CoV-2 life cycle]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>173405.00</AwardTotalIntnAmount>
+<AwardAmount>173405</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Cyr</SignBlockName>
+<PO_EMAI>rcyr@nsf.gov</PO_EMAI>
+<PO_PHON>7032928440</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The COVID-19 epidemic has motivated hundreds (if not thousands) of biological researchers around the globe to redirect their research efforts towards the understanding of SARS-CoV-2.  This is leading to an explosion of data and it will be essential to find ways to rapidly digest and integrate new information into a context that facilitates consensus building in the research community. How do researchers and the broader community stay abreast of this flood of information? And how can we quickly move towards building a consensus model of the SARS-CoV-2 life cycle that builds on this explosive body of scientific data and expertise? This work proposes to take a novel and intuitive approach to facilitate scientific discourse and dissemination through the development of:  (1) detailed molecular 3-D  depictions that put a diverse dataset into the context of the SARS-CoV-2 life cycle, and;  (2) provide for annotation tools to be used by researchers to explore and capture scientific discussions that will speed up consensus building to promote a mechanistic understanding of how this virus works.  If successful, the work will reduce the time of consensus building from years to months. In addition, a graduate student and postdoc will receive training at the intersection of biological and computer sciences. &lt;br/&gt;&lt;br/&gt;Specifically, researchers will work with an international group of SARS-CoV-2 experts to develop detailed and accurate visualizations of all stages of the viral life cycle including cellular entry, RNA replication and transcription, and viral assembly and egress with known energy states, rates, and spatial accuracy. These 3-D visualizations, which will be made freely available online, will be used to stimulate discussions within the scientific community, and will be iteratively updated based on community feedback and new data.  To facilitate consensus building, annotation tools will be developed to interactively describe the data used to generate the visualizations and will also mediate and capture scientific discourse surrounding the various molecular mechanisms involved in viral infection. This project will rapidly produce a rich and publicly accessible collection of knowledge about SARS-CoV-2 biology for the global community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033695</AwardID>
+<Investigator>
+<FirstName>Miriah</FirstName>
+<LastName>Meyer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Miriah Meyer</PI_FULL_NAME>
+<EmailAddress><![CDATA[miriah@cs.utah.edu]]></EmailAddress>
+<NSF_ID>000605720</NSF_ID>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Janet</FirstName>
+<LastName>Iwasa</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Janet Iwasa</PI_FULL_NAME>
+<EmailAddress><![CDATA[jiwasa@biochem.utah.edu]]></EmailAddress>
+<NSF_ID>000786665</NSF_ID>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>201 PRESIDENTS CIR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>Salt Lake City</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841120050</ZipCode>
+<StreetAddress><![CDATA[15 N Medical Drive E]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~173405</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-10bd9377-7fff-edad-a6d9-75fe30b00557"> </span></p> <p dir="ltr">The COVID-19 epidemic has motivated biological researchers around the globe to redirect their research efforts towards the understanding of SARS-CoV-2. As a result, new findings pertaining to SARS-CoV-2 biology have been published at an extraordinarily rapid pace. How do researchers and the broader community stay abreast of this flood of information? And how can we quickly move towards building a consensus model of theSARS-CoV-2 life cycle that builds on this growing body of scientific data and expertise?To address these questions, we proposed a novel approach to facilitating scientific discourse and information dissemination through the development of an online resource that will engage SARS-CoV-2 researchers and enable them to share their data and knowledge through an intuitive visual platform.</p> <p dir="ltr">Our project has two major aims:</p> <p dir="ltr"><span>(1) Create a molecular animation of the SARS-CoV-2 life cycle</span></p> <p dir="ltr"><span>We worked together with an international group of SARS-CoV-2 experts to develop a detailed and accurate visualizations of all stages of the viral life cycle, including entry, RNA replication and transcription, and viral assembly and egress. These animations were used to stimulate discussions within the scientific community.</span></p> <p dir="ltr"><span>(2) Develop annotation tools for capturing SARS-CoV-2 discourse </span></p> <p dir="ltr"><span>In parallel with animation development, we built web-based tools to mediate and capture scientific discussions generated by the animated models through integrated annotation mechanisms, and we&nbsp; transparently disseminated the knowledge captured through annotations through structured visualizations of the annotations themselves. Scientists viewing the animation are able to add their own annotations &mdash; such as links to relevant data sets and publications or opposing hypotheses for specific points in the life cycle &mdash; while also engaging with annotations added by others.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 08/24/2022<br>      Modified by: Janet&nbsp;Iwasa</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2033695/2033695_10676189_1661360143186_highRes_fusion--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2033695/2033695_10676189_1661360143186_highRes_fusion--rgov-800width.jpg" title="Coronavirus entry"><img src="/por/images/Reports/POR/2022/2033695/2033695_10676189_1661360143186_highRes_fusion--rgov-66x44.jpg" alt="Coronavirus entry"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Still image for a 3d animation depicting the SARS-CoV-2 life cycle.</div> <div class="imageCredit">Janet Iwasa</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Janet&nbsp;Iwasa</div> <div class="imageTitle">Coronavirus entry</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2033695/2033695_10676189_1661360244942_highRes_virus--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2033695/2033695_10676189_1661360244942_highRes_virus--rgov-800width.jpg" title="SARS-CoV-2"><img src="/por/images/Reports/POR/2022/2033695/2033695_10676189_1661360244942_highRes_virus--rgov-66x44.jpg" alt="SARS-CoV-2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Illustration of the SARS-CoV-2 virus. This is a still image taken from a 3D animation of the SARS-CoV-2 life cycle.</div> <div class="imageCredit">Janet Iwasa</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Janet&nbsp;Iwasa</div> <div class="imageTitle">SARS-CoV-2</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   The COVID-19 epidemic has motivated biological researchers around the globe to redirect their research efforts towards the understanding of SARS-CoV-2. As a result, new findings pertaining to SARS-CoV-2 biology have been published at an extraordinarily rapid pace. How do researchers and the broader community stay abreast of this flood of information? And how can we quickly move towards building a consensus model of theSARS-CoV-2 life cycle that builds on this growing body of scientific data and expertise?To address these questions, we proposed a novel approach to facilitating scientific discourse and information dissemination through the development of an online resource that will engage SARS-CoV-2 researchers and enable them to share their data and knowledge through an intuitive visual platform. Our project has two major aims: (1) Create a molecular animation of the SARS-CoV-2 life cycle We worked together with an international group of SARS-CoV-2 experts to develop a detailed and accurate visualizations of all stages of the viral life cycle, including entry, RNA replication and transcription, and viral assembly and egress. These animations were used to stimulate discussions within the scientific community. (2) Develop annotation tools for capturing SARS-CoV-2 discourse  In parallel with animation development, we built web-based tools to mediate and capture scientific discussions generated by the animated models through integrated annotation mechanisms, and we  transparently disseminated the knowledge captured through annotations through structured visualizations of the annotations themselves. Scientists viewing the animation are able to add their own annotations &mdash; such as links to relevant data sets and publications or opposing hypotheses for specific points in the life cycle &mdash; while also engaging with annotations added by others.          Last Modified: 08/24/2022       Submitted by: Janet Iwasa]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

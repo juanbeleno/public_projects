@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Artificial Intelligence (AI) Enabled 3-Dimensional (3D) Imaging for COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to improve COVID-19 treatments by providing imaging information to assess the severity and progression of the disease. Chest computed tomography (CT) has been shown to be sensitive to COVID-19 via the observation of ground-glass opacities and is being used on patients with acute symptoms. Practical considerations such as high radiation to the patient and cross contamination risk from moving the patient for imaging must be taken into account in the decision to image with CT. A 3D imaging solution that is low cost, low radiation, and mobile could provide advantages and bring quality of care while integrating efficiently in the hospital workflow. Along with addressing the current crisis, the usage of this solution to address other respiratory diseases would secure strong commercial potential for this research.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project seeks to develop and validate an artificial intelligence (AI)-enabled 3D imaging reconstruction algorithm that can be used to assess the severity and progression of respiratory diseases such as COVID-19. Current chest imaging technologies can either provide adequate image quality or efficient imaging of the lungs, but not both. Two major advances could make the imaging more efficient while also providing the required image quality. Scatter modeling has been shown to be successful in improving image quality when reconstructing from few radiographs; Preliminary data shows how Machine Learning (ML) can be integrated to enhance efficient imaging to provide higher quality images. A 3D image creation algorithm that models X-ray scatter and uses ML to reconstruct 3D images from rapid radiographs will enable using 3D imaging for respiratory diseases including COVID-19.  This algorithm will be validated on cadaveric models to assess if an AI-enabled imaging system that is mobile, that can be used bedside, and that is easily draped for sterile utilization is feasible.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036690</AwardID>
+<Investigator>
+<FirstName>Cristian</FirstName>
+<LastName>Atria</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cristian Atria</PI_FULL_NAME>
+<EmailAddress><![CDATA[cristian.atria@nviewmed.com]]></EmailAddress>
+<NSF_ID>000645295</NSF_ID>
+<StartDate>12/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>nView medical Inc.</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841091649</ZipCode>
+<PhoneNumber>9787128742</PhoneNumber>
+<StreetAddress>2681 E PARLEYS WAY</StreetAddress>
+<StreetAddress2><![CDATA[STE 107]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V2K5S1FH9VC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NVIEW MEDICAL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[nView medical Inc.]]></Name>
+<CityName>Salt Lake City</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841091618</ZipCode>
+<StreetAddress><![CDATA[2681 E Parleys way, ste 107]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-e5b71823-7fff-2580-8649-761b4a2a920e"> </span></p> <p dir="ltr"><span id="docs-internal-guid-717cb3b3-7fff-47c0-057b-81feeee294e3"><span>Imaging can be an aid in the treatment of patients affected by COVID-19 by providing information on the severity and amount of lung inflammation. COVID-19 induces lung opacities that are visible in CT, allowing the quantification of unhealthy tissue and improving the prognosis.</span><span><span>&nbsp;</span></span><span>But transporting patients to the CT scanner can be detrimental to the health of the patient, creates cross contamination risks to others, and adds cost. Mobile Chest X-Ray would be logistically practical as it can be used at the point-of-care and is low-cost, but has limited sensitivity as it gathers very limited imaging data</span><span>.</span></span></p> <p dir="ltr"><span id="docs-internal-guid-717cb3b3-7fff-47c0-057b-81feeee294e3"><span>T</span></span>his SBIR research aimed at developing a novel AI-enabled 3D imaging process (AI3D) that - like Chest-X-Ray - can be used at the point of care, but that provides 3D images similar to CT. AI3D uses limited imaging data gathered at the point of care, but leverages prior information from hundreds of prior CT-scans to provide an image that is similar to CT. The prior information is introduced via Neural Networks trained via Machine Learning.</p> <p dir="ltr">AI3D was tested on specimens with lung opacities. Expert evaluations proved that AI3D is better than Chest-X-Ray and similar to CT for quantifying lung opacities.</p> <p><span id="docs-internal-guid-53444a0c-7fff-9d1c-1099-2f07d16fd7d7"> </span></p> <div>AI3D can be developed as a point of care imaging technology to improve COVID-19 prognosis and to address other point-of care diagnostic applications.</div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 11/29/2021<br>      Modified by: Cristian&nbsp;Atria</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2036690/2036690_10711649_1638214355976_Screenshot2021-11-29122741--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2036690/2036690_10711649_1638214355976_Screenshot2021-11-29122741--rgov-800width.jpg" title="CT (left) vs AI3D (right)"><img src="/por/images/Reports/POR/2021/2036690/2036690_10711649_1638214355976_Screenshot2021-11-29122741--rgov-66x44.jpg" alt="CT (left) vs AI3D (right)"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Lung images with COVID-19 inflammation (grey) and healthy tissue (black)</div> <div class="imageCredit">nView medical</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Cristian&nbsp;Atria</div> <div class="imageTitle">CT (left) vs AI3D (right)</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2036690/2036690_10711649_1638214450369_nView_system--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2036690/2036690_10711649_1638214450369_nView_system--rgov-800width.jpg" title="The nView s1 system with AI3D"><img src="/por/images/Reports/POR/2021/2036690/2036690_10711649_1638214450369_nView_system--rgov-66x44.jpg" alt="The nView s1 system with AI3D"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Mobile nView s1 system with AI3D</div> <div class="imageCredit">nView medical</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Cristian&nbsp;Atria</div> <div class="imageTitle">The nView s1 system with AI3D</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Imaging can be an aid in the treatment of patients affected by COVID-19 by providing information on the severity and amount of lung inflammation. COVID-19 induces lung opacities that are visible in CT, allowing the quantification of unhealthy tissue and improving the prognosis. But transporting patients to the CT scanner can be detrimental to the health of the patient, creates cross contamination risks to others, and adds cost. Mobile Chest X-Ray would be logistically practical as it can be used at the point-of-care and is low-cost, but has limited sensitivity as it gathers very limited imaging data. This SBIR research aimed at developing a novel AI-enabled 3D imaging process (AI3D) that - like Chest-X-Ray - can be used at the point of care, but that provides 3D images similar to CT. AI3D uses limited imaging data gathered at the point of care, but leverages prior information from hundreds of prior CT-scans to provide an image that is similar to CT. The prior information is introduced via Neural Networks trained via Machine Learning. AI3D was tested on specimens with lung opacities. Expert evaluations proved that AI3D is better than Chest-X-Ray and similar to CT for quantifying lung opacities.    AI3D can be developed as a point of care imaging technology to improve COVID-19 prognosis and to address other point-of care diagnostic applications.             Last Modified: 11/29/2021       Submitted by: Cristian Atria]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

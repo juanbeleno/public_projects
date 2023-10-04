@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CNS Core: Small: Scalable ACID Transactions for Persistent Memory Databases]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>284985.00</AwardTotalIntnAmount>
+<AwardAmount>284985</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Brunvand</SignBlockName>
+<PO_EMAI>ebrunvan@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project addresses the inability of current database systems to keep up with the ever growing demands of applications that analyze and extract information from machine-generated data sets, such as Internet-of-Things sensors and machine-learning systems. Intuitively, doubling a system's computing resources should double the load that the system can process per unit of time, but that is not true of today's databases: beyond a fairly modest system size, adding more computing resources does not scale to proportionate gains in performance.  The key reason is that databases, to perform correctly, must limit concurrent access to some critical data structures: adding more resources increases competition for access to these data structures, creating a bottleneck for the system's performance.  This project introduces a key innovation towards scalable databases. It frees the database from the need, whenever a databases record is modified,  to  immediately update  range indexes---a common form of data organization in databases that tend to become  a hotspot when databases try to scale up their computing resources. To remove this bottleneck, this project develops a  new scalable interface: per-processor-core queues absorb index updates and merge them  in the shared range index data structures periodically, in the background. Eliminating synchronous updates to range indices does not weaken the database guarantees:  the standard correctness criterion of serializability is achieved by globally ordering transactional updates using multi-part timestamps derived from a system-wide clock; data durability is achieved by storing per-core queues in non-volatile memory;  and a new data structure ensures that reads performed on individual records return their most-recently committed value.&lt;br/&gt;&lt;br/&gt;Databases are a critical component of modern planet-scale applications. By eliminating scalability bottlenecks and leveraging emerging non volatile memory technology, this project will dramatically reduce the cost to provision databases. In particular, a large fraction of operational cost in multi-billion-dollar data centers is spent on powering a growing number of servers. Improving the scalability of multiple processor cores will increase the density of database deployments, reducing drastically the number of servers required to provision a database: the savings can defer the need for new data centers and storage devices, as more useful work is achieved with existing servers, or reduce energy consumption for existing workloads. The work will also influence  the education of the next generation of database engineers. Proposed lecture and project materials will prepare students to identify scalable database designs when responding to future changes in hardware and application workloads.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008884</AwardID>
+<Investigator>
+<FirstName>Simon</FirstName>
+<LastName>Peter</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Simon Peter</PI_FULL_NAME>
+<EmailAddress><![CDATA[simpeter@cs.washington.edu]]></EmailAddress>
+<NSF_ID>000724078</NSF_ID>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787595316</ZipCode>
+<StreetAddress><![CDATA[3925 W Braker Lane, Suite 3340]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~135295</FUND_OBLG>
+</Award>
+</rootTag>

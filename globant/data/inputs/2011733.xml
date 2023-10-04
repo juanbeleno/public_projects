@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Advancements in Divergence-Free Approximations for Incompressible Flow]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>286039.00</AwardTotalIntnAmount>
+<AwardAmount>286039</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+<PO_EMAI>ygorb@nsf.gov</PO_EMAI>
+<PO_PHON>7032922113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Accurate computations of fluid flow models have a direct impact on simulations and predictions in various applications, e.g., weather and climate, aircraft design, etc. Typically, such computations are based on discretizations of partial differential equations that model the physics of the underlying system. These approximations introduce errors into the simulations that need to be rigorously quantified in order to make reliable simulations and predictions. This project will construct accurate, structure-preserving computational schemes that exactly enforce the underlying physical laws at the discrete level in fluid flow models. This attribute leads to high fidelity schemes that are robust with respect to several model parameters. A particular focus of the project is to develop and analyze computational algorithms that reduce geometric error and thus yield provably accurate answers. In addition, the project aims to provide user-friendly methods; in particular, the project will incorporate modules into current computational and open source software to improve usability, portability, and outreach.&lt;br/&gt;&lt;br/&gt;This project will construct finite element methods for the Stokes and Navier-Stokes equations that exactly enforce the divergence-free constraint at the discrete level. Such discretizations have several desirable properties, for example, improved stability and error estimates with respect to model parameters, exact conservation properties for any discretization parameter, and characterizations of discrete divergence-free subspaces.  However, current divergence-free finite element methods are impractically high-order and arduous to implement. This project will identify and construct simple divergence-free finite element methods with an emphasis on the three-dimensional setting and on methods that can be incorporated into current finite element software. Divergence-free finite element methods on domains with curved boundaries that are robust with respect to both model parameters and the geometry will also be developed and analyzed. This will consist of studying both isoparametric divergence-free finite element methods and fictitious domain approaches.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011733</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Neilan</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael J Neilan</PI_FULL_NAME>
+<EmailAddress><![CDATA[neilan@pitt.edu]]></EmailAddress>
+<NSF_ID>000508271</NSF_ID>
+<StartDate>06/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152600001</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>4200 FIFTH AVENUE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MKAGLD59JRL1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pittsburgh]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152132303</ZipCode>
+<StreetAddress><![CDATA[123 University Place]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0122</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~95903</FUND_OBLG>
+<FUND_OBLG>2021~93756</FUND_OBLG>
+<FUND_OBLG>2022~96380</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The precision of computational models in fluid flow is a critical factor for ensuring accurate simulations and predictions in a wide array of applications, from weather forecasting to aircraft design. These models largely rely on discretizations of partial differential equations (PDEs) that capture the physics of the systems. </span><span>This project constructed and analyzed novel computational methods for PDE models of incompressible fluids, with an emphasis on the exact enforcement of several conservation laws. Such computational schemes have several desirable properties (e.g., enhanced stability, robustness with respect to model parameters, etc.), leading to high-fidelity simulations.&nbsp;</span></p> <p><span><strong>Intellectual Merit: </strong>The project made significant advancements in two areas. First, we developed efficient, low-order computational methods for incompressible fluid models that yield divergence-free solutions. These schemes have computational costs similar to traditional methods for incompressible flow. Moreover, their design allows for seamless integration into existing software platforms, making them readily accessible for implementation. Second, we constructed and analyzed several structure-preserving schemes designed for complex geometries. Here, we utilized two methodologies: fitted and unfitted mesh strategies. In the fitted approach, the geometry is approximated by high-order approximations that mitigate geometric error and are conducive for accurate simulations. In the unfitted mesh strategy, the geometry is situated in a background mesh, and the computational methods are modified to account for this discrepancy. This unfitted mesh approach is advantageous for, e.g., PDEs posed on evolving domains, as remeshing is not required.</span></p> <p><span><strong>Broader Impacts:</strong> The project has impact on researchers and practitioners in computational fluid dynamics and simulations that require high-fidelity approximations of incompressible flow. The resulting robust computational methods are simple, user-friendly, and supported in existing computational software programs. This feature improves the methods&rsquo;</span><span> usability, portability, and outreach.</span></p> <p><span>Two graduate students, Baris Otus and Haoran Liu, contributed to and were supported by the project.&nbsp; Five publications associated with the project were co-authored with these students.&nbsp; By the project&rsquo;s conclusion, both Otus and Liu had successfully earned their PhDs.</span></p><br> <p>            Last Modified: 08/10/2023<br>      Modified by: Michael&nbsp;J&nbsp;Neilan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The precision of computational models in fluid flow is a critical factor for ensuring accurate simulations and predictions in a wide array of applications, from weather forecasting to aircraft design. These models largely rely on discretizations of partial differential equations (PDEs) that capture the physics of the systems. This project constructed and analyzed novel computational methods for PDE models of incompressible fluids, with an emphasis on the exact enforcement of several conservation laws. Such computational schemes have several desirable properties (e.g., enhanced stability, robustness with respect to model parameters, etc.), leading to high-fidelity simulations.   Intellectual Merit: The project made significant advancements in two areas. First, we developed efficient, low-order computational methods for incompressible fluid models that yield divergence-free solutions. These schemes have computational costs similar to traditional methods for incompressible flow. Moreover, their design allows for seamless integration into existing software platforms, making them readily accessible for implementation. Second, we constructed and analyzed several structure-preserving schemes designed for complex geometries. Here, we utilized two methodologies: fitted and unfitted mesh strategies. In the fitted approach, the geometry is approximated by high-order approximations that mitigate geometric error and are conducive for accurate simulations. In the unfitted mesh strategy, the geometry is situated in a background mesh, and the computational methods are modified to account for this discrepancy. This unfitted mesh approach is advantageous for, e.g., PDEs posed on evolving domains, as remeshing is not required.  Broader Impacts: The project has impact on researchers and practitioners in computational fluid dynamics and simulations that require high-fidelity approximations of incompressible flow. The resulting robust computational methods are simple, user-friendly, and supported in existing computational software programs. This feature improves the methods’ usability, portability, and outreach.  Two graduate students, Baris Otus and Haoran Liu, contributed to and were supported by the project.  Five publications associated with the project were co-authored with these students.  By the project’s conclusion, both Otus and Liu had successfully earned their PhDs.       Last Modified: 08/10/2023       Submitted by: Michael J Neilan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

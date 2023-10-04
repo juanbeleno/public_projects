@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Electronic Tattoos for Detection of Pre-symptoms of Infection]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Texas A&amp;M University (TAMU) and University of Texas (UT) proposes a smart and miniaturized patch using graphene-based electronic tattoos (e-tattoos) and a suite of algorithms to extract core body temperature to be used to detect pre-symptoms of infection, with significant utility in understanding and controlling the spread of respiratory and non-respiratory viral infection including coronavirus COVID-19. Skin temperature plays an important role in detecting pre-symptoms of infection. The project provides three intellectual merits: 1) It creates a novel structure that intelligently interfaces a fully flexible graphene-based e-tattoo to rigid printed circuit board using thin film permanent or current-controlled magnets to avoid breakage and for improved mechanical robustness for unobtrusive skin temperature sensing. 2) The project also creates machine learning and deep learning algorithms that leverage the physiological times-series acquired from sensors to predict the core body temperature and will lead to determining pre-symptoms of infection while handling noisy data and enabling personalization of the computational models for each individual using the concept of denoising autoencoders and meta learning. 3) The project creates various techniques to address the real-time operation of the proposed prediction algorithm based on deep learning on low power microcontrollers (MCUs) including methods that strictly use fixed point operations. Given the slow rate of change in the physiological signals and their sparsity, this project will leverage differential sensing over various time scales. These signals can be processed by simplified deep neural network architectures with reduced mathematical operations that facilitates running it on the MCUs for detection.&lt;br/&gt;&lt;br/&gt;The broader impact of this project includes a direct response to the COVID-19 pandemic, aiming at protecting healthcare workers and patients through creating novel sensors with significant utility to generate actionable information. Additionally, in light of the growing interest in wearable electronics, this pioneering research effort at the intersection of software, hardware and systems on unconventional e-tattoo platforms can result in breakthrough in data mining and intelligent sensor architecture for mobile health, fitness and computing enabling a larger number of applications. The proposed novel sensing paradigm will provide opportunities for semi-conductor companies to consider new market opportunities and manufacture billions of chips.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031674</AwardID>
+<Investigator>
+<FirstName>Roozbeh</FirstName>
+<LastName>Jafari</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roozbeh Jafari</PI_FULL_NAME>
+<EmailAddress><![CDATA[rjafari@tamu.edu]]></EmailAddress>
+<NSF_ID>000150786</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Deji</FirstName>
+<LastName>Akinwande</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Deji Akinwande</PI_FULL_NAME>
+<EmailAddress><![CDATA[deji@ece.utexas.edu]]></EmailAddress>
+<NSF_ID>000559739</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>3124 TAMU</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>College Station</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778454645</ZipCode>
+<StreetAddress><![CDATA[400 Harvey Mitchell Pkwy S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Infectious diseases are the leading cause of death worldwide, with respiratory infections causing the highest number of deaths. The apparent symptoms of the infection may appear a few days or even weeks after exposure while the infection is spreading around. Therefore, early prediction of infection is vital to slow down its development and prevent possible failure of the lungs, heart, or liver. Although the apparent symptoms of the infection typically appear a few days after the exposure, there are specific changes in the physiological state of the human body that appear instantly, called pre-symptoms. One of such essential parameters is body temperature. In this project, we approached the problem by developing a wearable electronic tattoo system for body temperature monitoring. In this work, we utilize graphene electronic tattoos (GETs) as perfectly adhering to skin temperature sensors. The GETs are fully flexible, whereas the silicon and computational resources are rigid, creating a hybrid device: soft and imperceptible interface with the skin, yet utilizing custom off-the-shelf electronic components for effective electrical readout.</p> <p>Our results and findings demonstrate a successful proof of concept, paired with AI algorithms converting skin temperature data into actionable information that can lead to detected of elevated body temperature or fever at the earliest phase.</p> <p>This project also trained several undergraduate and graduate students as well as a post-doctoral scholar who will continue their career in this discipline creating novel sensors and systems for the applications of digital health.</p> <p>&nbsp;</p><br> <p>            Last Modified: 02/16/2023<br>      Modified by: Roozbeh&nbsp;Jafari</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Infectious diseases are the leading cause of death worldwide, with respiratory infections causing the highest number of deaths. The apparent symptoms of the infection may appear a few days or even weeks after exposure while the infection is spreading around. Therefore, early prediction of infection is vital to slow down its development and prevent possible failure of the lungs, heart, or liver. Although the apparent symptoms of the infection typically appear a few days after the exposure, there are specific changes in the physiological state of the human body that appear instantly, called pre-symptoms. One of such essential parameters is body temperature. In this project, we approached the problem by developing a wearable electronic tattoo system for body temperature monitoring. In this work, we utilize graphene electronic tattoos (GETs) as perfectly adhering to skin temperature sensors. The GETs are fully flexible, whereas the silicon and computational resources are rigid, creating a hybrid device: soft and imperceptible interface with the skin, yet utilizing custom off-the-shelf electronic components for effective electrical readout.  Our results and findings demonstrate a successful proof of concept, paired with AI algorithms converting skin temperature data into actionable information that can lead to detected of elevated body temperature or fever at the earliest phase.  This project also trained several undergraduate and graduate students as well as a post-doctoral scholar who will continue their career in this discipline creating novel sensors and systems for the applications of digital health.          Last Modified: 02/16/2023       Submitted by: Roozbeh Jafari]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

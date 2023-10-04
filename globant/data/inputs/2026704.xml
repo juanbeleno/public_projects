@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:  Collaborative Research:  III:  Exploring Physics Guided Machine Learning for Accelerating Sensing and Physical Sciences</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50194.00</AwardTotalIntnAmount>
+<AwardAmount>50194</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amarda Shehu</SignBlockName>
+<PO_EMAI>ashehu@nsf.gov</PO_EMAI>
+<PO_PHON>7032928191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>As machine learning (ML) continues to revolutionize the commercial space including vision, speech, and&lt;br/&gt;text recognition, there is great anticipation in the scientific community to unlock the power of ML for&lt;br/&gt;accelerating scientific discovery. However, black-box ML models, which rely solely on training data and&lt;br/&gt;ignore existing scientific knowledge have met with limited success in scientific problems, particularly&lt;br/&gt;when labeled data is limited, sometimes even leading to spectacular failures. This is because the black&lt;br/&gt;box ML models are susceptible to learning spurious relationships that do not generalize well outside the&lt;br/&gt;data they are trained for. The emerging paradigm of physics-guided machine learning (PGML), which&lt;br/&gt;leverages the unique ability of ML algorithms to automatically extract patterns and models from data with&lt;br/&gt;guidance of the knowledge accumulated in physics (or scientific theories), aims to address the challenges&lt;br/&gt;faced by black box ML in scientific applications. Significant exploratory efforts are needed to formulate and assess sound PGML approaches for particular scientific problems.&lt;br/&gt;&lt;br/&gt;For data science, PGML has the potential to transform ML beyond black-box applications by enabling&lt;br/&gt;solutions that generalize well even on unseen input-output distributions that are different from those&lt;br/&gt;encountered during training, by anchoring ML methods with the scientific body of knowledge. PGML makes a distinct&lt;br/&gt;departure from the conventional view that physics-based models and ML models are developed in&lt;br/&gt;isolation but seldom mixed together. The proposed project is fundamentally different from existing body&lt;br/&gt;of research that attempts to combine ML and domain sciences, e.g., by making use of domain-specific&lt;br/&gt;knowledge in ML algorithms in simplistic ways, or making use of data in the physics-based modeling&lt;br/&gt;process albeit without allowing data to change the functional forms of existing physics-based models. The tight interplay between data science and the domains of physics and sensing in the project lends itself&lt;br/&gt;naturally to diverse education activities that complement the research tasks outlined by our team. Over the&lt;br/&gt;duration of this one-year project, the team will develop an integrative course at the graduate level on "ML&lt;br/&gt;meets Physics", which explores topical, emerging themes in this interdisciplinary area. Offerings of the&lt;br/&gt;course will draw upon course modules shared between the four universities, such as shared guest videos&lt;br/&gt;and case studies. The physics department at BU has a well-developed "Physics Outreach Project" that&lt;br/&gt;annually performs science exhibitions for elementary schools in Binghamton metropolitan area, for which&lt;br/&gt;the team will create a new exhibition about neural networks and ML. In follow-on work, similar outreach&lt;br/&gt;events will be replicated at schools (Robinson Middle School in Lowell and Metro STEM Middle School&lt;br/&gt;in Columbus). The PIs are committed to increasing the diversity of involvement at various levels of the&lt;br/&gt;training ecosystem impacted by this project, and have planned various coordinated broader impact&lt;br/&gt;activities for inclusion of female and underrepresented minority students as well as faculty.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026704</AwardID>
+<Investigator>
+<FirstName>Anish</FirstName>
+<LastName>Arora</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anish K Arora</PI_FULL_NAME>
+<EmailAddress>anish@cse.ohio-state.edu</EmailAddress>
+<PI_PHON>6142648771</PI_PHON>
+<NSF_ID>000378457</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>1960 KENNY RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>Columbus</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50194</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>As machine learning (ML) continues to advance the quality of human life through developments in machine vision, automatic translation, and medicine, there is a rising expectation that ML will advance the process of scientific discovery itself. However, modern mainstream black-box machine learning tools tend to learn on data alone and do not consider existing body of scientific knowledge. In this collaborative EAGER project, a team of researchers from Ohio State University, University of Massachusetts Lowell, Binghamton University, and Virginia Tech University aimed at exploring the pathways for embedding the scientific knowledge into ML process. Specifically, the interdisciplinary team aimed at developing the ML algorithms that help solve eigenvalue problems in quantum mechanics and electromagnetism and algorithms that enhance the efficiency of ML models.&nbsp;</p> <p>In the case of quantum mechanics, the collaboration between OSU and BU has led to a more efficient and scalable physics guided neural network (PGNN). Previous attempts to solve the Schrodinger's equation have employed physics loss in training a feed-forward network (FFN) to predict the 2<sup>N</sup> wave function coefficients resulting from all&nbsp;2<sup>N</sup> configuration states corresponding to the lowest energy eigenvector for a N-spin Ising model. However, this approach is not scalable because the output layer of the FFN is of the order of dimension d of Hamiltonian matrix which grows exponentially as d = 2<sup>N</sup>, where N is the number of spins.</p> <p>We employ physics knowledge in two separate ways, unlike the prior attempt, which only used it in the training loss. Firstly, we use physics to decompose the 2<sup>N</sup> configuration states into subspaces and assign an <em>Expert </em>model to learn only the targets in its own subspace. The subspace to <em>Expert </em>assignment is based on the quantum number of S<sub>z</sub> which is known to be sensitive to the quantum phase transition. Each <em>Expert </em>model therefore needs to learn only a small fraction of 2<sup>N</sup> targets. Additionally, each model is tasked to predict only one target at a time corresponding to a particular state. Second, we leverage a PG loss function, like the prior approach, to enforce the global constraint among the wavefunction components of all 2<sup>N</sup> states, which aids the <em>Ensemble of Experts (EE)</em> to be more generalizable.</p> <p>We use a 10-spin Ising model to illustrate the efficacy of our approach. We produce <em>EE</em><em> </em>that has 50x fewer parameters than the 2<sup>N</sup> output FFN model without compromising on the test loss. This allows us to work on a much larger N-spin system that cannot be trained easily by the previous approach.</p> <p>In a separate project aimed at scalable generation of radar data, OSU leveraged a modest size corpus of short-range radar data that it had collected in experiments over the past decade and enabled the use of a large corpus of simulation radar data to generate a large corpus of realistic radar data via a physics-guided generative adversarial network. The effort developed programmatic trace generation via a simulation framework that extends the Carla mobility simulator.</p><br> <p>            Last Modified: 09/17/2021<br>      Modified by: Anish&nbsp;K&nbsp;Arora</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2026704/2026704_10665348_1631885193240_PGMLOutcomesReportImage1--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2026704/2026704_10665348_1631885193240_PGMLOutcomesReportImage1--rgov-800width.jpg" title="Illustrating PGML for Scalable Machine Learning"><img src="/por/images/Reports/POR/2021/2026704/2026704_10665348_1631885193240_PGMLOutcomesReportImage1--rgov-66x44.jpg" alt="Illustrating PGML for Scalable Machine Learning"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Schematic illustration of collaborative expert machines. Left: Atraditional large single machine designed to learn all targets serves as the baseline model. Right: In the Ensemble of Experts approach, the learning targets are classified into several subgroups which is learned by separate Experts.</div> <div class="imageCredit">Wei-Cheng Lee</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Anish&nbsp;K&nbsp;Arora</div> <div class="imageTitle">Illustrating PGML for Scalable Machine Learning</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2026704/2026704_10665348_1631885263290_PGMLOutcomesReportImage2--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2026704/2026704_10665348_1631885263290_PGMLOutcomesReportImage2--rgov-800width.jpg" title="Illustrating PGML for Sensor Data Generation"><img src="/por/images/Reports/POR/2021/2026704/2026704_10665348_1631885263290_PGMLOutcomesReportImage2--rgov-66x44.jpg" alt="Illustrating PGML for Sensor Data Generation"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A radar embedded (in the car in this example) is used to simulate a radar trace corresponding to the foreground targets (pedestrian to the right of the car in the example) and the other background objects in the scene.  A large number of such traces serve as input to the physics guided GAN training.</div> <div class="imageCredit">Sharika Kumari</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Anish&nbsp;K&nbsp;Arora</div> <div class="imageTitle">Illustrating PGML for Sensor Data Generation</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ As machine learning (ML) continues to advance the quality of human life through developments in machine vision, automatic translation, and medicine, there is a rising expectation that ML will advance the process of scientific discovery itself. However, modern mainstream black-box machine learning tools tend to learn on data alone and do not consider existing body of scientific knowledge. In this collaborative EAGER project, a team of researchers from Ohio State University, University of Massachusetts Lowell, Binghamton University, and Virginia Tech University aimed at exploring the pathways for embedding the scientific knowledge into ML process. Specifically, the interdisciplinary team aimed at developing the ML algorithms that help solve eigenvalue problems in quantum mechanics and electromagnetism and algorithms that enhance the efficiency of ML models.   In the case of quantum mechanics, the collaboration between OSU and BU has led to a more efficient and scalable physics guided neural network (PGNN). Previous attempts to solve the Schrodinger's equation have employed physics loss in training a feed-forward network (FFN) to predict the 2N wave function coefficients resulting from all 2N configuration states corresponding to the lowest energy eigenvector for a N-spin Ising model. However, this approach is not scalable because the output layer of the FFN is of the order of dimension d of Hamiltonian matrix which grows exponentially as d = 2N, where N is the number of spins.  We employ physics knowledge in two separate ways, unlike the prior attempt, which only used it in the training loss. Firstly, we use physics to decompose the 2N configuration states into subspaces and assign an Expert model to learn only the targets in its own subspace. The subspace to Expert assignment is based on the quantum number of Sz which is known to be sensitive to the quantum phase transition. Each Expert model therefore needs to learn only a small fraction of 2N targets. Additionally, each model is tasked to predict only one target at a time corresponding to a particular state. Second, we leverage a PG loss function, like the prior approach, to enforce the global constraint among the wavefunction components of all 2N states, which aids the Ensemble of Experts (EE) to be more generalizable.  We use a 10-spin Ising model to illustrate the efficacy of our approach. We produce EE that has 50x fewer parameters than the 2N output FFN model without compromising on the test loss. This allows us to work on a much larger N-spin system that cannot be trained easily by the previous approach.  In a separate project aimed at scalable generation of radar data, OSU leveraged a modest size corpus of short-range radar data that it had collected in experiments over the past decade and enabled the use of a large corpus of simulation radar data to generate a large corpus of realistic radar data via a physics-guided generative adversarial network. The effort developed programmatic trace generation via a simulation framework that extends the Carla mobility simulator.       Last Modified: 09/17/2021       Submitted by: Anish K Arora]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

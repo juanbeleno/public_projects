@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: A Portal to Support Models for Assessing Strategies for Hospitals in the COVID-19 and other Pandemics - MASH-Pandemics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yueyue Fan</SignBlockName>
+<PO_EMAI>yfan@nsf.gov</PO_EMAI>
+<PO_PHON>7032924453</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This Rapid Response Research (RAPID) grant will develop the Models for Assessing Strategies for Hospitals (MASH) in Pandemics (MASH-Pandemics) Portal with requisite modeling capabilities urgently needed by hospitals and regions in responding to the COVID-19 pandemic. Important perishable, time-sensitive data and information to support this effort will be collected. MASH-Pandemics will build on previously developed sophisticated, detailed discrete-event simulation-based hospital capacity and capability analysis models of typical U.S. urban hospitals. This RAPID project will support the re-specification of these models, data collection, model runs, and results analysis, outcomes from which will aid hospital administrators and regions in making optimal operational changes and collaboration plans enabled through state and national emergency declarations in response to the COVID-19 outbreak. An online portal will be constructed on which details of the modeling capabilities, practical findings and recommendations, along with potential policy implications, for responding to the COVID-19 pandemic will be posted. Additionally, run requests from hospitals, hospital collaborations and geographical regions will be taken through the portal. This work will generate crucial synthetic data needed to develop quick recommendations and analyses in a period where time is of the essence. Key outputs will include, for example: potential for various modified operational strategies to benefit hospital performance and patient survival, hospital collaboration strategies to aid regional response, anticipating critical supply needs to mobilize and prioritize support from supply chains (or Federal response capabilities), and recommendations for effective implementation of capacity enhancement strategies (alternative standards of care, modified operations, demand management). The project will provide input to educational activities in the future, once the project is complete and the pandemic subsides. The focus of this work during the period of performance will be on providing, as quickly as possible, crucially needed recommendations to hospitals and regions based on results from runs of high-quality models. &lt;br/&gt;&lt;br/&gt;This RAPID award will advance mathematical modeling techniques for capturing critical hospital services during crises. It employs concepts of open queuing networks, discrete event simulation, stochastic modeling, transient system analysis, and statistical methods. The work will collect critical, perishable data, and will generate crucial synthetic data for rapid analysis and prediction urgently needed in this period of a global COVID-19 pandemic. With its quantitative approach, the project will enhance hospital readiness, capacity and capability, by identifying means for efficiently using severely limited, critical personnel and physical resources, the allocation of which will affect the survival of potentially thousands of lives and the safety of health care workers along with support staff. Findings from this effort will directly support hospitals at the front line, or regions in COVID-19 “hot spots,” by providing the opportunity to request runs and receive analyses of the effectiveness of COVID-19 response strategies and collaboration mechanisms. It is anticipated that the run requests will come in a variety of forms, requiring data collection, modeling work, investigation to capture stochastic processes with input distributions and parameters, and results analyses. The models can be quickly enhanced and mobilized, and initial findings and recommendations made public in only weeks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027624</AwardID>
+<Investigator>
+<FirstName>Elise</FirstName>
+<LastName>Miller-Hooks</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Elise D Miller-Hooks</PI_FULL_NAME>
+<EmailAddress><![CDATA[miller@gmu.edu]]></EmailAddress>
+<NSF_ID>000187128</NSF_ID>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Mason University</Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress>4400 UNIVERSITY DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EADLFP7Z72E5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE MASON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EADLFP7Z72E5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Mason University]]></Name>
+<CityName>Fairfax</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>220304422</ZipCode>
+<StreetAddress><![CDATA[4400 University Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project extended previously developed whole-hospital, resource-constrained, patient-based, stochastic, discrete-event simulation (DES) modeling capabilities to provide quantitative tools for assessing hospital capacity for serving COVID-19 pandemic patients. The models incorporate COVID-19 care paths and accompanying work flows, special equipment including ventilators and personal protective equipment, modifications to operations, including repurposing of hospital space, and the application of crisis standards of care. The models build on a generic 200-bed urban U.S. tertiary hospital serving routine emergency and COVID-19 patients. Four surge levels were considered that correspond with changing COVID-19 pandemic conditions of a hospital's service area: Getting Ready, Initial Onset, Outbreak, and Hot Spot. Systematically-designed, numerical experiments were conducted to assess potential strategies for increasing hospital capacity to handle demand surges and considers the timing for implementing and withdrawing these strategies as surge demand ebbs and flows. Numerical details of these and numerous other findings are given in five journal articles and on the team site: mash-pandemics.vse.gmu.edu. Example outcomes:</p> <p><strong>Outbreak: Implementing Crisis Standards or Other Interventions for Added Capacity</strong></p> <p><em>Finding 1.</em> Treatments that reduce COVID-19 patient intensive care length of stay (LOS) by one day increase a hospital's ICU capacity by 24%.</p> <p><strong>Hot Spot: Unified COVID-19 Care Increases Capacity</strong></p> <p><em>Finding 2.</em><strong> </strong>COVID-19 designated hospitals can serve up to five times the number of COVID-19 patients compared with a similar facility accepting mixed patients.</p> <p><strong>Switch Points</strong></p> <p><em>Finding 3</em>. There are two key switch points when hospitals must introduce strategies for increasing capacity or dedicate all resources to COVID-19 treatment to meet COVID-19 patient surge. Without such action, it may become necessary to ration care. A hospital can prepare for action by predicting the timing of these points.</p> <p><span style="white-space: pre;"> </span>To meet surge demand, many hospitals have needed to convert space and reassign personnel and equipment resources to the ICU and isolation rooms. The project developed additional tools to support hospital managers in taking decisions related to COVID-19 patient treatment in extreme surge conditions. To this end, a mixed-integer mathematical program with embedded equations using concepts of queueing theory and Jackson networks was developed for estimating steady-state maximum capacity in COVID-19 patient care that can be gained from repurposing space and optimally reassigning a heterogeneous staff within a hospital to create a COVID-19 only facility. An alternative closed-form, equation-based approach was created that decision-makers without optimization or software expertise can use to obtain similar estimates.</p> <p><span style="white-space: pre;"> </span>Community-based nonpharmaceutical interventions (NPIs) have been used throughout the COVID-19 pandemic to "flatten the curve." Considering transient operational conditions, this project quantified the value of "flattening"<br /> the curve on the risk of a hospital bed shortage even when the total number of patients in need of critical pandemic-related hospital care remains constant. It asked, "Why is a flatter curve better?"</p> <p><strong>Flattening the Curve</strong></p> <p><em>Finding 4</em>. The higher the acceleration in pandemic patient demand growth, the greater the impact of the intervention. Cutting this acceleration by 75% from the greatest studied rate created over four additional weeks to prepare for an 80% risk of running out of intensive care beds.</p> <p><span style="white-space: pre;"> </span>The project also contributed to the development of methodologies for assessing the resilience of hospitals to cyberattacks and analyzing the effects of different response strategies.</p> <p class="MDPI17abstract"><strong>Ransomware Attack</strong></p> <p><em>Finding 5. </em>In the generic study hospital, paying the ransom resulted in short-term gains, but did not pay off in the longer term.</p> <p><span style="white-space: pre;"> </span>The project also developed techniques for estimating the maximum number of pandemic patients with intensive care and/or in-patient, isolation requirements that can be served by a consortium of hospitals in a region before requesting external resources. Estimates can provide an upper bound on the number of patients that can be treated within a region if all hospital resources are re-allocated for pandemic care. Methodologically, it was found that a giant, single hospital representation of all regional resources can provide a tight upper bound on the maximum hospital capacity for surge demand for a coalition.</p> <p><span style="white-space: pre;"> </span>This project sought to capture details from the field as conditions unfold. The work pivoted numerous times to capture changing pandemic dynamics, access to quickly shifting and growing expert information and changing protocols, and changing COVID-19 variant characteristics. The use of synthetic data developed from runs of a simulator eliminated issues of confounding affects from the simultaneous occurrence of regional response actions and/or changes in resources, treatments and other situational circumstances that arises from real patient data. It also provides insights without the need for internal review or the possibility of disclosing personal information.</p> <p><span style="white-space: pre;"> </span>Estimates and findings obtained through this project can aid in assessing regional healthcare capacity during surges in pandemic patient demand, predicting shortfalls, and designing preparedness and response actions. Developments from this work have been integrated within the content of an optimization course. The project benefited greatly from the cooperation of the World Bank Group and numerous individuals.</p> <p>&nbsp;</p><br> <p>            Last Modified: 05/04/2022<br>      Modified by: Elise&nbsp;D&nbsp;Miller-Hooks</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project extended previously developed whole-hospital, resource-constrained, patient-based, stochastic, discrete-event simulation (DES) modeling capabilities to provide quantitative tools for assessing hospital capacity for serving COVID-19 pandemic patients. The models incorporate COVID-19 care paths and accompanying work flows, special equipment including ventilators and personal protective equipment, modifications to operations, including repurposing of hospital space, and the application of crisis standards of care. The models build on a generic 200-bed urban U.S. tertiary hospital serving routine emergency and COVID-19 patients. Four surge levels were considered that correspond with changing COVID-19 pandemic conditions of a hospital's service area: Getting Ready, Initial Onset, Outbreak, and Hot Spot. Systematically-designed, numerical experiments were conducted to assess potential strategies for increasing hospital capacity to handle demand surges and considers the timing for implementing and withdrawing these strategies as surge demand ebbs and flows. Numerical details of these and numerous other findings are given in five journal articles and on the team site: mash-pandemics.vse.gmu.edu. Example outcomes:  Outbreak: Implementing Crisis Standards or Other Interventions for Added Capacity  Finding 1. Treatments that reduce COVID-19 patient intensive care length of stay (LOS) by one day increase a hospital's ICU capacity by 24%.  Hot Spot: Unified COVID-19 Care Increases Capacity  Finding 2. COVID-19 designated hospitals can serve up to five times the number of COVID-19 patients compared with a similar facility accepting mixed patients.  Switch Points  Finding 3. There are two key switch points when hospitals must introduce strategies for increasing capacity or dedicate all resources to COVID-19 treatment to meet COVID-19 patient surge. Without such action, it may become necessary to ration care. A hospital can prepare for action by predicting the timing of these points.   To meet surge demand, many hospitals have needed to convert space and reassign personnel and equipment resources to the ICU and isolation rooms. The project developed additional tools to support hospital managers in taking decisions related to COVID-19 patient treatment in extreme surge conditions. To this end, a mixed-integer mathematical program with embedded equations using concepts of queueing theory and Jackson networks was developed for estimating steady-state maximum capacity in COVID-19 patient care that can be gained from repurposing space and optimally reassigning a heterogeneous staff within a hospital to create a COVID-19 only facility. An alternative closed-form, equation-based approach was created that decision-makers without optimization or software expertise can use to obtain similar estimates.   Community-based nonpharmaceutical interventions (NPIs) have been used throughout the COVID-19 pandemic to "flatten the curve." Considering transient operational conditions, this project quantified the value of "flattening"  the curve on the risk of a hospital bed shortage even when the total number of patients in need of critical pandemic-related hospital care remains constant. It asked, "Why is a flatter curve better?"  Flattening the Curve  Finding 4. The higher the acceleration in pandemic patient demand growth, the greater the impact of the intervention. Cutting this acceleration by 75% from the greatest studied rate created over four additional weeks to prepare for an 80% risk of running out of intensive care beds.   The project also contributed to the development of methodologies for assessing the resilience of hospitals to cyberattacks and analyzing the effects of different response strategies. Ransomware Attack  Finding 5. In the generic study hospital, paying the ransom resulted in short-term gains, but did not pay off in the longer term.   The project also developed techniques for estimating the maximum number of pandemic patients with intensive care and/or in-patient, isolation requirements that can be served by a consortium of hospitals in a region before requesting external resources. Estimates can provide an upper bound on the number of patients that can be treated within a region if all hospital resources are re-allocated for pandemic care. Methodologically, it was found that a giant, single hospital representation of all regional resources can provide a tight upper bound on the maximum hospital capacity for surge demand for a coalition.   This project sought to capture details from the field as conditions unfold. The work pivoted numerous times to capture changing pandemic dynamics, access to quickly shifting and growing expert information and changing protocols, and changing COVID-19 variant characteristics. The use of synthetic data developed from runs of a simulator eliminated issues of confounding affects from the simultaneous occurrence of regional response actions and/or changes in resources, treatments and other situational circumstances that arises from real patient data. It also provides insights without the need for internal review or the possibility of disclosing personal information.   Estimates and findings obtained through this project can aid in assessing regional healthcare capacity during surges in pandemic patient demand, predicting shortfalls, and designing preparedness and response actions. Developments from this work have been integrated within the content of an optimization course. The project benefited greatly from the cooperation of the World Bank Group and numerous individuals.          Last Modified: 05/04/2022       Submitted by: Elise D Miller-Hooks]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

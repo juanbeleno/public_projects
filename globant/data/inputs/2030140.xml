@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative Research: Modeling and Learning-based Design of Social Distancing Policies for COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Goldberg</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Human contacts underlie the spread of any infectious diseases including COVID-19. For COVID-19, the widely implemented social distancing policies are designed precisely to drastically reduce individual travels and the resulting contacts. In a number of States, these policies have effectively reduced the peak number of infections. These policies have also come with huge costs on the society, economy and people’s lives: US economy has largely come to a halt and the number of unemployment claims has now exceeded the worst of the 2008-2009 financial crisis. This rapid COVID-19 application will develop a novel meta-population level model simulating the spread of COVID-19 and utilize reinforcement learning to explore optimal congregation restriction policies for social distancing. &lt;br/&gt;&lt;br/&gt;The technical approach will develop an SIQR (Susceptible, Infected, Quarantined, and Recovered) model integrated with reinforcement learning for continuous monitoring and policy adjustment. The SIQR model is built on the classic literature of the SIR (susceptible, infectious and recovered) and SEIR (susceptible, exposed, infectious, and recovered) models and enhances their capability to capture the unique quarantine features for COVID-19. The key focus of the proposed project is on the connection of the SIQR model to reinforcement learning to realize a control loop that provides optimal policy in spite of sparse and noisy observations. This is an important contribution to this emerging, interdisciplinary science of infectious disease modeling and control. The results of this project will have both immediate importance for designing the response to COVID-19 and also contribute to the broader development of an interdisciplinary education and research program involving infectious disease modeling, reinforcement learning and machine learning of big data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030140</AwardID>
+<Investigator>
+<FirstName>Cynthia</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cynthia Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[qzchen@u.washington.edu]]></EmailAddress>
+<NSF_ID>000199372</NSF_ID>
+<StartDate>05/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 BROOKLYN AVE NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF WASHINGTON VICE PR</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981952700</ZipCode>
+<StreetAddress><![CDATA[4333 Brooklyn Ave NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Background:</strong><strong>&nbsp;</strong></p> <p>Since the start of the COVID-19 pandemic, social distancing has been key to curb the spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Social distancing policies around the world have largely been made based upon reported case data: the rise/fall of cases are coupled with recommendations for tighter/looser policies. It is widely known that underreporting exists in case data, due to limited test capacity, asymptotic cases or unwillingness to test etc. Yet, there is little to no understanding of how underreporting in case data may affect the performance of social distancing policies designed using such data.</p> <p>&nbsp;</p> <p><strong>Objective:</strong></p> <p>This study aims to evaluate the impacts of underreporting on social distancing policies that are designed based on various rationales and the resulting disease trajectories. If the policy maker is aware of the underreporting issue, efforts could be made to correct it. Whether correction of underreporting mitigates its impacts is also investigated.</p> <p>&nbsp;</p> <p><strong>Methods:</strong></p> <p>The project developed an SIQR (Susceptible, Infected, Quarantined, and Recovered) model integrated with three controllers for continuous monitoring and policy adjustment. The SIQR model is built on the classic literature of the SIR (susceptible, infectious and recovered) and SEIR (susceptible, exposed, infectious, and recovered) models and enhances their capability to capture the unique ?quarantine? features for COVID-19. The project designs a setting with 100,000 population and starting case numbers, and selects three policy-making rationales (called ?controllers?) from existing literature: an Flattening-the-Curve (FC) controller that maximizes allowable transmission rate while ensuring hospital capacity is not exceeded; a Time-Limited-Intervention (TLI) controller to minimize the number of infectious people with policies of fixed durations; and a Minimizing-Health-and-Economic-Costs-with-Reinforcement-Learning (MC-RL) controller to minimize weighted public health and economic costs. For each controller, the recommended social distancing policies and consequent disease trajectories are compared among different scenarios where there is no underreporting, where there is underreporting but without correcting it, and where there is underreporting with corrections.</p> <p>&nbsp;</p> <p><strong>Results:</strong></p> <p>Under the influence of underreporting, the FC controller is found to recommend stricter policies; the TLI controller recommends stricter policies at the beginning but more relaxed policies later; and the MC-RL controller recommends stricter policies when hospital capacity is low and more relaxed policies otherwise. For disease trajectories, the FC and TLI controllers result in higher and later peaks under the influence of underreporting; and the MC-RL controller will result in more people being infectious if policies are designed with underreported data, especially when hospital capacity is low. Correction of underreporting mitigates the above impacts of underreporting for the FC and TLI controllers, but for the MC-RL controller, whether correction mitigates or exaggerates those impacts varies with the controller?s parameters that define the hospital capacity in a region and severity of the disease.</p> <p><strong>Conclusions:</strong></p> <p>Policies designed using underreported data cannot achieve preset control objectives, and how the disease trajectory will unfold under such policies may bring unexpected outcomes and catch policy makers off guard. Our findings emphasize the high stakes if the underreporting issue is ignored or under-/over-corrected in the response to resurgence of COVID-19 or possible outbreaks of new infectious diseases.<strong>&nbsp;</strong></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/06/2022<br>      Modified by: Cynthia&nbsp;Chen</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Background:   Since the start of the COVID-19 pandemic, social distancing has been key to curb the spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Social distancing policies around the world have largely been made based upon reported case data: the rise/fall of cases are coupled with recommendations for tighter/looser policies. It is widely known that underreporting exists in case data, due to limited test capacity, asymptotic cases or unwillingness to test etc. Yet, there is little to no understanding of how underreporting in case data may affect the performance of social distancing policies designed using such data.     Objective:  This study aims to evaluate the impacts of underreporting on social distancing policies that are designed based on various rationales and the resulting disease trajectories. If the policy maker is aware of the underreporting issue, efforts could be made to correct it. Whether correction of underreporting mitigates its impacts is also investigated.     Methods:  The project developed an SIQR (Susceptible, Infected, Quarantined, and Recovered) model integrated with three controllers for continuous monitoring and policy adjustment. The SIQR model is built on the classic literature of the SIR (susceptible, infectious and recovered) and SEIR (susceptible, exposed, infectious, and recovered) models and enhances their capability to capture the unique ?quarantine? features for COVID-19. The project designs a setting with 100,000 population and starting case numbers, and selects three policy-making rationales (called ?controllers?) from existing literature: an Flattening-the-Curve (FC) controller that maximizes allowable transmission rate while ensuring hospital capacity is not exceeded; a Time-Limited-Intervention (TLI) controller to minimize the number of infectious people with policies of fixed durations; and a Minimizing-Health-and-Economic-Costs-with-Reinforcement-Learning (MC-RL) controller to minimize weighted public health and economic costs. For each controller, the recommended social distancing policies and consequent disease trajectories are compared among different scenarios where there is no underreporting, where there is underreporting but without correcting it, and where there is underreporting with corrections.     Results:  Under the influence of underreporting, the FC controller is found to recommend stricter policies; the TLI controller recommends stricter policies at the beginning but more relaxed policies later; and the MC-RL controller recommends stricter policies when hospital capacity is low and more relaxed policies otherwise. For disease trajectories, the FC and TLI controllers result in higher and later peaks under the influence of underreporting; and the MC-RL controller will result in more people being infectious if policies are designed with underreported data, especially when hospital capacity is low. Correction of underreporting mitigates the above impacts of underreporting for the FC and TLI controllers, but for the MC-RL controller, whether correction mitigates or exaggerates those impacts varies with the controller?s parameters that define the hospital capacity in a region and severity of the disease.  Conclusions:  Policies designed using underreported data cannot achieve preset control objectives, and how the disease trajectory will unfold under such policies may bring unexpected outcomes and catch policy makers off guard. Our findings emphasize the high stakes if the underreporting issue is ignored or under-/over-corrected in the response to resurgence of COVID-19 or possible outbreaks of new infectious diseases.                 Last Modified: 08/06/2022       Submitted by: Cynthia Chen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

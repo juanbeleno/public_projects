@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: A Smart Sensing System for Online Machine Health Monitoring]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a smart sensing system capable of real-time, continuous condition monitoring of a machine’s health status. The goal is to reduce operation costs by optimizing the maintenance schedule and eliminating the need for costly shutdowns for inspection, while also avoiding catastrophic component failure during operation.  Its comprehensive monitoring of both debris and multiple oil properties with real-time analysis is expected to transform condition monitoring of rotating and reciprocating machines used in the wind farm, transportation, manufacturing and defense industries.  Along with high sensitivity and compact size, it will be a powerful instrument for online health monitoring and life prognosis for bearings, turbomachinery gearboxes, and even combustion engines.  &lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a smart sensing system for online machine health monitoring. The technology uses a unique inductive pulse sensing technology  combined with a multiplexed microfluidic device enabling the detection of individual wear debris (20+ microns), enabling continuous monitoring of the entire wear progression from inception. In addition, real-time big data processing is used to significantly reduce the data size to be analyzed and stored, enabling real-time online monitoring. The system also uses a property-sensing array enabling accurate lubricant measurement of multiple characteristics.  The artificial neural network is used to pinpoint individual oil properties from the overlapped sensor responses with high accuracy and speed, eliminating cross-sensitivities and providing complete machine health information.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027849</AwardID>
+<Investigator>
+<FirstName>Jiang</FirstName>
+<LastName>Zhe</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Dr.</PI_SUFX_NAME>
+<PI_FULL_NAME>Jiang Zhe</PI_FULL_NAME>
+<EmailAddress><![CDATA[jzhe@uakron.edu]]></EmailAddress>
+<NSF_ID>000493904</NSF_ID>
+<StartDate>07/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gopal</FirstName>
+<LastName>Nadkarni</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gopal D Nadkarni</PI_FULL_NAME>
+<EmailAddress><![CDATA[gnadkarni1@uakron.edu]]></EmailAddress>
+<NSF_ID>000730925</NSF_ID>
+<StartDate>07/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Akron</Name>
+<CityName>AKRON</CityName>
+<ZipCode>443250002</ZipCode>
+<PhoneNumber>3309722760</PhoneNumber>
+<StreetAddress>302 BUCHTEL COMMON</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DFNLDECWM8J8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF AKRON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>DFNLDECWM8J8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Akron]]></Name>
+<CityName>Akron</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>443250001</ZipCode>
+<StreetAddress><![CDATA[302 Buchtel Commons]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The threat of catastrophic machine failure in heavy equipment and trucking cause serious economic burdens to the customers. Currently the industry relies on offline oil monitoring techniques to monitor the machine's health status, adding unnecessary testing delays and unscheduled maintenance, and significantly increases operation costs. While comprehensive maintenance programs including maintenance records, oil lab testing, and statistical data are used to predict and reduce maintenance issues, struggles with unplanned maintenance still exist which accounting for a large percentage of maintenance budgets.&nbsp; Researchers at University of Akron have developed an intelligent online lubricant oil health monitoring system to maintain and extend the health of large machinery, aiming to transfer the technology from the lab towards commercialization.</p> <p>With the I-Corps funding from National Science Foundation, the University of Akron's team has conducted over 140 customer interviews from industries.. Within these industries the roles represented were equipment managers, operations managers, engineers, technicians, upper management, and other relevant personnel. Through the extensive discussions with potential customers, the <strong>Value Proposition of the Oil Monitor sensing system </strong>is a much needed oil condition monitoring innovation that has the ability to: 1) monitor the very early onset wear progression in real time with higher resolution than competitors and 2) to predict remaining useful life of every at-line machine by accurately detecting multiple important oil properties. The potential to reduce over twenty percent (20%) maintenance cost savings for large fleets and high value assets with significant economic benefits have been validated by the customer discoveries. The <strong>Customer segment is </strong>managers of large machinery and equipment and power generation systems aiming to avoid catastrophic machine failure, reduce the high maintenance cost and increase asset utilization. &nbsp;Via the I-Corps findings, a startup company, Zsense, is formed by UA's I-Corps team towards commercializing the sensing system. Zsense has applied several seed funding opportunities, and to date obtained a NSF STTR Phase I award ($256K) and a Great Lakes Innovation and Development Enterprise (GLIDE) fund ($50K) to address a few key technology barriers identified during the I-Corps customer interview.</p> <p>&nbsp;The unique capabilities of the sensing system include: a) it can detect severe wear progression earlier than competitive technologies, with higher accuracy, b) it can processes the huge amount of the raw data stream online, which tremendously increases speed, and enables high throughput oil analysis and subsequent real time cloud computing, and c) it is capable of distinguishing overlapped responses from multiple oil condition monitoring sensors that has not been achieved before in any commercial system. The transfer of this technology will lead to a commercially available oil monitor system that is expected to provide an important early warning of mechanical failure and will be used to develop more efficient maintenance schedules to reduce machine operation costs and avoid catastrophic failure.&nbsp;</p> <p>&nbsp;This "high-end low-cost system" has the ability to bring the sensing capabilities "downstream" to the midmarket including mining/transportation machinery and power generators. The broader economic impact of this system can be illustrated with a simple example of a gearbox being down with a estimated downtime cost of $1000/day. Multiply this one system by the thousands of complex systems in manufacturing, earth moving mining segment to power generation sector where potential societal losses can run to millions of dollars/day for premature failure or unnecessary scheduled maintenance. A prognostic system that will be able to predict an impending failure and alert users based on oil condition prior to failure will become invaluable and lead to enormous cost, energy, time savings with large cascading effects on sustainability.&nbsp;&nbsp;</p> <p>In terms of education and outreach, during the project, a graduate student was trained on how to 1) discover customers and conduct effective interviews, 2) pivot customer segments, 3) discover preliminary business model, 4), identify and seek proper funding opportunities and 5) work with technology focused researchers and move research from lab to practice. The student chose to take the entrepreneur path and became the CEO of the new startup company.</p> <p>&nbsp;</p><br> <p>            Last Modified: 07/08/2022<br>      Modified by: Jiang&nbsp;Zhe</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2027849/2027849_10683247_1657310022671_Outcome-Fig1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2027849/2027849_10683247_1657310022671_Outcome-Fig1--rgov-800width.jpg" title="Assembled Oil monitoring system for machine health monitoring. A) 6 debris sensors and B) 4 property sensors"><img src="/por/images/Reports/POR/2022/2027849/2027849_10683247_1657310022671_Outcome-Fig1--rgov-66x44.jpg" alt="Assembled Oil monitoring system for machine health monitoring. A) 6 debris sensors and B) 4 property sensors"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Researchers at Univ. of Akron developed a prototype sensing system that can provide online lubricant oil health monitoring system to maintain and extend the health of large machinery.</div> <div class="imageCredit">Joseph James</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Jiang&nbsp;Zhe</div> <div class="imageTitle">Assembled Oil monitoring system for machine health monitoring. A) 6 debris sensors and B) 4 property sensors</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The threat of catastrophic machine failure in heavy equipment and trucking cause serious economic burdens to the customers. Currently the industry relies on offline oil monitoring techniques to monitor the machine's health status, adding unnecessary testing delays and unscheduled maintenance, and significantly increases operation costs. While comprehensive maintenance programs including maintenance records, oil lab testing, and statistical data are used to predict and reduce maintenance issues, struggles with unplanned maintenance still exist which accounting for a large percentage of maintenance budgets.  Researchers at University of Akron have developed an intelligent online lubricant oil health monitoring system to maintain and extend the health of large machinery, aiming to transfer the technology from the lab towards commercialization.  With the I-Corps funding from National Science Foundation, the University of Akron's team has conducted over 140 customer interviews from industries.. Within these industries the roles represented were equipment managers, operations managers, engineers, technicians, upper management, and other relevant personnel. Through the extensive discussions with potential customers, the Value Proposition of the Oil Monitor sensing system is a much needed oil condition monitoring innovation that has the ability to: 1) monitor the very early onset wear progression in real time with higher resolution than competitors and 2) to predict remaining useful life of every at-line machine by accurately detecting multiple important oil properties. The potential to reduce over twenty percent (20%) maintenance cost savings for large fleets and high value assets with significant economic benefits have been validated by the customer discoveries. The Customer segment is managers of large machinery and equipment and power generation systems aiming to avoid catastrophic machine failure, reduce the high maintenance cost and increase asset utilization.  Via the I-Corps findings, a startup company, Zsense, is formed by UA's I-Corps team towards commercializing the sensing system. Zsense has applied several seed funding opportunities, and to date obtained a NSF STTR Phase I award ($256K) and a Great Lakes Innovation and Development Enterprise (GLIDE) fund ($50K) to address a few key technology barriers identified during the I-Corps customer interview.   The unique capabilities of the sensing system include: a) it can detect severe wear progression earlier than competitive technologies, with higher accuracy, b) it can processes the huge amount of the raw data stream online, which tremendously increases speed, and enables high throughput oil analysis and subsequent real time cloud computing, and c) it is capable of distinguishing overlapped responses from multiple oil condition monitoring sensors that has not been achieved before in any commercial system. The transfer of this technology will lead to a commercially available oil monitor system that is expected to provide an important early warning of mechanical failure and will be used to develop more efficient maintenance schedules to reduce machine operation costs and avoid catastrophic failure.    This "high-end low-cost system" has the ability to bring the sensing capabilities "downstream" to the midmarket including mining/transportation machinery and power generators. The broader economic impact of this system can be illustrated with a simple example of a gearbox being down with a estimated downtime cost of $1000/day. Multiply this one system by the thousands of complex systems in manufacturing, earth moving mining segment to power generation sector where potential societal losses can run to millions of dollars/day for premature failure or unnecessary scheduled maintenance. A prognostic system that will be able to predict an impending failure and alert users based on oil condition prior to failure will become invaluable and lead to enormous cost, energy, time savings with large cascading effects on sustainability.    In terms of education and outreach, during the project, a graduate student was trained on how to 1) discover customers and conduct effective interviews, 2) pivot customer segments, 3) discover preliminary business model, 4), identify and seek proper funding opportunities and 5) work with technology focused researchers and move research from lab to practice. The student chose to take the entrepreneur path and became the CEO of the new startup company.          Last Modified: 07/08/2022       Submitted by: Jiang Zhe]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

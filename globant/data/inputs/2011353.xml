@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Software platform to bridge the gap between code editors and visuals editors in digital marketing agencies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of technologies that can bridge the gap between code editors (Programming languages such as Excel formulas, LaTeX, HTML, PHP, C#, Python) and visuals editors (Excel, PowerPoint, Word, Website builders). The software platform makes it much easier for novice users to transition from visual editors to code editors. More specifically, this software technology may provide the ability for businesses to edit a website visually, even if it is made of custom code or based on complex content management systems. The time savings it may make would mean billions of dollars saved for the U.S. economy.&lt;br/&gt;&lt;br/&gt;This I-Corps project explores translation of a technology providing the ability for visual editors to understand code programming languages like a code editor/developer. This technology enables propagation of changes back from the output to the source file itself, in a flexible way. It has been proven that related algorithms can be applied to real-world programming languages, with robustness guarantees.  Elements of the solution include an add-on for live-editable formulas in collaborative docs, a reversible build engine, and a reversible HTTPS server.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011353</AwardID>
+<Investigator>
+<FirstName>Ravi</FirstName>
+<LastName>Chugh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ravi Chugh</PI_FULL_NAME>
+<EmailAddress><![CDATA[rchugh@cs.uchicago.edu]]></EmailAddress>
+<NSF_ID>000677688</NSF_ID>
+<StartDate>06/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606375418</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>5801 S ELLIS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUE9HKT2CLC9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CHICAGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ZUE9HKT2CLC9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Chicago]]></Name>
+<CityName/>
+<StateCode>IL</StateCode>
+<ZipCode>606371468</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-b7f9cfac-7fff-9254-4052-b87105a05dc1"> </span></p> <p dir="ltr"><span>WordPress powers 40% of the global web. The 120,000 website agencies in the United States routinely face a daunting task to train their clients to use the administration interface of WordPress. Moreover, editing content and layout through such content management systems have the problem that untrained users can easily break the design, adding undesired maintenance costs. Ideally, clients could modify their websites visually, directly as displayed in the browser.</span></p> <p dir="ltr">This project pursued a prototype for a universal visual editing plugin for WordPress that allows users to directly edit websites, using bidirectional evaluation techniques that analyze the PHP language to automatically update the code.</p> <p dir="ltr">Through 115 NSF I-Corps interviews, we identified our target market in content management systems as well as which pain points our plugin would solve, to determine the commercial impact if this plugin were to be fully developed. Over the course of the project, three engineers joined our effort to develop the first reversible PHP interpreter. Three agencies prepaid to test the plugin once it is finished, and we found that 95% of the agencies were interested in eventually buying such a plugin. We optimized our engine and eventually made the prototype work for a full WordPress page with several plugins in less than 40 minutes. This roughly suggests a cost of four cents per page, which would make the cost of this technology feasible when compared to the budget agencies are willing to spend for such tasks.</p> <p>(This project was led by Mikael Mayer.)</p><br> <p>            Last Modified: 05/13/2022<br>      Modified by: Ravi&nbsp;Chugh</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   WordPress powers 40% of the global web. The 120,000 website agencies in the United States routinely face a daunting task to train their clients to use the administration interface of WordPress. Moreover, editing content and layout through such content management systems have the problem that untrained users can easily break the design, adding undesired maintenance costs. Ideally, clients could modify their websites visually, directly as displayed in the browser. This project pursued a prototype for a universal visual editing plugin for WordPress that allows users to directly edit websites, using bidirectional evaluation techniques that analyze the PHP language to automatically update the code. Through 115 NSF I-Corps interviews, we identified our target market in content management systems as well as which pain points our plugin would solve, to determine the commercial impact if this plugin were to be fully developed. Over the course of the project, three engineers joined our effort to develop the first reversible PHP interpreter. Three agencies prepaid to test the plugin once it is finished, and we found that 95% of the agencies were interested in eventually buying such a plugin. We optimized our engine and eventually made the prototype work for a full WordPress page with several plugins in less than 40 minutes. This roughly suggests a cost of four cents per page, which would make the cost of this technology feasible when compared to the budget agencies are willing to spend for such tasks.  (This project was led by Mikael Mayer.)       Last Modified: 05/13/2022       Submitted by: Ravi Chugh]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Extremely compact, low-power sensing nodes that may fulfill the promise of smart dust]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is to explore applications of new wirelessly connected sensors.  The proposed technology advances a an ultra-low-power sensor device for the Internet of Things (IoT), smart dust, or edge intelligence (EI) devices. Relative to current sensors, the proposed technology may create 100-fold improvements in the cost of thorough coverage and battery life, virtually eliminating the cost of battery replacement and sensor maintenance. Example applications in agriculture include preventive, cost-effective, and continuous monitoring of temperature, rainfall, wind direction, soil moisture, pests, and illness for informed decision-making.  Other applications may include preventive/therapeutic healthcare, animal welfare, environmental monitoring, transportation, and industrial monitoring.&lt;br/&gt;&lt;br/&gt;This I-Corps project investigates translation of a novel system-on-chip (SoC) with end-to-end computing on asynchronous streams data-path that is composed of Asynchronous Sigma-Delta Modulators (ASDM) for acquiring sensor data, a computing-core for streams, a clock-less wireless interface and an analog memory. The key for the SoC power efficiency is the unique data representation - the ASDM maps analog data to asynchronous streams of 1s and 0s instead of digital numbers. The streams are sent to the computing-core composed of processing elements, such as multipliers and adders. A multiplier for streams may be implemented with a single AND gate and an adder with a 2:1 multiplexer, achieving savings in power and area of up to 90% compared with typical approaches.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041569</AwardID>
+<Investigator>
+<FirstName>Tommy</FirstName>
+<LastName>Tracy</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME>II</PI_SUFX_NAME>
+<PI_FULL_NAME>Tommy J Tracy</PI_FULL_NAME>
+<EmailAddress><![CDATA[tjt7a@virginia.edu]]></EmailAddress>
+<NSF_ID>000833189</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mircea</FirstName>
+<LastName>Stan</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mircea R Stan</PI_FULL_NAME>
+<EmailAddress><![CDATA[mircea@virginia.edu]]></EmailAddress>
+<NSF_ID>000105637</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Barry</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Barry W Johnson</PI_FULL_NAME>
+<EmailAddress><![CDATA[bwj@virginia.edu]]></EmailAddress>
+<NSF_ID>000243314</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate>06/17/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>1001 EMMET ST N</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>Charlottesville</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229044259</ZipCode>
+<StreetAddress><![CDATA[Rice Hall Room 512]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Outcomes Report: CleverMote - NSF I-Corps Program.</p> <p>Intellectual Merit: The CleverMote project, conducted under the NSF I-Corps program, has made significant contributions to the intellectual merit of scientific and technological knowledge in the following ways:</p> <p>Technological Advancement: The CleverMote project initially aimed to develop an innovative system-on-chip (SoC) design for edge-intelligence devices based on Asynchronous Stream Processing principles. However, through rigorous customer discovery interviews conducted during the early stages of the project, valuable insights were gained. As a result, a pivot was made, and the project shifted its focus towards computational RFID technology for low-power sensing nodes. This pivot demonstrated the team's ability to adapt and align the project with market demands, leading to novel technological advancements in low-power sensing and edge computing.</p> <p>Innovative System Design: The CleverMote project successfully developed a Computational RFID IoT system for applications such as Smart Cities/Buildings and Preventive Maintenance/Industry 4.0. Technical advances were made on the design of a custom RFID reader based on a COTS platform from ST Micro, an innovative CRFID tag using a special metal-compatible RF patch antenna and a flexible Pseudo-Battery-Assisted-Passive RFID scheme that achieves the high sensitivity of battery operated tags while still being batteryless. This is achieved by having a secondary energy harvesting path with a long duty cycle that charges a capacitor which acts as the ?Pseudo-Battery.? The research conducted during this project has expanded the knowledge base of low-power sensing and computing, contributing to advancements in the field.</p> <p>Broader Impacts: The CleverMote project has the potential to create broader impacts on society and the economy through the following means:</p> <p>Commercialization Potential: The pivot made early in the project, driven by customer discovery interviews, has significantly enhanced the commercialization potential of CleverMote. By aligning the technology with market demands and focusing on edge-intelligence devices, CleverMote has the potential for widespread adoption in markets such as healthcare, and industrial monitoring. The project's outcomes have paved the way for potential partnerships, licensing agreements, and spin-off ventures that can drive economic growth and job creation.</p> <p>Societal Benefits: The CleverMote technology has the potential to bring about significant societal benefits. By enabling preventive, cost-effective, and continuous monitoring of key factors in various applications, such as temperature, vibration, CleverMote can empower decision-makers to take immediate action during unexpected events or dangerous situations. This technology can lead to improved resource utilization, reduced waste, and enhanced safety measures in sectors such as industry, environmental monitoring, and healthcare.</p> <p>Workforce Development and Education: The CleverMote project has fostered workforce development and education in the fields of science, technology, engineering, and mathematics (STEM). Through their participation in the NSF I-Corps program, the team members, including technical lead Professor Mircea R. Stan and entrepreneurial lead Tommy J. Tracy II, have gained valuable entrepreneurial skills and experiences. These experiences not only enhance their professional growth but also inspire and motivate students in STEM fields, contributing to the development of a skilled workforce.</p> <p>Collaboration and Partnerships: The CleverMote project has facilitated collaborations with industry partners and stakeholders in various sectors. The customer discovery interviews conducted during the early stages of the project allowed for valuable insights and feedback, fostering connections with potential end-users and customers. These collaborations and partnerships will play a crucial role in the successful translation of CleverMote into real-world applications, ensuring that the developed technology meets market needs and achieves maximum societal impact.</p> <p>In conclusion, the CleverMote project, conducted under the NSF I-Corps program, has made significant contributions to intellectual merit and broader impacts. Through the pivot made early in the project based on customer discovery interviews, the team demonstrated their ability to adapt and align their technology with market demands, resulting in the development of an innovative CRFID design for edge-intelligence devices. The project has advanced the knowledge base in low-power sensing and computing paving the way for future research and development.</p><br> <p>            Last Modified: 06/02/2023<br>      Modified by: Mircea&nbsp;R&nbsp;Stan</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2041569/2041569_10705385_1685742523939_Screenshot2023-06-02174329--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2041569/2041569_10705385_1685742523939_Screenshot2023-06-02174329--rgov-800width.jpg" title="CleverMote application for Industry 4.0"><img src="/por/images/Reports/POR/2023/2041569/2041569_10705385_1685742523939_Screenshot2023-06-02174329--rgov-66x44.jpg" alt="CleverMote application for Industry 4.0"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Example CleverMote CRFID tag being able to sense temperature and vibration for predictive maintenance applications for Industry 4.0. The batteryless tags are applied on rotating machinery (motors, pumps) and can the sense and transmit temperature and vibration to a reader that analyzes the data.</div> <div class="imageCredit">Mircea Stan</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Mircea&nbsp;R&nbsp;Stan</div> <div class="imageTitle">CleverMote application for Industry 4.0</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Outcomes Report: CleverMote - NSF I-Corps Program.  Intellectual Merit: The CleverMote project, conducted under the NSF I-Corps program, has made significant contributions to the intellectual merit of scientific and technological knowledge in the following ways:  Technological Advancement: The CleverMote project initially aimed to develop an innovative system-on-chip (SoC) design for edge-intelligence devices based on Asynchronous Stream Processing principles. However, through rigorous customer discovery interviews conducted during the early stages of the project, valuable insights were gained. As a result, a pivot was made, and the project shifted its focus towards computational RFID technology for low-power sensing nodes. This pivot demonstrated the team's ability to adapt and align the project with market demands, leading to novel technological advancements in low-power sensing and edge computing.  Innovative System Design: The CleverMote project successfully developed a Computational RFID IoT system for applications such as Smart Cities/Buildings and Preventive Maintenance/Industry 4.0. Technical advances were made on the design of a custom RFID reader based on a COTS platform from ST Micro, an innovative CRFID tag using a special metal-compatible RF patch antenna and a flexible Pseudo-Battery-Assisted-Passive RFID scheme that achieves the high sensitivity of battery operated tags while still being batteryless. This is achieved by having a secondary energy harvesting path with a long duty cycle that charges a capacitor which acts as the ?Pseudo-Battery.? The research conducted during this project has expanded the knowledge base of low-power sensing and computing, contributing to advancements in the field.  Broader Impacts: The CleverMote project has the potential to create broader impacts on society and the economy through the following means:  Commercialization Potential: The pivot made early in the project, driven by customer discovery interviews, has significantly enhanced the commercialization potential of CleverMote. By aligning the technology with market demands and focusing on edge-intelligence devices, CleverMote has the potential for widespread adoption in markets such as healthcare, and industrial monitoring. The project's outcomes have paved the way for potential partnerships, licensing agreements, and spin-off ventures that can drive economic growth and job creation.  Societal Benefits: The CleverMote technology has the potential to bring about significant societal benefits. By enabling preventive, cost-effective, and continuous monitoring of key factors in various applications, such as temperature, vibration, CleverMote can empower decision-makers to take immediate action during unexpected events or dangerous situations. This technology can lead to improved resource utilization, reduced waste, and enhanced safety measures in sectors such as industry, environmental monitoring, and healthcare.  Workforce Development and Education: The CleverMote project has fostered workforce development and education in the fields of science, technology, engineering, and mathematics (STEM). Through their participation in the NSF I-Corps program, the team members, including technical lead Professor Mircea R. Stan and entrepreneurial lead Tommy J. Tracy II, have gained valuable entrepreneurial skills and experiences. These experiences not only enhance their professional growth but also inspire and motivate students in STEM fields, contributing to the development of a skilled workforce.  Collaboration and Partnerships: The CleverMote project has facilitated collaborations with industry partners and stakeholders in various sectors. The customer discovery interviews conducted during the early stages of the project allowed for valuable insights and feedback, fostering connections with potential end-users and customers. These collaborations and partnerships will play a crucial role in the successful translation of CleverMote into real-world applications, ensuring that the developed technology meets market needs and achieves maximum societal impact.  In conclusion, the CleverMote project, conducted under the NSF I-Corps program, has made significant contributions to intellectual merit and broader impacts. Through the pivot made early in the project based on customer discovery interviews, the team demonstrated their ability to adapt and align their technology with market demands, resulting in the development of an innovative CRFID design for edge-intelligence devices. The project has advanced the knowledge base in low-power sensing and computing paving the way for future research and development.       Last Modified: 06/02/2023       Submitted by: Mircea R Stan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

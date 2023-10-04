@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Vergence tracking for automatically refocusing reading glasses]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+<PO_EMAI>hahn@nsf.gov</PO_EMAI>
+<PO_PHON>7032927069</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the development of automatically refocusing reading glasses for the two billion people with presbyopia, a common form of vision loss with age that prevents focusing on nearby objects. Current presbyopia corrections, such as reading glasses, bifocals, or progressive lenses, are unwieldy or unnatural solutions that do not replace healthy vision. An automatically refocusing system will provide an attractive alternative by restoring natural vision, such that objects are brought into focus according to the user’s gaze. Furthermore, the loss in productivity brought on by presbyopia in workers in industrial sectors will open an immediate opportunity in the aging skilled labor market, where an automatically refocusing system will offer significant benefits and users will tolerate a wider range of form factors. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims to study basic vision science and user behavior in interaction with an automatically refocusing system for presbyopia correction, address design requirements for deployment at scale, and build a prototype system to validate novel focus depth estimation techniques that can reach the power and miniaturization targets of a commercial head-mounted product. Current state-of-the-art eye tracking systems address only the highest performance implementations of full 3D gaze estimation. The main technical objective is the design of a low-power depth estimation technique.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025802</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Konrad</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert Konrad</PI_FULL_NAME>
+<EmailAddress><![CDATA[robert@zinnlabs.com]]></EmailAddress>
+<NSF_ID>000822783</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ZINN LABS, INC.</Name>
+<CityName>MENLO PARK</CityName>
+<ZipCode>940251050</ZipCode>
+<PhoneNumber>5082028339</PhoneNumber>
+<StreetAddress>3905 BOHANNON DR</StreetAddress>
+<StreetAddress2><![CDATA[STE B]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QRXMEH2SC925</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ZINN LABS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ZINN LABS, INC.]]></Name>
+<CityName>Palo Alto</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>943063124</ZipCode>
+<StreetAddress><![CDATA[826 Los Robles Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="page" title="Page 1"> <div class="section"> <div class="layoutArea"> <div class="column"> <p><span>The Phase I project was successful in realizing an eye-in-the-loop, automatically refocusing pair of eyeglasses for presbyopia correction, which we call autofocals. Multiple prototype frames were made as a platform to test and discover key technical requirements of such a system, based on vision science experiments and customer preferences captured through user studies. The prototype frames also served as a platform on which to develop low-power, calibration-free eye tracking techniques as well as evaluate different focus-tunable lens technologies. Two final systems were designed with two potential lens technologies, with eyewear-form-factor accurate housings tethered to a laboratory computer for testing. These systems demonstrate that, with existing components, many of the product specifications identified via user testing can be achieved. </span></p> <p><span>One of the main technical objectives of Phase I was the development of a novel vergence depth estimation algorithm that does not require full point-of-regard eye tracking (to reduce power consumption). This algorithm generates an estimate of the distance to which a user is focusing from camera views of the eyes; the distance estimate is then used to set the power of the focus-tunable optics. In the autofocals application, the goal is to recreate a natural refocusing experience; the glasses should simply work when worn. With this goal in mind, the algorithm we developed is robust to the glasses moving on the head and to them being taken off and put back on. It takes in a pair of images of the left and right eyes, and generates a slippage robust focus distance estimate with a simple, one-time calibration. Through user evaluations we characterized the accuracy and precision of our algorithm as well as the robustness. </span></p> <p><span>The novel vergence tracking algorithm developed in this Phase I research was successful in reducing the user calibration burden, as well as minimizing the compute and power requirements for the camera based eye tracking system. The ultimate limitation toward miniaturization of this system is the remaining compute bottleneck at the pupil segmentation step. As part of the Phase 1 research we identified a number of methods in reducing this bottleneck which are the topic of our continued R&amp;D efforts in Phase 2.</span></p> </div> </div> </div> </div><br> <p>            Last Modified: 10/01/2021<br>      Modified by: Robert&nbsp;Konrad</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[     The Phase I project was successful in realizing an eye-in-the-loop, automatically refocusing pair of eyeglasses for presbyopia correction, which we call autofocals. Multiple prototype frames were made as a platform to test and discover key technical requirements of such a system, based on vision science experiments and customer preferences captured through user studies. The prototype frames also served as a platform on which to develop low-power, calibration-free eye tracking techniques as well as evaluate different focus-tunable lens technologies. Two final systems were designed with two potential lens technologies, with eyewear-form-factor accurate housings tethered to a laboratory computer for testing. These systems demonstrate that, with existing components, many of the product specifications identified via user testing can be achieved.   One of the main technical objectives of Phase I was the development of a novel vergence depth estimation algorithm that does not require full point-of-regard eye tracking (to reduce power consumption). This algorithm generates an estimate of the distance to which a user is focusing from camera views of the eyes; the distance estimate is then used to set the power of the focus-tunable optics. In the autofocals application, the goal is to recreate a natural refocusing experience; the glasses should simply work when worn. With this goal in mind, the algorithm we developed is robust to the glasses moving on the head and to them being taken off and put back on. It takes in a pair of images of the left and right eyes, and generates a slippage robust focus distance estimate with a simple, one-time calibration. Through user evaluations we characterized the accuracy and precision of our algorithm as well as the robustness.   The novel vergence tracking algorithm developed in this Phase I research was successful in reducing the user calibration burden, as well as minimizing the compute and power requirements for the camera based eye tracking system. The ultimate limitation toward miniaturization of this system is the remaining compute bottleneck at the pupil segmentation step. As part of the Phase 1 research we identified a number of methods in reducing this bottleneck which are the topic of our continued R&amp;D efforts in Phase 2.           Last Modified: 10/01/2021       Submitted by: Robert Konrad]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

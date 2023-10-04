@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Transimpedance amplifier (TIA) for sensing systems that converts sensor current to voltage and amplifies the signal]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of small, portable technology for medical devices to improve the quality of life for patients.  Current point-of-care technology in healthcare is often cumbersome, requiring repeated charging, large area/capacity, and many device components.  The proposed technology reduces the number of device components, uses less power, and is lightweight while enhancing the measurement sensitivity.  The initial proposed application is to measure changing glucose levels for diabetic patients.  In addition, this design may be used for other sensing applications, such as disease tracking and other healthcare monitoring, the internet of things, wearable electronics, RF transceivers, photodetectors, military and space applications, electro-encephalograms (EEG), microgyroscopes, biohybrid robotics, and electro-cardiographs (ECG).&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of integrative circuitry that may boost the response signal of devices requiring low power and experiencing low noise or interference.   Based on technical models, simulations, and biosensing input data, the designs are expected to provide more accurate device responses, exhibit low input impedance, low input-referred noise current, low power consumption, low noise, high transimpedance gain, and operate at low voltage compared with current market integrated circuits for monitoring systems.  For example, this technology integrates a signal amplification device (transimpedance amplifier, TIA) that will convert the change of glucose levels to a more accurate measurable signal.  In addition, this device may be used for many different sensing applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051387</AwardID>
+<Investigator>
+<FirstName>Sylvia</FirstName>
+<LastName>Thomas</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sylvia W Thomas</PI_FULL_NAME>
+<EmailAddress><![CDATA[sylvia@usf.edu]]></EmailAddress>
+<NSF_ID>000353845</NSF_ID>
+<StartDate>12/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Florida</Name>
+<CityName>TAMPA</CityName>
+<ZipCode>336205800</ZipCode>
+<PhoneNumber>8139742897</PhoneNumber>
+<StreetAddress>4202 E FOWLER AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NKAZLXLL7Z91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTH FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Florida, Tampa, FL]]></Name>
+<CityName>Tampa</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>336205350</ZipCode>
+<StreetAddress><![CDATA[4202 E. Fowler Ave. ENB 118, Col]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>With the rapid growth of technology to monitor health conditions for biomedical, military, and space arenas, there is a large market need in the field of biosensor technology, growing from USD 15.6 billion in 2016 at a CAGR of 7.9% over the next forecast period ending in 2026.&nbsp; For example, approximately 285 million people suffer from some form of diabetes, and this number is expected to increase to 430 million by 2030. &nbsp;Improved biosensors will be needed to address the grand challenge for a rising diabetic population base.&nbsp; More specifically, diabetes is a disorder associated with an insufficiency of insulin secretion, and many people around the world suffer from this disorder, which can result in damages to eyes, kidneys, nerves and even death. One of the most common methods to detect diabetes is to monitor the levels of glucose (sugar) in the blood stream using biosensors.&nbsp; Through a patented design, this work seeks to contribute to improving the biotechnology to sense glucose levels in patients by making devices that are smaller and more efficient and can use less power and filter noise signals. &nbsp;In addition to healthcare, these types of sensors can also be used for the internet of things, wearable electronics, RF transceivers, photodetectors, military and space technologies. This I-Corps effort has allowed 4 engineers to be trained in the art of developing a pathway to commercialization for products investigated and fabricated in a university research lab and to outreach to K-12 and larger communities to inform them of these emerging technologies. The large-scale impact of this innovation will be the preservation of thousands of lives due to timely treatment and monitoring of health conditions for patients, particularly for diabetic patients initially.&nbsp; The designs offered by AmpSense will expand beyond the initial market of glucose monitoring systems with additional patented designs for other sensing technologies.&nbsp; A typical customer profile would be biomedical device companies, IC designers, and/or manufacturers of sensing and monitoring systems.&nbsp; Major players in the biomedical industry include Genentech, Medtronic, Abbott Laboratories, Bayer AG, Cranfield Biotechnology Centre, Pinnacle Technologies Inc., DuPont Biosensor Materials, Ercon, Inc., EG &amp; IC Sensors, Inc., Johnson &amp; Johnson, Innovative Biosensors Inc., LifeScan, Inc., Strategic Diagnostics, Sysmex Corporation, Molecular Devices Corp., QTL Biosystems, and Roche Diagnostics.&nbsp; All of these companies either design and/or sell the integrated circuitry (including TIAs) for biosensing applications.&nbsp; Currently surgeons are dependent upon designers and sensing and monitoring device manufacturers to develop more efficient reliable systems. With designs by AmpSense, device designers and manufacturing companies can diversify the company&rsquo;s line of products to be integrated into more applications requiring lower power, having lower noise and more sensitivity.&nbsp; The researchers will explore 1) regulatory requirements and engineering activities to produce a device that meets the needs of the current biosensor markets, 2) current commercialization plans to transition from a proof of concept into a fully functional prototype based on the customer feedback received, 3) partnerships with IC fabrication companies, and 4) various distribution options such as Kickstarter, Amazon, or a more traditional direct to consumer sales model.&nbsp; Through marketing and dissemination of information about AmpSense, researchers, manufacturers, designers, the healthcare industry, and the public will be better informed of low power, low noise, miniaturized design solutions for diverse sensing and monitoring systems.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/31/2021<br>      Modified by: Sylvia&nbsp;W&nbsp;Thomas</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ With the rapid growth of technology to monitor health conditions for biomedical, military, and space arenas, there is a large market need in the field of biosensor technology, growing from USD 15.6 billion in 2016 at a CAGR of 7.9% over the next forecast period ending in 2026.  For example, approximately 285 million people suffer from some form of diabetes, and this number is expected to increase to 430 million by 2030.  Improved biosensors will be needed to address the grand challenge for a rising diabetic population base.  More specifically, diabetes is a disorder associated with an insufficiency of insulin secretion, and many people around the world suffer from this disorder, which can result in damages to eyes, kidneys, nerves and even death. One of the most common methods to detect diabetes is to monitor the levels of glucose (sugar) in the blood stream using biosensors.  Through a patented design, this work seeks to contribute to improving the biotechnology to sense glucose levels in patients by making devices that are smaller and more efficient and can use less power and filter noise signals.  In addition to healthcare, these types of sensors can also be used for the internet of things, wearable electronics, RF transceivers, photodetectors, military and space technologies. This I-Corps effort has allowed 4 engineers to be trained in the art of developing a pathway to commercialization for products investigated and fabricated in a university research lab and to outreach to K-12 and larger communities to inform them of these emerging technologies. The large-scale impact of this innovation will be the preservation of thousands of lives due to timely treatment and monitoring of health conditions for patients, particularly for diabetic patients initially.  The designs offered by AmpSense will expand beyond the initial market of glucose monitoring systems with additional patented designs for other sensing technologies.  A typical customer profile would be biomedical device companies, IC designers, and/or manufacturers of sensing and monitoring systems.  Major players in the biomedical industry include Genentech, Medtronic, Abbott Laboratories, Bayer AG, Cranfield Biotechnology Centre, Pinnacle Technologies Inc., DuPont Biosensor Materials, Ercon, Inc., EG &amp; IC Sensors, Inc., Johnson &amp; Johnson, Innovative Biosensors Inc., LifeScan, Inc., Strategic Diagnostics, Sysmex Corporation, Molecular Devices Corp., QTL Biosystems, and Roche Diagnostics.  All of these companies either design and/or sell the integrated circuitry (including TIAs) for biosensing applications.  Currently surgeons are dependent upon designers and sensing and monitoring device manufacturers to develop more efficient reliable systems. With designs by AmpSense, device designers and manufacturing companies can diversify the company’s line of products to be integrated into more applications requiring lower power, having lower noise and more sensitivity.  The researchers will explore 1) regulatory requirements and engineering activities to produce a device that meets the needs of the current biosensor markets, 2) current commercialization plans to transition from a proof of concept into a fully functional prototype based on the customer feedback received, 3) partnerships with IC fabrication companies, and 4) various distribution options such as Kickstarter, Amazon, or a more traditional direct to consumer sales model.  Through marketing and dissemination of information about AmpSense, researchers, manufacturers, designers, the healthcare industry, and the public will be better informed of low power, low noise, miniaturized design solutions for diverse sensing and monitoring systems.          Last Modified: 10/31/2021       Submitted by: Sylvia W Thomas]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

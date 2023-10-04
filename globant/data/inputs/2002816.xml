@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Beacon-Enabled Smart Location-Based Service]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>30524.00</AwardTotalIntnAmount>
+<AwardAmount>30524</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is in enabling new location-based services by using Bluetooth low energy (BLE) beacons in several important market verticals such as public transportation, retail, and events management, to name just a few.  BLE beacon-based software solutions can provide low-cost location-based services in both indoor and outdoor locations, supporting, for example, automatic foot traffic counts and location-based product promotions. As an emerging Internet of Things (IoT) technology, BLE beacons have the potential to become the leading proximity technology. However, the pros and cons of using these technologies in different settings are still not fully understood. For instance, privacy issues regarding location sharing in public spaces can impede the adoption of these technologies. This I-Corps project will explore implementation and commercialization opportunities of beacon-based technologies in airports, business conferences, and retail stores. The success of this project can help promote the adoption of this IoT technology and result in improved efficiency in public services and enhanced quality of people's daily lives.&lt;br/&gt;&lt;br/&gt;This I-Corps project will identify the commercial potential for using Bluetooth low energy (BLE) beacon technology to provide new and low-cost location-based services. A BLE beacon actively broadcasts Bluetooth signals, which can be received by nearby Bluetooth-enabled smartphones. Thus, mobile applications can leverage the beacons that are installed at different locations to detect people's movements, for instance, sensing when people enter or exit certain locations, and estimating the number of people co-located at certain locations. Effective beacon-based solutions need to address the following: ensure accurate movement detection when different beacons' Bluetooth signals interfere with each other; provide a scalable service where a large number of beacons can be supported by different mobile platforms; and include privacy-preserving features to address people's privacy concerns. This project will lead to a better understanding of varying requirements for beacon-based location services and how they might be customized to potentially service a variety of market verticals.]]></AbstractNarration>
+<MinAmdLetterDate>12/23/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>12/23/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002816</AwardID>
+<Investigator>
+<FirstName>Yun</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yun Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[yunhuang@illinois.edu]]></EmailAddress>
+<NSF_ID>000634500</NSF_ID>
+<StartDate>12/23/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>URBANA</CityName>
+<ZipCode>618013620</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>506 S WRIGHT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y8CWNJRCNN91</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ILLINOIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Illinois at Urbana-Champaign]]></Name>
+<CityName/>
+<StateCode>IL</StateCode>
+<ZipCode>618207406</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~30524</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This I-Corps project explored the commercial potential for using Bluetooth Low Energy (BLE) beacon technology to provide new and low-cost location-based services. A BLE beacon actively broadcasts Bluetooth signals, which can be received by nearby Bluetooth-enabled smartphones, therefore mobile apps can be designed to detect people&rsquo;s movements and the number of people around certain locations.</p> <p>The team conducted market research by talking to potential customers and users from a variety of market verticals, including airports, business conferences, museums, libraries, and college campuses. The findings suggested that schools and public service providers (transportation/safety) could be potential market verticals. For example, BLE beacon-based software solutions can support automatic attendance taking for schools. Through two field trials with a total of 141 university students, the team found that several social, technological, and psychological factors impacted the use of auto and manual check-ins.</p> <p>Specifically, privacy concerns could impede the adoption of this IoT (Internet of Things) technology. This is because BLE beacon-based location-sensing requires users to turn on location sharing all the time, which creates an illusion that users are being tracked everywhere, especially users do not know that the effective sensing area of a BLE beacon is quite limited (e.g., within meters). To help alleviate the concerns, the PI collaborated with Dr. Jason Hong on designing locators to help people physically find nearby IoT devices. First, a survey was conducted to understand people's willingness, current practices, and challenges in finding IoT devices. Then low-cost locators (visual, auditory, and contextualized pictures) were designed to help people find nearby devices. Through an iterative design process and two rounds of experiments, the findings showed that these locators greatly reduced people's search time over a baseline of no locators. Meanwhile, many participants found the visual and auditory locators enjoyable.</p> <p>Additionally, the team tried to build partnerships with companies. For example, an increasing number of safety departments in organizations across the U.S. are offering mobile apps that allow their local community members to report potential risks, such as hazards, suspicious events, ongoing incidents, and crimes. The team made a collaboration with Vector Solutions Inc., which sells safety reporting applications to more than 200 colleges and universities. The location sensing technology can be integrated into a safety reporting app to improve indoor location sharing and the efficiency of safety reporting when incidents occur.</p> <p>&nbsp;</p><br> <p>            Last Modified: 06/08/2022<br>      Modified by: Yun&nbsp;Huang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This I-Corps project explored the commercial potential for using Bluetooth Low Energy (BLE) beacon technology to provide new and low-cost location-based services. A BLE beacon actively broadcasts Bluetooth signals, which can be received by nearby Bluetooth-enabled smartphones, therefore mobile apps can be designed to detect people’s movements and the number of people around certain locations.  The team conducted market research by talking to potential customers and users from a variety of market verticals, including airports, business conferences, museums, libraries, and college campuses. The findings suggested that schools and public service providers (transportation/safety) could be potential market verticals. For example, BLE beacon-based software solutions can support automatic attendance taking for schools. Through two field trials with a total of 141 university students, the team found that several social, technological, and psychological factors impacted the use of auto and manual check-ins.  Specifically, privacy concerns could impede the adoption of this IoT (Internet of Things) technology. This is because BLE beacon-based location-sensing requires users to turn on location sharing all the time, which creates an illusion that users are being tracked everywhere, especially users do not know that the effective sensing area of a BLE beacon is quite limited (e.g., within meters). To help alleviate the concerns, the PI collaborated with Dr. Jason Hong on designing locators to help people physically find nearby IoT devices. First, a survey was conducted to understand people's willingness, current practices, and challenges in finding IoT devices. Then low-cost locators (visual, auditory, and contextualized pictures) were designed to help people find nearby devices. Through an iterative design process and two rounds of experiments, the findings showed that these locators greatly reduced people's search time over a baseline of no locators. Meanwhile, many participants found the visual and auditory locators enjoyable.  Additionally, the team tried to build partnerships with companies. For example, an increasing number of safety departments in organizations across the U.S. are offering mobile apps that allow their local community members to report potential risks, such as hazards, suspicious events, ongoing incidents, and crimes. The team made a collaboration with Vector Solutions Inc., which sells safety reporting applications to more than 200 colleges and universities. The location sensing technology can be integrated into a safety reporting app to improve indoor location sharing and the efficiency of safety reporting when incidents occur.          Last Modified: 06/08/2022       Submitted by: Yun Huang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

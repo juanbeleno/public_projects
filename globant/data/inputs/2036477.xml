@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Physically Secure Wearable Key using Electro-Quasistatic Human Body Communication]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to enable low energy, low power, physically secure Body Area Network (BAN) opening applications and use cases.  BANs are wireless networks of wearable computing devices. Typical BAN devices are embedded inside the body as implants, surface-mounted on the body in a fixed position, or incorporated into accompanying devices which humans carry. Today's standard BAN technologies rely on electromagnetic waves for BAN communication, which is not physically secure and consume orders of magnitude more power compared to sensing and computation in a BAN node, making the communication link the energy bottleneck for ultra-low-power BAN devices. This project will lead to a fundamentally new class of devices that use the human body as a "wire" to achieve orders of magnitude lower power than today’s communication around the human body while simultaneously being physically secure using Electro Quasi-Static Human Body Communication technology. This technology will make battery-less BAN operation possible and enable applications like remote physiological health monitoring, athlete performance monitoring, secure access control, neural monitoring, and possibly brain-machine interfaces in the future. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project seeks to design a demo wearable band by utilizing the human body as a secure communication medium. The band utilizes Electro-Quasi-Static-Human Body Communication (EQS-HBC) to demonstrate seamless communication between devices around the body with signal leakage primarily contained within the body. The body-wire prototype is expected to solve the problem of increased battery life by achieving a &gt;100x reduction in energy, allowing longer-lasting, smarter, smaller (new form-factors) devices. The energy reduction and improved physical security (in addition to encryption) may open possibilities for many new sensor nodes with new form factors (e.g., connected patch). The studies about the effect of human body postures, surrounding environment, inter-human variation on the overall characteristics, and security of the human body as a communication channel will provide an understanding of the necessary design specifications from a circuit design perspective and make applications like battery-less, physiological sensor nodes practical.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036477</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[david.yang209@gmail.com]]></EmailAddress>
+<NSF_ID>000810556</NSF_ID>
+<StartDate>12/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>BDYWR, LLC</Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479060616</ZipCode>
+<PhoneNumber>4046413037</PhoneNumber>
+<StreetAddress>2619 YEOMAN CT</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TAAFCPSN5LG6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BDYWR, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[BDYWR, LLC (John Martinson Entrepreneurship Center)]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479063445</ZipCode>
+<StreetAddress><![CDATA[101 Foundry Drive,]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1185</Code>
+<Text>SENSORY SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4096</Code>
+<Text>COMMUNICATIONS RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span class="TextRun SCXW53697355 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW53697355 BCX0">In Phase I, we </span><span class="NormalTextRun SCXW53697355 BCX0">demonstrated</span><span class="NormalTextRun SCXW53697355 BCX0"> our innovation: that it is possible to send data from one</span></span><span class="LineBreakBlob BlobObject DragDrop SCXW53697355 BCX0"><span class="SCXW53697355 BCX0">&nbsp;&nbsp;</span></span><span class="TextRun SCXW53697355 BCX0" lang="EN-US" xml:lang="EN-US">wearable to another using the body as the medium. To our knowledge, no other academic or industry group has been able to stream continuous data using the body as a medium.</span><span class="LineBreakBlob BlobObject DragDrop SCXW53697355 BCX0"><span class="SCXW53697355 BCX0">&nbsp;</span></span><span class="TextRun SCXW53697355 BCX0" lang="EN-US" xml:lang="EN-US">Our unique technology makes it possible to implement the Electronic Nervous System</span><span class="LineBreakBlob BlobObject DragDrop SCXW53697355 BCX0"><span class="SCXW53697355 BCX0">&nbsp;</span><br class="SCXW53697355 BCX0" /></span><span class="TextRun SCXW53697355 BCX0" lang="EN-US" xml:lang="EN-US">(ENS) using the Wi-R technology. We pr</span><span class="TextRun SCXW53697355 BCX0" lang="EN-US" xml:lang="EN-US">oved the fidelity of body as a communication medium and created&nbsp;</span><span class="TextRun SCXW53697355 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW53697355 BCX0">wearables with even components off the shelf, can </span><span class="NormalTextRun SCXW53697355 BCX0">utilize</span><span class="NormalTextRun SCXW53697355 BCX0"> the body as a</span></span><span class="LineBreakBlob BlobObject DragDrop SCXW53697355 BCX0"><span class="SCXW53697355 BCX0">&nbsp;</span></span><span class="TextRun SCXW53697355 BCX0" lang="EN-US" xml:lang="EN-US">communication medium;</span><span class="LineBreakBlob BlobObject DragDrop SCXW53697355 BCX0"><span class="SCXW53697355 BCX0">&nbsp;finally we</span></span><span class="TextRun SCXW53697355 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW53697355 BCX0">&nbsp;</span><span class="NormalTextRun SCXW53697355 BCX0">demonstrate</span><span class="NormalTextRun SCXW53697355 BCX0"> that silicon chips can enable human body communication to </span><span class="NormalTextRun SCXW53697355 BCX0">way lower</span></span><span class="LineBreakBlob BlobObject DragDrop SCXW53697355 BCX0"><span class="SCXW53697355 BCX0">&nbsp;</span></span><span class="TextRun SCXW53697355 BCX0" lang="EN-US" xml:lang="EN-US">power compared to wireless technologies such as Bluetooth.&nbsp;</span></p> <div class="textLayer"><span dir="ltr">This research has clear the path to develop the world&rsquo;s first high-bandwidth data network through the human&nbsp;</span><span dir="ltr">body and usher a fundamentally new way of thinking about using human body as a wire to&nbsp;</span><span dir="ltr">connect intelligent nodes in human- intranet.</span><span dir="ltr"> </span><span dir="ltr">With silicon chips, hardware and backed by&nbsp;</span><span dir="ltr">concrete mathematical models, this work will open up new research directions in wearables,&nbsp;</span><span dir="ltr">human augmentation, in-sensor analytics, physiological monitoring. For the first time, a 100kbps&nbsp; communication with audio streaming through the body is demonstrated through our technology and hardware platform.&nbsp;</span></div> <div class="textLayer"><span dir="ltr"><br /></span></div><br> <p>            Last Modified: 02/15/2023<br>      Modified by: David&nbsp;Yang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ In Phase I, we demonstrated our innovation: that it is possible to send data from one  wearable to another using the body as the medium. To our knowledge, no other academic or industry group has been able to stream continuous data using the body as a medium. Our unique technology makes it possible to implement the Electronic Nervous System (ENS) using the Wi-R technology. We proved the fidelity of body as a communication medium and created wearables with even components off the shelf, can utilize the body as a communication medium; finally we demonstrate that silicon chips can enable human body communication to way lower power compared to wireless technologies such as Bluetooth.  This research has clear the path to develop the world’s first high-bandwidth data network through the human body and usher a fundamentally new way of thinking about using human body as a wire to connect intelligent nodes in human- intranet. With silicon chips, hardware and backed by concrete mathematical models, this work will open up new research directions in wearables, human augmentation, in-sensor analytics, physiological monitoring. For the first time, a 100kbps  communication with audio streaming through the body is demonstrated through our technology and hardware platform.          Last Modified: 02/15/2023       Submitted by: David Yang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

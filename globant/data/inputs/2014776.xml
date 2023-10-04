@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Novel photographic steganography to reduce digital piracy on live streaming platforms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be to detect screen-to-camera video piracy, through first-in-kind development of a robust video piracy detection method that uniquely applies camera-display messaging to copyright protection, while maintaining network quality standards.  Existing watermarking solutions cannot reliably handle video-in-video piracy, where users upload pirated media captured using a smartphone camera; either they fail to detect video piracy or exhibit injurious hypersensitivity. The proposed solution balances these two concerns by embedding unique and unextractable watermarks into video content, thereby improving the ability for platforms to accurately match uploaded content with messages in the copyright-protected database. The resulting technology will allow for the detection of copyright information in camera-captured images and video, so that distributors can automatically filter against the illegal sharing of copyright-protected material, dramatically reducing liability—and costly copyright infringement fines—for social media companies. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project seeks to develop an innovative camera-display message system that uses photographic steganography to embed covert messages in displayed video, addressing the need to detect screen-to-camera video piracy.  Although photographic steganography has been applied to still images, video message embedding is complicated by the presence of perceptible artifacts that degrade visual quality.  This project proposes to use novel spatio-temporal embedding that adapts to video content to reduce visual artifacts and support message recovery. This method circumvents the artifact-based constraints of traditional grid systems and will support the standard viewing quality. The following Phase I objectives will establish technical and commercial feasibility: 1) develop a video compression model that can handle multiple compression variations; 2) develop an optimal adaptive spatio-temporal embedding approach that reduces observed visual artifacts while maintaining a high accuracy rate; 3) design and implement a paired comparison protocol perceptual metric to evaluate video quality after message embedding; 4) develop a real-time robust screen detection and segmentation algorithm.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014776</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Wengrowski</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eric Wengrowski</PI_FULL_NAME>
+<EmailAddress><![CDATA[eric@steg.ai]]></EmailAddress>
+<NSF_ID>000817410</NSF_ID>
+<StartDate>07/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>STEG AI CORPORATION</Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926173233</ZipCode>
+<PhoneNumber>7326000291</PhoneNumber>
+<StreetAddress>5270 CALIFORNIA AVE STE 350</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HHTSWCNA6NM5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>STEG AI CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[STEG AI CORPORATION]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>100276811</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~225000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Steg AI builds software to protect and authenticate digital media using artificial intelligence technology. During Phase 1, Steg AI developed an innovative camera-display messaging system that uses photographic steganography to embed covert payloads in displayed videos and images. Provenance data is inserted into media to detect screen-to-camera piracy and authenticate digital content. Our unique approach allows the covert payload to be electronically displayed, transmitted as light in free space, and then camera-captured with minimal payload recovery error. Steg AI&rsquo;s technology enables precise content recognition which enables platforms to proactively detect and filter copyrighted content&mdash;a capability not currently supported by today&rsquo;s anti-piracy systems&mdash;thus providing a solution to the critical challenge of video and image provenance faced by social media companies and content creators/distributors.</p> <p>Unlike traditional watermarking approaches, our technique models the human vision system, compression algorithms, and camera-display transfer. Using a data-driven approach powered by deep-learning, coded media contains robust payloads that are visually unobtrusive to human observers.</p> <p>During Phase 1, we tested hypotheses for product-market fit by conducting over 200 customer discovery interviews through the I-Corps program. This served as an especially important effort because new commercial opportunities and technical considerations were discovered through customer discovery feedback. Our findings from the customer discovery effort directly informed the design of milestones to test technical feasibility. The most salient findings are: (1) The technology must be compatible with existing video compression technologies; (2) The technology must be minimally perceptible to creators and consumers; (3) The technology must robustly function in real-world environments.</p> <p>Our findings strongly support Steg AI&rsquo;s technological viability under real-world conditions. Critically, we have incorporated the technology advancements produced in the pursuit of the Phase 1 milestones into prototypes that have been enthusiastically validated by prominent social media and digital media licensing companies.</p> <p>Key findings from our technical milestones are:</p> <p>1. <strong>Reduction of spatial and temporal artifacts.</strong> Residual spatial and temporal artifacts can be made sufficiently small to enable embedding within high resolution video with dynamically changing payloads while maintaining robustness. Our data collection employs a Two-Alternative Forced Choice (2AFC) test, that asks which of two distorted videos is more similar to a reference video. 1000 users compared adaptive and non-adaptive encoding algorithms using 10 different reference videos for a total of 10,000 user responses. All three videos were played synchronously so users could directly compare spatial and temporal artifacts.</p> <p>For all algorithmic perceptual metrics tested, the Optimally Spatio-Temporal Adaptive Approach outperformed the non-adaptive approach. The user study also confirmed a decisive preference for the adaptive approach among real-world humans watching videos by a 4:1 margin.</p> <p>In summary, through experimental evaluation in real-world settings, we demonstrate that a spatially and temporally adaptive approach can dramatically improve the visual quality of coded images and videos. We met and even exceeded our technical milestones, achieving an 80% user preference for the new adaptive approach. These results demonstrate that the adaptive approach successfully leverages mismatches between computer and human vision systems to reduce artifacts without significantly sacrificing robustness. This is a keystone finding that demonstrates the viability of our technology for customers who are extremely sensitive to perceivable changes in the underlying content.</p> <p>2. <strong>Modeling</strong> <strong>human perception of watermark artifacts</strong><strong>.</strong> Mismatches between human and machine vision are modeled and exploited to produce spatio-temporally embedded videos that maintain high-quality visuals such that perceptual artifacts are virtually unnoticeable to viewers. Our test data set of 72,000 user responses was compared to the 2AFC scores predicted by each of the perceptual metrics. Our method best predicts actual human responses to watermark artifacts. Furthermore, the method is relatively invariant to the backbone architecture.</p> <p>3. <strong>Robustness to compression algorithms.</strong> Compression in the display and capture pipeline can be modeled as a differentiable transfer function. This transfer function is incorporated in watermark training to ensure that the bit error rate (BER) remains sufficiently small for the robust payload recovery requirements of a commercial product. Through experimental evaluation in real-world settings, we demonstrated that a variety of video compression algorithms commonly used for online and broadcast video distribution as well as video compression algorithms commonly used by smartphone cameras can be modeled. By achieving the technical milestone of minimized BER, we show that our photographic steganography algorithms are robust to a wide array of the most commonly adopted video compression algorithms. This finding demonstrates the compatibility of our technology with the video infrastructure technologies that our customers are already using</p> <p>4. <strong>Accurate screen detection.</strong> For real-world use with a handheld camera, screen detection and localization can be done robustly to handle crowded rooms, cluttered scenes, occlusions of screens, and variations in screen borders.</p><br> <p>            Last Modified: 01/14/2022<br>      Modified by: Eric&nbsp;Wengrowski</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Steg AI builds software to protect and authenticate digital media using artificial intelligence technology. During Phase 1, Steg AI developed an innovative camera-display messaging system that uses photographic steganography to embed covert payloads in displayed videos and images. Provenance data is inserted into media to detect screen-to-camera piracy and authenticate digital content. Our unique approach allows the covert payload to be electronically displayed, transmitted as light in free space, and then camera-captured with minimal payload recovery error. Steg AI’s technology enables precise content recognition which enables platforms to proactively detect and filter copyrighted content&mdash;a capability not currently supported by today’s anti-piracy systems&mdash;thus providing a solution to the critical challenge of video and image provenance faced by social media companies and content creators/distributors.  Unlike traditional watermarking approaches, our technique models the human vision system, compression algorithms, and camera-display transfer. Using a data-driven approach powered by deep-learning, coded media contains robust payloads that are visually unobtrusive to human observers.  During Phase 1, we tested hypotheses for product-market fit by conducting over 200 customer discovery interviews through the I-Corps program. This served as an especially important effort because new commercial opportunities and technical considerations were discovered through customer discovery feedback. Our findings from the customer discovery effort directly informed the design of milestones to test technical feasibility. The most salient findings are: (1) The technology must be compatible with existing video compression technologies; (2) The technology must be minimally perceptible to creators and consumers; (3) The technology must robustly function in real-world environments.  Our findings strongly support Steg AI’s technological viability under real-world conditions. Critically, we have incorporated the technology advancements produced in the pursuit of the Phase 1 milestones into prototypes that have been enthusiastically validated by prominent social media and digital media licensing companies.  Key findings from our technical milestones are:  1. Reduction of spatial and temporal artifacts. Residual spatial and temporal artifacts can be made sufficiently small to enable embedding within high resolution video with dynamically changing payloads while maintaining robustness. Our data collection employs a Two-Alternative Forced Choice (2AFC) test, that asks which of two distorted videos is more similar to a reference video. 1000 users compared adaptive and non-adaptive encoding algorithms using 10 different reference videos for a total of 10,000 user responses. All three videos were played synchronously so users could directly compare spatial and temporal artifacts.  For all algorithmic perceptual metrics tested, the Optimally Spatio-Temporal Adaptive Approach outperformed the non-adaptive approach. The user study also confirmed a decisive preference for the adaptive approach among real-world humans watching videos by a 4:1 margin.  In summary, through experimental evaluation in real-world settings, we demonstrate that a spatially and temporally adaptive approach can dramatically improve the visual quality of coded images and videos. We met and even exceeded our technical milestones, achieving an 80% user preference for the new adaptive approach. These results demonstrate that the adaptive approach successfully leverages mismatches between computer and human vision systems to reduce artifacts without significantly sacrificing robustness. This is a keystone finding that demonstrates the viability of our technology for customers who are extremely sensitive to perceivable changes in the underlying content.  2. Modeling human perception of watermark artifacts. Mismatches between human and machine vision are modeled and exploited to produce spatio-temporally embedded videos that maintain high-quality visuals such that perceptual artifacts are virtually unnoticeable to viewers. Our test data set of 72,000 user responses was compared to the 2AFC scores predicted by each of the perceptual metrics. Our method best predicts actual human responses to watermark artifacts. Furthermore, the method is relatively invariant to the backbone architecture.  3. Robustness to compression algorithms. Compression in the display and capture pipeline can be modeled as a differentiable transfer function. This transfer function is incorporated in watermark training to ensure that the bit error rate (BER) remains sufficiently small for the robust payload recovery requirements of a commercial product. Through experimental evaluation in real-world settings, we demonstrated that a variety of video compression algorithms commonly used for online and broadcast video distribution as well as video compression algorithms commonly used by smartphone cameras can be modeled. By achieving the technical milestone of minimized BER, we show that our photographic steganography algorithms are robust to a wide array of the most commonly adopted video compression algorithms. This finding demonstrates the compatibility of our technology with the video infrastructure technologies that our customers are already using  4. Accurate screen detection. For real-world use with a handheld camera, screen detection and localization can be done robustly to handle crowded rooms, cluttered scenes, occlusions of screens, and variations in screen borders.       Last Modified: 01/14/2022       Submitted by: Eric Wengrowski]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SHF: Small: Sparsity-Aware Hardware Accelerators for Natural Language Processing with Transformers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>499999.00</AwardTotalIntnAmount>
+<AwardAmount>499999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Natural Language Processing (NLP) enables people to interact with machines in the same manner as with each other. More importantly, it provides machines with the ability to access the information and knowledge that are readily available in books, articles, and various unstructured documents. Because the quality and usability of NLP-powered services depends primarily on the quantity of text the system is able to process, the computational demands of advanced NLP applications far exceed the capabilities of general-purpose computers and continue to grow. This project aims to greatly improve the performance of NLP applications based on transformers, a class of neural networks used in most state-of-the-art NLP technology. This project will significantly improve performance and efficiency for NLP applications, enabling their widespread deployment in emerging datacenters and thus enhancing the quality of human interactions with machines and each other.&lt;br/&gt;&lt;br/&gt;This project advances the state of the art of accelerators (hardware and compilers) for natural language processing, focusing primarily on sparsity-aware inference in large multi-layered self-attention based models, which have so far received limited attention from the architecture community. The project also advances NLP knowledge of sparse attention functions, studies design techniques that allow for repurposing pre-trained models to run faster, and improves the effectiveness in applications which diverge from its training setting. The investigation focuses on the key observation that the massive growth in computational complexity can be mitigated by dynamically identifying inherent sparsity and ineffectual computation in models, refitting the model to induce sparsity with the goal of either approximating or entirely avoiding parts of the computation that have limited impact on the model results. This investigation will demonstrate the performance improvement obtained by these techniques, leveraging sparsity and dynamic predictions within a novel sparsity-aware hardware acceleration framework, implemented on a field-programmable gate array (FPGA).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007362</AwardID>
+<Investigator>
+<FirstName>Hansen</FirstName>
+<LastName>Schwartz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hansen Schwartz</PI_FULL_NAME>
+<EmailAddress><![CDATA[has@cs.stonybrook.edu]]></EmailAddress>
+<NSF_ID>000693205</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Ferdman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Ferdman</PI_FULL_NAME>
+<EmailAddress><![CDATA[mferdman@cs.stonybrook.edu]]></EmailAddress>
+<NSF_ID>000634656</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Niranjan</FirstName>
+<LastName>Balasubramanian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Niranjan Balasubramanian</PI_FULL_NAME>
+<EmailAddress><![CDATA[niranjan@cs.stonybrook.edu]]></EmailAddress>
+<NSF_ID>000678413</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Milder</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter Milder</PI_FULL_NAME>
+<EmailAddress><![CDATA[peter.milder@stonybrook.edu]]></EmailAddress>
+<NSF_ID>000629904</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>STONY BROOK</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>W5510 FRANKS MELVILLE MEMORIAL L</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M746VC6XMNH9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SUNY at Stony Brook]]></Name>
+<CityName>Stony Brook</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>117942350</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>2878</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~499999</FUND_OBLG>
+</Award>
+</rootTag>

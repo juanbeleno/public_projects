@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Problems Related to Fourier Restriction Estimates</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/17/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>73035.00</AwardTotalIntnAmount>
+<AwardAmount>73035</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+<PO_EMAI>mbocea@nsf.gov</PO_EMAI>
+<PO_PHON>7032922595</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This project revolves around several fundamental questions in harmonic analysis, which is a field stemming from the study of Fourier series and Fourier transform and is closely connected with partial differential equations, number theory, geometric measure theory, and real life applications such as signal processing and compressed sensing. The Fourier transform decomposes a function of time into different frequency components, similarly to how a music chord can be expressed as the pitches of its constituent notes. Harmonic analysis studies how the time information and the frequency information interact with each other. A fundamental question (i.e. Fourier restriction problem) that has been studied for decades is how the geometry of the frequency support of the Fourier transform dictates the size of the original function in time. Various quantifications of such relations are referred to as Fourier restriction estimates and turn out to be extremely challenging to study. Even for the simplest geometric objects such as spheres and paraboloids, many questions are still wide open. Restriction estimates are interesting also due to their connection with many other problems, within or outside analysis. It is well known that restriction estimates can be applied to study the Kakeya conjecture (on the minimum area of a set containing a unit line segment in each direction), the existence and growth of solutions to Schrödinger and wave equations, and the number of solutions to Diophantine equations in number theory.&lt;br/&gt;&lt;br/&gt;This project studies several problems related to Fourier restriction estimates. First, the principal investigator intends to further the investigation of the Fourier restriction conjecture for the paraboloid and the cone via the polynomial method. This method explores the algebraic structure of the time-frequency decomposition of the function, and has shown to be extremely powerful in obtaining many state-of-the-art results in the theory. Second, the principal investigator proposes to continue the study of weighted restriction estimates (i.e. when the Lebesgue measure is replaced with a fractal measure) and apply them to estimate divergence sets of the Schrödinger or wave equations and to distance set problems (on how the size of a set dictates the size of its distance set). The major difficulty in this direction is the lack of a crucial tool (orthogonality) caused by the presence of the fractal measure. Here an interesting approach will attack the distance set problems directly by studying the behavior of the fractal measure. Last, the principal investigator wants to explore the role in restriction theory of a recently developed tool called sparse domination. This method, arising from singular integral theory, is a way to reduce the study of the original continuous, spread out operator to that of a class of much simpler dyadic, positive, local operators. This method has shown to be extremely useful in singular integral theory and has become a modern view of point in describing operators. The principal investigator plans to further the study of sparse bounds of operators related to restriction estimates and with a Kakeya nature, such as the Bochner-Riesz multipliers, singular integrals along manifolds, directional maximal operators, and multi-parameter singular integral operators.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2042109</AwardID>
+<Investigator>
+<FirstName>Yumeng</FirstName>
+<LastName>Ou</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yumeng Ou</PI_FULL_NAME>
+<EmailAddress>yumengou@sas.upenn.edu</EmailAddress>
+<NSF_ID>000731233</NSF_ID>
+<StartDate>08/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>Research Services</StreetAddress>
+<StreetAddress2><![CDATA[3451 Walnut St, 5th Flr Franklin]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA03</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>042250712</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>042250712</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Pennsylvania]]></Name>
+<CityName/>
+<StateCode>PA</StateCode>
+<ZipCode>191046205</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~73035</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div id="MathJax_Message" style="display: none;"></div> <p class="p1">The project focused on problems related to Fourier restriction estimates, which is one of the most classical and important areas of harmonic analysis. A central theme in the field of harmonic analysis is to understand properties of a function by decomposing it into small pieces, and one of such natural decompositions is given by the Fourier transform. This is a highly useful object in many disciplines of natural sciences and engineering (e.g. quantum mechanics, medical imaging, signal processing). The Fourier restriction theory is about understanding whether (and to what extent) one can meaningfully restrict the Fourier transform of a function on a curved surface (e.g. sphere, paraboloid, cone), and the theory has numerous important applications for example in solving the Schr&ouml;dinger and wave equations, in counting number of solutions to Diophantine systems in number theory, and in understanding the geometry of fractal sets. The project has achieved great accomplishments in the Fourier restriction theory, both on the restriction estimates themselves and their applications to important problems in geometric measure theory, and on laying the foundation for deriving sparse domination of key operators in restriction theory. More details on several key outcomes of the project (addressing its intellectual merits and broader impacts) are outlined below.&nbsp;</p> <p>(A) <strong>Improved Fourier restriction estimates and applications to distance problems.</strong> The PI has proved several new restriction estimates in various settings, including the original cone restriction conjecture in dimension five, restriction estimates with respect to fractal measures, and restriction estimates under additional geometric assumptions satisfied by the function. These estimates have then been applied to derive state-of-the-art results on a famous open conjecture in geometric measure theory: the Falconer distance conjecture. The conjecture asserts that a fractal set with large enough dimension must generate sufficiently many distinct distances. The PI&rsquo;s works in this direction successfully improved the prior best results towards the conjecture in all dimensions that were obtained almost two decades ago, and brought the study into a new era by effectively combining ideas from analysis, geometric measure theory, and combinatorics. Many of the results obtained have also shown to have applications in other problems in Fourier analysis and geometric measure theory, and in adjacent fields such as partial differential equations and number theory.</p> <p>(B) <strong>Sparse domination of multiparameter singular integrals.</strong> It is one of the PI&rsquo;s long term goals to derive sparse domination for important operators in the Fourier restriction theory and apply them to advance the knowledge on restriction estimates and related problems. It is known that such domination provides refined information on the size of the operator and can be used to derive for instance weak endpoint estimates and weighted norm inequalities for the operator. As a starting point, the PI studied sparse domination of multiparameter operators in the project. In particular, the PI disproved a conjecture on the sparse domination of the strong maximal function (a prototype operator in this setting), indicating that significant new ideas are required in this study. Moreover, the PI has derived positive sparse domination results for Marcinkiewics multipliers and weighted estimates for multiparameter operators that are invariant under Zygmund dilations (which is one of the simplest structures beyond the full multiparameter setting).</p> <p>(C) The research carried out in the project has provided tremendous training and professional development opportunities for students and early career mathematicians (especially those who are from underrepresented groups). The PI has co-created the flagship harmonic analysis seminar at CUNY Graduate Center, which greatly promoted research in harmonic analysis across all CUNY campuses. The PI has co-organized multiple workshops and conferences focusing on the topics in the project and providing opportunities for graduate students and early career mathematicians to promote their works. The PI has co-created a multi-institutional online study group for beginning graduate students in harmonic analysis to get up to speed in research and to support each other during the COVID-19 pandemic. The PI has designed a two-semester topic course in harmonic analysis introducing the most advanced developments in the field (especially those that are related to the project) to undergraduate and graduate students at Penn to help them gain exposure to the field. The project has also enabled the PI to extensively collaborate with graduate students and fellow junior mathematicians from underrepresented groups.</p> <ol class="ol1"> </ol> <p>&nbsp;</p> <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;delayStartupUntil=configured" type="text/javascript"></script> <script id="texAllTheThingsPageScript" src="chrome-extension:/cbimabofgmfdkicghcadidpemeenbffn/js/pageScript.js" type="text/javascript"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML&amp;delayStartupUntil=configured" type="text/javascript"></script> <script id="texAllTheThingsPageScript" src="chrome-extension://cbimabofgmfdkicghcadidpemeenbffn/js/pageScript.js" type="text/javascript"></script><br> <p>            Last Modified: 11/23/2021<br>      Modified by: Yumeng&nbsp;Ou</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The project focused on problems related to Fourier restriction estimates, which is one of the most classical and important areas of harmonic analysis. A central theme in the field of harmonic analysis is to understand properties of a function by decomposing it into small pieces, and one of such natural decompositions is given by the Fourier transform. This is a highly useful object in many disciplines of natural sciences and engineering (e.g. quantum mechanics, medical imaging, signal processing). The Fourier restriction theory is about understanding whether (and to what extent) one can meaningfully restrict the Fourier transform of a function on a curved surface (e.g. sphere, paraboloid, cone), and the theory has numerous important applications for example in solving the Schr&ouml;dinger and wave equations, in counting number of solutions to Diophantine systems in number theory, and in understanding the geometry of fractal sets. The project has achieved great accomplishments in the Fourier restriction theory, both on the restriction estimates themselves and their applications to important problems in geometric measure theory, and on laying the foundation for deriving sparse domination of key operators in restriction theory. More details on several key outcomes of the project (addressing its intellectual merits and broader impacts) are outlined below.   (A) Improved Fourier restriction estimates and applications to distance problems. The PI has proved several new restriction estimates in various settings, including the original cone restriction conjecture in dimension five, restriction estimates with respect to fractal measures, and restriction estimates under additional geometric assumptions satisfied by the function. These estimates have then been applied to derive state-of-the-art results on a famous open conjecture in geometric measure theory: the Falconer distance conjecture. The conjecture asserts that a fractal set with large enough dimension must generate sufficiently many distinct distances. The PI’s works in this direction successfully improved the prior best results towards the conjecture in all dimensions that were obtained almost two decades ago, and brought the study into a new era by effectively combining ideas from analysis, geometric measure theory, and combinatorics. Many of the results obtained have also shown to have applications in other problems in Fourier analysis and geometric measure theory, and in adjacent fields such as partial differential equations and number theory.  (B) Sparse domination of multiparameter singular integrals. It is one of the PI’s long term goals to derive sparse domination for important operators in the Fourier restriction theory and apply them to advance the knowledge on restriction estimates and related problems. It is known that such domination provides refined information on the size of the operator and can be used to derive for instance weak endpoint estimates and weighted norm inequalities for the operator. As a starting point, the PI studied sparse domination of multiparameter operators in the project. In particular, the PI disproved a conjecture on the sparse domination of the strong maximal function (a prototype operator in this setting), indicating that significant new ideas are required in this study. Moreover, the PI has derived positive sparse domination results for Marcinkiewics multipliers and weighted estimates for multiparameter operators that are invariant under Zygmund dilations (which is one of the simplest structures beyond the full multiparameter setting).  (C) The research carried out in the project has provided tremendous training and professional development opportunities for students and early career mathematicians (especially those who are from underrepresented groups). The PI has co-created the flagship harmonic analysis seminar at CUNY Graduate Center, which greatly promoted research in harmonic analysis across all CUNY campuses. The PI has co-organized multiple workshops and conferences focusing on the topics in the project and providing opportunities for graduate students and early career mathematicians to promote their works. The PI has co-created a multi-institutional online study group for beginning graduate students in harmonic analysis to get up to speed in research and to support each other during the COVID-19 pandemic. The PI has designed a two-semester topic course in harmonic analysis introducing the most advanced developments in the field (especially those that are related to the project) to undergraduate and graduate students at Penn to help them gain exposure to the field. The project has also enabled the PI to extensively collaborate with graduate students and fellow junior mathematicians from underrepresented groups.                Last Modified: 11/23/2021       Submitted by: Yumeng Ou]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

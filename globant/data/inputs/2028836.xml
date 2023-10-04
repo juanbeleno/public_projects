@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: PPoSS: Planning: Scaling Secure Serverless Computing on Hetergeneous Datacenters]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>83557.00</AwardTotalIntnAmount>
+<AwardAmount>83557</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Danella Zhao</SignBlockName>
+<PO_EMAI>dzhao@nsf.gov</PO_EMAI>
+<PO_PHON>7032924434</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Cloud computing has been a dominant computing paradigm that enables many important computing capabilities including large-scale (big) data processing, artificial intelligence, and scientific discoveries. A recent evolution of cloud computing includes the move to serverless computing, which simplifies the deployment of computation while enabling better scaling and higher resource utilization. Meanwhile, datacenters, the backbone of cloud computing, increasingly include heterogeneous compute and memory resources. The move toward serverless computing and heterogeneous architecture of datacenters produces a gap that unless addressed, results in inefficient use of resources. The project seeks to address this gap in order to enable new applications and new functionalities to be provided in the cloud, at lower cost and higher security, providing platforms for the advancement of science, engineering, and commerce. &lt;br/&gt;&lt;br/&gt;Future datacenters will consist of heterogeneous compute and memory. Applications in the cloud are increasingly varied in their requirements, such as degree and granularity of parallelism; memory latency, capacity, and bandwidth requirements;  and security and privacy requirements. This project investigates serverless computing as a promising programming model for heterogeneous platforms. Serverless platforms decouple system management from application execution: applications provide functions that manipulate data, and leave it to the platform to determine when the function should run, with what input data, and on what physical machine.  Current platforms, such as AWS Lambda, Google Compute Functions or Azure Functions do not fully implement this vision, as they do not expose heterogeneous resources nor manage all resources automatically. This project explores novel abstractions for compute that extend serverless functions to better leverage unique hardware characteristics, and for memory to allow more automated leveraging of workload characteristics such as locality and compute intensity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028836</AwardID>
+<Investigator>
+<FirstName>Mubarak</FirstName>
+<LastName>Shah</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mubarak Shah</PI_FULL_NAME>
+<EmailAddress><![CDATA[shah@crcv.ucf.edu]]></EmailAddress>
+<NSF_ID>000318379</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yan</FirstName>
+<LastName>Solihin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yan Solihin</PI_FULL_NAME>
+<EmailAddress><![CDATA[yan.solihin@ucf.edu]]></EmailAddress>
+<NSF_ID>000299551</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The University of Central Florida Board of Trustees</Name>
+<CityName>ORLANDO</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CENTRAL FLORIDA BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RD7MXJV7DKT9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Central Florida]]></Name>
+<CityName/>
+<StateCode>FL</StateCode>
+<ZipCode>328162362</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>PPoSS-PP of Scalable Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~83557</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this project, we examined the feasibility of supporting secure cloud computing on graphics processing units (GPUs). GPUs are increasingly added to the cloud for computing resources that cloud computing clients can use. However, while GPUs are faster than central processing units (CPUs), they are not as secure. In particular, Trusted Execution Environment (TEEs) technology that is currently widely supported in CPUs are not supported currently in GPUs. Thus, in this project, we look at the feasibility of supporting TEE technology in GPUs.&nbsp;<br /><br />Intellectual Merit: Our key findings are that we can provide TEEs in GPUs, but the overheads are very high unless they are re-architected. Security metadata, including encryption counters, message authentication codes (MACs) and integrity trees, requires significant memory bandwidth, which may lead to severe bandwidth competition with normal data accesses and degrade the GPU performance. Contemporary GPUs use partitioned memory organization, which results in storage and coherence problems for encryption counters and integrity trees since different partitions may need to update the same counter/integrity tree blocks. The existing split-counter block organization is not friendly to sectored caches, which are commonly used in GPU for bandwidth savings. Based on these observations, we investigated partitioned and sectored security metadata (PSSM), which has two components: (a) using the offset addresses (referred to as local addresses) within each partition, instead of the virtual or physical addresses, to generate the metadata so as to solve the counter or integrity tree storage and coherence problems and (b) reorganizing the security metadata to make them friendly to the sectored cache structure so as to reduce the memory bandwidth consumption of metadata accesses. With these proposed schemes, the performance overhead of secure GPU memory is reduced from 59.22% to 16.84% on average. If only memory encryption is required, the performance overhead is reduced from 29.53% to 5.18%.&nbsp;<br />We further found an alternative method where TEEs are provided with minimum hardware support, which may allow faster deployment in the cloud. GPU is increasingly used in the cloud environment. However, current proposals either ignore memory security (i.e., not encrypting memory) or impose a separate memory encryption domain from the host TEE, causing a very substantial slowdown for communicating data from/to the host. We investigated a flexible GPU memory encryption design called LITE that relies on software memory encryption aided by small architecture support. LITE's flexibility allows GPU TEE to be co-designed with CPU to create a unified encryption domain. We show that GPU applications can be adapted to the use of LITE encryption APIs without major changes. Through various optimizations, we show that software memory encryption in LITE can produce negligible performance overheads 1.1% for regular benchmarks and still-acceptable overheads (56%) for irregular benchmarks.&nbsp;</p><br> <p>            Last Modified: 02/01/2023<br>      Modified by: Yan&nbsp;Solihin</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ In this project, we examined the feasibility of supporting secure cloud computing on graphics processing units (GPUs). GPUs are increasingly added to the cloud for computing resources that cloud computing clients can use. However, while GPUs are faster than central processing units (CPUs), they are not as secure. In particular, Trusted Execution Environment (TEEs) technology that is currently widely supported in CPUs are not supported currently in GPUs. Thus, in this project, we look at the feasibility of supporting TEE technology in GPUs.   Intellectual Merit: Our key findings are that we can provide TEEs in GPUs, but the overheads are very high unless they are re-architected. Security metadata, including encryption counters, message authentication codes (MACs) and integrity trees, requires significant memory bandwidth, which may lead to severe bandwidth competition with normal data accesses and degrade the GPU performance. Contemporary GPUs use partitioned memory organization, which results in storage and coherence problems for encryption counters and integrity trees since different partitions may need to update the same counter/integrity tree blocks. The existing split-counter block organization is not friendly to sectored caches, which are commonly used in GPU for bandwidth savings. Based on these observations, we investigated partitioned and sectored security metadata (PSSM), which has two components: (a) using the offset addresses (referred to as local addresses) within each partition, instead of the virtual or physical addresses, to generate the metadata so as to solve the counter or integrity tree storage and coherence problems and (b) reorganizing the security metadata to make them friendly to the sectored cache structure so as to reduce the memory bandwidth consumption of metadata accesses. With these proposed schemes, the performance overhead of secure GPU memory is reduced from 59.22% to 16.84% on average. If only memory encryption is required, the performance overhead is reduced from 29.53% to 5.18%.  We further found an alternative method where TEEs are provided with minimum hardware support, which may allow faster deployment in the cloud. GPU is increasingly used in the cloud environment. However, current proposals either ignore memory security (i.e., not encrypting memory) or impose a separate memory encryption domain from the host TEE, causing a very substantial slowdown for communicating data from/to the host. We investigated a flexible GPU memory encryption design called LITE that relies on software memory encryption aided by small architecture support. LITE's flexibility allows GPU TEE to be co-designed with CPU to create a unified encryption domain. We show that GPU applications can be adapted to the use of LITE encryption APIs without major changes. Through various optimizations, we show that software memory encryption in LITE can produce negligible performance overheads 1.1% for regular benchmarks and still-acceptable overheads (56%) for irregular benchmarks.        Last Modified: 02/01/2023       Submitted by: Yan Solihin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

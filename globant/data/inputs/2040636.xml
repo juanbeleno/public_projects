@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Convergence Accelerator Track D: A Community Resource for Innovation in Polymer Materials]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mike Pozmantier</SignBlockName>
+<PO_EMAI>mpozmant@nsf.gov</PO_EMAI>
+<PO_PHON>7032924475</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project, NSF Convergence Accelerator Track D: A Community Resource for Innovation in Polymer Materials, will develop a data-centric infrastructure for findable, accessible, interoperable, and reusable (FAIR) data that will be usable by a wide variety of stakeholders to accelerate the pace of materials innovation. The field is currently hampered by small, disparate data sets and there is clear need for a community-wide database effort. This project brings together a team with members from industry (Dow, Citrine), academia (MIT), and government laboratories (NIST) to directly address the issue of building a data and modeling infrastructure to serve as a community resource for polymeric material design. The project focuses on a sharing infrastructure for polymers and other soft materials addressing the current inability to deal with molecular distributions and stochastic reaction networks; characterization/data generation challenges for stochastic chemistry; challenges with nomenclature and molecular representation, and polymer properties determined on multiple scales from the chemical bond to the molecule to collective molecular interactions. The approach will utilize novel graph-based representations that can be widely adopted for the storage and exchange of data by all stakeholders in the polymer field. It will also explore how widely such data could be shared by different stakeholders, including paradigms that mix embargoed and open data as well as exploring models for ownership and credit that enable wider sharing of data across the community. &lt;br/&gt;&lt;br/&gt;The approach will employ natural language processing (NLP) and computer vision techniques for automated information extraction from the polymer literature to generate a large, public structure- property database. The text-based extraction schemes will exploit chemical rationales and specific shared synthesis techniques for more efficient data extraction; extraction of polymer chemical structures from images using an optical chemical structure recognition system; and development of new machine learning methods of data curation in order to integrate a wider range of data and overcome data sparsity and diversity. Together, these elements will yield a populated data structure by the end of Phase I that will form a foundation for further efforts by the community. Although the techniques employed will generalize to all synthetic polymers, the initial testbed for these developments will be polyurethanes—a large polymer market with diverse chemistry, substantial data availability in the patent and journal literature, and structure-processing-property relationships that are a playground for continued material innovation. Community-wide engagement will be sought via a digital symposium to assist in identifying additional interests and partners that need to be represented and included; disseminating information about this effort; and receiving inputs on how deliverables should be planned and designed during Phase II execution. An educational planning exercise in Phase I will identify educational partners and educational needs in this space and develop both pedagogical and assessment plans that can be acted upon in Phase II such that the tools that are built are available freely to the community via wide dissemination of knowledge and training. All of the tools and standards will be made publicly available using open-source development projects.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040636</AwardID>
+<Investigator>
+<FirstName>Klavs</FirstName>
+<LastName>Jensen</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Klavs F Jensen</PI_FULL_NAME>
+<EmailAddress><![CDATA[kfjensen@mit.edu]]></EmailAddress>
+<NSF_ID>000339653</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Regina</FirstName>
+<LastName>Barzilay</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Regina Barzilay</PI_FULL_NAME>
+<EmailAddress><![CDATA[regina@csail.mit.edu]]></EmailAddress>
+<NSF_ID>000183242</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bradley</FirstName>
+<LastName>Olsen</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bradley D Olsen</PI_FULL_NAME>
+<EmailAddress><![CDATA[bdolsen@mit.edu]]></EmailAddress>
+<NSF_ID>000573386</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Kroenlein</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kenneth G Kroenlein</PI_FULL_NAME>
+<EmailAddress><![CDATA[kkroenlein@citrine.io]]></EmailAddress>
+<NSF_ID>000827466</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kaoru</FirstName>
+<LastName>Aou</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kaoru Aou</PI_FULL_NAME>
+<EmailAddress><![CDATA[kaou@dow.com]]></EmailAddress>
+<NSF_ID>000831288</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394307</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~1000000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>During Phase 1, our goal was to design and develop a digital ecosystem for polymer informatics and data sharing tools, we developed a prototype web application to allow users to interact with and visualize data.</p> <p>To include all stakeholders in the decision making process, the CRIPT team conducted individual interviews with 28 community members (academia, industry, scientific publishers, instrument vendor, government labs, etc.), to discuss their needs for data infrastructure providing a variety of perspectives. While specific needs differed among the stakeholders, a common theme emerged. Consistently, community members expressed that existing data management solutions for polymers were far from satisfactory. In day-to-day operations, even with electronic lab notebooks (ELNs) and existing databases, polymer researchers frequently rely on experts to locate and retrieve data. This is due to the poor indexing and fragmentation of much of the existing open polymer data on the web. Data becomes even harder to locate when personnel changes occur, as domain knowledge is often lost when an experienced researcher leaves a project. As such, researchers from both academia and industry expressed strong desires for a polymer database that organizes data from many sources and presents data in a way that retains chemical context important to polymer development. Further, easy-to-use navigation and search tools and chemistry-based queries were identified as top priorities. Most interviewees pointed to the lack of a good public database as the major hurdle slowing down the development of polymer AI, rather than the lack of models and computational resources. With this information, we identified our primary aim: building a polymer data ecosystem that would normalize data sharing and facilitate data and model searching.</p> <p>To accomplish CRIPT?s mission, there was a need to generate a standard data model and schema to share polymer data.&nbsp; The data structure presented in CRIPT provides a universal system to capture all relevant polymer data in a manner optimized for facilitating FAIR data principles: findability, accessibility, interoperability, and reusability. It is designed to allow users to contribute data for the benefit of the polymer community with the goal of accelerating the pace of polymer innovation. The data model?s overall structure is a directed acyclic graph (DAGs) where the underlying graph flow mirrors the temporal steps of a material synthesis and characterization process. The nodes of the graph is where the data is stored and the edges signify the relationships between data. There are 4 main nodes: materials (contains identity and property data for a chemical), processes (contains ingredient list, quantities, and procedure information), data/measurements (contains raw instrument or processed data), and simulations (contains initialization and specifics for computationally generated materials).</p> <p>Having accessible well-structured data is the foundation of cheminformatics. Among one of the key features of the database is the inclusion of BigSMILES. This line notation provides a key identifier of polymers, however, as it is a very new tool, we wanted to help users more intuitively use BigSMILES notation. To do this, we created an interactive molecular editor which can convert a classical molecular drawing of a polymer into BigSMILES line notation which can directly be used as identifier in the Material node of the CRIPT data structure.</p> <p class="Default">As a result the current version of CRIPT app enables users to store complex polymer data in the CRIPT data model. The organization of data is one of the key steps to building a polymer properties database that will serve as a useful resource for the community. Additionally, the CRIPT app contains embedded applications and tools that enable visualization and ingestion of polymer property data. For example, the block copolymer database phase explorer exposes a highly curated collection of block copolymers allowing users to filter on relevant properties to easily find copolymers of interest. Key features of the CRIPT web application in include data ingest and search functionality, integrated with BigSMILES parser, integrated with NLP procedure parser.</p> <p class="Default">&nbsp;</p> <p class="Default">Also, the CRIPT team organized a two-day Virtual Polymer Data Symposium.&nbsp; This symposium served as an opportunity to introduce the community to the CRIPT app, and it provided a forum for the community to discuss how data and AI can revolutionize materials research. During the symposium, the CRIPT team led discussion on the new CRIPT data model and an interactive demo of the CRIPT application to the 498 registered participants (from academia, government, and industry). Additionally, the CRIPT team led breakout sessions to outline the current issues facing polymer development that CRIPT can be positioned to solve. The connections made during the symposium provided additional feedback throughout the Phase I development process, enabling user-driven feedback to be incorporated.</p> <p>&nbsp;</p><br> <p>            Last Modified: 04/22/2022<br>      Modified by: Bradley&nbsp;D&nbsp;Olsen</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2040636/2040636_10706709_1648497248840_CRIPTdatastructure--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040636/2040636_10706709_1648497248840_CRIPTdatastructure--rgov-800width.jpg" title="CRIPT data structure"><img src="/por/images/Reports/POR/2022/2040636/2040636_10706709_1648497248840_CRIPTdatastructure--rgov-66x44.jpg" alt="CRIPT data structure"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Example of the directed acyclic graph for diblock bottlebrush synthesis and material characterization. This represents a typical polymer material workflow and how its visually represented in the CRIPT data structure. Blue nodes are Materials, Yellow nodes are Processes, and Green nodes are Data.</div> <div class="imageCredit">MIT</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Bradley&nbsp;D&nbsp;Olsen</div> <div class="imageTitle">CRIPT data structure</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2040636/2040636_10706709_1648497340540_AscreenshotoftheNISTpolymerpolymerpropertypredictordatabaseontheCRIPTwebapplication.--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040636/2040636_10706709_1648497340540_AscreenshotoftheNISTpolymerpolymerpropertypredictordatabaseontheCRIPTwebapplication.--rgov-800width.jpg" title="Polymer Property Predictor Database"><img src="/por/images/Reports/POR/2022/2040636/2040636_10706709_1648497340540_AscreenshotoftheNISTpolymerpolymerpropertypredictordatabaseontheCRIPTwebapplication.--rgov-66x44.jpg" alt="Polymer Property Predictor Database"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A screenshot of the NIST polymer property predictor database on the CRIPT web application.</div> <div class="imageCredit">MIT</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Bradley&nbsp;D&nbsp;Olsen</div> <div class="imageTitle">Polymer Property Predictor Database</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2040636/2040636_10706709_1648497425063_criptapp.herokuapp.com--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040636/2040636_10706709_1648497425063_criptapp.herokuapp.com--rgov-800width.jpg" title="CRIPT Front Page"><img src="/por/images/Reports/POR/2022/2040636/2040636_10706709_1648497425063_criptapp.herokuapp.com--rgov-66x44.jpg" alt="CRIPT Front Page"></a> <div class="imageCaptionContainer"> <div class="imageCaption">criptapp.herokuapp.com</div> <div class="imageCredit">MIT</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Bradley&nbsp;D&nbsp;Olsen</div> <div class="imageTitle">CRIPT Front Page</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2040636/2040636_10706709_1648497520088_InteractivemoleculareditorthatconvertsmoleculardrawingsofapolymersintoBigSMILESlinenotations--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040636/2040636_10706709_1648497520088_InteractivemoleculareditorthatconvertsmoleculardrawingsofapolymersintoBigSMILESlinenotations--rgov-800width.jpg" title="BigSMILES"><img src="/por/images/Reports/POR/2022/2040636/2040636_10706709_1648497520088_InteractivemoleculareditorthatconvertsmoleculardrawingsofapolymersintoBigSMILESlinenotations--rgov-66x44.jpg" alt="BigSMILES"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Interactive molecular editor that converts molecular drawings of a polymers into BigSMILES line notations.</div> <div class="imageCredit">MIT</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Bradley&nbsp;D&nbsp;Olsen</div> <div class="imageTitle">BigSMILES</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ During Phase 1, our goal was to design and develop a digital ecosystem for polymer informatics and data sharing tools, we developed a prototype web application to allow users to interact with and visualize data.  To include all stakeholders in the decision making process, the CRIPT team conducted individual interviews with 28 community members (academia, industry, scientific publishers, instrument vendor, government labs, etc.), to discuss their needs for data infrastructure providing a variety of perspectives. While specific needs differed among the stakeholders, a common theme emerged. Consistently, community members expressed that existing data management solutions for polymers were far from satisfactory. In day-to-day operations, even with electronic lab notebooks (ELNs) and existing databases, polymer researchers frequently rely on experts to locate and retrieve data. This is due to the poor indexing and fragmentation of much of the existing open polymer data on the web. Data becomes even harder to locate when personnel changes occur, as domain knowledge is often lost when an experienced researcher leaves a project. As such, researchers from both academia and industry expressed strong desires for a polymer database that organizes data from many sources and presents data in a way that retains chemical context important to polymer development. Further, easy-to-use navigation and search tools and chemistry-based queries were identified as top priorities. Most interviewees pointed to the lack of a good public database as the major hurdle slowing down the development of polymer AI, rather than the lack of models and computational resources. With this information, we identified our primary aim: building a polymer data ecosystem that would normalize data sharing and facilitate data and model searching.  To accomplish CRIPT?s mission, there was a need to generate a standard data model and schema to share polymer data.  The data structure presented in CRIPT provides a universal system to capture all relevant polymer data in a manner optimized for facilitating FAIR data principles: findability, accessibility, interoperability, and reusability. It is designed to allow users to contribute data for the benefit of the polymer community with the goal of accelerating the pace of polymer innovation. The data model?s overall structure is a directed acyclic graph (DAGs) where the underlying graph flow mirrors the temporal steps of a material synthesis and characterization process. The nodes of the graph is where the data is stored and the edges signify the relationships between data. There are 4 main nodes: materials (contains identity and property data for a chemical), processes (contains ingredient list, quantities, and procedure information), data/measurements (contains raw instrument or processed data), and simulations (contains initialization and specifics for computationally generated materials).  Having accessible well-structured data is the foundation of cheminformatics. Among one of the key features of the database is the inclusion of BigSMILES. This line notation provides a key identifier of polymers, however, as it is a very new tool, we wanted to help users more intuitively use BigSMILES notation. To do this, we created an interactive molecular editor which can convert a classical molecular drawing of a polymer into BigSMILES line notation which can directly be used as identifier in the Material node of the CRIPT data structure. As a result the current version of CRIPT app enables users to store complex polymer data in the CRIPT data model. The organization of data is one of the key steps to building a polymer properties database that will serve as a useful resource for the community. Additionally, the CRIPT app contains embedded applications and tools that enable visualization and ingestion of polymer property data. For example, the block copolymer database phase explorer exposes a highly curated collection of block copolymers allowing users to filter on relevant properties to easily find copolymers of interest. Key features of the CRIPT web application in include data ingest and search functionality, integrated with BigSMILES parser, integrated with NLP procedure parser.   Also, the CRIPT team organized a two-day Virtual Polymer Data Symposium.  This symposium served as an opportunity to introduce the community to the CRIPT app, and it provided a forum for the community to discuss how data and AI can revolutionize materials research. During the symposium, the CRIPT team led discussion on the new CRIPT data model and an interactive demo of the CRIPT application to the 498 registered participants (from academia, government, and industry). Additionally, the CRIPT team led breakout sessions to outline the current issues facing polymer development that CRIPT can be positioned to solve. The connections made during the symposium provided additional feedback throughout the Phase I development process, enabling user-driven feedback to be incorporated.          Last Modified: 04/22/2022       Submitted by: Bradley D Olsen]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

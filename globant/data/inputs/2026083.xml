@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase II:  A Fully-Digital Transceiver Design for mmWave Communications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>982414.00</AwardTotalIntnAmount>
+<AwardAmount>982414</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to provide a new way for developers of wireless systems to test their prototypes.  The estimated market size is $300 M and supports the development of many new sectors, such as next-generation cellular systems, self-driving cars, robotics, augmented/virtual reality, and unmanned aerial vehicles (drones). This project will advance a new technology, affordable and technically advanced software-defined radios (SDRs), for testing. &lt;br/&gt;&lt;br/&gt;This SBIR Phase II project will advance the translation of SDRs.  The millimeter wave (mmWave) frequencies from 30-300 GHz can be used to meet increased demand, but getting systems to work in the real-world in these frequencies remains challenging. This SBIR Phase II effort will advance an SDR to prototype systems across all layers of the protocol stack.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026083</AwardID>
+<Investigator>
+<FirstName>Aditya</FirstName>
+<LastName>Dhananjay</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aditya V Dhananjay</PI_FULL_NAME>
+<EmailAddress><![CDATA[aditya.dhananjay@pi-rad.io]]></EmailAddress>
+<NSF_ID>000802697</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>PI RADIO INC</Name>
+<CityName>BROOKLYN</CityName>
+<ZipCode>112263291</ZipCode>
+<PhoneNumber>3475931161</PhoneNumber>
+<StreetAddress>95 LINDEN BLVD</StreetAddress>
+<StreetAddress2><![CDATA[APT 65A]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RFUAC2CZ3ZZ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PI RADIO INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pi Radio Inc]]></Name>
+<CityName>BROOKLYN</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>112264294</ZipCode>
+<StreetAddress><![CDATA[212 LINDEN BLVD, APT 8A]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1591</Code>
+<Text>STTR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4096</Code>
+<Text>COMMUNICATIONS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~982414</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Wireless research is plagued by an over-reliance on theory/simulations, while experimentation remains very rare. The main reasons are that experimental wireless&nbsp; hardware platforms are expensive, and reference software implementations are hard to come by.</p> <p>Pi-Radio's vision is to democratize experimental research through affordable software-defined radios (SDRs) that feature bleeding-edge transceiver techologies, combined with a suite of free and open-source software implementations.</p> <p>In this NSF SBIR performance period, Pi-Radio has designed several SDRs:</p> <p>- Pi-Radio "CV Raman": 8-channel multi-analog beamforming</p> <p>- Pi-Radio "Hedy Lamarr": 8-channel fully-digital beamforming</p> <p>- Pi-Radio "JC Bose": 4x64 split-hybrid beamforming</p> <p>Pi-Radio is also working on an 8-channel SDR that operates in the 6-24 GHz band, and also on a joint effort with UCSB to build 140 GHz SDRs (the 140 GHz SDR effort is DARPA funded).</p> <p>On the software side, Pi-Radio has built a channel sounder, data link implementation, and a simple wideband RADAR system. These are available on GitHub.</p> <p>Through this journey, Pi-Radio has faced many challenges including: a) semiconductor shortages; b) manufacturing (fabrication and assembly) challenges; c) severe inflationary effects; and d) market challenges with low volumes and low margins. On the technical side, Pi-Radio has learned best practices to de-risk against these challenges. On the business side, Pi-Radio plans to diversify its target market into the defense ecosystem as well.</p> <p>Software-defined radios are a critical requirement in enabling experimental wireless research; Pi-Radio's goal is to play a role in making this a reality.</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/20/2022<br>      Modified by: Aditya&nbsp;V&nbsp;Dhananjay</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Wireless research is plagued by an over-reliance on theory/simulations, while experimentation remains very rare. The main reasons are that experimental wireless  hardware platforms are expensive, and reference software implementations are hard to come by.  Pi-Radio's vision is to democratize experimental research through affordable software-defined radios (SDRs) that feature bleeding-edge transceiver techologies, combined with a suite of free and open-source software implementations.  In this NSF SBIR performance period, Pi-Radio has designed several SDRs:  - Pi-Radio "CV Raman": 8-channel multi-analog beamforming  - Pi-Radio "Hedy Lamarr": 8-channel fully-digital beamforming  - Pi-Radio "JC Bose": 4x64 split-hybrid beamforming  Pi-Radio is also working on an 8-channel SDR that operates in the 6-24 GHz band, and also on a joint effort with UCSB to build 140 GHz SDRs (the 140 GHz SDR effort is DARPA funded).  On the software side, Pi-Radio has built a channel sounder, data link implementation, and a simple wideband RADAR system. These are available on GitHub.  Through this journey, Pi-Radio has faced many challenges including: a) semiconductor shortages; b) manufacturing (fabrication and assembly) challenges; c) severe inflationary effects; and d) market challenges with low volumes and low margins. On the technical side, Pi-Radio has learned best practices to de-risk against these challenges. On the business side, Pi-Radio plans to diversify its target market into the defense ecosystem as well.  Software-defined radios are a critical requirement in enabling experimental wireless research; Pi-Radio's goal is to play a role in making this a reality.          Last Modified: 12/20/2022       Submitted by: Aditya V Dhananjay]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

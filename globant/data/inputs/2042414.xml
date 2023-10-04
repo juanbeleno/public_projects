@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AF: Medium: Collaborative Research: Quantum-Secure Cryptography and Fine-Grained Quantum Query Complexity]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>03/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>177260.00</AwardTotalIntnAmount>
+<AwardAmount>193260</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+<PO_EMAI>achtchel@nsf.gov</PO_EMAI>
+<PO_PHON>7032927498</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Secure Internet communication faces a real threat in the form of a new breed of computer that harnesses the laws of quantum mechanics. The technical community is currently hard at work attempting to construct such "quantum" computers. While many mysteries about these devices remain, it is certain that a large-scale quantum computer would easily break all current public-key cryptography that underpins the current Internet. In certain attack models, important examples of private-key cryptography would also be rendered insecure. This 3-institution collaborative project studies the basic theoretical issues underlying these urgent threats to the security infrastructure. It seeks to understand the cryptography-breaking power of quantum computers, concentrating on two interweaving themes: quantum security for 1) authenticating, and 2) constructing quantum-secure cryptography from new primitives.  The project activities also include course development and mentorship at the graduate and undergraduate level. The project also involves specific outreach activities intended to broaden participation in Computer Science, including establishment and development of "women in computer science" chapters, outreach to local high schools, workshops for high-school STEM teachers, and development of computer science courses for a general audience at the three partner institutions.&lt;br/&gt;&lt;br/&gt;Authentication-proofs, for example, that an e-mail really did originate from you--is a basic and well-studied cryptographic challenge. In the setting of quantum adversaries, it is not clear how to appropriately formulate this essential notion, let alone produce specific cryptographic tools that achieve it. This project is addressing both of the challenges noted above, focusing on development of strong formulations of authentication and new cryptographic constructions that offer secure authentication. Finding "hidden" algebraic structures--like the fact that two lists of numbers are merely cyclic shifts of each other--is an emblematic theme in the study of the computing power of quantum computers. Certain variants of this problem have resisted decades of concerted effort by the quantum algorithms community, and appear to be quite difficult. This project studies applications of these problems to constructing new private-key cryptographic tools with quantum security guarantees.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/14/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2042414</AwardID>
+<Investigator>
+<FirstName>Fang</FirstName>
+<LastName>Song</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fang Song</PI_FULL_NAME>
+<EmailAddress><![CDATA[fsong@pdx.edu]]></EmailAddress>
+<NSF_ID>000754593</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Portland State University</Name>
+<CityName>PORTLAND</CityName>
+<ZipCode>972015522</ZipCode>
+<PhoneNumber>5037259900</PhoneNumber>
+<StreetAddress>1600 SW 4TH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>H4CAHK2RD945</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PORTLAND STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>H4CAHK2RD945</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Portland State University]]></Name>
+<CityName>Portland</CityName>
+<StateCode>OR</StateCode>
+<ZipCode>972070751</ZipCode>
+<StreetAddress><![CDATA[1600 SW 4th Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>2878</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7928</Code>
+<Text>Quantum Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7928</Code>
+<Text>QUANTUM COMPUTING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~177260</FUND_OBLG>
+<FUND_OBLG>2021~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>A central theme in this project is to study strong quantum security, especially when adversaries have quantum access to the cryptosystems. We identify rigorous security models that reflect quantum adversaries and attacks, construct cryptosystems realizing these security guarantees, and support the theory with development of new techniques for quantum query complexity.</p> <p>One major effort is to address the notion of "unforgeability" in the quantum setting.&nbsp; We introduced a new definition, called "blind&nbsp;unforgeability," and construct quantum-secure MACs and signature schemes fulfilling this new notion. In establishing their security, we provide new tools that facilitating reduction proofs tailored to our new blind unforgeability notion, and also generalized a breakthrough technique referred to as the recording technique which is proven fruitful.</p> <p>Next, this project produced several important results regarding quantum security of cryptographic hash functions and its idealized model known as the quantum random oracle model. We formulated security notions of hash functions against quantum attacks and proved implications or separations among them. For each property, we then showed whether it is preserved under the popular Merkle-Damg{\aa}rdand related iterated hash constructions in the quantum setting. As to the quantum random oracle model, we showed that it is unsound. Namely there exists constructions that can be proven secure in the quantum random oracle model, but are broken when we instantiate the random oracle with any poly-time computable hash function.</p> <p>We also established quantum security for two key-length extension schemes for blockciphers, the FX and double-encryption constructions. A conceptual novelty in this work is to consider a quantum-classical hybrid attack model, which is arguably more realistic than fully-quantum attacks. On the technical front, our proof develops a novel way that combines two methods in reasoning about quantum query bounds.</p> <p>Besides the research outcomes, two PhD students have been supported during the course of this project. An REU supplement also successfully offered&nbsp;two undergraduate students experience in post-quantum cryptography. The ongoing progress in post-quantum cryptography, including new findings in this project, have been incorporated in classes I offered such as intro to cryptography and intro to quantum computing, which helps raise awareness and train a future workforce.</p><br> <p>            Last Modified: 02/28/2023<br>      Modified by: Fang&nbsp;Song</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ A central theme in this project is to study strong quantum security, especially when adversaries have quantum access to the cryptosystems. We identify rigorous security models that reflect quantum adversaries and attacks, construct cryptosystems realizing these security guarantees, and support the theory with development of new techniques for quantum query complexity.  One major effort is to address the notion of "unforgeability" in the quantum setting.  We introduced a new definition, called "blind unforgeability," and construct quantum-secure MACs and signature schemes fulfilling this new notion. In establishing their security, we provide new tools that facilitating reduction proofs tailored to our new blind unforgeability notion, and also generalized a breakthrough technique referred to as the recording technique which is proven fruitful.  Next, this project produced several important results regarding quantum security of cryptographic hash functions and its idealized model known as the quantum random oracle model. We formulated security notions of hash functions against quantum attacks and proved implications or separations among them. For each property, we then showed whether it is preserved under the popular Merkle-Damg{\aa}rdand related iterated hash constructions in the quantum setting. As to the quantum random oracle model, we showed that it is unsound. Namely there exists constructions that can be proven secure in the quantum random oracle model, but are broken when we instantiate the random oracle with any poly-time computable hash function.  We also established quantum security for two key-length extension schemes for blockciphers, the FX and double-encryption constructions. A conceptual novelty in this work is to consider a quantum-classical hybrid attack model, which is arguably more realistic than fully-quantum attacks. On the technical front, our proof develops a novel way that combines two methods in reasoning about quantum query bounds.  Besides the research outcomes, two PhD students have been supported during the course of this project. An REU supplement also successfully offered two undergraduate students experience in post-quantum cryptography. The ongoing progress in post-quantum cryptography, including new findings in this project, have been incorporated in classes I offered such as intro to cryptography and intro to quantum computing, which helps raise awareness and train a future workforce.       Last Modified: 02/28/2023       Submitted by: Fang Song]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

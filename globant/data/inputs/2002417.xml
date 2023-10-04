@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  SondeFlux, a novel, low-cost, noninvasive device to detect and characterize the presence or absence of a bolus in the upper esophagus.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224999.00</AwardTotalIntnAmount>
+<AwardAmount>249999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+<PO_EMAI>hahn@nsf.gov</PO_EMAI>
+<PO_PHON>7032927069</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impacts/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to investigate novel noninvasive methods for detecting and quantifying material in the upper esophagus. Reflux occurs when a bolus of gastric contents flows in reverse from the stomach into the esophagus. Symptoms of reflux can include chronic cough, choking, difficulty breathing or swallowing, upper airway infections, and chest pain, but these symptoms can also be associated with other serious medical conditions. The proposed technology will aid clinicians in quickly assessing a patient’s symptoms to determine if reflux is the underlying cause. A noninvasive diagnostic modality for assessing reflux could save the healthcare system $10 billion annually, allow clinicians to provide improved care to their patients, and reduce the out-of-pocket costs to the 80 million Americans who are affected by reflux-related symptoms.&lt;br/&gt;&lt;br/&gt;The proposed STTR Phase I project will advance a technology using pulse-echo ultrasound and proprietary algorithms in a new non-conventional way to create an acoustic signature that can detect and differentiate a bolus in the esophagus. The esophagus distends in response to a bolus of material, eliciting the esophageal layers to change with respect to one another. Those changes can be observed with ultrasound sensors placed externally on the skin. This project will develop and validate electronic hardware, software, and custom ultrasonic transducers. This data acquisition system will be used to collect pulse-echo ultrasound data in an approved clinical early feasibility study. Data will be collected from patients undergoing modified barium swallow studies. The ultrasound data will be synchronized with the video-fluoroscopic images allowing for the development of a classifier algorithm which can automatically detect when a bolus is present at the level of the upper esophageal sphincter (UES).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002417</AwardID>
+<Investigator>
+<FirstName>Bradley</FirstName>
+<LastName>Stringer</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bradley J Stringer</PI_FULL_NAME>
+<EmailAddress><![CDATA[brad@reflodx.com]]></EmailAddress>
+<NSF_ID>000812504</NSF_ID>
+<StartDate>05/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>REFLODX, INC.</Name>
+<CityName>KAYSVILLE</CityName>
+<ZipCode>840376721</ZipCode>
+<PhoneNumber>8018853933</PhoneNumber>
+<StreetAddress>450 SIMMONS WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>P8NWJJV9TFB9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REFLODX, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>Salt Lake City</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841129003</ZipCode>
+<StreetAddress><![CDATA[201 S. Presidents Circle]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~249999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The focus of this NSF STTR Phase I project was to demonstrate the technical feasibility of <strong>SondeFlux&trade;</strong>. Specifically, that a portable data acquisition system and single element ultrasonic transducer can capture characteristic acoustic signatures that can be interpreted to reliably detect the presence or absence of a bolus in the cervical esophagus. The RefloDx team accomplished the technical objectives of their Phase I proposal and can reliably detect the presence or absence of a bolus in the cervical esophagus using a portable[wearable] data acquisition device with low-cost noninvasive single point ultrasonic transducers. &nbsp;</p> <p>The technical feasibility of SondeFlux was demonstrated by the accomplishment of three technical objectives:&nbsp; &nbsp;<strong>1 &ndash; </strong>Assemble, program, and validate a simplified prototype data acquisition (DAQ) and sensor system; <strong>2 &ndash; </strong>Noninvasively capture simultaneous A-mode ultrasound signals and video-fluoroscopic swallow study images; <strong>3 &ndash; </strong>Develop and validate a classifier algorithm capable of identifying characteristic indicators (acoustic ultrasound signature) of the presence or absence of a bolus in the cervical esophagus.</p> <p>SondeFlux meets an important demand in diagnosing laryngopharyngeal reflux (LPR), the retrograde transit of a refluxate bolus from the stomach into the upper esophagus and potentially into the upper airway. LPR can present in many ways including as aspiration pneumonia, reactive airway disease, stridor, choking, chronic cough, hoarseness, difficulty swallowing or the sensation a lump in the throat<sup>1</sup>. LPR is estimated to account for 9.8 million clinical visits every year, with a cost burden to the healthcare system of over $50 billion<sup>2,3,4</sup>. With over 130 I-Corps and beat-the-odds-bootcamp voice of the customer (VOC) interviews, the RefloDx team learned from both patients, clinicians and private payers, that the current diagnostic devices and methods for the diagnosis of LPR have many limitations. Chief among these are long wait time to get into the hospital for testing, short duration tests which can only confirm not rule out LPR, and additional cost burden associated with empiric trials of proton pump inhibitors (PPIs). The shortfalls of these current technologies and methods have created a market-pull dynamic from three separate customer segments (patients, clinicians, and payers), for a device with the value propositions such as SondeFlux.&nbsp; &nbsp;&nbsp;&nbsp;</p> <p><strong><em>RefloDx successfully demonstrated the technical feasibility of SondeFlux under the Phase I investigation and is poised to continue development of their noninvasive, cost-effective diagnostic device, enabling clinicians to diagnose their patients&rsquo; LPR related symptoms quickly and accurately.</em></strong></p> <p>&nbsp;</p><br> <p>            Last Modified: 10/15/2021<br>      Modified by: Bradley&nbsp;J&nbsp;Stringer</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The focus of this NSF STTR Phase I project was to demonstrate the technical feasibility of SondeFlux&trade;. Specifically, that a portable data acquisition system and single element ultrasonic transducer can capture characteristic acoustic signatures that can be interpreted to reliably detect the presence or absence of a bolus in the cervical esophagus. The RefloDx team accomplished the technical objectives of their Phase I proposal and can reliably detect the presence or absence of a bolus in the cervical esophagus using a portable[wearable] data acquisition device with low-cost noninvasive single point ultrasonic transducers.    The technical feasibility of SondeFlux was demonstrated by the accomplishment of three technical objectives:   1 &ndash; Assemble, program, and validate a simplified prototype data acquisition (DAQ) and sensor system; 2 &ndash; Noninvasively capture simultaneous A-mode ultrasound signals and video-fluoroscopic swallow study images; 3 &ndash; Develop and validate a classifier algorithm capable of identifying characteristic indicators (acoustic ultrasound signature) of the presence or absence of a bolus in the cervical esophagus.  SondeFlux meets an important demand in diagnosing laryngopharyngeal reflux (LPR), the retrograde transit of a refluxate bolus from the stomach into the upper esophagus and potentially into the upper airway. LPR can present in many ways including as aspiration pneumonia, reactive airway disease, stridor, choking, chronic cough, hoarseness, difficulty swallowing or the sensation a lump in the throat1. LPR is estimated to account for 9.8 million clinical visits every year, with a cost burden to the healthcare system of over $50 billion2,3,4. With over 130 I-Corps and beat-the-odds-bootcamp voice of the customer (VOC) interviews, the RefloDx team learned from both patients, clinicians and private payers, that the current diagnostic devices and methods for the diagnosis of LPR have many limitations. Chief among these are long wait time to get into the hospital for testing, short duration tests which can only confirm not rule out LPR, and additional cost burden associated with empiric trials of proton pump inhibitors (PPIs). The shortfalls of these current technologies and methods have created a market-pull dynamic from three separate customer segments (patients, clinicians, and payers), for a device with the value propositions such as SondeFlux.       RefloDx successfully demonstrated the technical feasibility of SondeFlux under the Phase I investigation and is poised to continue development of their noninvasive, cost-effective diagnostic device, enabling clinicians to diagnose their patients’ LPR related symptoms quickly and accurately.          Last Modified: 10/15/2021       Submitted by: Bradley J Stringer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

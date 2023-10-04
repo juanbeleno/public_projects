@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Time-Invariant, Multi-Objective Extremum Seeking Control for Model-Free Auto-Tuning of Powered Prosthetic Legs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>111579.00</AwardTotalIntnAmount>
+<AwardAmount>111579</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eva Kanso</SignBlockName>
+<PO_EMAI>ekanso@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research project seeks fundamental knowledge and understanding of versatile, adaptive optimization methods to enable real-time auto-tuning of powered prosthetic legs. Even with the help of modern prosthetic legs, lower-limb amputees often experience reduced mobility, leading to reduced quality of life and additional health problems. Recently developed powered prosthetic legs have the potential to improve outcomes, but these devices have not been clinically adopted because of the technical expertise and excessive time and effort required to configure their control systems for each patient. These control systems involve dozens of non-intuitive parameters that are specific to each user's physiology, how they walk, and environmental conditions, which also prevents these devices from adapting to the changing rhythms of daily life. Powered prostheses that automatically adjust to changing user activity and environmental conditions could significantly improve mobility for over a million lower-limb amputees in the United States alone. Furthermore, self-tuning could help powered prosthetic legs to adapt to natural changes in the patient perhaps, for example, due to fatigue. The self-tuning algorithms would have applications in control of other repetitive processes, such as powered orthoses for stroke patients, energy-harvesting turbines, HVAC systems, and biological processes. To promote knowledge transfer, the PIs will sponsor senior design projects for undergraduate student teams to design and build new experimental test beds for the developed control systems.&lt;br/&gt;&lt;br/&gt;The major objective of this research concerns novel methods of model-free adaptive optimization for systems with varying time-scales and competing objectives. Extremum seeking control (ESC) is a powerful approach to model-free adaptive optimization that requires the plant and ESC dynamics to have separated, fixed time-scales in order to optimize a single objective function. However, human locomotion exhibits varying time-scales based on activity (e.g., walking speed) and involves optimization of multiple competing objectives (e.g., energetic efficiency vs. stability). A time-invariant, multi-objective ESC framework is therefore needed to auto-tune powered prosthetic legs, which currently require several hours of customization by an expert, just for baseline operation. The overall goals of this project are to first to understand how to perform ESC of rhythmic processes with varying time-scales for real-time, model-free adaptation, next to understand how to automatically optimize multiple competing objectives using ESC, and, finally, to understand how to auto-tune a powered prosthetic leg for patient-specific behavior without a model of the human user.]]></AbstractNarration>
+<MinAmdLetterDate>08/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040335</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Gans</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicholas Gans</PI_FULL_NAME>
+<EmailAddress><![CDATA[nicholas.gans@uta.edu]]></EmailAddress>
+<NSF_ID>000564957</NSF_ID>
+<StartDate>08/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Arlington</Name>
+<CityName>ARLINGTON</CityName>
+<ZipCode>760199800</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress>701 S. NEDDERMAN DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LMLUKUPJJ9N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF TEXAS AT ARLINGTON</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at Arlington]]></Name>
+<CityName>Arlington</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>760190001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7569</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~111579</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Many real-world applications require multiple conflicting objectives to be optimized. However, explicit functions mapping the system variables to outputs are often unknown, making traditional optimization approaches impossible. <em>Extremum Seeking Control</em> (ESC) is one method to tackle this problem by estimating the local gradient of the objective functions.&nbsp; However, conventional ESC methods use a slow, exogenous time-dependent periodic input to induce dithering motions of the system to estimate the gradient.&nbsp; If the natural speed of the system is too slow, these methods can become unstable.&nbsp; &nbsp;There are applications where the system does not operate at a fixed timescale. Human locomotion is one example, which exhibits varying timescales based on walking speed.&nbsp;</p> <p>We investigated a novel ESC approach that uses periodic signals that many systems naturally encounter to provide exciting signals to drive gradient estimation, rather than an external time-based signal.&nbsp; In this way, we can escape time-scale issues that most ESC methods require and ensure stability and performance.&nbsp; In our primary application of optimizing a powered prosthetic leg during walking, the walking cycle is periodic, and the hip angle provided the signal to drive estimation. We also extended ESC to execute a <em>Multiple Gradient Descent Algorithm </em>to solve a <em>Multi-Objective Optimization Problem</em>. Experiments were performed by able-bodied human subjects wearing a powered prosthetic leg with a knee bypass adapter.&nbsp; Multi-objective optimization was demonstrated to reduce errors of the leg joints tracking a desired trajectory, minimize power consumption, and maximize comfort and satisfaction of the user.&nbsp; We extended this investigation to ankle orthotics to reduce walking effort and to optimization of power generation by wind-turbines, which also have a periodic signal (angle of the blades) that varies with wind speed and direction.&nbsp;</p> <p>In the final periods of this project, an additional investigation was undertaken inspired by the challenge of recording and representing walking trajectories.&nbsp; We proposed to use imitation methods such as<em> Probabilistic Motion Primitives</em> to define a distribution of trajectories through limited training sessions with a human operator.&nbsp; We then investigated approaches for robots to move along these distributions rather than a single trajectory, which gives more freedom of motion and to adjust.&nbsp; We used a method called <em>Control Barrier Functions</em> to ensure that the trajectory is carried out safely.</p> <p>The project resulted in multiple juried publications and a PhD dissertation. In pursuit of these results, two graduate students were trained in concepts in nonlinear control and nonlinear optimization. Both students gained experience in conducting and directing research.&nbsp; A senior design team and two undergraduate students worked on this project, gaining experience in programming, dynamic modeling, and robot control.&nbsp; Demonstrations were performed for visitors to the labs in conjunction with International Engineers Week and National Robotics Week.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/29/2022<br>      Modified by: Nicholas&nbsp;Gans</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2040335/2040335_10510314_1672335482083_Picture1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040335/2040335_10510314_1672335482083_Picture1--rgov-800width.jpg" title="Block diagram of the proposed automatically tuned controller."><img src="/por/images/Reports/POR/2022/2040335/2040335_10510314_1672335482083_Picture1--rgov-66x44.jpg" alt="Block diagram of the proposed automatically tuned controller."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Block diagram of the proposed automatically tuned controller.</div> <div class="imageCredit">Saurav Kumar</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Nicholas&nbsp;Gans</div> <div class="imageTitle">Block diagram of the proposed automatically tuned controller.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2040335/2040335_10510314_1672335536691_Picture2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040335/2040335_10510314_1672335536691_Picture2--rgov-800width.jpg" title="Different experimental setups of the prosthetic limb"><img src="/por/images/Reports/POR/2022/2040335/2040335_10510314_1672335536691_Picture2--rgov-66x44.jpg" alt="Different experimental setups of the prosthetic limb"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Different experimental setups. (a) In the benchtop mode, the top of the prosthetic leg knee joint was attached on to a rigid bench. (b) In the walking mode, an able-bodied subject walked on the prosthetic leg using a knee-bypass adapter.</div> <div class="imageCredit">Robert Gregg</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Nicholas&nbsp;Gans</div> <div class="imageTitle">Different experimental setups of the prosthetic limb</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2040335/2040335_10510314_1672335648493_Picture3--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040335/2040335_10510314_1672335648493_Picture3--rgov-800width.jpg" title="Experimental results of the ESC-optimized prosthetic leg during walking"><img src="/por/images/Reports/POR/2022/2040335/2040335_10510314_1672335648493_Picture3--rgov-66x44.jpg" alt="Experimental results of the ESC-optimized prosthetic leg during walking"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Walking ESC experimental results show adaptation at different speeds. The black line represents the moving average of the mean of two trials with a window size of 10 s. The dashed vertical black line represents the time instant at which the treadmill speed is changed. It can be seen from (a) and (b)</div> <div class="imageCredit">Saurav Kumar, Nicholas Gans</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Nicholas&nbsp;Gans</div> <div class="imageTitle">Experimental results of the ESC-optimized prosthetic leg during walking</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2040335/2040335_10510314_1672335732611_Picture4--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040335/2040335_10510314_1672335732611_Picture4--rgov-800width.jpg" title="Results of the PRoMP+CBF controller"><img src="/por/images/Reports/POR/2022/2040335/2040335_10510314_1672335732611_Picture4--rgov-66x44.jpg" alt="Results of the PRoMP+CBF controller"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Left is a series of training trajectories for a robot joint in red, the fitted Pro-MP mean in dark green, and one standard deviation in light green.  The Standard deviation of the Pro-MP defines the barriers of the control barrier functions.  The middle figure shows three different solutions for a t</div> <div class="imageCredit">Asif Iqbal, Joseph Cloud, Nicholas Gans</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Nicholas&nbsp;Gans</div> <div class="imageTitle">Results of the PRoMP+CBF controller</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Many real-world applications require multiple conflicting objectives to be optimized. However, explicit functions mapping the system variables to outputs are often unknown, making traditional optimization approaches impossible. Extremum Seeking Control (ESC) is one method to tackle this problem by estimating the local gradient of the objective functions.  However, conventional ESC methods use a slow, exogenous time-dependent periodic input to induce dithering motions of the system to estimate the gradient.  If the natural speed of the system is too slow, these methods can become unstable.   There are applications where the system does not operate at a fixed timescale. Human locomotion is one example, which exhibits varying timescales based on walking speed.   We investigated a novel ESC approach that uses periodic signals that many systems naturally encounter to provide exciting signals to drive gradient estimation, rather than an external time-based signal.  In this way, we can escape time-scale issues that most ESC methods require and ensure stability and performance.  In our primary application of optimizing a powered prosthetic leg during walking, the walking cycle is periodic, and the hip angle provided the signal to drive estimation. We also extended ESC to execute a Multiple Gradient Descent Algorithm to solve a Multi-Objective Optimization Problem. Experiments were performed by able-bodied human subjects wearing a powered prosthetic leg with a knee bypass adapter.  Multi-objective optimization was demonstrated to reduce errors of the leg joints tracking a desired trajectory, minimize power consumption, and maximize comfort and satisfaction of the user.  We extended this investigation to ankle orthotics to reduce walking effort and to optimization of power generation by wind-turbines, which also have a periodic signal (angle of the blades) that varies with wind speed and direction.   In the final periods of this project, an additional investigation was undertaken inspired by the challenge of recording and representing walking trajectories.  We proposed to use imitation methods such as Probabilistic Motion Primitives to define a distribution of trajectories through limited training sessions with a human operator.  We then investigated approaches for robots to move along these distributions rather than a single trajectory, which gives more freedom of motion and to adjust.  We used a method called Control Barrier Functions to ensure that the trajectory is carried out safely.  The project resulted in multiple juried publications and a PhD dissertation. In pursuit of these results, two graduate students were trained in concepts in nonlinear control and nonlinear optimization. Both students gained experience in conducting and directing research.  A senior design team and two undergraduate students worked on this project, gaining experience in programming, dynamic modeling, and robot control.  Demonstrations were performed for visitors to the labs in conjunction with International Engineers Week and National Robotics Week.           Last Modified: 12/29/2022       Submitted by: Nicholas Gans]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

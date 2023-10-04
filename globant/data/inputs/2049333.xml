@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Active preference learning to aid public decisions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>400288.00</AwardTotalIntnAmount>
+<AwardAmount>408988</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert O'Connor</SignBlockName>
+<PO_EMAI>roconnor@nsf.gov</PO_EMAI>
+<PO_PHON>7032927263</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[When individuals need to choose between options, such as whether to buy an electric or hybrid car, they must first characterize those options, for example in terms of price or miles per gallon, then select the option that best satisfies their preferences. This can be a daunting task when there are many options, complex ways of characterizing those options, and when individuals are unsure about how to make tradeoffs among them. Decision aids help individuals formulate such decision problems by providing a simple characterization of the risks, costs, and benefits of the available options. Yet, many important decisions involve multiple decision-makers, such as a family purchasing a car, a group of friends choosing a movie to watch, or even members of the public choosing the future of energy policy for their city, state, or country. In this research we generalize the individual decision aid to a public decision aid, that helps groups of heterogeneous decision-makers come to consensus using information about individual and group choices. To do this, we combine methods from active preference learning with the use of social welfare functions that map individual to group preferences. Our two public decision aids 1) learn individual preferences by asking the minimum number of questions of a decision-maker to precisely learn preferences, 2) efficiently learn group social welfare functions, and then 3) make recommendations to groups based on the learned individual and group preferences. Using this approach, we aim to answer three research questions: 1) What choice rules do individuals and groups use for energy and environmental policy? 2) What active learning methods can best estimate those choice rules? 3) To what degree does heterogeneity in social preferences affect group consensus? The research forwards fundamental knowledge of decision-making by combining theories and models at the intersection of behavioral decision research, decision analysis, active machine learning, and techno-economic analysis. &lt;br/&gt;&lt;br/&gt;This project forwards research into the conceptual, methodological, and empirical foundations of a public decision aid approach for helping groups of stakeholders come to consensus on public policies. To do this, the project combines active preference learning methods that select the most informative choice sets to learn preferences, with social welfare optimization, that learns a mapping from individual to group preferences based on group behavior. Three aims advance this research. Aim 1 develops a novel twinned neural network architecture that can actively learn the individual preferences of decision-makers across many different types of behavioral choice rules, using simulations and prior data to test the architecture against strong benchmarks. Aim 2 extends that architecture with a homogeneous degree 1 penalty to learn group social welfare functions from group choice behavior, using simulations to test the neural network against social welfare function priors established in pilot research. Aim 3 collects new data in two contexts. The first tests the best individual and group active preference learning approaches in an online randomized experiment for US federal energy policy. The second uses a field experiment to help Chilean regulators prioritize environmental inspections. The results expand scientific understanding of the capability and efficiency of methods for learning individual and group preferences, and help practitioners use the most effective methods for reaching group consensus in energy and environmental public policy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/19/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/26/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2049333</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Davis</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander L Davis</PI_FULL_NAME>
+<EmailAddress><![CDATA[ald1@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000571255</NSF_ID>
+<StartDate>09/13/2022</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Davis</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander L Davis</PI_FULL_NAME>
+<EmailAddress><![CDATA[ald1@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000571255</NSF_ID>
+<StartDate>01/19/2021</StartDate>
+<EndDate>09/13/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Destenie</FirstName>
+<LastName>Nock</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Destenie S Nock</PI_FULL_NAME>
+<EmailAddress><![CDATA[dnock@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000814167</NSF_ID>
+<StartDate>09/13/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Destenie</FirstName>
+<LastName>Nock</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Destenie S Nock</PI_FULL_NAME>
+<EmailAddress><![CDATA[dnock@andrew.cmu.edu]]></EmailAddress>
+<NSF_ID>000814167</NSF_ID>
+<StartDate>01/19/2021</StartDate>
+<EndDate>09/13/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 FORBES AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NKNFLNQ613</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CARNEGIE MELLON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>U3NKNFLNQ613</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Carnegie Mellon University]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152133815</ZipCode>
+<StreetAddress><![CDATA[5000 Forbes Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1321</Code>
+<Text>Decision, Risk &amp; Mgmt Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~225467</FUND_OBLG>
+<FUND_OBLG>2022~47680</FUND_OBLG>
+<FUND_OBLG>2023~135841</FUND_OBLG>
+</Award>
+</rootTag>

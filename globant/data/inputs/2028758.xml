@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: A Lung Mucus Strategy for COVID-19 Viral Protection]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zhilan Feng</SignBlockName>
+<PO_EMAI>zfeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927523</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Vulnerability to COVID-19 arises from multiple risk factors, but two are particularly prominent: lack of antibodies (Ab) to the novel coronavirus; and structural properties of lung mucus. This project addresses both risk factors through focused experiments and data from two labs in an active feedback loop with mathematical modeling, simulations, and theory. The mathematical effort will provide a platform, starting from a baseline model and simulation of exposure to inhaled COVID-19 without Ab protection. The baseline model will distinguish clearance of the inhaled viral load versus onset and propagation of respiratory infection. Two experimental interventions will be simulated on top of the baseline model at progressive stages of infection: inhaled doses of COVID-19-specific monoclonal antibodies (mAb) and of structure-targeted mucolytics.  Both labs will leverage mathematical predictions to accelerate and optimize their strategies to mitigate COVID-19 disease. Likewise, experimental results and data will be leveraged to validate models and learn hidden factors critical to the predictive accuracy of the models.  The potential broader impact of this project is to predict optimal, mAb-based and mucolytic-based treatments for specific sub-populations at various stages of COVID-19 lung infection.&lt;br/&gt;&lt;br/&gt;The mathematical modeling platform will explore the delicate interplay among: inhaled loads of COVID-19, their diffusion within, and potentially through, the mucus-coated respiratory tract; infectivity onset as COVID-19 reaches and invades epithelial cells, produces daughters that invade new cells and propagate the infection; how long after exposure to COVID-19 either natural antibodies or engineered mAb are introduced into the mucus layer; and, the rate of clearance of the mucus layer from the lung.  The latter clearance rate is known to depend, often dramatically, on structural properties of mucus in vulnerable sub-populations to COVID-19.  The experimental team will test outcomes of existing mAb on non-infectious COVID-19 nanoparticles. A multi-species stochastic model will simulate diffusion and propagation of COVID-19, interrupted by mAb-crosslinks between COVID-19 and mucins. Some reaction-diffusion parameters are measured while others will be learned from experimental data using hidden Markov methods. A polymer-physics-based molecular dynamics model of mucus will simulate structure properties of mucus based on the chemical structure and concentrations of mucin polymers known for specific sub-populations. With this modeling platform, the goals are to: optimize mAb design; characterize efficiency of given mAb affinities to COVID-19 and mucus; and quantify the inhaled mAb dose required to arrest COVID-19 infection at various stages of progression, specific to mucus structure properties.&lt;br/&gt;&lt;br/&gt;This grant is being awarded using funds made available by the Coronavirus Aid, Relief, and Economic Security (CARES) Act supplemental funds allocated to MPS.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028758</AwardID>
+<Investigator>
+<FirstName>M</FirstName>
+<LastName>Forest</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>M G Forest</PI_FULL_NAME>
+<EmailAddress><![CDATA[forest@unc.edu]]></EmailAddress>
+<NSF_ID>000361580</NSF_ID>
+<StartDate>05/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Lai</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Samuel K Lai</PI_FULL_NAME>
+<EmailAddress><![CDATA[lai@unc.edu]]></EmailAddress>
+<NSF_ID>000596001</NSF_ID>
+<StartDate>05/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ronit</FirstName>
+<LastName>Fraiman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ronit Fraiman</PI_FULL_NAME>
+<EmailAddress><![CDATA[ronifree@email.unc.edu]]></EmailAddress>
+<NSF_ID>000770205</NSF_ID>
+<StartDate>05/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275995023</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D3LHU66KBLD5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of North Carolina at Chapel Hill]]></Name>
+<CityName>CHapel Hill</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>275143250</ZipCode>
+<StreetAddress><![CDATA[hillips Hall, 120 E Cameron Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The COVID-19 pandemic has exposed significant gaps in the ability of  the scientific, medical, and public health communities to understand  fundamental aspects of airborne infectious diseases. Indeed, the  pandemic has exposed the critical need for communication between these  three communities, sharing knowledge, capabilities and open questions. The Forest-Freeman-Lai RAPID project focused on, and achieved,  development of a predictive mathematical model for "within host"  exposure, infection, and progression of two key metrics: the SARS-CoV-2  viral load and the infected epithelial cells throughout the respiratory  tract.&nbsp; The model incorporated decades of knowledge of the detailed  physiology of the human respiratory tract, including the geometry and  physical dimensions of every location and branch, thicknesses of airway  surface liquids and advection of the mucus layer by cilia. The model  further incorporated emerging critical SARS-CoV-2 information:&nbsp; virus  diffusivity in airway surface liquids, infectable (and not) respiratory  cells, probability of infection per SARS-CoV-2 virion encounter, and  both number and duration of infectious SARS-CoV-2 daughter viruses by  infected cells. The baseline model assumes no immune response to a novel  coronavirus, and predicts outcomes of viral load and infected cells  from any exposure anywhere in the respiratory tract.</p> <p>We summarize key  results and insights of intellectual  merit.&nbsp; 1) A high-titer nasal tract infection is extremely likely from  even a small exposure to SARS-CoV-2.&nbsp; 2) Infections in the upper and  lower respiratory tract spread <em>away from the alveolar region</em> due to mucus advection; thus, <em>alveolar pneumonia can only arise from direct direct deposition of infectious SARS-CoV-2 "seeds" directly in the alveolar region</em>. 3) On the order of <em>a  million infectious seeds are required to infect a sufficient fraction  of the 140 square meters of alveolar surface area to cause alveolar  pneumonia. 4) </em>The model clearly shows <em>the 1000-fold higher titers in nasal swabs from the Delta variant must arise from mutations causing</em>: <em>weaker binding affinity</em> of SARS-CoV-2 to ACE2 receptors, not stronger affinity as is widely asserted; <em>faster hijacking of cellular machinery</em> to replicate daughter virions; <em>more efficient replication of infectious daughters</em>. 5) <em>Mathematically,  our model is unique in capturing the feedback between all physiological  and virological factors of exposure, infection, and progression of the  viral load and infected cells in the human respiratory tract.</em> 6) Simulations require <em>novel  data storage and strategies to parallelize virion and infected cell  activity throughout the expanse of the respiratory tract.</em></p> <p>The  baseline model is being enhanced to superimpose immune  responses, natural and vaccine-induced, antibody and antiviral  treatments, at any time prior to  or after exposure and infection.</p> <p>Broader impacts are as follows. 1) <em>Every  person with alveolar pneumonia first developed a high-titer nasal tract  infection, and then gave the alveolar infection to themself.</em> Clinical evidence is that a large fraction of COVID-19 patients  routinely aspirate nasal fluids especially while sleeping, and those mL  boluses must divide 10-20 times as they drain through the respiratory  tract to the deep lung, depositing 10s of thousands of infectious seeds  in the alveolar region per aspirated bolus.<em> 2) Nasal fluid aspiration is a clear risk factor for COVID-19 disease, consistent with clinical evidence. 3) </em>Powerful evidence for the efficicay of masks emerges from our  results. Since a high-titer nasal infection is likely from mild exposure, <em>masks strongly suppress exhalation of infectious aerosols into the surrounding air.&nbsp;</em> <em>4) </em>A person inhales their own exhaled aerosols more than others, and a significant percentage (~ 10%) of inhaled sub-micron aerosols are deposited into the alveolar region<em>: thus,</em> <em>wearing masks protects you even more than others. </em>Thus high-titer nasal infections are sources of infectious aerosols in the air, and <em>in  poorly ventilated indoor environments, sub-micron aerosols remain  suspended for hours, reinfecting onself and others in  their airspace. 5) </em>From the fluids engineering community, the generation of infectious aerosols exhaled, and  inhaled, is predominantly due to fluid rupture by closing and  opening of wet infected membranes when speaking and singing.&nbsp; Putting our  and their results together, we gain not only mechanistic insights into  exposure, infection, and transmission of SARS-CoV-2, but <em>common  sense understanding of why social distancing and masks are so effective  at preventing an infected person from giving a nasal infection to  yourself or someone else.</em> 6) Any treatments to suppress aspiration of nasal fluids is clearly efficacious. 7) As a future broader impact,<em> </em><em>the  baseline model developed through NSF RAPID support is currently  being expanded to superimpose immune  responses, natural and  vaccine-induced, antibody and antiviral  treatments, on top of the  pre-immune baseline model at any time prior to  or after exposure and  infection.</em> 8) Through the community network arranged by the NSF RAPID  team, our team has started new collaborations within and outside the  U.S. to model within-host and between-host viral infection and  transmission, thereby merging our capabilities with the epidemiological  community, and to address the cascade of secondary infections throughout the human body  from respiratory tract infections.</p><br> <p>            Last Modified: 08/27/2021<br>      Modified by: M. Gregory&nbsp;Forest</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The COVID-19 pandemic has exposed significant gaps in the ability of  the scientific, medical, and public health communities to understand  fundamental aspects of airborne infectious diseases. Indeed, the  pandemic has exposed the critical need for communication between these  three communities, sharing knowledge, capabilities and open questions. The Forest-Freeman-Lai RAPID project focused on, and achieved,  development of a predictive mathematical model for "within host"  exposure, infection, and progression of two key metrics: the SARS-CoV-2  viral load and the infected epithelial cells throughout the respiratory  tract.  The model incorporated decades of knowledge of the detailed  physiology of the human respiratory tract, including the geometry and  physical dimensions of every location and branch, thicknesses of airway  surface liquids and advection of the mucus layer by cilia. The model  further incorporated emerging critical SARS-CoV-2 information:  virus  diffusivity in airway surface liquids, infectable (and not) respiratory  cells, probability of infection per SARS-CoV-2 virion encounter, and  both number and duration of infectious SARS-CoV-2 daughter viruses by  infected cells. The baseline model assumes no immune response to a novel  coronavirus, and predicts outcomes of viral load and infected cells  from any exposure anywhere in the respiratory tract.  We summarize key  results and insights of intellectual  merit.  1) A high-titer nasal tract infection is extremely likely from  even a small exposure to SARS-CoV-2.  2) Infections in the upper and  lower respiratory tract spread away from the alveolar region due to mucus advection; thus, alveolar pneumonia can only arise from direct direct deposition of infectious SARS-CoV-2 "seeds" directly in the alveolar region. 3) On the order of a  million infectious seeds are required to infect a sufficient fraction  of the 140 square meters of alveolar surface area to cause alveolar  pneumonia. 4) The model clearly shows the 1000-fold higher titers in nasal swabs from the Delta variant must arise from mutations causing: weaker binding affinity of SARS-CoV-2 to ACE2 receptors, not stronger affinity as is widely asserted; faster hijacking of cellular machinery to replicate daughter virions; more efficient replication of infectious daughters. 5) Mathematically,  our model is unique in capturing the feedback between all physiological  and virological factors of exposure, infection, and progression of the  viral load and infected cells in the human respiratory tract. 6) Simulations require novel  data storage and strategies to parallelize virion and infected cell  activity throughout the expanse of the respiratory tract.  The  baseline model is being enhanced to superimpose immune  responses, natural and vaccine-induced, antibody and antiviral  treatments, at any time prior to  or after exposure and infection.  Broader impacts are as follows. 1) Every  person with alveolar pneumonia first developed a high-titer nasal tract  infection, and then gave the alveolar infection to themself. Clinical evidence is that a large fraction of COVID-19 patients  routinely aspirate nasal fluids especially while sleeping, and those mL  boluses must divide 10-20 times as they drain through the respiratory  tract to the deep lung, depositing 10s of thousands of infectious seeds  in the alveolar region per aspirated bolus. 2) Nasal fluid aspiration is a clear risk factor for COVID-19 disease, consistent with clinical evidence. 3) Powerful evidence for the efficicay of masks emerges from our  results. Since a high-titer nasal infection is likely from mild exposure, masks strongly suppress exhalation of infectious aerosols into the surrounding air.  4) A person inhales their own exhaled aerosols more than others, and a significant percentage (~ 10%) of inhaled sub-micron aerosols are deposited into the alveolar region: thus, wearing masks protects you even more than others. Thus high-titer nasal infections are sources of infectious aerosols in the air, and in  poorly ventilated indoor environments, sub-micron aerosols remain  suspended for hours, reinfecting onself and others in  their airspace. 5) From the fluids engineering community, the generation of infectious aerosols exhaled, and  inhaled, is predominantly due to fluid rupture by closing and  opening of wet infected membranes when speaking and singing.  Putting our  and their results together, we gain not only mechanistic insights into  exposure, infection, and transmission of SARS-CoV-2, but common  sense understanding of why social distancing and masks are so effective  at preventing an infected person from giving a nasal infection to  yourself or someone else. 6) Any treatments to suppress aspiration of nasal fluids is clearly efficacious. 7) As a future broader impact, the  baseline model developed through NSF RAPID support is currently  being expanded to superimpose immune  responses, natural and  vaccine-induced, antibody and antiviral  treatments, on top of the  pre-immune baseline model at any time prior to  or after exposure and  infection. 8) Through the community network arranged by the NSF RAPID  team, our team has started new collaborations within and outside the  U.S. to model within-host and between-host viral infection and  transmission, thereby merging our capabilities with the epidemiological  community, and to address the cascade of secondary infections throughout the human body  from respiratory tract infections.       Last Modified: 08/27/2021       Submitted by: M. Gregory Forest]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

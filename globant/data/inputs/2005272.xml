@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Topics of Immersed Finite Element Methods]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>49809.00</AwardTotalIntnAmount>
+<AwardAmount>49809</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland Jameson</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Interface problems are ubiquitous. When simulations involve multiple materials or multi-physics, interface problems arise. Many real-world problems in fluid mechanics, material science, mechanical engineering, and biomedical engineering are modeled by three-dimensional interface problems. The immersed finite element methods (IFEM) are a class of numerical methods for solving interface problems on interface-unfitted meshes. Two interrelated problems will be investigated in this research project. The first problem aims to design a self-adaptive IFEM based on the a posteriori error estimation. The second problem focuses on development, implementation, and analysis of three-dimensional IFEM.&lt;br/&gt;&lt;br/&gt;The first problem concerns the study of both residual-based and recovery-based error estimation for various immersed finite element discretizations. These include the immersed finite element approximation in conforming, nonconforming and discontinuous Galerkin frameworks. Rigorous mathematical analysis will be carried out for the reliability and efficiency error estimates of IFEM. The second problem focuses on interface problems of three spatial dimensions. It aims to develop an innovative approach to efficiently construct the three-dimensional immersed finite element functions. These immersed finite element functions will be implemented in various numerical schemes for three-dimensional interface problems. Theoretically, both a priori and a posteriori error estimates will be conducted for new IFEM schemes. Computationally, a three-dimensional IFEM software package will be developed with the feature of adaptive mesh refinement.]]></AbstractNarration>
+<MinAmdLetterDate>11/13/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>11/13/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005272</AwardID>
+<Investigator>
+<FirstName>Xu</FirstName>
+<LastName>Zhang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xu Zhang</PI_FULL_NAME>
+<EmailAddress><![CDATA[xzhang@okstate.edu]]></EmailAddress>
+<NSF_ID>000685962</NSF_ID>
+<StartDate>11/13/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oklahoma State University</Name>
+<CityName>STILLWATER</CityName>
+<ZipCode>740781031</ZipCode>
+<PhoneNumber>4057449995</PhoneNumber>
+<StreetAddress>401 WHITEHURST HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OK03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNYDFK5FTSX9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OKLAHOMA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Oklahoma State University]]></Name>
+<CityName/>
+<StateCode>OK</StateCode>
+<ZipCode>740781011</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OK03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~49809</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project has developed and analyzed new immersed finite element methods for various interface problems with unfitted meshes. Research results generated in this project have been disseminated in 13 peer-reviewed journal papers, plus a few more submitted preprints under review, and over 30 presentations in conferences, workshops, and seminars. This grant supported several graduate students, and one Ph.D. student has graduated. &nbsp;</p> <p>Below are some highlights of the outcome of this project. &nbsp;</p> <p>(1). We developed and analyzed residual-based and recovery-based a posteriori error estimations of the partially penalized immersed finite element method for elliptic interface problems.</p> <p>(2). We developed and analyzed a trilinear immersed finite element method for three-dimensional ellpitic interface problems. Our new method can handle real-world interfaces in which the interface are charaterized by cloud data points.</p> <p>(3). We developed a parallel immersed finite element particle-in-cell algorithm for three-dimensional kinetic simulations of plasma material interaction.</p> <p>(4). We developed and analyzed new immersed finite element methods based on weak Galerkin and nonconforming finite element frameworks.</p> <p>(5). We developed several low-order and high-order immersed finite element methods for solving fluid flow interface problems governed by Stokes and Navier-Stokes equations.</p> <p>(6). We developed and analyzed a high-order C0 interior penalty immersed finite element method for biharmonic interface problems.</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/29/2021<br>      Modified by: Xu&nbsp;Zhang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project has developed and analyzed new immersed finite element methods for various interface problems with unfitted meshes. Research results generated in this project have been disseminated in 13 peer-reviewed journal papers, plus a few more submitted preprints under review, and over 30 presentations in conferences, workshops, and seminars. This grant supported several graduate students, and one Ph.D. student has graduated.    Below are some highlights of the outcome of this project.    (1). We developed and analyzed residual-based and recovery-based a posteriori error estimations of the partially penalized immersed finite element method for elliptic interface problems.  (2). We developed and analyzed a trilinear immersed finite element method for three-dimensional ellpitic interface problems. Our new method can handle real-world interfaces in which the interface are charaterized by cloud data points.  (3). We developed a parallel immersed finite element particle-in-cell algorithm for three-dimensional kinetic simulations of plasma material interaction.  (4). We developed and analyzed new immersed finite element methods based on weak Galerkin and nonconforming finite element frameworks.  (5). We developed several low-order and high-order immersed finite element methods for solving fluid flow interface problems governed by Stokes and Navier-Stokes equations.  (6). We developed and analyzed a high-order C0 interior penalty immersed finite element method for biharmonic interface problems.          Last Modified: 12/29/2021       Submitted by: Xu Zhang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

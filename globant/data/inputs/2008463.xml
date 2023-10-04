@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CNS Core: Small: Dynamic and Composite Resource Management in Large-scale Industrial IoT Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>459982.00</AwardTotalIntnAmount>
+<AwardAmount>525565</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alhussein Abouzeid</SignBlockName>
+<PO_EMAI>aabouzei@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[An Industrial Internet of Things (IIoT) paradigm aims at creating unified sensing, computing, and control framework to interconnect all the industrial assets with information systems and business processes and to streamline the manufacturing process and lead to optimal industrial operations. Because IIoT applications - including autonomous driving and smart highway, manufacturing automation with robots, etc. - are distinguished from commercial IoT by stringent performance guarantees and certifiable robustness, research is needed to provide a holistic resource management framework that enables effective sensing and control operations in the presence of intermittent data sources and unpredictable system disturbances. This project aims to lay the foundation for such a framework by formulating and investigating three fundamental questions: 1) How to achieve real-time data retrieval with intermittent data sources and large-scale high-speed wireless control with guaranteed performance? 2) How to perform dynamic packet scheduling to compensate for unexpected system disturbances? 3) How to perform composite resource management to jointly consider network and computing resources for resource scheduling among multiple IIoT applications? By addressing these questions, the proposed dynamic and composite resource management framework has the potential to vastly advance the adoption of IIoT technologies, accelerate the transformation of legacy communication infrastructure to advanced wireless infrastructure and boost the nation's economic growth and competitiveness.&lt;br/&gt;&lt;br/&gt;To fundamentally transform the design principles of resource management in large-scale IIoT systems, this project will (i) design novel algorithms for real-time data management in IIoT systems with intermittent data sources; (ii) develop new scheduling techniques for control performance optimization in multi-cluster wireless networks; (iii) design a fully distributed packet scheduling framework to handle unexpected system disturbances in complex industrial environments; and (iv) explore new models and scheduling methods to develop a composite resource management framework for handling heterogeneous resource scheduling, partitioning and reconfiguration for time-critical end-to-end services in large-scale IIoT systems. These innovations will be validated using high-fidelity IIoT simulation tools and deployed on university-industry co-established IIoT testbeds for thorough performance evaluation. This proposed resource management framework will provide researchers and industrial partners holistic solutions to achieve provable performance in large-scale IIoT systems and support a wide range of industrial applications. The research outcomes will be integrated into an innovative professional education program at the University of Connecticut to educate current and next-generation researchers and professionals in a creative way to understand, appreciate and contribute to the fast-growing and rapidly evolving IIoT technologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008463</AwardID>
+<Investigator>
+<FirstName>Song</FirstName>
+<LastName>Han</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Song Han</PI_FULL_NAME>
+<EmailAddress><![CDATA[song@engr.uconn.edu]]></EmailAddress>
+<NSF_ID>000669786</NSF_ID>
+<StartDate>09/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>STORRS</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 WHITNEY RD EXTENSION UNIT 11</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D9SNFDRCW3W7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[UNIVERSITY OF CONNECTICUT STORRS]]></Name>
+<CityName>STORRS-MANSFIELD</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062691133</ZipCode>
+<StreetAddress><![CDATA[371 Fairfield Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>044Z</Code>
+<Text>PAWR- Platforms for Advanced Wireless Re</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~459982</FUND_OBLG>
+<FUND_OBLG>2023~65583</FUND_OBLG>
+</Award>
+</rootTag>

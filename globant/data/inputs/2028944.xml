@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: PPoSS: Planning: A Cross-Layer Observable Approach to Extreme Scale Machine Learning and Analytics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>204484.00</AwardTotalIntnAmount>
+<AwardAmount>204484</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The ability to analyze and learn from large volumes of data is becoming important in many walks of human endeavor, including medicine, science, and engineering. Analysis workflows for high-resolution images (e.g. medical imaging, sky surveys), scientific simulations, as well as those for graph analytics and machine learning are typically time consuming because of the extreme scales of data involved. While the hardware elements of the modern data center are undergoing a rapid transformation to embrace the storage, processing, and analysis of needs of such applications - understanding of how the different layers of the systems stack interact with one another and contribute to end-to-end application performance is challenging.  This planning project envisions the ACROPOLIS framework to address these challenges. ACROPOLIS will enable a comprehensive research agenda on systems software that will facilitate rapid and flexible construction of analytics workflows and their scalable execution. By facilitating the rapid prototyping of application drivers ACROPOLIS can also enable important scientific discoveries to potentially improve human health and better understand the world around us. The research enabled by ACROPOLIS will also educate many students, including those from under-represented groups, who will become part of a highly-trained workforce capable of addressing our nation's needs long into the future. With respect to broader impacts, ACROPOLIS will provide a unique research and training infrastructure that will catalyze research in multiple disciplines as well as facilitate convergent research across disciplines.  Well-established initiatives at The Ohio State University, such as the Louis Stokes Alliances for Minority Participation (LSAMP) as well as new programs in Data Analytics, will facilitate the recruitment of graduate and undergraduate students for involvement in this research agenda. This project is aligned with two of NSF’s 10 Big Ideas: Harnessing the Data Revolution and Growing Convergence Research, as well as the American AI Initiative.&lt;br/&gt;&lt;br/&gt;The project addresses five key research pillars:  1) Flexible abstractions for parallel computation and data representation,  2) Modeling data movement complexity at extreme scales,  3) Pattern-driven scalable communication and I/O systems, 4) Near-memory architectures for machine learning and analytics, and 5) Cross-layer observability and introspection. Specifically, the focus is on the design of an end-to-end framework inculcating a high-performance, next-generation, heterogeneous, reconfigurable hardware and software stack to facilitate real-time interaction, analytics, and machine learning for a range of scientific disciplines including Computational Pathology and Computational Fluid Dynamics and Emergency Response.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028944</AwardID>
+<Investigator>
+<FirstName>Dhabaleswar</FirstName>
+<LastName>Panda</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dhabaleswar K Panda</PI_FULL_NAME>
+<EmailAddress><![CDATA[panda@cse.ohio-state.edu]]></EmailAddress>
+<NSF_ID>000487085</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Srinivasan</FirstName>
+<LastName>Parthasarathy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Srinivasan Parthasarathy</PI_FULL_NAME>
+<EmailAddress><![CDATA[srini@cse.ohio-state.edu]]></EmailAddress>
+<NSF_ID>000227551</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Radu</FirstName>
+<LastName>Teodorescu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Radu Teodorescu</PI_FULL_NAME>
+<EmailAddress><![CDATA[teodores@cse.ohio-state.edu]]></EmailAddress>
+<NSF_ID>000515282</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Spyros</FirstName>
+<LastName>Blanas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Spyros Blanas</PI_FULL_NAME>
+<EmailAddress><![CDATA[blanas.2@osu.edu]]></EmailAddress>
+<NSF_ID>000652382</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hari</FirstName>
+<LastName>Subramoni</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hari Subramoni</PI_FULL_NAME>
+<EmailAddress><![CDATA[subramoni.1@osu.edu]]></EmailAddress>
+<NSF_ID>000704577</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>1960 KENNY RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>Columbus</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress><![CDATA[1960 Kenny Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>PPoSS-PP of Scalable Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~204484</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The modern economy is increasingly reliant on our ability to analyze and learn from large tracts of data to realize actionable insights. This planning grant explored the development of a research framework that aims to scale analytics and&nbsp;machine learning via cross-layer, algorithms-to-systems, design and optimizations.&nbsp;The key insight underpinning this effort is that modeling and accounting for the cost and complexity of data&nbsp;movement are of fundamental importance to understanding and improving the performance of future applications like machine learning or data analytics. The project demonstrated the feasibility and performance benefits of an integrated treatment of data movement as a core driver of innovation across the systems stack.</p> <p>&nbsp;</p> <p>This planning grant has demonstrated the feasibility of these thrusts through preliminary system development and evaluation. We developed new, data-movement aware graph and network representation learning solutions that improved accuracy and performance in method- and environment-agnostic settings. We designed new solutions for improving the security of deep learning models deployed on hardware accelerators. We also developed new hardware-accelerated solutions for improving the performance of large, distributed data stores, and holistic approaches for profiling and analysis of the entire communications stack in high-performance computing systems.</p> <p>&nbsp;</p> <p>Through this process new expertise needs were identified to help realize the full vision of the proposed research framework. The existing PI team reached out to several new researchers across multiple institutions to help build out this vision. &nbsp;Broader impacts of this work include outreach activities such as &nbsp;research paper presentations and demonstrations of key software artifacts at leading forums and the training of four PhD students.</p><br> <p>            Last Modified: 02/08/2023<br>      Modified by: Srinivasan&nbsp;Parthasarathy</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The modern economy is increasingly reliant on our ability to analyze and learn from large tracts of data to realize actionable insights. This planning grant explored the development of a research framework that aims to scale analytics and machine learning via cross-layer, algorithms-to-systems, design and optimizations. The key insight underpinning this effort is that modeling and accounting for the cost and complexity of data movement are of fundamental importance to understanding and improving the performance of future applications like machine learning or data analytics. The project demonstrated the feasibility and performance benefits of an integrated treatment of data movement as a core driver of innovation across the systems stack.     This planning grant has demonstrated the feasibility of these thrusts through preliminary system development and evaluation. We developed new, data-movement aware graph and network representation learning solutions that improved accuracy and performance in method- and environment-agnostic settings. We designed new solutions for improving the security of deep learning models deployed on hardware accelerators. We also developed new hardware-accelerated solutions for improving the performance of large, distributed data stores, and holistic approaches for profiling and analysis of the entire communications stack in high-performance computing systems.     Through this process new expertise needs were identified to help realize the full vision of the proposed research framework. The existing PI team reached out to several new researchers across multiple institutions to help build out this vision.  Broader impacts of this work include outreach activities such as  research paper presentations and demonstrations of key software artifacts at leading forums and the training of four PhD students.       Last Modified: 02/08/2023       Submitted by: Srinivasan Parthasarathy]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

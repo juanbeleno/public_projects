@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GCR: Collaborative Research: Fine-grain generation of multiscale patterns in programmable organoids using microrobots]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>273841.00</AwardTotalIntnAmount>
+<AwardAmount>273841</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060000</Code>
+<Directorate>
+<Abbreviation>O/D</Abbreviation>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OIA</Abbreviation>
+<LongName>OIA-Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dragana Brzakovic</SignBlockName>
+<PO_EMAI>dbrzakov@nsf.gov</PO_EMAI>
+<PO_PHON>7032925033</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[People with diseased or defective vital organs often need organ replacement to survive, but the availability of replacement organs is severely restricted by shortages of suitable tissue-matched donors and complexities such as postmortem organ deterioration and immunological rejection. These problems could be overcome by using high fidelity artificially-grown organs, but achieving that goal faces daunting and long-standing scientific and engineering challenges that  this project  aims to begin to meet. The project will focus on proof-of-concept generation of microscale patterns in a liver organoid to mimic the anatomical structure of lobules arranged in hexagonal patterns. The researchers will use microrobots to dynamically regulate gene expression in 3D vascularized liver organoids to generate the lobule like patterns. The results of this project will define a new area of robot-assisted biological design. This research will result in new biological rules, synthetic biology tools, and microrobotics that can be applied in numerous disciplines. If successful, another broader impact will be the demonstration of a method that could be used to create a new, in vitro, native-like organoid for biological and medical research, opening the door for research into the creation and repair of synthetic human organs.  The project includes research training for graduate students and postdoctoral researchers.&lt;br/&gt;&lt;br/&gt;Conventional methods of reproducing biological patterns in vitro suffer from multiple limitations. Previous research on pattern formation has largely relied on delivering global stimuli and studying reaction-diffusion mediated patterning of cell fates in the cell culture. Such methods yield only static patterns and give neither precise spatial nor temporal control over gene expression and resulting biological tissue formation. Current tissue engineering capabilities such as 3D printing and optogenetics are also unable to recapitulate the multiscale self-assembled patterns evident in native-like organs. The proposed approach will enable precise control of microrobots to achieve dynamic control over patterning in 3D biological systems, creating a paradigm shift in the field. The proof-of-concept goal is to modulate localized gene expression in engineered 3D tissue constructs to control the emergence of multiscale patterns. Machine learning will be used to derive and characterize desired multiscale patterns, synthetic biology to endow the stem cells with genetic circuits that can differentiate the cells to form desired tissue constructs, and microrobots to alter localized gene expression to form multiscale patterns in tissue constructs. In particular, the researchers will develop and control microrobots capable of sustaining and carrying engineered sender cells, drive the microrobots and associated sender cells within a vascularized 3D liver organoid to specific locations, and use the microrobot controlled sender cells to communicate with endothelial cells, inducing these endothelial cells to secrete Wnt and generate gradients controlling liver lobule zonation. This patterned lobule zonation will regulate the metabolic activity of the liver organoids.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2020973</AwardID>
+<Investigator>
+<FirstName>Sambeeta</FirstName>
+<LastName>Das</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sambeeta Das</PI_FULL_NAME>
+<EmailAddress><![CDATA[samdas@udel.edu]]></EmailAddress>
+<NSF_ID>000818775</NSF_ID>
+<StartDate>08/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>220 HULLIHEN HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>Newark</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197162553</ZipCode>
+<StreetAddress><![CDATA[210 Hullihen Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>062Y</Code>
+<Text>GCR-Growing Convergence Resear</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~273841</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>In this short, Growing Convergence Research (GRC) seed grant, which was a collaboration among MIT, Boston University, and the University of Delaware, we developed some of the components necessary to interface precisely controlled microrobots with genetically engineered stem cells. The motivating applications are biological patterns, which are the basis for the creation of native-like 3D organoid structures. We brought together the convergence of several technologies, including synthetic biology to endow human induced pluripotency stem cells (hiPSCs) with genetically programmed communication and decision-making capabilities, microrobot control, machine learning, formal methods, and optimization.</p> <p>&nbsp;</p> <p>In collaboration with the BU team, we developed strategies for accurate control of magnetically actuated microrobots. We showed that the robots can be inserted into cells, and the cells can be moved from one location to another by applying magnetic fields. We also showed that robots of various sizes and shapes can be controlled to roll over cell populations. Central to our approach was a nonlinear mismatch controller, which compensates for the differences between the disturbed model of a rolling mu - bot and trajectory data collected during an experiment. We demonstrated the performance of our online learning algorithm in simulation and in experiments, where we showed that the error metrics were reduced by up to 40% using our method.</p> <p>In collaboration with the MIT team, we defined and implemented a computational framework that allows to specify spatio - temporal behaviors in a formal language whose formulas are expressive, and close to natural language. We showed that specifications in this language can be learned from data. We also developed an optimization-based&nbsp; computational procedure to derive biological protocols satisfying such specifications. We demonstrated the efficacy of the method in simulation using a Turing reaction-diffusion chemical network.</p> <p>The results of this seed project enabled our collaboration in a recently funded NSF GRC grant, in which the goal is to develop end-to-end computational and experimental procedures for the formation of multiscale liver-like patterns.</p> <p>&nbsp;The results obtained as part of this collaboration were communicated at conferences such as the 4th Annual Learning for Dynamics and Control Conference (L4DC), the 2022 IEEE RSJ International Conference on Intelligent Robots and Systems (IROS). The project included a broad range of outreach activities, including a workshop with middle-school girls and their parents (led by UDel), a synthetic biology summer program (led by MIT), and participation in the ambassadors program at BU.</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/10/2023<br>      Modified by: Sambeeta&nbsp;Das</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ In this short, Growing Convergence Research (GRC) seed grant, which was a collaboration among MIT, Boston University, and the University of Delaware, we developed some of the components necessary to interface precisely controlled microrobots with genetically engineered stem cells. The motivating applications are biological patterns, which are the basis for the creation of native-like 3D organoid structures. We brought together the convergence of several technologies, including synthetic biology to endow human induced pluripotency stem cells (hiPSCs) with genetically programmed communication and decision-making capabilities, microrobot control, machine learning, formal methods, and optimization.     In collaboration with the BU team, we developed strategies for accurate control of magnetically actuated microrobots. We showed that the robots can be inserted into cells, and the cells can be moved from one location to another by applying magnetic fields. We also showed that robots of various sizes and shapes can be controlled to roll over cell populations. Central to our approach was a nonlinear mismatch controller, which compensates for the differences between the disturbed model of a rolling mu - bot and trajectory data collected during an experiment. We demonstrated the performance of our online learning algorithm in simulation and in experiments, where we showed that the error metrics were reduced by up to 40% using our method.  In collaboration with the MIT team, we defined and implemented a computational framework that allows to specify spatio - temporal behaviors in a formal language whose formulas are expressive, and close to natural language. We showed that specifications in this language can be learned from data. We also developed an optimization-based  computational procedure to derive biological protocols satisfying such specifications. We demonstrated the efficacy of the method in simulation using a Turing reaction-diffusion chemical network.  The results of this seed project enabled our collaboration in a recently funded NSF GRC grant, in which the goal is to develop end-to-end computational and experimental procedures for the formation of multiscale liver-like patterns.   The results obtained as part of this collaboration were communicated at conferences such as the 4th Annual Learning for Dynamics and Control Conference (L4DC), the 2022 IEEE RSJ International Conference on Intelligent Robots and Systems (IROS). The project included a broad range of outreach activities, including a workshop with middle-school girls and their parents (led by UDel), a synthetic biology summer program (led by MIT), and participation in the ambassadors program at BU.          Last Modified: 03/10/2023       Submitted by: Sambeeta Das]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC*: Integration-Large:  POWWOW: Software-Defined Infrastructure for Wireless, Edge Cybersecurity Testbeds]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>749968.00</AwardTotalIntnAmount>
+<AwardAmount>898968</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The project, POWWOW, is a test-bed for large-scale, real-world experimentation in sensing, edge computing, networking, cyber-security, privacy and ethics. POWWOW will extend the large campus network that is in regular use at The Ohio State University (OSU). By embedding novel software-defined sensing, computing and networking capabilities at the edge and the core of this network, researchers will be able to study, in a carefully controlled manner, real-world communications and activities on campus, in order to develop new technology for not only sensing and networking but in particular technology and policies for cyber-security, privacy and ethical use of data.&lt;br/&gt;&lt;br/&gt;The POWWOW research cyberinfrastructure is unique because it integrates with OSU's large-scale production networks to support “living lab” studies in smart sensing. Its focus on real-world sensing and device operations distinguishes POWWOW from other wireless networking testbeds that focus on communication and networking. Researchers and educators will add their own devices and systems, including diverse sensors, wireless sensor networks, software defined radios, controllers, actuators, and vehicles all of which can be dynamically instrumented. Researchers may then, privately and in real time, process data from these devices, share the data, and communicate securely with authenticated users and their devices leading to the discovery of new methods for sensing the acoustic and the radio frequency environment to get private information as well as new methods for concealing information from being sensed. The project team is uniquely composed of researchers across OSU several institutes as well as cyberinfrastructure engineers from the OSU's Office of the CIO that will translate POWWOW into sustained, production use for wide-ranging projects in research and education. Lessons learned from POWWOW will enable systems like it to be replicated in other research environments, thus greatly scaling research.&lt;br/&gt;&lt;br/&gt;POWWOW will accelerate the ability of research communities across the nation to perform new types of data-driven research and education. Because it connects to state level resources, such as the Ohio Cyber Range, it may be leveraged at the national level through initiatives such as Fabric-Net, to stimulate the development of an ethical basis for designing privacy preserving services in a world of ubiquitous sensing where explicit consent for every service is infeasible. Project activities will engage students via academic programming and R&amp;D opportunities, ranging from scrubbing and curating data to hackathon-type projects that explore innovative uses of data, and developing, deploying and supporting POWWOW capabilities. This project will contribute to broadening participation in computing by prioritizing research users and projects where engagement of undergraduates from under-represented groups by leveraging established pathways at OSU such as the GEM Consortium and the Ohio LSAMP Alliance.&lt;br/&gt;&lt;br/&gt;POWWOW will be hosted on campus at http://powwow.osu.edu. This site will disseminate the artifacts resulting from the project (such as publications, software, system designs and datasets), along with the policies and guidelines for accessing and using POWWOW. The site will be maintained for the duration of this project, and potentially well beyond it, as POWWOW is adopted by researchers and becomes widely used.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018912</AwardID>
+<Investigator>
+<FirstName>Anish</FirstName>
+<LastName>Arora</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Anish K Arora</PI_FULL_NAME>
+<EmailAddress><![CDATA[anish@cse.ohio-state.edu]]></EmailAddress>
+<NSF_ID>000378457</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rajiv</FirstName>
+<LastName>Ramnath</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rajiv Ramnath</PI_FULL_NAME>
+<EmailAddress><![CDATA[ramnath.6@osu.edu]]></EmailAddress>
+<NSF_ID>000272508</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kannan</FirstName>
+<LastName>Srinivasan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kannan Srinivasan</PI_FULL_NAME>
+<EmailAddress><![CDATA[kannan.sriniv@gmail.com]]></EmailAddress>
+<NSF_ID>000594363</NSF_ID>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>COLUMBUS</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>1960 KENNY RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DLWBSLWAJWR1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>OHIO STATE UNIVERSITY, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MN4MDDMN8529</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Ohio State University]]></Name>
+<CityName>Columbus</CityName>
+<StateCode>OH</StateCode>
+<ZipCode>432101016</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>2890</Code>
+<Text>CISE Research Resources</Text>
+</ProgramElement>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~749968</FUND_OBLG>
+<FUND_OBLG>2023~149000</FUND_OBLG>
+</Award>
+</rootTag>

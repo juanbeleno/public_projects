@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: RAPID: RTEM: Rapid Testing as Multi-fidelity Data Collection for Epidemic Modeling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>67000.00</AwardTotalIntnAmount>
+<AwardAmount>67000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samuel Scheiner</SignBlockName>
+<PO_EMAI>sscheine@nsf.gov</PO_EMAI>
+<PO_PHON>7032927175</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The novel coronavirus (COVID-19) epidemic is generating significant social, economic, and health impacts and has highlighted the importance of real-time analysis of the spatio-temporal dynamics of emerging infectious diseases. COVID-19, which emerged out of the city of Wuhan in China in December 2019 is now spreading in multiple countries. It is particularly concerning that the case fatality rate appears to be higher for the novel coronavirus than for seasonal influenza, and especially so for older populations and those with prior health conditions such as cardiovascular disease and diabetes. Any plan for stopping the epidemic must be based on a quantitative understanding of the proportion of the at-risk population that needs to be protected by effective control measures in order for transmission to decline sufficiently and quickly enough for the epidemic to end. Different data collection and testing modalities and strategies available to help calibrate transmission models and predict the spread/severity of a disease, have variable costs, response times, and accuracies. In this Rapid Response Research (RAPID) project, the team will examine the problem of establishing optimal practices for rapid testing for the novel coronavirus. The result will be the Rapid Testing for Epidemic Modeling (RTEM), which will translate into science-based predictions of the COVID-19 epidemic's characteristics, including the duration and overall size, and help the global efforts to combat the disease. The RTEM will fill an important gap in data-driven decision making during the COVID-19 epidemic and, thus, will enable services with significant national economic and health impact. The educational impact of the project will be on mentoring of post-doctoral and PhD researchers and on curricula by incorporating research challenges and outcomes into existing undergraduate and graduate classes. &lt;br/&gt;&lt;br/&gt;Computational models for the spatio-temporal dynamics of emerging infectious diseases and data- and model-driven computer simulations for disease spreading are increasingly critical in predicting geo-temporal evolution of epidemics as well as designing, activating, and adapting practices for controlling epidemics. In this project, the researchers tackle a Rapid Testing for Epidemic Modeling (RTEM) problem: Given a partially known target disease model and a set of testing modalities (from surveys to surveillance testing at known disease hotspots), with varying costs, accuracies, and observational delays, what is the best rapid testing strategy that would help recover the underlying disease model? Several scientific questions arise: What is the value of testing? Should only sick people be tested for virus detection? What level of resources should be devoted to the development of highly accurate tests (low false positives, low false negatives)? Is it better to use only one type of test aiming at the best cost/effectiveness trade off, or a non-homogeneous testing policy? Naturally these questions need to be investigated at the interface of epidemiology, computer science, machine learning, mathematical modeling and statistics. As part of the work, the team will develop a model of transmission dynamics and control, tailored to COVID-19 in a way that accommodates diagnostic testing with varying fidelities and delays underlying a rapid testing regimen. The investigators will further integrate the resulting RTEM-SEIR model with EpiDMS and DataStorm for executing continuous coupled simulations. &lt;br/&gt;&lt;br/&gt;This project is jointly funded through the Ecology and Evolution of Infectious Diseases program (Division of Environmental Biology) and the Civil, Mechanical and Manufacturing Innovation program (Engineering).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026797</AwardID>
+<Investigator>
+<FirstName>Gerardo</FirstName>
+<LastName>Chowell-Puente</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gerardo Chowell-Puente</PI_FULL_NAME>
+<EmailAddress><![CDATA[gchowell@gsu.edu]]></EmailAddress>
+<NSF_ID>000693185</NSF_ID>
+<StartDate>04/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia State University Research Foundation, Inc.</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303032921</ZipCode>
+<PhoneNumber>4044133570</PhoneNumber>
+<StreetAddress>58 EDGEWOOD AVE NE</StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MNS7B9CVKDN7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia State University]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303032535</ZipCode>
+<StreetAddress><![CDATA[30 Courtland Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7374</Code>
+<Text>Systematics &amp; Biodiversity Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~67000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>To ensure the safe operation of schools, workplaces, nursing homes, and other businesses during COVID-19 pandemic there is an urgent need to develop cost-effective public health strategies. We developed mathematical models to assess the impact of testing strategies together with social distancing protocols on the spread of the novel coronavirus. The following publications stem from our team efforts related to this project:</p> <p>&nbsp;</p> <p>Candan et al. SIRTEM: Spatially Informed Rapid Testing for Epidemic Modeling and Response to COVID-19. Submitted to ACM Transactions on Spatial Algorithms and Systems. Under Review.</p> <p>&nbsp;</p> <p>Chowell, G., Dahal, S., Bono, R. and Mizumoto, K., 2021. Harnessing testing strategies and public health measures to avert COVID-19 outbreaks during ocean cruises. <em>Scientific reports</em>, <em>11</em>(1), pp.1-12.</p> <p>&nbsp;</p> <p>Buckner, J. H., Chowell, G., &amp; Springborn, M. R. (2021). Dynamic prioritization of COVID-19 vaccines when social distancing is limited for essential workers. <em>Proceedings of the National Academy of Sciences</em>, <em>118</em>(16).</p> <p>&nbsp;</p> <p>Shim, E., Tariq, A., &amp; Chowell, G. (2021). Spatial variability in reproduction number and doubling time across two waves of the COVID-19 pandemic in South Korea, February to July, 2020. <em>International Journal of Infectious Diseases</em>, <em>102</em>, 1-9.</p> <p>&nbsp;</p> <p>Chowell, G., &amp; Luo, R. (2021). Ensemble bootstrap methodology for forecasting dynamic growth processes using differential equations: application to epidemic outbreaks. <em>BMC medical research methodology</em>, <em>21</em>(1), 1-18.</p> <p>&nbsp;</p><br> <p>            Last Modified: 05/22/2022<br>      Modified by: Gerardo&nbsp;Chowell-Puente</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ To ensure the safe operation of schools, workplaces, nursing homes, and other businesses during COVID-19 pandemic there is an urgent need to develop cost-effective public health strategies. We developed mathematical models to assess the impact of testing strategies together with social distancing protocols on the spread of the novel coronavirus. The following publications stem from our team efforts related to this project:     Candan et al. SIRTEM: Spatially Informed Rapid Testing for Epidemic Modeling and Response to COVID-19. Submitted to ACM Transactions on Spatial Algorithms and Systems. Under Review.     Chowell, G., Dahal, S., Bono, R. and Mizumoto, K., 2021. Harnessing testing strategies and public health measures to avert COVID-19 outbreaks during ocean cruises. Scientific reports, 11(1), pp.1-12.     Buckner, J. H., Chowell, G., &amp; Springborn, M. R. (2021). Dynamic prioritization of COVID-19 vaccines when social distancing is limited for essential workers. Proceedings of the National Academy of Sciences, 118(16).     Shim, E., Tariq, A., &amp; Chowell, G. (2021). Spatial variability in reproduction number and doubling time across two waves of the COVID-19 pandemic in South Korea, February to July, 2020. International Journal of Infectious Diseases, 102, 1-9.     Chowell, G., &amp; Luo, R. (2021). Ensemble bootstrap methodology for forecasting dynamic growth processes using differential equations: application to epidemic outbreaks. BMC medical research methodology, 21(1), 1-18.          Last Modified: 05/22/2022       Submitted by: Gerardo Chowell-Puente]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

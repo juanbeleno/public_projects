@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Modeling the Host-Microbiome-Virome Interactions and their Impact on COVID-19 Severity.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+<PO_EMAI>speretti@nsf.gov</PO_EMAI>
+<PO_PHON>7032924201</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[COVID-19 is a complex disease. While sometimes there are no symptoms, many people suffer life-altering symptoms and side effects that can led to death. Age, gender, racial background, medical history, and lifestyle all can influence the rate of infection and its severity. To invade human cells, the virus attaches to certain macromolecules that are expressed at different levels in different tissues and organs. The local expression of these macromolecules can be influenced by the microbiome, i.e. the bacteria that grow in and around the tissues and organs. This project will analyze how the human microbiome affects the progression of COVID-19. Computational models will be developed that use microbiome compositions to predict outcomes of COVID-19 disease. Such models will provide a better understanding of the basic biology of SARS-COV-2 infection and lead to improved treatment and prevention strategies.  &lt;br/&gt;&lt;br/&gt;The main hypothesis is that local microbiomes modulate niche-specific expression of macromolecules critical to COVID-19 development. These include the ACE2 receptor, TMPRSS2 serine protease, unidentified genes associated with SARS-COV-2 invasion and replication, and mediators of the excessive cytokine response. Further, we propose that these differences are associated with differential disease severity. The goal is to develop a statistical model for prediction of disease progression and severity of COVID-19 infection. COVID-19 inpatients are enrolled and nasopharyngeal, stool, buccal, urine and blood samples are collected longitudinally. Blood samples are processed for cytokine profiles and a selection of the remaining samples are analyzed by 16S rRNA taxonomic profiling to characterize the local microbiome and by metatranscriptomic sequencing to characterize gene expression profiles and the virus genome sequence. Viral loads are measured. These data will be augmented with metatranscriptomic data from community-collected testing samples which provide only a single nasopharyngeal sample. This dataset will be used to construct models aimed at predicting risk of COVID-19 disease progression and severity. Associations of the multi omic factors with disease severity will be analyzed using multifactorial modeling techniques that leverage the temporal dimension of the data and also incorporate racial and demographic factors. The constructed models will inform risk stratification in screening and increase our understanding of the host-and-microbiome factors impacting the trajectory of COVID-19 disease. Development of the disease model for COVID-19 may also inform the future development of predictive models for other viral infections. &lt;br/&gt;&lt;br/&gt;This project is being funding jointly between the Cellular and Biochemical Engineering Program in ENG/CBET and the Systems and Synthetic Biology Program in MCB/BIO.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034995</AwardID>
+<Investigator>
+<FirstName>Tomasz</FirstName>
+<LastName>Arodz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tomasz Arodz</PI_FULL_NAME>
+<EmailAddress><![CDATA[tarodz@vcu.edu]]></EmailAddress>
+<NSF_ID>000576733</NSF_ID>
+<StartDate>06/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Buck</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gregory A Buck</PI_FULL_NAME>
+<EmailAddress><![CDATA[gabuck@vcu.edu]]></EmailAddress>
+<NSF_ID>000333644</NSF_ID>
+<StartDate>06/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Myrna</FirstName>
+<LastName>Serrano</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Myrna Serrano</PI_FULL_NAME>
+<EmailAddress><![CDATA[myrna.serrano@vcuhealth.org]]></EmailAddress>
+<NSF_ID>000828875</NSF_ID>
+<StartDate>06/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Donowitz</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey R Donowitz</PI_FULL_NAME>
+<EmailAddress><![CDATA[jeffrey.donowitz@vcuhealth.org]]></EmailAddress>
+<NSF_ID>000828846</NSF_ID>
+<StartDate>06/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Commonwealth University</Name>
+<CityName>RICHMOND</CityName>
+<ZipCode>232849066</ZipCode>
+<PhoneNumber>8048286772</PhoneNumber>
+<StreetAddress>910 WEST FRANKLIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_UEI_NUM>MLQFL4JSSAA9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA COMMONWEALTH UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Commonwealth University]]></Name>
+<CityName>Richmond</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>232980678</ZipCode>
+<StreetAddress><![CDATA[1101 East Marshall St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1757</Code>
+<Text>Quantitative sys bio and biotech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our primary objective was to evaluate the role(s) of the bacteria that inhabit the human body impact the severity of Covid-19 disease. A secondary objective was to trace the Covid-19 infection and the development of viral variants in the Central Virginia region of the Mid Atlantic USA. Thus, we collected samples from individuals admitted to VCU Health Center hospitals, characterized the bacteria colonizing them, the viral load and the viral genome sequences in them. We also measured expression of the ACE2 viral receptor in these samples. In parallel, we collected samples from Covid-19 patients from multiple sites around Central Virginia, and analyzed the bacterial populations, viral loads and viral genome sequences within them. <br />Our results identified a relationship between the bacterial populations colonizing these individuals and the severity of the disease. We found certain immunological factors that are associated with disease severity, but no obvious relationship between ACE2 receptor expression and disease severity of viral load. We have sequenced over a thousand viral genomes and are still in the process of correlating these variant sequences with bacterial profiles and disease severity. Finally, we established a model by which we can produce Covid-19 disease severity by knowledge of the profile of bacteria inhabiting the human body. These findings may have clinical application as mechanisms by which these bacteria affect human gene expression and Covid-19 disease severity.</p><br> <p>            Last Modified: 10/31/2022<br>      Modified by: Gregory&nbsp;A&nbsp;Buck</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Our primary objective was to evaluate the role(s) of the bacteria that inhabit the human body impact the severity of Covid-19 disease. A secondary objective was to trace the Covid-19 infection and the development of viral variants in the Central Virginia region of the Mid Atlantic USA. Thus, we collected samples from individuals admitted to VCU Health Center hospitals, characterized the bacteria colonizing them, the viral load and the viral genome sequences in them. We also measured expression of the ACE2 viral receptor in these samples. In parallel, we collected samples from Covid-19 patients from multiple sites around Central Virginia, and analyzed the bacterial populations, viral loads and viral genome sequences within them.  Our results identified a relationship between the bacterial populations colonizing these individuals and the severity of the disease. We found certain immunological factors that are associated with disease severity, but no obvious relationship between ACE2 receptor expression and disease severity of viral load. We have sequenced over a thousand viral genomes and are still in the process of correlating these variant sequences with bacterial profiles and disease severity. Finally, we established a model by which we can produce Covid-19 disease severity by knowledge of the profile of bacteria inhabiting the human body. These findings may have clinical application as mechanisms by which these bacteria affect human gene expression and Covid-19 disease severity.       Last Modified: 10/31/2022       Submitted by: Gregory A Buck]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

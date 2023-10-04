@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Fragmented Learning App based on Knowledge Graphs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a Fragmented Learning App based on knowledge graphs to improve the effectiveness and efficiency of fragmented learning as a complement to the traditional collective learning in the classroom setting. This goal is to examine the impact of the fragmented learning style on various types of domain knowledge versus the (predominantly used) collective learning style. The proposed technology will explore how knowledge graphs may represent and organize knowledge (e.g., concepts, theorems, principles, rules) in various domains and enable knowledge reasoning and derivation.  Data from various types of users will be collected to enrich and evolve the knowledge graphs based on the latest learning needs.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of technology to support fragmented learning, which allows users to study anytime and anywhere as well as on various platform, improving their learning effectiveness and efficiency. Specially, the proposed technology is designed by integrating knowledge graphs with machine/deep learning and Natural Language Processing models to recommend relevant learning materials based on coherent and evolving knowledge graphs rather than user-constructed keyword search. The app constructs both a complete knowledge graph for a knowledge domain and a personalized knowledge graph for the individual user to generate a personalized learning plan adapted to his/her individual learning needs. Leveraging knowledge graphs to represent and organize knowledge from big data sources (text and video tutorials), the Fragmented Learning App captures explicit and implicit relations of knowledge and derives new knowledge and relations to prevent fragmenting the domain knowledge. In addition, the technology incorporates the social platform and observer roles for user interaction and knowledge exchange.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034508</AwardID>
+<Investigator>
+<FirstName>LiGuo</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>LiGuo Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[lghuang@smu.edu]]></EmailAddress>
+<NSF_ID>000488783</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Southern Methodist University</Name>
+<CityName>DALLAS</CityName>
+<ZipCode>75205</ZipCode>
+<PhoneNumber>2147684708</PhoneNumber>
+<StreetAddress>6425 BOAZ LANE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX32</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>D33QGS3Q3DJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOUTHERN METHODIST UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D33QGS3Q3DJ3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Southern Methodist University]]></Name>
+<CityName>Dallas</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>752750302</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>32</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX32</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>Collective learning has been predominant as a dynamic and cumulative process that produces knowledge to pursue comprehensive and systematic learning objectives in designated spaces (real or virtual classrooms) with teachers? guidance. The emerging popularity of mobile devices offers a far cheaper and more convenient way to learn while entertaining anytime and anywhere. The market research shows that 96% of Americans between 18 and 29 own smart devices; 51% of high school students bring smartphones to school. Complement to collective learning, fragmented learning, which takes advantage of the ubiquity of mobile devices, emerges to utilize distributed time and spaces (e.g., during coffee breaks, and on transportation) to meet individuals? learning goals. More than 80% of parents believe mobile apps make learning fun and engaging with interactive knowledge representations. SparkleLearn integrates Knowledge Graphs (KGs) with Machine/Deep learning(ML/DL) and Natural Language Processing (NLP) models to recommend relevant and personalized learning materials to a user based on her specific learning needs, her own learning profile, and a coherent and evolving domain KG. Keeping track of each user?s learning progress, SparkleLearn compares the individual user?s KG against the complete KG of a knowledge domain and generates a personalized learning plan with learning materials, games, and tests/quizzes recommended by trained ML/DL models.</span></p> <p><span>Under the NSF I-Corps grant, the SparkleLearning Team 1962 participated in the 7-week I-Corps workshop to learn how to apply lean startup methodology and business practices to commercialize a scientific and engineering product, SparkleLearn (a Fragmented Learning App based on Knowledge Graphs). The team conducted 134 customer interviews to develop and iterate on a business model canvas. The initial business model canvas with two broad customer segments, one key partner and six vague value propositions (Figure 1) evolved into two descoped customer segments, four key partners and six value propositions that were specific, measurable, and testable (Figure 2). The workshop helped the team identify the specific customer segments, key partners, and their needs and aspirations e.g., competitive cost-insensitive parents and their problems, and how we can help solve their problems using knowledge-graph-based fragmented learning technology. The team successfully graduated from the workshop and set new goals for moving forward to continue the customer discovery beyond the workshop to identify new value propositions, additional partners, and further business needs for technology improvement. During the customer discovery process, the team determined that there is not yet a key business partner and sustainable business model for the product such that it would lead to exponential growth, despite our initial evidence for a scalable business model. The team continued to explore emerging value propositions, additional partners, as well as additional business and non-profit models that may be more appropriate to SparkleLearn. The team gained a much more comprehensive understanding of how SparkleLearn can provide value to its customers and that understanding customers? motivations and desires, in addition to their challenges, must come first before a business model can be developed. </span></p> <p><span>The I-Corps program was a very impactful professional development course for the PI (Technical Lead) and her Ph.D. student (Entrepreneurial Lead) who previously had minimal business training. The business mentor who participated in the project used his experiences from the I-Corps program to inform the training and development. Throughout the I-Corps program, the team was mentored by a group of entrepreneurs in science and technology. Based on our interviews with parents and potential partners from various organizations in 12 U.S. states and 5 other countries, we established an ecosystem diagram (Figure 3) under the mentors? guidance. Results of the I-Corps experience were shared with the entrepreneurial mentors and other teams at the conclusion of the I-Corps program. In addition, parts of the I-Corps experience (as appropriate) were communicated with stakeholders of SparkleLearn as well as other faculty and students in PI?s institute. This program allowed the team members to develop commercial acumen that could increase the quality and fidelity of their research as well as train other students at all levels that have intellectual capital that could be commercially viable. The knowledge gained through the I-Corps process has the potential to impact researchers and practitioners from many disciplines as the team further develops the business model and shares experiences with the team?s research collaborators in AI and education domains.</span></p> <p><span>Currently, the product is in its prototype stage, undergoing knowledge graph construction, deep learning and NLP method enhancement, and concept validation tests to address the minimum value propositions. The grant supports the EL and TL in attending 4 academic and industrial conferences to exchange ideas with technology partners while conducting further customer discovery. By participating in the I-Corps process, the team is better equipped to improve the technology and create a product that customers want and need. With a better-suited product for the customer segments, SparkleLearn will enable learning anywhere and anytime for parents and kids throughout the world.</span></p><br> <p>            Last Modified: 05/27/2023<br>      Modified by: Liguo&nbsp;Huang</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2034508/2034508_10696393_1685242453306_Figure2--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2034508/2034508_10696393_1685242453306_Figure2--rgov-800width.jpg" title="SparkleLearn: Final Business Model Canvas"><img src="/por/images/Reports/POR/2023/2034508/2034508_10696393_1685242453306_Figure2--rgov-66x44.jpg" alt="SparkleLearn: Final Business Model Canvas"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2: SparkleLearn: Final Business Model Canvas</div> <div class="imageCredit">Simin Wang, LiGuo Huang, Isaac Chow</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Liguo&nbsp;Huang</div> <div class="imageTitle">SparkleLearn: Final Business Model Canvas</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2034508/2034508_10696393_1685241490102_Figure1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2034508/2034508_10696393_1685241490102_Figure1--rgov-800width.jpg" title="SparkleLearn: Initial Business Model Canvas"><img src="/por/images/Reports/POR/2023/2034508/2034508_10696393_1685241490102_Figure1--rgov-66x44.jpg" alt="SparkleLearn: Initial Business Model Canvas"></a> <div class="imageCaptionContainer"> <div class="imageCaption">SparkleLearn: Initial Business Model Canvas</div> <div class="imageCredit">Simin Wang, LiGuo Huang, Isaac Chow</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Liguo&nbsp;Huang</div> <div class="imageTitle">SparkleLearn: Initial Business Model Canvas</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2034508/2034508_10696393_1685241847018_Figure3--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2034508/2034508_10696393_1685241847018_Figure3--rgov-800width.jpg" title="SparkleLearn: Ecosystem Map"><img src="/por/images/Reports/POR/2023/2034508/2034508_10696393_1685241847018_Figure3--rgov-66x44.jpg" alt="SparkleLearn: Ecosystem Map"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 3: SparkleLearn: Ecosystem Map</div> <div class="imageCredit">Simin Wang, LiGuo Huang, Isaac Chow</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Liguo&nbsp;Huang</div> <div class="imageTitle">SparkleLearn: Ecosystem Map</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Collective learning has been predominant as a dynamic and cumulative process that produces knowledge to pursue comprehensive and systematic learning objectives in designated spaces (real or virtual classrooms) with teachers? guidance. The emerging popularity of mobile devices offers a far cheaper and more convenient way to learn while entertaining anytime and anywhere. The market research shows that 96% of Americans between 18 and 29 own smart devices; 51% of high school students bring smartphones to school. Complement to collective learning, fragmented learning, which takes advantage of the ubiquity of mobile devices, emerges to utilize distributed time and spaces (e.g., during coffee breaks, and on transportation) to meet individuals? learning goals. More than 80% of parents believe mobile apps make learning fun and engaging with interactive knowledge representations. SparkleLearn integrates Knowledge Graphs (KGs) with Machine/Deep learning(ML/DL) and Natural Language Processing (NLP) models to recommend relevant and personalized learning materials to a user based on her specific learning needs, her own learning profile, and a coherent and evolving domain KG. Keeping track of each user?s learning progress, SparkleLearn compares the individual user?s KG against the complete KG of a knowledge domain and generates a personalized learning plan with learning materials, games, and tests/quizzes recommended by trained ML/DL models.  Under the NSF I-Corps grant, the SparkleLearning Team 1962 participated in the 7-week I-Corps workshop to learn how to apply lean startup methodology and business practices to commercialize a scientific and engineering product, SparkleLearn (a Fragmented Learning App based on Knowledge Graphs). The team conducted 134 customer interviews to develop and iterate on a business model canvas. The initial business model canvas with two broad customer segments, one key partner and six vague value propositions (Figure 1) evolved into two descoped customer segments, four key partners and six value propositions that were specific, measurable, and testable (Figure 2). The workshop helped the team identify the specific customer segments, key partners, and their needs and aspirations e.g., competitive cost-insensitive parents and their problems, and how we can help solve their problems using knowledge-graph-based fragmented learning technology. The team successfully graduated from the workshop and set new goals for moving forward to continue the customer discovery beyond the workshop to identify new value propositions, additional partners, and further business needs for technology improvement. During the customer discovery process, the team determined that there is not yet a key business partner and sustainable business model for the product such that it would lead to exponential growth, despite our initial evidence for a scalable business model. The team continued to explore emerging value propositions, additional partners, as well as additional business and non-profit models that may be more appropriate to SparkleLearn. The team gained a much more comprehensive understanding of how SparkleLearn can provide value to its customers and that understanding customers? motivations and desires, in addition to their challenges, must come first before a business model can be developed.   The I-Corps program was a very impactful professional development course for the PI (Technical Lead) and her Ph.D. student (Entrepreneurial Lead) who previously had minimal business training. The business mentor who participated in the project used his experiences from the I-Corps program to inform the training and development. Throughout the I-Corps program, the team was mentored by a group of entrepreneurs in science and technology. Based on our interviews with parents and potential partners from various organizations in 12 U.S. states and 5 other countries, we established an ecosystem diagram (Figure 3) under the mentors? guidance. Results of the I-Corps experience were shared with the entrepreneurial mentors and other teams at the conclusion of the I-Corps program. In addition, parts of the I-Corps experience (as appropriate) were communicated with stakeholders of SparkleLearn as well as other faculty and students in PI?s institute. This program allowed the team members to develop commercial acumen that could increase the quality and fidelity of their research as well as train other students at all levels that have intellectual capital that could be commercially viable. The knowledge gained through the I-Corps process has the potential to impact researchers and practitioners from many disciplines as the team further develops the business model and shares experiences with the team?s research collaborators in AI and education domains.  Currently, the product is in its prototype stage, undergoing knowledge graph construction, deep learning and NLP method enhancement, and concept validation tests to address the minimum value propositions. The grant supports the EL and TL in attending 4 academic and industrial conferences to exchange ideas with technology partners while conducting further customer discovery. By participating in the I-Corps process, the team is better equipped to improve the technology and create a product that customers want and need. With a better-suited product for the customer segments, SparkleLearn will enable learning anywhere and anytime for parents and kids throughout the world.       Last Modified: 05/27/2023       Submitted by: Liguo Huang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

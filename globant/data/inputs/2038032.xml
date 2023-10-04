@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: QAC: QCH: Holographic Quantum Algorithms for Simulating Many-Body Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daryl Hess</SignBlockName>
+<PO_EMAI>dhess@nsf.gov</PO_EMAI>
+<PO_PHON>7032924942</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Nontechnical Summary&lt;br/&gt;Accurately modeling materials is essential for guiding materials discovery and designing advanced electronic devices. However, simulating the quantum-mechanical properties of materials on a microscopic scale poses tremendous computational challenges that often exceed the capabilities of even the most advanced supercomputers. Quantum computers offer a potential means to circumvent these challenges by harnessing the same aspects of quantum physics that make material simulation challenging for conventional computers. While a promising approach, there is a large gap in size and accuracy between quantum computers that can be built with current technology and those needed to make progress on real-world relevant materials challenges.&lt;br/&gt;&lt;br/&gt;To close this gap, this project will develop quantum software and hardware prototypes in which quantum computations are performed on efficiently compressed quantum data, to dramatically reduce the resources required to simulate large-scale material models. These techniques are dubbed “holographic” as they encode high-dimensional data on a lower-dimensional physical system, much like a hologram. This research will expedite the application of near-term quantum computers, with limited memory and accuracy, to realistic materials and chemical modeling.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Technical summary&lt;br/&gt;This project will develop holographic quantum simulation techniques that indirectly encode the quantum state of a material in an efficiently compressed representation that greatly reduces the number of required qubits, and fundamentally limits the impact of noise and errors. This compression is achieved by an algorithm that alternates between coherent entangling gates and measurement of a selected subset of qubits. This approach represents a dramatic departure from conventional quantum algorithmic frameworks and will require a fundamental rethinking of quantum algorithm and hardware design.&lt;br/&gt;&lt;br/&gt;This project will conduct research to establish a basic theoretical and experimental proof-of-principle for holographic simulation techniques. Advanced holographic simulation techniques will be developed to treat electronic materials, 2d and 3d models, and compute non-equilibrium electronic and thermal transport and optical spectra relevant for real-world devices. The fundamental capabilities and limitations of holographic representations of quantum states will be rigorously characterized. &lt;br/&gt; &lt;br/&gt;The project team will fabricate a circuit quantum electrodynamics (cQED) testbed in which a two-level superconducting qubit controls a multi-level superconducting cavity mode. The multi-level cavity mode provides a larger quantum memory than a conventional two-level qubit, and the hybrid qubit/cavity system provides powerful methods to create quantum entanglement. Together, these advantages will enable simulation of more complex material states with the same number of quantum devices compared to conventional qubit-only systems. The project team will demonstrate the developed holographic algorithms on this cQED testbed and benchmark its performance against complementary simulations on commercial quantum computing platforms. Lessons learned from this exploratory phase will be used to design scalable cQED devices for holographic simulations of large-scale problems that exceed the capabilities of current classical supercomputers.&lt;br/&gt;&lt;br/&gt;This EAGER award by the Division of Materials Research is jointly supported with the Division of Chemistry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2038032</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Potter</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew C Potter</PI_FULL_NAME>
+<EmailAddress><![CDATA[acpotter86@gmail.com]]></EmailAddress>
+<NSF_ID>000727409</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shyam</FirstName>
+<LastName>Shankar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shyam Shankar</PI_FULL_NAME>
+<EmailAddress><![CDATA[shyam.shankar@utexas.edu]]></EmailAddress>
+<NSF_ID>000798962</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121203</ZipCode>
+<StreetAddress><![CDATA[2515 Speedway, RLM 7.210]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>6881</Code>
+<Text>Chem Thry, Mdls &amp; Cmptnl Mthds</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-5ab5bcc2-7fff-8086-4dd7-9935f1a9f427"> </span></p> <p dir="ltr"><span>Predicting the electronic, thermal, magnetic, and optical properties of materials is an essential task for materials discovery and device design. Unfortunately, exact classical numerical computation is infeasible, even for highly simplified models, and known approximation schemes fail to produce even qualitatively accurate results for many important materials types. Quantum computers offer accurate materials simulation with (asymptotically) exponentially reduced computational cost. However, existing quantum simulation algorithms require tremendous numbers of qubits and high-fidelity gate-operations that greatly exceed the capabilities of quantum computing hardware for the foreseeable future.</span></p> <p dir="ltr"><span>This EAGER project took steps to address this challenge by developing ?holographic? quantum simulation techniques that indirectly encode the quantum state of a material in an efficiently-compressed representation that greatly reduces the number of required qubits, and fundamentally limits the impact of noise and errors. This compression is enabled by alternating between coherently entangling gates and measurement of part (but not all) qubits. This approach represents a dramatic departure from conventional quantum algorithmic frameworks, and required a fundamental rethinking of quantum algorithm and hardware design. In addition, successfully implementing complex materials simulation requires a leap in quantum computing hardware.&nbsp;</span></p> <p dir="ltr"><span>To this end, this project assembled a collaborative team of theoretical physicists led by PI Andrew Potter, and an experimental team led by Co-PI Shyam Shankar developing superconducting cavity quantum electrodynamics quantum processors.&nbsp;</span></p> <p dir="ltr"><span>The theory team conducted research to establish a basic theoretical and experimental proof-of principle for holographic simulation techniques, and to advance the capabilities for these algorithms to simulate electronic materials. This theory work led to new algorithms to compute the electronic structure and thermal properties of models of electronic and magnetic materials that are challenging to solve at-scale with conventional computers. These algorithmic capabilities were demonstrated on industry partner Quantinuum?s trapped-ion quantum processors, achieving state-of-the-art performance in terms of system size and accuracy for material modeling.&nbsp;</span></p> <p dir="ltr"><span>In tandem, the experimental team designed and began fabrication of a cQED hardware testbed in which a superconducting qubit with two levels controls a superconducting cavity mode with many quantum levels. The many-level cavity mode provides a larger quantum memory than a conventional two-level qubit, and the hybrid qubit/cavity system provides powerful methods to create quantum entanglement. Together, this testbed enables simulation of more complex material states with the same number of quantum devices compared to conventional qubit-only hardware. In follow on work, this cQED testbed will be used to establish proof-of-principle demonstration of developed holographic algorithms, and its performance will be benchmarked against complementary simulations on commercial quantum computing platforms. Lessons learned from this exploratory phase will be used to design scalable cQED for holographic simulations of large-scale problems that exceed the capabilities of current classical supercomputers.</span></p> <p dir="ltr"><span>This early-concept work has taken steps to substantially reduce the size and accuracy requirements for quantum simulation of realistic materials and devices, bringing practical quantum materials simulations closer to the capabilities of near-term hardware. The capability to accurately compute material properties using quantum computers is essential for correlated materials discovery and device design, facilitating improvements to many types of technology, from multiferroic materials for RF and microwave devices, perovskite photovoltaic materials,&nbsp; The results of this study will also guide future commercial quantum architecture design to facilitate partial-measurement-based capabilities required to take advantage of holographic methods. and high-temperature superconductor materials, which cannot be accurately simulated even with the most powerful classical supercomputers.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 12/21/2022<br>      Modified by: Andrew&nbsp;C&nbsp;Potter</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Predicting the electronic, thermal, magnetic, and optical properties of materials is an essential task for materials discovery and device design. Unfortunately, exact classical numerical computation is infeasible, even for highly simplified models, and known approximation schemes fail to produce even qualitatively accurate results for many important materials types. Quantum computers offer accurate materials simulation with (asymptotically) exponentially reduced computational cost. However, existing quantum simulation algorithms require tremendous numbers of qubits and high-fidelity gate-operations that greatly exceed the capabilities of quantum computing hardware for the foreseeable future. This EAGER project took steps to address this challenge by developing ?holographic? quantum simulation techniques that indirectly encode the quantum state of a material in an efficiently-compressed representation that greatly reduces the number of required qubits, and fundamentally limits the impact of noise and errors. This compression is enabled by alternating between coherently entangling gates and measurement of part (but not all) qubits. This approach represents a dramatic departure from conventional quantum algorithmic frameworks, and required a fundamental rethinking of quantum algorithm and hardware design. In addition, successfully implementing complex materials simulation requires a leap in quantum computing hardware.  To this end, this project assembled a collaborative team of theoretical physicists led by PI Andrew Potter, and an experimental team led by Co-PI Shyam Shankar developing superconducting cavity quantum electrodynamics quantum processors.  The theory team conducted research to establish a basic theoretical and experimental proof-of principle for holographic simulation techniques, and to advance the capabilities for these algorithms to simulate electronic materials. This theory work led to new algorithms to compute the electronic structure and thermal properties of models of electronic and magnetic materials that are challenging to solve at-scale with conventional computers. These algorithmic capabilities were demonstrated on industry partner Quantinuum?s trapped-ion quantum processors, achieving state-of-the-art performance in terms of system size and accuracy for material modeling.  In tandem, the experimental team designed and began fabrication of a cQED hardware testbed in which a superconducting qubit with two levels controls a superconducting cavity mode with many quantum levels. The many-level cavity mode provides a larger quantum memory than a conventional two-level qubit, and the hybrid qubit/cavity system provides powerful methods to create quantum entanglement. Together, this testbed enables simulation of more complex material states with the same number of quantum devices compared to conventional qubit-only hardware. In follow on work, this cQED testbed will be used to establish proof-of-principle demonstration of developed holographic algorithms, and its performance will be benchmarked against complementary simulations on commercial quantum computing platforms. Lessons learned from this exploratory phase will be used to design scalable cQED for holographic simulations of large-scale problems that exceed the capabilities of current classical supercomputers. This early-concept work has taken steps to substantially reduce the size and accuracy requirements for quantum simulation of realistic materials and devices, bringing practical quantum materials simulations closer to the capabilities of near-term hardware. The capability to accurately compute material properties using quantum computers is essential for correlated materials discovery and device design, facilitating improvements to many types of technology, from multiferroic materials for RF and microwave devices, perovskite photovoltaic materials,  The results of this study will also guide future commercial quantum architecture design to facilitate partial-measurement-based capabilities required to take advantage of holographic methods. and high-temperature superconductor materials, which cannot be accurately simulated even with the most powerful classical supercomputers.          Last Modified: 12/21/2022       Submitted by: Andrew C Potter]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

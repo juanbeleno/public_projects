@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: RAPID: Spatial Modeling of Immune Response to Multifocal SARS-CoV-2 Viral Lung Infection]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>120000.00</AwardTotalIntnAmount>
+<AwardAmount>130391</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathryn Dickson</SignBlockName>
+<PO_EMAI>kdickson@nsf.gov</PO_EMAI>
+<PO_PHON>7032927380</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[COVID-19 recently emerged as a worldwide pandemic, causing untold human suffering and severe economic disruptions. How individual immune systems respond to a novel coronavirus, for example, why some individuals clear infection efficiently while others do not is not known. This project seeks to understand how immune cells, specifically T cells, find cells infected with virus that are dispersed in the lung. It will address how spatial distributions of infected cells and movement patterns of T cells through complex lung structures determine the course of infection. The project will develop the Spatial Immunological Model of Coronavirus (SIM-Cov), a simulation model for studying these effects and improving understanding of how the immune system controls infection by coronaviruses. The model will take computed tomography (CT) scans of an infected human lung as input, as well as biological data on how T cells interact with the virus and infected lung cells. The model will predict the course of infection in the form of visually intuitive movies showing how the infection progresses through time in different individuals. By modeling variability in individuals’ infectious rates over time, SIM-Cov will improve our understanding of why the severity of COVID-19 varies so much among individuals. The model and movies will be publicly accessible, and incorporated into educational materials for high school and college students. The project will also train two graduate and one undergraduate students in interdisciplinary research.&lt;br/&gt;&lt;br/&gt;One gap in understanding infection dynamics of the novel coronavirus SARS-CoV-2 is why the severity of infection varies so much among individuals. This project addresses that gap by incorporating the role played by spatial-temporal dynamics in within-host infections and immune control, particularly the role of T cells which are required for viral clearance. Most quantitative models of viral infection use differential equations or stochastic models and do not account for the spatial distribution of infected cells or T cell movement patterns. The project addresses this gap by developing a three-dimensional spatial model of the whole lung (SIM-Cov) that tests how spatial interactions between T cells and virus affect viral growth, load and clearance within the lungs. Ultimately, these within-host factors contribute to the rate of clearance within a single host and transmission between hosts. SIM-Cov will be parameterized and validated with empirical imaging data (CT scans of SARS-infected patients) and the emerging literature on SARS-CoV-2 and immune responses. SIM-Cov will model the lung microenvironment, including vasculature and epithelium surrounding the airways and alveolar spaces, the spatial and temporal spread of virus throughout the lung, and the spatial arrangement and movement of T cells. The project will have broad-ranging impacts for understanding coronavirus infection dynamics and educational impacts through dissemination of the model and movies produced in the project, as well as the engagement of three students in interdisciplinary research.&lt;br/&gt;&lt;br/&gt;This RAPID award is made by the Physiological Mechanisms and Biomechanics Program and the Symbiosis, Defense, and Self-recognition Program in the BIO Division of Integrative Organismal Systems, and by the Established Program to Stimulate Competitive Research (EPSCoR), using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/02/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030037</AwardID>
+<Investigator>
+<FirstName>Melanie</FirstName>
+<LastName>Moses</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Melanie Moses</PI_FULL_NAME>
+<EmailAddress><![CDATA[melaniem@unm.edu]]></EmailAddress>
+<NSF_ID>000232676</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Judy</FirstName>
+<LastName>Cannon</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Judy L Cannon</PI_FULL_NAME>
+<EmailAddress><![CDATA[jucannon@salud.unm.edu]]></EmailAddress>
+<NSF_ID>000825096</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Mexico</Name>
+<CityName>ALBUQUERQUE</CityName>
+<ZipCode>871063837</ZipCode>
+<PhoneNumber>5052774186</PhoneNumber>
+<StreetAddress>1700 LOMAS BLVD NE STE 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F6XLTRUQJEN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NEW MEXICO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>C16BGHA4MLJ6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of New Mexico]]></Name>
+<CityName/>
+<StateCode>NM</StateCode>
+<ZipCode>871310001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7658</Code>
+<Text>Physiol Mechs &amp; Biomechanics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CL10</Code>
+<Text>CLB-Career Life Balance</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~120000</FUND_OBLG>
+<FUND_OBLG>2022~10391</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-fec5e05c-7fff-f8f9-d09c-ebb46e2da2bc"> <p dir="ltr"><span>A key question in SARS-CoV-2 infection is why viral loads and patient outcomes vary dramatically across individuals. It is difficult to study the spatial and temporal dynamics of the virus and immune response in humans and laboratory animals. This project developed a scalable, spatially-explicit model called SIMCoV to address this challenge.&nbsp;</span></p> <p dir="ltr"><span>SIMCoV simulates the dynamics of SARS-CoV-2 infections with the goal of understanding how the virus spreads through tissue, potentially infecting billions of lung epithelial cells, and how the timing and location of CD8+ T cells affect viral spread in the lung. This NSF-funded project used SIMCoV to investigate several hypotheses about spatial interactions between immune cells and respiratory viruses. We focused on: (1) the initial spatial distribution of virus in the lung, (2) the rates and spreading patterns of virus through lung tissue networks, and (3) T cell counts and movement patterns, which depend on lung architecture. Using state-of-the art high-performance computing methods and resources, we simulated viral spread over time using different configurations of the model: a two-dimensional slice of tissue, three-dimensional volume of tissue, and through a fractal branching tree structure similar to the architecture of the lung. We compared SIMCoV predictions to temporal viral dynamics of human COVID-19 patients and to CT images of lung damage to test whether the model reflects observed spatial and temporal spread of the virus in the lung. This work is published by Moses et al. (2021) and freely available at </span><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009735"><span>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009735</span></a><span>.</span></p> <p dir="ltr"><span>SIMCoV replicates viral growth dynamics observed in patients, and it is the first model to show how spatially dispersed infections lead to increased viral loads. The model also shows how the timing and strength of the T cell response can affect viral persistence, oscillations, and control. When the branching airway structure is explicitly represented in the model, we find that virus spreads faster than in a 2D layer of epithelial cells, but much more slowly than in an undifferentiated 3D grid or in a well-mixed differential equation model. These results illustrate the importance of realistic, spatially-explicit computational models for understanding within-host dynamics of SARS-CoV-2 infection. Our models suggest that the number of independent infection sites within the lung is a key driver of peak viral load, which is, in turn, a key factor in epidemic spread. Spatial dispersion of virus may be particularly important for SARS-CoV-2 infection and other lung infections because the epithelial surface area of the lung is so large. In ongoing work, we are comparing the spatial characteristics of viral spread within the airways and air-exchange (alveolar) sacs as simulated by SIMCoV to the spatial spread of lung damage observed in CT scans of COVID patients. SIMCoV allows us to investigate why the spread of infection and lung damage appears patchy in many cases.</span></p> <p dir="ltr"><span>To enable open and reproducible science, SIMCoV is freely available at https://github.com/AdaptiveComputationLab/simcov under an open-source license, and it was designed to be easily extensible. Thus, SIMCoV can serve as a platform for future studies to test hypotheses about how the immune system, therapeutics and vaccines affect viral dynamics for many types of respiratory infections. Funding provided by the project provided partial support for one year for one undergraduate and three Ph.D. students, all from groups underrepresented in computing.&nbsp; This project led to a strong collaboration with the high-performance computing group at Lawrence Berkeley National Laboratory which supported three students to continue this work in summer internships.</span></p> <div></div> </span></p><br> <p>            Last Modified: 09/21/2022<br>      Modified by: Melanie&nbsp;Moses</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  A key question in SARS-CoV-2 infection is why viral loads and patient outcomes vary dramatically across individuals. It is difficult to study the spatial and temporal dynamics of the virus and immune response in humans and laboratory animals. This project developed a scalable, spatially-explicit model called SIMCoV to address this challenge.  SIMCoV simulates the dynamics of SARS-CoV-2 infections with the goal of understanding how the virus spreads through tissue, potentially infecting billions of lung epithelial cells, and how the timing and location of CD8+ T cells affect viral spread in the lung. This NSF-funded project used SIMCoV to investigate several hypotheses about spatial interactions between immune cells and respiratory viruses. We focused on: (1) the initial spatial distribution of virus in the lung, (2) the rates and spreading patterns of virus through lung tissue networks, and (3) T cell counts and movement patterns, which depend on lung architecture. Using state-of-the art high-performance computing methods and resources, we simulated viral spread over time using different configurations of the model: a two-dimensional slice of tissue, three-dimensional volume of tissue, and through a fractal branching tree structure similar to the architecture of the lung. We compared SIMCoV predictions to temporal viral dynamics of human COVID-19 patients and to CT images of lung damage to test whether the model reflects observed spatial and temporal spread of the virus in the lung. This work is published by Moses et al. (2021) and freely available at https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009735. SIMCoV replicates viral growth dynamics observed in patients, and it is the first model to show how spatially dispersed infections lead to increased viral loads. The model also shows how the timing and strength of the T cell response can affect viral persistence, oscillations, and control. When the branching airway structure is explicitly represented in the model, we find that virus spreads faster than in a 2D layer of epithelial cells, but much more slowly than in an undifferentiated 3D grid or in a well-mixed differential equation model. These results illustrate the importance of realistic, spatially-explicit computational models for understanding within-host dynamics of SARS-CoV-2 infection. Our models suggest that the number of independent infection sites within the lung is a key driver of peak viral load, which is, in turn, a key factor in epidemic spread. Spatial dispersion of virus may be particularly important for SARS-CoV-2 infection and other lung infections because the epithelial surface area of the lung is so large. In ongoing work, we are comparing the spatial characteristics of viral spread within the airways and air-exchange (alveolar) sacs as simulated by SIMCoV to the spatial spread of lung damage observed in CT scans of COVID patients. SIMCoV allows us to investigate why the spread of infection and lung damage appears patchy in many cases. To enable open and reproducible science, SIMCoV is freely available at https://github.com/AdaptiveComputationLab/simcov under an open-source license, and it was designed to be easily extensible. Thus, SIMCoV can serve as a platform for future studies to test hypotheses about how the immune system, therapeutics and vaccines affect viral dynamics for many types of respiratory infections. Funding provided by the project provided partial support for one year for one undergraduate and three Ph.D. students, all from groups underrepresented in computing.  This project led to a strong collaboration with the high-performance computing group at Lawrence Berkeley National Laboratory which supported three students to continue this work in summer internships.         Last Modified: 09/21/2022       Submitted by: Melanie Moses]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

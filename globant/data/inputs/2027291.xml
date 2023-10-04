@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID:  Multiscale Modeling Of SARS-CoV-2 Viral Intracellular and Intercellular Dynamics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>130197.00</AwardTotalIntnAmount>
+<AwardAmount>130197</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Rockcliffe</SignBlockName>
+<PO_EMAI>drockcli@nsf.gov</PO_EMAI>
+<PO_PHON>7032927123</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[________________________________________________________________________________________________________________&lt;br/&gt;&lt;br/&gt;The recent emergence of the SARS-CoV-2 virus, the etiological agent of COVID-19, has caused worldwide repercussions in just a few short weeks. The tremendous negative social, economic and health impact will be felt for a considerable time around the globe. Numerous complementary strategies must be taken to address this issue and to ameliorate the consequences. One such strategy that is clearly required is a better understanding of the fundamental biology of SARS-CoV-2. The objective of this project is to create a multiscale model of the intracellular and intercellular viral dynamics of the SARS-CoV-2 virus. A systems virology approach is used. This project would deliver an understanding of how the virus works and will provide the framework necessary for numerous fundamental studies and applied efforts for developing effective drugs and therapies. The developed model would be released under an open source license and made freely available from the GitHub website. The project would train one graduate student in the area of computational systems virology. &lt;br/&gt;&lt;br/&gt;This project creates intracellular and intercellular models of the SARS-2019-CoV-2 virus based on the current understanding of the virus reaction network. The reaction network topology is translated into a mathematical model with the use of the theory of reaction kinetics. A set of ordinary differential equations describing the dynamics of viral replication within an infected cell is formulated with the use of the mass action kinetics paradigm. With the use of Monte Carlo sampling of the model’s parameter space, as well as sensitivity analysis and stability analysis, mathematical and biological constraints are identified. Stochastic simulation is carried out to determine whether subpopulations of infected cells exist with potentially different phenotypes. Finally, with the use of principles grounded in basic calculus, the intracellular model is coupled to a standard intercellular model of viral replication dynamics. The multiscale models undergo the same analyses as the intracellular model and is also implemented stochastically to determine if incorporating higher scale information influences prediction of subpopulation distribution.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027291</AwardID>
+<Investigator>
+<FirstName>Ranjan</FirstName>
+<LastName>Srivastava</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ranjan Srivastava</PI_FULL_NAME>
+<EmailAddress><![CDATA[ranjan.srivastava@uconn.edu]]></EmailAddress>
+<NSF_ID>000445068</NSF_ID>
+<StartDate>03/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>STORRS</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 WHITNEY RD EXTENSION UNIT 11</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CT02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>WNTPS995QBM7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CONNECTICUT</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D9SNFDRCW3W7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Connecticut]]></Name>
+<CityName>Storrs</CityName>
+<StateCode>CT</StateCode>
+<ZipCode>062693222</ZipCode>
+<StreetAddress><![CDATA[191 Auditorium Rd, U-3222]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CT02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~130197</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The purpose of this project was to develop a mathematical model of how the SARS-CoV-2 virus replicates within its host cell and spreads throughout the body.&nbsp;&nbsp;Such knowledge could facilitate the rapid and efficient development of new therapeutics against COVID-19 or re-purposing of existing therapeutics.&nbsp;&nbsp;Over the course of this one-year project, progress was made in the development of both a deterministic model and a probabilistic model.&nbsp;&nbsp;A deterministic model is one in which, given an initial starting point, the system behavior will progress in a specificed fashion.&nbsp;&nbsp;The only way the system behavior could change is if a different initial starting point was provided, such as a different number viral particles infecting the cell.&nbsp;&nbsp;A probabilistic model is one in which, due to random chance, system behavior may differ even if the same starting conditions are used.&nbsp;&nbsp;Such a model is more realistic in that it accounts for random fluctuations influenced by variations in biochemistry or molecular biology.&nbsp;&nbsp;The deterministic model has value in that it is simpler to implement on a computer, and it represents the average behavior of many cellular infections.&nbsp;&nbsp;Though more computationally intensive, the probabilistic model can provide information regarding how individual infected cells are behaving, which can sometimes be more informative than what is learned from the deterministic model.</p> <p>From an NSF Intellectual Merits perspective, the models provided insight into the molecular replication process of SARS-CoV-2 within its host cell.&nbsp;&nbsp;To create the model, data from published scientific experiments were used.&nbsp;&nbsp;The model was able to reproduce the dynamics of what was experimentally observable, although the time scale was not accurate.&nbsp;&nbsp;That the model correctly simulated the dynamics suggests that the interrelationship among the different viral components, including those that were not observable, was also correct.&nbsp;&nbsp;As such, it was found that initially upon infection, new viral genome was rapidly produced initially.&nbsp;&nbsp;After a critical amount of genome was reached, the rate of viral genome secretion became dominant, allowing the virus to infect other cells.&nbsp;&nbsp;The result was a decline in the number of viral genomes within the host cell.&nbsp;&nbsp;Unsurprisingly, other viral constituents, such as the membrane or M protein, also initially increased rapidly initially.&nbsp;&nbsp;This result was expected because the increased number of viral genomes allowed for additional templates to be used for viral protein production.&nbsp;&nbsp;What was surprising, however, was that when the viral genome levels started to decrease due to secretion, the production rate of other viral proteins slowed down, but they did not decrease.&nbsp;&nbsp;Rather they continued to increase, albeit at a slower speed.&nbsp;&nbsp;This result suggests that the virus does not commence a mass secretion of genomes until a self-sustaining infection threshold within the host cell is achieved.&nbsp;&nbsp;To our knowledge, this is a previously unknown result and provides a testable hypothesis.&nbsp;&nbsp;However, it is first necessary to reconcile the timescale issues between the models and the experiments.&nbsp;&nbsp;What is observed in seconds to minutes experimentally is predicted to take hours based on the model, regardless of whether the model is deterministic or probabilistic. &nbsp;</p> <p>For the NSF Broader Impacts outcomes, a preliminary model that can potentially provide insight into the development of therapeutics for treating COVID-19 was created.&nbsp;&nbsp;One PhD student was trained, and she is now employed at Alexion Pharmaceuticals.&nbsp;&nbsp;Two high school students also helped review the scientific literature and helped to collect data to create the mathematical models.&nbsp;&nbsp;Both young women have since graduated high school.&nbsp;&nbsp;One has matriculated at Harvard University, and the other has matriculated at Simmons University.&nbsp;&nbsp;Additionally, multiple invited talks about this research were given.&nbsp;&nbsp;Finally, the Principal Investigator was interviewed on the local news on television regarding the research team's efforts.</p><br> <p>            Last Modified: 11/15/2021<br>      Modified by: Ranjan&nbsp;Srivastava</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The purpose of this project was to develop a mathematical model of how the SARS-CoV-2 virus replicates within its host cell and spreads throughout the body.  Such knowledge could facilitate the rapid and efficient development of new therapeutics against COVID-19 or re-purposing of existing therapeutics.  Over the course of this one-year project, progress was made in the development of both a deterministic model and a probabilistic model.  A deterministic model is one in which, given an initial starting point, the system behavior will progress in a specificed fashion.  The only way the system behavior could change is if a different initial starting point was provided, such as a different number viral particles infecting the cell.  A probabilistic model is one in which, due to random chance, system behavior may differ even if the same starting conditions are used.  Such a model is more realistic in that it accounts for random fluctuations influenced by variations in biochemistry or molecular biology.  The deterministic model has value in that it is simpler to implement on a computer, and it represents the average behavior of many cellular infections.  Though more computationally intensive, the probabilistic model can provide information regarding how individual infected cells are behaving, which can sometimes be more informative than what is learned from the deterministic model.  From an NSF Intellectual Merits perspective, the models provided insight into the molecular replication process of SARS-CoV-2 within its host cell.  To create the model, data from published scientific experiments were used.  The model was able to reproduce the dynamics of what was experimentally observable, although the time scale was not accurate.  That the model correctly simulated the dynamics suggests that the interrelationship among the different viral components, including those that were not observable, was also correct.  As such, it was found that initially upon infection, new viral genome was rapidly produced initially.  After a critical amount of genome was reached, the rate of viral genome secretion became dominant, allowing the virus to infect other cells.  The result was a decline in the number of viral genomes within the host cell.  Unsurprisingly, other viral constituents, such as the membrane or M protein, also initially increased rapidly initially.  This result was expected because the increased number of viral genomes allowed for additional templates to be used for viral protein production.  What was surprising, however, was that when the viral genome levels started to decrease due to secretion, the production rate of other viral proteins slowed down, but they did not decrease.  Rather they continued to increase, albeit at a slower speed.  This result suggests that the virus does not commence a mass secretion of genomes until a self-sustaining infection threshold within the host cell is achieved.  To our knowledge, this is a previously unknown result and provides a testable hypothesis.  However, it is first necessary to reconcile the timescale issues between the models and the experiments.  What is observed in seconds to minutes experimentally is predicted to take hours based on the model, regardless of whether the model is deterministic or probabilistic.    For the NSF Broader Impacts outcomes, a preliminary model that can potentially provide insight into the development of therapeutics for treating COVID-19 was created.  One PhD student was trained, and she is now employed at Alexion Pharmaceuticals.  Two high school students also helped review the scientific literature and helped to collect data to create the mathematical models.  Both young women have since graduated high school.  One has matriculated at Harvard University, and the other has matriculated at Simmons University.  Additionally, multiple invited talks about this research were given.  Finally, the Principal Investigator was interviewed on the local news on television regarding the research team's efforts.       Last Modified: 11/15/2021       Submitted by: Ranjan Srivastava]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

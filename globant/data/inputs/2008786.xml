@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CIF:Small:Non-Orthogonal Multiple Access with Imperfect Assumptions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>140000.00</AwardTotalIntnAmount>
+<AwardAmount>140000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Fowler</SignBlockName>
+<PO_EMAI>jafowler@nsf.gov</PO_EMAI>
+<PO_PHON>7032928910</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[There has been a tremendous emergence of new applications of wireless communications in different aspects of life. These new applications and the corresponding opportunities have improved the quality of life, provided economical growth, and helped the expansion of new businesses. The next generation of wireless, dubbed 5G, promises unmet demands for higher transmission data rates through designing more efficient wireless communication networks. To increase the efficiency of the emerging wireless networks, the concurrent transmission of different users, as pursued in this project, is unavoidable. The outcomes of this year-long project can help inform future generations of wireless communications standards and spur a new direction of research that can greatly increase the efficiency of radio spectrum used for wireless communications.&lt;br/&gt;&lt;br/&gt;Recently, Non-Orthogonal Multiple Access (NOMA) has been suggested as an efficient method to enable the concurrent transmission of multiple users in the same frequency/time resource block. It provides many nice properties including high bandwidth efficiency, fairness among different users, and ultra-high connectivity. While the above properties can be very advantageous, they are obtained under perfect assumptions, such as the availability of perfect synchronization. For the multiuser/multi-cell environments for which NOMA is an essential technology, these assumptions are more likely to be violated. In this exploratory project, the investigator studies the effects of imperfect timing synchronization in multi-user NOMA systems and design high performance NOMA systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008786</AwardID>
+<Investigator>
+<FirstName>Hamid</FirstName>
+<LastName>Jafarkhani</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hamid Jafarkhani</PI_FULL_NAME>
+<EmailAddress><![CDATA[hamidj@uci.edu]]></EmailAddress>
+<NSF_ID>000230835</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>160 ALDRICH HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>Irvine</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>926972625</ZipCode>
+<StreetAddress><![CDATA[Engineering Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA47</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~140000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Wireless communication systems, including mobile phones, have affected many aspects of the modern life. As new applications of wireless communication systems emerge, they generate more demand for higher transmission data rates and more efficient wireless communication networks. To satisfy such a demand, different users need to transmit concurrently. Non-Orthogonal Multiple Access (NOMA) is an efficient solution for the concurrent transmission of multiple users. Work in the literature shows how NOMA provides fairness among different users, high bandwidth efficiency, and ultra-high connectivity. However, NOMA advantages are obtained under perfect synchronization assumptions that may not be valid. We studied asynchronous NOMA and showed that it outperforms synchronous NOMA. We also designed high performance NOMA systems.</p> <p>Specific technical accomplishments of this project can be summarized as:</p> <p>1)&nbsp;&nbsp;&nbsp;&nbsp; We analyzed the rate-region provided by the asynchronous transmission in multiple access channels, i.e., uplink NOMA using practical pulse shaping methods. We showed that the asynchronous NOMA rate-region is larger than that of the synchronous NOMA.</p> <p>2)&nbsp;&nbsp;&nbsp;&nbsp; We provided practical transceiver designs to approach the capacity-region of asynchronous NOMA. Our designed asynchronous NOMA transceiver can operate at a rate coordinate that is outside of the theoretically possible rate-region of the synchronous NOMA</p> <p>3)&nbsp;&nbsp;&nbsp;&nbsp; We studied a two-user downlink asynchronous NOMA and demonstrated that asynchronous NOMA can achieve the same or even higher average max-min rate compared with NOMA.</p> <p>4)&nbsp;&nbsp;&nbsp;&nbsp; We designed different high performance NOMA systems.</p> <p>5)&nbsp;&nbsp;&nbsp;&nbsp; We designed practical multi-channel non-orthogonal multiple access (MC-NOMA) systems that provide good performance comparable to the existing algorithms in the literature despite requiring much lower computational complexity.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/02/2022<br>      Modified by: Hamid&nbsp;Jafarkhani</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Wireless communication systems, including mobile phones, have affected many aspects of the modern life. As new applications of wireless communication systems emerge, they generate more demand for higher transmission data rates and more efficient wireless communication networks. To satisfy such a demand, different users need to transmit concurrently. Non-Orthogonal Multiple Access (NOMA) is an efficient solution for the concurrent transmission of multiple users. Work in the literature shows how NOMA provides fairness among different users, high bandwidth efficiency, and ultra-high connectivity. However, NOMA advantages are obtained under perfect synchronization assumptions that may not be valid. We studied asynchronous NOMA and showed that it outperforms synchronous NOMA. We also designed high performance NOMA systems.  Specific technical accomplishments of this project can be summarized as:  1)     We analyzed the rate-region provided by the asynchronous transmission in multiple access channels, i.e., uplink NOMA using practical pulse shaping methods. We showed that the asynchronous NOMA rate-region is larger than that of the synchronous NOMA.  2)     We provided practical transceiver designs to approach the capacity-region of asynchronous NOMA. Our designed asynchronous NOMA transceiver can operate at a rate coordinate that is outside of the theoretically possible rate-region of the synchronous NOMA  3)     We studied a two-user downlink asynchronous NOMA and demonstrated that asynchronous NOMA can achieve the same or even higher average max-min rate compared with NOMA.  4)     We designed different high performance NOMA systems.  5)     We designed practical multi-channel non-orthogonal multiple access (MC-NOMA) systems that provide good performance comparable to the existing algorithms in the literature despite requiring much lower computational complexity.             Last Modified: 12/02/2022       Submitted by: Hamid Jafarkhani]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

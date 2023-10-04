@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Collaborative Research: III: Exploring Physics Guided Machine Learning for Accelerating Sensing and Physical Sciences]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>40187.00</AwardTotalIntnAmount>
+<AwardAmount>40187</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amarda Shehu</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As machine learning (ML) continues to revolutionize the commercial space including vision, speech, and&lt;br/&gt;text recognition, there is a huge anticipation in the scientific community to unlock the power of ML for&lt;br/&gt;accelerating scientific discovery. However, black-box ML models, which rely solely on training data and&lt;br/&gt;ignore existing scientific knowledge have met with limited success in scientific problems, particularly&lt;br/&gt;when labeled data is limited, sometimes even leading to spectacular failures. This is because the black&lt;br/&gt;box ML models are susceptible to learning spurious relationships that do not generalize well outside the&lt;br/&gt;data they are trained for. The emerging paradigm of physics-guided machine learning (PGML), which&lt;br/&gt;leverages the unique ability of ML algorithms to automatically extract patterns and models from data with&lt;br/&gt;guidance of the knowledge accumulated in physics (or scientific theories), aims to address the challenges&lt;br/&gt;faced by black box ML in scientific applications.&lt;br/&gt;&lt;br/&gt;For data science, PGML has the potential to transform ML beyond black-box applications by enabling&lt;br/&gt;solutions that generalize well even on unseen input-output distributions that are different from those&lt;br/&gt;encountered during training, by anchoring ML methods with the scientific body of knowledge. PGML makes a distinct&lt;br/&gt;departure from the conventional view that physics-based models and ML models are developed in&lt;br/&gt;isolation but seldom mixed together. The proposed project is fundamentally different from existing body&lt;br/&gt;of research that attempts to combine ML and domain sciences, e.g., by making use of domain-specific&lt;br/&gt;knowledge in ML algorithms in simplistic ways, or making use of data in the physics-based modeling&lt;br/&gt;process albeit without allowing data to change the functional forms of existing physics-based models.&lt;br/&gt;The tight interplay between data science and the domains of physics and sensing in the project lends itself&lt;br/&gt;naturally to diverse education activities that complement the research tasks outlined by our team. Over the&lt;br/&gt;duration of this one-year project, the team will develop an integrative course at the graduate level on "ML&lt;br/&gt;meets Physics", which explores topical, emerging themes in this interdisciplinary area. Offerings of the&lt;br/&gt;course will draw upon course modules shared between the four universities, such as shared guest videos&lt;br/&gt;and case studies. The physics department at BU has a well-developed "Physics Outreach Project" that&lt;br/&gt;annually performs science exhibitions for elementary schools in Binghamton metropolitan area, for which&lt;br/&gt;the team will create a new exhibition about neural networks and ML. In follow-on work, similar outreach&lt;br/&gt;events will be replicated at schools (Robinson Middle School in Lowell and Metro STEM Middle School&lt;br/&gt;in Columbus). The PIs are committed to increasing the diversity of involvement at various levels of the&lt;br/&gt;training ecosystem impacted by this project, and have planned various coordinated broader impact&lt;br/&gt;activities for inclusion of female and underrepresented minority students as well as faculty.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026703</AwardID>
+<Investigator>
+<FirstName>Viktor</FirstName>
+<LastName>Podolskiy</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Viktor A Podolskiy</PI_FULL_NAME>
+<EmailAddress><![CDATA[viktor_podolskiy@uml.edu]]></EmailAddress>
+<NSF_ID>000493531</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Lowell</Name>
+<CityName>LOWELL</CityName>
+<ZipCode>018543624</ZipCode>
+<PhoneNumber>9789344170</PhoneNumber>
+<StreetAddress>600 SUFFOLK ST STE 212</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LTNVSTJ3R6D5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Lowell]]></Name>
+<CityName>Lowell</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>018542827</ZipCode>
+<StreetAddress><![CDATA[One University Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~40187</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>As machine learning (ML) continues to advance the quality of human life through developments in machine vision, automatic translation, and medicine, there is a rising expectation that ML will advance the process of scientific discovery itself. However, modern mainstream black-box machine learning tools tend to learn on data alone and do not take into account existing body of scientific knowledge. In this collaborative EAGER project a team of researchers from Ohio State University, University of Massachusetts Lowell, Binghamton University, and Virginia Tech University aimed at exploring the pathways for embedding the scientific knowledge into ML process. Specifically, the interdisciplinary team aimed at developing the ML algorithms that help solving eigenvalue problems in quantum mechanics and electromagnetism and algorithms that enhance the efficiency of ML models.</p> <p>&nbsp;</p> <p>During the course of the project, the collaboration between VT, BU, and UML has developed a novel class of ML-based eigenvalue solvers and applied this class to quantum mechanical and electromagnetic problems.</p> <p>&nbsp;</p> <p>In case of electromagnetism, results of VT-UML collaboration can be used to speedup the optimization of metamaterials, composite media with engineered optical properties, a new materials science platform that emerges as the foundation for new generation of sensors, lenses, and other optical elements. The Physics-informed ML algorithm is drastically faster than its Physics-only counterpart and is substantially more accurate than its ML-only predecessors.</p> <p>&nbsp;</p> <p>In a separate project, UML (in collaboration with researchers from King?s College London) has developed a robust parameterization of diffractive signatures of complex objects and utilized this parameterization to demonstrate single-shot classification of wavelength-scale objects with deep subwavelength (wavelength/7) resolution.</p> <p>&nbsp;</p> <p>Over the course of this EAGER project, the team has completed one manuscript (with 2 manuscripts in preparation/under consideration), and presented their results at multiple international conferences. The NSF funding contributed to Ph.D. research of 1 graduate female student at UML.</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/20/2021<br>      Modified by: Viktor&nbsp;A&nbsp;Podolskiy</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2026703/2026703_10665344_1640024220339_pgmlCompact--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2026703/2026703_10665344_1640024220339_pgmlCompact--rgov-800width.jpg" title="Physics-Informed Machine Learning"><img src="/por/images/Reports/POR/2021/2026703/2026703_10665344_1640024220339_pgmlCompact--rgov-66x44.jpg" alt="Physics-Informed Machine Learning"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Science- vs machine-learnings vs physics-informed approaches for predicting optical modes of composites</div> <div class="imageCredit">Viktor Podolskiy</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Viktor&nbsp;A&nbsp;Podolskiy</div> <div class="imageTitle">Physics-Informed Machine Learning</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2026703/2026703_10665344_1638287049994_TOC--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2026703/2026703_10665344_1638287049994_TOC--rgov-800width.jpg" title="ML-based diffractive image characterization"><img src="/por/images/Reports/POR/2021/2026703/2026703_10665344_1638287049994_TOC--rgov-66x44.jpg" alt="ML-based diffractive image characterization"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Complex objects with subwavelength features (left) can be characterized based on their single far-field diffractive signature (top center) that is represented as a linear combination of Fourier-Bessel harmonics (top right) using pre-trained support vector machine (bottom)</div> <div class="imageCredit">Viktor Podolskiy</div> <div class="imageSubmitted">Viktor&nbsp;A&nbsp;Podolskiy</div> <div class="imageTitle">ML-based diffractive image characterization</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ As machine learning (ML) continues to advance the quality of human life through developments in machine vision, automatic translation, and medicine, there is a rising expectation that ML will advance the process of scientific discovery itself. However, modern mainstream black-box machine learning tools tend to learn on data alone and do not take into account existing body of scientific knowledge. In this collaborative EAGER project a team of researchers from Ohio State University, University of Massachusetts Lowell, Binghamton University, and Virginia Tech University aimed at exploring the pathways for embedding the scientific knowledge into ML process. Specifically, the interdisciplinary team aimed at developing the ML algorithms that help solving eigenvalue problems in quantum mechanics and electromagnetism and algorithms that enhance the efficiency of ML models.     During the course of the project, the collaboration between VT, BU, and UML has developed a novel class of ML-based eigenvalue solvers and applied this class to quantum mechanical and electromagnetic problems.     In case of electromagnetism, results of VT-UML collaboration can be used to speedup the optimization of metamaterials, composite media with engineered optical properties, a new materials science platform that emerges as the foundation for new generation of sensors, lenses, and other optical elements. The Physics-informed ML algorithm is drastically faster than its Physics-only counterpart and is substantially more accurate than its ML-only predecessors.     In a separate project, UML (in collaboration with researchers from King?s College London) has developed a robust parameterization of diffractive signatures of complex objects and utilized this parameterization to demonstrate single-shot classification of wavelength-scale objects with deep subwavelength (wavelength/7) resolution.     Over the course of this EAGER project, the team has completed one manuscript (with 2 manuscripts in preparation/under consideration), and presented their results at multiple international conferences. The NSF funding contributed to Ph.D. research of 1 graduate female student at UML.          Last Modified: 12/20/2021       Submitted by: Viktor A Podolskiy]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

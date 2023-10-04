@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AF: Small: Metric Information Theory, Online Learning, and Competitive Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Brass</SignBlockName>
+<PO_EMAI>pbrass@nsf.gov</PO_EMAI>
+<PO_PHON>7032922182</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[There will always be limitations on human ability to collect and process data&lt;br/&gt;about systems, environments, and populations.  Algorithmic agents act in real&lt;br/&gt;time based on partial, noisy information about the world, and the elimination&lt;br/&gt;of uncertainty through "learning" must often be balanced against the&lt;br/&gt;optimization of some objective.  The cost of choices made in the present must&lt;br/&gt;be weighed against the risk that those choices might incur further costs in&lt;br/&gt;the future.  Information theory provides a rich and fertile framework for quantifying and&lt;br/&gt;managing uncertainty.  The situation becomes more subtle when distinct pieces&lt;br/&gt;of information carry differing costs. Consider one's 401(k) balance at&lt;br/&gt;retirement.  While the least significant digit is most uncertain, there is&lt;br/&gt;substantially more cost associated with incorrectly predicting the value of the&lt;br/&gt;most significant digit.&lt;br/&gt;&lt;br/&gt;This project concerns probability spaces endowed with a metric that describes&lt;br/&gt;the associated cost of uncertainty.  Designing algorithms to optimize in such a&lt;br/&gt;framework is intimately connected to having a robust theory of metric&lt;br/&gt;information.  Moreover, the settings of online optimization and competitive&lt;br/&gt;analysis provide a deep and varied set of formal models in which to apply these&lt;br/&gt;methods and test their efficacy.  In an area where algorithm design and &lt;br/&gt;analysis have often been seen as ad-hoc and unstructured, the framework &lt;br/&gt;underlying this work contends that both algorithms and their analysis can be&lt;br/&gt;derived readily from the right set of underlying definitions.  Indeed, many &lt;br/&gt;problems in this area have been researched for 30-40 years, and&lt;br/&gt;yet preliminary application of algorithms and analysis tools from online convex&lt;br/&gt;optimization--in the context of metric probability spaces--has already achieved&lt;br/&gt;a sequence of breakthroughs.  The team of researchers will develop the &lt;br/&gt;corresponding theory, guided by a collection of prominent open problems, with&lt;br/&gt;the ultimate goal of understanding in what circumstances, and to what extent, &lt;br/&gt;one can limit the detrimental effects of uncertainty on optimization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2007079</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James R Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[jrl@cs.washington.edu]]></EmailAddress>
+<NSF_ID>000482524</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 BROOKLYN AVE NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF WASHINGTON VICE PR</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981952350</ZipCode>
+<StreetAddress><![CDATA[185 Stevens Way CSE101]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>2878</Code>
+<Text>Special Projects - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7796</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~400000</FUND_OBLG>
+</Award>
+</rootTag>

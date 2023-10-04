@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Real-time phylogenetic inference and transmission cluster analysis of COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shannon Fehlberg</SignBlockName>
+<PO_EMAI>sfehlber@nsf.gov</PO_EMAI>
+<PO_PHON>7032928784</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As the COVID-19 pandemic spreads rapidly around the world, public health officials need to be able to answer questions such as “How is COVID-19 spreading through the population?” and “How many individual outbreaks exist within a given community?”. With increasing access to sequencing technologies, scientists can analyze the genome sequences of collected SARS-CoV-2 viral samples in order to gain information about to aid in the development of vaccines and drugs as well as to infer the most likely evolutionary history of the virus, which can help epidemiologists track the spread of the virus across populations. The epidemiological use of the evolutionary history of the virus is only useful if it can be updated in real-time, but as the sheer volume of available data rapidly grows, scientists will require scalable computational tools to conduct these analyses. The goal of this project is to develop novel algorithms, software tools, and hardware systems that will scale to the massive amounts of data that are rapidly being generated in this pandemic, which will in turn aid in phylogenomic analysis of the virus, the effective tracking of the spread of the virus as well as in the development of novel vaccines and drugs in this pandemic. As a broader impact, this project will help with replicability and reproducibility of genetic and epidemiological research results. Furthermore, the existence of such a system will aid in fighting future viral outbreaks. This project provides professional development opportunities for an early career scientist.&lt;br/&gt;&lt;br/&gt;The standard viral phylogenetic inference workflow consists of quality checking and filtering, multiple sequence alignment, phylogenetic inference, phylogenetic rooting, phylogenetic dating, and transmission clustering. The researchers have identified that the computational bottlenecks of the workflow are multiple sequence alignment and phylogenetic inference, which scale poorly as a function of the number of input sequences. The objective of this project is the development of a user-friendly, scalable, and modular workflow for conducting a real-time computational phylogenetic analysis of assembled viral genomes, with a primary focus of SARS-CoV-2. The project solution includes: (1) the development of a novel software tool for orchestrating the automated end-to-end workflow, (2) the development of novel algorithms (and software implementations of these algorithms) to speed up the computational bottlenecks of the workflow, (3) the development of novel hardware systems for accelerating the workflow, and (4) a real-time publicly-accessible repository in which researchers can access the most up-to-date analysis results (with intermediate files) of all SARS-CoV-2 genomes currently available to prevent repeat computation efforts. The analysis infrastructure that will be built in this project will be broadly applicable to any viral pathogen for which phylogenetic inference is biologically and epidemiologically meaningful.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028040</AwardID>
+<Investigator>
+<FirstName>Tajana</FirstName>
+<LastName>Rosing</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tajana S Rosing</PI_FULL_NAME>
+<EmailAddress><![CDATA[tajana@ucsd.edu]]></EmailAddress>
+<NSF_ID>000485892</NSF_ID>
+<StartDate>04/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Moshiri</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alexander N Moshiri</PI_FULL_NAME>
+<EmailAddress><![CDATA[a1moshir@ucsd.edu]]></EmailAddress>
+<NSF_ID>000824030</NSF_ID>
+<StartDate>04/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>9500 GILMAN DRIVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>920930934</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The overarching goal of the project was to accelerate important analyses in viral evolution and molecular epidemiology in order to reduce time-to-results for critical actionable information in the COVID-19 pandemic. With this goal in mind, we have successfully achieved the following outcomes:</p> <ol> <li>When a SARS-CoV-2 sample is collected (e.g. nasal swabs, wastewater, etc.) and sequenced, mutations in the sample must be discovered in order to reconstruct the sample's viral genome sequence and ultimately determine the sample's lineage. By accelerating read trimming and consensus sequence calling, we have reduced the compute time needed to process raw sequence data by orders of magnitude, enabling researchers to process thousands of samples per day.</li> <li>When multiple SARS-CoV-2 samples have been collected and sequenced, their genome sequences have to be aligned in order to detect sequence homology (as a first step towards transmission clustering and phylogenetic inference). By accelerating viral multiple sequence alignment using a reference-guided approach, we have reduced the compute time needed to align large viral genome datasets by orders of magnitude: the alignment of just thousands of SARS-CoV-2 genomes used to take hours to days on high-performance servers, but we are now able to align over 1 million SARS-CoV-2 genomes in less than 1 hour on a personal laptop.</li> <li>When multiple SARS-CoV-2 genomes have been aligned, a standard transmission clustering approach is to compute all pairwise genetic distances (e.g. under the Tamura-Nei 93 model of evolution) and epidemiologically "linking" pairs of individuals whose viral genomes are within some threshold of genetic distance. By accelerating pairwise genetic distance calculation using&nbsp;Field Programmable Gate Arrays (FPGAs), we have massively improved the parallelization (and thus scalability) of linkage-based transmission clustering.</li> <li>When performing epidemic simulations to explore the origins of a pathogen, because each simulation is a random process, researchers must perform thousands of simulation replicates in order to gain confidence in their results. However, when simulating city-scale, country-scale, or even global-scale epidemics, because of the sheer size of the simulated population, simulations can becomea prohibitively memory- and time-intensive. By accelerating contact network and phylogeny simulation while also dramatically reducing memory usage, we have dramatically increased the size and number of simulations that can be performed reasonably, which enables more thorough exploration into the molecular origins of SARS-CoV-2.</li> </ol> <p>In terms of broader impacts, the project has yielded multiple open source software tools that can be utilized by molecular epidemiologists all over the world, and the project has facilitated training and mentorship of multiple graduate and undergraduate students.</p><br> <p>            Last Modified: 05/02/2022<br>      Modified by: Alexander&nbsp;N&nbsp;Moshiri</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The overarching goal of the project was to accelerate important analyses in viral evolution and molecular epidemiology in order to reduce time-to-results for critical actionable information in the COVID-19 pandemic. With this goal in mind, we have successfully achieved the following outcomes:  When a SARS-CoV-2 sample is collected (e.g. nasal swabs, wastewater, etc.) and sequenced, mutations in the sample must be discovered in order to reconstruct the sample's viral genome sequence and ultimately determine the sample's lineage. By accelerating read trimming and consensus sequence calling, we have reduced the compute time needed to process raw sequence data by orders of magnitude, enabling researchers to process thousands of samples per day. When multiple SARS-CoV-2 samples have been collected and sequenced, their genome sequences have to be aligned in order to detect sequence homology (as a first step towards transmission clustering and phylogenetic inference). By accelerating viral multiple sequence alignment using a reference-guided approach, we have reduced the compute time needed to align large viral genome datasets by orders of magnitude: the alignment of just thousands of SARS-CoV-2 genomes used to take hours to days on high-performance servers, but we are now able to align over 1 million SARS-CoV-2 genomes in less than 1 hour on a personal laptop. When multiple SARS-CoV-2 genomes have been aligned, a standard transmission clustering approach is to compute all pairwise genetic distances (e.g. under the Tamura-Nei 93 model of evolution) and epidemiologically "linking" pairs of individuals whose viral genomes are within some threshold of genetic distance. By accelerating pairwise genetic distance calculation using Field Programmable Gate Arrays (FPGAs), we have massively improved the parallelization (and thus scalability) of linkage-based transmission clustering. When performing epidemic simulations to explore the origins of a pathogen, because each simulation is a random process, researchers must perform thousands of simulation replicates in order to gain confidence in their results. However, when simulating city-scale, country-scale, or even global-scale epidemics, because of the sheer size of the simulated population, simulations can becomea prohibitively memory- and time-intensive. By accelerating contact network and phylogeny simulation while also dramatically reducing memory usage, we have dramatically increased the size and number of simulations that can be performed reasonably, which enables more thorough exploration into the molecular origins of SARS-CoV-2.   In terms of broader impacts, the project has yielded multiple open source software tools that can be utilized by molecular epidemiologists all over the world, and the project has facilitated training and mentorship of multiple graduate and undergraduate students.       Last Modified: 05/02/2022       Submitted by: Alexander N Moshiri]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

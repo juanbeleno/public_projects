@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Scaling Mental Healthcare in COVID-19 with Voice Biomarkers]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to use voice as a real-time measurement of mental health.  Transforming voice intonations into biomarkers could enable disease diagnosis and progression, supporting the $13 B virtual health care sector that was growing 27% annually prior to COVID-19. Furthermore, peer support for mental health increases engagement in self-care decreases substance use and depression, particularly for vulnerable populations. The project will advance the use of machine learning for voice mental health biomarkers in a group setting. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will define voice biomarker features for a deep reinforcement learning based system. This project will advance a voice biomarker technology that can serve as fast behavioral health diagnostic, potentially superseding the current paper-based PHQ-9 and GAD-7 tests. The priority is to scale the optimal mix of individuals and activities for group therapy based on reward functions that maximize improvements in depression and anxiety scores. The major technical challenges include: (1) capturing nonverbal cues in a video; (2) interpreting multi-speaker audio processing; (3) creating deep reinforcement learning models to serve relevant group matches and follow-up exercises; and (4) building engaging visual feedback of progress from group meetings. The anticipated technical result of this innovation will be to define voice biomarker features and reward functions for a deep reinforcement learning based system in clinically relevant settings to improve depression and anxiety treatment outcomes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031310</AwardID>
+<Investigator>
+<FirstName>Grace</FirstName>
+<LastName>Chang</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Grace C Chang</PI_FULL_NAME>
+<EmailAddress><![CDATA[grace@kintsugihello.com]]></EmailAddress>
+<NSF_ID>000801591</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kintsugi Mindful Wellness, Inc.</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947051346</ZipCode>
+<PhoneNumber>3105981553</PhoneNumber>
+<StreetAddress>2737 GARBER STREET</StreetAddress>
+<StreetAddress2><![CDATA[NO. 8]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EKBBEZW31F25</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>KINTSUGI MINDFUL WELLNESS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CHANG, GRACE]]></Name>
+<CityName>San Francisco</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>941103320</ZipCode>
+<StreetAddress><![CDATA[2790 Harrison Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~256000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Artificial Intelligence (AI) System for Enterprise Software Incident Management]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diane Hickey</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be improving the robustness and performance of enterprise information infrastructure. Automated solutions for incident management are critical. The proposed project develops an automated artificial intelligence (AI) system to interpret reports of IT problems and recommend solutions.  &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims at transforming IT incident management for enterprise companies. The novelty of the proposed solution lies in two unique features: 1) intelligent learning techniques that can automatically infer effective remediation actions without requiring tedious and error-prone user-defined rules; and 2) active learning capabilities which can adaptively refine the prevention actions based on continuous system health monitoring data and user feedback. Specifically, the proposed project consists of three thrusts: 1) building universal pattern extraction schemes which can extract precise and reusable patterns from various data sources including complex incident ticket data, metric data, and log data; 2) exploring a self-learning remediation recommendation system that can recommend proper remediation by analyzing both the incident pattern and root cause patterns; and 3) easy-to-use remediation workflow engine which allows the user to trigger different remediation workflows to prevent the predicted incident in one place.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/05/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052608</AwardID>
+<Investigator>
+<FirstName>Helen</FirstName>
+<LastName>Gu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Helen Gu</PI_FULL_NAME>
+<EmailAddress><![CDATA[helen@insightfinder.com]]></EmailAddress>
+<NSF_ID>000726380</NSF_ID>
+<StartDate>08/05/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>InsightFinder Inc.</Name>
+<CityName>BROOKLYN</CityName>
+<ZipCode>112153070</ZipCode>
+<PhoneNumber>9196001004</PhoneNumber>
+<StreetAddress>539 4TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZRJPHK6VBMU5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>INSIGHTFINDER INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QAMAVY5MST46</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[InsightFinder Inc.]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>112010001</ZipCode>
+<StreetAddress><![CDATA[154 Grand Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><br />In August 2021, we received an NSF SBIR Phase I grant to study the feasibility of providing automatedincident prevention Software as a Service (SaaS) for IT infrastructures. We first developed a universal patternextraction system that can extract anomalous patterns from metric data, log data, event data, tracing data,and incident ticket data. We then developed a self-learning knowledge base creation process that can identifyvarious predictive patterns for incident remediation recommendation. We finally implement remediationworkflow engine by implementing an action configuration and triggering system. We launched our betaproduct in December and have been performing tests with our existing customers since then.</p> <p><br />Our research during the Phase I project aims at answering a set of key commercialization feasibility questions: 1) can our unsupervised machine learning technology extract precise patterns for various anomaly types or productionincidents? 2) can those patterns be reused and leveraged for remediation recommendation? and 3) can weprovide scalable knowledgebase that can support real time pattern matching and recommendation in realtime? We carried out data-driven research study to answer those questions.</p> <p><br />We evaluated our machine learning based pattern extraction algorithms using tens of real world productionincident data sets provided by our customers. The root causes of those incidents range from hardwarefailures, human errors, to software bugs, or a combination of those three factors. The incidents we studiedconsist of service outage, node down, storage disconnection, high CPU load, and memory depletion. Ourpattern extraction algorithms can successfully recognize different root cause and incident patterns with highprecision. We have also implemented a root cause analysis focus feature which can display the incident andits related root cause patterns in an integrated timeline to enable instant incident triage.We also implemented a knowledge base that saves all incident patterns and their related predictive rootcause patterns in a database. Users can also configure the prediction engine by providing feedback in theknowledgebase. The remediation recommendation is provided by analyzing both the root cause patternsand the incident patterns. The users can also configure remediation actions in our knowledge base. Theaction can be automatically dispatched to a script runner that can execute the remediation actions withoutany human intervention.</p><br> <p>            Last Modified: 05/02/2022<br>      Modified by: Xiaohui&nbsp;Gu</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In August 2021, we received an NSF SBIR Phase I grant to study the feasibility of providing automatedincident prevention Software as a Service (SaaS) for IT infrastructures. We first developed a universal patternextraction system that can extract anomalous patterns from metric data, log data, event data, tracing data,and incident ticket data. We then developed a self-learning knowledge base creation process that can identifyvarious predictive patterns for incident remediation recommendation. We finally implement remediationworkflow engine by implementing an action configuration and triggering system. We launched our betaproduct in December and have been performing tests with our existing customers since then.   Our research during the Phase I project aims at answering a set of key commercialization feasibility questions: 1) can our unsupervised machine learning technology extract precise patterns for various anomaly types or productionincidents? 2) can those patterns be reused and leveraged for remediation recommendation? and 3) can weprovide scalable knowledgebase that can support real time pattern matching and recommendation in realtime? We carried out data-driven research study to answer those questions.   We evaluated our machine learning based pattern extraction algorithms using tens of real world productionincident data sets provided by our customers. The root causes of those incidents range from hardwarefailures, human errors, to software bugs, or a combination of those three factors. The incidents we studiedconsist of service outage, node down, storage disconnection, high CPU load, and memory depletion. Ourpattern extraction algorithms can successfully recognize different root cause and incident patterns with highprecision. We have also implemented a root cause analysis focus feature which can display the incident andits related root cause patterns in an integrated timeline to enable instant incident triage.We also implemented a knowledge base that saves all incident patterns and their related predictive rootcause patterns in a database. Users can also configure the prediction engine by providing feedback in theknowledgebase. The remediation recommendation is provided by analyzing both the root cause patternsand the incident patterns. The users can also configure remediation actions in our knowledge base. Theaction can be automatically dispatched to a script runner that can execute the remediation actions withoutany human intervention.       Last Modified: 05/02/2022       Submitted by: Xiaohui Gu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

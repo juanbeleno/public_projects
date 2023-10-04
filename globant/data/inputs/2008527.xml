@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CIF: Small: Timing Optimization Over Random Network Asynchrony - Theory And Distributed Algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>165000.00</AwardTotalIntnAmount>
+<AwardAmount>165000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+<PO_EMAI>pregalia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922981</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[A key force driving technology revolutions in the 21st century is the ever accelerating deployment of more powerful but physically smaller computing/sensing devices that are constantly and interactively connected through newer-generation wireless networks. There is interest in supporting device densities of up to one million devices per square kilometer, which, once achieved, would enable exponentially many innovations that further transform the landscape of modern society. A grand challenge of supporting this massive scale of machine-type communication is that modern wireless networks, while offering high throughput and broad coverage, are inevitably susceptible to random delay. This delay results in a phenomenon called "network asynchrony," for which any message sent by a device is always outdated to some random degree when it actually arrives at its intended destination. As such, the local views of any two nodes regarding network information are always "out-of-sync," and the key challenge is how each individual node can optimally communicate and collaborate with others despite their asynchronous local views. This project investigates the optimal network collaboration policies under network asynchrony, with results potentially leading to a high-performance design paradigm for the much-needed next-generation machine-type communication protocols, substantially improving the communication efficiency of autonomous vehicles, sensor networks, and many other Internet-of-Things devices.&lt;br/&gt;&lt;br/&gt;Motivated by the recent discovery of data freshness control, this projects studies how sensors and controllers, and the entire network in general, can optimally collaborate over a temporally noisy information loop, and particularly how to perform (transmission) timing optimization over random network asynchrony. Three major thrusts will be investigated. In thrust 1, a new fixed-point equation framework crystallizing the existing theoretic developments will be explored, opening up new venues for optimal scheduling characterization and numerical evaluation. In thrust 2, new distributed algorithms and data-freshness-control schedulers that optimally adapt to any unknown delay distribution will be developed. In Thrust 3, joint consideration of acknowledgement-centric, acknowledgement-free, and hybrid designs. and quantifying the impact of transport-layer design choices on data freshness control will be investigated. The results of these thrusts will lead to new theoretical characterizations, distributed algorithms, and protocol designs for autonomous machine-type communications in a way similar to the development of TCP-based flow-control algorithms in the early days of Internet protocols.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008527</AwardID>
+<Investigator>
+<FirstName>Chih-Chun</FirstName>
+<LastName>Wang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chih-Chun Wang</PI_FULL_NAME>
+<EmailAddress><![CDATA[chihw@purdue.edu]]></EmailAddress>
+<NSF_ID>000189048</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 NORTHWESTERN AVE STE 1900</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479072035</ZipCode>
+<StreetAddress><![CDATA[465 Northwestern Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~165000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>One of the main driving forces behind next-generation wireless and wireline communications is the increasing needs to support Machine-Type Communications (MTC), the backbone for ubiquitous internet access to sensing, metering, and monitoring devices that constantly interact with the environment, including Internet-of-Things (IoT), smart grid, UAVs, autonomous vehicles, and vehicular networks that are currently considered in IEEE 802.15.x, 802.11ah, LTE-A, and 5G. Since the sensors and controllers are often spread over a wide area and are interconnected through heterogeneous subnetworks, both the sensor-to-controller (s2c) and controller-to-sensor (c2s) MTC traffics are subject to random delay. This incurs asymmetrically delayed information access among network nodes since any s2c measurement is always outdated due to the delay in the forward direction; and any c2s control message, sometimes just a simple acknowledgement packet, also experiences delay. Sensors and controllers thus have to make decisions locally based on uncontrollably and unpredictably outdated information, without knowing when the said information can actually propagate and arrive at the other party. The goal of this project is to characterize how sensors and controllers, and the entire network in general, can optimally collaborate over a &ldquo;temporally noisy information loop&rdquo; and discover new relationships between the system performance and the timing optimization in the context network scheduling algorithms and network protocols.</p> <p>&nbsp;</p> <p><strong>Intellectual Merit:</strong></p> <p>The results of this project can be categorized by the following three major thrusts:</p> <p>Thrust 1: A new analytical framework: This project develops a new framework of designing optimal network scheduling algorithms under a randomly delayed communication environment, and the approach is inspired by a classical mathematical concept called &ldquo;fixed point equation&rdquo; that has been actively studied since 1910s. &nbsp;The new fixed-point-equation-based framework uncovers a fundamental relationship between marginal vs average cost of network scheduling and shows that the quest of designing any optimal scheduling algorithm is essentially to properly balance the two. The results provide critical guidelines when designing high-performance MTC scheduling protocols in a cyber-physical system.</p> <p>&nbsp;</p> <p>Thrust 2: New distributed algorithms. Almost all existing data-freshness control schemes assume the system designer having complete knowledge of delay distributions. However, in practice, delay distribution is notoriously difficult to estimate and is constantly changing over time. One central result of this project is a series of online network algorithms that can automatically adapt to different underlying delay distributions and various system parameters while attaining optimal performance without any preexisting knowledge nor human intervention during the process. &nbsp;The results greatly broaden the applicability of data freshness control algorithms and have significant impact on practical protocol designs and implementations.</p> <p>&nbsp;</p> <p>Thrust 3: New optimal control algorithms. The third significant result of this project is the designs of new optimal control algorithms based on randomly delayed observations.&nbsp; The unprecedented efficiency of modern communication networks come with the cost of random delay and sometimes out-of-order delivery. While those slight causal variations have no impact on delay-insensitive applications, such as web browsing and file download, it could significant alter the system performance when carrying time-sensitive control traffic. This project has characterized the core relationship between communication delay and control system performance, and designed new control algorithms based on randomly delayed traffic while still achieving the optimal control performance. The results of this project have identified optimal and near-optimal solutions for both the canonical single-sensor setting and the more modern multi-sensor setting in general. &nbsp;</p> <p>&nbsp;</p> <p><strong>Broader Impacts:</strong></p> <p>The landscape of wireless communications has turned increasingly towards MTC with ultra-low-latency requirements. This project has proposed and developed new transport-layer approaches of latency mitigation. By taking an interdisciplinary approach spanning from linear control theory, to network scheduling, to stochastic approximation of fixed point equations, the results take into account multiple important practical considerations, broaden significantly the applicability of existing solutions, and will further accelerate the integration of MTC applications into the society.</p> <p>In addition to graduate research assistant training and graduate-level course development, the prototyping and simulation parts of this project has been used to engage undergraduate students in advanced communication engineering research through the Purdue Vertically Integrated Projects (VIP) program, and broaden the participation of computing among female and under-represented minority students in the college of engineering of Purdue.</p> <p>&nbsp;</p><br> <p>            Last Modified: 02/24/2023<br>      Modified by: Chih-Chun&nbsp;Wang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ One of the main driving forces behind next-generation wireless and wireline communications is the increasing needs to support Machine-Type Communications (MTC), the backbone for ubiquitous internet access to sensing, metering, and monitoring devices that constantly interact with the environment, including Internet-of-Things (IoT), smart grid, UAVs, autonomous vehicles, and vehicular networks that are currently considered in IEEE 802.15.x, 802.11ah, LTE-A, and 5G. Since the sensors and controllers are often spread over a wide area and are interconnected through heterogeneous subnetworks, both the sensor-to-controller (s2c) and controller-to-sensor (c2s) MTC traffics are subject to random delay. This incurs asymmetrically delayed information access among network nodes since any s2c measurement is always outdated due to the delay in the forward direction; and any c2s control message, sometimes just a simple acknowledgement packet, also experiences delay. Sensors and controllers thus have to make decisions locally based on uncontrollably and unpredictably outdated information, without knowing when the said information can actually propagate and arrive at the other party. The goal of this project is to characterize how sensors and controllers, and the entire network in general, can optimally collaborate over a "temporally noisy information loop" and discover new relationships between the system performance and the timing optimization in the context network scheduling algorithms and network protocols.     Intellectual Merit:  The results of this project can be categorized by the following three major thrusts:  Thrust 1: A new analytical framework: This project develops a new framework of designing optimal network scheduling algorithms under a randomly delayed communication environment, and the approach is inspired by a classical mathematical concept called "fixed point equation" that has been actively studied since 1910s.  The new fixed-point-equation-based framework uncovers a fundamental relationship between marginal vs average cost of network scheduling and shows that the quest of designing any optimal scheduling algorithm is essentially to properly balance the two. The results provide critical guidelines when designing high-performance MTC scheduling protocols in a cyber-physical system.     Thrust 2: New distributed algorithms. Almost all existing data-freshness control schemes assume the system designer having complete knowledge of delay distributions. However, in practice, delay distribution is notoriously difficult to estimate and is constantly changing over time. One central result of this project is a series of online network algorithms that can automatically adapt to different underlying delay distributions and various system parameters while attaining optimal performance without any preexisting knowledge nor human intervention during the process.  The results greatly broaden the applicability of data freshness control algorithms and have significant impact on practical protocol designs and implementations.     Thrust 3: New optimal control algorithms. The third significant result of this project is the designs of new optimal control algorithms based on randomly delayed observations.  The unprecedented efficiency of modern communication networks come with the cost of random delay and sometimes out-of-order delivery. While those slight causal variations have no impact on delay-insensitive applications, such as web browsing and file download, it could significant alter the system performance when carrying time-sensitive control traffic. This project has characterized the core relationship between communication delay and control system performance, and designed new control algorithms based on randomly delayed traffic while still achieving the optimal control performance. The results of this project have identified optimal and near-optimal solutions for both the canonical single-sensor setting and the more modern multi-sensor setting in general.       Broader Impacts:  The landscape of wireless communications has turned increasingly towards MTC with ultra-low-latency requirements. This project has proposed and developed new transport-layer approaches of latency mitigation. By taking an interdisciplinary approach spanning from linear control theory, to network scheduling, to stochastic approximation of fixed point equations, the results take into account multiple important practical considerations, broaden significantly the applicability of existing solutions, and will further accelerate the integration of MTC applications into the society.  In addition to graduate research assistant training and graduate-level course development, the prototyping and simulation parts of this project has been used to engage undergraduate students in advanced communication engineering research through the Purdue Vertically Integrated Projects (VIP) program, and broaden the participation of computing among female and under-represented minority students in the college of engineering of Purdue.          Last Modified: 02/24/2023       Submitted by: Chih-Chun Wang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

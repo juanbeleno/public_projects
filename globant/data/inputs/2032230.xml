@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Collaborative Research: Rapid Production of Geospatial Network Inputs for Spatially Explicit Epidemiological Modeling of COVID-19 in the USA]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>48642.00</AwardTotalIntnAmount>
+<AwardAmount>48642</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+<PO_EMAI>kdittmar@nsf.gov</PO_EMAI>
+<PO_PHON>7032927799</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Dynamical computer models of disease transmission are used to understand and predict how infectious diseases spread through host populations. Maps of population distribution, mobility, and travel corridors are critical components of many of these models. However, accurately determining the spatial distribution of people is difficult because most sources of data (e.g., census) indicate only approximately where people reside, rather than where they work and go. Census data, in particular, are also aggregated in a way that provides fine spatial detail only in densely populated urban areas. In suburban and rural areas, census maps provide only the total number of people living in each census unit (e.g., a U.S. county), but do not show where people live and work. This research will fuse detailed satellite images of night light emitted from cities, towns and travel corridors with census counts and mobility data to produce more detailed population maps for epidemiologists to use to more accurately simulate the transmission of communicable diseases like COVID-19. The proposed collaboration will bring together expertise from geospatial dynamics and remote sensing with disease ecology and epidemiology to produce boundary spanning science with potential to advance both fields. Further, the proposed project will support two early career scientists as well as undergraduate student involvement in research.&lt;br/&gt;When air and vehicle travel are significantly reduced, the accuracy and detail of population movement and spatial connectedness assumes greater importance for modeling epidemic spread. Spatial networks derived from co-analysis of geospatial data (settlement and infrastructure density from remotely sensed night light and population density from census enumerations) can provide more accurate spatial domains than the administrative units (e.g., counties) used to aggregate and analyze health data. In addition, the structure and connectivity of these spatial networks can be used to quantify fundamental parameters of network structure that influence disease spread. This research will develop a progressively refined suite of network maps for use with epidemiological models. The research team, composed of geoscientists, disease ecologists and epidemiologists will develop a standardized protocol with analytic procedures and tools for production of these maps structured so as to be suited for quantitative spatiotemporal analysis of SARS-CoV-2 infections in the U.S., including detailed analyses of the New York and Los Angeles metro areas. Network flow parameters among population centers will be estimated using agent-based modeling, establishing a complete geospatial network consisting of population and mobility constraints within cities, and population fluxes among cities. Population and network flow estimates will be input directly into spatially explicit COVID-19 transmission models, and will be abstracted into boundary conditions that can streamline future epidemiological models. This RAPID award is made by the Ecology and Evolution of Infectious Disease Program in the Division of Environmental Biology, using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032230</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Small</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher Small</PI_FULL_NAME>
+<EmailAddress><![CDATA[csmall@columbia.edu]]></EmailAddress>
+<NSF_ID>000826635</NSF_ID>
+<StartDate>05/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>202 LOW LIBRARY 535 W 116 ST MC</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F4N1QNPB95M4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100323702</ZipCode>
+<StreetAddress><![CDATA[road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~48642</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The primary outcome of this grant was the production of a geospatial network product depicting ambient population in the USA for use with epidemiologic models of disease transmission. &nbsp;The product produced has a uniform spatial resolution of 700 meters - far greater resolution than the county level administrative units commonly used for modeling disease transmission circa 2020. &nbsp;A secondary outcome was a set of spatiotemporal analyses of COVID-19 transmission in the USA, China and Brazil, as well as a country level spatiotemporal analysis of COVID-19 cases and deaths from 2020 to 2023. &nbsp;The primary results of the latter are summarized in the accompanying figure showing the diversity of temporal trajectories of cases and deaths between 2020 and 2023. &nbsp;While all countries examined clearly show multiple waves of infection, the amplitudes and timing of the waves vary considerably from country to country. &nbsp;However, some patterns emerge as the european countries show similar trajectories to each other while east asian countries show distinct patterns. &nbsp;The comparative spatiotemporal network analysis of the USA and China for 2020 shows a much greater diversity of temporal trajectories in the USA. &nbsp;Details available from:&nbsp;https://appliednetsci.springeropen.com/articles/10.1007/s41109-020-00345-4 . &nbsp;A similar spatiotemporal network analysis for Brazil also shows a diversity of temporal trajectories as the infection spread from a relatively small number of ingress points. &nbsp;Details available from:&nbsp;https://www.medrxiv.org/content/10.1101/2021.11.16.21266414v1</p><br> <p>            Last Modified: 01/31/2023<br>      Modified by: Christopher&nbsp;Small</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The primary outcome of this grant was the production of a geospatial network product depicting ambient population in the USA for use with epidemiologic models of disease transmission.  The product produced has a uniform spatial resolution of 700 meters - far greater resolution than the county level administrative units commonly used for modeling disease transmission circa 2020.  A secondary outcome was a set of spatiotemporal analyses of COVID-19 transmission in the USA, China and Brazil, as well as a country level spatiotemporal analysis of COVID-19 cases and deaths from 2020 to 2023.  The primary results of the latter are summarized in the accompanying figure showing the diversity of temporal trajectories of cases and deaths between 2020 and 2023.  While all countries examined clearly show multiple waves of infection, the amplitudes and timing of the waves vary considerably from country to country.  However, some patterns emerge as the european countries show similar trajectories to each other while east asian countries show distinct patterns.  The comparative spatiotemporal network analysis of the USA and China for 2020 shows a much greater diversity of temporal trajectories in the USA.  Details available from: https://appliednetsci.springeropen.com/articles/10.1007/s41109-020-00345-4 .  A similar spatiotemporal network analysis for Brazil also shows a diversity of temporal trajectories as the infection spread from a relatively small number of ingress points.  Details available from: https://www.medrxiv.org/content/10.1101/2021.11.16.21266414v1       Last Modified: 01/31/2023       Submitted by: Christopher Small]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

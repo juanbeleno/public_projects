@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Exploring Covid-19 RNA Viral Targets By Graph-Theory-Based Modeling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zhilan Feng</SignBlockName>
+<PO_EMAI>zfeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927523</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The urgently needed treatments and vaccines for COVID-19 rely on a fundamental understanding of the complex viral apparatus. This project will  determine the structural properties and drug-binding potential of two regions of the viral RNA essential for invasion and propagation of the COVID-19 genome in host cells: genes responsible for making spike and fusion proteins.   Specifically, the project will develop new and efficient graph-theory based computational algorithms for identifying subregions in the COVID-19 viral genome that alter the RNA substructure when they are mutated. Identification of these subregions will aid in the discovery of anti-viral inhibitor compounds. Graph theory tools already developed in the PI’s lab offer coarse-grained approaches for RNA structural analysis and design. The PI will combine these tools with biomolecular modeling to examine the therapeutic potential of anti-viral inhibitors known from SARS, MERS, and other viruses. This project will produce structural insights into the RNA viral regions and identify critical nucleotides and candidate inhibitors that will help make progress against COVID-19.  The research has profound impact to COVID-19 as well as other coronaviruses that could emerge in the future. The project offers unique interdisciplinary training in mathematics, biology, chemistry, and scientific computing for young scientists, including women and minorities. The research results will be shared rapidly with the COVID-19 research community at large.&lt;br/&gt;&lt;br/&gt;RNA-targeting approaches have therapeutic potential due to the high sequence and structure conservation of the viral genomes and the rapid emergence of CRISPR technology. They also present alternatives when protein-inhibiting compounds  lead to invasion of the RNA viral genome itself. Such compounds that alter the RNA structure significantly are expected to inhibit viral invasion and replication.  Because the fusion-protein coding region contains a pseudoknot (intertwined base-pair) substructure involved in a frame-shifting mechanism, the determination of critical mutation regions and associated compounds that destroy this pseudoknot will be invaluable. The project team has rich experience in biomolecular modeling and simulation of nucleic acid complexes and has developed a graph-theory framework for analyzing RNA motifs, predicting structures, and designing novel RNA folds. The graph-theory framework will be extended and applied in this project to address the COVID-19 pandemic by determining key regions in the RNA COVID-19 viral genome and associated chemical inhibitors that would interfere with viral fusion into and replication within host cells. With this award, the Mathematical Biology Program in the Division of Mathematical Sciences and the Chemistry of Life Processes Program in the Division of Chemistry are funding Dr. Schlick from New York University to determine the structural properties and drug-binding potential of the COVID-19 viral RNA.&lt;br/&gt;&lt;br/&gt;This grant is being awarded using funds made available by the Coronavirus Aid, Relief, and Economic Security (CARES) Act supplemental funds allocated to MPS.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030377</AwardID>
+<Investigator>
+<FirstName>Tamar</FirstName>
+<LastName>Schlick</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tamar Schlick</PI_FULL_NAME>
+<EmailAddress><![CDATA[schlick@nyu.edu]]></EmailAddress>
+<NSF_ID>000326748</NSF_ID>
+<StartDate>05/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project focused on the study of the RNA frameshifting element (FSE) of SARS-CoV-2, the infectious agent of Covid-19. The FSE is an 84 nucleotide RNA region required for ribosomal pausing and essential for the correct production of viral proteins. By using the coarse-grained RNA-As-Graph (RAG) approach&nbsp;along with molecular modeling and chemical reactivity data&nbsp;to study the SARS-CoV-2 FSE, the NYU research group developed efficient ways to describe the complex conformational landscape of the FSE and to alter relevant conformations by minimal mutations. In particular, the RAG inverse folding method for RNA pseudoknots was developed and applied to discover mutations that transform FSE motifs into alternative folds. Such mutations alter the FSE main pseudoknot or favor one FSE conformation over all others. The conformational landscape of the FSE was also investigated by microsecond molecular dynamics simulations to explore intrinsic motions and structural tranitions involved in the frameshifting mechanism. These predicted structures and conformations were confirmed with chemical probing experiments. The identification of minimal mutations that affect the FSE has translational ramifications as targets for anti-viral therapy and gene editing. The study of the FSE RNA at increasing sequence length, mimicking ribosome co-transcriptional folding, is directly related to viral translation. The combined enhanced understanding of FSE conformations, transitions, and mutations that affect FSE structures and motions contribute to a mechanistic understanding of viral infection, a prerequisite for therapeutic intervention against Covid-19. The development and application of graph theoretical approaches to viral RNA mechanisms underscore the value of basic research in science and mathematics to fundamental problems in biology and medicine.</p> <div class="page" title="Page 2"> <div class="section"> <div class="layoutArea"> <div class="column"> <p>&nbsp;</p> </div> </div> </div> </div> <p>&nbsp;</p> <p><span><br /></span></p><br> <p>            Last Modified: 05/13/2022<br>      Modified by: Tamar&nbsp;Schlick</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2030377/2030377_10669957_1651776511969_ScreenShot2021-09-14at8.25.25PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2030377/2030377_10669957_1651776511969_ScreenShot2021-09-14at8.25.25PM--rgov-800width.jpg" title="Structures, Mechanisms, and Covid-19 Therapy for the SARS-CoV-2 FSE"><img src="/por/images/Reports/POR/2022/2030377/2030377_10669957_1651776511969_ScreenShot2021-09-14at8.25.25PM--rgov-66x44.jpg" alt="Structures, Mechanisms, and Covid-19 Therapy for the SARS-CoV-2 FSE"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Summary of the FSE structure, methods used in this project, and results on mutation analysis and conformational landscape.</div> <div class="imageCredit">Tamar Schlick, Qiyao Zhu, Swati Jain, Shuting Yan</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Tamar&nbsp;Schlick</div> <div class="imageTitle">Structures, Mechanisms, and Covid-19 Therapy for the SARS-CoV-2 FSE</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2030377/2030377_10669957_1652301308567_ScreenShot2022-05-11at4.34.23PM--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2030377/2030377_10669957_1652301308567_ScreenShot2022-05-11at4.34.23PM--rgov-800width.jpg" title="RNA Structure Analysis and Design"><img src="/por/images/Reports/POR/2022/2030377/2030377_10669957_1652301308567_ScreenShot2022-05-11at4.34.23PM--rgov-66x44.jpg" alt="RNA Structure Analysis and Design"></a> <div class="imageCaptionContainer"> <div class="imageCaption">RAG elements, RAG-based design (fragment assembly and inverse folding), FSE structures and mutations, conformational landscapes, proposed mechanisms, and motif transformations.</div> <div class="imageCredit">Tamar Schlick, Qiyao Zhu, Swati Jain, Shuting Yan</div> <div class="imageSubmitted">Tamar&nbsp;Schlick</div> <div class="imageTitle">RNA Structure Analysis and Design</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project focused on the study of the RNA frameshifting element (FSE) of SARS-CoV-2, the infectious agent of Covid-19. The FSE is an 84 nucleotide RNA region required for ribosomal pausing and essential for the correct production of viral proteins. By using the coarse-grained RNA-As-Graph (RAG) approach along with molecular modeling and chemical reactivity data to study the SARS-CoV-2 FSE, the NYU research group developed efficient ways to describe the complex conformational landscape of the FSE and to alter relevant conformations by minimal mutations. In particular, the RAG inverse folding method for RNA pseudoknots was developed and applied to discover mutations that transform FSE motifs into alternative folds. Such mutations alter the FSE main pseudoknot or favor one FSE conformation over all others. The conformational landscape of the FSE was also investigated by microsecond molecular dynamics simulations to explore intrinsic motions and structural tranitions involved in the frameshifting mechanism. These predicted structures and conformations were confirmed with chemical probing experiments. The identification of minimal mutations that affect the FSE has translational ramifications as targets for anti-viral therapy and gene editing. The study of the FSE RNA at increasing sequence length, mimicking ribosome co-transcriptional folding, is directly related to viral translation. The combined enhanced understanding of FSE conformations, transitions, and mutations that affect FSE structures and motions contribute to a mechanistic understanding of viral infection, a prerequisite for therapeutic intervention against Covid-19. The development and application of graph theoretical approaches to viral RNA mechanisms underscore the value of basic research in science and mathematics to fundamental problems in biology and medicine.                        Last Modified: 05/13/2022       Submitted by: Tamar Schlick]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

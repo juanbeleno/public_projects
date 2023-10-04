@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CC* Compute: Accelerating Advances in Science and Engineering at The University of Alabama Through HPC Infrastructure]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>399995.00</AwardTotalIntnAmount>
+<AwardAmount>399995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+<PO_EMAI>kthompso@nsf.gov</PO_EMAI>
+<PO_PHON>7032924220</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project augments the University of Alabama’s (UA) computing infrastructure to support the increase in computational science and engineering needed to study diverse, interesting problems including: reliable computational chemistry predictions, properties of engineered materials, applied mathematics for image analysis and signal processing, bioinformatics of complex cellular systems, and hydrological simulations. The new high-performance computing (HPC) infrastructure removes bottlenecks in local UA resources caused by an increasing number of users and increasingly larger computational solutions to more realistic problems. This infrastructure enables UA researchers to make scientific and engineering advances not possible with previous UA HPC machines. To provide broader impacts, the infrastructure is also available to regional institutions of higher education, including HBCUs and private institutions who lack adequate HPC access, and to similar institutions across the nation through the Open Science Grid.&lt;br/&gt;&lt;br/&gt;This project augments the UA HPC system by (1) doubling computing capacity, (2) adding two large-memory nodes for large-scale data analysis and mining, (3) adding ten GPUs for massively data-parallel computations, (4) significantly increasing storage node bandwidth, and (5) shifting from a “condo” model to a general use, shared model. This infrastructure provides compelling new research and educational opportunities for students, staff, and faculty at UA and other regional and national institutions (including HBCUs and private institutions). In terms of broader impacts, the infrastructure allows undergraduate students to perform state-of-the-art computational research, thereby attracting more diverse STEM participants. The infrastructure provides a platform for educating the next generation of computational and computer scientists in cutting-edge HPC techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/28/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018846</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Dixon</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David A Dixon</PI_FULL_NAME>
+<EmailAddress><![CDATA[dadixon@ua.edu]]></EmailAddress>
+<NSF_ID>000117633</NSF_ID>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaoyan</FirstName>
+<LastName>Hong</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiaoyan Hong</PI_FULL_NAME>
+<EmailAddress><![CDATA[hxy@cs.ua.edu]]></EmailAddress>
+<NSF_ID>000488144</NSF_ID>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Carver</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey C Carver</PI_FULL_NAME>
+<EmailAddress><![CDATA[carver@cs.ua.edu]]></EmailAddress>
+<NSF_ID>000359513</NSF_ID>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dingwen</FirstName>
+<LastName>Tao</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dingwen Tao</PI_FULL_NAME>
+<EmailAddress><![CDATA[ditao@iu.edu]]></EmailAddress>
+<NSF_ID>000785936</NSF_ID>
+<StartDate>05/14/2020</StartDate>
+<EndDate>03/28/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama Tuscaloosa</Name>
+<CityName>TUSCALOOSA</CityName>
+<ZipCode>354870001</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress>301 ROSE ADMIN BLDG</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RCNJEHZ83EV6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF ALABAMA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>TWJWHYEM8T63</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Alabama Tuscaloosa]]></Name>
+<CityName/>
+<StateCode>AL</StateCode>
+<ZipCode>354860002</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~399995</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-192f9d02-7fff-e489-5331-1e6b870d654b"> </span></p> <p dir="ltr"><span>A new High Performance Computing (HPC) cluster acquired with NSF support has been extensively used to support the educational and research goals of The University of Alabama (UA) as well as for a 20% allocation to external users including other universities in the state as well as two- and four-year colleges. The HPC cluster has been used to support faculty members, graduate students, and undergraduate students from UA as well as students from other 4 year colleges and universities through summer research experiences. These experiences have enabled undergraduate students to perform state-of-the-art computational research and to be trained in the use of modeling and simulation to address problems across a variety of scientific and engineering fields. Conducting this research has enabled the undergraduate students to learn about and be involved in forefront research and has helped in retention of STEM students. The new cluster has also enriched the computer science curricula at both undergraduate and graduate levels with new course modules on distributed computing and advanced networking.</span></p> <p dir="ltr">The new HPC cluster has enabled UA to advance its research goals through advanced computational science approaches to solve fundamental scientific and engineering problems. This work has addressed national needs in energy, health, and the environment. Researchers and students from disciplines across UA, including chemistry, chemical engineering, physics, and astronomy, math, and biology have used the new cluster to advance research in many areas including in energy conservation and use, homogeneous and heterogeneous catalysis, environmental remediation from energy production, new functional soft matter materials, novel sensors, novel extraction processes for brine desalination, polymer upcycling, interpretation of high energy particle physics data from the CERN Large Hadron Collider, and quantifying ocean current-driven effects on how environmental variables affect genetic changes in marine life. This work has been disseminated in a significant number of peer reviewed publications.&nbsp;</p> <p dir="ltr"><span>&nbsp;</span>In terms of Broader Impacts beyond the dissemination of the work in the peer reviewed literature, the new HPC cluster has enabled undergraduate students from UA and other universities/colleges to be involved in advanced research projects and helped them to recover from the time missed in the laboratory and in research due to the COVID-19 pandemic. These experiences have enabled undergraduate students to perform state-of-the-art computational research and to be trained in the use of modeling and simulation to tackle problems across a variety of scientific and engineering domains. UA is using access to advanced research computer systems to attract students to STEM disciplines and to retain them, especially students from underrepresented groups. Interest in the use of HPC beyond science and engineering by other disciplines such as humanities, business, and law has expanded at UA since the acquisition of the new HPC cluster. The availability of the HPC cluster has stimulated interest in machine learning and artificial intelligence applications to a wide range of disciplines on campus, further attracting students to STEM topics. The new cluster has been used by a broad range of students from under-represented groups. In addition, the acquisition of the cluster has led to additional federal and state investments in this important area of modern science and engineering.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/08/2023<br>      Modified by: Jeffrey&nbsp;C&nbsp;Carver</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   A new High Performance Computing (HPC) cluster acquired with NSF support has been extensively used to support the educational and research goals of The University of Alabama (UA) as well as for a 20% allocation to external users including other universities in the state as well as two- and four-year colleges. The HPC cluster has been used to support faculty members, graduate students, and undergraduate students from UA as well as students from other 4 year colleges and universities through summer research experiences. These experiences have enabled undergraduate students to perform state-of-the-art computational research and to be trained in the use of modeling and simulation to address problems across a variety of scientific and engineering fields. Conducting this research has enabled the undergraduate students to learn about and be involved in forefront research and has helped in retention of STEM students. The new cluster has also enriched the computer science curricula at both undergraduate and graduate levels with new course modules on distributed computing and advanced networking. The new HPC cluster has enabled UA to advance its research goals through advanced computational science approaches to solve fundamental scientific and engineering problems. This work has addressed national needs in energy, health, and the environment. Researchers and students from disciplines across UA, including chemistry, chemical engineering, physics, and astronomy, math, and biology have used the new cluster to advance research in many areas including in energy conservation and use, homogeneous and heterogeneous catalysis, environmental remediation from energy production, new functional soft matter materials, novel sensors, novel extraction processes for brine desalination, polymer upcycling, interpretation of high energy particle physics data from the CERN Large Hadron Collider, and quantifying ocean current-driven effects on how environmental variables affect genetic changes in marine life. This work has been disseminated in a significant number of peer reviewed publications.   In terms of Broader Impacts beyond the dissemination of the work in the peer reviewed literature, the new HPC cluster has enabled undergraduate students from UA and other universities/colleges to be involved in advanced research projects and helped them to recover from the time missed in the laboratory and in research due to the COVID-19 pandemic. These experiences have enabled undergraduate students to perform state-of-the-art computational research and to be trained in the use of modeling and simulation to tackle problems across a variety of scientific and engineering domains. UA is using access to advanced research computer systems to attract students to STEM disciplines and to retain them, especially students from underrepresented groups. Interest in the use of HPC beyond science and engineering by other disciplines such as humanities, business, and law has expanded at UA since the acquisition of the new HPC cluster. The availability of the HPC cluster has stimulated interest in machine learning and artificial intelligence applications to a wide range of disciplines on campus, further attracting students to STEM topics. The new cluster has been used by a broad range of students from under-represented groups. In addition, the acquisition of the cluster has led to additional federal and state investments in this important area of modern science and engineering.          Last Modified: 08/08/2023       Submitted by: Jeffrey C Carver]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

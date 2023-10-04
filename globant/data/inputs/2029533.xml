@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Functionally Relevant Structural Heterogeneity in Coronavirus SARS-CoV2 Proteins]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>299723.00</AwardTotalIntnAmount>
+<AwardAmount>299723</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Fleischmann</SignBlockName>
+<PO_EMAI>rfleisch@nsf.gov</PO_EMAI>
+<PO_PHON>7032927191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In order to prevent infections by specific viruses, it is important to understand the molecular details that drive the virus into host cells where they replicate, making more viral particles that spread to other cells in the infected individual. This award will help understand the mechanisms of the SARS-CoV2 infectivity, the virus responsible for the current COVID-19 pandemic, by employing machine learning algorithms to make movies of key proteins involved in driving its infection. There is mounting evidence that viral proteins exist in a range of structures, known as conformations, and that these can play a critical role in their function. In this project, recently developed machine-learning techniques will be used to determine the conformational landscape of key SARS-CoV2 proteins at near-atomic level, with and without antibody involvement.  Atomistic insight into the conformational changes in SAR-CoV2 proteins is expected to help clarify the structural basis of virulence in this virus and its successors, ultimately providing a foundation for the development of suitable therapeutic strategies against coronaviruses.  &lt;br/&gt;&lt;br/&gt;Using experimental cryo-EM snapshots, this project will map the functionally relevant conformational heterogeneities of key SARS-CoV2 proteins to gain a deeper understanding of the role of conformational heterogeneity in this pandemic virus.  The specific goals of this project are as follows: (1) Apply advanced machine-learning algorithms to experimental cryo-EM single-particle snapshots in order to determine the energy landscapes of key SARS-CoV2 proteins with and without antibody involvement; (2) Identify the functionally important conformational paths on the relevant energy landscapes; (3) Compare and contrast motions along functional paths with those inferred by discrete clustering methods; (4) Determine the biological implications of conformational motions associated with function; and (5) Make the results widely accessible in order to help facilitate the development of therapeutic strategies.&lt;br/&gt;&lt;br/&gt;This RAPID award is made by the Division of Biological Infrastructure (DBI) using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029533</AwardID>
+<Investigator>
+<FirstName>Abbas</FirstName>
+<LastName>Ourmazd</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Abbas Ourmazd</PI_FULL_NAME>
+<EmailAddress><![CDATA[ourmazd@uwm.edu]]></EmailAddress>
+<NSF_ID>000203079</NSF_ID>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ghoncheh</FirstName>
+<LastName>Mashayekhi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ghoncheh Mashayekhi</PI_FULL_NAME>
+<EmailAddress><![CDATA[mashayek@uwm.edu]]></EmailAddress>
+<NSF_ID>000825173</NSF_ID>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Milwaukee</Name>
+<CityName>MILWAUKEE</CityName>
+<ZipCode>532113153</ZipCode>
+<PhoneNumber>4142294853</PhoneNumber>
+<StreetAddress>3203 N DOWNER AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WI04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JBQ9M3PLFDP5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF WISCONSIN SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Wisconsin-Milwaukee]]></Name>
+<CityName>Milwaukee</CityName>
+<StateCode>WI</StateCode>
+<ZipCode>532010340</ZipCode>
+<StreetAddress><![CDATA[PO Box 340]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WI04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~299723</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The SARS-COVID pandemic has severely impacted the globe. &nbsp;The current research project has significantly improved our understanding of the structural mechanism underlying infection by SARS-CoV-2. &nbsp;Specifically, it has helped us understand the nature and role of functionally relevant conformational changes of the SARS -CoV-2 with special emphasis on the all-important spike protein. Function involves a sequence of purposeful conformational changes. As recognized long ago, under physiological conditions, macromolecules undergo continuous conformational changes, only a subset of which are functionally important. We used a transparent and mathematically rigorous machine learning algorithm to map the continuous conformational changes of the SARS -CoV-2 spike protein and underlying energy landscapes from experimental Cryo-EM images. &nbsp;In this way, we identified the functionally relevant conformational changes.&nbsp; As described in two published and deposited papers, this has approach has provided new insights into spike protein function, which is critical to the infection mechanism of this pandemic virus.</p> <p>The project helped two members of under-represented groups to develop new machine-learning skills and approaches to extracting information from noisy data. &nbsp;This skillset helped make these individuals highly attractive to academia and private industry. One of the two individual is currently employed in industry, while the second is pursuing a PhD.</p> <p>&nbsp;</p><br> <p>            Last Modified: 07/29/2022<br>      Modified by: Abbas&nbsp;Ourmazd</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The SARS-COVID pandemic has severely impacted the globe.  The current research project has significantly improved our understanding of the structural mechanism underlying infection by SARS-CoV-2.  Specifically, it has helped us understand the nature and role of functionally relevant conformational changes of the SARS -CoV-2 with special emphasis on the all-important spike protein. Function involves a sequence of purposeful conformational changes. As recognized long ago, under physiological conditions, macromolecules undergo continuous conformational changes, only a subset of which are functionally important. We used a transparent and mathematically rigorous machine learning algorithm to map the continuous conformational changes of the SARS -CoV-2 spike protein and underlying energy landscapes from experimental Cryo-EM images.  In this way, we identified the functionally relevant conformational changes.  As described in two published and deposited papers, this has approach has provided new insights into spike protein function, which is critical to the infection mechanism of this pandemic virus.  The project helped two members of under-represented groups to develop new machine-learning skills and approaches to extracting information from noisy data.  This skillset helped make these individuals highly attractive to academia and private industry. One of the two individual is currently employed in industry, while the second is pursuing a PhD.          Last Modified: 07/29/2022       Submitted by: Abbas Ourmazd]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

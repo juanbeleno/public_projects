@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Automated microfluidic reaction monitoring via miniaturized NMR spectroscopy]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Benaiah Schrag</SignBlockName>
+<PO_EMAI>bschrag@nsf.gov</PO_EMAI>
+<PO_PHON>7032928323</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader/commercial impact of this Small Business Innovation Research Phase I project is to develop a commercially-viable miniaturized nuclear magnetic resonance (NMR) spectrometer for automated small molecule monitoring and analysis. The project aims to address major obstacles preventing widespread adoption of NMR spectroscopy. The proposed innovation is a miniaturized, cost-effective, and user-friendly NMR system, thus addressing major obstacles preventing widespread adoption of this powerful analytical method. It will be suitable for placement in industrial manufacturing environments to provide chemometric insights on complex solutions, resulting in reduced manufacturing costs for a wide range of high-value biochemical products. The proposed innovation constitutes a platform technology with a broad range of applications.&lt;br/&gt;&lt;br/&gt;The proposed SBIR Phase I project will be to advance the development of NMR spectroscopy. The proposed point-of-need, microfluidic, push-button NMR spectrometer presents technical challenges in the areas of hardware miniaturization for mass production, automated turnkey design, multidimensional pulse sequence design, and assisted post-processing annotation. The proposed project will explore the trade space defined by low instrument sensitivity, as a compromise due to permanent magnets with limited magnetic field strengths.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002683</AwardID>
+<Investigator>
+<FirstName>Herbert</FirstName>
+<LastName>Ryan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Herbert Ryan</PI_FULL_NAME>
+<EmailAddress><![CDATA[hryan@bitome.com]]></EmailAddress>
+<NSF_ID>000751267</NSF_ID>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bitome, Inc.</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022152421</ZipCode>
+<PhoneNumber>2078128099</PhoneNumber>
+<StreetAddress>8 SAINT MARYS ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ENCWWHD33H35</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BITOME, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Bitome, Inc.]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021302935</ZipCode>
+<StreetAddress><![CDATA[90 Forest Hills St., Unit 3]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~225000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This Small Business Innovation Research (SBIR) Phase I award aimed to develop a miniaturized, cost-effective, and user-friendly nuclear magnetic resonance (NMR) spectrometer, thus addressing major obstacles preventing widespread adoption of NMR technology. Despite logistical roadblocks created by the COVID-19 pandemic, as well as the global semiconductor shortage, Bitome successfully validated the feasibility of its technology approach with a pilot customer. The pilot opportunity timing far outpaced Bitome&rsquo;s technical development roadmap and was only made possible after a technical breakthrough was realized in the area of software analytics. This software platform can be characterized as &ldquo;hardware-agnostic&rdquo; &ndash; an attribute which allowed Bitome to operate off of a third-party benchtop NMR system. Bitome was able to retrofit said benchtop NMR with customized sample handling apparatus and deploy the overhauled system, with Bitome software, for autonomous operation in the field. By prioritizing customer pilots, Bitome was able to parallelize hardware development with an active customer pilot -- providing numerous opportunities to gain insights which will be used to improve ongoing technical development efforts.</p> <p>While software development was not part of the original proposed SBIR scope of work, Bitome was forced to reorganize the technical development roadmap in response to the logistical challenges brought on by the COVID-19 pandemic. Nevertheless, notable progress was still made on all core hardware development objectives. Bitome&rsquo;s ultimate envisioned solution will require moving beyond a 3rd party instrument toward a purpose-made tool, which will require further hardware development that is the target of ongoing work.</p> <p>In summary, Bitome utilized the Phase I SBIR award to access and validate the commercial opportunity for its envisioned monitoring platform. While commercial and technical strategies were adapted for a COVID-19 reality, major progress was still realized on both fronts. With a strong analytical software platform in place, Bitome&rsquo;s technical team would leverage future funding to facilitate the design/construction of a purpose-made analytical instrument. Ultimately, both hardware and software elements are part of a technology stack which combine to make up the complete solution (regardless of the development order). Long term, this complete solution could contribute to fundamental knowledge about the nature and behavior of living systems &ndash; knowledge which could be applied to enhance health, lengthen life, and reduce illness and disability.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/04/2021<br>      Modified by: Herbert&nbsp;Ryan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This Small Business Innovation Research (SBIR) Phase I award aimed to develop a miniaturized, cost-effective, and user-friendly nuclear magnetic resonance (NMR) spectrometer, thus addressing major obstacles preventing widespread adoption of NMR technology. Despite logistical roadblocks created by the COVID-19 pandemic, as well as the global semiconductor shortage, Bitome successfully validated the feasibility of its technology approach with a pilot customer. The pilot opportunity timing far outpaced Bitome’s technical development roadmap and was only made possible after a technical breakthrough was realized in the area of software analytics. This software platform can be characterized as "hardware-agnostic" &ndash; an attribute which allowed Bitome to operate off of a third-party benchtop NMR system. Bitome was able to retrofit said benchtop NMR with customized sample handling apparatus and deploy the overhauled system, with Bitome software, for autonomous operation in the field. By prioritizing customer pilots, Bitome was able to parallelize hardware development with an active customer pilot -- providing numerous opportunities to gain insights which will be used to improve ongoing technical development efforts.  While software development was not part of the original proposed SBIR scope of work, Bitome was forced to reorganize the technical development roadmap in response to the logistical challenges brought on by the COVID-19 pandemic. Nevertheless, notable progress was still made on all core hardware development objectives. Bitome’s ultimate envisioned solution will require moving beyond a 3rd party instrument toward a purpose-made tool, which will require further hardware development that is the target of ongoing work.  In summary, Bitome utilized the Phase I SBIR award to access and validate the commercial opportunity for its envisioned monitoring platform. While commercial and technical strategies were adapted for a COVID-19 reality, major progress was still realized on both fronts. With a strong analytical software platform in place, Bitome’s technical team would leverage future funding to facilitate the design/construction of a purpose-made analytical instrument. Ultimately, both hardware and software elements are part of a technology stack which combine to make up the complete solution (regardless of the development order). Long term, this complete solution could contribute to fundamental knowledge about the nature and behavior of living systems &ndash; knowledge which could be applied to enhance health, lengthen life, and reduce illness and disability.          Last Modified: 10/04/2021       Submitted by: Herbert Ryan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

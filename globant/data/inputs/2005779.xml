@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CDS&amp;E: Collaborative Research: Scalable Nonparametric Learning for Massive Data with Statistical Guarantees]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>127561.00</AwardTotalIntnAmount>
+<AwardAmount>190061</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+<PO_EMAI>cstark@nsf.gov</PO_EMAI>
+<PO_PHON>7032924869</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[We now live in the era of data deluge. The sheer volume of the data to be processed, together with the growing complexity of statistical models and the increasingly distributed nature of the data sources, creates new challenges to modern statistics theory. Standard machine learning methods are no longer able to accommodate the computational requirements. They need to be re-designed or adapted, which calls for a new generation of design and theory of scalable learning algorithms for massive data. This project aims to provide a collection of state-of-the-art nonparametric learning tools for big data analysis, which can be directly used by scientists and practitioners and have beneficial impacts on various fields such as biomedicine, health-care, defense and security, and information technology. The deliverables of this project include easy-to-use software packages that will be thoroughly evaluated using a range of application examples. They will directly help scientists to explore and analyze complex data sets.&lt;br/&gt; &lt;br/&gt;Due to storage and computational bottlenecks, traditional statistical inferential procedures originally designed for a single machine are no longer applicable to modern large datasets. This project aims to design new scalable learning algorithms of wide-ranging nonparametric models for data that are distributed across a large number of multi-core computational nodes, or in a fashion of random sketching if only a single machine is available. The computational limits of these new algorithms will be examined from a statistical perspective. For example, in the divide-and-conquer setup, the number of deployed machines can be viewed as a simple proxy for computing cost. The project aims to establish a sharp upper bound for this number: when the number is below this bound, statistical optimality (in terms of nonparametric estimation or testing) is achievable; otherwise, statistical optimality becomes impossible. Related questions will also be addressed in the randomized sketching method in terms of the minimal number of random projections.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/13/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005779</AwardID>
+<Investigator>
+<FirstName>Zuofeng</FirstName>
+<LastName>Shang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zuofeng Shang</PI_FULL_NAME>
+<EmailAddress><![CDATA[zshang@njit.edu]]></EmailAddress>
+<NSF_ID>000695878</NSF_ID>
+<StartDate>11/13/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Jersey Institute of Technology</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>071021824</ZipCode>
+<PhoneNumber>9735965275</PhoneNumber>
+<StreetAddress>323 DR MARTIN LUTHER KING JR BLV</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SGBMHQ7VXNH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW JERSEY INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName>Newark</CityName>
+<StateCode>NJ</StateCode>
+<ZipCode>071021982</ZipCode>
+<StreetAddress><![CDATA[University Heights]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8069</Code>
+<Text>CDS&amp;E-MSS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>102Z</Code>
+<Text>COVID-Disproportionate Impcts Inst-Indiv</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~127560</FUND_OBLG>
+<FUND_OBLG>2021~62500</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project aims to explore scalable learning algorithms for wide-ranging nonparametric models, with a particular attention to their computational vs. statistical tradeoff. In particular, new algorithms are designed for data that are distributed across a large number of multi-core computational nodes, or in a fashion of random sketching if only a single machine is available. The consideration of computation in the statistical analysis forms the core of the project. Specifically, the computational limits of these new algorithms are examined from a statistical perspective. For example, the number of deployed machines can be viewed as a simple proxy for computational costs in the divide-and-conquer setup. On the other hand, this number diverges as massive data are being collected, which significantly complicates the traditional asymptotic analysis. This leads to the development of what we name as &ldquo;splitotics (split+asymptotics) theory.&rdquo; Theoretical insights gained from analyzing the proposed algorithmic framework are beneficial for real-world problems ranging from large scale brain imaging data to high frequency stock pricing data.</p> <p>The outcomes of the project are summarized as follows. Shang and his collaborators have proposed various distributed statistical inferential methods for analyzing massive data as well as provided theory for justifications. They also successfully applied the proposed methods to some real-world massive data such as million song data and flight delay data. The deliveries are useful to scientists and practitioners and have beneficial impacts on various fields such as biomedicine, health-care, defense and security, and information technology where massive data are increasingly common. The award has supported 1 Female PhD student, Dr. Meimei Liu, and 1 postdoc, Dr. Ruiqi Liu, who benefited from massive data study of the projects and both became tenure-track assistant professors. This grant also supported Shang to deliver 12 invited talks in conferences or departmental colloquiums during the entire award life (2018-2023).&nbsp; Computing software or R packages relevant to the project were made public at Github. This grant has supported over ten publications available in the journal or conference websites.</p><br> <p>            Last Modified: 08/30/2023<br>      Modified by: Zuofeng&nbsp;Shang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The project aims to explore scalable learning algorithms for wide-ranging nonparametric models, with a particular attention to their computational vs. statistical tradeoff. In particular, new algorithms are designed for data that are distributed across a large number of multi-core computational nodes, or in a fashion of random sketching if only a single machine is available. The consideration of computation in the statistical analysis forms the core of the project. Specifically, the computational limits of these new algorithms are examined from a statistical perspective. For example, the number of deployed machines can be viewed as a simple proxy for computational costs in the divide-and-conquer setup. On the other hand, this number diverges as massive data are being collected, which significantly complicates the traditional asymptotic analysis. This leads to the development of what we name as "splitotics (split+asymptotics) theory." Theoretical insights gained from analyzing the proposed algorithmic framework are beneficial for real-world problems ranging from large scale brain imaging data to high frequency stock pricing data.  The outcomes of the project are summarized as follows. Shang and his collaborators have proposed various distributed statistical inferential methods for analyzing massive data as well as provided theory for justifications. They also successfully applied the proposed methods to some real-world massive data such as million song data and flight delay data. The deliveries are useful to scientists and practitioners and have beneficial impacts on various fields such as biomedicine, health-care, defense and security, and information technology where massive data are increasingly common. The award has supported 1 Female PhD student, Dr. Meimei Liu, and 1 postdoc, Dr. Ruiqi Liu, who benefited from massive data study of the projects and both became tenure-track assistant professors. This grant also supported Shang to deliver 12 invited talks in conferences or departmental colloquiums during the entire award life (2018-2023).  Computing software or R packages relevant to the project were made public at Github. This grant has supported over ten publications available in the journal or conference websites.       Last Modified: 08/30/2023       Submitted by: Zuofeng Shang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

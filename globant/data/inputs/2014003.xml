@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SCH: INT: Improving Care for Heart Failure Patients Using Tropical Geometry and Soft Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>996386.00</AwardTotalIntnAmount>
+<AwardAmount>1012386</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas Martin</SignBlockName>
+<PO_EMAI>tmartin@nsf.gov</PO_EMAI>
+<PO_PHON>7032922170</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The project will develop novel computational approaches for leveraging domain expertise and electronic health data for the production of clinical decision support systems with transparent recommendations. These techniques will be used to identify the optimal timing of advanced therapies for patients with heart failure (HF), such as heart transplantation and durable mechanical circulatory support (MCS) devices. While such therapies have the ability to improve patient survival and quality of life, clinicians’ abilities to identify appropriate candidates and deliver optimally timed therapies remains limited. This project will address this problem by creating a novel machine learning paradigm, using mathematical formulations based on tropical geometry, that incorporates approximate domain knowledge directly into model training, which can then be optimized using a limited data set. Optimized rules extracted from the trained model are interpretable by clinicians and can be used to guide treatment decisions. Such tools offer the promise of improving patients’ lives while reducing future costs. The project will also establish an interdisciplinary learning platform for computer-assisted decision support systems that will prepare students, postdocs, and early career clinical scientists to apply data science techniques to medical decision support. The project will also include groups underrepresented in Science, Technology, Engineering, and Mathematics (STEM) by recruiting new students and integrating the research training into a highly diverse laboratory.&lt;br/&gt;&lt;br/&gt;The project will apply the emerging field of tropical geometry to soft computing methods. This approach will avoid the disadvantages of conventional soft computing paradigms such as fuzzy logic by: a) reducing the need for a large number of training examples, b) allowing smooth and fast optimization during model training, and c) enabling a systematic reduction in the size of the parameter space, thereby reducing the likelihood of overfitting the data. Approximate rules will be collected from a panel of cardiologists to determine candidacy for advanced therapies. Using the planned method, these rules will be incorporated into a model to predict the progression of HF and identify patients who are eligible for and most likely to benefit from heart transplantation or durable MCS devices. Optimized rules will be extracted from the trained model and verified by a panel of cardiologists for correctness and clinical utility. Moreover, the proposed machine learning paradigm will be able to generate novel and interpretable clinical rules that add to our understanding of how best to manage patients with advanced HF.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014003</AwardID>
+<Investigator>
+<FirstName>Harm</FirstName>
+<LastName>Derksen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Harm Derksen</PI_FULL_NAME>
+<EmailAddress><![CDATA[ha.derksen@northeastern.edu]]></EmailAddress>
+<NSF_ID>000092346</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kayvan</FirstName>
+<LastName>Najarian</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kayvan Najarian</PI_FULL_NAME>
+<EmailAddress><![CDATA[kayvan@umich.edu]]></EmailAddress>
+<NSF_ID>000399897</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Gryak</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan Gryak</PI_FULL_NAME>
+<EmailAddress><![CDATA[jgryak@qc.cuny.edu]]></EmailAddress>
+<NSF_ID>000788382</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jessica</FirstName>
+<LastName>Golbus</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jessica R Golbus</PI_FULL_NAME>
+<EmailAddress><![CDATA[jgolbus@med.umich.edu]]></EmailAddress>
+<NSF_ID>000815886</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Keith</FirstName>
+<LastName>Aaronson</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Keith D Aaronson</PI_FULL_NAME>
+<EmailAddress><![CDATA[keith@umich.edu]]></EmailAddress>
+<NSF_ID>000816145</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481091079</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>1109 GEDDES AVE, SUITE 3300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>GNJ7BBP73WE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MICHIGAN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Michigan Ann Arbor]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481091274</ZipCode>
+<StreetAddress><![CDATA[3003 South State St. Room 1062]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7484</Code>
+<Text>IIS Special Projects</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8062</Code>
+<Text>SCH Type II: INT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~996386</FUND_OBLG>
+<FUND_OBLG>2023~16000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Autonomous active safety systems for verifiably safe operation of ground vehicles]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[&lt;p&gt;The broader impact of this Small Business Innovation Research (SBIR) Phase I project will develop technology that will enable automated transportation systems to verifiably maintain safety without relying on a human driver as a fallback.  Driver-related factors were involved in an estimated 94% of fatal crashes; up to 80% could have been mitigated or prevented by advanced technology. More broadly, each year vehicle collisions in the U.S. result in 35,000-40,000 fatalities, over 2.3 M serious injuries, and costs of $850 B.  The success of the proposed work will demonstrate that simple, robust methods can be used to achieve safe autonomous vehicle behavior.&lt;/p&gt;   &lt;p&gt;This Small Business Innovation Research (SBIR) Phase I project will explore translation of an advanced autonomous control system in a combination of advances in multi-agent control theory and new, sensor-based control techniques. This project addresses the challenges of translating theoretical advances into industrial-grade algorithms and defining a vehicle safety system that does not rely on a human fallback mechanism. The Phase I work addresses these technical hurdles through: 1) a feasibility study of a prototype system, and 2) an extensive verification and validation process for a safety case report.&lt;/p&gt;  &lt;p&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.&lt;/p&gt;]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006225</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Johnson</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeffrey K Johnson</PI_FULL_NAME>
+<EmailAddress><![CDATA[jeff@mapless.ai]]></EmailAddress>
+<NSF_ID>000824727</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MAPLESS AI, INC.</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152374033</ZipCode>
+<PhoneNumber>8129290689</PhoneNumber>
+<StreetAddress>104 LAURELWOOD DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>M78GMKDJYT29</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MAPLESS AI INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[JOHNSON, JEFFREY KANE]]></Name>
+<CityName>Pittsburgh</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>152374033</ZipCode>
+<StreetAddress><![CDATA[104 Laurelwood Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>092E</Code>
+<Text>Control systems &amp; applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~225000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>We are working toward a future in which automobiles are incapable of causing collision. In the United States, that would mean every year 37,000 people don't lose their lives, over 2 million serious injuries don't happen, and $850 billion dollars in social and economic costs aren't incurred. In the coming decades, fully autonomous vehicles promise to make this a reality. But we don't need full autonomy to prevent collisions, and we shouldn't wait decades to do it.</p> <p>What we do need for collision avoidance is a smart combination of driver assistance and autonomous technologies. But right now, assistance and autonomy are developed at separate ends of the autonomy spectrum with no clear way to bring them together. We founded Mapless AI to bridge that gap and have made that work the primary focus of our Phase I project.</p> <p>Our approach started with framing both assistance and autonomy in terms of a single, fundamental task: to avoid collision. With that framing, we could develop a solution to naturally bridge the gap and bring them together. This is our "autonomous active safety system," and it lets us do something rather remarkable: achieve the safety benefits of full autonomy in a driver assistance system.</p> <p>Over the course of the Phase I, we specified the algorithmic solutions to the collision avoidance task and developed the engineering processes, platform prototypes, and simulation test cases necessary to implement and test those algorithms. This required extensive system analysis, sensor downselection and characterization, benchmarking, documentation, and a significant amount of software engineering to ensure correctness and performance on automotive hardware.</p> <p>We believe there is enormous potential for our technology as an active safety and assistance system for passenger vehicles. But it goes beyond that: our approach can form the basis for entirely new categories of mobility, regardless of whether they are human-driven, tele-operated, or machine-driven. This technology can serve to enable the future of transportation by providing an application agnostic platform that can guarantee safe mobility.</p> <p>Autonomous active safety provides a foundation for safety that enables new commercial applications while advancing the state of the art in safety. &nbsp;Through our Phase I work, we have made significant progress to fully developing, commercializing, and bringing this technology to market.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/20/2021<br>      Modified by: Jeffrey&nbsp;K&nbsp;Johnson</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ We are working toward a future in which automobiles are incapable of causing collision. In the United States, that would mean every year 37,000 people don't lose their lives, over 2 million serious injuries don't happen, and $850 billion dollars in social and economic costs aren't incurred. In the coming decades, fully autonomous vehicles promise to make this a reality. But we don't need full autonomy to prevent collisions, and we shouldn't wait decades to do it.  What we do need for collision avoidance is a smart combination of driver assistance and autonomous technologies. But right now, assistance and autonomy are developed at separate ends of the autonomy spectrum with no clear way to bring them together. We founded Mapless AI to bridge that gap and have made that work the primary focus of our Phase I project.  Our approach started with framing both assistance and autonomy in terms of a single, fundamental task: to avoid collision. With that framing, we could develop a solution to naturally bridge the gap and bring them together. This is our "autonomous active safety system," and it lets us do something rather remarkable: achieve the safety benefits of full autonomy in a driver assistance system.  Over the course of the Phase I, we specified the algorithmic solutions to the collision avoidance task and developed the engineering processes, platform prototypes, and simulation test cases necessary to implement and test those algorithms. This required extensive system analysis, sensor downselection and characterization, benchmarking, documentation, and a significant amount of software engineering to ensure correctness and performance on automotive hardware.  We believe there is enormous potential for our technology as an active safety and assistance system for passenger vehicles. But it goes beyond that: our approach can form the basis for entirely new categories of mobility, regardless of whether they are human-driven, tele-operated, or machine-driven. This technology can serve to enable the future of transportation by providing an application agnostic platform that can guarantee safe mobility.  Autonomous active safety provides a foundation for safety that enables new commercial applications while advancing the state of the art in safety.  Through our Phase I work, we have made significant progress to fully developing, commercializing, and bringing this technology to market.                Last Modified: 10/20/2021       Submitted by: Jeffrey K Johnson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

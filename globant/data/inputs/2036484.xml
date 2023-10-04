@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Architectural Epidemiology: Leveraging Machine Learning and Spatial Data at Scale to Understand Health Outcomes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255882.00</AwardTotalIntnAmount>
+<AwardAmount>255882</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the ability to leverage architecture as a new tool for advancing health and wellbeing. A growing body of evidence demonstrates that hospital architecture systemically affects patient health, operational efficiency, and patient satisfaction. However, architects often lack the tools to reliably predict how design choices will impact building operations.   Often hospitals and clinics designs fall short with building owners not able to achieve organizational metrics and goals, and patients can see poorer quality of care, increased medical errors, and even higher mortality rates.  The commercial impact will stem from a software platform that equips architects with no-code workflows necessary to deploy data-driven design while managing project timelines and internal costs. Although the Phase I project focuses on healthcare architecture, the broader impact will be that architects will be able to design all buildings to optimize health, productivity, and organizational goals.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will enable development of 1) algorithms that generate structured architectural data capturing spatial qualities that affect occupant health, 2) data visualization interfaces for exploring and validating spatial data and health data jointly, and 3) statistical and machine learning models for identifying meaningful relationships between architectural characteristics and health outcomes across large-scale datasets. These tools will be tested and evaluated by conducting a proof of concept study with a large health system. The goal of the study is to evaluate the efficacy of untested statistical machine learning methods to identify meaningful relationships between architecture and health outcomes. The proposed research will provide new types of insight into architecture's role in affecting health outcomes, providing a novel approach to data-driven design. Though the focus of this proposal is on architectural data, the principles explored will push boundaries of current limits by 1) incorporating qualitative and quantitative data in machine learning models, 2) assessing new modes of interpretability via data visualization, and 3) advancing methods for working with sparse but rich datasets.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/01/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036484</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Peraino</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James Peraino</PI_FULL_NAME>
+<EmailAddress><![CDATA[jim@spatiometrics.com]]></EmailAddress>
+<NSF_ID>000829857</NSF_ID>
+<StartDate>02/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SPATIO METRICS, INC.</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021421169</ZipCode>
+<PhoneNumber>8477783025</PhoneNumber>
+<StreetAddress>303 3RD ST UNIT 624</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JKJ2PBJX9A77</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SPATIO METRICS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Spatio Metrics]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394031</ZipCode>
+<StreetAddress><![CDATA[77 Massachusetts Ave, 7-336]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255882</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-1534a16c-7fff-33e3-ba35-f7372334b477"> </span></p> <p dir="ltr">Spatio Metrics is a technology company that is breaking down the barriers to leveraging data in building design and operations.&nbsp;</p> <p dir="ltr"><span>&nbsp;</span>Through this Phase I grant, Spatio worked toward this goal by developing an all-in-one platform for design analysis and data visualization, backed by a database of floor plans. Architects and building operators can use the platform to understand the often invisible, but impactful role that design plays in building lifecycle costs on a range of building typologies, including residential, commercial, healthcare, and educational buildings.&nbsp;</p> <p dir="ltr"><span>&nbsp;</span>Unlike existing approaches that require designers to maintain custom scripts, Spatio?s no-code workflow is easy to use and backed by industry best practices so that building stakeholders can access and communicate consistent, data-backed design metrics on every iteration of every project.&nbsp;</p> <p dir="ltr"><span>&nbsp;</span>This Phase I grant specifically addressed longstanding challenges in leveraging data to better understand how architecture affects health in hospitals via a pilot project with Massachusetts General Hospital (MGH).&nbsp;</p> <p dir="ltr"><span>&nbsp;</span>The primary research and development efforts included:&nbsp;</p> <p dir="ltr"><strong>1. Floor Plan Analysis</strong> - If we want to leverage spatial insight to optimize our buildings and spaces, then we need ways to easily generate data that quantitatively and consistently describe characteristics of the built environment. The grant enabled development of analyses that give building designers and owners insight into how their buildings will function. Metrics like travel distances provide insight into operational efficiency. Metrics like visual connectivity shed light on collaboration in workplaces and patient care in hospitals. Metrics like window access and views relate to the occupant experience.</p> <p dir="ltr">As a result of these activities, users can now: 1) generate consistent, comprehensive spatial data from a floor plan, 2) do so in minutes instead of days or weeks, 3) store and access the data using a digitized model schema which is structured and consistent across floor plans, and 4) automatically pull floor plan geometry from Revit, a commonly used architectural Building Information Modeling (BIM) software.&nbsp;</p> <p dir="ltr"><strong>2. Data Visualization and Exploration Interface</strong> - If we want to make spatial insights accessible and actionable, then we need intuitive ways to visualize and interact with spatial data. We developed a visualization dashboard that allows users to visualize spatial data as overlays to floor plans and create configurable scorecards and comparisons.</p> <p dir="ltr">As a result of these activities, users can now: 1) view, customize, and export floor plans with data visualizations, 2) configure custom metrics and scorecards, and 3) compare metrics across floor plans.</p> <p dir="ltr"><strong>3. Data Analysis Pilot with Massachusetts General Hospital</strong> - If we want to make evidence-backed decisions about the built environment, then we need data science and machine learning models that consider both architectural and operational outcomes. We conducted a pilot with MGH?s facilities, real estate, and quantitative health teams to analyze inpatient floor plans and prototype machine learning models.</p> <p dir="ltr">As a result of this pilot, we have: 1) demonstrated a proof of concept that rich, automatically generated spatial data can be used alongside health outcome data in a range of machine learning models, 2) identified challenges specific to working with architectural data in data science, and 3) enabled future research and development by identifying models that are best suited to addressing these challenges based on preliminary real-world data analysis.</p> <p dir="ltr">This research and development has the potential to significantly change the status quo in architectural practice, improve human health in healthcare facilities, and facilitate data-driven approaches across multiple building typologies. The results of this grant are tools that building stakeholders can use today to make better decisions around building design and operations; with better access to higher quality spatial data, the broader impact is for building occupants to live, work, and learn in buildings that help us stay more productive, happier, and healthier.&nbsp;</p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 11/01/2022<br>      Modified by: James&nbsp;Peraino</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Spatio Metrics is a technology company that is breaking down the barriers to leveraging data in building design and operations.   Through this Phase I grant, Spatio worked toward this goal by developing an all-in-one platform for design analysis and data visualization, backed by a database of floor plans. Architects and building operators can use the platform to understand the often invisible, but impactful role that design plays in building lifecycle costs on a range of building typologies, including residential, commercial, healthcare, and educational buildings.   Unlike existing approaches that require designers to maintain custom scripts, Spatio?s no-code workflow is easy to use and backed by industry best practices so that building stakeholders can access and communicate consistent, data-backed design metrics on every iteration of every project.   This Phase I grant specifically addressed longstanding challenges in leveraging data to better understand how architecture affects health in hospitals via a pilot project with Massachusetts General Hospital (MGH).   The primary research and development efforts included:  1. Floor Plan Analysis - If we want to leverage spatial insight to optimize our buildings and spaces, then we need ways to easily generate data that quantitatively and consistently describe characteristics of the built environment. The grant enabled development of analyses that give building designers and owners insight into how their buildings will function. Metrics like travel distances provide insight into operational efficiency. Metrics like visual connectivity shed light on collaboration in workplaces and patient care in hospitals. Metrics like window access and views relate to the occupant experience. As a result of these activities, users can now: 1) generate consistent, comprehensive spatial data from a floor plan, 2) do so in minutes instead of days or weeks, 3) store and access the data using a digitized model schema which is structured and consistent across floor plans, and 4) automatically pull floor plan geometry from Revit, a commonly used architectural Building Information Modeling (BIM) software.  2. Data Visualization and Exploration Interface - If we want to make spatial insights accessible and actionable, then we need intuitive ways to visualize and interact with spatial data. We developed a visualization dashboard that allows users to visualize spatial data as overlays to floor plans and create configurable scorecards and comparisons. As a result of these activities, users can now: 1) view, customize, and export floor plans with data visualizations, 2) configure custom metrics and scorecards, and 3) compare metrics across floor plans. 3. Data Analysis Pilot with Massachusetts General Hospital - If we want to make evidence-backed decisions about the built environment, then we need data science and machine learning models that consider both architectural and operational outcomes. We conducted a pilot with MGH?s facilities, real estate, and quantitative health teams to analyze inpatient floor plans and prototype machine learning models. As a result of this pilot, we have: 1) demonstrated a proof of concept that rich, automatically generated spatial data can be used alongside health outcome data in a range of machine learning models, 2) identified challenges specific to working with architectural data in data science, and 3) enabled future research and development by identifying models that are best suited to addressing these challenges based on preliminary real-world data analysis. This research and development has the potential to significantly change the status quo in architectural practice, improve human health in healthcare facilities, and facilitate data-driven approaches across multiple building typologies. The results of this grant are tools that building stakeholders can use today to make better decisions around building design and operations; with better access to higher quality spatial data, the broader impact is for building occupants to live, work, and learn in buildings that help us stay more productive, happier, and healthier.                Last Modified: 11/01/2022       Submitted by: James Peraino]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

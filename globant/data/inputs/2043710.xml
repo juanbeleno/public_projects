@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SCC-CIVIC-PG Track B: Community-Centric Pre-Disaster Mitigation with Unmanned Aerial and Marine Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>49998.00</AwardTotalIntnAmount>
+<AwardAmount>49998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michal Ziv-El</SignBlockName>
+<PO_EMAI>mzivel@nsf.gov</PO_EMAI>
+<PO_PHON>7032924926</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project will establish a community-centric emergency management consortium to pilot a program intended to increase community resilience to chronic major disasters: flooding, wildfires, hurricanes, tornadoes, and tropical storms.  One key to improving resilience is to document and understand the current conditions through comprehensive environmental assessments and continuous surveillance prior to a disaster. While small unmanned aerial and marine robots combined with advances in artificial intelligence (AI) and geo-spatial information systems (GIS) offer great promise for these assessments, agencies do not have sufficient personnel to cover vulnerable areas. Texas A&amp;M will lead the pilot program where the Texas Department of Emergency Management and Texas Forestry Service will determine the pre-disaster mitigation needs for three communities with different vulnerabilities, demographics, and land use: Bastrop, Houston, Galveston. At-risk high school students in these communities will be trained to use unmanned systems with AI and GIS tools to collect and process the data, then integrate the results back into the emergency management framework. Thus the resilience of the communities will be improved while filling the STEM pipeline, increasing economic competitiveness, and creating career paths for a skilled emergency response workforce that is savvy with innovative and emerging technologies.&lt;br/&gt;&lt;br/&gt;This project will use open source datasets to further improve and automate pre-disaster mitigation assessments. The labeled longitudinal aerial and underwater datasets will enable fundamental research and new advances in CV/ML as well as disaster science. The project will establish the trustworthiness of CV/ML develop new algorithms for recognition of vulnerabilities during different seasons and weather conditions, and further fundamental understanding of transfer learning from one disaster to another. The data on the frequency of surveying with aerial and marine assets will lead to an informatics-based model of sampling that captures the tradeoffs between accuracy, resolution, and frequency on identifying objects and scene understanding. This project is in response to the Civic Innovation Challenge program, Track B—Resilience to Natural Disasters—and is a collaboration between NSF and the Department of Homeland Security.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/12/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2043710</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Moats</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason B Moats</PI_FULL_NAME>
+<EmailAddress><![CDATA[jbmoats@tamu.edu]]></EmailAddress>
+<NSF_ID>000799099</NSF_ID>
+<StartDate>01/12/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robin</FirstName>
+<LastName>Murphy</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robin R Murphy</PI_FULL_NAME>
+<EmailAddress><![CDATA[robin.r.murphy@tamu.edu]]></EmailAddress>
+<NSF_ID>000511836</NSF_ID>
+<StartDate>01/12/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>3124 TAMU</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>College Station</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433112</ZipCode>
+<StreetAddress><![CDATA[TAMU 3112]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~49998</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Each year, floods, hurricanes, and wildfires result in over $125 billions of dollars of losses and loss of life. Unfortunately, Texas, the state with the greatest number of annual federally declared disasters, and over $100B in economic losses since 1980, is no exception. Often Black, Indigenous, and people of color (BIPOC) and low-income communities are impacted the most. Low-cost ($1-12K) unmanned aerial systems (drones) and unmanned marine surface vehicles (robot boats), coupled with the latest in artificial intelligence and geospatial software, could revolutionize how communities prepare, prevent, and minimize losses. However, Texas emergency managers currently lack the workforce and knowledge to investigate and implement these technologies in a meaningful way.&nbsp;</p> <p>To address the lack of workforce and knowledge, this four month, $50K project created a community-centric emergency management consortium in Texas with a vision of creating a sustainable, replicable program for equipping and training vulnerable rural (Bryan), urban (Houston), urban/industrial (Galveston) communities to identify conditions for three chronic major disasters: flooding, wildfires, and cyclonic events (hurricanes, tornadoes, tropical storms). The result of 11 virtual workshops and meetings with stakeholders was a new proposal for a 12-month pilot program with at-risk youths in community high schools. The consortium suggested that students collect and analyze data that would be integrated into the existing decision-making processes for the Texas Division of Emergency Management (TDEM), Texas A&amp;M Forest Service (TAMFS), and local emergency management agencies for pre-disaster mitigation. The data will enable fundamental research in artificial intelligence, especially computer vision and machine learning (CV/ML), for pre-disaster mitigation. This novel project will revolutionize pre-disaster mitigation by piloting and evaluating a sustainable, replicable community-centric program that will save lives and livelihoods. The data from the students will reduce impacts on underserved populations and increase community resilience. Project activities will also provide new high-tech job skills to the early workforce, increase the diversity of the STEM pipeline, establish high-tech career paths into emergency management, and attract economic development to underserved communities. This translative research will benefit U.S. economic development and competitiveness of technology for emergency management.&nbsp;</p> <p>The virtual workshops and meetings targeted three categories of stakeholders in pre-disaster mitigation: state and local <em>emergency managers</em>, <em>schools</em> in vulnerable communities, and <em>researchers and developers</em> in academia, industry, government, and non-profits. The workshops and meetings provided continuous refinement of the research questions, school projects, coordination mechanisms, and participants. The Texas A&amp;M Engineering Extension Service (TEEX), TDEM, TAMFS, Bryan Fire Department, Galveston Economic Development Partnership, and Brazos County Department of Emergency Management represented public agencies. Four communities were initially engaged, Houston, Galveston, Bastrop, and Bryan. Although additional school districts requested to join, they were deferred as they were outside a 200-mile radius that allows all groups to physically meet and train with no overnight travel. &nbsp;Multiple meetings with the Houston, Galveston, and Bryan Independent School Districts evolved two key strategies: (1) focus on students using the hands-on experience to attain <em>College, Career, and Military Readiness certificates</em> designed by the Texas Education Agency to be pathways into high tech careers and count towards college credits and (2) pay instructors and students for their time outside the classroom, enabling teenagers to participate without losing income from part-time jobs.&nbsp; Participating stakeholders included the Institute for a Disaster Resilient Texas, Texas A&amp;M Engineering Experiment Station (TEES), Texas A&amp;M Galveston, Carnegie Mellon, Florida State University, Rice, University of California Berkeley, University of Maryland Baltimore County, and University of Southern California. In addition, seven companies and non-profits were involved, with five (CRASAR, ESRI, Hydronalix, SenseFly, and Women and Drones) formally agreeing to donate time, robots, or software.</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/18/2022<br>      Modified by: Robin&nbsp;R&nbsp;Murphy</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2043710/2043710_10713063_1642533928661_Pre-Disaster-Logo--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2043710/2043710_10713063_1642533928661_Pre-Disaster-Logo--rgov-800width.jpg" title="Logo for Pre-Disaster Mitigation by Vulnerable Communities"><img src="/por/images/Reports/POR/2022/2043710/2043710_10713063_1642533928661_Pre-Disaster-Logo--rgov-66x44.jpg" alt="Logo for Pre-Disaster Mitigation by Vulnerable Communities"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Logo for the NSF Civic Innovation project on Pre-Disaster Mitigation by Vulnerable Communities</div> <div class="imageCredit">Texas A&M</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Robin&nbsp;R&nbsp;Murphy</div> <div class="imageTitle">Logo for Pre-Disaster Mitigation by Vulnerable Communities</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Each year, floods, hurricanes, and wildfires result in over $125 billions of dollars of losses and loss of life. Unfortunately, Texas, the state with the greatest number of annual federally declared disasters, and over $100B in economic losses since 1980, is no exception. Often Black, Indigenous, and people of color (BIPOC) and low-income communities are impacted the most. Low-cost ($1-12K) unmanned aerial systems (drones) and unmanned marine surface vehicles (robot boats), coupled with the latest in artificial intelligence and geospatial software, could revolutionize how communities prepare, prevent, and minimize losses. However, Texas emergency managers currently lack the workforce and knowledge to investigate and implement these technologies in a meaningful way.   To address the lack of workforce and knowledge, this four month, $50K project created a community-centric emergency management consortium in Texas with a vision of creating a sustainable, replicable program for equipping and training vulnerable rural (Bryan), urban (Houston), urban/industrial (Galveston) communities to identify conditions for three chronic major disasters: flooding, wildfires, and cyclonic events (hurricanes, tornadoes, tropical storms). The result of 11 virtual workshops and meetings with stakeholders was a new proposal for a 12-month pilot program with at-risk youths in community high schools. The consortium suggested that students collect and analyze data that would be integrated into the existing decision-making processes for the Texas Division of Emergency Management (TDEM), Texas A&amp;M Forest Service (TAMFS), and local emergency management agencies for pre-disaster mitigation. The data will enable fundamental research in artificial intelligence, especially computer vision and machine learning (CV/ML), for pre-disaster mitigation. This novel project will revolutionize pre-disaster mitigation by piloting and evaluating a sustainable, replicable community-centric program that will save lives and livelihoods. The data from the students will reduce impacts on underserved populations and increase community resilience. Project activities will also provide new high-tech job skills to the early workforce, increase the diversity of the STEM pipeline, establish high-tech career paths into emergency management, and attract economic development to underserved communities. This translative research will benefit U.S. economic development and competitiveness of technology for emergency management.   The virtual workshops and meetings targeted three categories of stakeholders in pre-disaster mitigation: state and local emergency managers, schools in vulnerable communities, and researchers and developers in academia, industry, government, and non-profits. The workshops and meetings provided continuous refinement of the research questions, school projects, coordination mechanisms, and participants. The Texas A&amp;M Engineering Extension Service (TEEX), TDEM, TAMFS, Bryan Fire Department, Galveston Economic Development Partnership, and Brazos County Department of Emergency Management represented public agencies. Four communities were initially engaged, Houston, Galveston, Bastrop, and Bryan. Although additional school districts requested to join, they were deferred as they were outside a 200-mile radius that allows all groups to physically meet and train with no overnight travel.  Multiple meetings with the Houston, Galveston, and Bryan Independent School Districts evolved two key strategies: (1) focus on students using the hands-on experience to attain College, Career, and Military Readiness certificates designed by the Texas Education Agency to be pathways into high tech careers and count towards college credits and (2) pay instructors and students for their time outside the classroom, enabling teenagers to participate without losing income from part-time jobs.  Participating stakeholders included the Institute for a Disaster Resilient Texas, Texas A&amp;M Engineering Experiment Station (TEES), Texas A&amp;M Galveston, Carnegie Mellon, Florida State University, Rice, University of California Berkeley, University of Maryland Baltimore County, and University of Southern California. In addition, seven companies and non-profits were involved, with five (CRASAR, ESRI, Hydronalix, SenseFly, and Women and Drones) formally agreeing to donate time, robots, or software.          Last Modified: 01/18/2022       Submitted by: Robin R Murphy]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

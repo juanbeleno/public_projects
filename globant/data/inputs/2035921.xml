@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Organic Glass Scintillator Integration into 64-channel Pixelated Array]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255788.00</AwardTotalIntnAmount>
+<AwardAmount>255788</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to provide government and regulatory bodies with better information gathering tools related to identification of special nuclear material. Due to the limitations of current radiation detection materials, physicists tasked with developing the next generation detector products often have no commercial supplier.  This project will develop special detectors that are low-cost, rugged, and amenable to large deployment. By leveraging advancements in amorphous scintillator research and materials science, this project will enable additive manufacturing of the next generation of radiation detection tools to improve global nuclear security.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project develops high-efficiency neutron discriminating scintillator arrays capable of coupling to 64-channel detectors for the purposes of neutron event reconstruction. The additive manufacturing of organic glasses has significant challenges, such as bubble nucleation of dissolved gasses, stress cracking due to differences in coefficients of thermal expansion, and destabilization of the metastable glassy state. Any of these failure modes would lead to the loss of optical integrity required for high fidelity neutron event reconstruction. To fabricate segmented arrays of this type, the base formulation of organic glass scintillator material will be altered to adjust the glass transition temperature, and enable these materials to be cast into rigid molds. Through this approach highly complex pixelated arrays can be rapidly produced while maintain high performance.  Development will focus on low surface energy additives and covalent modifications of the fluorophores to prevent defects during casting and annealing, as well as mold materials, surface preparation, and thermal transport properties.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/29/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035921</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Carlson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph Carlson</PI_FULL_NAME>
+<EmailAddress><![CDATA[joey.carlson@blueshiftoptics.com]]></EmailAddress>
+<NSF_ID>000826258</NSF_ID>
+<StartDate>01/29/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>BLUESHIFT OPTICS, LLC</Name>
+<CityName>OAKLAND</CityName>
+<ZipCode>946011443</ZipCode>
+<PhoneNumber>9255191990</PhoneNumber>
+<StreetAddress>2744 E 11TH ST., STE H2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FAM5NV5TS1P9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BLUESHIFT OPTICS LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Daybreak Labs]]></Name>
+<CityName>Livermore</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>945504426</ZipCode>
+<StreetAddress><![CDATA[1911 Second St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>14</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA14</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255788</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Organic Scintillators are important research tools for national security and nuclear physics applications. The ability to detect gamma radiation is common with all scintillators; however, detecting neutron radiation is an important feature of organic scintillators for cargo interrogation, experimental physics research and health physics. The added capability to distinguish between gamma and prompt neutron radiation is a desirable feature for users that is reserved for a special class of organic scintillators possessing Pulse Shape Discrimination (PSD). The materials in this class are not easily amenable to the new types of segmented detectors being sought for particle identification, neutron scatter cameras and neutron radiography. The performance and limited form factors of organic scintillators has often been a limitation for scientists and engineers looking to develop better tools in their respective application areas. Organic Glass Scintillator (OGS) is a material capable of high efficiency neutron and gamma radiation identification that has caught the attention of researchers as a material that provides high light yield and particle discrimination with the flexibility to be cast into segmented and high aspect ratio parts (bars and plates).</p> <p>Organic Scintillators have historically been manufactured using a subtractive manufacturing technique, a labor and cost intensive process compared to methods used in other industries. In phase I studies, Blueshift Optics identified unique formulations of Organic Glass Scintillator (OGS) that are amenable to additive casting of high aspect ratio pixelated arrays and honeycomb structures, two form factors that are difficult to produce. Many material science challenges were overcome via the identification and optimization of additives to provide formulations for casting complete arrays without detriment to Organic Glass Scintillator's amorphous structure or detection efficiency. These advancements have provided a new OGS formulation that is the cornerstone for all pixelated OGS products offered at Blueshift Optics with potential for scalable scintillator manufacturing.</p> <p>The potential impact of this work on the field of nuclear physics could improve any high-energy physics experiments that relies on a scintillator-based method for particle detection. More academic research groups and private companies are becoming interested in OGS, which will drive interest in research &amp; development in new particle detection materials, new detector systems and innovative applications.</p><br> <p>            Last Modified: 04/13/2022<br>      Modified by: Joseph&nbsp;Carlson</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2035921/2035921_10714937_1649800370627_IMG-5234--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2035921/2035921_10714937_1649800370627_IMG-5234--rgov-800width.jpg" title="Prototype pixelated array"><img src="/por/images/Reports/POR/2022/2035921/2035921_10714937_1649800370627_IMG-5234--rgov-66x44.jpg" alt="Prototype pixelated array"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A reflective array that has been cast with specially formulated Organic Glass Scintillator (OGS) are characterized with Silicon Photomultipliers (SiPMs).</div> <div class="imageCredit">Blueshift Optics</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Joseph&nbsp;Carlson</div> <div class="imageTitle">Prototype pixelated array</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2035921/2035921_10714937_1649803859463_IMG_1138--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2035921/2035921_10714937_1649803859463_IMG_1138--rgov-800width.jpg" title="Honeycomb array"><img src="/por/images/Reports/POR/2022/2035921/2035921_10714937_1649803859463_IMG_1138--rgov-66x44.jpg" alt="Honeycomb array"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Aluminum honeycomb cast with Organic Glass Scintillator (OGS)</div> <div class="imageCredit">Blueshift Optics</div> <div class="imageSubmitted">Joseph&nbsp;Carlson</div> <div class="imageTitle">Honeycomb array</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Organic Scintillators are important research tools for national security and nuclear physics applications. The ability to detect gamma radiation is common with all scintillators; however, detecting neutron radiation is an important feature of organic scintillators for cargo interrogation, experimental physics research and health physics. The added capability to distinguish between gamma and prompt neutron radiation is a desirable feature for users that is reserved for a special class of organic scintillators possessing Pulse Shape Discrimination (PSD). The materials in this class are not easily amenable to the new types of segmented detectors being sought for particle identification, neutron scatter cameras and neutron radiography. The performance and limited form factors of organic scintillators has often been a limitation for scientists and engineers looking to develop better tools in their respective application areas. Organic Glass Scintillator (OGS) is a material capable of high efficiency neutron and gamma radiation identification that has caught the attention of researchers as a material that provides high light yield and particle discrimination with the flexibility to be cast into segmented and high aspect ratio parts (bars and plates).  Organic Scintillators have historically been manufactured using a subtractive manufacturing technique, a labor and cost intensive process compared to methods used in other industries. In phase I studies, Blueshift Optics identified unique formulations of Organic Glass Scintillator (OGS) that are amenable to additive casting of high aspect ratio pixelated arrays and honeycomb structures, two form factors that are difficult to produce. Many material science challenges were overcome via the identification and optimization of additives to provide formulations for casting complete arrays without detriment to Organic Glass Scintillator's amorphous structure or detection efficiency. These advancements have provided a new OGS formulation that is the cornerstone for all pixelated OGS products offered at Blueshift Optics with potential for scalable scintillator manufacturing.  The potential impact of this work on the field of nuclear physics could improve any high-energy physics experiments that relies on a scintillator-based method for particle detection. More academic research groups and private companies are becoming interested in OGS, which will drive interest in research &amp; development in new particle detection materials, new detector systems and innovative applications.       Last Modified: 04/13/2022       Submitted by: Joseph Carlson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

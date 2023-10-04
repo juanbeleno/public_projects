@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  A Physics Guided Machine Learning Framework for Monitoring Rivers using Satellite Imagery]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255880.00</AwardTotalIntnAmount>
+<AwardAmount>255880</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be to provide near-real time information of changes in the spatial extent (flood mapping) and flow of rivers (water resource management) to insurance, energy, and agricultural stakeholders. Effective management of water resources and associated risks has become a major challenge for society. Floods are common disasters around the world and droughts lead to major disruptions to economies and a loss of life. This project will leverage artificial intelligence, and peta-bytes of satellite imagery to implement a physics guided data-intensive approach for advancing global hydrological modeling. The project will provide efficient and accurate imagery-derived observations of water dynamics in rivers at relatively low computational cost (compared with ground sensors) in a user-friendly web environment. This will be a significant step towards improving the modelling and forecasting of water resources around the world.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims to develop advanced artificial intelligence techniques to track surface water changes in rivers across the globe using vast amounts of satellite imagery. While conventional artificial intelligence techniques are purely driven by data, the proposed technology incorporates known physical laws into these algorithms. This physics guided approach makes these techniques much more robust to atmospheric disturbances (clouds, shadows, haze, etc.), and enables synergistic use of imagery datasets at different resolutions which are two major issues with satellite imagery analysis. Furthermore, the proposed uncertainty quantification techniques will enable domain experts to incorporate their local knowledge about river flows into the framework to refine results.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/11/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2045444</AwardID>
+<Investigator>
+<FirstName>Ankush</FirstName>
+<LastName>Khandelwal</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ankush Khandelwal</PI_FULL_NAME>
+<EmailAddress><![CDATA[ankush@terracover.ai]]></EmailAddress>
+<NSF_ID>000833714</NSF_ID>
+<StartDate>06/11/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>TERRA COVER, INC.</Name>
+<CityName>DENVER</CityName>
+<ZipCode>802191800</ZipCode>
+<PhoneNumber>6123007969</PhoneNumber>
+<StreetAddress>4771 W ALAMEDA AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XGU1JW1F6BE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TERRA COVER INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[TERRA COVER, INC.]]></Name>
+<CityName>DENVER</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>802227064</ZipCode>
+<StreetAddress><![CDATA[2700 S HOLLY ST APT 201]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255880</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-23bdd011-7fff-ccb4-30c9-53049f6d432c"> </span></p> <p dir="ltr"><span>Effective management of water resources and associated risks has become a major challenge for society. For example, floods are the most common natural disaster annually affecting approximately 250 million people and causing $40 billion in economic losses. On the other hand, water supply risks due to droughts have led to major disruptions in various economies such as South Africa and Brazil. Thus, it has become increasingly important for stakeholders to effectively capture these rapidly changing spatial and temporal trends in water related risks. In this SBIR Phase-I project, Terra Cover focused on two key stakeholders: 1) insurance (and reinsurance) companies; and 2) water supply management agencies such as local governments and disaster management agencies. Currently, these businesses and agencies rely predominantly on ground based information and operations to manage water and associated risks. However, in many situations ground information is not readily available or cost prohibitive to obtain. Thus these markets can significantly benefit from access to space based operational water monitoring services to reduce reliance on ground based information. </span><span>We have used this first phase of development to de-risk our river monitoring technology in these two areas.</span></p> <p dir="ltr">&nbsp;Our initial goal was to build an index based on changing water levels in rivers that can be used for index insurance in emerging economies where ground-based river monitoring stations are limited. However, through several interactions with potential customers, we found that customers are more interested in information that is specific to a farm plot or a local region instead of water levels of a nearby river. These customer interactions also allowed us to identify a different use case in insurance where the need for our technology is more acute. The idea is to build a history of flooding in urban regions and use this history to motivate home-owners to consider buying flood insurance. We evaluated different imagery sources for building this history, and through successful demonstrations of our initial product, we secured a pilot project with a leading flood insurance provider. The goal of the pilot is to evaluate the efficacy of the database for two counties in Texas and Florida.&nbsp;</p> <p dir="ltr"><span>In addition, while the application of river monitoring for water resource management has a relatively small market size, the effort has a very high societal impact and hence we have continued to learn about customer needs for monitoring rivers. Through our interactions we identified that changes in only water extents (area of the river) is not interesting as a standalone dataset, and hence should be accompanied with changes in actual flow of water. Moreover, most of our potential customers were interested in much narrower rivers than we initially thought, and hence we focused more on building workflows to process new imagery sources that provide high spatial granularity along with high temporal frequency. After a number of iterations of our algorithms, we were successful in showing that our technology can complement existing hydrology models to improve flow monitoring. Through our initial technology demonstrations, we were able to build a partnership with a local organization in Zambia that is helping to refine our product for water authorities in the region.&nbsp;</span></p> <p dir="ltr">&nbsp;Our preliminary demonstrations show that there are clear commercial and societal implications of monitoring rivers through space and building histories of flooding.&nbsp; However, more algorithm development will be needed to reach operational capability. For our water resource management application, we will continue to improve our width to discharge estimate algorithm as we learn more about what kind of ground sampling is possible through our local partners. For the insurance use case, we will continue to adapt our semi-automated labeling workflows and add more data sources to enrich our flood database.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 02/28/2023<br>      Modified by: Ankush&nbsp;Khandelwal</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Effective management of water resources and associated risks has become a major challenge for society. For example, floods are the most common natural disaster annually affecting approximately 250 million people and causing $40 billion in economic losses. On the other hand, water supply risks due to droughts have led to major disruptions in various economies such as South Africa and Brazil. Thus, it has become increasingly important for stakeholders to effectively capture these rapidly changing spatial and temporal trends in water related risks. In this SBIR Phase-I project, Terra Cover focused on two key stakeholders: 1) insurance (and reinsurance) companies; and 2) water supply management agencies such as local governments and disaster management agencies. Currently, these businesses and agencies rely predominantly on ground based information and operations to manage water and associated risks. However, in many situations ground information is not readily available or cost prohibitive to obtain. Thus these markets can significantly benefit from access to space based operational water monitoring services to reduce reliance on ground based information. We have used this first phase of development to de-risk our river monitoring technology in these two areas.  Our initial goal was to build an index based on changing water levels in rivers that can be used for index insurance in emerging economies where ground-based river monitoring stations are limited. However, through several interactions with potential customers, we found that customers are more interested in information that is specific to a farm plot or a local region instead of water levels of a nearby river. These customer interactions also allowed us to identify a different use case in insurance where the need for our technology is more acute. The idea is to build a history of flooding in urban regions and use this history to motivate home-owners to consider buying flood insurance. We evaluated different imagery sources for building this history, and through successful demonstrations of our initial product, we secured a pilot project with a leading flood insurance provider. The goal of the pilot is to evaluate the efficacy of the database for two counties in Texas and Florida.  In addition, while the application of river monitoring for water resource management has a relatively small market size, the effort has a very high societal impact and hence we have continued to learn about customer needs for monitoring rivers. Through our interactions we identified that changes in only water extents (area of the river) is not interesting as a standalone dataset, and hence should be accompanied with changes in actual flow of water. Moreover, most of our potential customers were interested in much narrower rivers than we initially thought, and hence we focused more on building workflows to process new imagery sources that provide high spatial granularity along with high temporal frequency. After a number of iterations of our algorithms, we were successful in showing that our technology can complement existing hydrology models to improve flow monitoring. Through our initial technology demonstrations, we were able to build a partnership with a local organization in Zambia that is helping to refine our product for water authorities in the region.   Our preliminary demonstrations show that there are clear commercial and societal implications of monitoring rivers through space and building histories of flooding.  However, more algorithm development will be needed to reach operational capability. For our water resource management application, we will continue to improve our width to discharge estimate algorithm as we learn more about what kind of ground sampling is possible through our local partners. For the insurance use case, we will continue to adapt our semi-automated labeling workflows and add more data sources to enrich our flood database.             Last Modified: 02/28/2023       Submitted by: Ankush Khandelwal]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

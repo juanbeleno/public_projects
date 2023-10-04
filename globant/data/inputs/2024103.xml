@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Smart Street Parking Assistant]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of technology for smart street parking. An estimated thirty percent of all traffic in the average U.S. city consists of vehicles searching for parking spots. Finding street parking in big cities can be challenging; the time spent searching is long, signage may be confusing or misinterpreted, and errors can be expensive (ticketed or towed). This could be mitigated with: (i) Street parking planning identifying suitable parking areas in advance of a trip, and (ii) curb-surfing verify the parking rules. The estimated market size for smart parking is $3.8 B.  The proposed technology offers these two essential street parking services to drivers, delivery providers, and smart vehicle/smart city infrastructure through apps and APIs.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a series of machine learning algorithms and IoT technologies. Specifically, the novel techniques are developed and used in the following steps:  (i) Street parking sign detection from pictures/videos taken by cameras on smartphones/vehicles; (ii) text recognition from the detected street parking signs; (iii) Natural language processing (NLP) used to generate parking rules; (iv) allowed parking time calculation; and (v) trust evaluation in crowdsourcing. This technology focuses on street parking sign recognition and interpretation. Although there are many AI-based object detection and text recognition techniques, typically they do not work well in these applications as the text on street parking signs is different and signs vary among cities. In addition, the technology addresses the challenge of distinguishing parking signs from other co-located signs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2024103</AwardID>
+<Investigator>
+<FirstName>Juhua</FirstName>
+<LastName>Hu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Juhua Hu</PI_FULL_NAME>
+<EmailAddress><![CDATA[juhuah@uw.edu]]></EmailAddress>
+<NSF_ID>000799583</NSF_ID>
+<StartDate>07/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Cheng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wei Cheng</PI_FULL_NAME>
+<EmailAddress><![CDATA[uwcheng@uw.edu]]></EmailAddress>
+<NSF_ID>000620036</NSF_ID>
+<StartDate>07/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 BROOKLYN AVE NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF WASHINGTON VICE PR</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington Tacoma]]></Name>
+<CityName>Tacoma</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>984023110</ZipCode>
+<StreetAddress><![CDATA[1900 Commerce Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The team built a solution for smart street parking.The goal of this I-Corps Teams project is to develop a feasible plan to commercialize the technology and develop a team to be capable of executing the plan.&nbsp;</p> <p><strong>Intellectual Merits</strong>:</p> <p>The team built a series of systems for smart street parking via jointly utilizing machine learning and IoT technologies. Specifically, the solution includes: a street parking inventory database for cities, a website of street parking inventory management for cities, a website of street parking planning for drivres, and a mobile App for street parking navigation. The key novel techniques for building the solution are the four pipelined algorithms:&nbsp; (i) the street parking sign detection algorithm; (ii) the street parking sign text recognition algorithm,&nbsp; (iii) the&nbsp; street parking rule generation algorithm, and&nbsp; (iv) the real-time allowed parking time calculation algorithm.&nbsp;Our solution is the first one that can accurately find the street parking signs, read the street parking signs, and generate the street parking rules from the videos taken by an off-the-shelf dash cam.</p> <p><strong>Broader Impacts</strong>:</p> <p>Finding street parking in big cities is challenging. Moreover, street parking can be expensive (ticketed/towed) due to how easily drivers can misunderstand of the street parking signs that can be very complex to read and understand.&nbsp;The solution provided by the team can help drivers know where the street parking spots, which will fit their parking needs, are and navigate them to the spots. Drivers' time and gas can be significantly saved. The soultion can also help cities reduce the traffic, greenhouse gas emission, and illegal parking.&nbsp;This project is undertaken by a team including female entrepreneurs and minorities. The students were trained for AI and system technology development and bussiness development. The team has secured a paid pilot project with a city for buidling a street parking inventory management system.</p><br> <p>            Last Modified: 07/18/2022<br>      Modified by: Wei&nbsp;Cheng</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The team built a solution for smart street parking.The goal of this I-Corps Teams project is to develop a feasible plan to commercialize the technology and develop a team to be capable of executing the plan.   Intellectual Merits:  The team built a series of systems for smart street parking via jointly utilizing machine learning and IoT technologies. Specifically, the solution includes: a street parking inventory database for cities, a website of street parking inventory management for cities, a website of street parking planning for drivres, and a mobile App for street parking navigation. The key novel techniques for building the solution are the four pipelined algorithms:  (i) the street parking sign detection algorithm; (ii) the street parking sign text recognition algorithm,  (iii) the  street parking rule generation algorithm, and  (iv) the real-time allowed parking time calculation algorithm. Our solution is the first one that can accurately find the street parking signs, read the street parking signs, and generate the street parking rules from the videos taken by an off-the-shelf dash cam.  Broader Impacts:  Finding street parking in big cities is challenging. Moreover, street parking can be expensive (ticketed/towed) due to how easily drivers can misunderstand of the street parking signs that can be very complex to read and understand. The solution provided by the team can help drivers know where the street parking spots, which will fit their parking needs, are and navigate them to the spots. Drivers' time and gas can be significantly saved. The soultion can also help cities reduce the traffic, greenhouse gas emission, and illegal parking. This project is undertaken by a team including female entrepreneurs and minorities. The students were trained for AI and system technology development and bussiness development. The team has secured a paid pilot project with a city for buidling a street parking inventory management system.       Last Modified: 07/18/2022       Submitted by: Wei Cheng]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

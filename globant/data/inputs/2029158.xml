@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: RETrofitting  REsiliency AgainsT COVID-19! (RETREAT COVID-19!)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>149951.00</AwardTotalIntnAmount>
+<AwardAmount>149951</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aranya Chakrabortty</SignBlockName>
+<PO_EMAI>achakrab@nsf.gov</PO_EMAI>
+<PO_PHON>7032928113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In densely populated urban environments, such physical infrastructure systems as gas, electric power and water networks are critical  enablers of shelter-at-home policies that help slow down the spread of the COVID-19 outbreak. However, from the infrastructure viewpoint, these policies cause a major shift of gas, electricity and water consumption to residential rather than commercial neighborhoods, which may face unusual demand  profiles for infrastructure services, possibly leading to outages and inability (or limited ability) to serve sheltered population groups. Such outages take societally unacceptable death tolls, even without factoring in the effect of the COVID-19 outbreak. For example, only among medically insured Americans, the estimated number of electricity-dependent persons residing at home was 685,000 (2012), among whom roughly one fifth is vulnerable to even short 3-4 hour power outages. The main goal of this proposal is to analyze infrastructure operations under different scenarios of disease outbreaks, using real-life infrastructure and public health data from New York City, and inform infrastructure operators and urban planners on efficient strategies to mitigate public health risks. In these analyses, the project team will specially focus on needs of vulnerable population groups.&lt;br/&gt;&lt;br/&gt;The main technical objective of this proposal is to bridge the current gap between infrastructure and epidemic models to understand how the demand of infrastructure services change under different outbreak scenarios. To this end, we will first internalize the effects of health epidemics in infrastructure models. The epidemics model will include Susceptible-Infectious-Susceptible (SIS) and Susceptible-Infectious-Recovered (SIR) models, which make it possible to reasonably simulate the spread of infectious diseases as flu and influenza (SIS) and measles, mumps, rubella (SIR). Second, using real-life data on the COVID-19 outbreak in NYC and models of gas, electricity, transportation and water systems, our research team will carry out an infrastructure vulnerability analysis under different outbreak scenarios, which will be appropriately designed to represent potential trajectories of the COVID-19 outbreak (e.g. "bell" shape, when the outbreak peaks and then gradually decays or the "W" shape, when the outbreak can have multiple peaks). We will develop outage models of critical infrastructure equipment (water pumps, gas compressors, electric power transformers) in order to adequately capture accelerated wear-and-tear of these resources due to the atypical and shifted usage during the outbreaks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029158</AwardID>
+<Investigator>
+<FirstName>Yury</FirstName>
+<LastName>Dvorkin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yury Dvorkin</PI_FULL_NAME>
+<EmailAddress><![CDATA[ydvorki1@jhu.edu]]></EmailAddress>
+<NSF_ID>000892338</NSF_ID>
+<StartDate>05/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress><![CDATA[70 Washington Square S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>155E</Code>
+<Text>Electric power networks</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~149951</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="p1">We developed and rolled out a real-time data crawler that connects to Con Edison&rsquo;s webpage to collect real-time outage data. Notably, this data is *NOT* available to researchers via a custom-made API, or its equivalent, and therefore we had to design a crawler that will take a snapshot of the outage information (e.g., timestamp, address, parameters) from Con Edison&rsquo;s webpage and apply image processing to digitize this information.<span>&nbsp; </span>Using this data and a ranking algorithm of electricity vulnerability, we developed a power outage dashboard, which visualizes the found outages and is available for public use. See the link here, along with the &ldquo;about&rdquo; description of the dashboard:&nbsp;<a href="https://outagesnycserver.cusp.nyu.edu/outages"><span class="s1">https://outagesnycserver.cusp.nyu.edu/outages</span></a></p> <p class="p1"><br />Taken together, our main results are as follows:</p> <ul class="ul1"> <li class="li1">We developed a&nbsp;<strong>dashboard</strong>&nbsp;that helps collect real-world and real-time outage data, which can be used for real-world training of tools for power grid repairs. The dashboard is available for public viewing:&nbsp;<a href="https://outagesnycserver.cusp.nyu.edu/outages"><span class="s1">https://outagesnycserver.cusp.nyu.edu/outages</span></a></li> <li class="li1">Using the data provided by the dashboard we established that our&nbsp;<strong>hypothesis</strong>&nbsp;that a model that synthesizes power outages and consumer behavior under the SIS epidemiological model cannot be implemented in a coupled manner because of their different temporal and spatial resolutions. Although this is a negative result, which is different from our expectation, it is important that this hypothesis has been thoroughly tested.</li> <li class="li1">We also designed an&nbsp;<strong>API interface</strong>, which allows for connecting to the dashboard and streaming its data in real-time, which is, for instance, is currently used by&nbsp;Environmental Health Division, New York City Department of Health and Mental Hygiene to "notify restaurants in the event of a power outage so they can minimize risks of food-borne illness" (see the attached letter from&nbsp;Letter from Corinne Schiff, Deputy Commissioner, Environmental Health Division, New York City Department of Health and Mental Hygiene).</li> <li class="li1">We&nbsp;<strong>publicly share our outage data and its socio-demographic labels</strong>, which can be accessed here:&nbsp;https://outagesnycserver.cusp.nyu.edu/downloads (wait for ~15 seconds until all three "Downloads ..." links become available.&nbsp;&nbsp;</li> </ul> <p>&nbsp;</p><br> <p>            Last Modified: 08/01/2022<br>      Modified by: Yury&nbsp;V&nbsp;Dvorkin</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[We developed and rolled out a real-time data crawler that connects to Con Edison’s webpage to collect real-time outage data. Notably, this data is *NOT* available to researchers via a custom-made API, or its equivalent, and therefore we had to design a crawler that will take a snapshot of the outage information (e.g., timestamp, address, parameters) from Con Edison’s webpage and apply image processing to digitize this information.  Using this data and a ranking algorithm of electricity vulnerability, we developed a power outage dashboard, which visualizes the found outages and is available for public use. See the link here, along with the "about" description of the dashboard: https://outagesnycserver.cusp.nyu.edu/outages  Taken together, our main results are as follows:  We developed a dashboard that helps collect real-world and real-time outage data, which can be used for real-world training of tools for power grid repairs. The dashboard is available for public viewing: https://outagesnycserver.cusp.nyu.edu/outages Using the data provided by the dashboard we established that our hypothesis that a model that synthesizes power outages and consumer behavior under the SIS epidemiological model cannot be implemented in a coupled manner because of their different temporal and spatial resolutions. Although this is a negative result, which is different from our expectation, it is important that this hypothesis has been thoroughly tested. We also designed an API interface, which allows for connecting to the dashboard and streaming its data in real-time, which is, for instance, is currently used by Environmental Health Division, New York City Department of Health and Mental Hygiene to "notify restaurants in the event of a power outage so they can minimize risks of food-borne illness" (see the attached letter from Letter from Corinne Schiff, Deputy Commissioner, Environmental Health Division, New York City Department of Health and Mental Hygiene). We publicly share our outage data and its socio-demographic labels, which can be accessed here: https://outagesnycserver.cusp.nyu.edu/downloads (wait for ~15 seconds until all three "Downloads ..." links become available.             Last Modified: 08/01/2022       Submitted by: Yury V Dvorkin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

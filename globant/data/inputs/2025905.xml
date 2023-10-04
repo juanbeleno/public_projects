@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Machine Learning Enhanced Hardware for Optimization and Self-tuning of High-Finesse Optical Cavities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255556.00</AwardTotalIntnAmount>
+<AwardAmount>255556</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be to demonstrate the utility of powerful computational techniques, like machine learning, for auto-alignment of sophisticated optical instruments. This is particularly important for instruments deployed in the field, where environmental fluctuations continuously perturb components in unpredictable ways. Successful implementation of such technologies would allow complex lasers and instruments to transition from the laboratory to commercial use. This could be particularly impactful in the growing quantum communication industry. This project will advance the development of machine learning to align these sensitive instruments autonomously.  &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project will investigate the use of machine learning to maintain alignment of exquisite filters made from optical cavities. To date, no commercial solution exists for auto-alignment of these cavities, which are common components in complex optical instruments. This is due to the complexity of the parameter sets governing alignment, and the challenge to train the system to choose the optimal path to restore alignment. The primary deliverables of this project will be a set of modular machine learning-based optimization algorithms and a commercial off-the-shelf &lt;30MHz-bandwidth self-tuning optical filter hardware module. Since the proposed adaptive control strategy does not rely on a single underlying model, the developed framework will be modular and easily transferable to other nonlinear systems, which depend on photonic arrangements with varying parameters and control features.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025905</AwardID>
+<Investigator>
+<FirstName>Michelle</FirstName>
+<LastName>Fritz</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michelle Fritz</PI_FULL_NAME>
+<EmailAddress><![CDATA[chellymarie03@gmail.com]]></EmailAddress>
+<NSF_ID>000836945</NSF_ID>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Io</FirstName>
+<LastName>Flament</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Io Flament</PI_FULL_NAME>
+<EmailAddress><![CDATA[iflament.auc@gmail.com]]></EmailAddress>
+<NSF_ID>000822202</NSF_ID>
+<StartDate>08/20/2020</StartDate>
+<EndDate>09/01/2020</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>QUNNECT, LLC</Name>
+<CityName>BROOKLYN</CityName>
+<ZipCode>112051338</ZipCode>
+<PhoneNumber>6463423369</PhoneNumber>
+<StreetAddress>141 FLUSHING AVE BLDG 77 STE 111</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L3CWM857W9L9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>QUNNECT, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Qunnect Inc.]]></Name>
+<CityName>Brooklyn</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>112051095</ZipCode>
+<StreetAddress><![CDATA[19 Morris Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~255556</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p dir="ltr">Project Outcomes</p> <p dir="ltr">During the Phase I award, we demonstrated the feasibility of using Artificial Intelligence (AI) for the auto-alignment of high finesse optical cavities. These cavities are increasingly used for sophisticated photonic applications such as quantum networking, where precision alignment is critical for instrument functionality. AI-supported smart-monitoring and auto-alignment are important enabling features for long-term stability and remote deployment of commercial devices.</p> <p dir="ltr">Through this work, we have shown that Convolutional Neural Network (CNN) models can be used to accurately determine the degree of misalignment of cavity filter mirrors by analyzing the image of the beam exiting the cavity. The best performing CNN model for this application was a 50-layer ResNet variant, ResNet50, which incorporates skip connections into the network. We customized the output layer of the ResNet50 architecture so that it would produce piezo driven mirror mount step predictions (regression) instead of classes (classification). We trained two of these models, one for each cavity in our dual-cavity setup (Fig. 1), designed to emulate the cascaded filtering systems used for ultra-narrow bandwidth, high extinction filtering in photonic applications (e.g. quantum optics). The performance of these models throughout the training process and final results are summarized in Fig. 2. Since their prediction errors are imperceptible to the human eye, the models surpass the accuracy of human alignment, and are expected to be sufficient for use in optimization algorithms.&nbsp;</p> <p dir="ltr">The outputs of our CNN models were then used as inputs to an optimization algorithm that controlled 9 degrees of freedom in the dual cavity hardware system. The results of full optimization of both mirror positions and cavity temperature can be seen in Fig. 3, starting at states in the outer boundaries of where the optimization can successfully work.</p> <p dir="ltr">Here is a summarized list of key outcomes throughout the phase I project:</p> <ul> <li dir="ltr"> <p dir="ltr">We designed a CNN-based optimization algorithm capable of controlling 9 degrees of freedom to maintain the optimal performance of an ultra-high extinction filtering system with a filtering extinction ratio of better than 100dB.</p> </li> <li dir="ltr"> <p dir="ltr">To achieve the milestones of Phase I, we have built a full table top prototype of a two cavity system for 100dB filtering (Fig. 1). The setup is made out of two curved etalons, each controlled and aligned electronically using temperature controllers and piezo driven mirrors.</p> </li> <li dir="ltr"> <p dir="ltr">We have tested a 2-class classification CNN, a 5-class classification CNN, and a regression CNN, all with the 50-layer ResNet architecture, concluding that the regression model results in the most accurate prediction of degree of mirror misalignment in the setup and achieves the best results during optimization of the two cavity system.</p> </li> <li dir="ltr"> <p dir="ltr">The software is built to optimize both the optical alignment and the temperature of each cavity. The Temperature optimization code is capable of maintaining the cavity resonance above 90% transmission for 85% of the operation time of the filtering system (see Fig. 4).</p> </li> <li dir="ltr"> <p dir="ltr">The CNN model can recognize the mode of each cavity anytime it deviates from the optimal Gaussian mode and take the proper steps to bring the module back to Gaussian transmission.</p> </li> </ul><br> <p>            Last Modified: 10/19/2021<br>      Modified by: Michelle&nbsp;Fritz</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2025905/2025905_10699939_1634678786761_Figure1--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2025905/2025905_10699939_1634678786761_Figure1--rgov-800width.jpg" title="Figure 1"><img src="/por/images/Reports/POR/2021/2025905/2025905_10699939_1634678786761_Figure1--rgov-66x44.jpg" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Schematic of the dual cavity setup with computer controlled hardware.</div> <div class="imageCredit">Qunnect</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Michelle&nbsp;Fritz</div> <div class="imageTitle">Figure 1</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2025905/2025905_10699939_1634678841933_Figure2--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2025905/2025905_10699939_1634678841933_Figure2--rgov-800width.jpg" title="Figure 2"><img src="/por/images/Reports/POR/2021/2025905/2025905_10699939_1634678841933_Figure2--rgov-66x44.jpg" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Training and validation loss during training for Cavity 1 model (top left) and Cavity 2 model (top right) and final training, validation, and testing scores (bottom).</div> <div class="imageCredit">Qunnect</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Michelle&nbsp;Fritz</div> <div class="imageTitle">Figure 2</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2025905/2025905_10699939_1634678953903_Figure3--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2025905/2025905_10699939_1634678953903_Figure3--rgov-800width.jpg" title="Figure 3"><img src="/por/images/Reports/POR/2021/2025905/2025905_10699939_1634678953903_Figure3--rgov-66x44.jpg" alt="Figure 3"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Results of full optimization run, showing the mode progression from when the algorithm kicks in to where it considers it optimized.</div> <div class="imageCredit">Qunnect</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Michelle&nbsp;Fritz</div> <div class="imageTitle">Figure 3</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2025905/2025905_10699939_1634679233404_Figure4--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2025905/2025905_10699939_1634679233404_Figure4--rgov-800width.jpg" title="Figure 4"><img src="/por/images/Reports/POR/2021/2025905/2025905_10699939_1634679233404_Figure4--rgov-66x44.jpg" alt="Figure 4"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A) The temperature drift of both cavities and room temperature. B) Results of stabilization algorithm, attempting to keep transmission above 90% of the best achieved value during stabilization.</div> <div class="imageCredit">Qunnect</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Michelle&nbsp;Fritz</div> <div class="imageTitle">Figure 4</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[Project Outcomes During the Phase I award, we demonstrated the feasibility of using Artificial Intelligence (AI) for the auto-alignment of high finesse optical cavities. These cavities are increasingly used for sophisticated photonic applications such as quantum networking, where precision alignment is critical for instrument functionality. AI-supported smart-monitoring and auto-alignment are important enabling features for long-term stability and remote deployment of commercial devices. Through this work, we have shown that Convolutional Neural Network (CNN) models can be used to accurately determine the degree of misalignment of cavity filter mirrors by analyzing the image of the beam exiting the cavity. The best performing CNN model for this application was a 50-layer ResNet variant, ResNet50, which incorporates skip connections into the network. We customized the output layer of the ResNet50 architecture so that it would produce piezo driven mirror mount step predictions (regression) instead of classes (classification). We trained two of these models, one for each cavity in our dual-cavity setup (Fig. 1), designed to emulate the cascaded filtering systems used for ultra-narrow bandwidth, high extinction filtering in photonic applications (e.g. quantum optics). The performance of these models throughout the training process and final results are summarized in Fig. 2. Since their prediction errors are imperceptible to the human eye, the models surpass the accuracy of human alignment, and are expected to be sufficient for use in optimization algorithms.  The outputs of our CNN models were then used as inputs to an optimization algorithm that controlled 9 degrees of freedom in the dual cavity hardware system. The results of full optimization of both mirror positions and cavity temperature can be seen in Fig. 3, starting at states in the outer boundaries of where the optimization can successfully work. Here is a summarized list of key outcomes throughout the phase I project:   We designed a CNN-based optimization algorithm capable of controlling 9 degrees of freedom to maintain the optimal performance of an ultra-high extinction filtering system with a filtering extinction ratio of better than 100dB.   To achieve the milestones of Phase I, we have built a full table top prototype of a two cavity system for 100dB filtering (Fig. 1). The setup is made out of two curved etalons, each controlled and aligned electronically using temperature controllers and piezo driven mirrors.   We have tested a 2-class classification CNN, a 5-class classification CNN, and a regression CNN, all with the 50-layer ResNet architecture, concluding that the regression model results in the most accurate prediction of degree of mirror misalignment in the setup and achieves the best results during optimization of the two cavity system.   The software is built to optimize both the optical alignment and the temperature of each cavity. The Temperature optimization code is capable of maintaining the cavity resonance above 90% transmission for 85% of the operation time of the filtering system (see Fig. 4).   The CNN model can recognize the mode of each cavity anytime it deviates from the optimal Gaussian mode and take the proper steps to bring the module back to Gaussian transmission.         Last Modified: 10/19/2021       Submitted by: Michelle Fritz]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

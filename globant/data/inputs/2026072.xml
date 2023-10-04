@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Ubiquitous Data Monitoring of Touch Using Photonic Sensors]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255641.00</AwardTotalIntnAmount>
+<AwardAmount>255641</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to develop new touch sensors for applications in many sectors, such as fitness, healthcare and automotive uses.  The proposed system uses special light sources that change internally when pressure is applied to external surfaces. These can be extremely accurate and have previously been used to control robots. The proposed project extends this to human-computer interfaces, with an initial focus on developing novel wearables that track motion for human performance monitoring.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will focus on using elastomeric material to create lightguides that change power output upon stretching, expanding the use of these highly accurate photonic strain gauges. This photonics sensor matrix consists of nodes of intersecting powered and unpowered stretchable optical lightguides in 2D and 3D arrays. When these lightguides contact, the light coupled between them is proportional to the applied stress and strain, localizing the deformation and measuring its amplitude. This project will address:  1) scaled production of these fibers; 2) development of centralized electronics hubs ensuring separation from sensing fibers; and 3) development of robust signal processing for calibration and error minimization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026072</AwardID>
+<Investigator>
+<FirstName>Ilayda</FirstName>
+<LastName>Samilgil</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ilayda Samilgil</PI_FULL_NAME>
+<EmailAddress><![CDATA[ilayda@organicroboticscorp.com]]></EmailAddress>
+<NSF_ID>000823005</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ORGANIC ROBOTICS CORPORATION</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146042101</ZipCode>
+<PhoneNumber>3478210613</PhoneNumber>
+<StreetAddress>260 E MAIN ST STE 6364</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CY4NGYFH3LF8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ORGANIC ROBOTICS CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ORGANIC ROBOTICS CORPORATION]]></Name>
+<CityName>ROCHESTER</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>146042101</ZipCode>
+<StreetAddress><![CDATA[260 E MAIN STREET STE 6364]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1639</Code>
+<Text>SENSORS AND SENSING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~255641</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-a89f1649-7fff-2064-1a89-e6d0518d4722"> </span></p> <p dir="ltr"><span>The intent of the phase 1 NSF SBIR was to validate and improve our product value proposition. At the same time, we needed to study the science behind the challenges to scaling up our innovation. To do these, we focused on 3 major tasks: Light Lace manufacturing, optoelectronics and enclosure design, and signal processing. At the end of the award period, we were able to scale up manufacturing. This new method allowed us to manufacture much more durable sensors in less time. Further, we built a mechanical testing rig to track the signal drift of Light Lace. As the project progresses, we will use this set up to build our quality assurance metrics. To acquire data from the sensors, we built a custom printed circuit board that allowed us to power 6 Light Lace sensors, and send the data real time to a phone via Bluetooth Low Energy. Further, we built a custom enclosure that is fully removable - allowing the customers to swap boards between garments. Lastly, we explored different motion capture models in order to calibrate our sensors. As we refined our value proposition, we started focusing more on the importance of high speed data capture and how it relates to motion capture and human movement. We captured preliminary motion data to observe and calculate different metrics, such as elbow acceleration and even jerk and snap. At the end of the project period, we decided to move forward with a modular approach that includes &ldquo;bands&rdquo; that can be placed on different parts of the body to measure both muscle contraction and motion.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Before the Phase 1 award, we had initially explored the baseball pitching market through I-Corps. Through this SBIR, in addition to participation in I-Corps and Beat the Odds camp, we validated this assumption and gained further knowledge on the unfair advantages Light Lace&trade; has over competing technology. We identified that there is a critical and unmet need for convenient and high speed biometric measurements. During Phase 1, not only did we identify the technical gap of measuring motion at high speeds, we have proven that Light Lace&trade; is capable of filling the missing data. We have acquired data ~100 times faster than competing technology in the space of sports biometric monitoring. As a result, we have joint angle velocity and acceleration data that is not an average during a joint movement, but continuously estimated during a single motion. We truly believe that there is no better approach for accurate and high speed data capture for biomechanical analysis than our Light Lace&trade; approach. We now know that we are creating a new category of kinematic data for biomechanics: Jerk and Snap. We are able to do so as we are using photonic sensors without the normal sampling rate limitations of alternative approaches such as inertial motion units.&nbsp;</span></p> <p>&nbsp;</p> <p dir="ltr"><span>Due to the product-market fit we discovered and unfair advantage we are able to communicate to investors, we have raised &gt;$300k from Angel investors. We have also received interest from both Major League Baseball and college baseball teams, and will be piloting with them in the near future. Although the first impact of this technology will be in sports and more specifically baseball, the low cost, high signal to noise ratio fiberoptic sensors will open up new measurement possibilities. These sensors can be used in medical applications to monitor vitals, reduce injuries, improve physical therapy, in automotive industry to monitor child and pet presence as well as monitor driver fatigue, in AR/VR to improve military and medical training and more. </span></p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 05/15/2023<br>      Modified by: Ilayda&nbsp;Samilgil</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   The intent of the phase 1 NSF SBIR was to validate and improve our product value proposition. At the same time, we needed to study the science behind the challenges to scaling up our innovation. To do these, we focused on 3 major tasks: Light Lace manufacturing, optoelectronics and enclosure design, and signal processing. At the end of the award period, we were able to scale up manufacturing. This new method allowed us to manufacture much more durable sensors in less time. Further, we built a mechanical testing rig to track the signal drift of Light Lace. As the project progresses, we will use this set up to build our quality assurance metrics. To acquire data from the sensors, we built a custom printed circuit board that allowed us to power 6 Light Lace sensors, and send the data real time to a phone via Bluetooth Low Energy. Further, we built a custom enclosure that is fully removable - allowing the customers to swap boards between garments. Lastly, we explored different motion capture models in order to calibrate our sensors. As we refined our value proposition, we started focusing more on the importance of high speed data capture and how it relates to motion capture and human movement. We captured preliminary motion data to observe and calculate different metrics, such as elbow acceleration and even jerk and snap. At the end of the project period, we decided to move forward with a modular approach that includes "bands" that can be placed on different parts of the body to measure both muscle contraction and motion.     Before the Phase 1 award, we had initially explored the baseball pitching market through I-Corps. Through this SBIR, in addition to participation in I-Corps and Beat the Odds camp, we validated this assumption and gained further knowledge on the unfair advantages Light Lace&trade; has over competing technology. We identified that there is a critical and unmet need for convenient and high speed biometric measurements. During Phase 1, not only did we identify the technical gap of measuring motion at high speeds, we have proven that Light Lace&trade; is capable of filling the missing data. We have acquired data ~100 times faster than competing technology in the space of sports biometric monitoring. As a result, we have joint angle velocity and acceleration data that is not an average during a joint movement, but continuously estimated during a single motion. We truly believe that there is no better approach for accurate and high speed data capture for biomechanical analysis than our Light Lace&trade; approach. We now know that we are creating a new category of kinematic data for biomechanics: Jerk and Snap. We are able to do so as we are using photonic sensors without the normal sampling rate limitations of alternative approaches such as inertial motion units.     Due to the product-market fit we discovered and unfair advantage we are able to communicate to investors, we have raised &gt;$300k from Angel investors. We have also received interest from both Major League Baseball and college baseball teams, and will be piloting with them in the near future. Although the first impact of this technology will be in sports and more specifically baseball, the low cost, high signal to noise ratio fiberoptic sensors will open up new measurement possibilities. These sensors can be used in medical applications to monitor vitals, reduce injuries, improve physical therapy, in automotive industry to monitor child and pet presence as well as monitor driver fatigue, in AR/VR to improve military and medical training and more.              Last Modified: 05/15/2023       Submitted by: Ilayda Samilgil]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

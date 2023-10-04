@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  Advancing Health Equity using Interactive Condition Assessment and Monitoring]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact / commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to build a condition assessment and monitoring platform that leverages artificial intelligence (AI) for intelligent decision support to expedite diagnosis and facilitate personalized therapy solutions. Currently, patient history data is obtained verbally, and poor health communication between clinician and patient potentially causes 78% of misdiagnoses, resulting in 80,000 avoidable hospital deaths and $750 billion in costs to the US economy each year. Language barriers exacerbate this situation significantly, increasing the risk of severe and frequent adverse outcomes by 49%. Patients with cultural, language, and low health literacy are twice as affected. The proposed work has three major technical objectives: (1) develop an interactive visually-supported healthcare data capture user interface (UI) to overcome communication and language barriers, (2) develop an AI-based risk assessment engine to communicate symptoms to the provider for triage decisions, and (3) leverage predictive analytics to recommend appropriate treatment options and develop a visualization-based condition monitoring and management tool.  The proposed data collection and AI-powered provider decision support platform will empower patients and providers by enhancing communication, improving health outcomes, and reducing healthcare costs.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project is designed for accessibility across all levels of literacy and is language-agnostic. The platform’s digitally-native, cloud-based approach allows it to be scalable for widespread impact and faster impact. The frontend app captures important patient information and symptoms before the patient exam and summarizes the patient self-report in an easily readable format for the clinician. The clinician will potentially be more prepared, facilitating the delivery of personalized care and improved outcomes by avoiding misdiagnosis, errors, and complications earlier in a patient’s journey. The AI-based model pulls structured data, such as demographic information and symptoms from the patient self-report, and the dataset undergoes supervised learning using historical, real-world outcomes data. Multiple AI models will be evaluated, including classification and neural network models, and those with sufficiently accurate performance will be considered as inputs for ensemble learning, the final prediction output for this project. Example outputs include patient evaluators such as consistencies within the patient’s self-report, an estimated risk assessment score, and an approximate diagnosis accuracy score.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/06/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041991</AwardID>
+<Investigator>
+<FirstName>Aziza</FirstName>
+<LastName>Ismail</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Aziza Ismail</PI_FULL_NAME>
+<EmailAddress><![CDATA[aziza@literaseed.io]]></EmailAddress>
+<NSF_ID>000803214</NSF_ID>
+<StartDate>07/06/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>LITERASEED, INC.</Name>
+<CityName>PHOENIX</CityName>
+<ZipCode>850835836</ZipCode>
+<PhoneNumber>6233631486</PhoneNumber>
+<StreetAddress>27227 N 31ST DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CMMARFT4L8D9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LITERASEED, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[LITERASEED, LLC]]></Name>
+<CityName>Phoenix</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>850835836</ZipCode>
+<StreetAddress><![CDATA[27227 N 31st Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-ae09641e-7fff-f84f-623f-da61a66448f6"> <span id="docs-internal-guid-ca28d459-7fff-2ff5-a285-2a3403566b18"> </span></span></p> <p><span id="docs-internal-guid-09b032bb-7fff-08b7-ac52-a8105878a27d"> </span></p> <p dir="ltr"><span>Our overall goals in Phase I were two-fold:</span></p> <p style="padding-left: 30px;" dir="ltr">(1) Develop a health condition assessment and monitoring platform that effectively elicits self-reported symptoms from patients with limited health literacy and/or communication barriers and;</p> <p style="padding-left: 30px;" dir="ltr">(2) Architect and train a machine learning inference system to assess patient risk, which will be integrated to assist with symptom elicitation, physician support, and patient management.</p> <ol> </ol> <p dir="ltr"><span>Our team, comprising of Dr. Hoda Eldardiry, Director of the Machine Learning Laboratory at Virginia Tech, and LiteraSeed, a startup company developing solutions to mitigate adverse events and misdiagnoses in underserved patient populations, has:</span></p> <p style="padding-left: 30px;" dir="ltr">(1) Designed a successful UI/UX (user experience / user interface) that facilitates communication between patients and providers, as evidenced by clinical study data. Results show LiteraSeed performed equivalent to or better than the provider at symptom capture in 97.6% of patient cases (n = 41). Note: NSF funds were not used in the clinical study, but study results are necessary to assess outcomes. During the study, the LiteraSeed app:</p> <p style="padding-left: 60px;" dir="ltr">(a) Identified more symptoms in 43.9% of cases (18 out of 41 cases, averaging 3.3 more symptoms per patient).</p> <p style="padding-left: 60px;" dir="ltr">(b) Identified the same symptoms in 53.7% of cases (22 out of 41 cases).</p> <p style="padding-left: 60px;" dir="ltr">(c) When additional symptom information was captured:</p> <p style="padding-left: 90px;" dir="ltr">(I) 68.4% (n = 13) of the time it was immediately relevant to the care plan.</p> <p style="padding-left: 90px;" dir="ltr">(II) 21.0% (n = 4) of the time it would have led to an earlier diagnosis &amp; treatment.</p> <p style="padding-left: 90px;" dir="ltr">(III) 31.6% (n = 6) of the time the patient would have been referred to a Primary Care Provider (PCP).</p> <p style="padding-left: 90px;" dir="ltr">(IV) 5.2% (n = 1) of the time it would have prevented a future ED visit.</p> <p style="padding-left: 30px;" dir="ltr">(2) Demonstrated successful results in the development of an AI/ML model to assess multiple risk factors. A nationwide dataset of 7.1M in-patient electronic medical records (EMRs) was obtained and 8 different ML models with ensemble learning were trained and tested on 105,538 maternal and neonatal patient records. Models were developed to predict risk in either maternal or neonatal patients through review of medical coding (i.e. ICD-10-CM/PCS) in the patient record. Additionally, using the limited identifiers available, maternal and neonatal recorders were linked and the same risks to the neonate were evaluated using the maternal health record. Assessment included the risk of mortality, loss of function, major operation required, disposition of patient at discharge, length of stay, and total cost of hospitalization. Accuracies ranged from 70.8% to 99.9% and the risk of mortality could be determined with &gt;97.5% accuracy in both maternal and neonatal patients.</p> <p style="padding-left: 30px;" dir="ltr">(3) Solicited feedback from providers, which were asked to evaluate the reliability of LiteraSeed in making clinical decisions. Triage algorithms were applied to the symptom collection questionnaire during the clinical study while AI/ML model development occurred in parallel.</p> <p style="padding-left: 60px;" dir="ltr">(a) Provider feedback was solicited after each interaction with LiteraSeed and the majority of providers felt that they benefited from using LiteraSeed, with 56.8% (25 out of 44 cases) ranking the app a 4 out of 5 or higher.</p> <p style="padding-left: 60px;" dir="ltr">(b) Patients scored their clinic experience with LiteraSeed an NPS<sup>&#9415;</sup>&nbsp;rating of 86. The average NPS<sup>&#9415;</sup>&nbsp;rating in healthcare is 58.</p> <p style="padding-left: 60px;" dir="ltr">(c) Patients were overwhelmingly supportive of the app, which scored an average of 4.56 out of 5 (n = 43) in the post-visit survey. Additionally, 83.3% of patients (20 out of 24) gave an in-app rating of "Satisfied" (3 out of 3).</p> <p dir="ltr">Future work will focus on expansion of the LiteraSeed platform. This includes linking the patient's symptomatology to hospital codes (i.e. ICD-10-CM), allowing streamlined workflow integration with EMRs and leveraging the AI/ML-backend to recommend the escalation of care as determined by the patient's risk assessment. Additionally, we plan to enable longitudinal monitoring of non-acute health conditions, for example, pregnancy tools such as kick counting, glucose &amp; blood pressure monitoring, and depression &amp; anxiety inventories. Finally, we plan to bolster the existing triage algorithm with our AI/ML learnings, further develop our AI/ML backend, and perform EMR integration. Our team has created a software platform that dynamically interacts with each patient, enabling all patients to provide essential contextual information and timely symptom data for expedited, focused, and safer care.</p><br> <p>            Last Modified: 10/31/2022<br>      Modified by: Aziza&nbsp;Ismail</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[       Our overall goals in Phase I were two-fold: (1) Develop a health condition assessment and monitoring platform that effectively elicits self-reported symptoms from patients with limited health literacy and/or communication barriers and; (2) Architect and train a machine learning inference system to assess patient risk, which will be integrated to assist with symptom elicitation, physician support, and patient management.   Our team, comprising of Dr. Hoda Eldardiry, Director of the Machine Learning Laboratory at Virginia Tech, and LiteraSeed, a startup company developing solutions to mitigate adverse events and misdiagnoses in underserved patient populations, has: (1) Designed a successful UI/UX (user experience / user interface) that facilitates communication between patients and providers, as evidenced by clinical study data. Results show LiteraSeed performed equivalent to or better than the provider at symptom capture in 97.6% of patient cases (n = 41). Note: NSF funds were not used in the clinical study, but study results are necessary to assess outcomes. During the study, the LiteraSeed app: (a) Identified more symptoms in 43.9% of cases (18 out of 41 cases, averaging 3.3 more symptoms per patient). (b) Identified the same symptoms in 53.7% of cases (22 out of 41 cases). (c) When additional symptom information was captured: (I) 68.4% (n = 13) of the time it was immediately relevant to the care plan. (II) 21.0% (n = 4) of the time it would have led to an earlier diagnosis &amp; treatment. (III) 31.6% (n = 6) of the time the patient would have been referred to a Primary Care Provider (PCP). (IV) 5.2% (n = 1) of the time it would have prevented a future ED visit. (2) Demonstrated successful results in the development of an AI/ML model to assess multiple risk factors. A nationwide dataset of 7.1M in-patient electronic medical records (EMRs) was obtained and 8 different ML models with ensemble learning were trained and tested on 105,538 maternal and neonatal patient records. Models were developed to predict risk in either maternal or neonatal patients through review of medical coding (i.e. ICD-10-CM/PCS) in the patient record. Additionally, using the limited identifiers available, maternal and neonatal recorders were linked and the same risks to the neonate were evaluated using the maternal health record. Assessment included the risk of mortality, loss of function, major operation required, disposition of patient at discharge, length of stay, and total cost of hospitalization. Accuracies ranged from 70.8% to 99.9% and the risk of mortality could be determined with &gt;97.5% accuracy in both maternal and neonatal patients. (3) Solicited feedback from providers, which were asked to evaluate the reliability of LiteraSeed in making clinical decisions. Triage algorithms were applied to the symptom collection questionnaire during the clinical study while AI/ML model development occurred in parallel. (a) Provider feedback was solicited after each interaction with LiteraSeed and the majority of providers felt that they benefited from using LiteraSeed, with 56.8% (25 out of 44 cases) ranking the app a 4 out of 5 or higher. (b) Patients scored their clinic experience with LiteraSeed an NPS&#9415; rating of 86. The average NPS&#9415; rating in healthcare is 58. (c) Patients were overwhelmingly supportive of the app, which scored an average of 4.56 out of 5 (n = 43) in the post-visit survey. Additionally, 83.3% of patients (20 out of 24) gave an in-app rating of "Satisfied" (3 out of 3). Future work will focus on expansion of the LiteraSeed platform. This includes linking the patient's symptomatology to hospital codes (i.e. ICD-10-CM), allowing streamlined workflow integration with EMRs and leveraging the AI/ML-backend to recommend the escalation of care as determined by the patient's risk assessment. Additionally, we plan to enable longitudinal monitoring of non-acute health conditions, for example, pregnancy tools such as kick counting, glucose &amp; blood pressure monitoring, and depression &amp; anxiety inventories. Finally, we plan to bolster the existing triage algorithm with our AI/ML learnings, further develop our AI/ML backend, and perform EMR integration. Our team has created a software platform that dynamically interacts with each patient, enabling all patients to provide essential contextual information and timely symptom data for expedited, focused, and safer care.       Last Modified: 10/31/2022       Submitted by: Aziza Ismail]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CSR:Small: Rethinking Filesystem Encryption and Auditing in the Era of Byte-Addressable Non-Volatile Memories]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/03/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>286105.00</AwardTotalIntnAmount>
+<AwardAmount>286105</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexander Jones</SignBlockName>
+<PO_EMAI>alejones@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Emerging Non-Volatile Memories (NVMs) promise convergence of memory and storage into a single system that is both fast and persistent. Existing security functions for storage systems were designed for slower storage devices, which create a performance bottleneck for faster NVMs.  This research will investigate high performance security solutions for NVM based storage systems. &lt;br/&gt; &lt;br/&gt;The first research thrust will focus on encrypting data for emerging NVMs. The second thrust investigates implementation of auditing mechanisms for NVM based storage systems.&lt;br/&gt; &lt;br/&gt;The proposed project will train graduate and undergraduate students on architecting secure systems. The results from this research will inform several undergraduate and graduate courses. Students from underrepresented groups will be encouraged to participate in this project. The results will be published in reputed conferences and journals. &lt;br/&gt;&lt;br/&gt;The project data and results will be published and maintained in both private and public repositories. The project will use Github site: https://github.com/sacagroup/sacagroup.github.io. All project data, codes and results will be maintained for at least 5 years after the end of the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2049968</AwardID>
+<Investigator>
+<FirstName>Amro</FirstName>
+<LastName>Awad</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amro J Awad</PI_FULL_NAME>
+<EmailAddress><![CDATA[ajawad@ncsu.edu]]></EmailAddress>
+<NSF_ID>000754725</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>27607</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>2601 WOLF VILLAGE WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U3NVH931QJJ3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTH CAROLINA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>N8DMK1K4C2K5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[North Carolina State University]]></Name>
+<CityName>Raleigh</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>276957103</ZipCode>
+<StreetAddress><![CDATA[2701 Sullivan DR STE 240]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~286105</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong><span><br /><strong>Intellectual Merits:</strong></span></strong><span>&nbsp;</span></p> <p><span>The project identified challenges for enabling certain features of emerging persistent memories while supporting filesystem encryption and auditing. Accordingly, novel mechanisms to bridge such a gap were devised and evaluated. The techniques include hardware/software co-designs to address the identified challenges, and performance optimizations to make such solutions more practical. Additionally, the project explored challenges to realize such solutions and general persistent security in upcoming memory interfaces and platform support. The project resulted major publications in top-tier conferences and journals in the field of computer architecture disseminating the proposed designs and identified challenges.&nbsp;</span></p> <p><span>&nbsp;</span></p> <p><strong><span>Broader Impact:</span></strong><span>&nbsp;</span></p> <p><span>The outcomes of this project were disseminated widely in academic conferences/journals, YouTube presentations, talks at major semiconductor companies and other academic institutions, and the results of this project were incorporated in a teaching material part of special topics courses offered at the PI's institution. Finally, the project trained students on cutting edge technologies, how to model it, security challenges arise upon using such technologies, and how to do pathfinding research to identify mitigations and solutions.&nbsp;&nbsp;</span></p> <p>&nbsp;</p> <p><strong>Summary:</strong></p> <p>In summary, the project led to innovations of how we can enable efficient usage of persistent memories in computing systems while preserving the conventional security required for filesystems. Although high-overheads were initially observed, our investigation revealed that an efficient hardware/software co-design can lead to practical and low-overhead solutions when architected to exploit metadata locality and leverage certain secure memory optimizations.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/16/2023<br>      Modified by: Amro&nbsp;J&nbsp;Awad</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Intellectual Merits:   The project identified challenges for enabling certain features of emerging persistent memories while supporting filesystem encryption and auditing. Accordingly, novel mechanisms to bridge such a gap were devised and evaluated. The techniques include hardware/software co-designs to address the identified challenges, and performance optimizations to make such solutions more practical. Additionally, the project explored challenges to realize such solutions and general persistent security in upcoming memory interfaces and platform support. The project resulted major publications in top-tier conferences and journals in the field of computer architecture disseminating the proposed designs and identified challenges.      Broader Impact:   The outcomes of this project were disseminated widely in academic conferences/journals, YouTube presentations, talks at major semiconductor companies and other academic institutions, and the results of this project were incorporated in a teaching material part of special topics courses offered at the PI's institution. Finally, the project trained students on cutting edge technologies, how to model it, security challenges arise upon using such technologies, and how to do pathfinding research to identify mitigations and solutions.       Summary:  In summary, the project led to innovations of how we can enable efficient usage of persistent memories in computing systems while preserving the conventional security required for filesystems. Although high-overheads were initially observed, our investigation revealed that an efficient hardware/software co-design can lead to practical and low-overhead solutions when architected to exploit metadata locality and leverage certain secure memory optimizations.          Last Modified: 08/16/2023       Submitted by: Amro J Awad]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

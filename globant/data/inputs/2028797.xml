@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Security for Pervasive Edge Computing Ecosystems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>56638.00</AwardTotalIntnAmount>
+<AwardAmount>56638</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Darleen Fisher</SignBlockName>
+<PO_EMAI>dlfisher@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Diverse, novel applications, such as autonomous driving, Industrial Internet of Things (IIoT), Augmented and Virtual Reality (AR/VR), tele-medicine, and distributed machine learning are driving the rapid growth in research and development in edge computing deployed in the last mile of the network where dynamic and resource constrained wireless communications dominate. These applications require computation to happen close to the data source and be coordinated across nearby devices, base stations, or access points as well as with data services such as stored media download at the edge. They may also require computation offloading to a data center located near the edge or somewhere on the Internet for processes such as image annotation and machine learning. Furthermore, these applications rely on ultra-low latency communications, reliable computations, and security and privacy at the network edge. This project aims to investigate the vision of a secure Pervasive Edge Computing (PEC) environment where the abundant edge computing resources (e.g. city infrastructure, individuals’ devices, and future wireless devices), can be easily and securely marshaled, in a trusted manner, to make the participation of any device in edge computing feasible. The particular research problem addressed in this project is access control and authorization of devices and services at the edge—essential for the broad adoption of PEC to meet the needs of future applications in healthcare, transportation, smart cities, and the smart grid.   &lt;br/&gt;&lt;br/&gt;This project focuses on investigating the access control and authorization mechanisms in an information-centric PEC network. The researchers will investigate mechanisms for delegating access control-as-a-service (ACaaS) to the network edge; efficient revocation of access credentials to data and services in a dynamic manner; and secure accounting of the access control operations to verify access control claims of the service and also to assess users’ usage.  They will contrast their designs with competing designs in the IP network to provide comprehensive comparative assessments of the efficacy of proposed approaches. The results from this project will help increase the security, adoptability, and trust in edge computing and speed up its adoption by enabling more of the edge devices to become part of edge computing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028797</AwardID>
+<Investigator>
+<FirstName>Satyajayant</FirstName>
+<LastName>Misra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Satyajayant Misra</PI_FULL_NAME>
+<EmailAddress><![CDATA[misra@cs.nmsu.edu]]></EmailAddress>
+<NSF_ID>000539819</NSF_ID>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Mexico State University</Name>
+<CityName>LAS CRUCES</CityName>
+<ZipCode>880038001</ZipCode>
+<PhoneNumber>5756461590</PhoneNumber>
+<StreetAddress>1050 STEWART ST STE E1200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J3M5GZAT8N85</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW MEXICO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ED67D3S7GM79</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Mexico State University]]></Name>
+<CityName>Las Cruces</CityName>
+<StateCode>NM</StateCode>
+<ZipCode>880038002</ZipCode>
+<StreetAddress><![CDATA[PO Box 30001]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~56638</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="page" title="Page 1"> <div class="layoutArea"> <div class="column"> <p><span>The needs of emerging applications, such as augmented and virtual reality, autonomous driving, and privacy-preserving decision making, have motivated a new paradigm of computing, edge computing--the push of computation at the network edge (e.g., user end-devices, network edge infrastructure). Various edge computing architectures have emerged, including multi-access edge computing, fog computing, and cloudlets, all with the premise of reducing communication latency and augmenting privacy. However, these architectures rely on relatively static and pre-deployed infrastructure, falling short in harnessing the abundant dynamic, mobile, and third-party resources at the network's edge. A new approach, namely pervasive edge computing, has been proposed to enable access and use of all compute resources at the edge.&nbsp;</span></p> <p><span style="text-decoration: underline;"><span>Intellectual Merit:</span></span><span>&nbsp;In this project, our focus was on investigating the access control and authorization challenges in pervasive edge computing ecosystems. We proposed mechanisms for securely delegating access control as a service to the network edge. We also proposed efficient revocation mechanisms to revoke access credentials to data and services in a dynamic manner to handle devices joining and leaving the network. We also proposed mechanisms for secure accounting of access control operations for verifying access claims of access control management services and assessing users&rsquo; usage. We also contrasted our designs with state-of-the-art designs to validate our designs.&nbsp;</span></p> <p><span style="text-decoration: underline;"><span>Broader Impacts:&nbsp;</span></span><span>The broader impact of the project included enabling of access control and authorization for the growing edge computing area&mdash;an area that will drive future innovation and commercialization in networking and cybersecurity. Our proposed access control frameworks on use will also enable pervasive usability of end users&rsquo; devices for edge computing, in a sense, democratizing edge computing. Further, the results have been disseminated as high-quality peer-reviewed publications and patents.&nbsp;</span></p> <p><span>The project empowered the PI to recruit and train minority students who have joined the workforce as part of an institutional (New Mexico State University, a Hispanic Serving Institution)&nbsp;effort to create a diverse future workforce.&nbsp;</span></p> <p>&nbsp;</p> <p>&nbsp;</p> </div> </div> </div><br> <p>            Last Modified: 12/16/2022<br>      Modified by: Satyajayant&nbsp;Misra</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[    The needs of emerging applications, such as augmented and virtual reality, autonomous driving, and privacy-preserving decision making, have motivated a new paradigm of computing, edge computing--the push of computation at the network edge (e.g., user end-devices, network edge infrastructure). Various edge computing architectures have emerged, including multi-access edge computing, fog computing, and cloudlets, all with the premise of reducing communication latency and augmenting privacy. However, these architectures rely on relatively static and pre-deployed infrastructure, falling short in harnessing the abundant dynamic, mobile, and third-party resources at the network's edge. A new approach, namely pervasive edge computing, has been proposed to enable access and use of all compute resources at the edge.   Intellectual Merit: In this project, our focus was on investigating the access control and authorization challenges in pervasive edge computing ecosystems. We proposed mechanisms for securely delegating access control as a service to the network edge. We also proposed efficient revocation mechanisms to revoke access credentials to data and services in a dynamic manner to handle devices joining and leaving the network. We also proposed mechanisms for secure accounting of access control operations for verifying access claims of access control management services and assessing users’ usage. We also contrasted our designs with state-of-the-art designs to validate our designs.   Broader Impacts: The broader impact of the project included enabling of access control and authorization for the growing edge computing area&mdash;an area that will drive future innovation and commercialization in networking and cybersecurity. Our proposed access control frameworks on use will also enable pervasive usability of end users’ devices for edge computing, in a sense, democratizing edge computing. Further, the results have been disseminated as high-quality peer-reviewed publications and patents.   The project empowered the PI to recruit and train minority students who have joined the workforce as part of an institutional (New Mexico State University, a Hispanic Serving Institution) effort to create a diverse future workforce.                 Last Modified: 12/16/2022       Submitted by: Satyajayant Misra]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

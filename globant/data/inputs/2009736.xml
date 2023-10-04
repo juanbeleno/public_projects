@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collisional Kinetic Transport: Analysis and Numerical Methods]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>345000.00</AwardTotalIntnAmount>
+<AwardAmount>345000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The overall objective of this research is to develop accurate analytical modeling and simulation for a series of diverse phenomena of fundamental scientific interest, at the edge of various technological developments such as plasma evolution in fusion models, modeling of very cold gases in the intermediate transition to form Bose-Einstein condensation,  hot-electron transport in semiconductor devices, nanostructures for solar generation of hydrogen, and reacting and polyatomic molecular mixtures associated with aerospace dynamics such as those in re-entry problems. Modeling and simulation will be based on data obtained by accurate crystallographic calculations, considering atomistic corrections, and the presence of rough media. Some of the techniques that will be developed are also pertinent to exciting new applications to non-linear dynamics modeling in bio-social sciences, such as modeling of self-organized flows where "particle" swarms, like birds or fish, couple to fluid dynamics, emerging consensus in population dynamics, multi-agent information transfer and social information dynamics in Internet, to name a few. Most significantly, this project provides research training opportunities for graduate students that prepare them to a job market that ranges from academia, to national labs, and industry.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;These research goals comprise a broad program in the development of analytical and numerical tools associated with statistical transport equations and systems at the core of applied mathematics in probability, statistics applied to chemistry, physics as well as to biological and  social dynamics as well. They concern the modeling of complex interactions systems yielding kinetic frameworks associated to Markovian processes of birth-death dynamics. Such statistical approaches lead to nonlinear integro-differential systems of equations of collisional classical or quantum Boltzmann or Smolukowski type. Computational schemes will be fully designed and analyzed to secure consistency, stability, error estimates control, and convergence rates to equilibrium. Many of these models appear in the collisional theory of semi-classical transport for short- and long-range particle interactions models that describe self-consistent phenomena at nano and meso-scales.  New tools from non-linear analysis as well as new computational strategies will be developed to address long-time behavior, stability, and decay rates to stationary modes, as well as qualitative behavior of numerical solutions and optimal computational strategies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2009736</AwardID>
+<Investigator>
+<FirstName>Irene</FirstName>
+<LastName>Gamba</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Irene M Gamba</PI_FULL_NAME>
+<EmailAddress><![CDATA[gamba@math.utexas.edu]]></EmailAddress>
+<NSF_ID>000381736</NSF_ID>
+<StartDate>05/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>AUSTIN</CityName>
+<ZipCode>787121139</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>110 INNER CAMPUS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX25</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>V6AFQPN18437</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT AUSTIN</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas at Austin]]></Name>
+<CityName>Austin</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>787121229</ZipCode>
+<StreetAddress><![CDATA[201 East 24th Street, POB 4.102]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>25</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX25</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~345000</FUND_OBLG>
+</Award>
+</rootTag>

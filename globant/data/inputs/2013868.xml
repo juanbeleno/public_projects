@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Thrivee vMAT-AI: AI Driven Platform to Drive Success in Opioid Addiction Programs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224394.00</AwardTotalIntnAmount>
+<AwardAmount>224394</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will address the current opioid crisis impacting healthcare, social welfare, and the US economy.  Currently over 2 million Americans suffer from an opioid use disorder (OUD), but less than 10 percent receive effective treatment. Over 47,000 Americans died in 2017 from prescription opioids, heroin, and illegally produced fentanyl, and the estimated burden of prescription opioid misuse is $78.5 billion per year. Significant logistics and patient burden associated with traditional medication-assisted treatment create barriers that negatively impact outcomes and accessibility. A major challenge in recovery programs is the workload of providers and therapists and a lack of automated tools to monitor and improve patient engagement.  This proposal will develop software leveraging artificial intelligence (AI) and predictive analytics to greatly improve success rates in opioid addition programs to expand high quality, efficient treatment. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project targets three objectives. The technical challenge is to develop and validate targeted artificial intelligence (AI) tools using data already captured in patient workflow for early prediction of patient issues that may lead to program dropout. The platform will be integrated with tools allowing low burden, complex data collection across multiple domains and intervention points. For example, metrics will store patient engagement, track compliance with prescribed events, and linguistics/emotional state analytics during therapy sessions. A prototype will be deployed in a field data collection study to determine usability and a provide a rich set of data for algorithm development. Collected data will then be used to train and test AI algorithms for early detection of patient dropout. We will measure several quantities as potential data sets for training and testing algorithms.  We will evaluate several models including linear regression for variable selection, as well as clustering, deep learning networks, and recurrent neural network survival models for prediction. The objective is to identify potential dropouts in advance, with high sensitivity and specificity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013868</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Bemis</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Matthew H Bemis</PI_FULL_NAME>
+<EmailAddress><![CDATA[matt@thrivee.com]]></EmailAddress>
+<NSF_ID>000801965</NSF_ID>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>THRIVEE, INC.</Name>
+<CityName>COHOES</CityName>
+<ZipCode>120472981</ZipCode>
+<PhoneNumber>5182796105</PhoneNumber>
+<StreetAddress>88 REMSEN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[THRIVEE, INC.]]></Name>
+<CityName>Cohoes</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>120472981</ZipCode>
+<StreetAddress><![CDATA[88 Remsen St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~224394</FUND_OBLG>
+</Award>
+</rootTag>

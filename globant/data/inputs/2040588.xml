@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Convergence Accelerator Track D: A Trusted Integrative Model and Data Sharing Platform for Accelerating AI-Driven Health Innovation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>966067.00</AwardTotalIntnAmount>
+<AwardAmount>966067</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mike Pozmantier</SignBlockName>
+<PO_EMAI>mpozmant@nsf.gov</PO_EMAI>
+<PO_PHON>7032924475</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future. &lt;br/&gt;&lt;br/&gt;This project, NSF Convergence Accelerator Track D: A Trusted Integrative Model and Data Sharing Platform for Accelerating AI-Driven Health Innovation, will develop a novel health-related federated learning and model-sharing platform, LEARNER, to enable collaborative big data mining for biomedical applications by integrating cross-disciplinary expertise from machine learning, trustworthy AI, and biomedical data science. LEARNER will incorporate novel asynchronous federated learning algorithms based on rigorous theoretical foundations using trustworthy AI techniques, fairness-aware and interpretable machine learning models, large-scale computational strategies and effective software tools to reveal the complex relationships among heterogeneous health data. The project will address critical challenges in exploiting big data for biomedical and health, which include access to large data collections, computational intensity of AI/ML algorithms, complexity of hyperparameter tuning, and the need for effective multidisciplinary expertise and collaboration. Data privacy is another critical concern since health data is intrinsically sensitive and could be exploited to reveal an individual’s identity even when the data are carefully anonymized. LEARNER will include a suite of collaborative data analysis and privacy-preserving mechanisms and tools that will securely support various types of health data analytics, including mechanisms to detect potential data privacy leakages. Machine learning models typically involve complex procedures for optimization and the induced results can be difficult to interpret, and to replicate and reproduce. Novel methods will be employed to improve the interpretability and reproducibility of complex health data analytics models.&lt;br/&gt;&lt;br/&gt;The project team, with individuals from academia and  industry, will develop an interdisciplinary program for training and education of graduate and undergraduate students. A cross-disciplinary course will also be developed on Health Data Science for beginning graduate students and senior undergraduate students from a variety of programs, including Computer Science and Engineering, Informatics, Electrical Engineering, Biomedical Engineering, Biology, and Statistics. The project will put special emphasis on attracting female and under-represented minority students to explore advanced computational technologies in the context of the LEARNER platform. Interested senior undergraduate students will be able to work on well-defined and well-scoped small projects, which will enable them to work with graduate students and the PI team of the project. Such project could also be undertaken as summer projects by undergraduate students in science and engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040588</AwardID>
+<Investigator>
+<FirstName>C. David</FirstName>
+<LastName>Page</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>C. David Page</PI_FULL_NAME>
+<EmailAddress><![CDATA[david.page@duke.edu]]></EmailAddress>
+<NSF_ID>000256054</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Heng</FirstName>
+<LastName>Huang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Heng Huang</PI_FULL_NAME>
+<EmailAddress><![CDATA[heng.huang@pitt.edu]]></EmailAddress>
+<NSF_ID>000086248</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lawrence</FirstName>
+<LastName>Carin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lawrence Carin</PI_FULL_NAME>
+<EmailAddress><![CDATA[lcarin@ee.duke.edu]]></EmailAddress>
+<NSF_ID>000522425</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hai</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hai Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[hai.li@duke.edu]]></EmailAddress>
+<NSF_ID>000538107</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Chen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wei Chen</PI_FULL_NAME>
+<EmailAddress><![CDATA[wec47@pitt.edu]]></EmailAddress>
+<NSF_ID>000732343</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>Durham</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277054010</ZipCode>
+<StreetAddress><![CDATA[2200 W. Main St, Suite 710]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~966067</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp; &nbsp; &nbsp; The major goal of this proposal is to develop the new heaLth modEl shARiNg and lEaRning (LEARNER) platform and thus enable the collaborative big health data mining, designing new efficient federated learning algorithms with rigorous theoretical foundations, trustworthy AI techniques, fairness-aware and interpretable ML models, largescale computational strategies and practical software tools to reveal sophisticate relationships among heterogeneous health data and realize the full potential of the big health data. The project integrates the cross-disciplinary expertise of machine learning (ML), trustworthy AI, and biomedical data science from four teams, Duke University (Duke), University of Pittsburgh (Pitt), Duke University School of Medicine (DUSM), University of Pittsburgh Medical Center (UPMC).</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We have successfully designed and implemented a prototype of the LEARNER platform. Our prototype validates the effectiveness of our privacy-preserving data and model sharing algorithm among four sites (e.g., Duke@ECE, Duke@DUSM, Pitt@ECE, Pitt@UPMC). Our results show that our algorithm can be guaranteed to converge and obtains the (sub)-optimal shared model on benchmarking image datasets (e.g., brain images, single-cell data, and benchmark natural image datasets, such as CIFAR10, and MNIST). The current prototype server is hosted at Duke with firewall constrain, thus the pilot users need connect to the current platform via VPN. We plan to move the entire LEARNER platform to Amazon AWS at the beginning of Phase II and make it available to the public.</p> <p>&nbsp;&nbsp;&nbsp;&nbsp; The proposed project makes great efforts to make the students be aware of the challenges in the future intelligent computing systems. The developed research outcomes have been seamlessly integrated into the course in ECE 3195 - Advanced Machine Learning and Deep Learning at Pitt and ECE661 ? Computer Engineering ML &amp; Deep Neural Nets at Duke. Tutorial talks have been given in other courses for senior undergraduate students and graduate students.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/09/2022<br>      Modified by: Hai&nbsp;Li</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2040588/2040588_10706294_1665246785786_Picture1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2040588/2040588_10706294_1665246785786_Picture1--rgov-800width.jpg" title="Learner"><img src="/por/images/Reports/POR/2022/2040588/2040588_10706294_1665246785786_Picture1--rgov-66x44.jpg" alt="Learner"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A Cloud based LEARNER platform to enable Health Model & data Sharing</div> <div class="imageCredit">Duke</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Hai&nbsp;Li</div> <div class="imageTitle">Learner</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[       The major goal of this proposal is to develop the new heaLth modEl shARiNg and lEaRning (LEARNER) platform and thus enable the collaborative big health data mining, designing new efficient federated learning algorithms with rigorous theoretical foundations, trustworthy AI techniques, fairness-aware and interpretable ML models, largescale computational strategies and practical software tools to reveal sophisticate relationships among heterogeneous health data and realize the full potential of the big health data. The project integrates the cross-disciplinary expertise of machine learning (ML), trustworthy AI, and biomedical data science from four teams, Duke University (Duke), University of Pittsburgh (Pitt), Duke University School of Medicine (DUSM), University of Pittsburgh Medical Center (UPMC).        We have successfully designed and implemented a prototype of the LEARNER platform. Our prototype validates the effectiveness of our privacy-preserving data and model sharing algorithm among four sites (e.g., Duke@ECE, Duke@DUSM, Pitt@ECE, Pitt@UPMC). Our results show that our algorithm can be guaranteed to converge and obtains the (sub)-optimal shared model on benchmarking image datasets (e.g., brain images, single-cell data, and benchmark natural image datasets, such as CIFAR10, and MNIST). The current prototype server is hosted at Duke with firewall constrain, thus the pilot users need connect to the current platform via VPN. We plan to move the entire LEARNER platform to Amazon AWS at the beginning of Phase II and make it available to the public.       The proposed project makes great efforts to make the students be aware of the challenges in the future intelligent computing systems. The developed research outcomes have been seamlessly integrated into the course in ECE 3195 - Advanced Machine Learning and Deep Learning at Pitt and ECE661 ? Computer Engineering ML &amp; Deep Neural Nets at Duke. Tutorial talks have been given in other courses for senior undergraduate students and graduate students.           Last Modified: 10/09/2022       Submitted by: Hai Li]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Joint Epidemiological and Macroeconomic Outcomes from Non-Pharmaceutical Interventions in Response to the COVID-19 Pandemic]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>196620.00</AwardTotalIntnAmount>
+<AwardAmount>196620</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kwabena Gyimah-Brempong</SignBlockName>
+<PO_EMAI>kgyimahb@nsf.gov</PO_EMAI>
+<PO_PHON>7032927466</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Abstract&lt;br/&gt;&lt;br/&gt;The initial shutdown of the US economy in March 2020 resulted in a peak and a slow decline in the death rate from COVID-19, but at a tremendous cost to the economy, with the April 2020 seeing the highest rate of unemployment since the Great Depression. Urgent questions now concern how to reopen the economy in a way that gets workers back to work while controlling the spread of the disease. While intuition might suggest general directions, ultimately a quantitative understanding of the effects of proposed reopening plans is needed to guide a safe and durable reopening. This project will provide a granular, integrated modeling system capable of providing internally consistent joint paths for epidemiological and economic outcomes. Doing so entails merging epidemiological models and sectoral economic models at a sufficient level of detail to provide quantitative assessments of detailed non-pharmaceutical interventions (NPIs), such as sectoral-level reopening strategies, testing and quarantine, school closings, and the use of masks and gloves at the workplace, which has immediate substantial broader impacts for the economy and the society. &lt;br/&gt;&lt;br/&gt;At a technical level, the research will merge an age-based epidemiological SEIRD (Susceptible, Exposed, Infectious, Recovered and Dead) model with a nonlinear input-output model of the US economy. Closure and reopening paths are specified at a granular sector level, where sectors are characterized by different age distributions of workers and different degrees of proximity and contacts at the workplace. NPIs affect infections, quarantine, and deaths, which, along with direct labor supply and other shocks from the NPIs, feed into the economic model. The age structure of the SEIRD model allows examination of detailed age-specific and activity-specific NPIs. The research will extend the existing nonlinear input-output structure to labor market frictions and to endogenous shifts in labor supply and consumption demand in response to the epidemic. The result will be a quantitative framework for assessing the joint path of the epidemic and the economy at a level of granularity currently not available.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032493</AwardID>
+<Investigator>
+<FirstName>Emmanuel</FirstName>
+<LastName>Farhi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Emmanuel Farhi</PI_FULL_NAME>
+<EmailAddress><![CDATA[efarhi@harvard.edu]]></EmailAddress>
+<NSF_ID>000078242</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Stock</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James Stock</PI_FULL_NAME>
+<EmailAddress><![CDATA[james_stock@harvard.edu]]></EmailAddress>
+<NSF_ID>000690229</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021385369</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE 5TH FL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LN53LCFJFL45</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>ML98SNHE8XL1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021383001</ZipCode>
+<StreetAddress><![CDATA[1805 Cambridge Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~196620</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project examined the links between the evolution of the macroeconomy and the spread and waves of the COVID-19 pandemic during 2020 and 2021. The examination was through the lens of a granular model that linked 66 sectors of economic activity and public health concerns, with five age grouips to address age-depending infection-fatality rates. The epidemiological-economic connection has two key channels: the more economic activity that occurs &ndash; and thus the more interpersonal contact &ndash; the greater the spread of the virus; and the more prevalent the virus, the less economic activity as individuals self-protect. This self-protection channel is very important in practice and is largely absent in standard epidemiological models.</p> <p>By modeling these linkages, it is possible to consider specific nonpharmaceutical interventions, including masking, special protections of the elderly, school closings, and sector-targeted shutdowns of the economy, and evaluate their combined economic and public health costs and benefits. The modeling also allowed the analysis of rapid screening tests with imperfect sensitivity and specificity, and thus allowed a complete macroeconomic cost-benefit analysis of screening tests that went beyond the public health benefits and addressed the economic benefits and costs. Finally, this work could evaluate how the relation between the pandemic and the economy evolved over time, findings that were corroborated using more traditional time series methods for modeling a large number of macroeconomic time series.</p> <p>In particular, this research led to have four main findings:</p> <p>(1)&nbsp;&nbsp;&nbsp; We estimated, early in the pandemic (May 2020), that widespread adoption of certain nonpharmaceutical interventions, such as masking and targeted reopenings focused on lowest-risk activities, had the potential to save hundreds of thousands of lives over the course of the pandemic in the US. In contrast, widespread shutdowns and school shutdowns had large economic costs to deliver public health benefits that could be achieved at lower costs and more sustainably.</p> <p>(2)&nbsp;&nbsp;&nbsp; We estimated, also early in the pandemic (October 2020), that a public sector multibillion dollar large-scale screening testing program would far more than pay for itself in economic terms because of the increase in economic activity that would result from the decrease in transmission through early and widespread detection. These screening testing programs did not need costly contact tracing and also could be effective even with partial adherence to isolation guidelines.</p> <p>(3)&nbsp;&nbsp;&nbsp; We quantified the time-varying macroeconomic response to COVID prevalence and COVID risk as the pandemic progressed. Over each subsequent wave, the macroeconomic impact of the virus and deaths waned. These findings are consistent with increased NPI adoptions (masking, etc.), so that all economic activity became less risky, combined with changing psychological response over the pre-vaccination phase of the pandemic (pandemic fatigue).</p> <p>(4)&nbsp;&nbsp;&nbsp; We showed that the wide range of anomalous macroeconomic comovements over the pandemic could be explained, in a statistical sense, by a single pandemic factor, which gradually phased out. The implication of this finding going forward is that macro dynamics are likely to return to the pre-pandemic normal, for example the current response of the economy to non-pandemic shocks (such as demand shocks, supply shocks that affect the rate of inflation, and monetary shocks and anti-inflation monetary policy) is likely to track historical patterns even though many of those shocks stem from pandemic-related fiscal activity and supply chain shocks.<em><strong> </strong></em></p><br> <p>            Last Modified: 06/30/2022<br>      Modified by: James&nbsp;Stock</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project examined the links between the evolution of the macroeconomy and the spread and waves of the COVID-19 pandemic during 2020 and 2021. The examination was through the lens of a granular model that linked 66 sectors of economic activity and public health concerns, with five age grouips to address age-depending infection-fatality rates. The epidemiological-economic connection has two key channels: the more economic activity that occurs &ndash; and thus the more interpersonal contact &ndash; the greater the spread of the virus; and the more prevalent the virus, the less economic activity as individuals self-protect. This self-protection channel is very important in practice and is largely absent in standard epidemiological models.  By modeling these linkages, it is possible to consider specific nonpharmaceutical interventions, including masking, special protections of the elderly, school closings, and sector-targeted shutdowns of the economy, and evaluate their combined economic and public health costs and benefits. The modeling also allowed the analysis of rapid screening tests with imperfect sensitivity and specificity, and thus allowed a complete macroeconomic cost-benefit analysis of screening tests that went beyond the public health benefits and addressed the economic benefits and costs. Finally, this work could evaluate how the relation between the pandemic and the economy evolved over time, findings that were corroborated using more traditional time series methods for modeling a large number of macroeconomic time series.  In particular, this research led to have four main findings:  (1)    We estimated, early in the pandemic (May 2020), that widespread adoption of certain nonpharmaceutical interventions, such as masking and targeted reopenings focused on lowest-risk activities, had the potential to save hundreds of thousands of lives over the course of the pandemic in the US. In contrast, widespread shutdowns and school shutdowns had large economic costs to deliver public health benefits that could be achieved at lower costs and more sustainably.  (2)    We estimated, also early in the pandemic (October 2020), that a public sector multibillion dollar large-scale screening testing program would far more than pay for itself in economic terms because of the increase in economic activity that would result from the decrease in transmission through early and widespread detection. These screening testing programs did not need costly contact tracing and also could be effective even with partial adherence to isolation guidelines.  (3)    We quantified the time-varying macroeconomic response to COVID prevalence and COVID risk as the pandemic progressed. Over each subsequent wave, the macroeconomic impact of the virus and deaths waned. These findings are consistent with increased NPI adoptions (masking, etc.), so that all economic activity became less risky, combined with changing psychological response over the pre-vaccination phase of the pandemic (pandemic fatigue).  (4)    We showed that the wide range of anomalous macroeconomic comovements over the pandemic could be explained, in a statistical sense, by a single pandemic factor, which gradually phased out. The implication of this finding going forward is that macro dynamics are likely to return to the pre-pandemic normal, for example the current response of the economy to non-pandemic shocks (such as demand shocks, supply shocks that affect the rate of inflation, and monetary shocks and anti-inflation monetary policy) is likely to track historical patterns even though many of those shocks stem from pandemic-related fiscal activity and supply chain shocks.        Last Modified: 06/30/2022       Submitted by: James Stock]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

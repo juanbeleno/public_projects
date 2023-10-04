@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[TWC: Large: Collaborative: Computing Over Distributed Sensitive Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>95700.00</AwardTotalIntnAmount>
+<AwardAmount>95700</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+<PO_EMAI>pregalia@nsf.gov</PO_EMAI>
+<PO_PHON>7032922981</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Information about individuals is collected by a variety of organizations including government agencies, banks, hospitals, research institutions, and private companies. In many cases, sharing this data among organizations can bring benefits in social, scientific, business, and security domains, as the collected information is of similar nature, of about similar populations. However, much of this collected data is sensitive as it contains personal information, or information that could damage an organization's reputation or competitiveness. Sharing of data is hence often curbed for ethical, legal, or business reasons. &lt;br/&gt;&lt;br/&gt;This project develops a collection of tools that will enable the benefits of data sharing without having the data owners share the data. The techniques developed respect principles of data ownership and privacy requirement, and draw on recent scientific developments in privacy, cryptography, machine learning, computational statistics, program verification, and system security. The tools developed in this project will contribute to the existing research and business infrastructure, and hence enable new ways to create value in information whose use would have been otherwise restricted. The project supports the development of new curricula material and train a new generation of researchers and citizens with the multidisciplinary perspectives required to address the complex issues surrounding data privacy.]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040215</AwardID>
+<Investigator>
+<FirstName>Marco</FirstName>
+<LastName>Gaboardi</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marco G Gaboardi</PI_FULL_NAME>
+<EmailAddress><![CDATA[gaboardi@bu.edu]]></EmailAddress>
+<NSF_ID>000702904</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151703</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>1 SILBER WAY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>THL6A6JLE1S7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF BOSTON UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Trustees of Boston University]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022151300</ZipCode>
+<StreetAddress><![CDATA[881 Commonwealth Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7925</Code>
+<Text>LARGE PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~95700</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p dir="ltr"><span>This project sought to enable the many benefits of data sharing between organizations even in settings where the data is sensitive and can not be directly shared. The project made substantial progress through research in foundations of privacy in distributed settings, statistical methods, programming languages, and verification. We briefly describe some of the key results and outcomes of this project, part of which were developed at the University at Buffalo and at Boston University.</span></p> <p><strong>Foundations of Differential Privacy:&nbsp;</strong>The project made numerous advances in our understanding of differential privacy, a framework for providing strong guarantees that information specific to individuals does not leak when carrying out statistical analysis.&nbsp; Considering a variety of statistical and machine learning tasks and asking which of these tasks can be performed with differential privacy and with what costs, the project team studied both the centralized model of differential privacy, where all the data is collected and analyzed by a trusted curator, as well as a variety of distributed forms of differential privacy - including the local, hybrid, and the shuffle models of differential privacy - where the data is held by a number of different parties who engage in a protocol to carry out the analysis. We also considered how to create differentially private confidence intervals for statistical inference in this setting. These results have implications for use of differential privacy by technology companies and statistical government agencies.&nbsp;</p> <p dir="ltr"><strong>CoreR and Automated Verification of Relational Properties:&nbsp;</strong><span>We developed a simplified version of the R programming language that supports a significant portion of R data analysis programs that we examined. This CoreR language makes it easier to write program analyses for R programs. With CoreR in mind, we developed an automated program analysis to verify whether a program satisfies differential privacy and other relational properties.</span></p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/16/2022<br>      Modified by: Marco&nbsp;G&nbsp;Gaboardi</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[This project sought to enable the many benefits of data sharing between organizations even in settings where the data is sensitive and can not be directly shared. The project made substantial progress through research in foundations of privacy in distributed settings, statistical methods, programming languages, and verification. We briefly describe some of the key results and outcomes of this project, part of which were developed at the University at Buffalo and at Boston University.  Foundations of Differential Privacy: The project made numerous advances in our understanding of differential privacy, a framework for providing strong guarantees that information specific to individuals does not leak when carrying out statistical analysis.  Considering a variety of statistical and machine learning tasks and asking which of these tasks can be performed with differential privacy and with what costs, the project team studied both the centralized model of differential privacy, where all the data is collected and analyzed by a trusted curator, as well as a variety of distributed forms of differential privacy - including the local, hybrid, and the shuffle models of differential privacy - where the data is held by a number of different parties who engage in a protocol to carry out the analysis. We also considered how to create differentially private confidence intervals for statistical inference in this setting. These results have implications for use of differential privacy by technology companies and statistical government agencies.  CoreR and Automated Verification of Relational Properties: We developed a simplified version of the R programming language that supports a significant portion of R data analysis programs that we examined. This CoreR language makes it easier to write program analyses for R programs. With CoreR in mind, we developed an automated program analysis to verify whether a program satisfies differential privacy and other relational properties.             Last Modified: 08/16/2022       Submitted by: Marco G Gaboardi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

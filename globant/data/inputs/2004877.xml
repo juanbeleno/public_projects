@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Harnessing machine learning and cloud computing to test biological models of the role of white matter in human learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>138000.00</AwardTotalIntnAmount>
+<AwardAmount>138000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>04010000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SMA</Abbreviation>
+<LongName>SBE Off Of Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Josie Welkom Miranda</SignBlockName>
+<PO_EMAI>jwmirand@nsf.gov</PO_EMAI>
+<PO_PHON>7032927376</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This award was provided as part of NSF's Social, Behavioral and Economic Sciences (SBE) Postdoctoral Research Fellowships (SPRF) program and SBE's Science of Learning and Augmented Intelligence Program. The goal of the SPRF program is to prepare promising, early career doctoral-level scientists for scientific careers in academia, industry or private sector, and government. SPRF awards involve two years of training under the sponsorship of established scientists and encourage Postdoctoral Fellows to perform independent research. NSF seeks to promote the participation of scientists from all segments of the scientific community, including those from underrepresented groups, in its research programs and activities; the postdoctoral period is considered to be an important level of professional development in attaining this goal. Each Postdoctoral Fellow must address important scientific questions that advance their respective disciplinary fields. Under the sponsorship of Dr. Franco Pestilli at Indiana University, this postdoctoral fellowship award supports an early career scientist investigating the role of white matter communication pathways in the human brain in learning and generalization. Prior work has related individual differences in human white matter to current abilities as a measurement of past learning; the proposed work will, instead, use individual differences in human white matter to predict future learning. The hypothesis addressed in the proposed work is that sensorimotor training changes white matter communication pathways in ways that allow for generalization to untrained behaviors. The investigators will test this hypothesis by using machine-learning methods and implementing an explicit model testing approach. This research will provide the field with important information concerning learning-related changes in the brain that will be applicable to educational and neuro-rehabilitation practices. &lt;br/&gt;&lt;br/&gt;This project integrates cutting-edge measurements of white matter communication pathways in the brain with novel behavioral assessments. The proposed work builds from a well-documented and repeatable finding: sensorimotor learning leads to learning that generalizes (e.g., handwriting increases letter recognition). The project has three goals. The first goal is to demonstrate that training on a sensorimotor task (i.e., drawing novel symbols) leads to task-specific changes in the tissue properties of white matter communication pathways. We will employ a between-participants training manipulation and assess differences in learning-related white matter microstructure among training groups. The second goal is to demonstrate that the white matter changes associated with sensorimotor learning support generalization to an untrained behavior. We will use machine-learning to build a model of the relationship between learning-related changes in white matter tissue microstructure and sensorimotor learning. We will then quantify how well that model predicts visual recognition learning (i.e., learning to recognize the novel symbols). The expectation is that individual variability in global white matter tissue properties will predict sensorimotor learning and generalization. The final goal of the work is to leverage the cloud computing platform–brainlife.io–to deliver open-science and reproducible methods as well as publicly available analyses and services. Data, analyses, and results will be shared on brainlife.io with the potential to impact multiple communities of scientists interested in learning: behavioral scientists, computer scientists, and neuroscientists.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2004877</AwardID>
+<Investigator>
+<FirstName>Sophia</FirstName>
+<LastName>Vinci-Booher</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sophia Vinci-Booher</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000762217</NSF_ID>
+<StartDate>07/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Franco</FirstName>
+<LastName>Pestilli</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Franco Pestilli</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000678427</NSF_ID>
+<StartDate>07/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vinci-Booher            Sophia</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474053848</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT/>
+<CONGRESS_DISTRICT_ORG/>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University]]></Name>
+<CityName>Bloomington</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>474057007</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF/>
+</Performance_Institution>
+<ProgramElement>
+<Code>040Y</Code>
+<Text>(SPRF-FR) SBE Postdoctoral Res</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>127Y</Code>
+<Text>Sci of Lrng &amp; Augmented Intel</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~138000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-a084d91a-7fff-5ef8-e5e0-27caef9bdb2f"> <p dir="ltr"><span>Understanding how the biological properties of brain tissue relate to human learning has the potential to transform our knowledge of the mechanisms of learning and learning generalization. The research conducted under this fellowship investigated the possibility that learning shapes the biological properties of brain tissue in ways that affect future learning. We focused our work on two learning outcomes that arise from a single sensorimotor training task. Our sensorimotor training task was drawing unfamiliar symbols and our learning outcomes measured changes in ability to draw and visually recognize the previously unfamiliar symbols. We investigated the relationships among the biological properties &ndash; the microstructure &ndash; of major white matter communication pathways in the human brain and individual differences in learning.&nbsp;</span></p> <p dir="ltr"><span>We conducted a series of studies that investigated the relationship between the microstructure of major white matter tracts and learning that revealed a novel relationship between learning and major white matter tracts that directly connect perception-oriented and motor-oriented brain regions, collectively referred to as the posterior vertical pathway (PVP).&nbsp;</span></p> <p dir="ltr"><span>First, we demonstrated that the tissue properties of PVP tracts correlated with drawing performance in young children (ages 5-8 years), even after controlling for age (Vinci-Booher, Caron, Bullock, James, &amp; Pestilli, 2021; data &amp; analyses: </span><a href="https://doi.org/10.25663/brainlife.pub.23"><span>https://doi.org/10.25663/brainlife.pub.23</span></a><span>).&nbsp;</span></p> <p dir="ltr"><span>Second, we developed a novel denoising method for working with the child MRI data collected in the first study. The denoising method makes use of a one-dimensional convolutional neural network model (1D-CNN) to remove noise associated with the sum-of-squares (SoS) image reconstruction method (Cheng, Vinci-Booher, Wang, Caron, Wen, Newman, &amp; Pestilli, 2022; data &amp; analyses: </span><a href="https://doi.org/10.25663/brainlife.pub.35"><span>https://doi.org/10.25663/brainlife.pub.35</span></a><span>).&nbsp;</span></p> <p dir="ltr"><span>Third, we conducted an experimental study to test the relationship between the tissue properties of the PVP in the adult brain and individual differences in two learning outcomes after drawing training. Drawing training required 60 participants to repeatedly draw 40 unfamiliar symbols by hand over the course of four days. We collected measures of drawing learning and visual recognition learning at each training session to monitor both learning outcomes. We collected diffusion MRI images of the brain before and after training to measure the microstructure of major white matter communication pathways. We used a relaxed lasso regression procedure to demonstrate that the tissue properties of PVP tracts selectively predicted each learning outcome (Vinci-Booher, McDonald, Berquist, &amp; Pestilli, in press; data &amp; analyses: </span><a href="https://doi.org/10.25663/brainlife.pub.36"><span>https://doi.org/10.25663/brainlife.pub.36</span></a><span>, </span><a href="https://osf.io/95zjk/"><span>https://osf.io/95zjk/</span></a><span>).&nbsp;</span></p> <p dir="ltr"><span>Taken together, the work accomplished under this fellowship demonstrated that the biological tissue properties of structural connections between perception-oriented and motor-oriented brain regions are related to drawing in childhood and adulthood. In childhood, the microstructure of these PVP tracts correlates with drawing ability. In adulthood, the microstructure predicts individual differences in learning to draw new symbols. The results suggest avenues of future work investigating factors that contribute to individual differences in the microstructure of PVP tracts and how those biological differences are related to individual differences in learning.&nbsp;</span></p> <p dir="ltr"><span>All data collected and analyses performed for this research have been implemented using reproducible open-science methods, leveraging modern cloud computing technology &ndash; brainlife.io &ndash; to share our data and analysis methods with multiple scientific communities interested in human learning, thereby increasing the impact of the research conducted under this fellowship. A select portion of the data collected for this research are already publicly available on brainlife.io and osf.io and the full dataset will be released publicly within the next year.</span></p> <p dir="ltr"><span>The fellowship supported broadening the participation of women and other minorities by supporting the professional development of a post-doctoral researcher, a post-baccalaureate researcher, and several undergraduate researchers. The post-doctoral researcher has advanced to a tenure-track research position and many of the researchers involved in the study were from underrepresented demographics and are now pursuing advanced degrees.</span></p> </span></p><br> <p>            Last Modified: 02/07/2023<br>      Modified by: Sophia&nbsp;Vinci-Booher</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Understanding how the biological properties of brain tissue relate to human learning has the potential to transform our knowledge of the mechanisms of learning and learning generalization. The research conducted under this fellowship investigated the possibility that learning shapes the biological properties of brain tissue in ways that affect future learning. We focused our work on two learning outcomes that arise from a single sensorimotor training task. Our sensorimotor training task was drawing unfamiliar symbols and our learning outcomes measured changes in ability to draw and visually recognize the previously unfamiliar symbols. We investigated the relationships among the biological properties &ndash; the microstructure &ndash; of major white matter communication pathways in the human brain and individual differences in learning.  We conducted a series of studies that investigated the relationship between the microstructure of major white matter tracts and learning that revealed a novel relationship between learning and major white matter tracts that directly connect perception-oriented and motor-oriented brain regions, collectively referred to as the posterior vertical pathway (PVP).  First, we demonstrated that the tissue properties of PVP tracts correlated with drawing performance in young children (ages 5-8 years), even after controlling for age (Vinci-Booher, Caron, Bullock, James, &amp; Pestilli, 2021; data &amp; analyses: https://doi.org/10.25663/brainlife.pub.23).  Second, we developed a novel denoising method for working with the child MRI data collected in the first study. The denoising method makes use of a one-dimensional convolutional neural network model (1D-CNN) to remove noise associated with the sum-of-squares (SoS) image reconstruction method (Cheng, Vinci-Booher, Wang, Caron, Wen, Newman, &amp; Pestilli, 2022; data &amp; analyses: https://doi.org/10.25663/brainlife.pub.35).  Third, we conducted an experimental study to test the relationship between the tissue properties of the PVP in the adult brain and individual differences in two learning outcomes after drawing training. Drawing training required 60 participants to repeatedly draw 40 unfamiliar symbols by hand over the course of four days. We collected measures of drawing learning and visual recognition learning at each training session to monitor both learning outcomes. We collected diffusion MRI images of the brain before and after training to measure the microstructure of major white matter communication pathways. We used a relaxed lasso regression procedure to demonstrate that the tissue properties of PVP tracts selectively predicted each learning outcome (Vinci-Booher, McDonald, Berquist, &amp; Pestilli, in press; data &amp; analyses: https://doi.org/10.25663/brainlife.pub.36, https://osf.io/95zjk/).  Taken together, the work accomplished under this fellowship demonstrated that the biological tissue properties of structural connections between perception-oriented and motor-oriented brain regions are related to drawing in childhood and adulthood. In childhood, the microstructure of these PVP tracts correlates with drawing ability. In adulthood, the microstructure predicts individual differences in learning to draw new symbols. The results suggest avenues of future work investigating factors that contribute to individual differences in the microstructure of PVP tracts and how those biological differences are related to individual differences in learning.  All data collected and analyses performed for this research have been implemented using reproducible open-science methods, leveraging modern cloud computing technology &ndash; brainlife.io &ndash; to share our data and analysis methods with multiple scientific communities interested in human learning, thereby increasing the impact of the research conducted under this fellowship. A select portion of the data collected for this research are already publicly available on brainlife.io and osf.io and the full dataset will be released publicly within the next year. The fellowship supported broadening the participation of women and other minorities by supporting the professional development of a post-doctoral researcher, a post-baccalaureate researcher, and several undergraduate researchers. The post-doctoral researcher has advanced to a tenure-track research position and many of the researchers involved in the study were from underrepresented demographics and are now pursuing advanced degrees.        Last Modified: 02/07/2023       Submitted by: Sophia Vinci-Booher]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

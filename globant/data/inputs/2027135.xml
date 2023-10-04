@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF EAGER: Ionic communication: high resolution, non-invasive data communication for bioelectronics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>80000.00</AwardTotalIntnAmount>
+<AwardAmount>80000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Svetlana Tatic-Lucic</SignBlockName>
+<PO_EMAI>staticlu@nsf.gov</PO_EMAI>
+<PO_PHON>7032924627</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The ability to send and receive information from inside the body is of key importance for scientific and medical applications. Nearly all implantable electronics devices require communication with the external world to be able to transmit acquired bio-signals for analysis or receive instructions from external devices to modulate their interactions with tissue. However, this task is inherently challenging because the communication method should be (i) non-invasive, meaning no components extruding through tissue, (ii) low-power, to be able to acquire data continuously over an extended period of time (iii) high-speed, to allow transmission of complex biological data acquired, (iv) controllable, to allow communication over a defined depth in the tissue. The overall objective of this work is to develop an ion-based, high-speed communication scheme to enable non-invasive and safe transmission of signals without the need of components that extrude through tissue. The rationale for the proposed work is that ions in biological tissue can be used to transfer information at high speeds and low power to the outside of body. The educational goal of the project is to provide hands-on experience for students by developing fully bio-compatible and inexpensive devices for ionic communication. The proposed research is expected to not only advance the field of bioelectronics by improving understanding of key principles governing communication across the body, but also result in positive impact to society at large. &lt;br/&gt;&lt;br/&gt;To understand and modulate physiologic functions, implantable bioelectronic devices should be capable of safely communicating the high spatiotemporal resolution bio-signals with high speed and low power consumption to devices located outside the body. This communication and data transfer should be accomplished through a non-invasive path with no elements that extrude through tissue to minimize discomfort, mobility complications, and risk of tissue damage or infection. Ionic communication, which leverages the ion-rich nature of biological tissue to transmit signals through intact surfaces, could fulfill these requirements and address the limitations of current electronic charge carrier-based approaches. However, there is a clear lack of knowledge regarding how to use ionic communication to establish a high speed, low-power, and biocompatible communication medium across biological tissue. The objective of the proposed research is to combine optimal properties for an abiotic/biotic transmission interface: biocompatibility, conformability, miniaturization, low power consumption, efficient interaction with the body’s ionic signals, and ability to transmit data at speeds relevant to electrophysiological processes. Specific aims for the project are: (1) establish the physical, material and geometrical requirements to enable ionic communication; and (2) define the physical parameters that govern the spatial propagation of ionic signals through tissue. Overall, ionic communication could result in significant medical and social benefits by simplifying data transmission from bioelectronic devices and enabling application to situations in which use of transcutaneous connectors or bulky implanted electronics is prohibitive.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027135</AwardID>
+<Investigator>
+<FirstName>Dion</FirstName>
+<LastName>Khodagholy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dion Khodagholy</PI_FULL_NAME>
+<EmailAddress><![CDATA[dk2955@columbia.edu]]></EmailAddress>
+<NSF_ID>000779426</NSF_ID>
+<StartDate>05/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>202 LOW LIBRARY 535 W 116 ST MC</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F4N1QNPB95M4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276902</ZipCode>
+<StreetAddress><![CDATA[2960 Broadway]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~80000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>We developed a biologically-based data communication method, IC, that leverages the high ionic conductivity of body fluids to transmit electrical signals across an intact tissue interface. We demonstrated that physiologic ion concentrations in polarizable media support storage of electrical potential energy that can be remotely sensed&nbsp;in a frequency-dependent manner.&nbsp;The IC components (TX/RX arrays) are amenable to miniaturization, and can transmit across a tissue distance several times the distance between electrodes within an array at physiologically acceptable voltage operation (4&times; at 30 mV, 11&times; at 100 mV). With appropriate geometric design, IC can be used to establish multiple crosstalk-free parallel data lines. IC requires low voltages for operation and has power consumption substantially less than conventional communication methods, such as RF or ultrasound. In addition, IC transmits high sampling rate data with high fidelity and is resistant to disruption by movements of the organism. IC can be integrated with a variety of implantable devices and permits communication through an intact tissue interface, eliminating the need for extruding electronic components. &nbsp;&nbsp;</p> <p>Materials required for IC are biocompatible and commercially available, and IC arrays are fabricated using established microfabrication techniques&nbsp;. Because IC utilizes the intrinsic conductivity of tissue, its operation is not impaired by exposure to water or ions, and its components do not require encapsulation in biological environments. Furthermore, IC components are flexible due to their small cross-sectional diameter and ability to be embedded within conformable plastic substrates. Their simple design could also be executed with soft and biodegradable materials, eliminating the need for device removal in circumstances when time-limited monitoring or intervention is necessary. Though we demonstrate compatibility with Si-based electronic components here, IC is easily integrated with a variety of soft, organic electronics to establish fully conformable implantable electronic devices with no rigid components.</p> <p>We demonstrated how IC benefits acquisition of high spatiotemporal resolution neurophysiologic data, but it could be applied to a variety of signals. Implantation of neural recording arrays integrated with IC enabled complete closure of all incisions, abolishing potential for infection, inflammation and hemorrhage that can accompany persistent breaches of the tissue interface. IC-based recording was stable over days in freely moving animals and consistently high data quality permitted identification and monitoring of action potentials from individual neurons, a process that requires high sampling rate (10-20 KHz) and signal to noise ratio. Although we sampled data intermittently in real-time, advances in local storage technology could realize an alternative protocol whereby signals are initially stored within the organism, then transmitted at a later time. For instance, the high-speed and parallelized lines of IC presented here allows mass transmission, with approximately 2 min time required for 1 GB of data, equivalent of 1 hour of 256 channel clinical data sampled at 512 Hz. The requirement for physical contact between the TX and RX of the IC also ensures that sensitive clinical data is not errantly received or intercepted. Overall, IC offers unique features that could simplify and enhance data transmission from implanted bioelectronic devices, with clinical applicability to procedures ranging from glucose sensing to brain-machine interfaces.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 11/01/2021<br>      Modified by: Dion&nbsp;Khodagholy</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ We developed a biologically-based data communication method, IC, that leverages the high ionic conductivity of body fluids to transmit electrical signals across an intact tissue interface. We demonstrated that physiologic ion concentrations in polarizable media support storage of electrical potential energy that can be remotely sensed in a frequency-dependent manner. The IC components (TX/RX arrays) are amenable to miniaturization, and can transmit across a tissue distance several times the distance between electrodes within an array at physiologically acceptable voltage operation (4&times; at 30 mV, 11&times; at 100 mV). With appropriate geometric design, IC can be used to establish multiple crosstalk-free parallel data lines. IC requires low voltages for operation and has power consumption substantially less than conventional communication methods, such as RF or ultrasound. In addition, IC transmits high sampling rate data with high fidelity and is resistant to disruption by movements of the organism. IC can be integrated with a variety of implantable devices and permits communication through an intact tissue interface, eliminating the need for extruding electronic components.     Materials required for IC are biocompatible and commercially available, and IC arrays are fabricated using established microfabrication techniques . Because IC utilizes the intrinsic conductivity of tissue, its operation is not impaired by exposure to water or ions, and its components do not require encapsulation in biological environments. Furthermore, IC components are flexible due to their small cross-sectional diameter and ability to be embedded within conformable plastic substrates. Their simple design could also be executed with soft and biodegradable materials, eliminating the need for device removal in circumstances when time-limited monitoring or intervention is necessary. Though we demonstrate compatibility with Si-based electronic components here, IC is easily integrated with a variety of soft, organic electronics to establish fully conformable implantable electronic devices with no rigid components.  We demonstrated how IC benefits acquisition of high spatiotemporal resolution neurophysiologic data, but it could be applied to a variety of signals. Implantation of neural recording arrays integrated with IC enabled complete closure of all incisions, abolishing potential for infection, inflammation and hemorrhage that can accompany persistent breaches of the tissue interface. IC-based recording was stable over days in freely moving animals and consistently high data quality permitted identification and monitoring of action potentials from individual neurons, a process that requires high sampling rate (10-20 KHz) and signal to noise ratio. Although we sampled data intermittently in real-time, advances in local storage technology could realize an alternative protocol whereby signals are initially stored within the organism, then transmitted at a later time. For instance, the high-speed and parallelized lines of IC presented here allows mass transmission, with approximately 2 min time required for 1 GB of data, equivalent of 1 hour of 256 channel clinical data sampled at 512 Hz. The requirement for physical contact between the TX and RX of the IC also ensures that sensitive clinical data is not errantly received or intercepted. Overall, IC offers unique features that could simplify and enhance data transmission from implanted bioelectronic devices, with clinical applicability to procedures ranging from glucose sensing to brain-machine interfaces.           Last Modified: 11/01/2021       Submitted by: Dion Khodagholy]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

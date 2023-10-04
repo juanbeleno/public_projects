@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: development of a local epidemiological population balance model informed by UAV and WVD data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shahab Shojaei-Zadeh</SignBlockName>
+<PO_EMAI>sshojaei@nsf.gov</PO_EMAI>
+<PO_PHON>7032928045</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Decision making and policy setting by universities and surrounding localities requires knowledge of how people move and interact in the environment.  This RAPID project adapts new scientific approaches in population balance modeling to model human movement and interaction on a university campus and a surrounding town with the goal of providing new tools to help develop rational strategies for mitigation and eventual elimination of the novel corona virus, as well as future biological threats. Data for the model input will be obtained from high-definition video footage of public, outdoor areas including green spaces/parks, sidewalks/streets, and campus walkways/congregating spaces analyzed by artificial intelligence algorithms. Highly efficient tools that were originally developed to study complex fluids will enable determination key parameters needed for epidemiological models including effective transmission rates. Epidemiological modeling will be translated into a dashboard for use by policy makers as well as for public education about mitigation strategies.  This RAPID project will provide a computational tool and example for use more broadly by communities and in additional and future, challenging public health issues.&lt;br/&gt;&lt;br/&gt;A multivariate population balance model applied to a college and local municipality will generate key parameters for agent-based epidemiological models. Multivariate balance modeling will be challenged with new data sets of local population density and motion for model parameter estimation using parallel tempering developed under  prior  and current NSF support.  In addition to the usual distinctions of  immune, susceptible, exposed, infected, and recovered classes, additional variables to consider include: age, especially relevant for University students,  face-covering, inside and outside, and spatial-temporal population distributions  afforded by real time updates of aerial (unmanned aerial vehicle) and ground (stationary camera augmented by wearable video devices) surveillance data. While it is common to include coarse-grained information afforded by transportation networks in large-scale epidemiology models, this project will explore opportunities afforded by social force models combined with epidemic population balance modeling.  Advanced parallel tempering algorithms will be run on a GPU cluster to challenge the model with daily data streams to update parameters for epidemiological models and scenario projections.  A project dashboard will be made available for policy decision making and public education. Broader impacts include computational tools that can be applied to a broad range of public health issues.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040503</AwardID>
+<Investigator>
+<FirstName>Antony</FirstName>
+<LastName>Beris</LastName>
+<PI_MID_INIT>N</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Antony N Beris</PI_FULL_NAME>
+<EmailAddress><![CDATA[beris@udel.edu]]></EmailAddress>
+<NSF_ID>000105531</NSF_ID>
+<StartDate>07/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Norman</FirstName>
+<LastName>Wagner</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Norman J Wagner</PI_FULL_NAME>
+<EmailAddress><![CDATA[wagnernj@udel.edu]]></EmailAddress>
+<NSF_ID>000213541</NSF_ID>
+<StartDate>07/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Suminski</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME>Jr</PI_SUFX_NAME>
+<PI_FULL_NAME>Richard R Suminski</PI_FULL_NAME>
+<EmailAddress><![CDATA[suminski@udel.edu]]></EmailAddress>
+<NSF_ID>000832580</NSF_ID>
+<StartDate>07/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>220 HULLIHEN HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>Newark</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197162553</ZipCode>
+<StreetAddress><![CDATA[210 Hullihen Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1415</Code>
+<Text>PMP-Particul&amp;MultiphaseProcess</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1642</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Our project aimed to use agent-based modeling as a cutting-edge approach to predict SARS-CoV-2 transmission during the COVID-19 pandemic, as a new collaboration between engineers and health scientists at the University of Delaware. Making informed decisions and setting policies during the pandemic requires an understanding of human movement and interaction, which is why we adapted new scientific methods in agent-based population balance modeling to model these behaviors. The goal was to provide valuable tools for creating effective strategies for mitigating and controlling the transmission of the novel coronavirus, as well as future threats.</p> <p>We developed a model of how students, faculty, and staff moved and interacted on the University of Delaware campus. The data for the model input was obtained from high-definition video footage of public outdoor spaces such as parks, sidewalks, and campus walkways, analyzed using artificial intelligence algorithms. The model tracks a subset of the students and their movements in 15-minute increments throughout the semester, taking into account viral transmission rates, mask wearing, and social distancing. The statistical data was collected for various scenarios and compared to data from UD Covid-19 testing and wastewater testing. The results provide crucial information such as the base replication rate (R0 parameter) needed for more traditional epidemiological models, such as SEIR models.</p> <p>The results of this agent-based epidemiological modeling and surveillance data collection were consolidated into a dashboard for use by policy makers and for public education about mitigation strategies. The findings of this NSF RAPID project can be accessed on the website <a href="https://sites.udel.edu/udcovidmodel/" target="_new">https://sites.udel.edu/udcovidmodel/</a> as a computational tool and an example that can be used more widely by communities and in future public health challenges. The model can be downloaded and readily adapted for use in similar-sized communities world-wide and adapted to study transmission of many other challenges to public health.</p> <p>In addition to offering a website with easy access to information from various health agencies and a dashboard displaying observational data, the site features user-friendly web-based models that can be used for educational purposes by the general public. The site includes a model specifically designed for K-12 education, along with resources for teachers to integrate it into their classroom curriculum and self-study worksheets for students. Two scientific publications are already available, providing guidance on data collection for surveillance and assessing public health compliance, with a third manuscript on model development, implementation, and comparison of predictions and observations to be published soon. A doctoral student received training in this innovative approach to epidemiological modeling and will pursue a career in health science modeling in the industry. Three engineering students also participated in the project as undergraduate researchers, working on model development, coding, and data analysis and visualization, contributing to the development of a knowledgeable workforce in this important aspect of human health. Among these students are two underrepresented minorities, one female Hispanic and one African American.</p> <p>&nbsp;</p><br> <p>            Last Modified: 02/14/2023<br>      Modified by: Norman&nbsp;J&nbsp;Wagner</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2040503/2040503_10685300_1675948523469_ScreenShot2023-02-09at8.13.39AM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2040503/2040503_10685300_1675948523469_ScreenShot2023-02-09at8.13.39AM--rgov-800width.jpg" title="UD Covid Model Dashboard"><img src="/por/images/Reports/POR/2023/2040503/2040503_10685300_1675948523469_ScreenShot2023-02-09at8.13.39AM--rgov-66x44.jpg" alt="UD Covid Model Dashboard"></a> <div class="imageCaptionContainer"> <div class="imageCaption">UD covid dashboard showing a map of the UD campus and the evolution of infection over the course of two months.</div> <div class="imageCredit">Norman Wagner</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Norman&nbsp;J&nbsp;Wagner</div> <div class="imageTitle">UD Covid Model Dashboard</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2040503/2040503_10685300_1675948683978_ScreenShot2023-02-09at8.15.44AM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2040503/2040503_10685300_1675948683978_ScreenShot2023-02-09at8.15.44AM--rgov-800width.jpg" title="Direct observation pathway and comparison with Covid-19 testing"><img src="/por/images/Reports/POR/2023/2040503/2040503_10685300_1675948683978_ScreenShot2023-02-09at8.15.44AM--rgov-66x44.jpg" alt="Direct observation pathway and comparison with Covid-19 testing"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Pathway showing the route taken for direct observation along with the comparison of compliance with UD health rules and with on campus testing results</div> <div class="imageCredit">Norman Wagner and Richard Suminski</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Norman&nbsp;J&nbsp;Wagner</div> <div class="imageTitle">Direct observation pathway and comparison with Covid-19 testing</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2040503/2040503_10685300_1675949509533_ScreenShot2023-02-09at8.31.21AM--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2040503/2040503_10685300_1675949509533_ScreenShot2023-02-09at8.31.21AM--rgov-800width.jpg" title="K-12 web-based model for education"><img src="/por/images/Reports/POR/2023/2040503/2040503_10685300_1675949509533_ScreenShot2023-02-09at8.31.21AM--rgov-66x44.jpg" alt="K-12 web-based model for education"></a> <div class="imageCaptionContainer"> <div class="imageCaption">This web-based model is appropriate for use by K-12 students and teachers, and includes worksheets and teacher information for classroom implementation. The model can be found at http://udcovidmodeldashboard.che.udel.edu/Educational_Model.html</div> <div class="imageCredit">Norman Wagner</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Norman&nbsp;J&nbsp;Wagner</div> <div class="imageTitle">K-12 web-based model for education</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Our project aimed to use agent-based modeling as a cutting-edge approach to predict SARS-CoV-2 transmission during the COVID-19 pandemic, as a new collaboration between engineers and health scientists at the University of Delaware. Making informed decisions and setting policies during the pandemic requires an understanding of human movement and interaction, which is why we adapted new scientific methods in agent-based population balance modeling to model these behaviors. The goal was to provide valuable tools for creating effective strategies for mitigating and controlling the transmission of the novel coronavirus, as well as future threats.  We developed a model of how students, faculty, and staff moved and interacted on the University of Delaware campus. The data for the model input was obtained from high-definition video footage of public outdoor spaces such as parks, sidewalks, and campus walkways, analyzed using artificial intelligence algorithms. The model tracks a subset of the students and their movements in 15-minute increments throughout the semester, taking into account viral transmission rates, mask wearing, and social distancing. The statistical data was collected for various scenarios and compared to data from UD Covid-19 testing and wastewater testing. The results provide crucial information such as the base replication rate (R0 parameter) needed for more traditional epidemiological models, such as SEIR models.  The results of this agent-based epidemiological modeling and surveillance data collection were consolidated into a dashboard for use by policy makers and for public education about mitigation strategies. The findings of this NSF RAPID project can be accessed on the website https://sites.udel.edu/udcovidmodel/ as a computational tool and an example that can be used more widely by communities and in future public health challenges. The model can be downloaded and readily adapted for use in similar-sized communities world-wide and adapted to study transmission of many other challenges to public health.  In addition to offering a website with easy access to information from various health agencies and a dashboard displaying observational data, the site features user-friendly web-based models that can be used for educational purposes by the general public. The site includes a model specifically designed for K-12 education, along with resources for teachers to integrate it into their classroom curriculum and self-study worksheets for students. Two scientific publications are already available, providing guidance on data collection for surveillance and assessing public health compliance, with a third manuscript on model development, implementation, and comparison of predictions and observations to be published soon. A doctoral student received training in this innovative approach to epidemiological modeling and will pursue a career in health science modeling in the industry. Three engineering students also participated in the project as undergraduate researchers, working on model development, coding, and data analysis and visualization, contributing to the development of a knowledgeable workforce in this important aspect of human health. Among these students are two underrepresented minorities, one female Hispanic and one African American.          Last Modified: 02/14/2023       Submitted by: Norman J Wagner]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

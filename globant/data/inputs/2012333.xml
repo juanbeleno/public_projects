@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Bounds and Asymptotic Dynamics for Nonlinear Evolution Equations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>73026.00</AwardTotalIntnAmount>
+<AwardAmount>73026</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Many physical, engineering, and biological phenomena are described by mathematical models with a large number of strongly-interacting particles. The range of these phenomena includes such diverse examples as complex and compressible fluids (combustion, aerospace engineering, and meteorology), nonlocal reaction-diffusion processes (nuclear physics, population biology, and genetics), and kinetic theory (plasma physics, swarm dynamics, and astrophysics). This project focuses on novel approaches to determining two fundamental characteristics of solutions to equations modeling large numbers of strongly interacting particles: their regularity and asymptotic behavior. The regularity of such problems establishes that the models are well-behaved, which often means the equations remain numerically tractable in computer simulations. The asymptotic theory seeks to find simplified limiting behavior for equations, in which many complex interactions average out and have a residual effect that governs the behavior of the system. Information about the limiting behavior is instrumental for applications such as medical imaging or materials science. For many important phenomena that demonstrate complex, nonlinear behavior, the application of known methods for analysis and control is greatly limited and not always possible. The aim of this project is to investigate three new techniques that partly overcome the difficulties caused by nonlinearity. The project will also provide training and research opportunities for both graduate and undergraduate students. &lt;br/&gt;&lt;br/&gt;The principal investigator will use techniques of nonlinear analysis, viscosity theory, and probability to establish bounds and asymptotic dynamics for the three major parts of the project. The first part focuses on exploring thermally enhanced dissipation for hydrodynamic equations where the viscosity grows with local temperature. From kinetic considerations and empirical observations, the kinematic viscosity of a compressible fluid flow increases with the local temperature and the local temperature is produced by friction. The intuition is that, in such models, regions of high turbulence self-regularize by producing hot spots which boost the viscosity exactly where it is needed to prevent the development of singularities. Prior work has identified this effect in two model problems (along with corresponding bounds). One of the main goals of the project is to push these types of estimates to physical models of compressible thermal fluids such as the Navier-Stokes-Fourier system, the equations of magneto-hydrodynamics, and the Poisson-Nernst-Planck-Fourier system for electrokinetic complex fluids. Enhanced thermal dissipation is a truly novel source of regularization compared to other known energy-based methods and lends itself naturally to dynamic weighted Sobolev estimates and entropy methods. The second part focuses on developing methods to extract asymptotic behavior from strongly nonlocal heterogeneous reaction-diffusion equations. There is a growing interest in extracting simpler macroscopic dynamics (often taking the form of geometric equations) from certain scaling limits of more complicated models. The nonlocal operators in these models present unique challenges in determining their residual impact on the (sometimes discontinuous) homogenized equation. The investigator plans to implement the techniques of viscosity theory to pursue homogenization phenomena for nonlocal periodic Fisher-KPP and bistable (Allen-Cahn) equations. The third part focuses on the regularity theory for kinetic equations (i.e., Landau and Boltzmann). Most regularity results for these equations rely on the assumption of having the lower bound on the density (as this often yields a minimum dissipation in the velocity variables). The investigator will explore the emergence of such lower bounds through probabilistic techniques, writing the kinetic equation as an approximate Fokker-Planck equation for a certain stochastic process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012333</AwardID>
+<Investigator>
+<FirstName>Andrei</FirstName>
+<LastName>Tarfulea</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrei Tarfulea</PI_FULL_NAME>
+<EmailAddress><![CDATA[tarfulea@lsu.edu]]></EmailAddress>
+<NSF_ID>000679333</NSF_ID>
+<StartDate>01/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Louisiana State University</Name>
+<CityName>BATON ROUGE</CityName>
+<ZipCode>708030001</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress>202 HIMES HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECQEYCHRNKJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>LOUISIANA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Louisiana State University & Agricultural and Mechanical College]]></Name>
+<CityName>Baton Rouge</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>708034918</ZipCode>
+<StreetAddress><![CDATA[303 Lockett Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~73026</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Mathematical models of physical phenomena typically produce partial differential equations (<span><span>PDE</span></span>) that dictate the evolution of a certain function; i.e., the "solution" which simulates the phenomena. For this <span><span>PDE</span></span> to remain a valid (and computationally tractable) approximation of the real effect, the solution should remain bounded, unique, and sufficiently smooth (or "regular"). Much of the study of <span><span>PDE</span></span> falls under the umbrella category of mathematically proving whether, and under which circumstances, the solutions remain regular, gain regularity over time, or eventually lose it. The classical well-<span><span>posedness</span></span> theory for evolution equations can guarantee this regularization in many generic settings, but usually with the assumption of a strong <span><span>nondegenerate</span></span> diffusion/viscosity component in the model. This project focused on two main classes of equations where the diffusive/viscous component was far too weak for the classical theory to fully materialize. First, kinetic equations (such as the Landau and Boltzmann equations) which model high-energy gases and plasmas with some collisional diffusion. Second, thermal fluids (such as the non-isothermal porous media equation) where the temperature and density locally change the material properties and viscosity. The aim of this project was to prove a kind of dynamic <span><span>nondegeneracy</span></span> or novel structural bounds for these equations that show the solutions regularize by means that extend (or complement) the classical theory.<br /><br />This project has made significant contributions to the well-<span><span>posedness</span></span> theory for kinetic equations. A dynamic mass spreading effect was demonstrated for the Landau and Boltzmann equations. This effect was then implemented, in conjunction with several improvements to existing results in the literature, as well as some novel approaches to kinetic <span><span>integrodifferential</span></span> operators, to produce much of the current state-of-the-art for existence, uniqueness, and continuation of solutions to the above equations.<br /><br />This project has demonstrated novel a priori maximum principles for models of thermal fluids derived from physically sound energy variational approaches. This points to a link between the physics (maximum dissipation principles and free energy laws) and inherent structural qualities that provide regularization from a very different source compared to the classical theory of <span><span>PDE</span></span>. A more refined investigation of this connection could provide valuable tools for broader classes of models, and is the subject of ongoing research by the PI.<br /><br />The results of this project have been disseminated to academic research journals (seven articles) and numerous conferences/seminars (three of which were co-organized by the PI). In addition, the PI mentored/instructed a graduate student on the theory of parabolic and transport <span><span>PDE</span></span> and radial solutions for the Boltzmann equation. The PI also mentored/instructed a high school student during an eleven-week summer project on <span><span>MATLAB</span></span> implementations for fluid equations.</p><br> <p>            Last Modified: 10/28/2022<br>      Modified by: Andrei&nbsp;Tarfulea</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Mathematical models of physical phenomena typically produce partial differential equations (PDE) that dictate the evolution of a certain function; i.e., the "solution" which simulates the phenomena. For this PDE to remain a valid (and computationally tractable) approximation of the real effect, the solution should remain bounded, unique, and sufficiently smooth (or "regular"). Much of the study of PDE falls under the umbrella category of mathematically proving whether, and under which circumstances, the solutions remain regular, gain regularity over time, or eventually lose it. The classical well-posedness theory for evolution equations can guarantee this regularization in many generic settings, but usually with the assumption of a strong nondegenerate diffusion/viscosity component in the model. This project focused on two main classes of equations where the diffusive/viscous component was far too weak for the classical theory to fully materialize. First, kinetic equations (such as the Landau and Boltzmann equations) which model high-energy gases and plasmas with some collisional diffusion. Second, thermal fluids (such as the non-isothermal porous media equation) where the temperature and density locally change the material properties and viscosity. The aim of this project was to prove a kind of dynamic nondegeneracy or novel structural bounds for these equations that show the solutions regularize by means that extend (or complement) the classical theory.  This project has made significant contributions to the well-posedness theory for kinetic equations. A dynamic mass spreading effect was demonstrated for the Landau and Boltzmann equations. This effect was then implemented, in conjunction with several improvements to existing results in the literature, as well as some novel approaches to kinetic integrodifferential operators, to produce much of the current state-of-the-art for existence, uniqueness, and continuation of solutions to the above equations.  This project has demonstrated novel a priori maximum principles for models of thermal fluids derived from physically sound energy variational approaches. This points to a link between the physics (maximum dissipation principles and free energy laws) and inherent structural qualities that provide regularization from a very different source compared to the classical theory of PDE. A more refined investigation of this connection could provide valuable tools for broader classes of models, and is the subject of ongoing research by the PI.  The results of this project have been disseminated to academic research journals (seven articles) and numerous conferences/seminars (three of which were co-organized by the PI). In addition, the PI mentored/instructed a graduate student on the theory of parabolic and transport PDE and radial solutions for the Boltzmann equation. The PI also mentored/instructed a high school student during an eleven-week summer project on MATLAB implementations for fluid equations.       Last Modified: 10/28/2022       Submitted by: Andrei Tarfulea]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

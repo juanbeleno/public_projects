@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Numerical Analysis and Methods for Fluid Deformable Surfaces and Their Interaction with the Bulk]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>200818.00</AwardTotalIntnAmount>
+<AwardAmount>200818</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stacey Levine</SignBlockName>
+<PO_EMAI>slevine@nsf.gov</PO_EMAI>
+<PO_PHON>7032922948</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Fluid surfaces that deform are ubiquitous in cell and tissue biology as well as in modeling of emulsions and foams.  Computer modeling plays an increasingly important role in better understanding of processes involving such surfaces as well as interfacial phenomena. The present project aims to develop accurate and reliable numerical methods for the simulation of fluidic deformable surfaces and their interaction with the bulk. Development of such methods will facilitate understanding the functionality of lipid bilayers, the actin cortex, epithelial cell sheets, and the properties of other thin structures exhibiting in-plane viscosity and lateral mobility. The project provides research training for a graduate student.&lt;br/&gt;&lt;br/&gt;The project will consider models of fluids on surfaces. For these, continuum-based modeling leads to systems of partial differential equations posed on time-dependent manifolds. For example, lipid membranes are fluidic thin layers that can be modeled as two-dimensional viscous surface fluids with bending elasticity. The project will develop and analyze a geometrically unfitted finite element method for fluid systems posed on deformable surfaces such as surface Stokes and surface Navier-Stokes equations, tangential fluid equations coupled with in-plane elasticity and equations governing out-of-plane (geometrical) motions, as well as interface-bulk coupled fluid systems. The project focus is on splitting schemes for the resulting coupled systems. The methods build on formulation of governing equations in terms of tangential differential calculus and employ time-independent unfitted background meshes. The approach will allow for implicitly given complex shapes that may undergo topological transitions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011444</AwardID>
+<Investigator>
+<FirstName>Maxim</FirstName>
+<LastName>Olshanskiy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maxim Olshanskiy</PI_FULL_NAME>
+<EmailAddress><![CDATA[molshan@math.uh.edu]]></EmailAddress>
+<NSF_ID>000630948</NSF_ID>
+<StartDate>06/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Houston</Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>772043067</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress>4300 MARTIN LUTHER KING BLVD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QKWEF8XLMTT3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HOUSTON SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Houston]]></Name>
+<CityName>Houston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>772042015</ZipCode>
+<StreetAddress><![CDATA[4800 Calhoun Boulevard]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~60250</FUND_OBLG>
+<FUND_OBLG>2021~69991</FUND_OBLG>
+<FUND_OBLG>2022~70577</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Fluid deformable surfaces are ubiquitous interfaces in biology, playing an essential role in processes from the subcellular to the tissue scale. For example, plasma membranes composed of one or more phospholipid bilayers are fluidic thin deformable sheets that define the boundaries of cells and vesicles. Continuum based modeling of such structures leads systems of partial differential equations posed on time-dependent surfaces and surrounding volumes. Mathematical and numerical analysis of such systems is in its infancy and the project contributed to this emerging field of research.</p> <div> <p><strong>Intellectual merit. </strong>The project aimed to develop and analyze numerical finite element methods for fluid systems posed on deformable surfaces. We pursued these goals by analyzing the well-posedness of the governing equations and introducing their discretizations.</p> <p>We proved the well-posedness of the system of partial differential equations that govern the lateral dynamics of viscous fluid on evolving surfaces. For this problem, we derived and analyzed a numerical method, and assessed its performance. The suggested method utilizes time-independent background volumetric meshes, which allow for efficient handling of complex and deforming shapes. We also developed efficient iterative algorithms to facilitate the solution of the resulting large discrete systems. Through a combination of mathematical and numerical modeling, we discovered new equilibrium states of fluid membranes and investigated phase dynamics in multicomponent lipid bilayers.</p> <div> <p>Figures illustrate: Kelvin-Helmholtz flow on a torus,&nbsp;Rayleigh-Taylor flow on a sphere, Lateral flow induced by droplet oscillation, and several equilibrium shapes of fluid-elastic membranes.</p> </div> </div> <p>Two graduate students, Alexander Zhiliakov and Yerbol Palzhanov were supported on the project. Out of sixteen publications reporting the outcomes of this project, eight are joint with the students supported from this grant. During the time of the project Alexander Zhiliakov completed doctoral dissertation, while Yerbol Palzhanov is expected to complete his thesis and graduate next year.</p> <p><strong>Broader Impact. </strong>The development of efficient methods for simulations of fluidic membranes will facilitate understanding the functionality of lipid bilayers, the actin cortex, epithelial cell sheets and the properties of other thin structures exhibiting in-plane viscosity and lateral mobility. The proposed research may have an impact on areas outside mathematical sciences such as the engineering of biomaterials.</p> <p>&nbsp;</p><br> <p>            Last Modified: 07/03/2023<br>      Modified by: Maxim&nbsp;Olshanskiy</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2011444/2011444_10673922_1688417289461_tor_kh_t=2.3.cropped--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2011444/2011444_10673922_1688417289461_tor_kh_t=2.3.cropped--rgov-800width.jpg" title="Kelvin-Helmholtz"><img src="/por/images/Reports/POR/2023/2011444/2011444_10673922_1688417289461_tor_kh_t=2.3.cropped--rgov-66x44.jpg" alt="Kelvin-Helmholtz"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The Kelvin-Helmholtz flow on a torus; see full animation at https://youtu.be/v0bmM-NqRqo</div> <div class="imageCredit">see doi.org/10.1002/nla.2415</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Maxim&nbsp;Olshanskiy</div> <div class="imageTitle">Kelvin-Helmholtz</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2011444/2011444_10673922_1688417392936_oscil--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2011444/2011444_10673922_1688417392936_oscil--rgov-800width.jpg" title="Lateral flow"><img src="/por/images/Reports/POR/2023/2011444/2011444_10673922_1688417392936_oscil--rgov-66x44.jpg" alt="Lateral flow"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Lateral flow induced by droplet oscillation; see full animation at https://youtu.be/89Dky1aaE_M</div> <div class="imageCredit">see doi.org/10.1142/S0218202522500658</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Maxim&nbsp;Olshanskiy</div> <div class="imageTitle">Lateral flow</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2011444/2011444_10673922_1688417490565_membranes--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2011444/2011444_10673922_1688417490565_membranes--rgov-800width.jpg" title="Equilibrium shapes"><img src="/por/images/Reports/POR/2023/2011444/2011444_10673922_1688417490565_membranes--rgov-66x44.jpg" alt="Equilibrium shapes"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Several equilibrium shapes of fluid-elastic membranes</div> <div class="imageCredit">see doi.org/10.1063/5.0152423</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Maxim&nbsp;Olshanskiy</div> <div class="imageTitle">Equilibrium shapes</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2011444/2011444_10673922_1688417102234_RT--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2011444/2011444_10673922_1688417102234_RT--rgov-800width.jpg" title="Rayleigh-Taylor"><img src="/por/images/Reports/POR/2023/2011444/2011444_10673922_1688417102234_RT--rgov-66x44.jpg" alt="Rayleigh-Taylor"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The Rayleigh-Taylor flow on a sphere; see full animation at https://youtu.be/_OmR_-qxvAI</div> <div class="imageCredit">see doi.org/10.1016/j.cma.2021.114167</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Maxim&nbsp;Olshanskiy</div> <div class="imageTitle">Rayleigh-Taylor</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Fluid deformable surfaces are ubiquitous interfaces in biology, playing an essential role in processes from the subcellular to the tissue scale. For example, plasma membranes composed of one or more phospholipid bilayers are fluidic thin deformable sheets that define the boundaries of cells and vesicles. Continuum based modeling of such structures leads systems of partial differential equations posed on time-dependent surfaces and surrounding volumes. Mathematical and numerical analysis of such systems is in its infancy and the project contributed to this emerging field of research.   Intellectual merit. The project aimed to develop and analyze numerical finite element methods for fluid systems posed on deformable surfaces. We pursued these goals by analyzing the well-posedness of the governing equations and introducing their discretizations.  We proved the well-posedness of the system of partial differential equations that govern the lateral dynamics of viscous fluid on evolving surfaces. For this problem, we derived and analyzed a numerical method, and assessed its performance. The suggested method utilizes time-independent background volumetric meshes, which allow for efficient handling of complex and deforming shapes. We also developed efficient iterative algorithms to facilitate the solution of the resulting large discrete systems. Through a combination of mathematical and numerical modeling, we discovered new equilibrium states of fluid membranes and investigated phase dynamics in multicomponent lipid bilayers.   Figures illustrate: Kelvin-Helmholtz flow on a torus, Rayleigh-Taylor flow on a sphere, Lateral flow induced by droplet oscillation, and several equilibrium shapes of fluid-elastic membranes.    Two graduate students, Alexander Zhiliakov and Yerbol Palzhanov were supported on the project. Out of sixteen publications reporting the outcomes of this project, eight are joint with the students supported from this grant. During the time of the project Alexander Zhiliakov completed doctoral dissertation, while Yerbol Palzhanov is expected to complete his thesis and graduate next year.  Broader Impact. The development of efficient methods for simulations of fluidic membranes will facilitate understanding the functionality of lipid bilayers, the actin cortex, epithelial cell sheets and the properties of other thin structures exhibiting in-plane viscosity and lateral mobility. The proposed research may have an impact on areas outside mathematical sciences such as the engineering of biomaterials.          Last Modified: 07/03/2023       Submitted by: Maxim Olshanskiy]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

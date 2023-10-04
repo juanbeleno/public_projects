@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Real-time computer automated identification and quantification of insects entering the SolaRid insect control device (ICD)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>224989.00</AwardTotalIntnAmount>
+<AwardAmount>224989</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Pierstorff</SignBlockName>
+<PO_EMAI>epiersto@nsf.gov</PO_EMAI>
+<PO_PHON>7032922165</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to streamline and optimize interventions for agricultural pest control with Artificial Intelligence (AI) strategies related to image processes.  The proposed project will develop an AI-driven, automated insect count and identification system. In addition to supporting the agricultural industry, the proposed system offers a research tool to study synergisms among attractants, learn more about insect behavior and migration over large land masses, and adapt to changing pest pressures. Furthermore, this system enables monitoring insects that could carry diseases in urban and rural communities as well as refugee camps. &lt;br/&gt;&lt;br/&gt;The proposed project will advance the translation of an automated solution for pest control at scale.  The project will: 1) automate the quantification and identification of a broad diversity of insects; 2) capture the appropriate data for identification of insects and training the AI system; and 3) process data in real time onboard the device. This project will optimize the use of new circuit boards and firmware in an automated configuration that can ultimately send data to handheld devices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015057</AwardID>
+<Investigator>
+<FirstName>Donald</FirstName>
+<LastName>Richardson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Donald Richardson</PI_FULL_NAME>
+<EmailAddress><![CDATA[drichardson@solaridipm.com]]></EmailAddress>
+<NSF_ID>000816441</NSF_ID>
+<StartDate>06/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SOLARID AR, LLC.</Name>
+<CityName>CLINTON</CityName>
+<ZipCode>720316012</ZipCode>
+<PhoneNumber>5015921391</PhoneNumber>
+<StreetAddress>267 FAYES FOREST RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arkansas</StateName>
+<StateCode>AR</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AR02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YA9SUGXDSN51</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SOLARID AR LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SOLARID AR, LLC.]]></Name>
+<CityName>Clinton</CityName>
+<StateCode>AR</StateCode>
+<ZipCode>720316012</ZipCode>
+<StreetAddress><![CDATA[267 Fayes Forest Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arkansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AR02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~224989</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Real-time Computer Automated Identification and Quantification of Insects Entering the SolaRid Insect Control Device - Outcomes Report</p> <p>&nbsp; &nbsp;&nbsp;Randy Sasaki, Drs. Ashley Dowling, and Khoa Luu, Donald Richardson</p> <p>Insect pests are a constant threat to agriculture worldwide, causing losses in the U.S. agricultural industry exceeding $45 billion, annually. Many pest species can reach damaging population levels quickly and often the plants do not show obvious symptoms until pest population levels are high. Early detection of initial infestations reduces crop losses and precise responses can significantly reduce the volume of insecticides applied, which reduces operating expenses and toxic chemicals entering our food supply. Detection of pests requires constant monitoring of fields, which requires the placement of traps, workers to continually monitor traps (often on a weekly basis), and accurate identification of the insects captured. This is a very labor-intensive process and requires a certain level of expertise to provide accurate and timely information to the farmer.&nbsp;</p> <p>The purpose of this NSF Phase I small business grant was to take an existing trap system developed by SolaRid AR LLC and develop a prototype for an artificial intelligence (AI)-driven automated pest insect identification system. This prototype can be attached to the trap, making it a smart trap that provides real-time information on pest identification and numbers to the farmer. The goal of Phase I was to focus on the hardware for the system but also to begin development of the algorithms for insect detection and identification.&nbsp; The system requires a sensor to detect when an insect enters the trap, cameras to image the flying insects with enough resolution to identify the insect and at speeds fast enough to effectively ?freeze action?, and a flash system to provide enough light to achieve the desired results. For the prototype, the sensor, machine-vision cameras, and lenses were off-the-shelf products used in manufacturing to monitor production lines. Since most characteristics needed for insect identification can be found on the top and sides of the insect body, one camera was placed focusing down onto entering insects and another was placed on the side. This provides two angles for every insect that enters the trap. The flash system was developed in-house as no existing product on the market met the light demands of the system. It surrounds the sensor and provides an array of LEDs located in the same orientation as the cameras. The entire system is controlled by an onboard computer processing unit that receives the signal from the sensor that an insect has broken the infrared, sensor plane and then within a fraction of a second, triggers the flashes and cameras. Eventually, the AI identification of the insect will also occur in this processing unit, eliminating the need to send images through the cloud and making the traps function even in areas with limited cellular networks.</p> <p>Much of the software development to produce a final functioning product was not a part of this Phase I project, however, progress was made in several areas. It became clear during early trials that obtaining crisp images of small, fast flying objects at night was going to require both hardware and computer science solutions to achieve our desired results. Our team developed algorithms that increase both brightness and resolution in the final images much like technology typically used for movies when the investigators transform grainy security footage into high-definition images. This advancement made by our team lessened the overall light needed in the system, making it more achievable to get enough light and lessening the overall cost of the system. Additionally, software was developed to control the sensor-camera-flash system so everything could be synchronized to fire when the insect was in the field of view and to allow the system to take a burst of images to capture the insect wings in different points of the&nbsp;wingbeat, thus preventing wing position from obscuring certain characters needed for identification. Lastly, software was developed so the computer could accurately find and extract insects in the images obtained, ignoring any non-insect noise that may be present. This allows the computer to exclusively examine the insect for identifiable features and provide an accurate count of the insects that enter the trap. Many of these developed software products will have use beyond this trap system.</p> <p>Overall, many advancements have been made toward production of a fully automated, AI-driven insect identification system that will revolutionize insect monitoring in agricultural systems. Our project has generated proprietary technologies, three published research papers, and multiple sustainable competitive advantages. We have filed provisional patents for algorithms and hardware developed. Prototypes are being field deployed to collect images for use in training the AI identification system, with the final goal of a marketable smart trap, designed for the $2.5 Trillion, global agriculture industry that is adaptable to different crop types around the world.&nbsp; &nbsp;</p><br> <p>            Last Modified: 06/14/2022<br>      Modified by: Donald&nbsp;Richardson</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Real-time Computer Automated Identification and Quantification of Insects Entering the SolaRid Insect Control Device - Outcomes Report      Randy Sasaki, Drs. Ashley Dowling, and Khoa Luu, Donald Richardson  Insect pests are a constant threat to agriculture worldwide, causing losses in the U.S. agricultural industry exceeding $45 billion, annually. Many pest species can reach damaging population levels quickly and often the plants do not show obvious symptoms until pest population levels are high. Early detection of initial infestations reduces crop losses and precise responses can significantly reduce the volume of insecticides applied, which reduces operating expenses and toxic chemicals entering our food supply. Detection of pests requires constant monitoring of fields, which requires the placement of traps, workers to continually monitor traps (often on a weekly basis), and accurate identification of the insects captured. This is a very labor-intensive process and requires a certain level of expertise to provide accurate and timely information to the farmer.   The purpose of this NSF Phase I small business grant was to take an existing trap system developed by SolaRid AR LLC and develop a prototype for an artificial intelligence (AI)-driven automated pest insect identification system. This prototype can be attached to the trap, making it a smart trap that provides real-time information on pest identification and numbers to the farmer. The goal of Phase I was to focus on the hardware for the system but also to begin development of the algorithms for insect detection and identification.  The system requires a sensor to detect when an insect enters the trap, cameras to image the flying insects with enough resolution to identify the insect and at speeds fast enough to effectively ?freeze action?, and a flash system to provide enough light to achieve the desired results. For the prototype, the sensor, machine-vision cameras, and lenses were off-the-shelf products used in manufacturing to monitor production lines. Since most characteristics needed for insect identification can be found on the top and sides of the insect body, one camera was placed focusing down onto entering insects and another was placed on the side. This provides two angles for every insect that enters the trap. The flash system was developed in-house as no existing product on the market met the light demands of the system. It surrounds the sensor and provides an array of LEDs located in the same orientation as the cameras. The entire system is controlled by an onboard computer processing unit that receives the signal from the sensor that an insect has broken the infrared, sensor plane and then within a fraction of a second, triggers the flashes and cameras. Eventually, the AI identification of the insect will also occur in this processing unit, eliminating the need to send images through the cloud and making the traps function even in areas with limited cellular networks.  Much of the software development to produce a final functioning product was not a part of this Phase I project, however, progress was made in several areas. It became clear during early trials that obtaining crisp images of small, fast flying objects at night was going to require both hardware and computer science solutions to achieve our desired results. Our team developed algorithms that increase both brightness and resolution in the final images much like technology typically used for movies when the investigators transform grainy security footage into high-definition images. This advancement made by our team lessened the overall light needed in the system, making it more achievable to get enough light and lessening the overall cost of the system. Additionally, software was developed to control the sensor-camera-flash system so everything could be synchronized to fire when the insect was in the field of view and to allow the system to take a burst of images to capture the insect wings in different points of the wingbeat, thus preventing wing position from obscuring certain characters needed for identification. Lastly, software was developed so the computer could accurately find and extract insects in the images obtained, ignoring any non-insect noise that may be present. This allows the computer to exclusively examine the insect for identifiable features and provide an accurate count of the insects that enter the trap. Many of these developed software products will have use beyond this trap system.  Overall, many advancements have been made toward production of a fully automated, AI-driven insect identification system that will revolutionize insect monitoring in agricultural systems. Our project has generated proprietary technologies, three published research papers, and multiple sustainable competitive advantages. We have filed provisional patents for algorithms and hardware developed. Prototypes are being field deployed to collect images for use in training the AI identification system, with the final goal of a marketable smart trap, designed for the $2.5 Trillion, global agriculture industry that is adaptable to different crop types around the world.          Last Modified: 06/14/2022       Submitted by: Donald Richardson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

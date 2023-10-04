@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Machine learning-driven design of lithium-ion batteries]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of high-performance, cost-effective, and safe lithium-ion batteries (LIBs) based on components optimized with a novel computational platform that can minimize the discovery and design-cycle time scales. The new simulation and design technologies have a direct impact on segments  including developers in LIB companies and electric vehicle companies, and university/laboratory researchers.  This technology can accelerate adoption of electric vehicles, which can reduce emissions and achieve better fuel economy.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of geometrically accurate numerical models of particles, binders, and conductivity enhancers in LIB electrodes. Finding optimal LIB electrode architectures and corresponding LIB configurations that maximize energy and power densities, rate capability, and safety during operation presents significant challenges. This project proposes use of Bayesian Machine Learning (BML) algorithms. The proposed BML-driven design algorithms incorporate statistical microstructure characterization and reconstruction methods to support the LIB electrode design, multitask Gaussian Processes (GPs) to integrate experimental data with multi-fidelity and multiscale simulations, and a multi-objective acquisition function to achieve the LIB multi-objective design. The use of a Bayesian optimization approach allows the systematic exploration of the design space. The result is an LIB electrode architecture optimizing the trade space of performance, cost, and safety.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028630</AwardID>
+<Investigator>
+<FirstName>Likun</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Likun Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[likzhu@iupui.edu]]></EmailAddress>
+<NSF_ID>000572880</NSF_ID>
+<StartDate>07/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andres</FirstName>
+<LastName>Tovar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andres Tovar</PI_FULL_NAME>
+<EmailAddress><![CDATA[andres@atomic.industries]]></EmailAddress>
+<NSF_ID>000545462</NSF_ID>
+<StartDate>07/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474057000</ZipCode>
+<PhoneNumber>3172783473</PhoneNumber>
+<StreetAddress>107 S INDIANA AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YH86RTW2YVJ4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF INDIANA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YH86RTW2YVJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Indiana University-Purdue University Indianapolis]]></Name>
+<CityName>Indianapolis</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>462025191</ZipCode>
+<StreetAddress><![CDATA[723 West Michigan Street, SL 260]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Background</strong><span>.  Current Lithium-ion battery (LIB) designs consist of planar (2D) arrangements of anode, separator/electrolyte, and cathode films between collectors arranged in such a way that the available energy is maximized (as much active material as possible) and ohmic potential losses are minimized (films as thin as possible). With the advancement of design, modeling, and manufacturing methods, thick (3D) active materials with an optimized microstructure and material composition have the potential to substantially improve the areal capacity and energy density of the LIB.&nbsp;</span></p> <p><strong>Purpose</strong><span>.  To navigate the vast variety of complex electrode 3D microstructures and material systems for a target application, our research group is developing Bayesian machine learning algorithms and computational models that guide the optimal design of 3D LIB electrodes and cells at multiple instances including (1) material chemistry, (2) electrode micro-structure, and (3) cell configuration. Our modeling and machine learning optimization software can help cell designers to reduce the design cycle time by reducing the number of iterations needed to identify designs with high energy density while satisfying market requirements for cost, life, and safety.&nbsp;</span></p> <p><strong>Methods</strong><span>.  The proposed multitask Bayesian machine learning (BML) tool introduced by our team is a well-suited technology for the optimal, multi-scale design of LIBs. The BML tool has two main components: (1) Gaussian process (GP)-based surrogate models of the expensive experiments and numerical simulations and (2) an acquisition function that drives the design process. The GP-based models provide a statistical framework for the analysis of data from physical experiments, material databases, and multi-scale, multi-fidelity numerical models. The acquisition function (AF) employs the probabilistic predictions of the GP models to quantify the expected improvement offered by different designs. At each iteration, the AF is maximized to identify the best candidates for physical experimentation and/or numerical simulation. In this manner, the BML approach sequentially drives the search towards optimal LIB electrodes and cells.&nbsp;</span></p> <p><strong>Results</strong><span>.  The effectiveness of the multitask Bayesian framework has been demonstrated in three applications: (1) the prediction of the cycling performance of LiNiMnO cells, (2) the optimal design of cathode materials for LiNiMnO cells, and (3) the design optimization of LiNiCoAlO cells. The first two applications involve data from physical experiments while the last application is supported by data from numerical simulations. For the cycling performance prediction and design of LiNiMnO cells, five LIB cells with Ni contents of 0.0, 0.4, 0.5, 0.6, and 1.0 were tested at a C rate of 1 during 1000 cycles (83 days). Multi-fidelity GP-based modeling supported the prediction of the cycling performance of LiNiMnO cells. The co-kriging surrogate, a multi-fidelity model, generated predictions of the degradation profiles of LiNiMnO cells under cycling loads by fusing the partial cycling information of a cell with specific Ni content and complete cycling data of a different cell. The results show that the multi-fidelity model produces accurate mean predictions and uncertainty estimations of the degradation profiles. In the design of cathode active materials for LiNiMnO cells, the Bayesian machine learning algorithm was utilized to identify new Ni contents that can produce cells with large specific capacity and large cycle life. GP regression models utilized the experimental data to predict the performance of cells with other Ni contents and quantified the uncertainty in the predictions. The goal-based Euclidean expected improvement (EEI) employed the probabilistic predictions of the GP models to quantify the gain offered by different Ni contents in terms of specific energy and cycle life. The goal-based EEI function was maximized to identify of five new Ni contents that can produce cells with large specific capacity and large cycle life. In the last application, the data for the design optimization of LiNiCoAlO cells was generated by numerical simulations of the cycling performance test in Simcenter Battery Designs Studio (BDS). The Bayesian machine learning algorithm identifies the thickness and porosities of the electrodes that maximize the specific energy and minimize the capacity fade. The thickness is restricted to vary from 22 to 240 &#120583;m and the porosity from 0.22 to 0.54. The optimization is supported by GP regression models of the objective functions and the EEI acquisition function. The initial GP models are built with a 30-sample sampling plan and the optimization algorithm is executed for 50 iterations. The methodology identifies 37 Pareto designs with specific energies in the range of 87 to 249 mWhr/g and capacity fade in the range of 12.4 to 37.5%.&nbsp;</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 11/01/2021<br>      Modified by: Andres&nbsp;Tovar</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2028630/2028630_10683599_1635800983668_Fig_1_Bayesian_optimization_framework--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2028630/2028630_10683599_1635800983668_Fig_1_Bayesian_optimization_framework--rgov-800width.jpg" title="Bayesian optimization framework"><img src="/por/images/Reports/POR/2021/2028630/2028630_10683599_1635800983668_Fig_1_Bayesian_optimization_framework--rgov-66x44.jpg" alt="Bayesian optimization framework"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The multitask Bayesian machine learning approach introduced by our team is suitable for the optimal, multi-scale design of LIBs. The Gaussian process regression models provide the statistical framework for analyzing multi-source data.</div> <div class="imageCredit">Andres Tovar</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Andres&nbsp;Tovar</div> <div class="imageTitle">Bayesian optimization framework</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2028630/2028630_10683599_1635802646866_Fig_2_Optimal_LIB_cycling_fade_prediction_v4--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2028630/2028630_10683599_1635802646866_Fig_2_Optimal_LIB_cycling_fade_prediction_v4--rgov-800width.jpg" title="Cycling performance prediction of LIB cells"><img src="/por/images/Reports/POR/2021/2028630/2028630_10683599_1635802646866_Fig_2_Optimal_LIB_cycling_fade_prediction_v4--rgov-66x44.jpg" alt="Cycling performance prediction of LIB cells"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The multi-fidelity GP-based model predicts the degradation profile of a LiNiMnO cell with a specific Ni content by fusing two sources of information: partial cycling information of the cell and complete cycling information of a different cell.</div> <div class="imageCredit">Andres Tovar</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Andres&nbsp;Tovar</div> <div class="imageTitle">Cycling performance prediction of LIB cells</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2028630/2028630_10683599_1635802704278_Fig_3_Optimal_LIB_cathode_design_v2--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2028630/2028630_10683599_1635802704278_Fig_3_Optimal_LIB_cathode_design_v2--rgov-800width.jpg" title="Optimal LIB cathode design"><img src="/por/images/Reports/POR/2021/2028630/2028630_10683599_1635802704278_Fig_3_Optimal_LIB_cathode_design_v2--rgov-66x44.jpg" alt="Optimal LIB cathode design"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The GP model and Bayesian optimization framework allowed to predict the performance of cathodes the different Ni contents, quantified the uncertainty in the predictions, and produced cells with large specific capacity and large cycle life.</div> <div class="imageCredit">Andres Tovar</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Andres&nbsp;Tovar</div> <div class="imageTitle">Optimal LIB cathode design</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2028630/2028630_10683599_1635802763554_Fig_4_Design_optimization_of_LiNiCoAlO_cells--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2028630/2028630_10683599_1635802763554_Fig_4_Design_optimization_of_LiNiCoAlO_cells--rgov-800width.jpg" title="Design optimization of LiNiCoAlO cells"><img src="/por/images/Reports/POR/2021/2028630/2028630_10683599_1635802763554_Fig_4_Design_optimization_of_LiNiCoAlO_cells--rgov-66x44.jpg" alt="Design optimization of LiNiCoAlO cells"></a> <div class="imageCaptionContainer"> <div class="imageCaption">BML uses data from numerical simulations of the cycling performance to set the thickness and porosity of the electrodes that can produce LIB cells with high specific energy and low capacity fade. The simulations are performed in Simcenter Battery Design Studio.</div> <div class="imageCredit">Andres Tovar</div> <div class="imagePermisssions">Royalty-free (restricted use - cannot be shared)</div> <div class="imageSubmitted">Andres&nbsp;Tovar</div> <div class="imageTitle">Design optimization of LiNiCoAlO cells</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Background.  Current Lithium-ion battery (LIB) designs consist of planar (2D) arrangements of anode, separator/electrolyte, and cathode films between collectors arranged in such a way that the available energy is maximized (as much active material as possible) and ohmic potential losses are minimized (films as thin as possible). With the advancement of design, modeling, and manufacturing methods, thick (3D) active materials with an optimized microstructure and material composition have the potential to substantially improve the areal capacity and energy density of the LIB.   Purpose.  To navigate the vast variety of complex electrode 3D microstructures and material systems for a target application, our research group is developing Bayesian machine learning algorithms and computational models that guide the optimal design of 3D LIB electrodes and cells at multiple instances including (1) material chemistry, (2) electrode micro-structure, and (3) cell configuration. Our modeling and machine learning optimization software can help cell designers to reduce the design cycle time by reducing the number of iterations needed to identify designs with high energy density while satisfying market requirements for cost, life, and safety.   Methods.  The proposed multitask Bayesian machine learning (BML) tool introduced by our team is a well-suited technology for the optimal, multi-scale design of LIBs. The BML tool has two main components: (1) Gaussian process (GP)-based surrogate models of the expensive experiments and numerical simulations and (2) an acquisition function that drives the design process. The GP-based models provide a statistical framework for the analysis of data from physical experiments, material databases, and multi-scale, multi-fidelity numerical models. The acquisition function (AF) employs the probabilistic predictions of the GP models to quantify the expected improvement offered by different designs. At each iteration, the AF is maximized to identify the best candidates for physical experimentation and/or numerical simulation. In this manner, the BML approach sequentially drives the search towards optimal LIB electrodes and cells.   Results.  The effectiveness of the multitask Bayesian framework has been demonstrated in three applications: (1) the prediction of the cycling performance of LiNiMnO cells, (2) the optimal design of cathode materials for LiNiMnO cells, and (3) the design optimization of LiNiCoAlO cells. The first two applications involve data from physical experiments while the last application is supported by data from numerical simulations. For the cycling performance prediction and design of LiNiMnO cells, five LIB cells with Ni contents of 0.0, 0.4, 0.5, 0.6, and 1.0 were tested at a C rate of 1 during 1000 cycles (83 days). Multi-fidelity GP-based modeling supported the prediction of the cycling performance of LiNiMnO cells. The co-kriging surrogate, a multi-fidelity model, generated predictions of the degradation profiles of LiNiMnO cells under cycling loads by fusing the partial cycling information of a cell with specific Ni content and complete cycling data of a different cell. The results show that the multi-fidelity model produces accurate mean predictions and uncertainty estimations of the degradation profiles. In the design of cathode active materials for LiNiMnO cells, the Bayesian machine learning algorithm was utilized to identify new Ni contents that can produce cells with large specific capacity and large cycle life. GP regression models utilized the experimental data to predict the performance of cells with other Ni contents and quantified the uncertainty in the predictions. The goal-based Euclidean expected improvement (EEI) employed the probabilistic predictions of the GP models to quantify the gain offered by different Ni contents in terms of specific energy and cycle life. The goal-based EEI function was maximized to identify of five new Ni contents that can produce cells with large specific capacity and large cycle life. In the last application, the data for the design optimization of LiNiCoAlO cells was generated by numerical simulations of the cycling performance test in Simcenter Battery Designs Studio (BDS). The Bayesian machine learning algorithm identifies the thickness and porosities of the electrodes that maximize the specific energy and minimize the capacity fade. The thickness is restricted to vary from 22 to 240 &#120583;m and the porosity from 0.22 to 0.54. The optimization is supported by GP regression models of the objective functions and the EEI acquisition function. The initial GP models are built with a 30-sample sampling plan and the optimization algorithm is executed for 50 iterations. The methodology identifies 37 Pareto designs with specific energies in the range of 87 to 249 mWhr/g and capacity fade in the range of 12.4 to 37.5%.           Last Modified: 11/01/2021       Submitted by: Andres Tovar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

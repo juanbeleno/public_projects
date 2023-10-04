@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Rapid Solution to COVID-19 and Future Viral Pandemics]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255973.00</AwardTotalIntnAmount>
+<AwardAmount>255973</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Research Innovation (SBIR) Phase I project is a demonstration of a millimeter wave Rapid Pathogen Detector System (or “RPDS”) to autonomously detect and instantly identify pathogens at tiny concentrations as even these samples may cause health threats to individuals or to a community. The “in the field” demonstration utilizes a database of captured and learned the characteristics (i.e., electronic signature) of the pathogen using a unique machine learning/artificial intelligence model. Once the RPDS is “trained” to recognize the pathogen, the RPDS may detect and identify pathogens in human and non-human samples in the field with high accuracy.  The model target pathogen of this project is the SARS-CoV-2 virus.  This target is to be followed by a selection of other viruses, proteins, biomatter, defective cells (cancer), and small inanimate objects as well. The RPDS system capabilities seek to increase the testing rate by an orders of magnitude compared to the current state of the art detection and diagnostic systems. Also, the instant results can be streamed to authorized individuals and officials in seconds using the local WiFi/ ethernet systems. &lt;br/&gt;&lt;br/&gt;This small Business Innovation Research (SBIR) Phase I project is to develop and demonstrate an autonomous and remotely operated millimeter wave (MMW) device that identifies pathogens in seconds in the field. The chemical-free, mobile mini table top systems is to help expand the number of pathogen test stations throughout the USA. This effort utilizes transmitted MMW signals reflected from nanosize pathogens in a manner that captures their unique characteristic via digital signal processing assisted artificial intelligence (AI) structures and stores a reliable unique model of the target pathogen.  Utilizing machine learning (ML), the detector autonomously recognizes the pathogen identity within each of the million scans (reflected response packets) of the unidentified samples, each second.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051411</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Childs</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Timothy Childs</PI_FULL_NAME>
+<EmailAddress><![CDATA[timothyChilds17@gmail.com]]></EmailAddress>
+<NSF_ID>000825107</NSF_ID>
+<StartDate>08/19/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>TLC MILLIMETER WAVE PRODUCTS INC.</Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554113429</ZipCode>
+<PhoneNumber>9523569277</PhoneNumber>
+<StreetAddress>1415 W RIVER RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DRBMA8LYJKW7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TLC MILLIMETER WAVE PRODUCTS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[TLC Millimeter Wave Products Inc.]]></Name>
+<CityName>Minneapolis</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554113429</ZipCode>
+<StreetAddress><![CDATA[1415 W River Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4096</Code>
+<Text>COMMUNICATIONS RESEARCH</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255973</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>For this Phase I effort, with our university and corporate partners, advance MMW technology was integrated with ultra-high speed signal process (&gt; 1 million sample per seconds), combined with Artificial intelligence to create high precision simplified pathogen detectors.&nbsp; That is, actual 3 different systems were designed, developed, patented, and tested that can instantly detect and identify pathogens in as small as 100 ul liquid biological sample on a swab (saliva, mucus, or blood).</p> <p>That is, low cost precise performance MMW systems demonstrated that instant accurate pathogen identification vs concentration result can be obtained for several high demand market areas such as ;</p> <ol> <li>for high throughput diagnostic laboratory samples testing, High public volume test sites i. e international borders, </li> <li>instant result at stadium, school entrances, cruise ship entrances, airlines departure gates, etc.&nbsp; </li> <li>reliable business test needs for corporations, hospitals, university studies</li> </ol> <p><strong>Figure 1</strong> provide result from the MMW contactless virus scanner system high probability of detection certainty using the Machine learned AI recognition of the virus signature.&nbsp; <strong>Figure 2,</strong> shows an example of the various target virus (SARs Cov2, Influenza A, and Corona virus&nbsp; CV229)&nbsp; <strong>Figure 3</strong> shows results of &nbsp;our&nbsp; the 3<sup>rd</sup> system generating the&nbsp; signature profiles of a virus vs &nbsp;concentration, as&nbsp; the system limit of detection is determined.</p> <p>In parallel to the proposed Phase II effort of additional innovative pathogen detection, the simplest of the 3 systems will be prepared for the EUA and De novo process of the FDA. After FDA approval, the anticipate resulting systems should contribute to further reduce pandemics, in the future.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/04/2022<br>      Modified by: Timothy&nbsp;Childs</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2051411/2051411_10764152_1664898544929_Figure1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2051411/2051411_10764152_1664898544929_Figure1--rgov-800width.jpg" title="Figure 1: Sample test result of Phase I contactless MMW instant pathogen detector"><img src="/por/images/Reports/POR/2022/2051411/2051411_10764152_1664898544929_Figure1--rgov-66x44.jpg" alt="Figure 1: Sample test result of Phase I contactless MMW instant pathogen detector"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Sample test result of Phase I contactless MMW instant pathogen detector</div> <div class="imageCredit">N/A</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Timothy&nbsp;Childs</div> <div class="imageTitle">Figure 1: Sample test result of Phase I contactless MMW instant pathogen detector</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2051411/2051411_10764152_1664898608457_Figure2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2051411/2051411_10764152_1664898608457_Figure2--rgov-800width.jpg" title="Figure 02"><img src="/por/images/Reports/POR/2022/2051411/2051411_10764152_1664898608457_Figure2--rgov-66x44.jpg" alt="Figure 02"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2: Virus signature profiles of SARs- Cov2 vs Influenza A & CCV229</div> <div class="imageCredit">N/A</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Timothy&nbsp;Childs</div> <div class="imageTitle">Figure 02</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2051411/2051411_10764152_1664898654094_Figure3--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2051411/2051411_10764152_1664898654094_Figure3--rgov-800width.jpg" title="Figure 03"><img src="/por/images/Reports/POR/2022/2051411/2051411_10764152_1664898654094_Figure3--rgov-66x44.jpg" alt="Figure 03"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 3: overlap profiles of SARs-CoV 2  to determine LOD & develop model equation</div> <div class="imageCredit">N/A</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Timothy&nbsp;Childs</div> <div class="imageTitle">Figure 03</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ For this Phase I effort, with our university and corporate partners, advance MMW technology was integrated with ultra-high speed signal process (&gt; 1 million sample per seconds), combined with Artificial intelligence to create high precision simplified pathogen detectors.  That is, actual 3 different systems were designed, developed, patented, and tested that can instantly detect and identify pathogens in as small as 100 ul liquid biological sample on a swab (saliva, mucus, or blood).  That is, low cost precise performance MMW systems demonstrated that instant accurate pathogen identification vs concentration result can be obtained for several high demand market areas such as ;  for high throughput diagnostic laboratory samples testing, High public volume test sites i. e international borders,  instant result at stadium, school entrances, cruise ship entrances, airlines departure gates, etc.   reliable business test needs for corporations, hospitals, university studies   Figure 1 provide result from the MMW contactless virus scanner system high probability of detection certainty using the Machine learned AI recognition of the virus signature.  Figure 2, shows an example of the various target virus (SARs Cov2, Influenza A, and Corona virus  CV229)  Figure 3 shows results of  our  the 3rd system generating the  signature profiles of a virus vs  concentration, as  the system limit of detection is determined.  In parallel to the proposed Phase II effort of additional innovative pathogen detection, the simplest of the 3 systems will be prepared for the EUA and De novo process of the FDA. After FDA approval, the anticipate resulting systems should contribute to further reduce pandemics, in the future.          Last Modified: 10/04/2022       Submitted by: Timothy Childs]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

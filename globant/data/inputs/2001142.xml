@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: Deep-sequencing analysis of edited metabolic pathways to uncover, model, and overcome the epistatic constraints upon optimization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>179867.00</AwardTotalIntnAmount>
+<AwardAmount>179867</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Rockcliffe</SignBlockName>
+<PO_EMAI>drockcli@nsf.gov</PO_EMAI>
+<PO_PHON>7032927123</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Biological systems are inherently complex, composed of many interacting molecules. Even with knowledge of the properties of each individual component, these interactions create a challenge for predicting how changing one enzyme will affect the performance of the whole pathway and the growth of the organism. While synthetic biology has the potential to address certain critical national challenges, progress is hampered by a lack of mathematical models that can be used to guide the optimization of complex biological systems. This project works to optimize the mechanisms that incorporate carbon gas into cell material in order to develop an efficient organism for generating products such as fuels or pigments. The results of the experiments will then yield a computational model capable of predicting the effects of novel combinations of genes. This project will directly lead to specific improvements in an important biotechnological platform, while simultaneously demonstrating a generic approach to using computational biology to efficiently apply the power of genome editing to a variety of synthetic biology challenges. The project also will develop and disseminate computational tools via websites, publications, workshops, and classes that will make it easier for students and researchers to simulate and analyze metabolic networks to learn about fundamental quantitative concepts that underlie their function, and provide interdisciplinary training for undergraduates, graduate students, and postdoctoral fellows.   &lt;br/&gt;&lt;br/&gt;Epistasis represents a critical challenge to optimizing biological systems. When mutational effects upon growth or product generation depend on the genetic background, assessing performance across the entire parameter space of any system of realistic size quickly becomes impossible. There is an immediate need for two linked developments: empirical techniques that can rapidly generate and assess rational, combinatorial variants, and kinetic modeling techniques to incorporate these data and to make predictions. This project will use this novel approach to optimize the function of the high-efficiency ribulose monophosphate (RuMP) pathway that the team has successfully introduced into the model methanol-consuming organism, Methylobacterium extorquens. In this project, gene editing of a plasmid-encoded suite of enzymes will be performed along with deep sequencing to rapidly assess the fitnesses of a quarter-million genotypes with combinatorial variation in nine dimensions of expression.  The resulting epistasis data, combined with direct measurement of intracellular metabolite concentrations for select variant combinations, will be used to infer the numerous parameter values in the kinetic model, which then will be utilized to predict which regions of parameter space would be more or less flexible.  These parameter spaces will be targeted and compared in a second round of editing, experimentation and evaluation. &lt;br/&gt;&lt;br/&gt;This project is funded by the Systems and Synthetic Biology Program in the Division of Molecular and Cellular Biosciences.]]></AbstractNarration>
+<MinAmdLetterDate>10/25/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>10/25/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001142</AwardID>
+<Investigator>
+<FirstName>Jeremy</FirstName>
+<LastName>Draghi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jeremy Draghi</PI_FULL_NAME>
+<EmailAddress><![CDATA[jdraghi@vt.edu]]></EmailAddress>
+<NSF_ID>000082213</NSF_ID>
+<StartDate>10/25/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>M515A1DKXAN8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>Blacksburg</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240611040</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>144E</Code>
+<Text>Synthetic biology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~179866</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project began as an effort to uncover the mechanics of how bacteria evolve by combining computer models and new statistical methods with a vast data set, made by introducing mutations into a few targeted genes. Our goals were to map the obstacles that make adaptation to a new environment constrained and unpredictable. While COVID disrupted these specific plans, we were able to make significant progress through another approach to the same overarching questions: how do species adapt to a complex environment, and do asexual species like bacteria adapt differently to sexual organisms? We tackled this question with a mathematical model and extensive computer simulations. Our theory work established that the ways in which asexual organisms evolve gives them a greater tendency to specialize on one or a few habitats, whereas sexual organisms are better able to adopt a generalist lifestyle. We anticipate that this discovery will help improve predictions about how species change in response to new or human-altered environments. One application of these results, which we plan to explore in future work, is to predict whether a novel pathogen that infects several host species might maintain this generalist behavior, or split into several specialized lineages.<br />In addition to these research products, we also sought to improve public understanding of basic principles in ecology and evolution by producing and delivering new educational materials. Evolution and ecology take place over large scales, and the topics often seem abstract and intangible to students. We addressed this obstacle by creating games, using both simulations and custom playing cards, that illustrate how different microbes compete and coexist. After delivering these materials in summer camps to middle-school students, we were inspired to expand this program to create materials that K-12 teachers can use in their classrooms. These outreach efforts took on new urgency during the pandemic as we saw how public misunderstanding of concepts like exponential growth and competition among viral strains led to confusion and poor decision-making. Inspired by this urgent need, our outreach efforts will continue past the duration of this funded project.&nbsp;</p><br> <p>            Last Modified: 02/09/2022<br>      Modified by: Jeremy&nbsp;Draghi</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project began as an effort to uncover the mechanics of how bacteria evolve by combining computer models and new statistical methods with a vast data set, made by introducing mutations into a few targeted genes. Our goals were to map the obstacles that make adaptation to a new environment constrained and unpredictable. While COVID disrupted these specific plans, we were able to make significant progress through another approach to the same overarching questions: how do species adapt to a complex environment, and do asexual species like bacteria adapt differently to sexual organisms? We tackled this question with a mathematical model and extensive computer simulations. Our theory work established that the ways in which asexual organisms evolve gives them a greater tendency to specialize on one or a few habitats, whereas sexual organisms are better able to adopt a generalist lifestyle. We anticipate that this discovery will help improve predictions about how species change in response to new or human-altered environments. One application of these results, which we plan to explore in future work, is to predict whether a novel pathogen that infects several host species might maintain this generalist behavior, or split into several specialized lineages. In addition to these research products, we also sought to improve public understanding of basic principles in ecology and evolution by producing and delivering new educational materials. Evolution and ecology take place over large scales, and the topics often seem abstract and intangible to students. We addressed this obstacle by creating games, using both simulations and custom playing cards, that illustrate how different microbes compete and coexist. After delivering these materials in summer camps to middle-school students, we were inspired to expand this program to create materials that K-12 teachers can use in their classrooms. These outreach efforts took on new urgency during the pandemic as we saw how public misunderstanding of concepts like exponential growth and competition among viral strains led to confusion and poor decision-making. Inspired by this urgent need, our outreach efforts will continue past the duration of this funded project.        Last Modified: 02/09/2022       Submitted by: Jeremy Draghi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

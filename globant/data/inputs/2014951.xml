@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Semiparametric Adaptive Designs and Statistical Inference for Both the Mean and the Quantiles]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Adaptive design is an important and active research area driven by diverse requirements of clinical trials. However, most adaptive randomization designs either do not make good use of the available covariates or depend on unnecessary model assumptions, so the current state of adaptive designs does not match the data-rich environment. This project seeks to develop new theory and methodology for adaptive designs to streamline clinical trials by efficiently incorporating a vast amount of covariate information without model misspecification. The success of the project will allow a large quantity of available data to be utilized in adaptive designs, and trial participants to avoid unnecessary unsafe exposure. The research will have broad impacts on general experimental designs and their applications in fields such as product quality, food industry, energy and architecture, and computer simulation models. The PI will integrate research and education by promoting the adaptive designs among students, researchers, physicians, and project managers through courses and presentations, involving women and underrepresented minority students in research, and making presentations at minority-serving institutions.&lt;br/&gt; &lt;br/&gt;The project will focus on three main research directions. First, the PI plans to develop a new family of semiparametric covariate-adjusted response-adaptive (CARA) designs as well as analysis approaches that can achieve the objectives related to efficiency and ethics and incorporate many covariates without model misspecification. Second, in many fields, scientists are more interested in the tail quantiles than the mean. In addition, quantile inference is often a secondary analysis in clinical trials, allowing researchers and policymakers to detect the points along the distribution that may be the most amenable to the new treatment. The PI plans to develop a new family of semiparametric CARA designs and methods for quantile inference. Third, there is an urgent need to reduce development costs and shorten the time-to-market of new therapies. The PI plans to develop seamless phase II/III CARA designs with sequential monitoring. Both hypothesis testing and estimation will be investigated. Thus, the advantages of adaptive randomization, adaptive seamless design, and sequential monitoring will be combined in a single trial. Both asymptotic and finite-sample properties will be explored, and guidance for clinical trials will be offered.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/25/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014951</AwardID>
+<Investigator>
+<FirstName>Hulin</FirstName>
+<LastName>Wu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hulin Wu</PI_FULL_NAME>
+<EmailAddress><![CDATA[Hulin.Wu@uth.tmc.edu]]></EmailAddress>
+<NSF_ID>000482966</NSF_ID>
+<StartDate>10/25/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hongjian</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hongjian Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[Hongjian.Zhu@uth.tmc.edu]]></EmailAddress>
+<NSF_ID>000656182</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate>10/25/2022</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The University of Texas Health Science Center at Houston</Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>770305400</ZipCode>
+<PhoneNumber>7135003999</PhoneNumber>
+<StreetAddress>7000 FANNIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ZUFBNVZ587D4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF HEALTH SCIENCE CENTER</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Texas Health Science Center at Houston]]></Name>
+<CityName>Houston</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>770303900</ZipCode>
+<StreetAddress><![CDATA[1200 Pressler Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+</Award>
+</rootTag>

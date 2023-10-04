@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Deep learning diagnosis and platform for at-home ear evaluations in children]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>247568.00</AwardTotalIntnAmount>
+<AwardAmount>247568</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I Project will improve pediatric health.  Pediatric ear infections often manifest at night and the child must wait until the next day for an evaluation and treatment. The intention of this project is to create a deep-learning at-home ear infection diagnostic system.  &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I will advance translation of a pediatric ear-imaging system. The objectives include: generating a training data set with images labeled with correct diagnoses from a pediatric clinical setting; creating a deep learning algorithm with transfer learning from well-established convolutional neural networks for prediction; creating a prototype software interface to label a new image presented to the system; and designing a speculum for at-home image acquisition.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/09/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036021</AwardID>
+<Investigator>
+<FirstName>Courtney</FirstName>
+<LastName>Hill</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Courtney Hill</PI_FULL_NAME>
+<EmailAddress><![CDATA[courtney@glimpsediagnostics.com]]></EmailAddress>
+<NSF_ID>000781569</NSF_ID>
+<StartDate>02/09/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>COHI GROUP L.L.C.</Name>
+<CityName>ARDEN HILLS</CityName>
+<ZipCode>551123641</ZipCode>
+<PhoneNumber>3158772938</PhoneNumber>
+<StreetAddress>1455 SKILES LANE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FKF8N83XJ7P6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COHI GROUP L.L.C.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[COHI GROUP L.L.C.]]></Name>
+<CityName>Arden Hills</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>551123641</ZipCode>
+<StreetAddress><![CDATA[1455 Skiles Lane]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~247568</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-42243c99-7fff-bfd7-2aad-46d7b4b72184"><span>We recognized that it is very difficult if not impossible for children to receive ear care at home. Two main reasons are that a healthcare provider needs to examine the eardrum in order to make a diagnosis and treat the child and that the ear exam is difficult to interpret for the healthcare provider.&nbsp; At home, the caretaker or parent must obtain the exam for a remote healthcare provider to assess it. Parents have not been successful historically in achieving the exam. Healthcare providers have not been highly accurate with ear diagnosis when they depend on their human eye. The overall goal of the award was to create a deep learning model that can visually classify images of eardrums with superior accuracy than the documented human healthcare provider performance; to create a speculum that accounts for children&rsquo;s ear canal anatomy and allows a layperson to achieve views of eardrums adequate for diagnosis when used with off-the-shelf smartphone otoscopes; and to add additional light to the speculum to improve the visualization of the eardrum. We accomplished all of these things. The algorithm classified at a rate of 92.5% accuracy compared to pediatricians&rsquo; 50%, on average. Parents were able to use our speculum properly. When they used it to obtain videos of their children&rsquo;s ears, ENT surgeons felt that the important structures or landmarks were visible 81% of the time when the eardrum was visible in the images. We added 8 times the amount of light by adding LED lighting to the speculum. This led to ENT surgeons choosing the images taken with the lighted speculum as the better image compared to non-lighted speculum 65% of the time.</span></span></p><br> <p>            Last Modified: 08/01/2023<br>      Modified by: Courtney&nbsp;Hill</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ We recognized that it is very difficult if not impossible for children to receive ear care at home. Two main reasons are that a healthcare provider needs to examine the eardrum in order to make a diagnosis and treat the child and that the ear exam is difficult to interpret for the healthcare provider.  At home, the caretaker or parent must obtain the exam for a remote healthcare provider to assess it. Parents have not been successful historically in achieving the exam. Healthcare providers have not been highly accurate with ear diagnosis when they depend on their human eye. The overall goal of the award was to create a deep learning model that can visually classify images of eardrums with superior accuracy than the documented human healthcare provider performance; to create a speculum that accounts for children’s ear canal anatomy and allows a layperson to achieve views of eardrums adequate for diagnosis when used with off-the-shelf smartphone otoscopes; and to add additional light to the speculum to improve the visualization of the eardrum. We accomplished all of these things. The algorithm classified at a rate of 92.5% accuracy compared to pediatricians’ 50%, on average. Parents were able to use our speculum properly. When they used it to obtain videos of their children’s ears, ENT surgeons felt that the important structures or landmarks were visible 81% of the time when the eardrum was visible in the images. We added 8 times the amount of light by adding LED lighting to the speculum. This led to ENT surgeons choosing the images taken with the lighted speculum as the better image compared to non-lighted speculum 65% of the time.       Last Modified: 08/01/2023       Submitted by: Courtney Hill]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

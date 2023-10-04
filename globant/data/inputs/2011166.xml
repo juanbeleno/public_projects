@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Type I: Liquid metal embrittlement of engineering alloys by eutectic gallium indium: Data-driven experimental design using sequential learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>184460.00</AwardTotalIntnAmount>
+<AwardAmount>184460</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daryl Hess</SignBlockName>
+<PO_EMAI>dhess@nsf.gov</PO_EMAI>
+<PO_PHON>7032924942</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[NONTECHNICAL SUMMARY&lt;br/&gt;This EAGER award supports research and education involving a new collaboration kindled at the MATDAT18 Datathon event focused on using the methods of data science to make progress on challenging problems in materials science, in the mechanisms of case liquid metal embrittlement. When certain liquid metals come into contact with specific solid metals, the solid metals can undergo a catastrophic reduction in strength and/or ductility; this is termed "liquid metal embrittlement." While liquid metal embrittlement has been studied for over a century, a full understanding of the phenomenon is lacking. There is currently no means to predict the occurrence or severity of liquid metal embrittlement under given conditions. The PIs aim to use a method where computers can "learn" from the data obtained from many studies to create a model that can predict the severity of liquid metal embrittlement as a function of the experimental conditions, including liquid composition, solid composition, temperature, deformation rate, and microscopic structure of the solid metal which is largely visible through powerful optical microscopes. The machine learning model created as part of this research may enable the use of liquid metals in engineering applications, such as in stretchable circuits, and allow for future study of the fundamental physical mechanisms responsible for liquid metal embrittlement. The project strongly emphasizes the education and professional development of students of all ages. Graduate and undergraduate researchers with a materials science background will be trained in both conventional laboratory skills and in data science methods for engineers. Additionally, outreach modules targeted to middle and high school students will be developed as part of this project and distributed to the broader community through programs including the Minorities in Engineering Program and The Engineering Place at North Carolina State University.  &lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;This EAGER award supports research and education involving a new collaboration kindled at the MATDAT18 Datathon event focused on using the methods of data science to make progress on challenging problems in materials science, in the mechanisms of case liquid metal embrittlement. To date, no predictive phenomenological or mechanistic models of liquid metal embrittlement have been successfully developed. The phenomenon of liquid metal embrittlement is incredibly complex, with embrittlement behavior shown to depend on nearly every experimental variable ever tested including temperature, strain rate, solid metal grain size, solid composition, liquid composition, and more. Due to this complex phenomenology and the experimental challenge of independently varying the large number of involved, purely empirical studies of liquid metal embrittlement are intractable.  This project takes an alternative approach to establish a predictive liquid metal embrittlement model: the Citrination platform will be used to conduct sequential learning. In this approach, an initial model is trained using preliminary data and used to suggest the next round of experiments which will have the greatest likelihood of improving the predictive capability of the model. The PI recently developed an initial model trained on data extracted from the literature. The model was used to suggest preliminary experiments, which were conducted and used to refine the model. However, further iterations are required for the model to achieve predictive capability. The PIs aim to iteratively refine the model. Once the model has sufficient predictive capability, a second objective of this work is to test the hypothesis that liquid metal embrittlement is not a monolithic phenomenon but is composed of several distinct mechanisms. The last main objective of this work is to identify "archetypal" systems for each identified potential mechanism and ideal candidates for future mechanistic study. If the hypothesis of multiple mechanisms is supported, this could reconcile seemingly contradictory reports of liquid metal embrittlement behavior present in the literature.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011166</AwardID>
+<Investigator>
+<FirstName>Victoria</FirstName>
+<LastName>Miller</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Victoria M Miller</PI_FULL_NAME>
+<EmailAddress><![CDATA[victoria.miller@ufl.edu]]></EmailAddress>
+<NSF_ID>000783163</NSF_ID>
+<StartDate>01/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326111941</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1523 UNION RD RM 207</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NNFQH1JAPEP3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName/>
+<StateCode>FL</StateCode>
+<ZipCode>326112002</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1765</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~184460</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>When a liquid metal contacts a solid metal (e.g. Hg metal on aluminum) the mechanical properties of the solid are sometimes catastrophically degraded, often resulting in an engineering failure of the solid part. This process is termed &ldquo;liquid metal embrittlement&rdquo; (LME). However, not all liquid-solid pairs are susceptible to LME. Historically, there has been no way to predict whether LME will occur for a given liquid-solid pair under a given set of experimental conditions without actually running the experiment. This inability to predict the occurrence of LME results in costly trial-and-error to find safe material combinations anytime a liquid metal is included in an engineering design. Common target applications include liquid metal batteries, flexible/stretchable electronic devices, and next-generation nuclear reactors.</p> <p>In this project over 1200 existing reports of LME were collected and converted to machine-readable metrics, then machine learning algorithms were trained on this dataset to enable LME to be predicted with over 80% accuracy. One of the key reasons for this success was the newly proposed interpretation of LME as multiple interacting phenomena. In the past LME was treated as single phenomenon and prediction efforts were typically 60% accurate at most. As part of this award the separation of LME into three mechanisms&mdash;cracking of interfaces, liquid wetting of grain boundary interfaces, and liquid metal corrosion&mdash;was proposed. This re-interpretation of the existing literature ultimately enabled the substantial improvement of predictive capability.</p> <p>The first phase of the project focused on data collection from the literature, which was a challenging manual process but a necessary prerequisite to training the machine learning model. In parallel, the solid Zn-liquid Ga-In couple was experimentally examined. It was demonstrated that this system falls into the grain boundary wetting mechanism of LME. A unique reconstruction of the microstructure (liquid metal mediated recrystallization) was described for the first time, then also observed in the Al-Ga system.</p> <p>In the second phase of the project a preliminary machine learning model was developed using the SciKit Learn package in Python. This model was promising, but had challenges with the interfacial cracking mode and the liquid metal corrosion mode. These issues were largely because of the available dataset and the material parameters selected for inclusion in the model. High-throughput experimental methods for screening LME systems were developed and new data was incorporated into the model. Additionally, more material parameters were introduced based on hypotheses regarding how LME proceeds in a real material. These model refinements improved predictive capabilities overall and reduced the severity of the issues encountered by the original model.</p> <p>The final phase of the project explored the interactions between the different modes of LME. The solid Al &ndash; liquid Ga-In system can display either the liquid metal corrosion or boundary wetting mode depending on the ambient humidity. Humidity controlled experiments were conducted to separate the mechanisms and demonstrate that the presence of both can accelerate the rate of liquid metal attack.</p> <p>In summary, this intellectual merit of this project dramatically advanced the present understanding of liquid metal embrittlement and suggested a new paradigm for follow-on studies of the individual mechanisms. The implementation of a machine learning model for the prediction of LME has immediate application in the design of engineering components that may encounter liquid metals in service, a broader societal impact. Further broader impacts came from student training and professional development; machine learning was incorporated into the University of Florida undergraduate curriculum as part of this award and nearly 10 students were involved in conducting the actual research under this project.</p> <p>&nbsp;</p><br> <p>            Last Modified: 04/30/2022<br>      Modified by: Victoria&nbsp;M&nbsp;Miller</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ When a liquid metal contacts a solid metal (e.g. Hg metal on aluminum) the mechanical properties of the solid are sometimes catastrophically degraded, often resulting in an engineering failure of the solid part. This process is termed "liquid metal embrittlement" (LME). However, not all liquid-solid pairs are susceptible to LME. Historically, there has been no way to predict whether LME will occur for a given liquid-solid pair under a given set of experimental conditions without actually running the experiment. This inability to predict the occurrence of LME results in costly trial-and-error to find safe material combinations anytime a liquid metal is included in an engineering design. Common target applications include liquid metal batteries, flexible/stretchable electronic devices, and next-generation nuclear reactors.  In this project over 1200 existing reports of LME were collected and converted to machine-readable metrics, then machine learning algorithms were trained on this dataset to enable LME to be predicted with over 80% accuracy. One of the key reasons for this success was the newly proposed interpretation of LME as multiple interacting phenomena. In the past LME was treated as single phenomenon and prediction efforts were typically 60% accurate at most. As part of this award the separation of LME into three mechanisms&mdash;cracking of interfaces, liquid wetting of grain boundary interfaces, and liquid metal corrosion&mdash;was proposed. This re-interpretation of the existing literature ultimately enabled the substantial improvement of predictive capability.  The first phase of the project focused on data collection from the literature, which was a challenging manual process but a necessary prerequisite to training the machine learning model. In parallel, the solid Zn-liquid Ga-In couple was experimentally examined. It was demonstrated that this system falls into the grain boundary wetting mechanism of LME. A unique reconstruction of the microstructure (liquid metal mediated recrystallization) was described for the first time, then also observed in the Al-Ga system.  In the second phase of the project a preliminary machine learning model was developed using the SciKit Learn package in Python. This model was promising, but had challenges with the interfacial cracking mode and the liquid metal corrosion mode. These issues were largely because of the available dataset and the material parameters selected for inclusion in the model. High-throughput experimental methods for screening LME systems were developed and new data was incorporated into the model. Additionally, more material parameters were introduced based on hypotheses regarding how LME proceeds in a real material. These model refinements improved predictive capabilities overall and reduced the severity of the issues encountered by the original model.  The final phase of the project explored the interactions between the different modes of LME. The solid Al &ndash; liquid Ga-In system can display either the liquid metal corrosion or boundary wetting mode depending on the ambient humidity. Humidity controlled experiments were conducted to separate the mechanisms and demonstrate that the presence of both can accelerate the rate of liquid metal attack.  In summary, this intellectual merit of this project dramatically advanced the present understanding of liquid metal embrittlement and suggested a new paradigm for follow-on studies of the individual mechanisms. The implementation of a machine learning model for the prediction of LME has immediate application in the design of engineering components that may encounter liquid metals in service, a broader societal impact. Further broader impacts came from student training and professional development; machine learning was incorporated into the University of Florida undergraduate curriculum as part of this award and nearly 10 students were involved in conducting the actual research under this project.          Last Modified: 04/30/2022       Submitted by: Victoria M Miller]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

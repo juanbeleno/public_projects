@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Poirot: From Contact Tracing to Private Exposure Detection]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>255571</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Joshi</SignBlockName>
+<PO_EMAI>jjoshi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Infectious diseases such as COronaVIrus Disease 2019 (COVID-19) are known to spread rapidly from person to person. In the absence of an effective vaccine or drug treatment, infection control relies on (i) rapid identification and isolation of persons with infection; a process called contact tracing, and/or (ii) extreme social distancing measures to reduce contact between people. Contact tracing processes used today are manual, time-consuming, error-prone, and do not scale. Scaling contact tracing through the use of smartphones pose risks to individuals' privacy and confidentiality. The other approach of physical distancing that has been implemented by governments has resulted in societal and economic distress. This project builds Poirot to detect exposure in a privacy-preserving manner automatically. As physical distancing measures are eased, a tool such as Poirot can be used to help the essential workers track exposure to the infection.&lt;br/&gt;&lt;br/&gt;Poirot is a privacy-preserving system that uses smartphones to (a) detect contact with potentially infectious individuals, and (b)  provide recommendations for infection control  (e.g.,  isolation, testing). Compared to other suggestions that utilize smartphones, Poirot makes three key innovations: (i) it takes into account the transitive nature of infection when notifying users, (ii) it utilizes user-contributed information beyond just contacts (e.g., use of personal protective equipment) to assess exposure status, and (iii) it can incorporate information retroactively, such as back-dated activities of infected users who were initially not in the system. These features present unique challenges in privacy, cryptography, secure multiparty computation, infectious disease epidemiology, and data-intensive systems. First, any exposure detection application, despite the emergency, must ensure the fundamental privacy rights of an individual. Poirot presents novel techniques in using secure multiparty computation algorithms to address this challenge and implement the features mentioned above. Second, any exposure detection solution must scale to millions of users, which cannot be done with current general-purpose secure multiparty computation tools. Poirot employs novel methods to speed up secure multiparty computation by revealing differentially private statistics and using techniques from data-intensive computing. Finally, revealing exposure status to individuals from smartphone identified contacts and user-contributed information can result in privacy violations. Thus, Poirot's selection of notification strategies will be informed by rigorous analysis of the privacy implications of different ways of notifying users of their exposure. Addressing these challenges helps develop a pragmatic and scalable solution for exposure detection that can be widely implemented by public health agencies in the face of the current and future pandemics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029853</AwardID>
+<Investigator>
+<FirstName>Jun</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jun Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[junyang@cs.duke.edu]]></EmailAddress>
+<NSF_ID>000486379</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kartik Ravidas</FirstName>
+<LastName>Nayak</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kartik Ravidas Nayak</PI_FULL_NAME>
+<EmailAddress><![CDATA[kartik@cs.duke.edu]]></EmailAddress>
+<NSF_ID>000811555</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ashwin</FirstName>
+<LastName>Machanavajjhala</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ashwin Machanavajjhala</PI_FULL_NAME>
+<EmailAddress><![CDATA[ashwin@cs.duke.edu]]></EmailAddress>
+<NSF_ID>000624095</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lavanya</FirstName>
+<LastName>Vasudevan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lavanya Vasudevan</PI_FULL_NAME>
+<EmailAddress><![CDATA[lavanya.vasudevan@duke.edu]]></EmailAddress>
+<NSF_ID>000825400</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054640</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TP7EK8DZV6N5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DUKE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Duke University]]></Name>
+<CityName>Durham</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277080129</ZipCode>
+<StreetAddress><![CDATA[308 Research Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>065Z</Code>
+<Text>Human factors for security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~215600</FUND_OBLG>
+<FUND_OBLG>2021~39971</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-48ded123-7fff-a28a-51af-d8aca8419f20"> </span></p> <p dir="ltr"><strong>Description of the project:</strong></p> <p>COVID-19 is a contagious disease that is known to spread rapidly through person-to-person contact. Thus, maintaining physical distancing has been one of the key measures for reducing its spread. Our group of researchers at Duke developed a novel application called Poirot to track the adherence of people toward physical distancing guidelines.&nbsp;</p> <p dir="ltr"><span>The data collected by Poirot provides actionable information to decision-makers and the individuals themselves. Organizations can use the aggregate data from Poirot to make policy decisions on measures and interventions to reduce the spread of COVID-19. For instance, such information can help assess the effectiveness of current policies such as opening at a reduced scale and also act as a feedback loop to inform new policies (e.g., identify hotspots and to better allocate sanitation resources). Using Poirot, individuals can track how well they adhere to physical distancing guidelines. They can also use aggregate data to plan their activities during days or times of day when contact events are low at their location of interest.</span></p> <p>Poirot has two components: a mobile phone app and aggregating servers along with a web-based dashboard. Through the mobile phone app, Poirot collects information about users' physical interactions (i.e., whether or not they are &gt; 6ft apart from other users at a given location) in a privacy-preserving manner using customized cryptography protocols. Only individual users can see their own individual data (screenshots attached). The Poirot servers collect this information in a privacy-preserving manner and display aggregate statistics of contact events, e.g., the average number of contact events on a particular day or in a time window at a given location, on the web-based dashboard (screenshot attached). Cryptography techniques such as secure multiparty computation and privacy techniques such as differential privacy are used during aggregation to add noise to the data to further prevent the possibility of user identification from the aggregate data. Thus, Poirot is designed to provide utility to organizations and individuals with little loss of privacy.</p> <p dir="ltr"><span>More details about our project can be found at: </span><a href="https://poirot.cs.duke.edu/"><span>https://poirot.cs.duke.edu/</span></a></p> <p dir="ltr"><strong>Findings that relate intellectual merit and broader impact:</strong></p> <p dir="ltr"><span>In the past two years, the PIs and their team interacted with epidemiologists at Duke, university administrators at Duke, and &#8203;&#8203;public health practitioners at the NC State DHHS to identify the precise problem to be solved, which has been summarized above. Subsequently, we researched the use of techniques in privacy and cryptography such that (i) it can be efficiently used in mobile systems while taking into consideration accuracy and energy efficiency constraints, and (ii) the data can be efficiently processed on the servers. The resulting system has been built end-to-end and will be open-sourced. The system was also tested in a user study within Duke to learn about its usability, functionality, perceived battery efficiency, perceived privacy, and adoption.</span></p> <p dir="ltr"><span>We have published our initial work in the NeurIPS Privacy-Preserving Machine Learning (PPML) 2021 workshop along with our poster that we presented at Sensys 2020. We are currently working on a longer-form submission to a systems conference.&nbsp;</span></p> <p dir="ltr"><span>During the project, the PIs have mentored a postdoctoral researcher, three graduate students, and four undergraduate students. Topics related to this research have been taught by the PI in a graduate course on Applied Cryptography and an undergraduate course in Computer Security.</span></p><br> <p>            Last Modified: 08/05/2022<br>      Modified by: Kartik Ravidas&nbsp;Nayak</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2029853/2029853_10668063_1657856715384_PhoneScreen1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2029853/2029853_10668063_1657856715384_PhoneScreen1--rgov-800width.jpg" title="Poirot Client App Screen"><img src="/por/images/Reports/POR/2022/2029853/2029853_10668063_1657856715384_PhoneScreen1--rgov-66x44.jpg" alt="Poirot Client App Screen"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Poirot Client App Screen</div> <div class="imageCredit">-</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Kartik Ravidas&nbsp;Nayak</div> <div class="imageTitle">Poirot Client App Screen</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2029853/2029853_10668063_1657856760809_PhoneScreen2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2029853/2029853_10668063_1657856760809_PhoneScreen2--rgov-800width.jpg" title="Poirot Client App Screen 2"><img src="/por/images/Reports/POR/2022/2029853/2029853_10668063_1657856760809_PhoneScreen2--rgov-66x44.jpg" alt="Poirot Client App Screen 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Poirot Client App Screen 2</div> <div class="imageCredit">-</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Kartik Ravidas&nbsp;Nayak</div> <div class="imageTitle">Poirot Client App Screen 2</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2029853/2029853_10668063_1657856828716_WebUI--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2029853/2029853_10668063_1657856828716_WebUI--rgov-800width.jpg" title="Poirot Web UI"><img src="/por/images/Reports/POR/2022/2029853/2029853_10668063_1657856828716_WebUI--rgov-66x44.jpg" alt="Poirot Web UI"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Poirot Web UI</div> <div class="imageCredit">-</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Kartik Ravidas&nbsp;Nayak</div> <div class="imageTitle">Poirot Web UI</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Description of the project:  COVID-19 is a contagious disease that is known to spread rapidly through person-to-person contact. Thus, maintaining physical distancing has been one of the key measures for reducing its spread. Our group of researchers at Duke developed a novel application called Poirot to track the adherence of people toward physical distancing guidelines.  The data collected by Poirot provides actionable information to decision-makers and the individuals themselves. Organizations can use the aggregate data from Poirot to make policy decisions on measures and interventions to reduce the spread of COVID-19. For instance, such information can help assess the effectiveness of current policies such as opening at a reduced scale and also act as a feedback loop to inform new policies (e.g., identify hotspots and to better allocate sanitation resources). Using Poirot, individuals can track how well they adhere to physical distancing guidelines. They can also use aggregate data to plan their activities during days or times of day when contact events are low at their location of interest.  Poirot has two components: a mobile phone app and aggregating servers along with a web-based dashboard. Through the mobile phone app, Poirot collects information about users' physical interactions (i.e., whether or not they are &gt; 6ft apart from other users at a given location) in a privacy-preserving manner using customized cryptography protocols. Only individual users can see their own individual data (screenshots attached). The Poirot servers collect this information in a privacy-preserving manner and display aggregate statistics of contact events, e.g., the average number of contact events on a particular day or in a time window at a given location, on the web-based dashboard (screenshot attached). Cryptography techniques such as secure multiparty computation and privacy techniques such as differential privacy are used during aggregation to add noise to the data to further prevent the possibility of user identification from the aggregate data. Thus, Poirot is designed to provide utility to organizations and individuals with little loss of privacy. More details about our project can be found at: https://poirot.cs.duke.edu/ Findings that relate intellectual merit and broader impact: In the past two years, the PIs and their team interacted with epidemiologists at Duke, university administrators at Duke, and &#8203;&#8203;public health practitioners at the NC State DHHS to identify the precise problem to be solved, which has been summarized above. Subsequently, we researched the use of techniques in privacy and cryptography such that (i) it can be efficiently used in mobile systems while taking into consideration accuracy and energy efficiency constraints, and (ii) the data can be efficiently processed on the servers. The resulting system has been built end-to-end and will be open-sourced. The system was also tested in a user study within Duke to learn about its usability, functionality, perceived battery efficiency, perceived privacy, and adoption. We have published our initial work in the NeurIPS Privacy-Preserving Machine Learning (PPML) 2021 workshop along with our poster that we presented at Sensys 2020. We are currently working on a longer-form submission to a systems conference.  During the project, the PIs have mentored a postdoctoral researcher, three graduate students, and four undergraduate students. Topics related to this research have been taught by the PI in a graduate course on Applied Cryptography and an undergraduate course in Computer Security.       Last Modified: 08/05/2022       Submitted by: Kartik Ravidas Nayak]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

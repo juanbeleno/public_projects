@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps: Field-deployable Diagnostic Laboratory for the Food Industry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a field-deployable, food safety assessment platform. Current protocols require that food samples be shipped and further analyzed in a central laboratory. Food products under testing will have already been sold and consumed by the customer. The aims of this effort are  to provide the inspection results within 10-12 hrs so the manufacturers have timely feedback, and to enable database options to digitally manage the inspection results and records so that this information could be potentially integrated into the upcoming block chain revolution in the food safety area. Success will provide earlier time-to-detection of food pathogens so that regulatory agencies can implement more rapid countermeasures to potential outbreak situations.  For manufacturers, the goal is to provide timely test to results so that manufacturers themselves may conduct their own inspections and find the vulnerable spots for contamination. For farmers and growers, the goal is to provide on-site microbial inspection results so that they may take measures internally without going through reporting and full-scale inspections. This effort may help each of the stakeholders so that they may take the initiative of ensuring effective microbial inspection and keep the food supply safe for all.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a portable food safety instrument. For the food safety area, the highlight is the bacteriophage-based assay that has high specificity with respect to the target food-borne pathogen, E.coli O157:H7. This patented assay only infects the target bacteria by integrating into the chromosome and does not kill the bacteria itself. At the same time, integrated genes are coded to generate photons at a wavelength around 495 nm. While conventional methods require a laboratory-based, high sensitivity measurement system (a luminometer) to detect the low level photon signal, this technology is pushing the limits of conventional, complementary metal oxide semiconductor (CMOS)-based senors, which are often used in smartphone cameras. The proposed hardware design for efficient photon capturing and the ensemble averaging-based noise reduction algorithm enables the detection of extremely low levels of light from commercial smartphones. Food spike testing with ground beef as a food matrix have resulted in positive signal detection within 10-12 hrs after inoculation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034362</AwardID>
+<Investigator>
+<FirstName>Euiwon</FirstName>
+<LastName>Bae</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Euiwon Bae</PI_FULL_NAME>
+<EmailAddress><![CDATA[ebae@purdue.edu]]></EmailAddress>
+<NSF_ID>000627868</NSF_ID>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>WEST LAFAYETTE</CityName>
+<ZipCode>479061332</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>2550 NORTHWESTERN AVE STE 1900</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YRXVL4JYCEF5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>PURDUE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YRXVL4JYCEF5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Purdue University]]></Name>
+<CityName>West Lafayette</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>479072114</ZipCode>
+<StreetAddress><![CDATA[Young Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Field-deployable Diagnostic Laboratory (FDL) aim to provide on-site and rapid diagnostic tools andassays for the various stake holders ranging from growers and food manufactures all the way to regulatoryagencies. Through NSF i-corps program, our aim is to conduct focused customer discovery to understandthe business opportunity of our idea. Our team consist of founder Dr. Euiwon Bae from School ofMechanical Engineering and Dr. Bruce Applegate from Department of Food Science. As a foundingmember, Xiayo Wang from Dr. Bae&rsquo;s group will join the effort along with Del Craig from the mentoringside of the business.</p> <p>&nbsp;</p> <p><strong>Intellectual merit</strong></p> <p>FDL&rsquo;s technology can be summarized as an interdisciplinary collaboration between Engineering and FoodScience. For food safety area, highlight is the bacteriophage-based assay which has high specificity withrespect to target food-borne pathogen, E.coli O157:H7. This patented assay only infects the target bacteriaand integrates with the chromosome which doesn&rsquo;t kill the bacteria itself. At the same time, integratedgenes is coded to generate photons at around 495 nm wavelength. While conventional method requireslaboratory-based high sensitivity measurement system (called luminometer) to detect the low level ofphoton signal, FDL&rsquo;s product is pushing the limit of conventional complementary metal oxidesemiconductor (CMOS) based senor which are mostly used in smartphone camera. Our patent pendinghardware design for efficient photon capturing and ensemble averaging-based noise reduction algorithmenables the detection of extremely low level of light from commercial smartphones. Food spike testingwith ground beef as a food matrix have resulted in positive signal detection within 10-12 hrs afterinoculation.</p> <p>&nbsp;</p> <p><strong>Broader impacts</strong></p> <p>Current protocol of these testing requires samples to be shipped and further analyzed in the centrallaboratory and once flagged for pathogen contamination, food product under testing will be already soldand consumed by the customer. FDL aim to provide earlier time-to-detection so that either regulatoryagencies can implement more rapid countermeasures to the outbreak situation, provide the inspectionresults on the spot within 10-12 hrs so the manufacturers can have timely feedback, and provide databaseoptions to digitally manage the inspection result and record so that it could be potentially integrated intothe upcoming block chain revolution in the food safety area. For manufacturers, we provide timely test toresults so that manufacturer themselves can conduct their own mock inspections and find the vulnerablespots for contaminations. For farmers and growers, we can provide on-site microbial inspection results sothat they can take measures internally without going through reporting and full-scale inspections. All ofthese can help each of the stakeholders so that they can take initiative of ensuring the microbial inspection.</p><br> <p>            Last Modified: 01/30/2023<br>      Modified by: Euiwon&nbsp;Bae</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Field-deployable Diagnostic Laboratory (FDL) aim to provide on-site and rapid diagnostic tools andassays for the various stake holders ranging from growers and food manufactures all the way to regulatoryagencies. Through NSF i-corps program, our aim is to conduct focused customer discovery to understandthe business opportunity of our idea. Our team consist of founder Dr. Euiwon Bae from School ofMechanical Engineering and Dr. Bruce Applegate from Department of Food Science. As a foundingmember, Xiayo Wang from Dr. Bae’s group will join the effort along with Del Craig from the mentoringside of the business.     Intellectual merit  FDL’s technology can be summarized as an interdisciplinary collaboration between Engineering and FoodScience. For food safety area, highlight is the bacteriophage-based assay which has high specificity withrespect to target food-borne pathogen, E.coli O157:H7. This patented assay only infects the target bacteriaand integrates with the chromosome which doesn’t kill the bacteria itself. At the same time, integratedgenes is coded to generate photons at around 495 nm wavelength. While conventional method requireslaboratory-based high sensitivity measurement system (called luminometer) to detect the low level ofphoton signal, FDL’s product is pushing the limit of conventional complementary metal oxidesemiconductor (CMOS) based senor which are mostly used in smartphone camera. Our patent pendinghardware design for efficient photon capturing and ensemble averaging-based noise reduction algorithmenables the detection of extremely low level of light from commercial smartphones. Food spike testingwith ground beef as a food matrix have resulted in positive signal detection within 10-12 hrs afterinoculation.     Broader impacts  Current protocol of these testing requires samples to be shipped and further analyzed in the centrallaboratory and once flagged for pathogen contamination, food product under testing will be already soldand consumed by the customer. FDL aim to provide earlier time-to-detection so that either regulatoryagencies can implement more rapid countermeasures to the outbreak situation, provide the inspectionresults on the spot within 10-12 hrs so the manufacturers can have timely feedback, and provide databaseoptions to digitally manage the inspection result and record so that it could be potentially integrated intothe upcoming block chain revolution in the food safety area. For manufacturers, we provide timely test toresults so that manufacturer themselves can conduct their own mock inspections and find the vulnerablespots for contaminations. For farmers and growers, we can provide on-site microbial inspection results sothat they can take measures internally without going through reporting and full-scale inspections. All ofthese can help each of the stakeholders so that they can take initiative of ensuring the microbial inspection.       Last Modified: 01/30/2023       Submitted by: Euiwon Bae]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

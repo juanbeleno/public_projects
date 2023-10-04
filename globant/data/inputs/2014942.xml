@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Power-Optimized Beamforming Front-End Technology for High-Capacity Millimeter-Wave Wireless Communications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project can positively impact a wide range of data-intensive wireless communication applications. An order of magnitude increase in bandwidth can enable much faster connection speeds for various communication applications, including 5G cellular, wireless infrastructure, and satellite communications. This project will enable network operators to rapidly roll-out advanced 5G wireless telecommunication networks. This technology will enable service providers to deploy cost-effective broadband connectivity to millions of underserved users and bridge the digital divide. Multiple industry sectors ranging from smart transportation, online healthcare, education, manufacturing, and smart city initiatives will be positively impacted. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project creates the core of a novel MMW front-end system architecture and RF Integrated Circuits system technology for the next generation of high-capacity MMW wireless communications. This project offers a unique MMW front-end technology, with a fundamentally different architecture compared to the existing state-of-the-art MMW wireless modules, that provides an ultra-high gain beam-forming wireless technology. In addition, the proposed technology significantly reduces the power consumption and RF losses compared to the conventional MMW front-end technologies. This project will investigate and demonstrate the performance of the proposed MMW beamforming front-end architecture, along with beamformer key building blocks for adaptation in highly efficient and high-capacity wireless networks. This technology supports an order of magnitude improvement in communication speeds compared to the existing MMW wireless solutions and enables many high-speed communication applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014942</AwardID>
+<Investigator>
+<FirstName>Avish</FirstName>
+<LastName>Kosari</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Avish Kosari</PI_FULL_NAME>
+<EmailAddress><![CDATA[avish@sky-gig.com]]></EmailAddress>
+<NSF_ID>000817849</NSF_ID>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SKYGIG, LLC</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481052401</ZipCode>
+<PhoneNumber>7349267762</PhoneNumber>
+<StreetAddress>2222 FULLER CT</StreetAddress>
+<StreetAddress2><![CDATA[APT 1115A]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NKBPEH8K1587</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>SKYGIG LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[SKYGIG, LLC]]></Name>
+<CityName>ANN ARBOR</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481052401</ZipCode>
+<StreetAddress><![CDATA[2222 FULLER CT APT 1115A]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4096</Code>
+<Text>COMMUNICATIONS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~225000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The fifth generation of the telecommunication network (5G) is going to be a technological paradigm shift, with higher capacity, communications speeds, and lower latency being the primary technology advantages. Unlike predecessor networks, 5G is not only an evolution of the network but also the underlying fabric of an entire ecosystem of fully connected intelligent sensors and devices. 5G is an enabler of many applications and will virtually impact every industry sector, ranging from automotive, manufacturing, healthcare to smart city, Internet of Things (IoT) and smart home, with trillion dollars at stake. Full realization of the economic growth of 5G, however, will depend on how robustly 5G networks are deployed, and will require different wireless equipment and approaches from those used in the past. More specifically, to enable the balance between coverage and capacity in the 5G network, network operators are building a network based on a combination of wireless networks that includes low-band, mid-band, and high-band wireless frequencies. The initial implementations of 5G network deployments builds on the previous generation of 4G LTE networks and is predominantly focused on using low- and mid-band 5G, where RF and microwave wireless frequencies up to 6 GHz are used. This level of service is already widely deployed, where the wide coverage of low- and mid-band 5G allows network operators to expand the footprint of their network while enhancing the communication speeds. However, unlocking the full potential of 5G communication speeds requires utilizing high-band 5G that uses much higher frequency bands, also referred to as millimeter-wave (mmWave). 5G mmWave, which is commonly perceived as the frontier of the wireless communications, uniquely offers 10x more available bandwidth than the existing low- and mid-bands, which in turn enables unprecedented connection speeds comparable to those offered by cable services. Despite these advantages, however, the existing commercially available mmWave wireless front-end radios are either limited in their functionality or suffer from high power-consumption, which makes them not suitable for emerging massive deployments such as 5G/6G backhaul, last-mile broadband for enterprise and service providers, etc. As a result, there is a need for new mmWave RF front-end technologies to unlock the full potential of fiber-speed wireless communications.</p> <p>In order to address this unmet need, through this SBIR Phase I effort we have successfully demonstrated the core of a novel mmWave front-end system architecture and RF Integrated Circuits (RFIC) system that serves as an enabler of a whole new class of mmWave beamforming RF front-end technologies. With a fundamentally different architecture compared to the existing state-of-the-art mmWave wireless modules and by leveraging SkyGig's patented mmWave technology, this beamforming front-end technology significantly reduces the power consumption and RF losses in the conventional mmWave front-ends, and in turn enables an order of magnitude higher aggregated throughput and capacity, longer coverage range, and lower latency compared to the best-in-class solutions. Integrated with SkyGig's innovative antenna technology, this power-optimized mmWave RFIC front-end system provides the hardware necessary to enable the vision of a truly fiber-speed network for future 5G/6G deployments and provides the ultimate network robustness, agility, with significant cost savings for the operators and businesses. This SBIR Phase I effort successfully establishes the feasibility of this patented mmWave RFIC front-end technology, demonstrates its key distinctive features for next generation 5G/6G network expansions, and provides a complete plan for SkyGig's follow-on technology development and commercialization of this technology, where we will focus on development of a turnkey mmWave front-end solution. The broader impact/commercial potential of this SBIR Phase I project is significant since the mmWave front-end technology serves as a platform for a range of high-capacity wireless communication applications, ranging from 5G/6G telecommunication infrastructure to satellite communications and beyond. Many of the more advanced 5G/6G use cases focus on connecting previously unconnected or under-connected communities, devices, and communities and are closely dependent on the progress of new wireless technologies to support these use cases. As an enabler of future telecommunication networks and devices, SkyGig technology is pivotal to massive deployment of mmWave for a wide set of wireless related applications and markets, including 5G Fixed Wireless Access (FWA), 5G mmWave Mobile Wireless Access (MWA), among others. As an enabler of 5G/6G, this advanced wireless technology will impact virtually many industry sectors, ranging from smart transportation, manufacturing, and healthcare to smart city IoT. This project paves the way to rapid and robust roll-out of broadband networks and enables bringing cost-effective broadband connectivity to millions of underserved users to bridge the digital divide.</p> <p>&nbsp;</p><br> <p>            Last Modified: 06/29/2022<br>      Modified by: Avish&nbsp;Kosari</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The fifth generation of the telecommunication network (5G) is going to be a technological paradigm shift, with higher capacity, communications speeds, and lower latency being the primary technology advantages. Unlike predecessor networks, 5G is not only an evolution of the network but also the underlying fabric of an entire ecosystem of fully connected intelligent sensors and devices. 5G is an enabler of many applications and will virtually impact every industry sector, ranging from automotive, manufacturing, healthcare to smart city, Internet of Things (IoT) and smart home, with trillion dollars at stake. Full realization of the economic growth of 5G, however, will depend on how robustly 5G networks are deployed, and will require different wireless equipment and approaches from those used in the past. More specifically, to enable the balance between coverage and capacity in the 5G network, network operators are building a network based on a combination of wireless networks that includes low-band, mid-band, and high-band wireless frequencies. The initial implementations of 5G network deployments builds on the previous generation of 4G LTE networks and is predominantly focused on using low- and mid-band 5G, where RF and microwave wireless frequencies up to 6 GHz are used. This level of service is already widely deployed, where the wide coverage of low- and mid-band 5G allows network operators to expand the footprint of their network while enhancing the communication speeds. However, unlocking the full potential of 5G communication speeds requires utilizing high-band 5G that uses much higher frequency bands, also referred to as millimeter-wave (mmWave). 5G mmWave, which is commonly perceived as the frontier of the wireless communications, uniquely offers 10x more available bandwidth than the existing low- and mid-bands, which in turn enables unprecedented connection speeds comparable to those offered by cable services. Despite these advantages, however, the existing commercially available mmWave wireless front-end radios are either limited in their functionality or suffer from high power-consumption, which makes them not suitable for emerging massive deployments such as 5G/6G backhaul, last-mile broadband for enterprise and service providers, etc. As a result, there is a need for new mmWave RF front-end technologies to unlock the full potential of fiber-speed wireless communications.  In order to address this unmet need, through this SBIR Phase I effort we have successfully demonstrated the core of a novel mmWave front-end system architecture and RF Integrated Circuits (RFIC) system that serves as an enabler of a whole new class of mmWave beamforming RF front-end technologies. With a fundamentally different architecture compared to the existing state-of-the-art mmWave wireless modules and by leveraging SkyGig's patented mmWave technology, this beamforming front-end technology significantly reduces the power consumption and RF losses in the conventional mmWave front-ends, and in turn enables an order of magnitude higher aggregated throughput and capacity, longer coverage range, and lower latency compared to the best-in-class solutions. Integrated with SkyGig's innovative antenna technology, this power-optimized mmWave RFIC front-end system provides the hardware necessary to enable the vision of a truly fiber-speed network for future 5G/6G deployments and provides the ultimate network robustness, agility, with significant cost savings for the operators and businesses. This SBIR Phase I effort successfully establishes the feasibility of this patented mmWave RFIC front-end technology, demonstrates its key distinctive features for next generation 5G/6G network expansions, and provides a complete plan for SkyGig's follow-on technology development and commercialization of this technology, where we will focus on development of a turnkey mmWave front-end solution. The broader impact/commercial potential of this SBIR Phase I project is significant since the mmWave front-end technology serves as a platform for a range of high-capacity wireless communication applications, ranging from 5G/6G telecommunication infrastructure to satellite communications and beyond. Many of the more advanced 5G/6G use cases focus on connecting previously unconnected or under-connected communities, devices, and communities and are closely dependent on the progress of new wireless technologies to support these use cases. As an enabler of future telecommunication networks and devices, SkyGig technology is pivotal to massive deployment of mmWave for a wide set of wireless related applications and markets, including 5G Fixed Wireless Access (FWA), 5G mmWave Mobile Wireless Access (MWA), among others. As an enabler of 5G/6G, this advanced wireless technology will impact virtually many industry sectors, ranging from smart transportation, manufacturing, and healthcare to smart city IoT. This project paves the way to rapid and robust roll-out of broadband networks and enables bringing cost-effective broadband connectivity to millions of underserved users to bridge the digital divide.          Last Modified: 06/29/2022       Submitted by: Avish Kosari]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

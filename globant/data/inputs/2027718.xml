@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Real-time updating of an agent-based model to inform COVID-19 mitigation strategies.]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>199883.00</AwardTotalIntnAmount>
+<AwardAmount>199883</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+<PO_EMAI>kdittmar@nsf.gov</PO_EMAI>
+<PO_PHON>7032927799</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The SARS-CoV-2 virus is responsible for the most significant pandemic in a century. With a vaccine not yet available, non-pharmaceutical interventions (NPIs) offer the only way to control the virus at this time. Those interventions, which include social distancing, school closures, and sheltering in place, may be effective if timed appropriately and adopted widely. At the same time, NPIs cause serious social and economic disruption, meaning that they must be used as sparingly as possible. To inform decisions about when to adopt NPIs, and when to relax them, it is important to understand what the consequences of those actions might be. This research will advance the capability of mathematical models to provide insight into those consequences. Looking to past data, the researchers will use statistical approaches to estimate key unknowns, such as numbers of people previously or actively infected. Looking into the future, the researchers will use simulation modeling of communities across the United States to evaluate the consequences of alternative actions. Merging these approaches will capitalize on the strengths of each, resulting in improved projections of the consequences of alternative strategies for mitigating the COVID-19 pandemic in the United States.&lt;br/&gt;&lt;br/&gt;This project will feature a geographically realistic, agent-based model of SARS-CoV-2 transmission in the United States. Advantages of this model include its detailed portrayal of the density, demography, and movement patterns of people in specific counties across the United States, and its ability to directly implement NPIs through behavior modification of agents. These features enable locally tailored projections of SARS-CoV-2 transmission and impacts of NPIs thereon. At the same time, the computational demands of agent-based models pose a challenge to using them in the fast-paced context of a pandemic. To overcome that challenge, the researchers will use less computationally demanding statistical approaches to estimate inputs for use in the agent-based model up to a given point in the pandemic. The agent-based model will then simulate forward from that time under alternative scenarios about use of NPIs. To further safeguard against computational demands being a limiting factor for producing timely results, the researchers will make use of high-performance computing resources to perform batches of simulations of the agent-based model that account for stochasticity and parameter uncertainty. Results will be publicly disseminated on a regular basis over the course of the project, and the researchers will coordinate with stakeholders to ensure that mitigation scenarios under consideration remain relevant as the pandemic progresses.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027718</AwardID>
+<Investigator>
+<FirstName>Alex</FirstName>
+<LastName>Perkins</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alex Perkins</PI_FULL_NAME>
+<EmailAddress><![CDATA[taperkins@nd.edu]]></EmailAddress>
+<NSF_ID>000580136</NSF_ID>
+<StartDate>04/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465565708</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>940 Grace Hall</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FPU6XGFXMBE9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NOTRE DAME DU LAC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KKBMKNFZ5PJ4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Notre Dame]]></Name>
+<CityName>Notre Dame</CityName>
+<StateCode>IN</StateCode>
+<ZipCode>465565708</ZipCode>
+<StreetAddress><![CDATA[940 Grace Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7242</Code>
+<Text>Ecology of Infectious Diseases</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199883</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The goal of this project was to advance and apply computationally demanding simulation models of virus transmission to provide insights about the impacts of interventions on the COVID-19 pandemic. Given the complexity of how some interventions work, models with similarly high complexity are needed to reliably project what the impacts of those interventions will be. At the same time, models with such a high level of complexity can be cumbersome to work with due to their high computational demands. This project sought to make progress towards addressing those challenges and to make complex, computationally demanding models more usable to inform decision-making around complex interventions against COVID-19.</p> <p><br />The first category of results from this project used simple models to help guide and constrain more complex models. One major advance in this category was the development of a novel statistical technique to estimate the total number of SARS-CoV-2 infections in the United States during the earliest stages of the pandemic. These estimates served as a critical input into subsequent models. Another advance in this category was the use of optimal control techniques from mathematics to analyze a simple model to inform on what the optimal way to apply non-pharmaceutical interventions was during the first year of the pandemic, which helped guide scenarios examined with the more complex model.</p> <p><br />The second category of results from this project applied the FRED agent-based model to COVID-19, which had previously been developed for influenza modeling. One way that this model was used was to contribute forecasts and projections to two consortia of infectious disease modelers providing model-based projections to federal decision makers: the COVID-19 ForecastHub (https://covid19forecasthub.org/) and the COVID-19 Scenario Modeling Hub (https://covid19scenariomodelinghub.org/). The other major way that this model was used was to make projections of the impact of alternative policies about face masks and operating density on school reopening in fall 2020 and after. Modeling projections of school reopening were performed for both the state of Indiana and the city of Bogota, Colombia, with results communicated to decision makers from both settings.</p><br> <p>            Last Modified: 08/15/2022<br>      Modified by: Alex&nbsp;Perkins</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The goal of this project was to advance and apply computationally demanding simulation models of virus transmission to provide insights about the impacts of interventions on the COVID-19 pandemic. Given the complexity of how some interventions work, models with similarly high complexity are needed to reliably project what the impacts of those interventions will be. At the same time, models with such a high level of complexity can be cumbersome to work with due to their high computational demands. This project sought to make progress towards addressing those challenges and to make complex, computationally demanding models more usable to inform decision-making around complex interventions against COVID-19.   The first category of results from this project used simple models to help guide and constrain more complex models. One major advance in this category was the development of a novel statistical technique to estimate the total number of SARS-CoV-2 infections in the United States during the earliest stages of the pandemic. These estimates served as a critical input into subsequent models. Another advance in this category was the use of optimal control techniques from mathematics to analyze a simple model to inform on what the optimal way to apply non-pharmaceutical interventions was during the first year of the pandemic, which helped guide scenarios examined with the more complex model.   The second category of results from this project applied the FRED agent-based model to COVID-19, which had previously been developed for influenza modeling. One way that this model was used was to contribute forecasts and projections to two consortia of infectious disease modelers providing model-based projections to federal decision makers: the COVID-19 ForecastHub (https://covid19forecasthub.org/) and the COVID-19 Scenario Modeling Hub (https://covid19scenariomodelinghub.org/). The other major way that this model was used was to make projections of the impact of alternative policies about face masks and operating density on school reopening in fall 2020 and after. Modeling projections of school reopening were performed for both the state of Indiana and the city of Bogota, Colombia, with results communicated to decision makers from both settings.       Last Modified: 08/15/2022       Submitted by: Alex Perkins]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

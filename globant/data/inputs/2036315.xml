@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Digital Imaging Radar for Autonomy Infrastructure]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI>mnair@nsf.gov</PO_EMAI>
+<PO_PHON>7032927059</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is a foundation for unified secure sensing and communication for next generation wireless infrastructure. To ensure the safety and security of scalable commercial drone usage and autonomous driving, a sensor infrastructure is needed to detect, track, and identify fast moving vehicles in urban environments. Existing commercial radars developed for defense applications do not scale for the massive deployment of emerging civilian operation environments. Aura’s digital imaging radar addresses problems that plague the existing radars and offers a solution for this critical infrastructure need. Commercial opportunities include infrastructure security and automation providing situational awareness around airports and industrial sites and next generation wireless infrastructure for unmanned traffic management and connected autonomous vehicles. The technology has the potential to enable new services by integration into vehicles for vehicle safety and autonomous driving.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project develops a real-time system design and simulation platform for novel digital imaging radar. Aura has developed an all digital imaging radar technology for smart infrastructure for autonomous vehicles and unmanned traffic management. Unlike conventional radars relying on Frequency Modulated Continuous Wave (FMCW) waveform or phase modulation (PM), Aura develops time- frequency MIMO radar technology leveraging standard 5G component technology. Aura’s technology provides agile and secure waveform with low peak-to-average power ratio (PAPR), addressing the operational challenges due to interference, jamming, and energy efficiency. Key challenges for commercialization of this digital radar are system complexity due to wideband data converters and real-time baseband processing. The goals of Phase I project are to complete low-complexity, real-time system design and to validate the performance of the proposed technology in realistic channel environments. Scientific tasks that will be completed in Phase I project include a low complexity system design architecture for real-time implementation of the end-to-end simulation platform with a realistic channel model for performance characterization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>12/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036315</AwardID>
+<Investigator>
+<FirstName>Jungah</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jungah Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[jungah.lee@auraisystems.com]]></EmailAddress>
+<NSF_ID>000829909</NSF_ID>
+<StartDate>12/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>AURA INTELLIGENT SYSTEMS, INC.</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022102326</ZipCode>
+<PhoneNumber>9088920148</PhoneNumber>
+<StreetAddress>12 CHANNEL ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 502]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>L5NNGMQRE746</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AURA INTELLIGENT SYSTEMS INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[AURA INTELLIGENT SYSTEMS, INC.]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022102326</ZipCode>
+<StreetAddress><![CDATA[12 Channel Street, Suite 502]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4096</Code>
+<Text>COMMUNICATIONS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Objectives and Outcome:</strong></p> <p>Autonomous vehicles and low altitude aircrafts need a high-resolution 4-dimensional view of the surroundings for safe driving and autonomous navigation in all environmental conditions. Radar is emerging as a solution to these mission critical applications. Conventional radars rely on Frequency Modulated Continuous Wave (FMCW) waveform. Although FMCW radars have been successfully used in defense and remote sensing for decades, there are major limitations due to requirements on a dedicated spectrum and complex analog hardware. Furthermore, emerging mobility applications call for operation with performance that is resilient to interference, jamming and multipath that arises in industrial and urban operation environments. Aura developed digital imaging radar technology for autonomous mobility.</p> <p>The objective of the NSF SBIR Phase I project is to evaluate the feasibility of multiple-input multiple-output (MIMO) imaging radar technology with spread orthogonal frequency division multiplexing (OFDM) waveform in realistic channel and operational environments. The outcomes of the Phase I project are:</p> <ul> <li>End-to-end algorithm development and system-level performance analysis in realistic channel environments</li> <li>Real-time system architecture and design</li> <li>Captured data analysis of the proof-of-concept millimeter wave imaging radar system based on 5G radio</li> <li>Field data analysis of a commercially available FMCW radar</li> <li>Provisional patent application on low complexity transceiver design</li> </ul> <p>The analysis validates the power amplifier efficiency and interference robustness of the proposed waveform. Link budget analysis shows that the digital imaging radar system is a viable solution for the automotive and the digital infrastructure. A fully functional prototype system will be developed in Phase II project.</p> <p><strong>Intellectual Merit:</strong></p> <p>Key innovations of the MIMO spread OFDM imaging radar are:</p> <ul> <li>Software-defined radar based on a scalable and open hardware platform</li> <li>Low peak-to-average power ratio (PAPR) waveform with high power amplifier efficiency</li> <li>Low complexity system design for single chip CMOS system-on-chip (SoC) implementation</li> </ul> <p>The proposed solution offers up to 8 dB reduction in PAPR compared with 5G, while leveraging the 5G hardware technology. The receiver complexity is reduced by a factor of 10 compared with phase modulated radars. Furthermore, the proposed technology allows flexible use of spectrum supporting diverse radio frequency (RF) functions such as radar, positioning, and communications on a unified 5G hardware platform for diverse applications.</p> <p><strong>Broader/Commercial Impact:</strong></p> <p>Millimeter wave imaging radars are being commercialized for industrial sensing and automotive safety. As phased arrays with integrated antennas and data converters become available at scale, digital imaging radars can be implemented on a standard hardware at low cost. Commercial applications are 1) automotive safety, autonomous vehicles, drones, robots, and low altitude aerial vehicles; 2) perimeter security for airports, industrial bases, and critical infrastructure; and 3) next generation digital infrastructure for autonomous vehicles, drones and connected mobile operations such as in ports, construction, and mining. Aura is working with industry partners and customers for the commercialization of its digital imaging radar.</p> <p>The technology has potential for a broader impact that includes 1) offering secure sensing and communication for a unified wireless infrastructure for safe autonomous vehicles, drone deliveries of medical supplies, environmental sensing, and urban air mobility alleviating ground congestion and carbon emission; and 2) integration into devices for new services such as in-vehicle presence detection and medical diagnosis such as vital sign monitoring, without dedicated radar device.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/07/2022<br>      Modified by: Jungah&nbsp;Lee</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Objectives and Outcome:  Autonomous vehicles and low altitude aircrafts need a high-resolution 4-dimensional view of the surroundings for safe driving and autonomous navigation in all environmental conditions. Radar is emerging as a solution to these mission critical applications. Conventional radars rely on Frequency Modulated Continuous Wave (FMCW) waveform. Although FMCW radars have been successfully used in defense and remote sensing for decades, there are major limitations due to requirements on a dedicated spectrum and complex analog hardware. Furthermore, emerging mobility applications call for operation with performance that is resilient to interference, jamming and multipath that arises in industrial and urban operation environments. Aura developed digital imaging radar technology for autonomous mobility.  The objective of the NSF SBIR Phase I project is to evaluate the feasibility of multiple-input multiple-output (MIMO) imaging radar technology with spread orthogonal frequency division multiplexing (OFDM) waveform in realistic channel and operational environments. The outcomes of the Phase I project are:  End-to-end algorithm development and system-level performance analysis in realistic channel environments Real-time system architecture and design Captured data analysis of the proof-of-concept millimeter wave imaging radar system based on 5G radio Field data analysis of a commercially available FMCW radar Provisional patent application on low complexity transceiver design   The analysis validates the power amplifier efficiency and interference robustness of the proposed waveform. Link budget analysis shows that the digital imaging radar system is a viable solution for the automotive and the digital infrastructure. A fully functional prototype system will be developed in Phase II project.  Intellectual Merit:  Key innovations of the MIMO spread OFDM imaging radar are:  Software-defined radar based on a scalable and open hardware platform Low peak-to-average power ratio (PAPR) waveform with high power amplifier efficiency Low complexity system design for single chip CMOS system-on-chip (SoC) implementation   The proposed solution offers up to 8 dB reduction in PAPR compared with 5G, while leveraging the 5G hardware technology. The receiver complexity is reduced by a factor of 10 compared with phase modulated radars. Furthermore, the proposed technology allows flexible use of spectrum supporting diverse radio frequency (RF) functions such as radar, positioning, and communications on a unified 5G hardware platform for diverse applications.  Broader/Commercial Impact:  Millimeter wave imaging radars are being commercialized for industrial sensing and automotive safety. As phased arrays with integrated antennas and data converters become available at scale, digital imaging radars can be implemented on a standard hardware at low cost. Commercial applications are 1) automotive safety, autonomous vehicles, drones, robots, and low altitude aerial vehicles; 2) perimeter security for airports, industrial bases, and critical infrastructure; and 3) next generation digital infrastructure for autonomous vehicles, drones and connected mobile operations such as in ports, construction, and mining. Aura is working with industry partners and customers for the commercialization of its digital imaging radar.  The technology has potential for a broader impact that includes 1) offering secure sensing and communication for a unified wireless infrastructure for safe autonomous vehicles, drone deliveries of medical supplies, environmental sensing, and urban air mobility alleviating ground congestion and carbon emission; and 2) integration into devices for new services such as in-vehicle presence detection and medical diagnosis such as vital sign monitoring, without dedicated radar device.             Last Modified: 01/07/2022       Submitted by: Jungah Lee]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

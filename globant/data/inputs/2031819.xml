@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Comprehensive Interaction and Annotation (CIA) Analysis of the SARS-CoV-2 Genome and Related Genomes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199999.00</AwardTotalIntnAmount>
+<AwardAmount>199999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jean Gao</SignBlockName>
+<PO_EMAI>jgao@nsf.gov</PO_EMAI>
+<PO_PHON>7032927253</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The analysis of the RNA sequence (i.e, a genome) defining the SARS-CoV-2 pathogen, which causes COVID-19 disease, could shed light on better diagnostics, vaccines, and treatments for the disease. Although many research groups are studying the SARS-CoV-2 genome, they typically focus on a particular analytical method (e.g., nucleotide conservation analysis) or one or another element in the genome and therefore do not consider how different analyses may complement one another, or how interactions between the SARS-CoV-2 genomic elements themselves and/or other factors (e.g., human genes and proteins or drugs) could shed light on how to treat the disease. The project focuses on an integrated approach to identifying important elements in the SARS-CoV-2 genome – elements that might be potentially hidden from more superficial analyses – and the characterization of interactions within the SARS-CoV-2 genome as well interactions involving other factors, such as human genes, drugs, and other viruses. To this end, a wide variety of complementary analysis techniques (e.g., evolutionary conservation analysis, polymorphism functional effect evaluation, secondary RNA structure prediction, and phylogenetic signal analysis to name a few) will be exploited to identify and characterize features of the SARS-CoV-2 genome. The SARS-CoV-2 genome to other closely and distantly related pathogen and organism genomes will be compared to identify potentially hidden or novel elements that might be diagnostic or drug targets. Large-scale database searches and computational drug matching analysis will not be able to recognize not only regions of the SARS-CoV-2 genome that might be modulated or impacted by drugs, but also candidate drugs as well. The nature of the comprehensive and integrated quantitative research will expose potential multidisciplinary training and education opportunities.&lt;br/&gt;&lt;br/&gt;The scope of the project will be broad by design and amount to as comprehensive an annotation of the SARS-CoV-2 genome as possible, especially with respect to genomically-guided interactions involving SARS-CoV-2 genomic elements amongst themselves and with other factors, such as other viruses, human genes, proteins and elements such as microRNAs, and drugs and therapeutic constructs such as antisense oligonucleotide (ASO) constructs. To pursue the research, an analysis pipeline and workflow were designed to enable and integrate the results of various analyses. The pipeline starts with comparative analyses of all available SARS-CoV-2 genomes (currently &gt;10,000) and closely and distantly related species such as other viruses and SARS-CoV-2 infection hosts such as bats and humans (amounting to billions of species) and function prediction tools to identify and characterize likely functional elements. The identification of unique features in the SARS-CoV-2 genome could reveal diagnostic targets. Both structure prediction and phylogenetic signal analyses are pursued on any identified elements found in the SARS-CoV-2 genome. Predicted structures are then subjected to in silico drug and therapeutic construct (e.g., ASOs) binding and modulation studies. The likely functional effects of polymorphism on these structures are also assessed. Phylogenetic signal analyses can reveal phenotypes that variant forms of a functional element can influence (e.g., viral load, infectivity, etc.). Finally, identified elements are considered in network analyses to determine which other elements they interact with and which human (and other) host genes and proteins they could influence. A website describing and disseminating the analysis results and data generated as part of the research will be available at https://www.tgen.org.&lt;br/&gt;&lt;br/&gt;This RAPID award is made by the Infrastructure Innovation for Biological Research (IIBR Informatics) Program in the Division of Biological Infrastructure, using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031819</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Schork</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicholas J Schork</PI_FULL_NAME>
+<EmailAddress><![CDATA[nschork@tgen.org]]></EmailAddress>
+<NSF_ID>000757570</NSF_ID>
+<StartDate>05/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Translational Genomics Research Instittue</Name>
+<CityName>PHOENIX</CityName>
+<ZipCode>850042157</ZipCode>
+<PhoneNumber>6023438400</PhoneNumber>
+<StreetAddress>445 N 5TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>J19ZXYATJLT3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRANSLATIONAL GENOMICS RESEARCH INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The Translational Genomics Research Institute]]></Name>
+<CityName>Phoenix</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>850043902</ZipCode>
+<StreetAddress><![CDATA[445 N. Fifth Street, Suite 600]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199999</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has infected over 40 million people worldwide, with over 1 million deaths as of October 2020 and with multiple efforts in the development and testing of antiviral drugs and vaccines under way. In order to gain insights into SARS-CoV-2 evolution and drug targets, we investigated how and to what extent the SARS-CoV-2 genome (i.e., DNA) sequence differs from those of other well-characterized human and animal coronavirus genomes, as well as how polymorphic (i.e., how different) SARS-CoV-2 genomes are generally (Figures A and B). We ultimately sought to identify DNA sequence variants in the SARS-CoV-2 genome that may contribute to its viral replication, host pathogenicity, and vulnerabilities. Our analyses suggest the presence of unique sequence signatures in the 39 untranslated region (39-UTR) of betacoronavirus lineage B, which phylogenetically encompasses SARS-CoV-2 and SARS-CoV as well as multiple groups of bat and animal coronaviruses (Figure B). In addition, we identified genome-wide patterns of variation across different SARS-CoV-2 strains that likely reflect the effects of selection. Finally, we discovered evidence for a possible host-microRNA-mediated interaction between the 3?-UTR and human microRNA hsa-miR-1307-3p based on the results of multiple computational target prediction analyses and an assessment of similar interactions involving the influenza A H1N1 virus (Figure C). This interaction also suggests a possible survival mechanism, whereby a mutation in the SARS-CoV-2 39-UTR leads to a weakened host immune response. The potential roles of host microRNAs in SARS-CoV- 2 replication and infection and the exploitation of conserved features in the 39-UTR as therapeutic targets warrant further investigation.</p> <p>&nbsp;</p> <p>Intellectual merit</p> <ul> <li>Curated over 600 beta coronavirus (betaCoV) lineage B genomes, which included 361 SARS-CoV-2, 113 SARS-CoV, 75 animal CoV (e.g., bats, pangolins, civets, etc.), and 71 laboratory isolates, and over 100 coronavirus (CoV) family members from animals and human that cause mild to severe diseases (Figure A).</li> <li>Performed whole genome sequence alignments and identified common conserved sequence signatures on both ends of the betaCoV family including SARS-CoV-2 and SARS-CoV (Figures A and B).</li> <li>Performed variant annotations and identified co-mutating sequence variants amongst the SARS-CoV-2 genome isolates, some represent major lineages of the outbreak (Figures A and B).</li> <li>Proposed a hypothesis of anti-viral intervention which requires further investigation: the SARS-CoV-2 right terminal (3?-UTR) possibly interacts with a human host microRNA and could be a candidate therapeutic target (Figure C).</li> <li>Reported the findings in a scientific publication in mSphere, <a href="https://doi.org/10.1128/MSPHERE.00754-20">https://doi.org/10.1128/MSPHERE.00754-20</a>.</li> <li>Patented a finding linking a human host factor, has-miR1307-3p to a SARS-CoV-2 functional element in 3?-UTR for potential diagnostic and drug development purposes.</li> </ul> <p>&nbsp;</p> <p>Broader impact</p> <ul> <li>Demonstrated that some complexities associated with pathogens can be identified that could be of use in pandemic mitigation strategies.</li> <li>Demonstrated that swift large-scale data analyses could be pursued as part of pandemic response that can lead to important insights into functional features in the pathogen that could lead to mitigation strategies (e.g., diagnostics, new therapies, etc.)</li> <li>Demonstrated that interdisciplinary approaches to identifying important components of a deadly pathogen are feasible, one involving computational, genetics/genomics, structural biology, chemoinformatics and translational researchers, can be pursued. </li> <li>Demonstrated that training individuals, such as postdoctoral fellow (Dr. Srikanta Dana), in important pathogen related phenomena is possible. </li> </ul> <p>&nbsp;</p><br> <p>            Last Modified: 09/29/2021<br>      Modified by: Nicholas&nbsp;Schork</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2031819/2031819_10673179_1632955962925_NSF_Final_Report_FigureA--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2031819/2031819_10673179_1632955962925_NSF_Final_Report_FigureA--rgov-800width.jpg" title="Figure A"><img src="/por/images/Reports/POR/2021/2031819/2031819_10673179_1632955962925_NSF_Final_Report_FigureA--rgov-66x44.jpg" alt="Figure A"></a> <div class="imageCaptionContainer"> <div class="imageCaption">SNV frequencies are plotted by their positions in the SARS-CoV-2 genome. The relativepositions of common SNVs (.0.5%) and 9 representative coevolving variant (CEV) groups and amino acid consequences are shown.  Also included are nine representative CEV groups showing different genome frequencies.</div> <div class="imageCredit">Nicholas Schork, Ph.D.</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Nicholas&nbsp;Schork</div> <div class="imageTitle">Figure A</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2031819/2031819_10673179_1632956013494_NSF_Final_Report_FigureB--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2031819/2031819_10673179_1632956013494_NSF_Final_Report_FigureB--rgov-800width.jpg" title="Figure B"><img src="/por/images/Reports/POR/2021/2031819/2031819_10673179_1632956013494_NSF_Final_Report_FigureB--rgov-66x44.jpg" alt="Figure B"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Nine representative CEV groups showing different genome frequencies. Three CEV groups involved UTR variants (shownin red).</div> <div class="imageCredit">Nicholas Schork, Ph.D.</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Nicholas&nbsp;Schork</div> <div class="imageTitle">Figure B</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2031819/2031819_10673179_1632956100963_NSF_Final_Report_FigureC--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2031819/2031819_10673179_1632956100963_NSF_Final_Report_FigureC--rgov-800width.jpg" title="Figure C"><img src="/por/images/Reports/POR/2021/2031819/2031819_10673179_1632956100963_NSF_Final_Report_FigureC--rgov-66x44.jpg" alt="Figure C"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Putative human microRNA miR-1307 interaction with SARS-CoV-2. (A) Predicted base pairings between hsa-miR-1307-3p and the SARS-CoV-2 39-UTR using blastn and search parameters for miRNAs. (B) Predicted miRNA-to-viral RNA interactions based on free energy estimates. The prediction output from RNAhybri</div> <div class="imageCredit">Nicholas Schork, Ph.D.</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Nicholas&nbsp;Schork</div> <div class="imageTitle">Figure C</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has infected over 40 million people worldwide, with over 1 million deaths as of October 2020 and with multiple efforts in the development and testing of antiviral drugs and vaccines under way. In order to gain insights into SARS-CoV-2 evolution and drug targets, we investigated how and to what extent the SARS-CoV-2 genome (i.e., DNA) sequence differs from those of other well-characterized human and animal coronavirus genomes, as well as how polymorphic (i.e., how different) SARS-CoV-2 genomes are generally (Figures A and B). We ultimately sought to identify DNA sequence variants in the SARS-CoV-2 genome that may contribute to its viral replication, host pathogenicity, and vulnerabilities. Our analyses suggest the presence of unique sequence signatures in the 39 untranslated region (39-UTR) of betacoronavirus lineage B, which phylogenetically encompasses SARS-CoV-2 and SARS-CoV as well as multiple groups of bat and animal coronaviruses (Figure B). In addition, we identified genome-wide patterns of variation across different SARS-CoV-2 strains that likely reflect the effects of selection. Finally, we discovered evidence for a possible host-microRNA-mediated interaction between the 3?-UTR and human microRNA hsa-miR-1307-3p based on the results of multiple computational target prediction analyses and an assessment of similar interactions involving the influenza A H1N1 virus (Figure C). This interaction also suggests a possible survival mechanism, whereby a mutation in the SARS-CoV-2 39-UTR leads to a weakened host immune response. The potential roles of host microRNAs in SARS-CoV- 2 replication and infection and the exploitation of conserved features in the 39-UTR as therapeutic targets warrant further investigation.     Intellectual merit  Curated over 600 beta coronavirus (betaCoV) lineage B genomes, which included 361 SARS-CoV-2, 113 SARS-CoV, 75 animal CoV (e.g., bats, pangolins, civets, etc.), and 71 laboratory isolates, and over 100 coronavirus (CoV) family members from animals and human that cause mild to severe diseases (Figure A). Performed whole genome sequence alignments and identified common conserved sequence signatures on both ends of the betaCoV family including SARS-CoV-2 and SARS-CoV (Figures A and B). Performed variant annotations and identified co-mutating sequence variants amongst the SARS-CoV-2 genome isolates, some represent major lineages of the outbreak (Figures A and B). Proposed a hypothesis of anti-viral intervention which requires further investigation: the SARS-CoV-2 right terminal (3?-UTR) possibly interacts with a human host microRNA and could be a candidate therapeutic target (Figure C). Reported the findings in a scientific publication in mSphere, https://doi.org/10.1128/MSPHERE.00754-20. Patented a finding linking a human host factor, has-miR1307-3p to a SARS-CoV-2 functional element in 3?-UTR for potential diagnostic and drug development purposes.      Broader impact  Demonstrated that some complexities associated with pathogens can be identified that could be of use in pandemic mitigation strategies. Demonstrated that swift large-scale data analyses could be pursued as part of pandemic response that can lead to important insights into functional features in the pathogen that could lead to mitigation strategies (e.g., diagnostics, new therapies, etc.) Demonstrated that interdisciplinary approaches to identifying important components of a deadly pathogen are feasible, one involving computational, genetics/genomics, structural biology, chemoinformatics and translational researchers, can be pursued.  Demonstrated that training individuals, such as postdoctoral fellow (Dr. Srikanta Dana), in important pathogen related phenomena is possible.            Last Modified: 09/29/2021       Submitted by: Nicholas Schork]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

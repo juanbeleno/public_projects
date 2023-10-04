@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: CHS: Collaboratively Perceiving, Comprehending, and Projecting into the Future: Supporting Team Situational Awareness with Adaptive Collaborative Tactons]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/12/2019</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>15734.00</AwardTotalIntnAmount>
+<AwardAmount>15734</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+<PO_EMAI>eglinert@nsf.gov</PO_EMAI>
+<PO_PHON>7032924341</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Data overload, especially in the visual channel, and associated breakdowns in monitoring already represent a major challenge in data-rich environments.  One promising means of overcoming data overload is through the introduction of multimodal displays which distribute information across various sensory channels (including vision, audition, and touch).  In recent years, touch has received more attention as a means to offload the overburdened visual and auditory channels, but much remains to be discovered in this modality.  Tactons, or tactile icons/displays, are structured, abstract messages that can be used to communicate information in the absence of vision.  However, the effectiveness of tactons may be compromised if their design does not take into account that complex systems depend on the coordinated activities of a team.  The PI's goal in this project is to establish a research program that will explore adaptive collaborative tactons as a means to support situational awareness, that is the ability of a team to perceive and comprehend information from the environment and predict future events in real time.  Project outcomes will contribute to a deeper understanding of perception and attention between and across sensory channels for individuals and teams, and to how multimodal interfaces can support teamwork in data-rich domains.&lt;br/&gt;&lt;br/&gt;The work will integrate three disparate topics within human factors: multimodal interfaces, situational awareness, and adaptive systems.   The PI will create methods to design tactons that take into account both context and the types of information needed by a team, by leveraging the multimodal aspects to develop quantitative and qualitative models and algorithms using physiological measures (in particular, eye tracking data).  These in turn will inform the functionality of adaptive tactons that support collaboration by adjusting the presentation of information in response to various sensed parameters and conditions.]]></AbstractNarration>
+<MinAmdLetterDate>10/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>10/31/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002348</AwardID>
+<Investigator>
+<FirstName>Sara</FirstName>
+<LastName>Riggs</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sara Riggs</PI_FULL_NAME>
+<EmailAddress><![CDATA[sriggs@virginia.edu]]></EmailAddress>
+<NSF_ID>000694670</NSF_ID>
+<StartDate>10/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>1001 EMMET ST N</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName>Charlottesville</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>229044195</ZipCode>
+<StreetAddress><![CDATA[P.O.BOX 400195]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~15734</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Communicating information using the tactile modality is a promising means to address data overload faced in complex, data-rich work domains. However, it is important to ensure that the tactile parameters which represent information are intuitive and can support situational awareness, i.e., the ability of a team to perceive and comprehend information from the environment and predict future events in real time.&nbsp;Currently there is no consensus on which tactile parameters should be used to present different types of information and to an even lesser degree, how tactile information can support situational awareness.</p> <p>The major goals of this project include the following:</p> <ol> <li>Develop methods to design tactons, i.e., tactile icons/displays, that can be used to communicate information to a team.</li> <li>Design tactons that can improve situational awareness amongst team members.</li> <li>Develop quantitative and qualitative models and algorithms using eye tracking technology to assess and support team situational awareness.</li> </ol> <p>For Goal #1, a series of studies were conducted to understand how to best present information using the sensing of touch. A usability study evaluated tactons within the complex work domain of anesthesia monitoring in the operating room. We found that anesthesia providers who participated in our studies were effectively able to respond to our tactons while performing other tasks. Overall, the findings contribute to a better understanding of how to design tactile displays and demonstrated the effectiveness of end-user feedback in developing intuitive alerts.</p> <p>For Goals #2 and #3, studies were conducted to see how pairs of individuals worked together in another complex work domain, Unmanned Aerial Vehicle control for search and rescue missions. Individual differences such as personality traits and video game experience were examined to determine whether it affected team situational awareness, i.e., the ability to anticipate and adapt to changes in the work environment as a team. Eye tracking technology was also used to understand the participants eye movement behavior; this data was mathematically modeled. The findings suggest technology should account for individual differences to support collaboration. The findings also show that eye tracking technology can provide unique insights to explain performance between individuals.</p> <p>Over 12 undergraduate students from multiple disciplines&mdash;computer science, computer, electrical, industrial, systems engineering as well as psychology&mdash;were supported by this project and an NSF REU supplement. One URM PhD student was funded under this grant, and she was ultimately awarded an NSF GRFP based on the initial data collected as part of this grant. The findings from this work were also presented at various academic venues domestically and internationally (e.g., conferences, seminars, courses) and to the public (e.g., the Society of Women high school visitations to the Riggs Lab). The preliminary findings resulted in several follow up research questions which were proposed as part of the PI&rsquo;s NSF CAREER award.</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/30/2021<br>      Modified by: Sara&nbsp;Riggs</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Communicating information using the tactile modality is a promising means to address data overload faced in complex, data-rich work domains. However, it is important to ensure that the tactile parameters which represent information are intuitive and can support situational awareness, i.e., the ability of a team to perceive and comprehend information from the environment and predict future events in real time. Currently there is no consensus on which tactile parameters should be used to present different types of information and to an even lesser degree, how tactile information can support situational awareness.  The major goals of this project include the following:  Develop methods to design tactons, i.e., tactile icons/displays, that can be used to communicate information to a team. Design tactons that can improve situational awareness amongst team members. Develop quantitative and qualitative models and algorithms using eye tracking technology to assess and support team situational awareness.   For Goal #1, a series of studies were conducted to understand how to best present information using the sensing of touch. A usability study evaluated tactons within the complex work domain of anesthesia monitoring in the operating room. We found that anesthesia providers who participated in our studies were effectively able to respond to our tactons while performing other tasks. Overall, the findings contribute to a better understanding of how to design tactile displays and demonstrated the effectiveness of end-user feedback in developing intuitive alerts.  For Goals #2 and #3, studies were conducted to see how pairs of individuals worked together in another complex work domain, Unmanned Aerial Vehicle control for search and rescue missions. Individual differences such as personality traits and video game experience were examined to determine whether it affected team situational awareness, i.e., the ability to anticipate and adapt to changes in the work environment as a team. Eye tracking technology was also used to understand the participants eye movement behavior; this data was mathematically modeled. The findings suggest technology should account for individual differences to support collaboration. The findings also show that eye tracking technology can provide unique insights to explain performance between individuals.  Over 12 undergraduate students from multiple disciplines&mdash;computer science, computer, electrical, industrial, systems engineering as well as psychology&mdash;were supported by this project and an NSF REU supplement. One URM PhD student was funded under this grant, and she was ultimately awarded an NSF GRFP based on the initial data collected as part of this grant. The findings from this work were also presented at various academic venues domestically and internationally (e.g., conferences, seminars, courses) and to the public (e.g., the Society of Women high school visitations to the Riggs Lab). The preliminary findings resulted in several follow up research questions which were proposed as part of the PI’s NSF CAREER award.          Last Modified: 12/30/2021       Submitted by: Sara Riggs]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

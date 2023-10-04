@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Modeling and Analysis of Sensorimotor Dynamics in Inter-leg Coupling Leads to a Novel Model-based Approach to Human Gait Rehabilitation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/12/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>178640.00</AwardTotalIntnAmount>
+<AwardAmount>194640</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harry Dankowicz</SignBlockName>
+<PO_EMAI>hdankowi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922344</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The main research goal of this project is to create a dynamic model of coordination between legs during gait, and to apply that model to rehabilitation of individuals suffering from hemiparesis, that is, weakness on one side of their body. Such weakness -- due to injury, or to a neurological disorder such as stroke -- and the associated difficulty in walking, has become a pressing public health problem. One of the main reasons gait rehabilitation has not been very successful so far is the lack of basic understanding of the dynamics of gait in both intact and impaired walkers. A major scientific challenge for the field is the creation of a comprehensive sensorimotor model, which can be used to understand inter-leg coordination, a fundamental mechanisms of walking. Experiments enabled by a novel robotic variable stiffness treadmill will be used to model walking gaits of individuals with hemiparesis, and to inform model-based robotic interventions for rehabilitation. The benefits of this approach will be also realized in other fields, including orthotics and prosthetics, as well as in robotic walkers. &lt;br/&gt;&lt;br/&gt;The project will address important research questions related to inter-leg coordination mechanisms during gait that will provide the foundation for transformative gait retraining methods. More specifically, the unique investigation of the effect of sensory feedback on neuromuscular mechanisms of inter-leg coordination, made possible by the Variable Stiffness Treadmill, will be used as a window into the sensorimotor control mechanisms of gait. A system dynamics and control approach to robotic intervention for retraining gait will enhance our understanding of the role of the sensori-motor processes involved in gait. Understanding and modeling the dynamics that govern the sensori-motor mechanisms of inter-leg coordination in gait naturally results in the introduction of model-based interventions for gait therapy using inter-leg coupling, which has never been attempted before. Specifically, the project leverages existing central mechanisms of leg coordination and introduces the concept of evoking activity on the paretic leg through model-based interventions on the unimpaired leg. Inter-leg coordination, a fundamental process of walking, is going to be investigated and modeled as a multivariable dynamical system in intact walkers using the unique sensori-motor capabilities of the Variable Stiffness Treadmill. Then, the same experimental protocol will be applied to hemiparetic walkers. The goal is to understand the altered dynamics and specific gait mechanisms and pathways that are disrupted in hemiparesis. Finally, the developed models will result in targeted model-based interventions towards gait therapy of stroke survivors.]]></AbstractNarration>
+<MinAmdLetterDate>02/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015786</AwardID>
+<Investigator>
+<FirstName>Panagiotis</FirstName>
+<LastName>Artemiadis</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Panagiotis K Artemiadis</PI_FULL_NAME>
+<EmailAddress><![CDATA[partem@udel.edu]]></EmailAddress>
+<NSF_ID>000610322</NSF_ID>
+<StartDate>02/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>220 HULLIHEN HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>T72NHKM259N3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>Newark</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197160099</ZipCode>
+<StreetAddress><![CDATA[210 Hullihen Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7569</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~178640</FUND_OBLG>
+<FUND_OBLG>2018~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Gait impairment due to neurological disorders or injuries has become one of the most important problems of the 21st century. Approximately 90% of stroke survivors have some functional disability with mobility being a major impairment. Current rehabilitation practice is non-patient-specific, evidence-based, and usually has little beneficial effect on the impaired walker. One of the main reasons gait rehabilitation has not been very successful so far is the lack of a model of sensorimotor dynamics of human gait in both intact and paretic walkers, which would involve intricate multi-sensory feedback and feed-forward mechanisms in both mechanical and neural levels. Such a model would allow model-based and controllable interventions for gait therapy.</p> <p><br />In this project, we developed and tested a model describing the inter-leg coordination of human gait. The model was tested and validated using data collected in multiple experimental studies involving human subjects walking on the Variable Stiffness Treadmill (VST). The model resulted in gaining insight into how the brain controls the legs during walking. The results of this work could help to design future stroke rehabilitation methods that would perturb the subject in a repeated way, stimulating the damaged area(s) of the brain and allowing them to regain a more functional gait pattern.&nbsp;</p> <p>Moreover, in this project, we conducted a study and showed for the first time long after-effects in gait using the unique capabilities of the VST. Due to hemiparesis, stroke survivors frequently develop a dysfunctional gait that is often characterized by an overall decrease in walking speed and a unilateral decrease in step length. Although robotic devices have been used in numerous rehabilitation protocols for gait, the lack of significant aftereffects that translate to effective therapy makes their application still questionable. This work proposed a novel type of robot-assisted intervention that results in significant aftereffects that last much longer than any other previous study. With the utilization of a novel robotic device, the Variable Stiffness Treadmill (VST), the stiffness of the walking surface underneath one leg is decreased for several steps. This unilateral stiffness perturbation results in a significant aftereffect that is both useful for stroke rehabilitation and often lasts for over 200 gait cycles after the intervention has concluded. More specifically, the aftereffect created is an increase in both left and right step lengths, with the unperturbed step length increasing significantly more than the perturbed. These effects may help correct two of the most common issues in poststroke gait: an overall decrease in walking speed and a unilateral shortened step length. The results of this work show that a robot-assisted therapy protocol involving repeated unilateral stiffness perturbations can lead to a more permanent and effective solution to post-stroke gait.</p> <p>Overall, the project results can be used to inform specific guidelines that can be used in clinical practice to enhance the quality of life of hemiparetic walkers. The research also lead to sustainable outreach activities for high school students focusing on wearable sensor technology via the established UD youth outreach program. Public engagement in discussions on the social and ethical implications of human-robot interaction was initiated through annual seminars and workshops. The project gave the opportunity to graduate and undergraduate students to conduct state-of-the-art research and interact with clinicians and other people outside of engineering. Those students were trained in state-of-the-art methods and techniques and can become significant assets for the future workforce.&nbsp;</p><br> <p>            Last Modified: 12/17/2022<br>      Modified by: Panagiotis&nbsp;K&nbsp;Artemiadis</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Gait impairment due to neurological disorders or injuries has become one of the most important problems of the 21st century. Approximately 90% of stroke survivors have some functional disability with mobility being a major impairment. Current rehabilitation practice is non-patient-specific, evidence-based, and usually has little beneficial effect on the impaired walker. One of the main reasons gait rehabilitation has not been very successful so far is the lack of a model of sensorimotor dynamics of human gait in both intact and paretic walkers, which would involve intricate multi-sensory feedback and feed-forward mechanisms in both mechanical and neural levels. Such a model would allow model-based and controllable interventions for gait therapy.   In this project, we developed and tested a model describing the inter-leg coordination of human gait. The model was tested and validated using data collected in multiple experimental studies involving human subjects walking on the Variable Stiffness Treadmill (VST). The model resulted in gaining insight into how the brain controls the legs during walking. The results of this work could help to design future stroke rehabilitation methods that would perturb the subject in a repeated way, stimulating the damaged area(s) of the brain and allowing them to regain a more functional gait pattern.   Moreover, in this project, we conducted a study and showed for the first time long after-effects in gait using the unique capabilities of the VST. Due to hemiparesis, stroke survivors frequently develop a dysfunctional gait that is often characterized by an overall decrease in walking speed and a unilateral decrease in step length. Although robotic devices have been used in numerous rehabilitation protocols for gait, the lack of significant aftereffects that translate to effective therapy makes their application still questionable. This work proposed a novel type of robot-assisted intervention that results in significant aftereffects that last much longer than any other previous study. With the utilization of a novel robotic device, the Variable Stiffness Treadmill (VST), the stiffness of the walking surface underneath one leg is decreased for several steps. This unilateral stiffness perturbation results in a significant aftereffect that is both useful for stroke rehabilitation and often lasts for over 200 gait cycles after the intervention has concluded. More specifically, the aftereffect created is an increase in both left and right step lengths, with the unperturbed step length increasing significantly more than the perturbed. These effects may help correct two of the most common issues in poststroke gait: an overall decrease in walking speed and a unilateral shortened step length. The results of this work show that a robot-assisted therapy protocol involving repeated unilateral stiffness perturbations can lead to a more permanent and effective solution to post-stroke gait.  Overall, the project results can be used to inform specific guidelines that can be used in clinical practice to enhance the quality of life of hemiparetic walkers. The research also lead to sustainable outreach activities for high school students focusing on wearable sensor technology via the established UD youth outreach program. Public engagement in discussions on the social and ethical implications of human-robot interaction was initiated through annual seminars and workshops. The project gave the opportunity to graduate and undergraduate students to conduct state-of-the-art research and interact with clinicians and other people outside of engineering. Those students were trained in state-of-the-art methods and techniques and can become significant assets for the future workforce.        Last Modified: 12/17/2022       Submitted by: Panagiotis K Artemiadis]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

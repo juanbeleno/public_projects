@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  Minimizing Uncertainties in Software-based Vibration Compensation of 3D Printers to Enable Increased Speed and Accuracy (COVID-19)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>249070.00</AwardTotalIntnAmount>
+<AwardAmount>249070</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ela Mirowski</SignBlockName>
+<PO_EMAI>emirowsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032922936</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Technology Transfer (STTR) Phase I project is to increase the productivity (speed) of manufacturing machines at low cost without sacrificing quality. The project is specifically motivated by 3D printing (or additive manufacturing), a $9 billion rapidly growing industry whose adoption for mainstream manufacturing is hindered by the low speed of 3D printers. For example, faster 3D printers can help support manufacturing of key equipment, such as personal protective equipment (PPE).  A major hindrance to high-speed 3D printing is vibration, which causes loss of quality at high-speed operation. This project seeks to develop a new approach for mitigating the vibration of 3D printers and other manufacturing machines. Because the dynamic behavior of manufacturing equipment may lead to uncertainties in software compensation schemes, this project will develop new software algorithms to address these uncertainties. The software algorithms developed through this project will not only benefit 3D printing, but would also apply a wide range of manufacturing machines, like machine tools and robots, whose speed and accuracy are often limited by vibration.&lt;br/&gt;&lt;br/&gt;This STTR Phase I project seek to develop two new calibration approaches that allow the filtered B spline vibration compensation software to handle uncertainty and avoid loss of accuracy due to dynamic mismatch. The first approach is robust offline calibration – i.e., calibration of the machine offline to accommodate the widest range of potential mismatch in machine dynamics. Preliminary lab-scale work has shown potential of a robust filtered basis functions to address this issue. However, remaining technical challenges of guaranteed computational efficiency and accuracy of the robust filtered basis function approach must be overcome. The second approach is adaptive online calibration – i.e., updating the calibration of the machine while it is operating in the field using vibration measurements obtained from low-cost accelerometers. To achieve this, this project will address challenges of guaranteed accuracy of adaptive online calibration using low-cost accelerometers by ensuring persistence of excitation during online calibration.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/29/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032814</AwardID>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Thompson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Samuel Thompson</PI_FULL_NAME>
+<EmailAddress><![CDATA[joethompsonno1@gmail.com]]></EmailAddress>
+<NSF_ID>000826958</NSF_ID>
+<StartDate>01/29/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>S2A TECHNOLOGIES LLC</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481039002</ZipCode>
+<PhoneNumber>7349722150</PhoneNumber>
+<StreetAddress>600 SOUTH WAGNER ROAD</StreetAddress>
+<StreetAddress2><![CDATA[SUITE 105]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MI06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F2HXXJX1JJY3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ULENDO TECHNOLOGIES, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[S2A Technologies LLC]]></Name>
+<CityName>Ann Arbor</CityName>
+<StateCode>MI</StateCode>
+<ZipCode>481034026</ZipCode>
+<StreetAddress><![CDATA[123 Grandview Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MI06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~249070</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>The additive manufacturing (or 3D printing) industry is growing rapidly. However, the low speed of 3D printing is a major hindrance to its use in a variety of applications. One reason for the low speed of 3D printing is vibration, which causes loss of quality at high-speed operation. The overarching motivation for this project was to develop a patented filtered B spline (FBS) approach for mitigating the vibration of 3D printers and other manufacturing machines at low cost using software, thus allowing them to travel at high speeds without loss of print quality. </span></p> <p><span>The intellectual merit of this Small Business Technology Transfer (STTR) Phase I project was to research and develop two new calibration approaches that allow the FBS vibration compensation software to handle uncertainty and avoid loss of accuracy due to dynamic mismatch. The first approach developed was a robust offline calibration approach. This was achieved by filtering B-spline basis functions in a way that allows the machine to accommodate a wide range of potential mismatch in vibration dynamics. The second approach investigated was an adaptive online calibration &ndash; i.e., updating the calibration of the machine while it is operating in the field using vibration measurements obtained from low-cost accelerometers. The project team reached a critical step in achieving this goal by validating the accuracy of a low-cost accelerometer (ADXL 335) that can be deployed on commercial 3D printers in the field. The ADXL 335 was shown to give accurate enough calibration for the FBS algorithm to provide superior print quality compared to not using FBS. </span></p> <p><span>The broader impact of this STTR Phase I project was to increase the productivity of manufacturing machines at low cost without sacrificing quality using software-based vibration compensation. The FBS algorithm equipped with the calibration approaches developed through this project was optimized to run on the micro-controller units of 3D printers and was shown to increase the achievable accelerations of four commercial desktop 3D printers. This success has enabled the company to demonstrate the technical feasibility of the FBS algorithm to potential clients and led to a paid trial of the FBS algorithm with a major 3D printer manufacturer. It has also led to a successful seed funding round for the company to facilitate further commercial development of the algorithm and growth of the company.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 01/01/2023<br>      Modified by: Samuel&nbsp;Thompson</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The additive manufacturing (or 3D printing) industry is growing rapidly. However, the low speed of 3D printing is a major hindrance to its use in a variety of applications. One reason for the low speed of 3D printing is vibration, which causes loss of quality at high-speed operation. The overarching motivation for this project was to develop a patented filtered B spline (FBS) approach for mitigating the vibration of 3D printers and other manufacturing machines at low cost using software, thus allowing them to travel at high speeds without loss of print quality.   The intellectual merit of this Small Business Technology Transfer (STTR) Phase I project was to research and develop two new calibration approaches that allow the FBS vibration compensation software to handle uncertainty and avoid loss of accuracy due to dynamic mismatch. The first approach developed was a robust offline calibration approach. This was achieved by filtering B-spline basis functions in a way that allows the machine to accommodate a wide range of potential mismatch in vibration dynamics. The second approach investigated was an adaptive online calibration &ndash; i.e., updating the calibration of the machine while it is operating in the field using vibration measurements obtained from low-cost accelerometers. The project team reached a critical step in achieving this goal by validating the accuracy of a low-cost accelerometer (ADXL 335) that can be deployed on commercial 3D printers in the field. The ADXL 335 was shown to give accurate enough calibration for the FBS algorithm to provide superior print quality compared to not using FBS.   The broader impact of this STTR Phase I project was to increase the productivity of manufacturing machines at low cost without sacrificing quality using software-based vibration compensation. The FBS algorithm equipped with the calibration approaches developed through this project was optimized to run on the micro-controller units of 3D printers and was shown to increase the achievable accelerations of four commercial desktop 3D printers. This success has enabled the company to demonstrate the technical feasibility of the FBS algorithm to potential clients and led to a paid trial of the FBS algorithm with a major 3D printer manufacturer. It has also led to a successful seed funding round for the company to facilitate further commercial development of the algorithm and growth of the company.          Last Modified: 01/01/2023       Submitted by: Samuel Thompson]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

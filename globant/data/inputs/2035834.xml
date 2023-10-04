@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Rapid repurposing and translation of COVID-19 therapeutics using a AI-based biosimulation platform: application to ACE2 and Ca2+ multi-target therapies (COVID-19)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255908.00</AwardTotalIntnAmount>
+<AwardAmount>255908</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kaitlin Bratlie</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this SBIR Phase I project is to provide immediate positive outcomes in the COVID-19 therapeutics. The platform will use artificial intelligence (AI) to develop models describing and ultimately predicting how specific individuals respond to various therapeutic combinations.  This process can be extended to other diseases and conditions. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project will utilize an artificial intelligence/machine learning-based in silico platform for optimizing combinations and dosing strategies of approved drugs as a repurposed, multi-target approach against COVID-19 to minimize the viral load, infection and replication in specific tissues. A key objective of the proposed work is to target COVID-19 replication transmission and effectively lower the net viral load, subsequently increasing clinical efficacy and patient survival. This project will develop a multiscale mechanistic model of drug-target interaction, encompassing expression levels, and interaction kinetics of therapies with signaling pathways to prevent viral infection and inflammation that can result in widespread tissue damage and increased mortality. The technology will enable, with high predictive accuracy, the selection of individuals and combinations of proposed drugs to optimize the dosage regimen that leads to a maximum therapeutic efficacy. This will further enable physicians to rapidly redeploy these therapies off-label in COVID-19 patients in the immediate term.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/06/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>01/06/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035834</AwardID>
+<Investigator>
+<FirstName>Jyotika</FirstName>
+<LastName>Varshney</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jyotika Varshney</PI_FULL_NAME>
+<EmailAddress><![CDATA[jo.varshney@verisimlife.com]]></EmailAddress>
+<NSF_ID>000827403</NSF_ID>
+<StartDate>01/06/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>VERISIM LIFE, INC.</Name>
+<CityName>SAN FRANCISCO</CityName>
+<ZipCode>941044436</ZipCode>
+<PhoneNumber>8147774566</PhoneNumber>
+<StreetAddress>1 SANSOME ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 3500]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YLBHHR2HKLS1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VERISIM LIFE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YLBHHR2HKLS1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[VERISIM LIFE, INC.]]></Name>
+<CityName>San Francisco</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>941041856</ZipCode>
+<StreetAddress><![CDATA[315 Montgomery St #1036]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6883</Code>
+<Text>CHEMISTRY OF LIFE PROCESSES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255908</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The goal of this SBIR Phase I project was to develop and test prototype hybrid artificial intelligence/machine learning (AI/ML)-based in silico platform for optimizing combinations and dosing strategies of FDA-approved drugs as a repurposed, multi-target approach against COVID-19. Major challenges at the onset of the project were: Unclear virus entry-replication-transmission cycle; Time-sensitive due to continuously mutating virus; and Identification of patients with no or co-morbidities. We took a very unique approach to screen all FDA-approved drugs for faster approval clearance by prioritizing key mechanisms of action based drugs and optimizing a combinatorial-therapeutic regimen based on&nbsp;multitarget-repurposed approach.</p> <p>As part of this effort, a COVID-19 software module was developed and integrated into VeriSIM Life's application. The COVID-19 module enables investigators to model human in-vivo therapies involving individual or combination of drugs. The module generates a plot of respiratory function and viral load over time, as well as the plasma and lung pharmacokinetic concentration profiles of modeled compounds. Users can control several parameters that control the virus-cell and drug-cell models implemented in the BIOiSIM platform. Users can also control the modeled route of administration and dosing schedules for selected compounds. Results are generated in a matter of seconds by VeriSIM Life's BIOiSIM platform, which uses a hybrid of mechanistic and ML/AI approaches to model biological systems.</p> <p>The technology that was developed as a result of the phase-1 grant has a multitude of applications in research related to drug discovery and development and will be used by healthcare industry. The technology lays the foundation for combinatorial approaches in multiple therapeutic areas, as monotherapies are not always successful. The technology is now being expanded to different therapeutic areas such as metabolic disease and oncology.</p><br> <p>            Last Modified: 04/01/2022<br>      Modified by: Jyotika&nbsp;Varshney</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2035834/2035834_10712497_1648833829280_BIOiSIMforCOVID-19treatmentandManagement--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2035834/2035834_10712497_1648833829280_BIOiSIMforCOVID-19treatmentandManagement--rgov-800width.jpg" title="BIOiSIM for COVID-19"><img src="/por/images/Reports/POR/2022/2035834/2035834_10712497_1648833829280_BIOiSIMforCOVID-19treatmentandManagement--rgov-66x44.jpg" alt="BIOiSIM for COVID-19"></a> <div class="imageCaptionContainer"> <div class="imageCaption">BIOiSIM simulated disposition of COVID-19 therapeutics, and predicted curative respiratory function</div> <div class="imageCredit">VeriSIM Life</div> <div class="imagePermisssions">Royalty-free (unrestricted use)</div> <div class="imageSubmitted">Jyotika&nbsp;Varshney</div> <div class="imageTitle">BIOiSIM for COVID-19</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The goal of this SBIR Phase I project was to develop and test prototype hybrid artificial intelligence/machine learning (AI/ML)-based in silico platform for optimizing combinations and dosing strategies of FDA-approved drugs as a repurposed, multi-target approach against COVID-19. Major challenges at the onset of the project were: Unclear virus entry-replication-transmission cycle; Time-sensitive due to continuously mutating virus; and Identification of patients with no or co-morbidities. We took a very unique approach to screen all FDA-approved drugs for faster approval clearance by prioritizing key mechanisms of action based drugs and optimizing a combinatorial-therapeutic regimen based on multitarget-repurposed approach.  As part of this effort, a COVID-19 software module was developed and integrated into VeriSIM Life's application. The COVID-19 module enables investigators to model human in-vivo therapies involving individual or combination of drugs. The module generates a plot of respiratory function and viral load over time, as well as the plasma and lung pharmacokinetic concentration profiles of modeled compounds. Users can control several parameters that control the virus-cell and drug-cell models implemented in the BIOiSIM platform. Users can also control the modeled route of administration and dosing schedules for selected compounds. Results are generated in a matter of seconds by VeriSIM Life's BIOiSIM platform, which uses a hybrid of mechanistic and ML/AI approaches to model biological systems.  The technology that was developed as a result of the phase-1 grant has a multitude of applications in research related to drug discovery and development and will be used by healthcare industry. The technology lays the foundation for combinatorial approaches in multiple therapeutic areas, as monotherapies are not always successful. The technology is now being expanded to different therapeutic areas such as metabolic disease and oncology.       Last Modified: 04/01/2022       Submitted by: Jyotika Varshney]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

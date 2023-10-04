@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Using Smartphones to detect and monitor respiratory symptoms in COVID-19 patients]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>99975.00</AwardTotalIntnAmount>
+<AwardAmount>99975</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Nilsen</SignBlockName>
+<PO_EMAI>wnilsen@nsf.gov</PO_EMAI>
+<PO_PHON>7032922568</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project will develop, refine, and evaluate a smartphone-based solution to reliably track changes in blood oxygen saturation (SpO2) and respiration rate and volume. Recent analysis of COVID-19 patients have shown some unusual findings. For example, there is a discordance between the respiratory symptoms and the blood oxygen saturation levels. This can lead to sharp deterioration of patient status without the individual experiencing the usual signs of distress. Existing smartphone solutions do not work in detecting significant drop in blood oxygenation, which is essential to detect whether the person needs to be hospitalized. Accurate in-home tracking of respiratory signals and blood oxygenation levels can help to monitor and follow patients with COVID-19 and identify those who are stable vs. those who are deteriorating.&lt;br/&gt;&lt;br/&gt;This project will enable two informative, scalable, and cost-effective measurements using smartphones: (i) SpO2 and (ii) respiration rate and volume changes. Although there are many standalone pulse oximeters on the market which are FDA approved and work well (accuracy of ±2%), most people don't have them and are unlikely to buy special purpose devices. Recently, several smartphone and smartwatch based apps have been released that claim to measure oxygen saturation, but they are not reliable. These applications simply use the phone's camera to measure the change in reflection. While these apps can capture pulse reliably, and even capture the blood hemoglobin concentration to some degree, it does not work for oxygen saturation as there are no separate signals to compare oxygenated against deoxygenated hemoglobin. In general, pulse oximetry works by measuring the light absorption in hemoglobin (transdermally) at two different wavelengths (red: 660nm and near-infrared: 940nm). Both of these bands can be found in broadband white LEDs, such as those used for flash on smartphones and can be read by the image sensors (cameras), as they use infrared for distance measurements in photographs. With optical filters attached to the smartphone flash, these two distinct bands can be separated out from the broadband source, captured by the phone's camera, and be used as a pulse oximeter. For monitoring respiration signal/rate, the project will build on the investigators' previous work on opioid overdose detection, which leverages the speakers and microphones of a smartphone to monitor the chest motion of a person in a contactless fashion. At a high level, the smartphone transmits inaudible high-frequency custom sound signals using the device's speaker. These signals are reflected by the subject's chest and recorded using the device's microphones. The chest motion due to breathing causes a change in these reflections as seen by the microphones. These changes can be detected and the respiration signal can be obtained using signal processing algorithms on the smartphone. This system can now be improved to detect changes in respiration rates caused due to the onset of viral infections and difficult breathing conditions like hypoxia.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031977</AwardID>
+<Investigator>
+<FirstName>Tanzeem</FirstName>
+<LastName>Choudhury</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tanzeem Choudhury</PI_FULL_NAME>
+<EmailAddress><![CDATA[tanzeem.choudhury@cornell.edu]]></EmailAddress>
+<NSF_ID>000083187</NSF_ID>
+<StartDate>06/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rajalakshmi</FirstName>
+<LastName>Nandakumar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rajalakshmi Nandakumar</PI_FULL_NAME>
+<EmailAddress><![CDATA[rn283@cornell.edu]]></EmailAddress>
+<NSF_ID>000816559</NSF_ID>
+<StartDate>06/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY23</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EQA8NBEN9WD5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100441501</ZipCode>
+<StreetAddress><![CDATA[2 West Loop Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~99975</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-03954562-7fff-c559-5542-6174871e1e89"> </span></p> <p dir="ltr"><span>In this document, we outline the major accomplishments for this program.&nbsp; The overall aim of this effort is to bring together experts in public health and mobile sensing with the goal of developing and deploying low cost, mobile technologies to detect and monitor respiratory symptoms associated with COVID-19.</span></p> <p dir="ltr"><span>In this project, we have had several major accomplishments. Some of the key contributions are summarized below.&nbsp; Details are in the text to follow.</span></p> <ul> <li dir="ltr"> <p dir="ltr"><span>The development of and an ultra-low-cost smartphone attachment to measure SpO2 (OptoBeat).</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Created a method for calibrating pulse oximetry readings based on skin tone.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Developed an ex-vivo experiment to measure changing SpO2 in mammalian blood for device validation.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Develop a smartphone app that can continuously monitor the respiration of the subject in an online fashion</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>Received IRB Approval to begin testing devices on human subjects.</span></p> </li> </ul> <p><span id="docs-internal-guid-00627c7f-7fff-6248-4c24-c373393173c1"> <p dir="ltr"><span>1.OptoBeat</span></p> <p dir="ltr"><span>Many commodity pulse oximeters are insufficiently calibrated for patients of darker skin. We demonstrate a quantitative measurement of this disparity in SpO</span><span><span>2</span></span><span> measurement with a controlled experimental set up using synthetic skin. To mitigate this, developed OptoBeat, an ultra-low-cost smartphone based optical sensing system that captures SpO</span><span><span>2</span></span><span> and heart rate while calibrating for differences in skin tone. Our sensing system can be constructed from commodity plastics, fiber-optic cable and three clips that can be 3D printed for approximately $1, or cheaply manufactured at scale. In our experiments, we demonstrate the efficacy of the OptoBeat system, which can measure SpO</span><span><span>2</span></span><span> levels within 1% accuracy of the ground truth (an FDA approved pulse oximeter) in SpO</span><span><span>2</span></span><span> levels as low as 75%.</span></p> <span id="docs-internal-guid-bcbec899-7fff-9279-bb94-b4a27419e1c6"> <p dir="ltr"><span>2. Monitoring respiration rate using off-the-shelf Smartphone</span></p> <p dir="ltr"><span>We developed a smartphone app that can continuously monitor the respiration rate of the subject in an online fashion by transforming the device into an active sonar system. The app sends an inaudible custom sound signal using the speaker which is then reflected by the chest of the subject and the echoes are recorded using the device&rsquo;s microphone. Due to the subject&rsquo;s breathing, the echoes received will vary periodically in time and can be processed to determine respiration rate. Since the breathing motion is in the mm scale, processing the echoes involve various signal processing algorithms like filtering and transformation into time and frequency domains. Further, the speaker and the microphone produces 48000 samples per second that need to be processed quickly. Since the data is sensitive, it is ideal to perform the processing in the smartphone. To achieve this, we built a library function written in native code (C++) optimized for speed that can continuously run on an android device and quickly compute the breathing rate.</span></p> </span><br /> <p dir="ltr"><span><br /></span></p> </span></p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/30/2022<br>      Modified by: Tanzeem&nbsp;Choudhury</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2031977/2031977_10676818_1648673379764_fig3_rev3--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2031977/2031977_10676818_1648673379764_fig3_rev3--rgov-800width.jpg" title="Figure 1: Cross-Sectional Diagram"><img src="/por/images/Reports/POR/2022/2031977/2031977_10676818_1648673379764_fig3_rev3--rgov-66x44.jpg" alt="Figure 1: Cross-Sectional Diagram"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Cross-Sectional Diagram of the OptoBeat System</div> <div class="imageCredit">Alexander T Adams</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Tanzeem&nbsp;Choudhury</div> <div class="imageTitle">Figure 1: Cross-Sectional Diagram</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   In this document, we outline the major accomplishments for this program.  The overall aim of this effort is to bring together experts in public health and mobile sensing with the goal of developing and deploying low cost, mobile technologies to detect and monitor respiratory symptoms associated with COVID-19. In this project, we have had several major accomplishments. Some of the key contributions are summarized below.  Details are in the text to follow.   The development of and an ultra-low-cost smartphone attachment to measure SpO2 (OptoBeat).   Created a method for calibrating pulse oximetry readings based on skin tone.   Developed an ex-vivo experiment to measure changing SpO2 in mammalian blood for device validation.   Develop a smartphone app that can continuously monitor the respiration of the subject in an online fashion   Received IRB Approval to begin testing devices on human subjects.     1.OptoBeat Many commodity pulse oximeters are insufficiently calibrated for patients of darker skin. We demonstrate a quantitative measurement of this disparity in SpO2 measurement with a controlled experimental set up using synthetic skin. To mitigate this, developed OptoBeat, an ultra-low-cost smartphone based optical sensing system that captures SpO2 and heart rate while calibrating for differences in skin tone. Our sensing system can be constructed from commodity plastics, fiber-optic cable and three clips that can be 3D printed for approximately $1, or cheaply manufactured at scale. In our experiments, we demonstrate the efficacy of the OptoBeat system, which can measure SpO2 levels within 1% accuracy of the ground truth (an FDA approved pulse oximeter) in SpO2 levels as low as 75%.  2. Monitoring respiration rate using off-the-shelf Smartphone We developed a smartphone app that can continuously monitor the respiration rate of the subject in an online fashion by transforming the device into an active sonar system. The app sends an inaudible custom sound signal using the speaker which is then reflected by the chest of the subject and the echoes are recorded using the device’s microphone. Due to the subject’s breathing, the echoes received will vary periodically in time and can be processed to determine respiration rate. Since the breathing motion is in the mm scale, processing the echoes involve various signal processing algorithms like filtering and transformation into time and frequency domains. Further, the speaker and the microphone produces 48000 samples per second that need to be processed quickly. Since the data is sensitive, it is ideal to perform the processing in the smartphone. To achieve this, we built a library function written in native code (C++) optimized for speed that can continuously run on an android device and quickly compute the breathing rate.                  Last Modified: 03/30/2022       Submitted by: Tanzeem Choudhury]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

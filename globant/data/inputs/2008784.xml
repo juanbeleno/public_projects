@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CNS Core: Small: PilotPC: Proactive Inverse Learning of Network Topology for Predictive Communication among Unmanned Vehicles]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>479842.00</AwardTotalIntnAmount>
+<AwardAmount>479842</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexander Sprintson</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The use of unmanned aerial vehicles (UAVs) has become commonplace in many applications nowadays. Like many other technologies, UAVs brings comfort and efficiency to the current practice in many applications while posing threats and safety issues. This project will advance the frontier of science in developing safer and more reliable aerial monitoring platforms while offering privacy and safety. Towards this goal, this project aims to make accurate predictions in a network of unmanned aerial vehicles, by using inverse learning techniques, so as to enable safer and more efficient operations.&lt;br/&gt;&lt;br/&gt;A smart observation system will be developed to constantly monitor the behavior of autonomous agents to identify suspicious activities by measuring their deviation from the most rational behavior under given conditions. The proposed research includes several steps: (i) to develop mechanisms to simulate the target node's perception of its surrounding environment (i.e., seeing the word from the target's eyes) using deep learning methods, (ii) to predict its rational behavior(s) under given conditions and available resources by modeling the target's decision making procedure through inverse learning (reading the target's brain), and (iii) to measure the level of trust by detecting rare but critical episodes of deviating from its expected rational behavior. In particular, the mobility of UAVs and their networking activities will be investigated as two important scenarios of malicious activities. This project is expected to result in developing new tools and algorithms for the action analysis of smart nodes that will be shared with the research community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/19/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2008784</AwardID>
+<Investigator>
+<FirstName>Abolfazl</FirstName>
+<LastName>Razi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Abolfazl Razi</PI_FULL_NAME>
+<EmailAddress><![CDATA[arazi@clemson.edu]]></EmailAddress>
+<NSF_ID>000704289</NSF_ID>
+<StartDate>08/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northern Arizona University</Name>
+<CityName>Flagstaff</CityName>
+<ZipCode>86011</ZipCode>
+<PhoneNumber>9285230886</PhoneNumber>
+<StreetAddress>601 S KNOLES DR</StreetAddress>
+<StreetAddress2><![CDATA[ROOM 220]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MXHAS3AKPRN1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHERN ARIZONA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northern Arizona University]]></Name>
+<CityName/>
+<StateCode>AZ</StateCode>
+<ZipCode>860110001</ZipCode>
+<StreetAddress><![CDATA[1295 S Knoles Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~47114</FUND_OBLG>
+</Award>
+</rootTag>

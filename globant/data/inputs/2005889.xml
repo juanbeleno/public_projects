@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: SHF: Small: Lightweight Modular Typestate]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol Greenspan</SignBlockName>
+<PO_EMAI>sgreensp@nsf.gov</PO_EMAI>
+<PO_PHON>7032927841</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Software reliability is of critical importance to society, and software verifiers can improve reliability by guaranteeing the absence of certain bugs.  In particular, typestate verification prevents important classes of bugs by ensuring programs do not perform certain illegal operation sequences.  However, despite over 30 years of research, typestate verification has not been widely adopted by developers.  This project will develop techniques for lightweight typestate verification, leveraging new insights on the structure of typestate properties and common programming patterns.  The project is expected to make typestate verification significantly easier for programmers to adopt, thereby improving the reliability of large-scale, real-world software systems.&lt;br/&gt;&lt;br/&gt;A key barrier to adoption of typestate analysis is handling of pointer aliasing, which in extant approaches necessitates either an expensive whole-program analysis or, in modular approaches, heavyweight code annotations.   This project will achieve lightweight and modular typestate verification by developing algorithms that leverage typestate system characteristics and common aliasing patterns in modern code bases.  For example, the project identifies accumulation typestate systems, in which an object's enabled methods only grow over time. An accumulation typestate system can be verified soundly even in the absence of alias information. The project also studies restricted aliasing patterns arising from modern coding patterns like fluent APIs, which can be precisely analyzed with lightweight, modular techniques.  The project will apply these insights both to traditional typestate systems and to new properties that are inconvenient or impossible to express in existing typestate formalisms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005889</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Ernst</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael D Ernst</PI_FULL_NAME>
+<EmailAddress><![CDATA[mernst@cs.washington.edu]]></EmailAddress>
+<NSF_ID>000310100</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 BROOKLYN AVE NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF WASHINGTON VICE PR</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981952350</ZipCode>
+<StreetAddress><![CDATA[185 East Stevens Way Northeast,]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>Software &amp; Hardware Foundation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~250000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Object Construction:</p> <p><br />We devised a way to statically verify uses of object construction, such as the builder pattern. Using a simple specification language, programmers specify which combinations of logical arguments are permitted. Our compile-time analysis detects client code that may construct objects unsafely. Our analysis is based on a novel special case of typestate checking, called accumulation analysis.&nbsp; Accumulation analysis modularly reasons about accumulations of method calls. Because accumulation analysis does not require precise aliasing information for soundness, our analysis scales to industrial programs. We evaluated it on over 9 million lines of code, discovering defects which included previously-unknown security vulnerabilities and potential null-pointer violations in heavily-used open-source codebases. Our analysis has a low false positive rate and low annotation burden.&nbsp; Our implementation and experimental data are publicly available.</p> <p><br />Accumulation analysis:</p> <p><br />We defined an accumulation typestate system as a typestate system where for any error-inducing sequence of operations S ending in t, any sub-sequence of S also ending in t must also transition to the error state.&nbsp; We gave a decision procedure for determining if an arbitrary typestate automaton is for an accumulation typestate system.&nbsp; We then proved the strong property that a typestate system is an accumulation typestate system if and only if it can be checked without aliasing information.&nbsp; This means that our definition of accumulation typestates exactly characterizes the class of properties like object construction and resource leak checking that can be verified without aliasing.</p> <p>We also performed a literature survey, collecting 1,355 typestate specifications published since the year 2000.&nbsp; We found that 41% of these specifications were accumulation typestate systems, and hence amenable to checking without alias analysis.&nbsp; We collected our results in a publicly-available artifact for others to study and build on.</p> <p>Resource leaks:</p> <p>We broke the problem of detecting a resource leak into three parts: 1) tracking a resource object's must-call obligations, 2) tracking which methods have been called on a resource object, and 3) comparing the results of these to check whether its obligations have been fulfilled. Our key insight is that these can be reduced to an accumulation problem, a class of typestate problems amenable to sound and modular checking without the need for a heavyweight, whole-program alias analysis. We developed a baseline leak checker via this approach. The precision of an accumulation analysis can be improved by computing targeted aliasing information, and we devised three novel techniques that use this capability to achieve precision in practice: a lightweight ownership transfer system; a specialized resource alias analysis; and a system to create a fresh obligation when a non-final resource field is updated.</p> <p>Our approach occupies a unique slice of the design space when compared to prior approaches: it is sound, and it runs quickly (it runs in minutes on programs that a state-of-the-art approach took hours to analyze). We implemented our techniques for Java in an open-source tool called the Resource Leak Checker (RLC).&nbsp; RLC revealed 45 real bugs in widely-deployed software. It scales well, has a manageable false positive rate (lower than the high-confidence resource leak analysis built into the Eclipse IDE), and imposes only a small annotation burden (1/2000 LoC) for developers.<br />Resource leak inference:</p> <p>We defined an algorithm for inferring resource leak specifications that indicate how a program creates, passes around, and reclaims resources.&nbsp; Our inference technique is optimistic:&nbsp; it is able to infer annotations that cannot be verified (say, because of program bugs) but capture the intent of the coder with respect to resource management.&nbsp; The key to optimistic inference is that inference performs a may-analysis whereas verification performs a must-analysis.&nbsp; We have found that inferring annotations that capture intent, even if they cannot be verified, is key to the effectiveness of the algorithm.</p> <p>We implemented the algorithm both for the Java Resource Leak Checker and for RLC#, a re-implementation of the Resource Leak Checker for the C# language.&nbsp; An experimental evaluation across a variety of large benchmarks showed that our inference technique could recover 87% of manually-written annotations for the benchmarks, and the true positive rate for resource leak bugs achieved by the verifier when run after our fully-automatic inference nearly matched the rate achieved after manual annotation of the code.</p><br> <p>            Last Modified: 08/17/2023<br>      Modified by: Michael&nbsp;D&nbsp;Ernst</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Object Construction:   We devised a way to statically verify uses of object construction, such as the builder pattern. Using a simple specification language, programmers specify which combinations of logical arguments are permitted. Our compile-time analysis detects client code that may construct objects unsafely. Our analysis is based on a novel special case of typestate checking, called accumulation analysis.  Accumulation analysis modularly reasons about accumulations of method calls. Because accumulation analysis does not require precise aliasing information for soundness, our analysis scales to industrial programs. We evaluated it on over 9 million lines of code, discovering defects which included previously-unknown security vulnerabilities and potential null-pointer violations in heavily-used open-source codebases. Our analysis has a low false positive rate and low annotation burden.  Our implementation and experimental data are publicly available.   Accumulation analysis:   We defined an accumulation typestate system as a typestate system where for any error-inducing sequence of operations S ending in t, any sub-sequence of S also ending in t must also transition to the error state.  We gave a decision procedure for determining if an arbitrary typestate automaton is for an accumulation typestate system.  We then proved the strong property that a typestate system is an accumulation typestate system if and only if it can be checked without aliasing information.  This means that our definition of accumulation typestates exactly characterizes the class of properties like object construction and resource leak checking that can be verified without aliasing.  We also performed a literature survey, collecting 1,355 typestate specifications published since the year 2000.  We found that 41% of these specifications were accumulation typestate systems, and hence amenable to checking without alias analysis.  We collected our results in a publicly-available artifact for others to study and build on.  Resource leaks:  We broke the problem of detecting a resource leak into three parts: 1) tracking a resource object's must-call obligations, 2) tracking which methods have been called on a resource object, and 3) comparing the results of these to check whether its obligations have been fulfilled. Our key insight is that these can be reduced to an accumulation problem, a class of typestate problems amenable to sound and modular checking without the need for a heavyweight, whole-program alias analysis. We developed a baseline leak checker via this approach. The precision of an accumulation analysis can be improved by computing targeted aliasing information, and we devised three novel techniques that use this capability to achieve precision in practice: a lightweight ownership transfer system; a specialized resource alias analysis; and a system to create a fresh obligation when a non-final resource field is updated.  Our approach occupies a unique slice of the design space when compared to prior approaches: it is sound, and it runs quickly (it runs in minutes on programs that a state-of-the-art approach took hours to analyze). We implemented our techniques for Java in an open-source tool called the Resource Leak Checker (RLC).  RLC revealed 45 real bugs in widely-deployed software. It scales well, has a manageable false positive rate (lower than the high-confidence resource leak analysis built into the Eclipse IDE), and imposes only a small annotation burden (1/2000 LoC) for developers. Resource leak inference:  We defined an algorithm for inferring resource leak specifications that indicate how a program creates, passes around, and reclaims resources.  Our inference technique is optimistic:  it is able to infer annotations that cannot be verified (say, because of program bugs) but capture the intent of the coder with respect to resource management.  The key to optimistic inference is that inference performs a may-analysis whereas verification performs a must-analysis.  We have found that inferring annotations that capture intent, even if they cannot be verified, is key to the effectiveness of the algorithm.  We implemented the algorithm both for the Java Resource Leak Checker and for RLC#, a re-implementation of the Resource Leak Checker for the C# language.  An experimental evaluation across a variety of large benchmarks showed that our inference technique could recover 87% of manually-written annotations for the benchmarks, and the true positive rate for resource leak bugs achieved by the verifier when run after our fully-automatic inference nearly matched the rate achieved after manual annotation of the code.       Last Modified: 08/17/2023       Submitted by: Michael D Ernst]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

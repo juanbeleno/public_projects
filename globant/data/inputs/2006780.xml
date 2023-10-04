@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FET: CCF: Small: Computational Drug Prediction through Joint Learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>260000.00</AwardTotalIntnAmount>
+<AwardAmount>260000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mitra Basu</SignBlockName>
+<PO_EMAI>mbasu@nsf.gov</PO_EMAI>
+<PO_PHON>7032928649</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Traditional target-based drug-development approaches are lengthy and costly, with high failure rates. With increasingly available data regarding drugs, diseases, and drug targets, computational approaches that can integrate diverse sets of heterogeneous data sources have great potential to speed up the drug-development process. This project addresses fundamental questions in computational drug prediction by developing advanced AI and machine-learning algorithms and applying them to comprehensive real data from different domains. The project will also support broadening participation in computing via educational and outreach activities geared towards a wide group of students, including underrepresented groups.&lt;br/&gt;&lt;br/&gt;More specifically, the project will study the relationships among drugs, diseases, and targets via powerful computational methods including tensors and tensor decomposition, multi-view learning, and deep learning for rational drug repurposing. The project will focus on the development of efficient and effective learning algorithms, rigorous theoretical analysis of algorithm convergence and complexity, and comprehensive evaluations using real data obtained from various databases. The approach will seamlessly integrate tensor decomposition with multi-view learning and deep learning. By utilizing auxiliary information in the framework of multi-view learning, it can effectively address the sparsity issue, and the learned hidden structures should be more meaningful and interpretable. The neural tensor-decomposition approach will allow exploration of more complicated nonlinear relationships among latent features.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006780</AwardID>
+<Investigator>
+<FirstName>Jing</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jing Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[jingli@case.edu]]></EmailAddress>
+<NSF_ID>000403446</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Case Western Reserve University</Name>
+<CityName>CLEVELAND</CityName>
+<ZipCode>441061712</ZipCode>
+<PhoneNumber>2163684510</PhoneNumber>
+<StreetAddress>10900 EUCLID AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OH11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HJMKEF7EJW69</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CASE WESTERN RESERVE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>HJMKEF7EJW69</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Case Western Reserve University]]></Name>
+<CityName/>
+<StateCode>OH</StateCode>
+<ZipCode>441064901</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OH11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>089Y</Code>
+<Text>FET-Fndtns of Emerging Tech</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~260000</FUND_OBLG>
+</Award>
+</rootTag>

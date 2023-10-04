@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: PPoSS: Planning: Unifying Software and Hardware to Achieve Performant and Scalable Zero-cost Parallelism in the Heterogeneous Future]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>41627.00</AwardTotalIntnAmount>
+<AwardAmount>41627</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+<PO_EMAI>abanerje@nsf.gov</PO_EMAI>
+<PO_PHON>7032927885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Exploiting parallelism is essential to making full use of computer systems, and thus is intrinsic to most applications.  Building parallel programs that can truly achieve the performance the hardware is capable of is extremely challenging even for experts.  It requires a firm grasp of concepts that range from the very highest level to the very lowest, and that range is rapidly expanding.  This project approaches this challenge along two lines, "theory down" and "architecture up".  The first strives to simplify parallel programming through languages and algorithms.  The second line strives to accelerate parallel programs through compilers, operating systems, and the hardware.  The project's novelty is to bridge these two lines, which are usually treated quite distinctly by the research community. The unified team of researchers is addressing a specific subproblem, scheduling, and then determining how to expand out from it.  The project's impact is in making it possible for ordinary programmers to program future parallel systems in a very high-level way, yet achieve the performance possible on the machine.&lt;br/&gt;&lt;br/&gt;The project studies an "intermediate representation out" approach to making high-level parallel abstractions implementable so that they can be used with zero cost.  A core idea is to expand the compiler's intermediate representation such that it can capture both high-level parallel concepts and low-level machine and operating system structures, thus allowing full stack optimization.  This planning project will flesh out this concept and set the stage for a larger scale effort in the future.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028958</AwardID>
+<Investigator>
+<FirstName>Kyle</FirstName>
+<LastName>Hale</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kyle C Hale</PI_FULL_NAME>
+<EmailAddress><![CDATA[khale@cs.iit.edu]]></EmailAddress>
+<NSF_ID>000723705</NSF_ID>
+<StartDate>08/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Illinois Institute of Technology</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606163717</ZipCode>
+<PhoneNumber>3125673035</PhoneNumber>
+<StreetAddress>10 W 35TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NDENMDUEG8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ILLINOIS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NDENMDUEG8</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Illinois Institute of Technology]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606163717</ZipCode>
+<StreetAddress><![CDATA[10 W. 35th St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>PPoSS-PP of Scalable Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~41627</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-123b82f6-7fff-d9bc-f133-841e25ebb89b"> </span></p> <p dir="ltr"><span>With a full proposal to the PPoSS program as a target, this planning project aimed to bridge the gap between parallel programming practice with the performance and scalability of modern hardware and system software. We approached this by developing zero-cost abstractions for performant and scalable parallelism, leveraging a diverse team to adopt both "theory-down" and "architecture-up" approaches. The "theory-down" approach focuses on parallel algorithms and data structures, their implementations in high-level languages that expose parallelism at all granularities, and the grounded techniques for managing their dynamic execution with provable bounds. The "architecture-up" approach focuses on mechanisms for providing and enhancing parallel execution in the hardware/software stack, which spans from the architecture through the OS kernel and into the compiler. The major goal for this planning project was to form a team to tackle a problem that exemplifies the "architecture-up" and "theory-down" approaches, creating infrastructure and synergy towards the full proposal effort. This goal was achieved in the context of full-stack heartbeat scheduling, which includes numerous components ranging from theory, compilation, and the runtime system. This work was published at PLDI 2021 and formed a strong foundation for our continuing collaboration.&nbsp;</span></p> <p dir="ltr"><span>The primary outcome of this project is that the full large PPoSS proposal was selected for funding by the NSF and our collaboration expanded to include more faculty and students. Significant training opportunities have resulted from this project. The award has helped to provide training and support for three PhD students, and has provided research context and training for several undergraduates and M.S. students. The PIs continue to jointly run a parallelism research group that provides new opportunities for research and inter-institutional collaboration for students, and courses at all investigators' institutions have incorporated key elements of the work. Major open-source software components include the Nautilus kernel framework, the NOELLE compiler framework, and extensions to the Sniper architectural simulator.&nbsp;</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 01/10/2023<br>      Modified by: Kyle&nbsp;C&nbsp;Hale</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   With a full proposal to the PPoSS program as a target, this planning project aimed to bridge the gap between parallel programming practice with the performance and scalability of modern hardware and system software. We approached this by developing zero-cost abstractions for performant and scalable parallelism, leveraging a diverse team to adopt both "theory-down" and "architecture-up" approaches. The "theory-down" approach focuses on parallel algorithms and data structures, their implementations in high-level languages that expose parallelism at all granularities, and the grounded techniques for managing their dynamic execution with provable bounds. The "architecture-up" approach focuses on mechanisms for providing and enhancing parallel execution in the hardware/software stack, which spans from the architecture through the OS kernel and into the compiler. The major goal for this planning project was to form a team to tackle a problem that exemplifies the "architecture-up" and "theory-down" approaches, creating infrastructure and synergy towards the full proposal effort. This goal was achieved in the context of full-stack heartbeat scheduling, which includes numerous components ranging from theory, compilation, and the runtime system. This work was published at PLDI 2021 and formed a strong foundation for our continuing collaboration.  The primary outcome of this project is that the full large PPoSS proposal was selected for funding by the NSF and our collaboration expanded to include more faculty and students. Significant training opportunities have resulted from this project. The award has helped to provide training and support for three PhD students, and has provided research context and training for several undergraduates and M.S. students. The PIs continue to jointly run a parallelism research group that provides new opportunities for research and inter-institutional collaboration for students, and courses at all investigators' institutions have incorporated key elements of the work. Major open-source software components include the Nautilus kernel framework, the NOELLE compiler framework, and extensions to the Sniper architectural simulator.           Last Modified: 01/10/2023       Submitted by: Kyle C Hale]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

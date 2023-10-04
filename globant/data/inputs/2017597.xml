@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: CyberTraining: Pilot: Interdisciplinary Training of Data-Centric Security and Resilience of Cyber-Physical Energy Infrastructures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>160000.00</AwardTotalIntnAmount>
+<AwardAmount>160000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Whitmeyer</SignBlockName>
+<PO_EMAI>jwhitmey@nsf.gov</PO_EMAI>
+<PO_PHON>7032927808</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In this project, students and researchers are provided with mentored, hands-on training combining expertise across electrical engineering, communication, science and technology studies, and data science.  This establishes a novel model for energy cyberinfrastructure resilience education. The curriculum and instructional materials that are developed integrate advanced skills from multiple areas under the umbrella of cyber-physical energy systems. Participants develop and refine the multi-disciplinary skillsets needed for the data-centric energy industry using unique, remotely connected smart grid cyberinfrastructure. Participants extend their academic research portfolios, strengthening their career competitiveness as future cyberinfrastructure professionals and users. The two-week workshop immerses undergraduate/graduate students and research scientists in a unique training opportunity through laboratory demonstrations and mini projects. &lt;br/&gt;&lt;br/&gt;Three main technical challenges are tackled in the project: (i) Establishment of a new remotely connected cyberinfrastructure platform among the collaborating universities. An existing hardware-in-the-loop power testbed using a real-time digital simulator is connected with a virtual network laboratory to characterize cyber-physical energy systems. The combined infrastructure is equipped with state-of-the-art hardware and software modules, where humans, machines, and power girds can interact and cooperate in a near-to-real learning environment. (ii) Implementation of a cybersecurity module in the virtual lab to simulate cyber threats, such as denial-of-service attacks and man-in-the-middle attacks. Participants create attack scenarios that are played out, where the attacking process and consequence can be visualized on the physical system. (iii) Development of data analytics techniques based on machine learning as a set of cyber defense mechanisms, such as data-driven adversarial event detection. Participants execute their cyber defense algorithms alongside the attack, and the effectiveness of these defenses is validated and visualized using the testbed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/16/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2017597</AwardID>
+<Investigator>
+<FirstName>Xingquan</FirstName>
+<LastName>Zhu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xingquan Zhu</PI_FULL_NAME>
+<EmailAddress><![CDATA[xzhu3@fau.edu]]></EmailAddress>
+<NSF_ID>000292045</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Hallstrom</LastName>
+<PI_MID_INIT>O</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason O Hallstrom</PI_FULL_NAME>
+<EmailAddress><![CDATA[jhallstrom@fau.edu]]></EmailAddress>
+<NSF_ID>000336178</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate>05/16/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>VanZwieten</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME>Jr</PI_SUFX_NAME>
+<PI_FULL_NAME>James H VanZwieten</PI_FULL_NAME>
+<EmailAddress><![CDATA[jvanzwi@fau.edu]]></EmailAddress>
+<NSF_ID>000589697</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yufei</FirstName>
+<LastName>Tang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yufei Tang</PI_FULL_NAME>
+<EmailAddress><![CDATA[tangy@fau.edu]]></EmailAddress>
+<NSF_ID>000728601</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jiannan</FirstName>
+<LastName>Zhai</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jiannan Zhai</PI_FULL_NAME>
+<EmailAddress><![CDATA[jzhai@fau.edu]]></EmailAddress>
+<NSF_ID>000780188</NSF_ID>
+<StartDate>05/16/2022</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida Atlantic University</Name>
+<CityName>BOCA RATON</CityName>
+<ZipCode>334316424</ZipCode>
+<PhoneNumber>5612970777</PhoneNumber>
+<StreetAddress>777 GLADES RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL23</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q266L2NDAVP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA ATLANTIC UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida Atlantic University]]></Name>
+<CityName>Boca Raton</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>334316424</ZipCode>
+<StreetAddress><![CDATA[777 Glades Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>23</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL23</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>044Y</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0420</Code>
+<Name>NSF Education &amp; Human Resource</Name>
+<APP_SYMB_ID>040106</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>04002021DB</Code>
+<Name><![CDATA[NSF Education & Human Resource]]></Name>
+<FUND_SYMB_ID>040106</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~160000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This NSF CyberTraining Project focused on "workforce development for future smart energy systems" and virtually hosted participants over the summers of 2021 and 2022. The primary award supported 29 participants in the first year and 44 participants in the second year. Participants were provided with mentored, hands-on training with topics on the smart grid and renewable energy, artificial intelligence (AI) and data analytics, communication and network security, and sensor networks and Internet-of-Things. Over these two years, 10 mentors led these topics-based training, and each summer our mentors adjusted their training materials based on participant feedback and research development in related fields. The award also supported two Ph.D. students for two years. The student was trained to carry out research on AI-based data analytics and smart grid cyber-physical security. As a result, the project has led to 5 journal papers and 3 conference papers with presentations.</p> <p>Through extensive participant recruitment focused on minority-serving and STEM research limited institutions, 56 and 78 applications were received for our 2021 and 2022 programs. Our 73 participants included 26 females and 57 underrepresented minorities in STEM. These participants were from 9 different majors including Computer Science, Computer Engineering, Electrical and Electronics Engineering, Civil Engineering, Ocean and Mechanical Engineering, Neuroscience, Information Technology, Sociology, and Physics. These participants were from 13 different colleges/universities, including Florida Atlantic University, University of South Florida, University of Wyoming, University of Oklahoma, University of Louisiana at Lafayette, New Mexico State University, Nova Southeastern University, Florida State University, University of Florida, Ana G. Mendez University (Puerto Rico), New College of Florida, Washington State University, and Iowa State University. Participants were asked to complete a pre-workshop survey and a post-program survey. Highlights from these surveys include (i) many participants&nbsp; in 2021 liked best the hands-on work they completed and the variety of topics taught; and (ii) the 2022 participants affirmed that they enjoyed these aspects and all of the knowledgeable presenters and professors throughout the training.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/15/2022<br>      Modified by: Yufei&nbsp;Tang</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2017597/2017597_10680131_1665853314439_CyberTraining_Website--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2017597/2017597_10680131_1665853314439_CyberTraining_Website--rgov-800width.jpg" title="CyberTraining Website"><img src="/por/images/Reports/POR/2022/2017597/2017597_10680131_1665853314439_CyberTraining_Website--rgov-66x44.jpg" alt="CyberTraining Website"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Florida Atlantic University created a website for participant recruitment and project update</div> <div class="imageCredit">Florida Atlantic University</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yufei&nbsp;Tang</div> <div class="imageTitle">CyberTraining Website</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2017597/2017597_10680131_1665853368955_CyberTraining_Zoom_2021--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2017597/2017597_10680131_1665853368955_CyberTraining_Zoom_2021--rgov-800width.jpg" title="A cohort of participants from Summer 2021"><img src="/por/images/Reports/POR/2022/2017597/2017597_10680131_1665853368955_CyberTraining_Zoom_2021--rgov-66x44.jpg" alt="A cohort of participants from Summer 2021"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Participants are discussing the daily training on Zoom</div> <div class="imageCredit">Florida Atlantic University</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Yufei&nbsp;Tang</div> <div class="imageTitle">A cohort of participants from Summer 2021</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This NSF CyberTraining Project focused on "workforce development for future smart energy systems" and virtually hosted participants over the summers of 2021 and 2022. The primary award supported 29 participants in the first year and 44 participants in the second year. Participants were provided with mentored, hands-on training with topics on the smart grid and renewable energy, artificial intelligence (AI) and data analytics, communication and network security, and sensor networks and Internet-of-Things. Over these two years, 10 mentors led these topics-based training, and each summer our mentors adjusted their training materials based on participant feedback and research development in related fields. The award also supported two Ph.D. students for two years. The student was trained to carry out research on AI-based data analytics and smart grid cyber-physical security. As a result, the project has led to 5 journal papers and 3 conference papers with presentations.  Through extensive participant recruitment focused on minority-serving and STEM research limited institutions, 56 and 78 applications were received for our 2021 and 2022 programs. Our 73 participants included 26 females and 57 underrepresented minorities in STEM. These participants were from 9 different majors including Computer Science, Computer Engineering, Electrical and Electronics Engineering, Civil Engineering, Ocean and Mechanical Engineering, Neuroscience, Information Technology, Sociology, and Physics. These participants were from 13 different colleges/universities, including Florida Atlantic University, University of South Florida, University of Wyoming, University of Oklahoma, University of Louisiana at Lafayette, New Mexico State University, Nova Southeastern University, Florida State University, University of Florida, Ana G. Mendez University (Puerto Rico), New College of Florida, Washington State University, and Iowa State University. Participants were asked to complete a pre-workshop survey and a post-program survey. Highlights from these surveys include (i) many participants  in 2021 liked best the hands-on work they completed and the variety of topics taught; and (ii) the 2022 participants affirmed that they enjoyed these aspects and all of the knowledgeable presenters and professors throughout the training.          Last Modified: 10/15/2022       Submitted by: Yufei Tang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

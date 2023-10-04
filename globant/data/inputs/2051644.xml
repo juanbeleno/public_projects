@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Automated Perception for Robotic Chopsticks Manipulating Small and Large Objects in Constrained Spaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will use robots to mechanize one of the last remaining fully manual tasks in logistics chains: unloading packages. Even before COVID-19, shipping growth was severely straining the human workforce that moves packages between shipping containers and distribution centers. The pool of unskilled laborers willing and able to monotonously move heavy packages a few feet at a time is much too small. COVID-19 made the importance of these supply chains evident. Mechanization will both speed the supply chain and help safeguard it from infectious diseases and other natural disasters. While addressing a $32 billion year problem in the logistics industry, the project will simultaneously enhance understanding of geometric modeling for more accurate sensing and robotic manipulation of objects that exhibit significant geometric variation.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project seeks to establish machine vision algorithms targeted to robotic manipulation applications in order to recognize objects from RGB-D images (a combination of red, green blue images and its corresponding depth image) via curated geometric models parameterizable with tuples of numbers.  The technology will also estimate the state and parameters of recognized objects. The state-of-the-art in existing machine vision approaches to model-based object recognition and state estimation use fixed models, i.e., models of objects with constant size, shape, color, and texture. Those approaches have demonstrated the ability to identify scores of different objects and localize them in space. But they work on only some specific images. This project will pursue comparable accuracy, sufficient for robotic manipulation of packages in supply chains, on the same identification and localization tasks for multiple object categories. Research objectives specify the minimum performance numbers for the precision and recall required to detect objects in a scene, to estimate accuracy, and to calculate runtime performance (in frames processed per second).  The anticipated technical result is a semi-autonomous system that is able to work with a human to speed object recognition and parameter identification, and to provide estimations beyond a fully manual system.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051644</AwardID>
+<Investigator>
+<FirstName>Evan</FirstName>
+<LastName>Drumwright</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Evan Drumwright</PI_FULL_NAME>
+<EmailAddress><![CDATA[drum@dextrousrobotics.com]]></EmailAddress>
+<NSF_ID>000802056</NSF_ID>
+<StartDate>06/30/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>DEXTROUS ROBOTICS, INC.</Name>
+<CityName>MEMPHIS</CityName>
+<ZipCode>381045052</ZipCode>
+<PhoneNumber>9015980441</PhoneNumber>
+<StreetAddress>802 ROZELLE ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MD44UJ6AZMP5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>DEXTROUS ROBOTICS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Dextrous Robotics]]></Name>
+<CityName>Memphis</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>381042010</ZipCode>
+<StreetAddress><![CDATA[1350 Concourse Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7632</Code>
+<Text>HUMAN-ROBOT INTERACTION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The most significant outcome of this project is a robotic perception system that  needs almost no human correction and is capable of identifying,  tracking, and estimating the dimensions and pose of boxes to high accuracy and in imperfect conditions (poor lighting, occlusions, with specular highlights, etc.)&nbsp; The system is able to leverage multiple camera views for increased robustness to occlusions. For a test dataset, our system achieved an F1-score (harmonic mean of  precision and recall) of 99%, translational errors within 5 centimeters, and  orientation errors within 5 degrees, all at a camera distance of 1.5-2 meters.  At present, the perception system is able to identify, track, and  estimate the dimensions of boxes faster than our  camera's 20 Hz rate. This project also yielded a user interface design that permits correcting the inevitable (albeit rare) perception errors that would preclude effective manipulation.</p> <p>This result paves a path for dexterous robots to manipulate entire categories of objects rapidly and efficiently, thereby catalyzing the transformation  of dangerous, physically demanding, and ubiquitous tasks into ones  that are neither dangerous nor physically demanding. Robots will be  effecting the hard, physical labor, and humans will be operating and  servicing these machines. Meanwhile, the robots will be collecting data  on the objects that they are manipulating, allowing application of  computers' data management capabilities to material organization tasks and facilitating searching, sorting, and organizational tasks.</p> <p>&nbsp;</p><br> <p>            Last Modified: 07/25/2022<br>      Modified by: Evan&nbsp;Drumwright</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2051644/2051644_10744125_1653580722745_two_boxes_4--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2051644/2051644_10744125_1653580722745_two_boxes_4--rgov-800width.jpg" title="Box tracking (d)"><img src="/por/images/Reports/POR/2022/2051644/2051644_10744125_1653580722745_two_boxes_4--rgov-66x44.jpg" alt="Box tracking (d)"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Perception system identifying and tracking two boxes (#0, #1) and re-estimating their dimensions and poses. Occlusions instantaneously cause errors in the dimension and pose estimates.</div> <div class="imageCredit">Dextrous Robotics</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Evan&nbsp;Drumwright</div> <div class="imageTitle">Box tracking (d)</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2051644/2051644_10744125_1653580493859_two_boxes_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2051644/2051644_10744125_1653580493859_two_boxes_2--rgov-800width.jpg" title="Box tracking (b)"><img src="/por/images/Reports/POR/2022/2051644/2051644_10744125_1653580493859_two_boxes_2--rgov-66x44.jpg" alt="Box tracking (b)"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Perception system identifying and tracking two boxes (#0, #1) and re-estimating their dimensions and poses</div> <div class="imageCredit">Dextrous Robotics</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Evan&nbsp;Drumwright</div> <div class="imageTitle">Box tracking (b)</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2051644/2051644_10744125_1653580588307_two_boxes_3--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2051644/2051644_10744125_1653580588307_two_boxes_3--rgov-800width.jpg" title="Box tracking (c)"><img src="/por/images/Reports/POR/2022/2051644/2051644_10744125_1653580588307_two_boxes_3--rgov-66x44.jpg" alt="Box tracking (c)"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Perception system identifying and tracking two boxes (#0, #1) and re-estimating their dimensions and poses. Occlusions instantaneously cause dimensional re-estimation to be incorrect.</div> <div class="imageCredit">Dextrous Robotics</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Evan&nbsp;Drumwright</div> <div class="imageTitle">Box tracking (c)</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2051644/2051644_10744125_1654890812482_multi-view--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2051644/2051644_10744125_1654890812482_multi-view--rgov-800width.jpg" title="Multi-camera-view box perception"><img src="/por/images/Reports/POR/2022/2051644/2051644_10744125_1654890812482_multi-view--rgov-66x44.jpg" alt="Multi-camera-view box perception"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A dataset of 10 image pairs of a single box taken from our RGB-D cameras. The red oriented bounding boxes (OBBs) show the box dimensions using a single camera viewpoint; the green OBBs show the box dimensions using box camera viewpoints.</div> <div class="imageCredit">Evan Drumwright</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Evan&nbsp;Drumwright</div> <div class="imageTitle">Multi-camera-view box perception</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The most significant outcome of this project is a robotic perception system that  needs almost no human correction and is capable of identifying,  tracking, and estimating the dimensions and pose of boxes to high accuracy and in imperfect conditions (poor lighting, occlusions, with specular highlights, etc.)  The system is able to leverage multiple camera views for increased robustness to occlusions. For a test dataset, our system achieved an F1-score (harmonic mean of  precision and recall) of 99%, translational errors within 5 centimeters, and  orientation errors within 5 degrees, all at a camera distance of 1.5-2 meters.  At present, the perception system is able to identify, track, and  estimate the dimensions of boxes faster than our  camera's 20 Hz rate. This project also yielded a user interface design that permits correcting the inevitable (albeit rare) perception errors that would preclude effective manipulation.  This result paves a path for dexterous robots to manipulate entire categories of objects rapidly and efficiently, thereby catalyzing the transformation  of dangerous, physically demanding, and ubiquitous tasks into ones  that are neither dangerous nor physically demanding. Robots will be  effecting the hard, physical labor, and humans will be operating and  servicing these machines. Meanwhile, the robots will be collecting data  on the objects that they are manipulating, allowing application of  computers' data management capabilities to material organization tasks and facilitating searching, sorting, and organizational tasks.          Last Modified: 07/25/2022       Submitted by: Evan Drumwright]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

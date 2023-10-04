@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Exploring Artificial Intelligence Techniques for Energy-Efficient Arrhythmia Detection and Identification in Connected Implantable Cardiac Devices]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>286000.00</AwardTotalIntnAmount>
+<AwardAmount>286000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Nilsen</SignBlockName>
+<PO_EMAI>wnilsen@nsf.gov</PO_EMAI>
+<PO_PHON>7032922568</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Cardiovascular disease is one of the major causes of all human deaths. Irregular heart rhythms or arrhythmias are one of the most common causes for cardiovascular death. Arrhythmia-related cardiac morbidity and mortality can be reduced by the implantation of permanent cardiac devices that are designed to monitor the heart rhythm for serious abnormalities and to deliver immediate therapy when necessary. In the United States, nearly 225,000 pacemakers or other cardiac rhythm management devices (CRMD) are implanted annually. Device manufacturers have recently started incorporating advanced features to make the cardiac devices smarter and more connected. In the treatment of arrhythmia, the identification of the specific nature of arrhythmia is critical. At present the implantable cardiac devices have the capability only to detect the presence of an arrhythmia not to identify which kind of arrhythmia. Because of this shortcoming in current implantable devices, it is possible that they may administer the wrong corrective measure for the type of arrhythmia. This lack of specific treatment can have devastating consequences. Thus, energy efficient arrhythmia detection and identification is critical to next generation implantable cardiac devices. The results of this research work will have the potential to significantly impact the way patients suffering from arrhythmia are diagnosed and treated. &lt;br/&gt;&lt;br/&gt;CRMDs are severely energy constrained devices. Any new added features will drain more charge from the battery and will reduce the battery life of the implanted cardiac devices. In this research, the team will explore energy-efficient novel artificial intelligence (AI) techniques for real-time detection and identification of arrhythmia in connected smart implantable cardiac devices. Further, the feasibility of ultra-low power hardware implementation of the developed algorithms will be explored. The main novelty of this research lies in using statistical models and algorithms and in using energy efficient deep neural networks (DNNs) for arrhythmia detection and identification. The developed AI algorithm hardware can be optimized for energy efficiency by reduction of computation size and by reduction of number of computations. The research results are expected to enable the cardiac device manufacturers to develop the next generation of implantable cardiac devices capable of identifying arrythmias.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041327</AwardID>
+<Investigator>
+<FirstName>TAPOSH</FirstName>
+<LastName>BANERJEE</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>TAPOSH BANERJEE</PI_FULL_NAME>
+<EmailAddress><![CDATA[taposh.banerjee@pitt.edu]]></EmailAddress>
+<NSF_ID>000793671</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Qiang</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qiang Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[lqiang@cs.utexas.edu]]></EmailAddress>
+<NSF_ID>000701870</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eugene</FirstName>
+<LastName>John</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eugene B John</PI_FULL_NAME>
+<EmailAddress><![CDATA[eugene.john@utsa.edu]]></EmailAddress>
+<NSF_ID>000491562</NSF_ID>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at San Antonio</Name>
+<CityName>SAN ANTONIO</CityName>
+<ZipCode>782491644</ZipCode>
+<PhoneNumber>2104584340</PhoneNumber>
+<StreetAddress>1 UTSA CIRCLE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX20</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>U44ZMVYU52U6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TEXAS AT SAN ANTONIO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X5NKD2NFF2V3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Texas at San Antonio]]></Name>
+<CityName/>
+<StateCode>TX</StateCode>
+<ZipCode>782491644</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>20</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX20</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~286000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Cardiovascular diseases are one of the major causes of all human deaths. Irregular heartbeat or arrhythmia is one among many reasons for cardiovascular diseases. Arrhythmia detection and classification is critical in the treatment of irregular heartbeats. In this project we developed multiple techniques for the efficient and robust detection and identification of arrhythmia. We developed a systematic method for high accuracy arrhythmia detection and classification using ArrhyNet, a custom convolutional neural network (CNN) for arrhythmia classification on MIT-BIH Arrhythmia Database. The results indicate that the top-1 accuracy of our five-class classification system for the database used is 92.73%.</p> <p>For arrhythmia detection and classification, we proposed a new class of stochastic processes called independent and periodically identically distributed (i.p.i.d.) processes to model data with statistical periodicity. The electrocardiogram (ECG) data sequence is a highly structured sequence with almost periodic patterns repeated every second and appears markedly different from a sample from an independent and identically distributed (i.i.d.) process. We verified that the ECG data can be quite effectively modeled using an i.p.i.d. process model. This mapped the problem of detection and identification of arrhythmia in ECG data to equivalent problems in i.p.i.d. models. Using this model, we developed techniques for quickest detection and identification of arrhythmia and robust change detection of arrhythmia.</p> <p>We have also proposed a methodology for arrhythmia detection based on the concept of meta-learning. We trained a DNN model for arrhythmia classification using a particular dataset (Physionet 2017 challenge dataset). We then adapted the trained model to a new but unseen data set (e.g., MIH-BIT, Physionet 2020, etc) by using a meta-learning approach to adjust the model. We demonstrated that such an approach leads to better prediction accuracy over the method of completely ignoring previous learning. We were able to learn to classify previously unseen categories.</p> <p>We also developed a host of new machine learning techniques that allows us to easily learn neural networks with higher energy efficiency while maintaining high prediction accuracy. A key building block of our method is a dynamic barrier gradient descent framework, which provides a unified methodology to develop algorithms for challenging constrained, multi-level, multi-objective optimization and sampling problems. These new algorithms allow us to optimize the accuracy more efficiently under given energy cost constraints, and flexibly trade off energy efficiency with the other objectives of ML by optimization and sampling within Pareto sets.</p> <p>The results of this work have the potential to significantly impact the way patients suffering from arrythmia is diagnosed and treated. The developed techniques will contribute towards the accurate and robust detection and identification of arrhythmias. These techniques and algorithms will help researchers and device manufactures in the area to improve the state-of-the-art in arrhythmia detection and identification.</p> <p>During the grant period we trained 5 graduate students, including 2 female students. The students were trained in cross-disciplinary education spanning different aspects of the compute stack which addresses critical needs to provide sufficient numbers of skilled workers for the US computing and related industry.</p> <p>&nbsp;</p><br> <p>            Last Modified: 11/21/2022<br>      Modified by: Eugene&nbsp;B&nbsp;John</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Cardiovascular diseases are one of the major causes of all human deaths. Irregular heartbeat or arrhythmia is one among many reasons for cardiovascular diseases. Arrhythmia detection and classification is critical in the treatment of irregular heartbeats. In this project we developed multiple techniques for the efficient and robust detection and identification of arrhythmia. We developed a systematic method for high accuracy arrhythmia detection and classification using ArrhyNet, a custom convolutional neural network (CNN) for arrhythmia classification on MIT-BIH Arrhythmia Database. The results indicate that the top-1 accuracy of our five-class classification system for the database used is 92.73%.  For arrhythmia detection and classification, we proposed a new class of stochastic processes called independent and periodically identically distributed (i.p.i.d.) processes to model data with statistical periodicity. The electrocardiogram (ECG) data sequence is a highly structured sequence with almost periodic patterns repeated every second and appears markedly different from a sample from an independent and identically distributed (i.i.d.) process. We verified that the ECG data can be quite effectively modeled using an i.p.i.d. process model. This mapped the problem of detection and identification of arrhythmia in ECG data to equivalent problems in i.p.i.d. models. Using this model, we developed techniques for quickest detection and identification of arrhythmia and robust change detection of arrhythmia.  We have also proposed a methodology for arrhythmia detection based on the concept of meta-learning. We trained a DNN model for arrhythmia classification using a particular dataset (Physionet 2017 challenge dataset). We then adapted the trained model to a new but unseen data set (e.g., MIH-BIT, Physionet 2020, etc) by using a meta-learning approach to adjust the model. We demonstrated that such an approach leads to better prediction accuracy over the method of completely ignoring previous learning. We were able to learn to classify previously unseen categories.  We also developed a host of new machine learning techniques that allows us to easily learn neural networks with higher energy efficiency while maintaining high prediction accuracy. A key building block of our method is a dynamic barrier gradient descent framework, which provides a unified methodology to develop algorithms for challenging constrained, multi-level, multi-objective optimization and sampling problems. These new algorithms allow us to optimize the accuracy more efficiently under given energy cost constraints, and flexibly trade off energy efficiency with the other objectives of ML by optimization and sampling within Pareto sets.  The results of this work have the potential to significantly impact the way patients suffering from arrythmia is diagnosed and treated. The developed techniques will contribute towards the accurate and robust detection and identification of arrhythmias. These techniques and algorithms will help researchers and device manufactures in the area to improve the state-of-the-art in arrhythmia detection and identification.  During the grant period we trained 5 graduate students, including 2 female students. The students were trained in cross-disciplinary education spanning different aspects of the compute stack which addresses critical needs to provide sufficient numbers of skilled workers for the US computing and related industry.          Last Modified: 11/21/2022       Submitted by: Eugene B John]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

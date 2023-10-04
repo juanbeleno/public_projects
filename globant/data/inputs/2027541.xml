@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: COVID-19 Response Support: Building Synthetic Multi-scale Networks]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>173640.00</AwardTotalIntnAmount>
+<AwardAmount>173640</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Seung-Jong Park</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Novel 2019 Coronavirus (COVID-19) has already caused unprecedented global social, economic, and health impact. This project will develop synthetic global multi-scale social contact networks. The synthetic but realistic social contact networks can capture human interactions either at an individual or community level. The networks can be used in conjunction with agent-based models to simulate the ongoing COVID-19 pandemic. The simulations can in-turn be used to design and assess various interventions that balance health benefits with social and economic costs. Data will be made available to the scientific community. The PIs will also work with other research groups and continue their partnership with other federal and state agencies to support their response efforts.  &lt;br/&gt;&lt;br/&gt;Developing synthetic social contact networks is a statistically and algorithmically challenging problem. This project will synthesize ensembles of two classes of synthetic social contact networks -- patch-based meta-population networks and individualized synthetic social contact populations and networks using a combination of machine learning and data driven modeling techniques. The need for such data driven mechanistic modeling methods has become abundantly clear in regimes when the available data is sparse and noisy. The project will undertake a detailed statistical analysis of the algorithms and the synthetic networks they produce. This includes methods to conduct global sensitivity analysis and methods to quantify the uncertainty in the outcomes as a function of the network structure. One of the many uses of this resource, is to support individual-based as well as meta-population-based simulation models for epidemic spread in general, and COVID-19 in particular.  Beyond supporting ongoing COVID-19 outbreaks, these synthetic social contact networks will be useful in responding to other epidemics. The PIs plan to make this data available to the global research community so that researchers around the world can immediately use it to assess the pandemic and the response efforts in their respective regions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027541</AwardID>
+<Investigator>
+<FirstName>Madhav</FirstName>
+<LastName>Marathe</LastName>
+<PI_MID_INIT>V</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Madhav V Marathe</PI_FULL_NAME>
+<EmailAddress><![CDATA[mvm7hz@virginia.edu]]></EmailAddress>
+<NSF_ID>000148286</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Srinivasan</FirstName>
+<LastName>Venkatramanan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Srinivasan Venkatramanan</PI_FULL_NAME>
+<EmailAddress><![CDATA[srini@virginia.edu]]></EmailAddress>
+<NSF_ID>000823949</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Henning</FirstName>
+<LastName>Mortveit</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Henning S Mortveit</PI_FULL_NAME>
+<EmailAddress><![CDATA[Henning.Mortveit@virginia.edu]]></EmailAddress>
+<NSF_ID>000493522</NSF_ID>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229034833</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>1001 EMMET ST N</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJG6HU8PA4S5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RECTOR &amp; VISITORS OF THE UNIVERSITY OF VIRGINIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Virginia Main Campus]]></Name>
+<CityName/>
+<StateCode>VA</StateCode>
+<ZipCode>229034833</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~173640</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-d253cc58-7fff-8b65-5850-db3f4d8dfbf8"> </span></p> <p dir="ltr"><span>The work executed under this grant was motivated by the need to produce high quality openly available synthetic data sets for epidemic modeling, in particular for COVID-19. In light of this, care has been taken to base our work on data sets that are not commercial and that have few restrictions in their terms of use. The size and scope of the data generated under this grant is unique and we anticipate that the products will be broadly useful. The project was divided into three tasks.</span></p> <p dir="ltr"><span>The goal of Task 1 was to build synthetic networks compatible with a metapopulation representation of the region. Populations are grouped into sub-regions (aka patches) and the mobility or connectivity between the patches are generated through different modeling approaches. In addition to capturing the spatial heterogeneity in the population, such approaches can also be used to capture the age-stratification in contacts between the regions. We tackled this by constructing them at the administrative levels of 1 and 2 (state and county equivalent for the US), and using generative models or learned distributions for introducing connectivity.</span></p> <p dir="ltr"><span>The goal of Task 2 was to develop models and computational tools to construct synthetic populations for any country or region, often with only limited data available. The data products generated by the computational pipeline of models is being shared with the scientific community through Zenodo. Major accomplishments for this task are mainly the modeling, design, and implementation of an end-to-end chain of models alongside implementations of each model and their integration into a computational workflow. The construction is done at the spatial resolution of administrative level 2 (equivalent to a county for the US), and includes the following data for each region and the accompanying implementations used for their construction: base population, household grouping, activity sequences, activity locations and residence locations, activity location assignment, network construction, computational pipeline, validation and calibration, data collection efforts.</span></p> <p dir="ltr"><span>The goal of Task 3 was to create case studies to demonstrate the effective use of the populations and datasets developed in the first two tasks. A significant study involved vaccine allocation presented to the State Technical Advisory Committee, Karnataka, India </span><span>(</span><a href="https://www.medrxiv.org/content/10.1101/2021.05.26.21257836v1.full"><span>https://www.medrxiv.org/content/10.1101/2021.05.26.21257836v1.full</span></a><span>).&nbsp;</span></p> <p dir="ltr"><span>The models, methods and data from our work can help advance computational epidemiology, which was one of the main motivators for the work. However, the population data generated in this work has a range of other application uses, a prominent example being analysis of socio-technical systems, that is, co-evolving and coupled systems composed of a human model (possibly including behavioral aspects) and collections of models of infrastructures such as transportation, power, communication, and the food supply chain. A prime example of such applications is evacuation scenarios tied to natural and human-initiated disasters, as well as most research addressed in NSF?s CRISP initiatives.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 04/29/2022<br>      Modified by: Madhav&nbsp;V&nbsp;Marathe</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   The work executed under this grant was motivated by the need to produce high quality openly available synthetic data sets for epidemic modeling, in particular for COVID-19. In light of this, care has been taken to base our work on data sets that are not commercial and that have few restrictions in their terms of use. The size and scope of the data generated under this grant is unique and we anticipate that the products will be broadly useful. The project was divided into three tasks. The goal of Task 1 was to build synthetic networks compatible with a metapopulation representation of the region. Populations are grouped into sub-regions (aka patches) and the mobility or connectivity between the patches are generated through different modeling approaches. In addition to capturing the spatial heterogeneity in the population, such approaches can also be used to capture the age-stratification in contacts between the regions. We tackled this by constructing them at the administrative levels of 1 and 2 (state and county equivalent for the US), and using generative models or learned distributions for introducing connectivity. The goal of Task 2 was to develop models and computational tools to construct synthetic populations for any country or region, often with only limited data available. The data products generated by the computational pipeline of models is being shared with the scientific community through Zenodo. Major accomplishments for this task are mainly the modeling, design, and implementation of an end-to-end chain of models alongside implementations of each model and their integration into a computational workflow. The construction is done at the spatial resolution of administrative level 2 (equivalent to a county for the US), and includes the following data for each region and the accompanying implementations used for their construction: base population, household grouping, activity sequences, activity locations and residence locations, activity location assignment, network construction, computational pipeline, validation and calibration, data collection efforts. The goal of Task 3 was to create case studies to demonstrate the effective use of the populations and datasets developed in the first two tasks. A significant study involved vaccine allocation presented to the State Technical Advisory Committee, Karnataka, India (https://www.medrxiv.org/content/10.1101/2021.05.26.21257836v1.full).  The models, methods and data from our work can help advance computational epidemiology, which was one of the main motivators for the work. However, the population data generated in this work has a range of other application uses, a prominent example being analysis of socio-technical systems, that is, co-evolving and coupled systems composed of a human model (possibly including behavioral aspects) and collections of models of infrastructures such as transportation, power, communication, and the food supply chain. A prime example of such applications is evacuation scenarios tied to natural and human-initiated disasters, as well as most research addressed in NSF?s CRISP initiatives.               Last Modified: 04/29/2022       Submitted by: Madhav V Marathe]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

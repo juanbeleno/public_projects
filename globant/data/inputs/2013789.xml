@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Statistical inference of network and relational data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>151307.00</AwardTotalIntnAmount>
+<AwardAmount>151307</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pena Edsel</SignBlockName>
+<PO_EMAI>epena@nsf.gov</PO_EMAI>
+<PO_PHON>7032928080</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Technological innovations have provided a primary force in advancement of scientific research and in social progress.  Large scale network data and relational data are frequently encountered in genomics and health sciences, economics, finance and social media.  The proposed project will (1) enhance methodological and theoretical developments for statistical analysis of network and relational data. (2) advance the understanding of the community structure of social network. The research emanating from this grant will advance the frontiers of theory and methods for network data modeling.  The new developments will provide better understandings of large scale network data for researchers from diverse fields of sciences and humanities, e.g., understanding  the social behavior of individuals and the dynamic nature of social network.&lt;br/&gt;&lt;br/&gt;The proposed project has the following three interrelated objectives under the theme of statistical inference for large scale network and relational data. (1) To introduce a new framework for community detection with covariate information. There have been many existing approaches to  community detection. However, a majority  of  them focus on analyzing the network without considering the covariate information, which could be valuable for achieving greater accuracy of community detection. The goal of this research is to study when and how will covariate information help in terms of  the community detection accuracy.  (2) To develop a new dynamic stochastic block model framework with applications in change point detection. The stochastic block model along with its variants are usually defined for a static network. The goal here is to define a dynamic version of the stochastic block model, with a clear interpretation of how the network evolves over time. A general dynamic spectral clustering method will be proposed and its theoretical properties established. The important problem of change point detection of the dynamic network will be studied in details.  (3) To introduce a conditional dependency measure with applications in undirected graphical models. It is of fundamental interest to ascertain variables or factors underlining the network dependency structure. The goal is to introduce a flexible conditional dependency measure, which can capture a wide range of different dependency structures. The PI will develop a new method for generating a general undirected graph with desirable features by making use of the resulting conditional dependency measure.]]></AbstractNarration>
+<MinAmdLetterDate>01/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2013789</AwardID>
+<Investigator>
+<FirstName>Yang</FirstName>
+<LastName>Feng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Yang Feng</PI_FULL_NAME>
+<EmailAddress><![CDATA[yf31@nyu.edu]]></EmailAddress>
+<NSF_ID>000574093</NSF_ID>
+<StartDate>01/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>100036806</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8048</Code>
+<Text>Division Co-Funding: CAREER</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~67904</FUND_OBLG>
+<FUND_OBLG>2020~83403</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-6b4e462d-7fff-a58d-9671-4fca87159e20"> <p dir="ltr"><br />The five-year project resulted in multiple new statistical methods along with their associated theory and applications in the area of social network analysis, model selection, model averaging, Neyman-Pearson classification, and machine learning. In particular, we introduced a new framework for community detection with covariate information. The new method is shown to incorporate nodal information into the community detection process, achieving greater accuracy in community detection. A systematic study was conducted to delineate when and how will covariate information help in terms of community detection accuracy. In addition, we study the important testing problem of community detection in hypergraphs. A wide range of sparsity regimes was studied with the corresponding testing statistics and their associated asymptotic properties unveiled. In particular, the project presented an interesting phase transition phenomenon on the distinguishability regarding the sparsity levels. Finally, the project proposed an efficient algorithm for computing the solution path for a high-dimensional quadratic regression model under the heredity constraint. The asymptomatic properties of the proposed estimate were systematically investigated.&nbsp;&nbsp;</p> <p dir="ltr">&nbsp;</p> <p dir="ltr">Results from this project are expected to make a broader impact in social sciences by a better understanding of the community structures in social networks using the available nodal information of the users. The study on hypergraphs will open the door for extracting more accurate community information in social networks such as co-authorship networks, co-acting networks, and genetic networks. The study on quadratic regression models will help biologists and doctors to identify important interaction effects of various risk factors for disease prediction and prevention. The project has also supported the research of multiple Ph.D. students as well as master-level students. Various outcomes of the project have been integrated into teachings. The project has also led to the development of several open-source R packages including RaSEn and RAMP.&nbsp;<br /><br /></p> </span></p><br> <p>            Last Modified: 11/03/2022<br>      Modified by: Yang&nbsp;Feng</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   The five-year project resulted in multiple new statistical methods along with their associated theory and applications in the area of social network analysis, model selection, model averaging, Neyman-Pearson classification, and machine learning. In particular, we introduced a new framework for community detection with covariate information. The new method is shown to incorporate nodal information into the community detection process, achieving greater accuracy in community detection. A systematic study was conducted to delineate when and how will covariate information help in terms of community detection accuracy. In addition, we study the important testing problem of community detection in hypergraphs. A wide range of sparsity regimes was studied with the corresponding testing statistics and their associated asymptotic properties unveiled. In particular, the project presented an interesting phase transition phenomenon on the distinguishability regarding the sparsity levels. Finally, the project proposed an efficient algorithm for computing the solution path for a high-dimensional quadratic regression model under the heredity constraint. The asymptomatic properties of the proposed estimate were systematically investigated.     Results from this project are expected to make a broader impact in social sciences by a better understanding of the community structures in social networks using the available nodal information of the users. The study on hypergraphs will open the door for extracting more accurate community information in social networks such as co-authorship networks, co-acting networks, and genetic networks. The study on quadratic regression models will help biologists and doctors to identify important interaction effects of various risk factors for disease prediction and prevention. The project has also supported the research of multiple Ph.D. students as well as master-level students. Various outcomes of the project have been integrated into teachings. The project has also led to the development of several open-source R packages including RaSEn and RAMP.           Last Modified: 11/03/2022       Submitted by: Yang Feng]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

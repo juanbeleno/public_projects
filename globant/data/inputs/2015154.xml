@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Predictive and Computational Technologies for the Mortgage Industry]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>223820.00</AwardTotalIntnAmount>
+<AwardAmount>223820</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project will result from providing mortgage market participants such as lenders, servicers, insurers, investors, rating agencies, government sponsored enterprises, and regulators with integrated deep learning systems that offer actionable predictions of borrower, portfolio, security, and market behavior of unprecedentedly high accuracy and low latency at scale. The systems will enable these organizations to identify valuable opportunities, reduce losses, and improve staff utilization while dramatically lowering compute costs in a $2 billion annual mortgage decision and risk analytics market. Wide adoption will boost the performance of the American housing-finance system, benefiting homeowners and the broader population through lowering borrowing costs, expanding access to credit, and reducing the risk of future financial crises.  The Phase I project focuses on developing transformative computational algorithms that make comprehensive deep learning predictions available in real time, at a fraction of the cost of existing computational technologies. It yields new insights into how computational algorithms can significantly enhance the benefits of AI prediction systems.   &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project seeks to address the core technical challenge associated with the development of powerful deep learning systems for measuring risk and identifying opportunities in the mortgage industry. This challenge is the construction of novel and transformative asymptotic-approximation algorithms to run in real time, rather than the hours or days prior technology requires. Examples of such applications include measuring the risks of large pools of mortgages over long horizons and the risks of mortgage securities backed by such pools. The dramatic running time gains offered by these algorithms are the key to harnessing the unprecedented predictive accuracy of deep learning models of individual borrower behavior. The key objectives of the proposed project are to develop a large-pool asymptotic approximation approach that offers run-time guarantees for deep learning models, and to construct efficient numerical schemes for implementing the resulting algorithms in a cloud environment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>09/23/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2015154</AwardID>
+<Investigator>
+<FirstName>Alex</FirstName>
+<LastName>Papanicolaou</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alex Papanicolaou</PI_FULL_NAME>
+<EmailAddress><![CDATA[alex@infima.io]]></EmailAddress>
+<NSF_ID>000804276</NSF_ID>
+<StartDate>06/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>INTELLIGENT FINANCIAL MACHINES LLC</Name>
+<CityName>SAN MATEO</CityName>
+<ZipCode>944031906</ZipCode>
+<PhoneNumber>6502404950</PhoneNumber>
+<StreetAddress>1 FRANKLIN PKWY</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FTJBDMU8Q6Q3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>INFIMA TECHNOLOGIES INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[INTELLIGENT FINANCIAL MACHINES LLC]]></Name>
+<CityName>Woodside</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>940623520</ZipCode>
+<StreetAddress><![CDATA[315 Highland Terrace]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>16</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA16</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~223820</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>US housing finance, a $15 trillion sector, is built on inferior predictive technologies and high-latency computation, resulting in adverse outcomes, including overly-restricted mortgage credit, higher mortgage rates, foreclosures, large investment losses and a persistent risk of financial crises. Recently developed AI-driven prediction systems provide radical new insight into borrower, security, and market behavior at the most detailed level, increasing prediction accuracy, scope and utility by orders of magnitude. While potentially transformative, these predictive technologies remain impractically slow for wide-spread adoption. This SBIR Phase I research has developed, implemented and tested innovative computational algorithms to significantly reduce the latency of these AI systems and fully harness their superior predictive performance.</p> <p>Together, these predictive and computational technologies enable mortgage lenders and other originators, servicers and insurers, government-sponsored enterprises Fannie Mae and Freddie Mac, Ginnie Mae, rating agencies, mortgage-security dealers and investors, regulators and other mortgage industry stakeholders to effectively and efficiently manage risk and opportunities along the entire mortgage life-cycle. They will benefit American homeowners and the broader population through expanding access to credit, lowering borrowing costs, improving processing times, and reducing the risk of investment losses and future financial crises.</p> <p>The computational algorithms offer unprecedented application speed that is expected to allow users to run even the largest risk, valuation and hedging analyses in decision timeframes, necessary for real-time rating, bidding, structuring, trading and surveilling large mortgage pools and related securities. The technologies are delivered through a cloud-based platform offering users immediate and cost-effective access to high-impact AI systems.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/08/2021<br>      Modified by: Alex&nbsp;Papanicolaou</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ US housing finance, a $15 trillion sector, is built on inferior predictive technologies and high-latency computation, resulting in adverse outcomes, including overly-restricted mortgage credit, higher mortgage rates, foreclosures, large investment losses and a persistent risk of financial crises. Recently developed AI-driven prediction systems provide radical new insight into borrower, security, and market behavior at the most detailed level, increasing prediction accuracy, scope and utility by orders of magnitude. While potentially transformative, these predictive technologies remain impractically slow for wide-spread adoption. This SBIR Phase I research has developed, implemented and tested innovative computational algorithms to significantly reduce the latency of these AI systems and fully harness their superior predictive performance.  Together, these predictive and computational technologies enable mortgage lenders and other originators, servicers and insurers, government-sponsored enterprises Fannie Mae and Freddie Mac, Ginnie Mae, rating agencies, mortgage-security dealers and investors, regulators and other mortgage industry stakeholders to effectively and efficiently manage risk and opportunities along the entire mortgage life-cycle. They will benefit American homeowners and the broader population through expanding access to credit, lowering borrowing costs, improving processing times, and reducing the risk of investment losses and future financial crises.  The computational algorithms offer unprecedented application speed that is expected to allow users to run even the largest risk, valuation and hedging analyses in decision timeframes, necessary for real-time rating, bidding, structuring, trading and surveilling large mortgage pools and related securities. The technologies are delivered through a cloud-based platform offering users immediate and cost-effective access to high-impact AI systems.             Last Modified: 12/08/2021       Submitted by: Alex Papanicolaou]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

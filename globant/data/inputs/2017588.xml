@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Manufacturing Nanocomposite Materials Using Ultrasound Directed Self-Assembly and Additive Fused Deposition Modeling]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Khershed Cooper</SignBlockName>
+<PO_EMAI>khcooper@nsf.gov</PO_EMAI>
+<PO_PHON>7032927017</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This EArly-concept Grants for Exploratory Research (EAGER) award focuses on understanding the basic science required to demonstrate feasibility of a manufacturing process that combines ultrasound directed self-assembly and additive fused deposition modeling to fabricate complex three-dimensional nanocomposite materials. Ultrasound directed self-assembly organizes nanoparticles dispersed in a fluid into user-specified patterns using an external ultrasound wave field. Fused deposition modeling is an extrusion based additive manufacturing process to make three-dimensional objects from a variety of materials. Current methods for patterning nanoparticles involve electric or magnetic field-directed self-assembly, which places strict requirements on the material properties and shape of the nanoparticles.  In addition, the need for high electric and magnetic field strengths to organize particles into user-defined patterns limits dimensional scalability of the nanocomposite materials. Ultrasound wave fields permit the manipulation of nanoparticles independent of their material properties and dimensions, thus removing material and size restrictions. Additive fused deposition modeling in combination with the low field-strength required for an ultrasound wave field to penetrate viscous liquids enables dimensional scalability of the manufacturing process because ultrasound waves can propagate over macroscale distances. This project creates new knowledge in ultrasound directed self-assembly of nanoparticles in moving fluids such as in fused deposition modeling.  This project contributes to the education of graduate and undergraduate students. The research results are integrated into graduate teaching activities and disseminated into the scientific community.&lt;br/&gt;&lt;br/&gt;The specific goal of this EAGER research is to show proof-of-concept of a combined ultrasound directed self-assembly (DSA) and fused deposition modeling (FDM) manufacturing process, in which nanoparticles dispersed in a molten FDM filament are organized into specific patterns as it extrudes from the FDM three-dimensional printer nozzle. To achieve this goal, an ultrasound transducer is integrated into the printing nozzle of an FDM printer to enable control of nanoparticle patterning/structuring after melting the FDM filament loaded with nanoparticles. A numerical simulation of the ultrasound wave field determines the ultrasound transducer operating parameters required to obtain user-specified patterns of nanoparticles, accounting for the material properties of both the filament and nanoparticles. This manufacturing process allows the fabrication of 3D macroscale nanocomposite materials of any geometry using FDM and with hierarchical structures that cover multiple length scales using ultrasound DSA. The research focus is on fabricating circular patterns of nanoparticles. The project evaluates whether the circular patterns remain in place when the FDM filament solidifies and is deposited on a substrate. Solving this problem provides the knowledge to devise a combined ultrasound DSA/FDM manufacturing platform. This project allows the PI to advance the knowledge base in nanocomposite materials, additive manufacturing and advanced manufacturing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>03/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2017588</AwardID>
+<Investigator>
+<FirstName>Bart</FirstName>
+<LastName>Raeymaekers</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bart Raeymaekers</PI_FULL_NAME>
+<EmailAddress><![CDATA[bart.raeymaekers@vt.edu]]></EmailAddress>
+<NSF_ID>000585936</NSF_ID>
+<StartDate>03/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>STEVEN</FirstName>
+<LastName>NALEWAY</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>STEVEN E NALEWAY</PI_FULL_NAME>
+<EmailAddress><![CDATA[steven.naleway@mech.utah.edu]]></EmailAddress>
+<NSF_ID>000727902</NSF_ID>
+<StartDate>03/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841129049</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>201 PRESIDENTS CIR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>UT01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LL8GLEVH6MG3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF UTAH</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Utah]]></Name>
+<CityName>Salt Lake City</CityName>
+<StateCode>UT</StateCode>
+<ZipCode>841121109</ZipCode>
+<StreetAddress><![CDATA[1495 East 100 South, MEK 1550]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>UT01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>088Y</Code>
+<Text>AM-Advanced Manufacturing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>081E</Code>
+<Text>NANO SCALE ASSEMBLY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>084E</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This EArly-concept Grants for Exploratory Research (EAGER) project focuses on understanding the basic science required to demonstrate feasibility of a manufacturing process that combines ultrasound directed self-assembly (DSA) and additive manufacturing (AM) to fabricate complex, three-dimensional composite materials with specific organized patterns of filler material (particles) embedded in it. To achieve this goal, an ultrasound transducer is integrated into an extruder nozzle of a fused deposition modeling (FDM) or direct ink writing (DIW) setup. The forces associated with the ultrasound wave field enable control of the organization of filler dispersed in liquid polymer. A numerical simulation of the ultrasound wave field determines the ultrasound transducer operating parameters required to organize user-specified patterns of filler, accounting for the material properties of both the matrix and filler. This manufacturing process allows for ultrasound DSA of any type of filler dispersed in the viscous matrix, such as FDM filament or DIW ink, into complex user-specified structures. Additionally, macroscale build-up of the material and, thus, dimensional scalability, can be achieved using the FDM or DIW process.</p> <p>In the first part of this project, we demonstrated feasibility of ultrasound DSA in continuous flow of a viscous mixture of polymer and filler through an extruder nozzle. Specifically, we used ultrasound DSA to organize concentric circle patterns of particles (three different types) in silicone oil, mimicking the flow of liquid filament through the extruder nozzle of an FDM or DIW printer. We demonstrated that concentric circle patterns can be organized in the liquid viscous silicone oil as it flows through the extruder nozzle, and that the organized patterns stay in place during extrusion, i.e., while depositing on the build plate. After quantifying the operating envelope of the manufacturing process, we concluded that the effect of viscosity and particle volume fraction as well as the nozzle constriction angle on the organization of the concentric pattern of particles is negligible. However, we observed that the diameter of the throat section of the nozzle affects the resulting patterns of particles.</p> <p>In the second part of this project, we studied the effect of viscosity on the steady-state locations where spherical particles organize during ultrasound DSA in a viscous compared to inviscid medium. We also quantified how the organization of particles depend on the particle volume fraction<em> </em>and medium viscosity. To accomplish this, we experimentally measured the deviation between locations where particles assemble as a function of particle volume fraction, medium viscosity, and operating frequency. In addition, we simulate the experiments by implementing an ultrasound DSA simulation that integrates the Helmholtz equation with a complex wave number to account for particle volume fraction, in combination with the acoustic radiation potential theory that accounts for medium viscosity. The maximum difference between experiments and simulations is 10%. We provide best-fit equations to predict the deviation between locations where particles accumulate during ultrasound DSA in viscous and inviscid media. The deviation increases with increasing particle volume fraction and medium viscosity because the sound propagation velocity of the mixture of particles and viscous medium changes compared to that of the inviscid medium. When considering ultrasound DSA of a periodic pattern of lines of particles, we determine a 3% maximum deviation between adjacent particle locations but note that this deviation scales with the dimensions of the experiment/simulation.</p> <p>Solving the scientific problems underlying ultrasound DSA in continuous viscous flow provides the knowledge to devise a combined ultrasound DSA/FDM or ultrasound DSA/DIW manufacturing platform. Hence, the results of this project have implications for using ultrasound DSA as a fabrication process for, e.g. engineered polymer composite materials whose properties depend on the spatial organization of patterns of particles in the matrix material.</p> <p>&nbsp;</p><br> <p>            Last Modified: 12/05/2022<br>      Modified by: Bart&nbsp;Raeymaekers</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2017588/2017588_10661237_1665846305126_Fig1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2017588/2017588_10661237_1665846305126_Fig1--rgov-800width.jpg" title="Ultrasound DSA setup"><img src="/por/images/Reports/POR/2022/2017588/2017588_10661237_1665846305126_Fig1--rgov-66x44.jpg" alt="Ultrasound DSA setup"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Experimental method, showing a top view of the cylindrical ultrasound transducer with (a) simulation of where the particles will assemble, (b) photograph of the experiment, and (c) a superposition of the simulation and experimental results. Additionally, (d) experimental setup</div> <div class="imageCredit">Bart Raeymaekers</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Bart&nbsp;Raeymaekers</div> <div class="imageTitle">Ultrasound DSA setup</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2017588/2017588_10661237_1665846248846_Fig2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2017588/2017588_10661237_1665846248846_Fig2--rgov-800width.jpg" title="Ultrasound DSA in viscous media"><img src="/por/images/Reports/POR/2022/2017588/2017588_10661237_1665846248846_Fig2--rgov-66x44.jpg" alt="Ultrasound DSA in viscous media"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(a) Experimental results, showing lines of aligned particles (dark) in viscous medium (bright), and (b) the corresponding simulation results of the time-averaged acoustic radiation potential U.</div> <div class="imageCredit">Bart Raeymaekers</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Bart&nbsp;Raeymaekers</div> <div class="imageTitle">Ultrasound DSA in viscous media</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This EArly-concept Grants for Exploratory Research (EAGER) project focuses on understanding the basic science required to demonstrate feasibility of a manufacturing process that combines ultrasound directed self-assembly (DSA) and additive manufacturing (AM) to fabricate complex, three-dimensional composite materials with specific organized patterns of filler material (particles) embedded in it. To achieve this goal, an ultrasound transducer is integrated into an extruder nozzle of a fused deposition modeling (FDM) or direct ink writing (DIW) setup. The forces associated with the ultrasound wave field enable control of the organization of filler dispersed in liquid polymer. A numerical simulation of the ultrasound wave field determines the ultrasound transducer operating parameters required to organize user-specified patterns of filler, accounting for the material properties of both the matrix and filler. This manufacturing process allows for ultrasound DSA of any type of filler dispersed in the viscous matrix, such as FDM filament or DIW ink, into complex user-specified structures. Additionally, macroscale build-up of the material and, thus, dimensional scalability, can be achieved using the FDM or DIW process.  In the first part of this project, we demonstrated feasibility of ultrasound DSA in continuous flow of a viscous mixture of polymer and filler through an extruder nozzle. Specifically, we used ultrasound DSA to organize concentric circle patterns of particles (three different types) in silicone oil, mimicking the flow of liquid filament through the extruder nozzle of an FDM or DIW printer. We demonstrated that concentric circle patterns can be organized in the liquid viscous silicone oil as it flows through the extruder nozzle, and that the organized patterns stay in place during extrusion, i.e., while depositing on the build plate. After quantifying the operating envelope of the manufacturing process, we concluded that the effect of viscosity and particle volume fraction as well as the nozzle constriction angle on the organization of the concentric pattern of particles is negligible. However, we observed that the diameter of the throat section of the nozzle affects the resulting patterns of particles.  In the second part of this project, we studied the effect of viscosity on the steady-state locations where spherical particles organize during ultrasound DSA in a viscous compared to inviscid medium. We also quantified how the organization of particles depend on the particle volume fraction and medium viscosity. To accomplish this, we experimentally measured the deviation between locations where particles assemble as a function of particle volume fraction, medium viscosity, and operating frequency. In addition, we simulate the experiments by implementing an ultrasound DSA simulation that integrates the Helmholtz equation with a complex wave number to account for particle volume fraction, in combination with the acoustic radiation potential theory that accounts for medium viscosity. The maximum difference between experiments and simulations is 10%. We provide best-fit equations to predict the deviation between locations where particles accumulate during ultrasound DSA in viscous and inviscid media. The deviation increases with increasing particle volume fraction and medium viscosity because the sound propagation velocity of the mixture of particles and viscous medium changes compared to that of the inviscid medium. When considering ultrasound DSA of a periodic pattern of lines of particles, we determine a 3% maximum deviation between adjacent particle locations but note that this deviation scales with the dimensions of the experiment/simulation.  Solving the scientific problems underlying ultrasound DSA in continuous viscous flow provides the knowledge to devise a combined ultrasound DSA/FDM or ultrasound DSA/DIW manufacturing platform. Hence, the results of this project have implications for using ultrasound DSA as a fabrication process for, e.g. engineered polymer composite materials whose properties depend on the spatial organization of patterns of particles in the matrix material.          Last Modified: 12/05/2022       Submitted by: Bart Raeymaekers]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

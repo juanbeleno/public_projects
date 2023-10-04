@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[GEOVOL: A NEW STATISTICAL MODEL FOR GEOPOLITICAL RISK]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>244689.00</AwardTotalIntnAmount>
+<AwardAmount>244689</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kwabena Gyimah-Brempong</SignBlockName>
+<PO_EMAI>kgyimahb@nsf.gov</PO_EMAI>
+<PO_PHON>7032927466</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This proposal develops a new statistical measure of geopolitical risk called GEOVOL, which will have broad implications for understanding, measuring, and hedging geopolitical risk.  GEOVOL will involve  multiple factors and data sets, a deeper set of measures of geopolitical risks can be presented. By examining shocks that move all markets, this measure focuses on material news. Society has become used to news stories that appear to have massive implications, but do not move the markets. The spread of the coronavirus provided an extraordinary shock to virtually all financial markets in 2020.  Similar to Brexit election and 9-11 Bombings, these can be interpreted as truly geopolitical events which were essentially unpredictable.  This research will help to understand the distribution and impact of such events. In addition to developing the statistical model, this research will also collect and store data on geopolitical risk. By posting daily estimates of GEOVOL on the V-LAB web site, investors world-wide  will be able to see the extent of this geopolitical risk.    The web site will also incorporate several popular measures that have been developed by other research teams.  This presentation will help firms and individuals everywhere to make better decisions.    &lt;br/&gt;&lt;br/&gt;The GEOVOL measure is based on the insight that geopolitical risk is an innovation to the idiosyncratic volatility of financial assets in all countries, sectors, factors and asset classes. The proposal utilizes a statistical model, developed by Susana Martins and Robert Engle, extending a conventional framework: a set of risk factors generate contemporaneous correlation among financial assets.  Volatilities of these assets net of factors are predictable and the innovation to these volatilities are the squared standardized residuals.  These standardized residuals will be cross-sectionally uncorrelated but their squares can be and turn out to be correlated.  A day with a geopolitical shock will be a day when most of the squared standardized residuals are above average.  The common factor GEOVOL and factor loading can be estimated consistently as the number of assets and time series become large. The proposal requests support to 1) complete a paper documenting the analysis of the global equity market data, 2) take this model and put it into V-LAB where estimates are updated daily and published on the internet, 3) extend the model to adjust for different time zones, 4) apply the model to commodities, currencies and cross asset class data, 5)  examine the portfolio implications by back-testing the risk reductions that come from the theory and 6) extend the theory to include multi- factor models.  This model is a major advance in understanding multivariate volatility models and how idiosyncratic volatilities of different assets and countries become correlated.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2018923</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Engle</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert Engle</PI_FULL_NAME>
+<EmailAddress><![CDATA[rengle@stern.nyu.edu]]></EmailAddress>
+<NSF_ID>000664855</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100121276</ZipCode>
+<StreetAddress><![CDATA[44 West 4th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~244689</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project aims at developing statistical models for measuring and assessing geopolitical risk, or, more broadly, any risk that affects a broad range of asset prices across all or most jurisdictions. It seeks to uncover and document the relationship between large, unexpected events or shocks and synchronized moves in asset prices. Understanding such relationships could prove useful in risk management and the pricing of risk, especially for tail events (those with low ex-ante probability but high ex-post impact).&nbsp;</p> <p>One reason that financial markets are hard or impossible to forecast accurately is that unexpected outcomes are everywhere. This research finds that large, unexpected outcomes are often manifest in common movements in many different financial asset prices and flows, across asset classes and geographical areas.&nbsp;</p> <p>When realized returns on many different financial assets are more extreme than predicted at the same time, it is a signal that an important event has triggered changes in economic and/or financial forecasts across sectors and countries. Such events may be elections, economic announcements, policy changes, terrorist attacks, military events, pandemic infections or natural disasters. Engle and Campos-Martins (2022) describe these as the "events that shake our world". In many cases these are unpredictable events that are very damaging to financial portfolios since conventional diversification provides little protection. We now call these "common volatility" events since they lead to rising volatility in all assets, through both risk factors and idiosyncrasies, and label this measure COVOL. But we note that investment advisers and investment banks are setting up advisory services to counsel clients on geopolitical risks -- largely qualitatively -- in order to combine financial advice with guidance about an increasingly chaotic world.</p> <p>This research not only characterizes these events qualitatively but also quantitatively, which, like other tools developed in the VRI, can complement such qualitative advice. A test for COVOL is developed which shows that this phenomenon is found in many financial data sets. A statistical model is proposed for this leading to a novel estimation method which can be considered as a type of machine learning or as maximum likelihood with a latent variable. As a result, a measure of COVOL can be obtained for a collection of asset returns. Examination of the largest values of COVOL indicate the dates when the most extreme events occurred. These estimations have been done for global equity ETFs (GCOVOL) and for US asset class returns (USCOVOL) in Engle and Campos-Martins. Subsequent papers have applied this model to a collection of oil and gas stocks (Campos-Martins and Hendry(2022) and to sovereign credit spreads in Engle and Campos-Martins(2022). In the latter case, a two-dimensional COVOL variable is found to be appropriate since there appears to be a European country factor and a rest of the world factor. Estimation and identification results for this multifactor model are developed.</p> <p>The broader implication of this research is that investors and risk managers have a quantitative way to measure their exposure to the events that shake our world. This gives an approach to understanding past performance and can point to ways to improve diversification with respect to COVOL events in the future.&nbsp;</p> <p>These statistical results (GCOVOL and USCOVOL) are updated every day and published on our web site V-LAB.&nbsp;</p> <p>Both analyses feature the same events although in somewhat different order.&nbsp;&nbsp; Since there are about 5000 days in the analysis, the list of top 5 days is remarkably similar. Both analyses show that the level of COVOL is currently high relative to historical levels.</p> <p>The COVOL measure is clearly a measure of the realization of risks and is daily. The Blackrock measure is designed as a predictive measure but the recognition that these events are often unpredictable reveals how difficult a task they are undertaking.&nbsp; Karagozoglu, Wang and Zhou(2022) provide a comparison of these measures.</p> <p>A further benefit of the COVOL measure is that it can be used to reduce the exposure of a portfolio to these common events. As part of the estimation, the sensitivity of each asset to COVOL is measured. A conventional asset allocation based on Markowitz mean variance optimization would not use these factor loadings since they do not predict either mean or variance.&nbsp; However they do predict tail events and consequently higher moments of the portfolio return. Thus an investor that does not like extreme tail events might adjust the portfolio to give more weight to low exposure assets relative to the high factor loading assets.&nbsp;</p> <p>Finally this research opens the door to examining extreme common events.&nbsp;&nbsp; We can see what types of events are in this family and when they are highly likely. We can design portfolios that are insensitive to some of these types of events and only time will reveal the range of possible studies of the identified extreme common events.</p><br> <p>            Last Modified: 11/28/2022<br>      Modified by: Robert&nbsp;Engle</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2018923/2018923_10688846_1669665981649_GCOVOL--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2018923/2018923_10688846_1669665981649_GCOVOL--rgov-800width.jpg" title="GCOVOL"><img src="/por/images/Reports/POR/2022/2018923/2018923_10688846_1669665981649_GCOVOL--rgov-66x44.jpg" alt="GCOVOL"></a> <div class="imageCaptionContainer"> <div class="imageCaption">GCOVOL including Top Events.</div> <div class="imageCredit">VLAB</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Robert&nbsp;Engle</div> <div class="imageTitle">GCOVOL</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2018923/2018923_10688846_1669666054221_USCOVOL--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2018923/2018923_10688846_1669666054221_USCOVOL--rgov-800width.jpg" title="USCOVOL"><img src="/por/images/Reports/POR/2022/2018923/2018923_10688846_1669666054221_USCOVOL--rgov-66x44.jpg" alt="USCOVOL"></a> <div class="imageCaptionContainer"> <div class="imageCaption">USCOVOL and Top Events.</div> <div class="imageCredit">VLAB</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Robert&nbsp;Engle</div> <div class="imageTitle">USCOVOL</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2018923/2018923_10688846_1669666101154_Trailing12monthGEOVOL--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2018923/2018923_10688846_1669666101154_Trailing12monthGEOVOL--rgov-800width.jpg" title="Trailing 12 month GEOVOL"><img src="/por/images/Reports/POR/2022/2018923/2018923_10688846_1669666101154_Trailing12monthGEOVOL--rgov-66x44.jpg" alt="Trailing 12 month GEOVOL"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Trailing 12 month GEOVOL</div> <div class="imageCredit">VLAB</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Robert&nbsp;Engle</div> <div class="imageTitle">Trailing 12 month GEOVOL</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2018923/2018923_10688846_1669666154035_Trailing12monthGEOVOL2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2018923/2018923_10688846_1669666154035_Trailing12monthGEOVOL2--rgov-800width.jpg" title="Trailing 12 month GEOVOL 2"><img src="/por/images/Reports/POR/2022/2018923/2018923_10688846_1669666154035_Trailing12monthGEOVOL2--rgov-66x44.jpg" alt="Trailing 12 month GEOVOL 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Trailing 12 month GEOVOL 2.</div> <div class="imageCredit">VLAB</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Robert&nbsp;Engle</div> <div class="imageTitle">Trailing 12 month GEOVOL 2</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project aims at developing statistical models for measuring and assessing geopolitical risk, or, more broadly, any risk that affects a broad range of asset prices across all or most jurisdictions. It seeks to uncover and document the relationship between large, unexpected events or shocks and synchronized moves in asset prices. Understanding such relationships could prove useful in risk management and the pricing of risk, especially for tail events (those with low ex-ante probability but high ex-post impact).   One reason that financial markets are hard or impossible to forecast accurately is that unexpected outcomes are everywhere. This research finds that large, unexpected outcomes are often manifest in common movements in many different financial asset prices and flows, across asset classes and geographical areas.   When realized returns on many different financial assets are more extreme than predicted at the same time, it is a signal that an important event has triggered changes in economic and/or financial forecasts across sectors and countries. Such events may be elections, economic announcements, policy changes, terrorist attacks, military events, pandemic infections or natural disasters. Engle and Campos-Martins (2022) describe these as the "events that shake our world". In many cases these are unpredictable events that are very damaging to financial portfolios since conventional diversification provides little protection. We now call these "common volatility" events since they lead to rising volatility in all assets, through both risk factors and idiosyncrasies, and label this measure COVOL. But we note that investment advisers and investment banks are setting up advisory services to counsel clients on geopolitical risks -- largely qualitatively -- in order to combine financial advice with guidance about an increasingly chaotic world.  This research not only characterizes these events qualitatively but also quantitatively, which, like other tools developed in the VRI, can complement such qualitative advice. A test for COVOL is developed which shows that this phenomenon is found in many financial data sets. A statistical model is proposed for this leading to a novel estimation method which can be considered as a type of machine learning or as maximum likelihood with a latent variable. As a result, a measure of COVOL can be obtained for a collection of asset returns. Examination of the largest values of COVOL indicate the dates when the most extreme events occurred. These estimations have been done for global equity ETFs (GCOVOL) and for US asset class returns (USCOVOL) in Engle and Campos-Martins. Subsequent papers have applied this model to a collection of oil and gas stocks (Campos-Martins and Hendry(2022) and to sovereign credit spreads in Engle and Campos-Martins(2022). In the latter case, a two-dimensional COVOL variable is found to be appropriate since there appears to be a European country factor and a rest of the world factor. Estimation and identification results for this multifactor model are developed.  The broader implication of this research is that investors and risk managers have a quantitative way to measure their exposure to the events that shake our world. This gives an approach to understanding past performance and can point to ways to improve diversification with respect to COVOL events in the future.   These statistical results (GCOVOL and USCOVOL) are updated every day and published on our web site V-LAB.   Both analyses feature the same events although in somewhat different order.   Since there are about 5000 days in the analysis, the list of top 5 days is remarkably similar. Both analyses show that the level of COVOL is currently high relative to historical levels.  The COVOL measure is clearly a measure of the realization of risks and is daily. The Blackrock measure is designed as a predictive measure but the recognition that these events are often unpredictable reveals how difficult a task they are undertaking.  Karagozoglu, Wang and Zhou(2022) provide a comparison of these measures.  A further benefit of the COVOL measure is that it can be used to reduce the exposure of a portfolio to these common events. As part of the estimation, the sensitivity of each asset to COVOL is measured. A conventional asset allocation based on Markowitz mean variance optimization would not use these factor loadings since they do not predict either mean or variance.  However they do predict tail events and consequently higher moments of the portfolio return. Thus an investor that does not like extreme tail events might adjust the portfolio to give more weight to low exposure assets relative to the high factor loading assets.   Finally this research opens the door to examining extreme common events.   We can see what types of events are in this family and when they are highly likely. We can design portfolios that are insensitive to some of these types of events and only time will reveal the range of possible studies of the identified extreme common events.       Last Modified: 11/28/2022       Submitted by: Robert Engle]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

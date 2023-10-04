@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Point-of-Need Detection of COVID-19 using CRISPR-Enabled Cell-Free Synthetic Biology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Rockcliffe</SignBlockName>
+<PO_EMAI>drockcli@nsf.gov</PO_EMAI>
+<PO_PHON>7032927123</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The COVID-19 pandemic highlights a limitation of laboratory-based testing for the SARS-CoV-2 coronavirus in that it does not scale with a sudden and dramatic increase in volume. Laboratory tests, often based on quantitative polymerase chain reaction (qPCR), require equipment, time, expertise and infrastructure, resulting in severe logistical challenges and ultimately resulting in inadequate testing. There is a critical need for diagnostics that can be rapidly deployed at the point-of-need (PON) to enable global surveillance of infectious diseases. Towards addressing this need, this project incorporates a new CRISPR-based approach called CRISPR Isothermal Amplification (CIA) that enables one-pot diagnostic amplification and detection of the SARC-CoV-2 virus at ambient temperatures. This scheme builds off innovations in cell-free synthetic biology and biosensing that enable rapid, low-cost, and PON detection of chemical contaminants and viral pathogens. The platform technology under development could serve several purposes from a quick-screen technology to inform triage and isolation strategies, to a clinical test used on the front lines. There is also the potential for the technology to eventually serve as an at-home test to help inform which subpopulations and sectors of the economy could safely return to productivity towards the end of the pandemic. In addition, the test has the flexibility to be rapidly reprogrammed to detect new emerging pathogens. This work is pursued in close collaboration with a commercial partner, Stemloop, Inc., in order to quickly transition the technology for manufacturing, deployment, and distribution.&lt;br/&gt;&lt;br/&gt;This project employs a new CRISPR Isothermal Amplification (CIA) approach to enable a one-pot amplification and detection of the SARS-CoV-2 genome in an assay for the virus. CIA uses programmed Cas 13 systems to recognize SARS-CoV-2 RNA, trigger nucleic acid amplification and create a detectable output simultaneously in the same reaction where amplification occurs. Computational models of each process are developed alongside the experimental systems and used to guide optimizations to achieve attomolar sensitivity.  The method is unique in that no DNA primers are required. The amplification and detection processes are designed to take less than one hour and cost less than one dollar per test to manufacture.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028651</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Jewett</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael Jewett</PI_FULL_NAME>
+<EmailAddress><![CDATA[jewettlab@gmail.com]]></EmailAddress>
+<NSF_ID>000530720</NSF_ID>
+<StartDate>04/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julius</FirstName>
+<LastName>Lucks</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Julius Lucks</PI_FULL_NAME>
+<EmailAddress><![CDATA[jblucks@northwestern.edu]]></EmailAddress>
+<NSF_ID>000597790</NSF_ID>
+<StartDate>04/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>EVANSTON</CityName>
+<ZipCode>602080001</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>633 CLARK STREET</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EXZVPWZBLUE8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHWESTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northwestern University]]></Name>
+<CityName>Evanston</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>602083120</ZipCode>
+<StreetAddress><![CDATA[2145 Sheridan Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The COVID-19 pandemic highlighted a limitation of laboratory-based testing: it does not scale with a sudden and dramatic increase in volume. Laboratory tests, often based on quantitative PCR, require equipment, time, expertise, and infrastructure. This results in severe logistical challenges and leads to inadequate testing. There is a critical need for diagnostics that can be rapidly deployed at the point-of-need to enable global surveillance of infectious diseases.</p> <p>Towards addressing this need, we investigated how a new platform technology - called cell-free synthetic biology - could be used to invent new approaches for point-of-need viral diagnostics. Cell-free synthetic biology diagnostics are low-cost, easy-to-use, and easy-to-scale. They consist of three components. The first is a biosensor molecule that is capable of recognizing the SARS-CoV-2 genome. The second is a reporter molecule that creates a detectable signal when it is produced upon viral recognition. The third are biochemical components that help the biosensor and reporter molecules to function. These reactions can be assembled inside test tubes, freeze-dried for long-term shelf stability, distributed at scale without refrigeration, and activated on-site by rehydrating with the sample of interest.</p> <p>This project focused on adapting CRISPR-based biosensors to the detection of the SARS-CoV-2 genome. We specifically coupled a nucleic acid amplification system called NASBA (Nucleic Acid Sequence Based Amplification) with the Cas13 CRISPR protein to detect RNA sequences from the SARS-CoV-2 genome. NASBA works by first copying the target RNA into a double stranded DNA molecule. This DNA molecule can then act as a template for more RNA molecules to be produced, thus amplifying the signal. Cas13 can then detect the presence of amplified SARS-CoV-2 RNA molecules by programming its guide RNA to be complementary to this target. Upon detection, Cas13 acts as an enzyme which cleaves a reporter RNA included in the reaction, generating a fluorescent signal. Previous approaches used trial and error to configure the NASBA and Cas13 guide RNA components to work together. Here we used a computational modeling platform to understand how different components interacted. This model was fit using high throughput experiments that tested out different reaction conditions, ultimately giving insight into how to optimize the sensitivity of the reaction. Using this approach we were able to develop a system that works in a single test tube to detect SARS-CoV-2 genome fragments at the attomolar concentration level.</p> <p class="Body">The <span style="text-decoration: underline;">intellectual merit</span> of this work provided validation of a new approach for the point-of-need detection of SARS-CoV-2. The mathematical modeling framework, coupled with high throughput experiments, represents a new approach to the development of cell-free synthetic biology diagnostic technologies that we are utilizing in future work to develop similar methods to detect plant pathogens.</p> <p class="Body">The <span style="text-decoration: underline;">broader impacts</span> of this work are significant, as the COVID-19 pandemic has highlighted the importance of rapid pathogen testing - it is the lynchpin behind public health strategies to contain and treat the virus, informing when and where an outbreak is occurring, how fast it is spreading, when patients are getting sick; and is necessary for preventative containment strategies that can dramatically reduce the spread <em>if</em> they can be implemented. This work will directly inform the creation and validation of a platform technology for rapid detection of SARS-CoV-2 that we envision could play multiple roles ? from a quick-screen technology to inform triage and isolation strategies, to a clinical test used on the front lines, to one day an at-home test. This test can also be rapidly reprogrammed to detect new emerging pathogens that will hopefully help prevent a future outbreak of this magnitude.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/28/2022<br>      Modified by: Julius&nbsp;Lucks</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The COVID-19 pandemic highlighted a limitation of laboratory-based testing: it does not scale with a sudden and dramatic increase in volume. Laboratory tests, often based on quantitative PCR, require equipment, time, expertise, and infrastructure. This results in severe logistical challenges and leads to inadequate testing. There is a critical need for diagnostics that can be rapidly deployed at the point-of-need to enable global surveillance of infectious diseases.  Towards addressing this need, we investigated how a new platform technology - called cell-free synthetic biology - could be used to invent new approaches for point-of-need viral diagnostics. Cell-free synthetic biology diagnostics are low-cost, easy-to-use, and easy-to-scale. They consist of three components. The first is a biosensor molecule that is capable of recognizing the SARS-CoV-2 genome. The second is a reporter molecule that creates a detectable signal when it is produced upon viral recognition. The third are biochemical components that help the biosensor and reporter molecules to function. These reactions can be assembled inside test tubes, freeze-dried for long-term shelf stability, distributed at scale without refrigeration, and activated on-site by rehydrating with the sample of interest.  This project focused on adapting CRISPR-based biosensors to the detection of the SARS-CoV-2 genome. We specifically coupled a nucleic acid amplification system called NASBA (Nucleic Acid Sequence Based Amplification) with the Cas13 CRISPR protein to detect RNA sequences from the SARS-CoV-2 genome. NASBA works by first copying the target RNA into a double stranded DNA molecule. This DNA molecule can then act as a template for more RNA molecules to be produced, thus amplifying the signal. Cas13 can then detect the presence of amplified SARS-CoV-2 RNA molecules by programming its guide RNA to be complementary to this target. Upon detection, Cas13 acts as an enzyme which cleaves a reporter RNA included in the reaction, generating a fluorescent signal. Previous approaches used trial and error to configure the NASBA and Cas13 guide RNA components to work together. Here we used a computational modeling platform to understand how different components interacted. This model was fit using high throughput experiments that tested out different reaction conditions, ultimately giving insight into how to optimize the sensitivity of the reaction. Using this approach we were able to develop a system that works in a single test tube to detect SARS-CoV-2 genome fragments at the attomolar concentration level. The intellectual merit of this work provided validation of a new approach for the point-of-need detection of SARS-CoV-2. The mathematical modeling framework, coupled with high throughput experiments, represents a new approach to the development of cell-free synthetic biology diagnostic technologies that we are utilizing in future work to develop similar methods to detect plant pathogens. The broader impacts of this work are significant, as the COVID-19 pandemic has highlighted the importance of rapid pathogen testing - it is the lynchpin behind public health strategies to contain and treat the virus, informing when and where an outbreak is occurring, how fast it is spreading, when patients are getting sick; and is necessary for preventative containment strategies that can dramatically reduce the spread if they can be implemented. This work will directly inform the creation and validation of a platform technology for rapid detection of SARS-CoV-2 that we envision could play multiple roles ? from a quick-screen technology to inform triage and isolation strategies, to a clinical test used on the front lines, to one day an at-home test. This test can also be rapidly reprogrammed to detect new emerging pathogens that will hopefully help prevent a future outbreak of this magnitude.          Last Modified: 08/28/2022       Submitted by: Julius Lucks]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

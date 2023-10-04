@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  WeatherHive: High Resolution Environmental Sensing Using Nanodrones]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255996.00</AwardTotalIntnAmount>
+<AwardAmount>255996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to advance an improved system to sense and map  atmospheric conditions using nano-drones that are the size of small birds; these systems have benefited from recent innovations in miniature power electronics and flight control sensors.  The proposed project leverages the safety, cost and portability advantages of these small form factor aircraft in a system of coordinated drones flying in formation to measure wind, temperature, humidity and gas concentrations. Each flight of the swarm can cover hundreds of square miles, creating a high resolution 3D map of atmospheric properties. This enables the study of wind currents and gas movement for applications including detection of urban gas leaks, smog movement, and forest fire detection. Satellite measurements can be validated and improved through aerial measurements. This research will benefit public health.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project will advance new software to analyze and optimize nano-drones. This project will expand the understanding of miniaturized (under 100 g) drone performance and enable the development of advanced nano-drones to carry out valuable sensing missions. This project will: (1) validate an optimization framework with laboratory test data; (2) develop a novel, portable drone docking station allowing for easy launching, landing and charging of hundreds or thousands of drones by a single operator, eventually enabling fully automated use for continuous monitoring applications; and (3) develop visualization and analysis tools to facilitate data analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/01/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>02/02/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036232</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Peverill</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James Peverill</PI_FULL_NAME>
+<EmailAddress><![CDATA[james@greensightag.com]]></EmailAddress>
+<NSF_ID>000829395</NSF_ID>
+<StartDate>02/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>GREENSIGHT AGRONOMICS, INC.</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022102333</ZipCode>
+<PhoneNumber>8444847336</PhoneNumber>
+<StreetAddress>12 CHANNEL ST</StreetAddress>
+<StreetAddress2><![CDATA[STE 605]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>N1AGNSBANJF7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GREENSIGHT INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[GREENSIGHT AGRONOMICS, INC.]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>022102333</ZipCode>
+<StreetAddress><![CDATA[12 CHANNEL ST STE 605]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1238</Code>
+<Text>TECH FOR SUSTAINABLE ENVIRONMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255996</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-187255e8-7fff-edce-ea2b-69d61f7196b4"> </span></p> <p><span id="docs-internal-guid-27789854-7fff-1f45-1f87-c74b248de995"> </span></p> <p dir="ltr"><span>WeatherHive is a new type of atmospheric sensing system that uses swarms of nano-sized drones to directly sample the temperature, humidity and pressure. The aircraft stream out of a fully automated "hive" on command, flying in formation to take measurements over an area of up to 400 square kilometers. Despite being palm sized, they are specially designed to fly long distances, at high altitudes and in strong wings and rain. No other weather sensing technology is able to deliver this type of capability, and leveraging the low cost of commodity drone technology, it is able to do it at a sustainable cost point.</span></p> <p dir="ltr"><span>WeatherHive potentially unlocks new levels of timeliness and accuracy for weather forecasting, particularly for dangerous severe weather like wildfires, tornadoes, hurricanes and severe thunderstorms. The technology will allow new understanding of the atmospheric boundary layer, the part of the atmosphere from the ground up to around 1 mile that directly interacts with the ground. Studying this region means environmental, climate and meteorology researchers can better understand energy, gas and carbon flow from the ground and ocean to and from the atmosphere, which dramatically impacts a wide variety of planetary processes related to climate change and weather.</span></p> <p dir="ltr"><span>Atmospheric and climate science has increasingly become a part of daily discussions in the United States and around the world as we come to terms with climate change and the increasing onslaught of weather disasters. WeatherHive helps to improve scientific literacy by providing additional data in areas where there are currently gaps in meteorologist knowledge. Through engaging with academia in the program, these results will be able to increase their wealth of knowledge which in turn allows society to better understand the world around them. With better understanding, comes an ability to respond and come up with creative solutions to improve how we treat the planet and ensure the generations to come will inhabit a world that is turning the clock back on negative impacts of climate change.</span></p> <p dir="ltr"><span>WeatherHive aircraft are equipped with precision onboard sensors similar to what is found in a weather balloon. WeatherHive delivers similar information, but over a wider area, at a lower cost, and with reduced pollution since it is fully reusable. When the aircraft have completed their mission they return to the hive, land and are automatically recharged for another flight. The aircraft are equipped with advanced safety programming that ensures they automatically return to the hive before running out of power. The system uses aviation transponders and long range mesh communications to ensure that WeatherHive aircraft don't come into range of manned aircraft.</span></p> <p dir="ltr"><span>Through this Phase I research project, GreenSight was able to conclusively establish the feasibility of WeatherHive. A prototype nano sizes aircraft was built and tested. A miniaturized low cost sensor package was developed, and tested against calibrated reference ground weather sensors. Significant outreach was conducted with potential end users in research and industry to establish product requirements and benefits. GreenSight built a community of interested partners to be engaged in Phase II and in later symbiotic research projects.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 07/05/2022<br>      Modified by: James&nbsp;Peverill</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      WeatherHive is a new type of atmospheric sensing system that uses swarms of nano-sized drones to directly sample the temperature, humidity and pressure. The aircraft stream out of a fully automated "hive" on command, flying in formation to take measurements over an area of up to 400 square kilometers. Despite being palm sized, they are specially designed to fly long distances, at high altitudes and in strong wings and rain. No other weather sensing technology is able to deliver this type of capability, and leveraging the low cost of commodity drone technology, it is able to do it at a sustainable cost point. WeatherHive potentially unlocks new levels of timeliness and accuracy for weather forecasting, particularly for dangerous severe weather like wildfires, tornadoes, hurricanes and severe thunderstorms. The technology will allow new understanding of the atmospheric boundary layer, the part of the atmosphere from the ground up to around 1 mile that directly interacts with the ground. Studying this region means environmental, climate and meteorology researchers can better understand energy, gas and carbon flow from the ground and ocean to and from the atmosphere, which dramatically impacts a wide variety of planetary processes related to climate change and weather. Atmospheric and climate science has increasingly become a part of daily discussions in the United States and around the world as we come to terms with climate change and the increasing onslaught of weather disasters. WeatherHive helps to improve scientific literacy by providing additional data in areas where there are currently gaps in meteorologist knowledge. Through engaging with academia in the program, these results will be able to increase their wealth of knowledge which in turn allows society to better understand the world around them. With better understanding, comes an ability to respond and come up with creative solutions to improve how we treat the planet and ensure the generations to come will inhabit a world that is turning the clock back on negative impacts of climate change. WeatherHive aircraft are equipped with precision onboard sensors similar to what is found in a weather balloon. WeatherHive delivers similar information, but over a wider area, at a lower cost, and with reduced pollution since it is fully reusable. When the aircraft have completed their mission they return to the hive, land and are automatically recharged for another flight. The aircraft are equipped with advanced safety programming that ensures they automatically return to the hive before running out of power. The system uses aviation transponders and long range mesh communications to ensure that WeatherHive aircraft don't come into range of manned aircraft. Through this Phase I research project, GreenSight was able to conclusively establish the feasibility of WeatherHive. A prototype nano sizes aircraft was built and tested. A miniaturized low cost sensor package was developed, and tested against calibrated reference ground weather sensors. Significant outreach was conducted with potential end users in research and industry to establish product requirements and benefits. GreenSight built a community of interested partners to be engaged in Phase II and in later symbiotic research projects.          Last Modified: 07/05/2022       Submitted by: James Peverill]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

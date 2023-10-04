@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Reaction Engineering for Flame Spray Pyrolysis of Perovskite Oxide Nanocrystals]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Raymond Adomaitis</SignBlockName>
+<PO_EMAI>radomait@nsf.gov</PO_EMAI>
+<PO_PHON>7032927519</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Flame spray pyrolysis (FSP) is an advanced technology to synthesize metal oxide powders with a wide range of chemical compositions and physical properties. Because it is readily scalable, FSP has significant applications in powder production for photocatalysts, gas sensors, batteries, solar cells, and fuel cells. While the production of metal oxide nanocrystalline materials has been demonstrated using FSP, it is currently unknown how to control the process to make the chemically pure materials needed for the applications described. Because purely experimental approaches to optimizing the FPS are costly and time-intensive, a new modeling framework for FSP reactors will be developed in this research program to predict how powder particles form and grow in flame reactors. To describe this complex process, the model must integrate elements corresponding to the decomposition chemistry of metal-containing feed components, fuel pyrolysis and oxidation, and aerosol particle nucleation and growth dynamics. The outcome of this combined modeling and experimental program will be a computational tool that can predict the chemical composition, size distribution, and crystal phase of the nanocrystals as the numerous FSP processing parameters are changed. From a fundamental perspective, this project will promote progress in aerosol science and advance the field of chemical reaction engineering. From the application viewpoint, this project will enable computer-based design of FSP reactors capable of high-precision control and significantly reduced fuel costs for nanoparticle manufacturing operations. From an educational perspective, the research team will incorporate the outcomes of this project into their course content, help train the next generation STEM workforce, and continue to include more undergraduates and diversified/under-represented groups into frontier research. &lt;br/&gt;&lt;br/&gt;By leveraging their past success in spray combustion and soot/aerosol modeling, the research team proposes a new modeling framework, with supporting experimental measurements, that will enable model-based design and optimization of FSP reactors for perovskite oxide synthesis. The research project will focus on the synthesis of Lanthanum doped Barium Titanate (La:BaTiO3) by FSP using ethylhexanoate-derived metal precursors and ethylhexanoic acid as a fuel. Experiments to measure the atomic percentages of La, Ba, Ti, and O in mobility-size selected nanocrystals, and the percentages of BaTiO3, BaO, and TiO2 (along with phase information) in the synthesis of La:BaTiO3, will be used to provide validation data for the proposed model. Detailed chemical reaction mechanisms for precursor decomposition, fuel oxidation and pyrolysis, nanoparticle nucleation and surface reactions for multiple metal salt precursors will be identified using a global reaction pathway selection analysis tool developed by the project team. Likewise, a dynamic adaptive chemistry technique will be used as a model reduction method enabling simulations of complex reaction systems using practical levels of computational resources. Finally, a 7-dimensional hybrid sectional-moment model will be developed to track the fractions of BaO, TiO2, and BaTiO3, particle size, and crystallite size specifically to answer whether the nanoparticle composition changes during growth. When complete, the modeling strategy will be broadly applicable to flame pyrolysis systems for a wide range of industrial-scale particle manufacturing applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2038173</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Hogan</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher J Hogan</PI_FULL_NAME>
+<EmailAddress><![CDATA[hogan108@umn.edu]]></EmailAddress>
+<NSF_ID>000548248</NSF_ID>
+<StartDate>07/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Suo</FirstName>
+<LastName>Yang</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Suo Yang</PI_FULL_NAME>
+<EmailAddress><![CDATA[suo-yang@umn.edu]]></EmailAddress>
+<NSF_ID>000787665</NSF_ID>
+<StartDate>07/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>Minneapolis</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554550150</ZipCode>
+<StreetAddress><![CDATA[111 Church Street SE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1403</Code>
+<Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1403</Code>
+<Text>PROCESS &amp; REACTION ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Perovskite oxides (e.g., TiO<sub>2</sub>) have a broad range of applications in solid oxide fuel cells, as gas sensors, batteries, solar cells, solid oxide fuel cells, and as (photo-)catalysts for a variety of reactions. The development of scalable, rapid, and controllable production/process systems for such materials is hence of great interest for reaction engineering. By leveraging our past successes in soot/aerosol experiment and modeling, we conducted a combined experimental and computational study to understand the TiO<sub>2 </sub>nanoparticle formation and growth, and to predict the TiO<sub>2 </sub>nanoparticle size distribution at different conditions.</p> <p>&nbsp;</p> <p>Fundamental studies of nucleation and growth were carried out for the earliest stages of the reaction processes, when the nanoparticles formed are no larger than 3 nm.&nbsp; We applied a flow tube reactor with a differential mobility analyzer-Faraday cage electrometer system to examine nanocluster formation and growth in the sub-3.0 nm mobility diameter ranges from the decomposition of titanium tetra-isopropoxide (TTIP) in air, for a reactor temperature range of 750 K to 1100 K.&nbsp; Measurements revealed two types of species in spectra.&nbsp; First, we detected discrete (narrow) peaks falling in the 0.5 nm to 1.5 nm size range which appear at different locations for positive and negative measurement modes.&nbsp; Second, we observed a larger, broadly distributed peak, which is similar in intensity for both positive and negative modes after data inversion, and which increases in intensity (concentration) and peak diameter with increasing precursor flow rate, increasing reactor temperature, and increasing residence time.&nbsp; We concluded that the latter broad peak arises from growing nanoclusters in the reactor.&nbsp; With regards to the narrower, sub 1.5 nm peaks, the initial discrete peaks, present even in the absence of the organometallic precursor, were attributable to ions formed in the Po-210 bipolar ionization source used to ionize nanoclusters.&nbsp; However, mobility peaks at new locations emerge when TTIP is introduced and as the reactor temperature is changed; these peaks are mostly likely attributable to specific reactive intermediates from the decomposition of TTIP.&nbsp; We found that increasing TTIP concentration, reactor temperature, or increasing residence time, which furthers the extent of nanocluster formation, leads to the depletion of the sub 1.5 nm ions.&nbsp; Because of the large step size in diameter between neighboring sub 1.5 nm peaks, we also found it is unlikely that these peaks arise from TiO<sub>2</sub> clusters.&nbsp; Therefore, our measurements suggested that nanocluster growth from TTIP is facilitated by condensation/surface growth of reactive intermediates from TTIP decomposition, with reactive intermediates detectable via mobility analysis.&nbsp;&nbsp; Furthermore, while nanocluster formation and growth were clearly detected, measurements did not make clear that the nanoclusters are fully oxidized TiO<sub>2</sub> nanoclusters for the synthesis temperature range examined.&nbsp;</p> <p>&nbsp;</p> <p>The above experimental measurements provided the validation data for the modeling efforts. We developed a sectional method model to track the particle size distribution, with appropriate models developed to describe precursor decomposition and nucleation, condensation/surface growth, and coagulation. The coagulation enhancement factor of nanoparticles is approximately a constant (2.2) at high temperatures of typical flames (&gt;1500 K), but becomes a function of both temperature and particle size at the low temperature range of this study (&lt;1200 K). Specifically, enhancement factor is an exponential decay function of the particle size. We found that enhancement factor can shift the peak in the size distribution of the nanoparticles towards higher diameters if increased, but can also decrease the overall number density due to too extensive coagulation. The modeling framework developed in this project is a very useful tool to enable more rapid development of a synthesis reactor to maximize its performance for the aforementioned emerging applications. In addition, by enabling high performance synthesis, our research outcomes can enable very low fuel consumption during the material processing, and reduce the greenhouse gas emission.</p> <p>&nbsp;</p> <p>From education and training perspective, PIs has incorporated the outcomes of this project into their teaching of undergraduate and graduate courses at the University of Minnesota (UMN), and the course projects provided a good platform for students to obtain hands-on computational and experimental skills. By leveraging the existing REU and UROP programs at UMN, PIs have continued and enlarged their dedication to include more undergraduates and under-represented groups into frontier research. Finally, PI Yang has incorporated the research outcomes from this project to his K-12 STEM outreach workshop at Eureka! program for 8th-12th grade girls (82% of color) from local schools in Summer 2021.</p><br> <p>            Last Modified: 12/23/2021<br>      Modified by: Suo&nbsp;Yang</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Perovskite oxides (e.g., TiO2) have a broad range of applications in solid oxide fuel cells, as gas sensors, batteries, solar cells, solid oxide fuel cells, and as (photo-)catalysts for a variety of reactions. The development of scalable, rapid, and controllable production/process systems for such materials is hence of great interest for reaction engineering. By leveraging our past successes in soot/aerosol experiment and modeling, we conducted a combined experimental and computational study to understand the TiO2 nanoparticle formation and growth, and to predict the TiO2 nanoparticle size distribution at different conditions.     Fundamental studies of nucleation and growth were carried out for the earliest stages of the reaction processes, when the nanoparticles formed are no larger than 3 nm.  We applied a flow tube reactor with a differential mobility analyzer-Faraday cage electrometer system to examine nanocluster formation and growth in the sub-3.0 nm mobility diameter ranges from the decomposition of titanium tetra-isopropoxide (TTIP) in air, for a reactor temperature range of 750 K to 1100 K.  Measurements revealed two types of species in spectra.  First, we detected discrete (narrow) peaks falling in the 0.5 nm to 1.5 nm size range which appear at different locations for positive and negative measurement modes.  Second, we observed a larger, broadly distributed peak, which is similar in intensity for both positive and negative modes after data inversion, and which increases in intensity (concentration) and peak diameter with increasing precursor flow rate, increasing reactor temperature, and increasing residence time.  We concluded that the latter broad peak arises from growing nanoclusters in the reactor.  With regards to the narrower, sub 1.5 nm peaks, the initial discrete peaks, present even in the absence of the organometallic precursor, were attributable to ions formed in the Po-210 bipolar ionization source used to ionize nanoclusters.  However, mobility peaks at new locations emerge when TTIP is introduced and as the reactor temperature is changed; these peaks are mostly likely attributable to specific reactive intermediates from the decomposition of TTIP.  We found that increasing TTIP concentration, reactor temperature, or increasing residence time, which furthers the extent of nanocluster formation, leads to the depletion of the sub 1.5 nm ions.  Because of the large step size in diameter between neighboring sub 1.5 nm peaks, we also found it is unlikely that these peaks arise from TiO2 clusters.  Therefore, our measurements suggested that nanocluster growth from TTIP is facilitated by condensation/surface growth of reactive intermediates from TTIP decomposition, with reactive intermediates detectable via mobility analysis.   Furthermore, while nanocluster formation and growth were clearly detected, measurements did not make clear that the nanoclusters are fully oxidized TiO2 nanoclusters for the synthesis temperature range examined.      The above experimental measurements provided the validation data for the modeling efforts. We developed a sectional method model to track the particle size distribution, with appropriate models developed to describe precursor decomposition and nucleation, condensation/surface growth, and coagulation. The coagulation enhancement factor of nanoparticles is approximately a constant (2.2) at high temperatures of typical flames (&gt;1500 K), but becomes a function of both temperature and particle size at the low temperature range of this study (&lt;1200 K). Specifically, enhancement factor is an exponential decay function of the particle size. We found that enhancement factor can shift the peak in the size distribution of the nanoparticles towards higher diameters if increased, but can also decrease the overall number density due to too extensive coagulation. The modeling framework developed in this project is a very useful tool to enable more rapid development of a synthesis reactor to maximize its performance for the aforementioned emerging applications. In addition, by enabling high performance synthesis, our research outcomes can enable very low fuel consumption during the material processing, and reduce the greenhouse gas emission.     From education and training perspective, PIs has incorporated the outcomes of this project into their teaching of undergraduate and graduate courses at the University of Minnesota (UMN), and the course projects provided a good platform for students to obtain hands-on computational and experimental skills. By leveraging the existing REU and UROP programs at UMN, PIs have continued and enlarged their dedication to include more undergraduates and under-represented groups into frontier research. Finally, PI Yang has incorporated the research outcomes from this project to his K-12 STEM outreach workshop at Eureka! program for 8th-12th grade girls (82% of color) from local schools in Summer 2021.       Last Modified: 12/23/2021       Submitted by: Suo Yang]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

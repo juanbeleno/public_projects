@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Convergence Accelerator-Track C: Chip-Scale Integrated Multibeam Steering System for Cold-Atom Quantum Computing]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>794725.00</AwardTotalIntnAmount>
+<AwardAmount>794725</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pradeep Fulay</SignBlockName>
+<PO_EMAI>pfulay@nsf.gov</PO_EMAI>
+<PO_PHON>7032922445</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future. The project aims to develop a chip-scale, acousto-optic multi-beam steering system. Developing a multi-beam acousto-optic beam steering (AOBS) system will address the bottleneck of scaling optical manipulation of atoms and ions. This system will enable a scale-up of cold-atom quantum computing systems to more than 1000 qubits. This project will generate new knowledge on acousto-optics, miniature diffractive optics, quantum optics and quantum computing. Developing training opportunities through internships and community outreach programs will engage, the project seeks to enhance the quantum workforce.&lt;br/&gt;&lt;br/&gt;The project aims to develop a chip-scale, integrated acousto-optic beam steering system that can manipulate over 1000 laser spots, handle a wide range of wavelengths to as low as 500nm, have a high operation speed (&gt;10MHz) and a high angular resolution, and include no moving parts. The scalable beam steering system will independently perform gate operation on a 2D or 3D lattice of approximately 1000 cold-atom qubits. Being fully integrated at chip-scale, the system will be mass produced using industrial foundries to be disseminated in volume to the quantum computing community at a low cost. The system will enable quantum simulation tasks such as quantum chemistry applications, optimization algorithms, and quantum error corrections. The use-inspired research is at the convergence of cold atom (as well as ions and molecules) science, integrated photonics, micro-electro-mechanical systems and material science to significantly accelerate quantum computing and simulation. Deliverables include a beam steering hardware to be made available to a broad user-base as well as standardized process flows and design rules that can be implemented at industrial semiconductor foundries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040527</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Bloom</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin J Bloom</PI_FULL_NAME>
+<EmailAddress><![CDATA[bbloom@atom-computing.com]]></EmailAddress>
+<NSF_ID>000779452</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mo</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mo Li</PI_FULL_NAME>
+<EmailAddress><![CDATA[moli96@uw.edu]]></EmailAddress>
+<NSF_ID>000572441</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arka</FirstName>
+<LastName>Majumdar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Arka Majumdar</PI_FULL_NAME>
+<EmailAddress><![CDATA[arka@uw.edu]]></EmailAddress>
+<NSF_ID>000655939</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 BROOKLYN AVE NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF WASHINGTON VICE PR</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981952500</ZipCode>
+<StreetAddress><![CDATA[4333 Brooklyn Ave. NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~794725</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="ProposalBody">In Phase-1 of this Convergence Accelerator (C-Accel) project, PI <strong>Li</strong>?s group has finalized the design and developed the full fabrication processes of the AOBS device using GaP-on-Si. We have successfully completed two full rounds of device fabrication and demonstrated prototype chips showing excellent device quality. Co-PI <strong>Majumdar</strong>?s group has developed an inverse design technique to create the meta-optics doublet to reshape the optical beams coming from AOBS to an array with spacing &lt;100 ?m. <strong>B?hringer</strong>&nbsp;has combined the process steps used by Li and Majumdar into a full process flow.&nbsp; His group has reached out to multiple domestic and international foundry facilities and concluded <strong>Sandia</strong> would be the best facility to partner with for wafer-scale manufacturing in Phase-II.&nbsp; Meanwhile, <strong>Lee</strong> identified a commercial provider of GaP on Si wafers (NAsP III/V) and grew 220nm pure GaP and AlGaP with a very low defect density. <strong>&nbsp;Atom&nbsp;Computing</strong> identified and experimentally verified critical device parameters involving beam size and wavefront shape, as well as fabricated advanced mezzanine cards (AMC) for the phase synchronous creation of RF tones for driving a full MBIS system.</p> <p class="ProposalBody"><span>Overall, our Phase-I effort expanded the convergence of both our project scope and the team. Through user interviews, we found a broader range of applications (</span><em>e.g.</em><span>, quantum metrology and trapped ions) than what we initially proposed. We developed the device fabrication processes, secured a commercial supplier of the wafers in volume, and established a new partnership with Sandia for foundry processes. Building upon our results in Phase-I?the finalized design and the established processes?we are now on a fast track to delivering the first single-pixel prototype to Atom and JILA no later than the 2</span><sup>nd</sup><span>&nbsp;quarter for integration and testing in their system. These outcomes helped our team to advance to Phase-2 of the C-Accel program.</span></p><br> <p>            Last Modified: 10/07/2022<br>      Modified by: Mo&nbsp;Li</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[In Phase-1 of this Convergence Accelerator (C-Accel) project, PI Li?s group has finalized the design and developed the full fabrication processes of the AOBS device using GaP-on-Si. We have successfully completed two full rounds of device fabrication and demonstrated prototype chips showing excellent device quality. Co-PI Majumdar?s group has developed an inverse design technique to create the meta-optics doublet to reshape the optical beams coming from AOBS to an array with spacing &lt;100 ?m. B?hringer has combined the process steps used by Li and Majumdar into a full process flow.  His group has reached out to multiple domestic and international foundry facilities and concluded Sandia would be the best facility to partner with for wafer-scale manufacturing in Phase-II.  Meanwhile, Lee identified a commercial provider of GaP on Si wafers (NAsP III/V) and grew 220nm pure GaP and AlGaP with a very low defect density.  Atom Computing identified and experimentally verified critical device parameters involving beam size and wavefront shape, as well as fabricated advanced mezzanine cards (AMC) for the phase synchronous creation of RF tones for driving a full MBIS system. Overall, our Phase-I effort expanded the convergence of both our project scope and the team. Through user interviews, we found a broader range of applications (e.g., quantum metrology and trapped ions) than what we initially proposed. We developed the device fabrication processes, secured a commercial supplier of the wafers in volume, and established a new partnership with Sandia for foundry processes. Building upon our results in Phase-I?the finalized design and the established processes?we are now on a fast track to delivering the first single-pixel prototype to Atom and JILA no later than the 2nd quarter for integration and testing in their system. These outcomes helped our team to advance to Phase-2 of the C-Accel program.       Last Modified: 10/07/2022       Submitted by: Mo Li]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

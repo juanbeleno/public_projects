@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER/Collaborative Research: Experimentally Validated Modeling of the Dynamics of Carbon Dioxide Removal from the Bloodstream via Peritoneal Perfluorocarbon Circulation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eva Kanso</SignBlockName>
+<PO_EMAI>ekanso@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This EArly-concept Grant for Exploratory Research (EAGER) project brings together a multidisciplinary team of control engineers, biomedical engineers, medical researchers, and clinicians to explore a novel pulmonary-independent method for supplementing gas exchange in an animal. Specifically, the research team will study whether the circulation of oxygenated perfluorocarbon (PFC) through the abdomen (the peritoneal cavity) of a large animal, can serve as a pathway for clearing carbon dioxide (CO2) from the animal’s bloodstream; and what are the governing dynamics of this CO2 clearing process. The peritoneal cavity essentially acts as a “third lung” in this scenario, providing critical life support for patients whose compromised lung function has exceeded the support achievable through mechanical ventilation. There is currently a critical need for this treatment, within the context of the COVID-19 pandemic, but this system also has potential to emerge as a standard modality in the critical care of hundreds of thousands of patients in pulmonary failure. Furthermore, the medical community will benefit from the deep fundamental understanding of the CO2 removal capabilities of peritoneal oxygenated PFC circulation, which will be an essential element in bringing this technology into future clinical trials.&lt;br/&gt;&lt;br/&gt;This project addresses the challenge of building an experimentally validated model of the dynamics of carbon dioxide transport from the bloodstream of a large animal into oxygenated perfluorocarbon perfused through the animal’s abdominal (peritoneal) cavity.  Using the experimental data obtained as part of this project, the team will develop and parameterize a control-oriented, multi-compartment model of the transport dynamics governing CO2 removal. While previous experiments on peritoneal oxygenated PFC circulation have predominantly examined quasi-steady conditions, the research team will ensure the richness of its data by deliberately designing the underlying experiments to maximize the identifiability of the CO2 removal dynamics. The result will be a dataset better suited for the modeling and estimation of underlying system dynamics than the quasi-steady datasets. The system dynamics and control community will benefit from the opportunity to apply its scientific tools and methods to the dynamic modeling of a novel ventilation technology. Particularly important is the degree to which such modeling can help broaden the interdisciplinary impact of the dynamic systems and controls discipline to a new health-related application technology. Addressing this research challenge urgently, but rigorously, has the potential to provide critical assistance to the medical research community, particularly considering the COVID-19 crisis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031245</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Friedberg</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph S Friedberg</PI_FULL_NAME>
+<EmailAddress><![CDATA[jsfemail@gmail.com]]></EmailAddress>
+<NSF_ID>000825985</NSF_ID>
+<StartDate>05/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland at Baltimore</Name>
+<CityName>BALTIMORE</CityName>
+<ZipCode>212011531</ZipCode>
+<PhoneNumber>4107063559</PhoneNumber>
+<StreetAddress>220 ARCH ST OFC LEVEL2</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Z9CRZKD42ZT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, BALTIMORE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland at Baltimore]]></Name>
+<CityName>Baltimore</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212011508</ZipCode>
+<StreetAddress><![CDATA[655 W. Baltimore Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Lungs support the body by bringing in oxygen that all cells need and clearing the waste product of carbon dioxide that cells create, a process called respiration. &nbsp;Lung failure from a multitude of causes, such as COVID-19 infections, can limit the ability of the lungs to perform this function.&nbsp; Hundreds of thousands, if not millions, of patients suffer from lung failure in the United States annually.&nbsp; When lung failure is severe enough, the patient will require assistance from a mechanical ventilator in order to absorb enough oxygen and/or clear enough carbon dioxide to survive.&nbsp; Patients with lung failure die if they exceed the support that can be provided by a mechanical ventilator.&nbsp; For example, over a million patients have died from COVID-19 in the United States, with respiratory failure as the leading cause of death.&nbsp;</p> <p>The only possible salvation for patients suffering from severe respiratory failure, who have reached the limits of mechanical ventilatory support, is to provide<em> extrapulmonary</em> gas exchange.&nbsp; Currently, the only available technique for extrapulmonary gas exchange is extracorporeal membrane oxygenation (ECMO).&nbsp; ECMO is a technique where large catheters are surgically placed into major blood vessels and blood is circulated out of the body and through a gas exchange unit, before being pumped back into the patient.&nbsp; Once on ECMO, patients require 24/7 close monitoring by highly trained professionals.&nbsp; In addition, because ECMO involves a direct blood-device interface, which can cause the blood to clot in the circuit, the patients must also be placed on blood thinners.&nbsp; ECMO is a very scarce and expensive resource which, even if it is available, is not a safe option for many patients because of the need for central vascular access and/or the requirement to be on blood thinners.&nbsp; Consequently, there is a pressing need for new extrapulmonary techniques to augment gas exchange.&nbsp; This project was undertaken, at the height of the COVID-19 pandemic, to develop such a technique.</p> <p>The goal of this project was to develop a technique and device, called the "Third Lung", that would use the abdominal cavity "like a lung" for the purpose of gas exchange.&nbsp; This concept is analogous to the technique of peritoneal dialysis, where the abdomen is used "like a kidney" for solute exchange.&nbsp; The Third Lung utilizes perfluorocarbon (PFC) as a gas carrier.&nbsp; PFC is a class of inert compounds that includes products like Gore-Tex and Teflon.&nbsp; The liquid versions of PFC are equally inert and have extraordinary gas dissolving properties.&nbsp; Our technique involves using the Third Lung device to:&nbsp; oxygenate, heat, sterilize, and circulate PFC through the abdominal cavity.&nbsp; This particular project was to specifically examine the effect of abdominal PFC perfusion on carbon dioxide extraction.</p> <p>Our group initially investigated this approach in the first demonstration of significant gas exchange with peritoneal PFC perfusion in a large animal approximately 15 years ago<em> (Chest 2006;130;402-411)</em>.&nbsp; The experiments were conducted with a rudimentary circuit and with a PFC that was gifted from a now defunct company, Neuron Therapeutics.&nbsp; The results of that study were encouraging and plans were made to continue the work, but the gifted PFC utilized in that study was no longer production.&nbsp; In fact, at that time we were no longer able to identify any source of medical grade PFC.&nbsp; Alliance Pharmaceutical had been producing PFC for a randomized trial for acute respiratory distress syndrome (ARDS), comparing liquid ventilation, where the PFC is poured directly into the lungs, to state of the art ventilator management.&nbsp; This proved to be a negative trial and, consequently, there appeared to be no source of medical PFC, so the project was shelved.&nbsp; The onset of the COVID-19 pandemic, however, served as inspiration to revisit this project and a company that produces medical PFC, FluoroMed, was identified.&nbsp; The PFC used in the original studies is no longer available, but the company suggested perfluorodecalin, which was initially gifted, and subsequently purchased, to conduct experiments.&nbsp;</p> <p>With a source of PFC identified, a team of engineers and medical professionals was assembled to construct and test a prototype Third Lung device.&nbsp; This team held/holds weekly meetings and created a prototype device that incorporates feedback and safety controls, such that it is potentially translatable to human use.&nbsp; The results of the experiments&nbsp; revealed increased oxygenation, as noted 15 years prior, and also the first evidence of carbon dioxide clearance.&nbsp; The mechanism underlying these observed changes was not clear, with the possibilities being that the changes were attributable to gas exchange from the PFC, some artifactual physiologic changes related to abdominal pressures at which significant gas exchange was suggested, or a combination of both.&nbsp; Based upon analyses of the results from these experiments, future plans for this project include revising the Third Lung Device, investigating other medical PFCs, and diversifying the population of large animals upon which the Third Lung is tested.</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/26/2023<br>      Modified by: Joseph&nbsp;S&nbsp;Friedberg</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Lungs support the body by bringing in oxygen that all cells need and clearing the waste product of carbon dioxide that cells create, a process called respiration.  Lung failure from a multitude of causes, such as COVID-19 infections, can limit the ability of the lungs to perform this function.  Hundreds of thousands, if not millions, of patients suffer from lung failure in the United States annually.  When lung failure is severe enough, the patient will require assistance from a mechanical ventilator in order to absorb enough oxygen and/or clear enough carbon dioxide to survive.  Patients with lung failure die if they exceed the support that can be provided by a mechanical ventilator.  For example, over a million patients have died from COVID-19 in the United States, with respiratory failure as the leading cause of death.   The only possible salvation for patients suffering from severe respiratory failure, who have reached the limits of mechanical ventilatory support, is to provide extrapulmonary gas exchange.  Currently, the only available technique for extrapulmonary gas exchange is extracorporeal membrane oxygenation (ECMO).  ECMO is a technique where large catheters are surgically placed into major blood vessels and blood is circulated out of the body and through a gas exchange unit, before being pumped back into the patient.  Once on ECMO, patients require 24/7 close monitoring by highly trained professionals.  In addition, because ECMO involves a direct blood-device interface, which can cause the blood to clot in the circuit, the patients must also be placed on blood thinners.  ECMO is a very scarce and expensive resource which, even if it is available, is not a safe option for many patients because of the need for central vascular access and/or the requirement to be on blood thinners.  Consequently, there is a pressing need for new extrapulmonary techniques to augment gas exchange.  This project was undertaken, at the height of the COVID-19 pandemic, to develop such a technique.  The goal of this project was to develop a technique and device, called the "Third Lung", that would use the abdominal cavity "like a lung" for the purpose of gas exchange.  This concept is analogous to the technique of peritoneal dialysis, where the abdomen is used "like a kidney" for solute exchange.  The Third Lung utilizes perfluorocarbon (PFC) as a gas carrier.  PFC is a class of inert compounds that includes products like Gore-Tex and Teflon.  The liquid versions of PFC are equally inert and have extraordinary gas dissolving properties.  Our technique involves using the Third Lung device to:  oxygenate, heat, sterilize, and circulate PFC through the abdominal cavity.  This particular project was to specifically examine the effect of abdominal PFC perfusion on carbon dioxide extraction.  Our group initially investigated this approach in the first demonstration of significant gas exchange with peritoneal PFC perfusion in a large animal approximately 15 years ago (Chest 2006;130;402-411).  The experiments were conducted with a rudimentary circuit and with a PFC that was gifted from a now defunct company, Neuron Therapeutics.  The results of that study were encouraging and plans were made to continue the work, but the gifted PFC utilized in that study was no longer production.  In fact, at that time we were no longer able to identify any source of medical grade PFC.  Alliance Pharmaceutical had been producing PFC for a randomized trial for acute respiratory distress syndrome (ARDS), comparing liquid ventilation, where the PFC is poured directly into the lungs, to state of the art ventilator management.  This proved to be a negative trial and, consequently, there appeared to be no source of medical PFC, so the project was shelved.  The onset of the COVID-19 pandemic, however, served as inspiration to revisit this project and a company that produces medical PFC, FluoroMed, was identified.  The PFC used in the original studies is no longer available, but the company suggested perfluorodecalin, which was initially gifted, and subsequently purchased, to conduct experiments.   With a source of PFC identified, a team of engineers and medical professionals was assembled to construct and test a prototype Third Lung device.  This team held/holds weekly meetings and created a prototype device that incorporates feedback and safety controls, such that it is potentially translatable to human use.  The results of the experiments  revealed increased oxygenation, as noted 15 years prior, and also the first evidence of carbon dioxide clearance.  The mechanism underlying these observed changes was not clear, with the possibilities being that the changes were attributable to gas exchange from the PFC, some artifactual physiologic changes related to abdominal pressures at which significant gas exchange was suggested, or a combination of both.  Based upon analyses of the results from these experiments, future plans for this project include revising the Third Lung Device, investigating other medical PFCs, and diversifying the population of large animals upon which the Third Lung is tested.          Last Modified: 03/26/2023       Submitted by: Joseph S Friedberg]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative Research: Using Data to Understand the Effects of Transportation on the Spread of COVID-19 as a Propagator and a Control Mechanism]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>75000.00</AwardTotalIntnAmount>
+<AwardAmount>75000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandip Roy</SignBlockName>
+<PO_EMAI>saroy@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The spread of COVID-19 has broad implications both for human health and economies around the world. This Smart and Connected Communities project will monitor the spread of COVID-19 by collecting real-time information on active COVID-19 cases, understand how transportation has driven the spread of the virus, and quantify how travel restrictions have limited the spread of the virus. The data collection will gather and store real-time information on the spread of COVID-19 and a timeline of travel restrictions for three sets of communities. This data will then be employed to model how the virus propagates between communities via transportation using various network-dependent epidemic models. Finally, using the collected data and the calibrated epidemic models, analysis will be conducted to understand how effective the different modifications of the transportation network structure, such as travel restrictions in each set of communities, are at slowing the spread of COVID-19, while factoring in the economic effects. Understanding how the transportation network between communities acts as a propagator of the virus, and how control actions taken by local and national governments to limit or block travel within and between regions slow the spread of the virus will provide the framework for the development of mitigation strategies for the COVID-19 pandemic, as well as other possible outbreaks in the future. These strategies will limit the loss of human life and reduce the economic impacts of the virus. The methods developed as a result of this work will also be beneficial in the future for battling subsequent outbreaks.&lt;br/&gt;&lt;br/&gt;This project will apply network modeling techniques to understand how different control actions on the transportation network influence the spread of the virus between communities. The understanding gained herein will inform decision makers during this and future outbreaks as to which transportation-related mitigation strategies are best to use in different situations and at what point in the outbreak to use them in order to minimize both the spread of virus as well as the economic impact. The research will draw on and contribute to wide-ranging and fundamental results in statistical data analysis, mathematical modeling and analysis of epidemic processes, mathematical programming, network analysis, and control theory. The resulting study of problems will contribute to advancement of mathematical modeling and analysis of infectious diseases, and mitigation optimization algorithms and heuristics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028946</AwardID>
+<Investigator>
+<FirstName>Raphael</FirstName>
+<LastName>Stern</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Raphael Stern</PI_FULL_NAME>
+<EmailAddress><![CDATA[rstern@umn.edu]]></EmailAddress>
+<NSF_ID>000821501</NSF_ID>
+<StartDate>07/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName/>
+<StateCode>MN</StateCode>
+<ZipCode>554552070</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~75000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-4015716b-7fff-f639-132c-47245c1ed773"> <p dir="ltr"><span>The project integrated transportation and mobility data with epidemic spread models to better predict and mitigate the evolution of pandemics. Specifically, the methodology was developed using collected data from the COVID-19 pandemic during the first year of the pandemic in 2020 and 2021.</span></p> <p dir="ltr"><span>Traditional viral spread models, such as the susceptible-exposed-infected-recovered (SEIR) model, track the proportion of individuals in each stage of the infection (i.e., proportion of people susceptible, exposed, infected, and recovered with respect to a specific viral pathogen). As part of this project, we extended the SEIR model to consider viral spread over a network, where individual administrative regions such as counties each are represented by one node in the network and travel between different nodes represents edges in the network. Using this extended SEIR model that integrates travel between regions, methods were developed to calibrate the model using COVID-19 test results and mobility data, and guarantees for convergence of the proposed model were proven.</span></p> <p dir="ltr"><span>Additionally, data was collected for viral spread and infection levels as well as mobility data in two regions: the Northeastern United States and in Minnesota. Viral spread data consisted of new infections in each county collected from the respective county health department. In the Northeastern US, travel data was collected for every commercial flight conducted in 2020 as well as sampled seat maps from airline websites showing the number of passengers on each flight. In Minnesota, county-level weekly vehicular travel data was collected in cooperation with the Minnesota Department of Transportation, also for the entirety of 2020.</span></p> <p dir="ltr"><span>The collected data was used to calibrate the extended SEIR model developed as part of this project and was used to understand how modifying the flow of people between different geographic regions would impact the spread of the virus. Specifically, control strategies were designed to slow the spread of the virus by limiting travel between regions based on the current level of infection in the network, while minimizing the strategy&rsquo;s economic impact by avoiding a complete shutdown of all travel.</span></p> <p dir="ltr"><span>The findings of this work will enable future data-informed pandemic responses by providing novel models to simulate viral spread that incorporate mobility data and provide a framework for control design.</span></p> </span></p><br> <p>            Last Modified: 08/26/2021<br>      Modified by: Raphael&nbsp;Stern</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  The project integrated transportation and mobility data with epidemic spread models to better predict and mitigate the evolution of pandemics. Specifically, the methodology was developed using collected data from the COVID-19 pandemic during the first year of the pandemic in 2020 and 2021. Traditional viral spread models, such as the susceptible-exposed-infected-recovered (SEIR) model, track the proportion of individuals in each stage of the infection (i.e., proportion of people susceptible, exposed, infected, and recovered with respect to a specific viral pathogen). As part of this project, we extended the SEIR model to consider viral spread over a network, where individual administrative regions such as counties each are represented by one node in the network and travel between different nodes represents edges in the network. Using this extended SEIR model that integrates travel between regions, methods were developed to calibrate the model using COVID-19 test results and mobility data, and guarantees for convergence of the proposed model were proven. Additionally, data was collected for viral spread and infection levels as well as mobility data in two regions: the Northeastern United States and in Minnesota. Viral spread data consisted of new infections in each county collected from the respective county health department. In the Northeastern US, travel data was collected for every commercial flight conducted in 2020 as well as sampled seat maps from airline websites showing the number of passengers on each flight. In Minnesota, county-level weekly vehicular travel data was collected in cooperation with the Minnesota Department of Transportation, also for the entirety of 2020. The collected data was used to calibrate the extended SEIR model developed as part of this project and was used to understand how modifying the flow of people between different geographic regions would impact the spread of the virus. Specifically, control strategies were designed to slow the spread of the virus by limiting travel between regions based on the current level of infection in the network, while minimizing the strategy’s economic impact by avoiding a complete shutdown of all travel. The findings of this work will enable future data-informed pandemic responses by providing novel models to simulate viral spread that incorporate mobility data and provide a framework for control design.        Last Modified: 08/26/2021       Submitted by: Raphael Stern]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

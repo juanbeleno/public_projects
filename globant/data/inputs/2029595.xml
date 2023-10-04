@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: finding virulence genes as therapeutic targets in Covid-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>04/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Ellis</SignBlockName>
+<PO_EMAI>stellis@nsf.gov</PO_EMAI>
+<PO_PHON>7032927876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This RAPID award is made by the Division of Biological Infrastructure (DBI) using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act.  This award to the University of Georgia will leverage bioinformatics tools to identify virulence genes that assisted SARS-COV-2 in jumping species boundaries. Identifying shared genetic changes between human SARS-COV-2 and its relatives in mammalian reservoirs in the bat, pangolin, and civit is important to understanding the virus mode of action. It is especially critical to identify which of the changes contribute to human virulence of SARS-COV-2. The researchers will analyze 3200+ genomes from SARS-COV-2 and coronavirus genomes from animal reservoirs to look at genetic changes associated with virulence and COVID-19 symptoms. To accomplish this work, new software tools will be developed to better leverage modern computer graphics processing units (GPUs) for high-speed parallel computing.  The project will engage graduate students and REU participants in interdisciplinary research of critical national importance and contribute useful tools for future bioinformatic research.&lt;br/&gt;&lt;br/&gt;The objective of this project is to identify virulence genes that enable SARS-COV-2 to jump species boundaries from vertebrate reservoirs. The project has three main components: (1) building gene trees within species trees of coronavirus by coalescent methods; (2) testing for shared polymorphisms under selective sweep between natural reservoirs and human SARS-COV-2; (3) validating candidates identified in task (2) independently by comparing gene genealogies for selective sweep (under selection for virulence) vs. incomplete lineage sorting. An interdisciplinary team from genetics, bioinformatics, and infectious diseases will develop gene trees within a species tree of 3,200+ published SARS-COV-2 genomes using a novel BEST coalescent method developed for GPUs.  Results from these studies will be rapidly disseminated and published in peer-reviewed journals, presented at scientific conferences, and made available through shared software repositories.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029595</AwardID>
+<Investigator>
+<FirstName>Liang</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Liang Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[lliu@uga.edu]]></EmailAddress>
+<NSF_ID>000591746</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Justin</FirstName>
+<LastName>Bahl</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Justin Bahl</PI_FULL_NAME>
+<EmailAddress><![CDATA[Justin.Bahl@uga.edu]]></EmailAddress>
+<NSF_ID>000735313</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Arnold</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan Arnold</PI_FULL_NAME>
+<EmailAddress><![CDATA[arnold@uga.edu]]></EmailAddress>
+<NSF_ID>000117855</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia Research Foundation Inc</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 E CAMPUS RD RM 409</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NMJHD63STRC5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Georgia]]></Name>
+<CityName>Athens</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>306021589</ZipCode>
+<StreetAddress><![CDATA[310 E. Campus Rd., Tucker Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The new area of intraspecific phylogeography combines the study of organismal pedigrees with the study of evolutionary processes giving rise to them, such as natural selection, mutation, genetic drift, and migration. This grant funded work to develop new tools in intraspecific phylogeography to trace the origin and spread of SARS-CoV-2.&nbsp; &nbsp;In much the same way that tracing a family name can give rise to a family tree to describe the history of a family, DNA markers as "family names" in a virus give rise to a "family tree" or pedigree, which charts the rise and spread of SARS-CoV-2.&nbsp; One of the challenges in creating such a viral pedigree is that each gene in SARS-CoV-2 has its own family tree. Each gene traces its on unique path through its descent through an organismal pedigree. In order to identify an organism's pedigree it is necessary to resolve the separate histories of gene trees percolating through the organismal pedigree.</p> <p>1) We developed new methods for building an organismal pedigree from individual gene trees.</p> <p>2) We applied these new methods to over 40,000 genomes of SARS-CoV-2 to reconstruct the consensus viral pedigree, its place of origin, and its time of origin.</p> <p>3) We used the organismal pedigree of SARS-CoV-2 to read off its history of movement around the world.</p> <p>4) We used the organismal pedigree of SARS-CoV-2 to read off a DNA marker that appears to be selected early in the pandemic.</p> <p>5) 5 undergraduates were trained in computational biology research on this project.</p> <p>6) 2 PhD students obtained their PhDs on this project working on the computational biology challenges of this project.</p><br> <p>            Last Modified: 04/20/2022<br>      Modified by: Jonathan&nbsp;Arnold</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The new area of intraspecific phylogeography combines the study of organismal pedigrees with the study of evolutionary processes giving rise to them, such as natural selection, mutation, genetic drift, and migration. This grant funded work to develop new tools in intraspecific phylogeography to trace the origin and spread of SARS-CoV-2.   In much the same way that tracing a family name can give rise to a family tree to describe the history of a family, DNA markers as "family names" in a virus give rise to a "family tree" or pedigree, which charts the rise and spread of SARS-CoV-2.  One of the challenges in creating such a viral pedigree is that each gene in SARS-CoV-2 has its own family tree. Each gene traces its on unique path through its descent through an organismal pedigree. In order to identify an organism's pedigree it is necessary to resolve the separate histories of gene trees percolating through the organismal pedigree.  1) We developed new methods for building an organismal pedigree from individual gene trees.  2) We applied these new methods to over 40,000 genomes of SARS-CoV-2 to reconstruct the consensus viral pedigree, its place of origin, and its time of origin.  3) We used the organismal pedigree of SARS-CoV-2 to read off its history of movement around the world.  4) We used the organismal pedigree of SARS-CoV-2 to read off a DNA marker that appears to be selected early in the pandemic.  5) 5 undergraduates were trained in computational biology research on this project.  6) 2 PhD students obtained their PhDs on this project working on the computational biology challenges of this project.       Last Modified: 04/20/2022       Submitted by: Jonathan Arnold]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

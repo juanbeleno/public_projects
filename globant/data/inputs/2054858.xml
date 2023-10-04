@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Modeling COVID-19 Coronavirus Vaccine and Nursing Homes]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+<PO_EMAI>kdittmar@nsf.gov</PO_EMAI>
+<PO_PHON>7032927799</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Nursing Homes (NHs) have been hit particularly hard by the COVID-19 coronavirus pandemic, with NH residents accounting for nearly a quarter of all COVID-19 deaths. This project will help answer key questions about NHs, which are particularly vulnerable to COVID-19 coronavirus infections and may be key to slowing the pandemic, and COVID-19 coronavirus vaccines. NH residents may be at a higher risk for COVID-19 coronavirus infections due to their health status, frequent interactions, and close, community-like living quarters. Once infected, residents are also at risk of serious health outcomes as a result of age-related illnesses, advanced chronic conditions, and frailty. Moreover, previous work has shown how NHs are highly interconnected with other healthcare facilities in a region and how an infectious disease outbreak in one nursing home can quickly spread throughout a region. Thus, NHs could further fuel the overall pandemic. COVID-19 coronavirus vaccines are one potential intervention in NHs and this proposed project would help address important questions about COVID-19 coronavirus vaccines. There is a need to better delineate the vaccine characteristics (e.g., efficacy/effectiveness, duration of protection, cost) that vaccine developers should aim for and how best to use different types of vaccines should they reach the market. It will also be helpful to understand the impact of varying prioritization of different populations, coverage, and compliance. A broader impact of this project is a better understanding of how COVID-19 coronavirus spreads in NHs and the impact of vaccination and other interventions. This will help decision makers determine what prevention and control measures should be implemented in NHs and how to implement these measures. &lt;br/&gt;&lt;br/&gt;This project will entail the development of computational models of selected nursing homes (NHs) and their residents and personnel (including health professionals and staff). The models would represent the layouts of the NH, the specific residents and personnel, their characteristics, and their interactions. Simulations will consider an infected person in the NH transmitting the virus to others through direct contact or potentially through aerosol transmission or surface contamination. Simulation experiments would consider introduction of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) into the nursing home in different ways. This work will explore the effects and value of introducing different types of COVID-19 coronavirus vaccines to the NHs. For example, varying the efficacy, duration of protection, and other characteristics of the vaccine. Additionally, the models could explore the effects of varying vaccination coverage and compliance among different nursing home residents and personnel (e.g., what would happen if different types of residents received the vaccine at different times, which residents and personnel should be prioritized if vaccines are limited). Simulation experiments could also explore the effects of layering on different selected policies and interventions (e.g., wearing face masks, testing, and different types of social distancing) with and without COVID-19 coronavirus vaccines. Developing and attaching a COVID-19 clinical outcomes and costing model to each of the residents and personnel then can help calculate the economic impact and value of different vaccines, policies, and interventions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/14/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>01/14/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2054858</AwardID>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Lee</LastName>
+<PI_MID_INIT>Y</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Bruce Y Lee</PI_FULL_NAME>
+<EmailAddress><![CDATA[bruceleemdmba@gmail.com]]></EmailAddress>
+<NSF_ID>000824010</NSF_ID>
+<StartDate>01/14/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Research Foundation of the City University of New York</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100367207</ZipCode>
+<PhoneNumber>2124178410</PhoneNumber>
+<StreetAddress>230 W 41ST ST</StreetAddress>
+<StreetAddress2><![CDATA[7TH FLOOR]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY12</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>S9GFNEC7QLZ7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Graduate School of Public Health & Health Policy]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100274615</ZipCode>
+<StreetAddress><![CDATA[55 W 125th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>U323</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021RB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-338bd78b-7fff-3dd0-344a-ec8674bb9b7f"> </span></p> <p dir="ltr">Our team has developed stochastic compartment models of both nursing homes (NH) and theoverall U.S. population. The NH models represent NH facilities, the rooms in each facility, theresidents, the staff members, their respective interactions with each other and the spread ofsevere acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Our compartment model ofthe entire U.S., represents 327,167,434 people, their interactions, and the spread and impact ofSARS-CoV-2 throughout the country.Both sets of models include representations of different COVID-19 policies and interventionssuch as vaccination, testing, face mask use, social distancing, and quarantine/isolation. Theseinclude both the potential benefits and risks of each intervention when used separately and indifferent combinations. Anyone who gets infected then has probabilities of developing variousCOVID-19 outcomes. This includes the probabilities of requiring different levels of treatments.Each person within each model can accrue relevant costs and health effects each daydepending on what happens. Therefore, this model can be used to evaluate theepidemiological, clinical, and economic impact and value of different SARS-CoV-2circumstances and various combinations of COVID-19 policies and interventions. This includesdirect medical costs and indirect costs (i.e., productivity losses due to absenteeism resultingfrom COVID-19 illness) costs.&nbsp;Additionally, we worked with the New York Times to adapt portions of our U.S. population modelinto two different interactive tools. One was featured in the article &amp;quot;When Could the UnitedStates Reach Herd Immunity? It&amp;#39;s Complicated,&amp;quot; and allowed people to see how changingvaccination rates, social distancing measures, and masking policies and the emergence of apotentially more contagious variant would affect the time it would take for the U.S. to reachcertain herd immunity levels and the total number of deaths. The other was described inanother New York Times article, &amp;#39;Where People are Most Vulnerable to the Delta Variant&amp;#39;. Thishelped understand which locations in the U.S. were more or less vulnerable to the Delta variantof the SARS-CoV-2, based on vaccination rates and estimates of immunity from prior infectionalong with other factors.Our team has been using our NH models to help decision makers address a range of differentCOVID-19-related questions about NHs. Since the COVID-19 pandemic has required rapiddissemination of results, we have used various direct channels such as direct presentation todecision makers and presentation/publication in the general media. We have continued toupdate our results throughout the pandemic as conditions have evolved. For example, we haveevaluated the value of COVID-19 testing in NHs. While testing early on in the pandemic in 2020was shown to be cost-effective and often cost-savings, later, under 2023 Omicron variantconditions, the costs of implementing routine testing of NH staff far outweighed these savings.&nbsp;We&amp;#39;ve also used our NH models to evaluate different COVID-19 vaccinationstrategies/approaches. For example, a set of experiments explored the epidemiological, clinical,and economic value of annual COVID-19 vaccination of those working and residing in NHsunder varying levels of COVID-19 activity in the community. These experiments found annualvaccination of NH residents and staff to be cost-effective and in many cases cost savings.However, adding a six month booster to this annual vaccination in many cases was not costsavings, assuming that community COVID-19 activity was not high.&nbsp;We have used the compartment model of the U.S. population to address various questions thatdecision makers have had. For example, a paper published in Lancet Public Health describeshow we utilized the model to examine how long the use of face masks needs to be requiredgiven a wide range of vaccination coverage levels. Maintaining face mask use until targetvaccination coverages were achieved was cost-effective and in many cases cost saving across<br />&nbsp;&nbsp;nearly all scenarios explored including when the cost of face masks per person per day was upto $1.25 and face mask use was maintained for about 2-10 weeks after the date where thetarget vaccination coverage was achieved. This added duration was longer when targetcoverage was achieved during winter versus summer.&nbsp;If the USA had achieved an 80% vaccine coverage by March 1, 2022, simulations show thatmaintaining face mask use until then could have averted US $14.6 billion [95% ConfidenceInterval (CI) 13.8-15.3] in societal costs and $2.3 billion (95% CI 2.2-2.4) in third-party payercosts as well as 6.29 million (95% CI 6.28-6.3) cases, 138,600 (95% CI 137,600-139,700)hospital admissions and treatment, and 16,100 (95% CI 15,900-16,300) deaths, saving 180,000(95% CI 172,500-187,600) QALYs (70% vaccine efficacy to prevent infection). However,achieving only a 70% coverage could have increased these savings to $20.6 billion (19.8-21.5)in societal costs, $3.27 billion (3.20-3.34) in third-party payer costs, 8.3 million (8.29-8.34)cases, 193,500 (192,100-194,800) hospital admissions and treatment, 22,700 (22,500-22,900)deaths, and 252,900 (243,700-262,000) QALYs.</p><br> <p>            Last Modified: 05/24/2023<br>      Modified by: Bruce&nbsp;Y&nbsp;Lee</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Our team has developed stochastic compartment models of both nursing homes (NH) and theoverall U.S. population. The NH models represent NH facilities, the rooms in each facility, theresidents, the staff members, their respective interactions with each other and the spread ofsevere acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Our compartment model ofthe entire U.S., represents 327,167,434 people, their interactions, and the spread and impact ofSARS-CoV-2 throughout the country.Both sets of models include representations of different COVID-19 policies and interventionssuch as vaccination, testing, face mask use, social distancing, and quarantine/isolation. Theseinclude both the potential benefits and risks of each intervention when used separately and indifferent combinations. Anyone who gets infected then has probabilities of developing variousCOVID-19 outcomes. This includes the probabilities of requiring different levels of treatments.Each person within each model can accrue relevant costs and health effects each daydepending on what happens. Therefore, this model can be used to evaluate theepidemiological, clinical, and economic impact and value of different SARS-CoV-2circumstances and various combinations of COVID-19 policies and interventions. This includesdirect medical costs and indirect costs (i.e., productivity losses due to absenteeism resultingfrom COVID-19 illness) costs. Additionally, we worked with the New York Times to adapt portions of our U.S. population modelinto two different interactive tools. One was featured in the article &amp;quot;When Could the UnitedStates Reach Herd Immunity? It&amp;#39;s Complicated,&amp;quot; and allowed people to see how changingvaccination rates, social distancing measures, and masking policies and the emergence of apotentially more contagious variant would affect the time it would take for the U.S. to reachcertain herd immunity levels and the total number of deaths. The other was described inanother New York Times article, &amp;#39;Where People are Most Vulnerable to the Delta Variant&amp;#39;. Thishelped understand which locations in the U.S. were more or less vulnerable to the Delta variantof the SARS-CoV-2, based on vaccination rates and estimates of immunity from prior infectionalong with other factors.Our team has been using our NH models to help decision makers address a range of differentCOVID-19-related questions about NHs. Since the COVID-19 pandemic has required rapiddissemination of results, we have used various direct channels such as direct presentation todecision makers and presentation/publication in the general media. We have continued toupdate our results throughout the pandemic as conditions have evolved. For example, we haveevaluated the value of COVID-19 testing in NHs. While testing early on in the pandemic in 2020was shown to be cost-effective and often cost-savings, later, under 2023 Omicron variantconditions, the costs of implementing routine testing of NH staff far outweighed these savings. We&amp;#39;ve also used our NH models to evaluate different COVID-19 vaccinationstrategies/approaches. For example, a set of experiments explored the epidemiological, clinical,and economic value of annual COVID-19 vaccination of those working and residing in NHsunder varying levels of COVID-19 activity in the community. These experiments found annualvaccination of NH residents and staff to be cost-effective and in many cases cost savings.However, adding a six month booster to this annual vaccination in many cases was not costsavings, assuming that community COVID-19 activity was not high. We have used the compartment model of the U.S. population to address various questions thatdecision makers have had. For example, a paper published in Lancet Public Health describeshow we utilized the model to examine how long the use of face masks needs to be requiredgiven a wide range of vaccination coverage levels. Maintaining face mask use until targetvaccination coverages were achieved was cost-effective and in many cases cost saving across   nearly all scenarios explored including when the cost of face masks per person per day was upto $1.25 and face mask use was maintained for about 2-10 weeks after the date where thetarget vaccination coverage was achieved. This added duration was longer when targetcoverage was achieved during winter versus summer. If the USA had achieved an 80% vaccine coverage by March 1, 2022, simulations show thatmaintaining face mask use until then could have averted US $14.6 billion [95% ConfidenceInterval (CI) 13.8-15.3] in societal costs and $2.3 billion (95% CI 2.2-2.4) in third-party payercosts as well as 6.29 million (95% CI 6.28-6.3) cases, 138,600 (95% CI 137,600-139,700)hospital admissions and treatment, and 16,100 (95% CI 15,900-16,300) deaths, saving 180,000(95% CI 172,500-187,600) QALYs (70% vaccine efficacy to prevent infection). However,achieving only a 70% coverage could have increased these savings to $20.6 billion (19.8-21.5)in societal costs, $3.27 billion (3.20-3.34) in third-party payer costs, 8.3 million (8.29-8.34)cases, 193,500 (192,100-194,800) hospital admissions and treatment, 22,700 (22,500-22,900)deaths, and 252,900 (243,700-262,000) QALYs.       Last Modified: 05/24/2023       Submitted by: Bruce Y Lee]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

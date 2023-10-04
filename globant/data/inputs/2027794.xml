@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative: REACT: Real-time Contact Tracing and Risk Monitoring via Privacy-enhanced Mobile Tracking]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>67185.00</AwardTotalIntnAmount>
+<AwardAmount>83185</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Joshi</SignBlockName>
+<PO_EMAI>jjoshi@nsf.gov</PO_EMAI>
+<PO_PHON>7032928950</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Contact tracing is critical for controlling epidemic disease outbreaks such as the fast-growing COVID-19 pandemic. Real-time location traces of individuals can be used to significantly speed up and scale up contact tracing.  However, such use also heightens concerns on individual privacy and data abuse.  Urgency of the COVID-19 pandemic requires a careful balance of privacy protection with public health benefits.  This project aims to develop techniques and a mobile application, REACT, for REAal-time Contact Tracing and risk monitoring via privacy-enhanced tracking of users' locations and symptoms.  To enhance privacy, users can control and refine the frequency and granularity with which their information will be collected and used.  REACT will enable: 1) contact tracing of individuals and locations that a confirmed case has contact with for quarantine and decontamination to control further spread, 2) individual risk monitoring based on the locations they visit and their contact with others so they can be informed and alerted; and 3) community risk monitoring and detection of early signals of community spread to prepare for larger-scale infections. &lt;br/&gt;&lt;br/&gt;The project will develop and study: 1) efficient and scalable data structures and algorithms for contact tracing queries given a large number of users and multi-resolution location traces; 2) a learning-based approach for modeling users’ risks in real time; 3) a social network sensors approach for monitoring the community risk, and 4) a multi-stage privacy approach where users can upload generalized locations to receive alerts and more precise locations when they are notified as possible contacts with confirmed cases for refinement and confirmation.  More rigorous privacy enhancements will be studied including location perturbation based on geo-indistinguishability and its variants and searchable encryption for contact tracing on encrypted locations.  In addition, the project includes a set of dissemination and education activities: 1) releasing a mobile app with open-source system components; 2) investigating privacy-preserving mechanisms to share the collected data for research studies; and 3) integrating the research in classes and organizing seminar series and tutorials to promote the interdisciplinary research area.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027794</AwardID>
+<Investigator>
+<FirstName>Cyrus</FirstName>
+<LastName>Shahabi</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cyrus Shahabi</PI_FULL_NAME>
+<EmailAddress><![CDATA[shahabi@usc.edu]]></EmailAddress>
+<NSF_ID>000346776</NSF_ID>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900894304</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>3720 S FLOWER ST</StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA37</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G88KLJR3KYT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF SOUTHERN CALIFORNIA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Southern California]]></Name>
+<CityName>Los Angeles</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>900070001</ZipCode>
+<StreetAddress><![CDATA[3720 S. Flower Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>37</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA37</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~83185</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-123fdd7a-7fff-8b2d-5551-ff96a1e56e9f"> </span></p> <p dir="ltr"><span>The major goals of the project were to develop techniques for real time contact tracing and risk monitoring via privacy-enhanced mobility tracking for better pandemic response and preparedness.</span></p> <p dir="ltr"><span>We developed a real-time contact tracing system using both proximal contacts (via Bluetooth) and locations (via GPS if shared by users). Compared to existing digital contract tracing approaches (e.g., Google and Apple Bluetooth Apps) that use only proximity information, using the absolute (privacy-enhanced) locations from GPS allows for more accurate contact tracing and risk estimation associated with a location.&nbsp;</span></p> <p dir="ltr"><span>To mitigate privacy risks for contact tracing (when mobile service providers or the contact tracing app providers are not trusted), users can specify desired privacy levels for sharing their locations and this privacy level can be used to determine the level of perturbation that is applied to a user's location before it is transmitted to the receiving server.&nbsp; We investigated location perturbation techniques using the geo-indistinguishability privacy definition. Our empirical studies using public location dataset verifies that the approach can achieve good precision and recall in identifying contacts between users given a reasonable privacy level.&nbsp; </span><span>While geo-indistinguishability provides a rigorous privacy guarantee, it is not customizable and limits the tradeoff between privacy and utility in real world applications.&nbsp; We further developed a customizable location privacy notion based on policy graphs and demonstrated how it can be customized for different epidemiology surveillance applications.</span></p> <p dir="ltr"><span>Complementary to contact tracing that tracks past activities of infected users, one path to controlling the spread of COVID-19 is to reliably estimate the risk of contracting the disease in a particular area at a specific period of time (so further intervention can be performed). Existing works mainly focus on coarse-grained spatial scores, e.g., at a city level, which provides little useful information for both individuals and policy-makers.&nbsp; We developed a model for fine-grained spatial and temporal risk estimation by leveraging high-resolution mobility data. We empirically showed that taking such mobility information into account allows for more accurate risk scores, compared with models that only rely on population density information.&nbsp; Further, any analysis based on mobility data needs to account for the fact that the mobility data only represents a subset of the population.&nbsp; To address this, we developed approaches to use the observed subsample of the population mobility to infer the properties of the entire population in order to better estimate the spread of the disease.&nbsp;&nbsp;</span></p> <p dir="ltr"><span>When the (mobile) service providers are trusted and use the mobility data to build the risk estimation models, there may be a need to release the models to a third party or the public. To protect the inference risk from the model to the training data, we investigated the use of differential privacy for building machine learning models that protects the privacy of the training data.&nbsp; We developed a practical training framework with a formal theoretical study on the utility rates that can be achieved by the privacy-enhance model.&nbsp; Both our theoretical and empirical results suggest that we can achieve improved utility rates than existing models and comparable utility to the non-private model that uses the raw data without privacy protection under certain conditions.&nbsp;</span></p> <p dir="ltr"><span>In addition to mobility data that are explicitly collected from users? mobile phones, we also developed and deployed CrowdMap as an anonymous occupancy monitoring system at USC which monitors occupancy derived from Wi-Fi access data that approximately represents users? mobility.&nbsp; </span><span>In our CrowdMap system, there are still risks for inferring the movement of individuals even from the aggregate occupancy.&nbsp; We investigated the use of differential privacy for perturbing the aggregate occupancy statistics. Using this information, we are able to release fairly accurate counts of occupants in areas of campus buildings such as labs, hallways, and large discussion halls with minimized risk to individual users' privacy.</span></p> <p dir="ltr"><span>In summary, we demonstrated the feasibility of utilizing mobility data for digital contact tracing and risk monitoring while protecting user privacy.&nbsp; Research remains in further enhancing the public health utility of the data while ensuring rigorous privacy protection.&nbsp;&nbsp;&nbsp;</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/02/2022<br>      Modified by: Cyrus&nbsp;Shahabi</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   The major goals of the project were to develop techniques for real time contact tracing and risk monitoring via privacy-enhanced mobility tracking for better pandemic response and preparedness. We developed a real-time contact tracing system using both proximal contacts (via Bluetooth) and locations (via GPS if shared by users). Compared to existing digital contract tracing approaches (e.g., Google and Apple Bluetooth Apps) that use only proximity information, using the absolute (privacy-enhanced) locations from GPS allows for more accurate contact tracing and risk estimation associated with a location.  To mitigate privacy risks for contact tracing (when mobile service providers or the contact tracing app providers are not trusted), users can specify desired privacy levels for sharing their locations and this privacy level can be used to determine the level of perturbation that is applied to a user's location before it is transmitted to the receiving server.  We investigated location perturbation techniques using the geo-indistinguishability privacy definition. Our empirical studies using public location dataset verifies that the approach can achieve good precision and recall in identifying contacts between users given a reasonable privacy level.  While geo-indistinguishability provides a rigorous privacy guarantee, it is not customizable and limits the tradeoff between privacy and utility in real world applications.  We further developed a customizable location privacy notion based on policy graphs and demonstrated how it can be customized for different epidemiology surveillance applications. Complementary to contact tracing that tracks past activities of infected users, one path to controlling the spread of COVID-19 is to reliably estimate the risk of contracting the disease in a particular area at a specific period of time (so further intervention can be performed). Existing works mainly focus on coarse-grained spatial scores, e.g., at a city level, which provides little useful information for both individuals and policy-makers.  We developed a model for fine-grained spatial and temporal risk estimation by leveraging high-resolution mobility data. We empirically showed that taking such mobility information into account allows for more accurate risk scores, compared with models that only rely on population density information.  Further, any analysis based on mobility data needs to account for the fact that the mobility data only represents a subset of the population.  To address this, we developed approaches to use the observed subsample of the population mobility to infer the properties of the entire population in order to better estimate the spread of the disease.   When the (mobile) service providers are trusted and use the mobility data to build the risk estimation models, there may be a need to release the models to a third party or the public. To protect the inference risk from the model to the training data, we investigated the use of differential privacy for building machine learning models that protects the privacy of the training data.  We developed a practical training framework with a formal theoretical study on the utility rates that can be achieved by the privacy-enhance model.  Both our theoretical and empirical results suggest that we can achieve improved utility rates than existing models and comparable utility to the non-private model that uses the raw data without privacy protection under certain conditions.  In addition to mobility data that are explicitly collected from users? mobile phones, we also developed and deployed CrowdMap as an anonymous occupancy monitoring system at USC which monitors occupancy derived from Wi-Fi access data that approximately represents users? mobility.  In our CrowdMap system, there are still risks for inferring the movement of individuals even from the aggregate occupancy.  We investigated the use of differential privacy for perturbing the aggregate occupancy statistics. Using this information, we are able to release fairly accurate counts of occupants in areas of campus buildings such as labs, hallways, and large discussion halls with minimized risk to individual users' privacy. In summary, we demonstrated the feasibility of utilizing mobility data for digital contact tracing and risk monitoring while protecting user privacy.  Research remains in further enhancing the public health utility of the data while ensuring rigorous privacy protection.                  Last Modified: 09/02/2022       Submitted by: Cyrus Shahabi]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

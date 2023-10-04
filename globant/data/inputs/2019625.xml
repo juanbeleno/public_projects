@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STC: Center for Learning the Earth with Artificial Intelligence and Physics (LEAP)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2026</AwardExpirationDate>
+<AwardTotalIntnAmount>25000000.00</AwardTotalIntnAmount>
+<AwardAmount>15000000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric DeWeaver</SignBlockName>
+<PO_EMAI>edeweave@nsf.gov</PO_EMAI>
+<PO_PHON>7032928527</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Projections of future climate change from Earth system models (ESMs) play a critical role in addressing the threats posed by climate change, especially given the need to plan for conditions that have no historical precedent.  But ESM projections have large uncertainties which limit their usefulness for decision support, and the most worrisome forms of climate change are often the ones with the greatest uncertainties.  Such uncertainty is not unexpected considering the many processes, from cloud formation to carbon cycling to ocean turbulence, that affect the climatic response to anthropogenic forcing.  These processes must be represented in ESMs but there is no easy way to simulate them. Some, like ocean turbulence, are hard simply because they involve spatial scales too small to be simulated at the resolutions accessible to global models. Others, like the exchange of water and carbon dioxide through a forest canopy, are crudely simulated due to incomplete scientific understanding.&lt;br/&gt;&lt;br/&gt;Processes which cannot be explicitly represented in ESMs are instead incorporated through “parameterizations”, which roughly express their effects on the resolved model state.  Such parameterizations are based on first-principles theory but they also involve crude approximations and must be “tuned” by assigning numerical values to parameters which control their behavior.  The parameters typically lack observational and theoretical constraints, and their values are manually adjusted to improve the simulation of present-day climate.  Even after tuning models still exhibit substantial bias, and the complexity and computational expense of ESMs has increased to the point where traditional hands-on tuning is becoming impractical.&lt;br/&gt;&lt;br/&gt;Artificial Intelligence (AI), particularly in the form of Machine Learning (ML), offers a new way forward for improving parameterizations and reducing uncertainty in climate projections.    AI is a compelling complement to traditional parameterization development, which begins with theory and physical principles and uses observational data somewhat sparingly.  In contrast, the methods of AI are data driven and thus a perfect match for the explosive growth in earth system data that has occurred in recent years.  This includes data from satellites, in situ networks, and field campaigns.  For some processes, particularly cloud formation and ocean turbulence, small-scale process models have become sufficiently realistic that they can provide surrogate observations to drive AI-based methods.&lt;br/&gt;&lt;br/&gt;The Center for Learning the Earth with Artificial Intelligence and Physics (LEAP) applies the power of AI to the wealth of available earth system data to overcome the limitations of traditional parameterization development and tuning, thus creating a new pathway to better ESMs and better guidance to decision-makers. The AI methods are novel in that they build physical constraints such as conservation laws into data-driven algorithms.  AI methods are also used to find more discriminating ways to use observational data to evaluate model performance. LEAP works with the developers of the Community Earth System Model to ensure that its advances are made available to the worldwide community of climate researchers.&lt;br/&gt;&lt;br/&gt;In order to promote effective climate adaptation, LEAP fosters equitable training of the next generation of diverse learners across multiple scales by supporting post docs, graduate students, high-school students, parents, and teachers. Furthermore, the Center supports bidirectional knowledge transfer with the public and private sectors to develop tailored and relevant climate-related information for stakeholders so that they can better adapt to climate change.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/09/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2019625</AwardID>
+<Investigator>
+<FirstName>Tian</FirstName>
+<LastName>Zheng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tian Zheng</PI_FULL_NAME>
+<EmailAddress><![CDATA[tzheng@stat.columbia.edu]]></EmailAddress>
+<NSF_ID>000149965</NSF_ID>
+<StartDate>09/09/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Galen</FirstName>
+<LastName>McKinley</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Galen A McKinley</PI_FULL_NAME>
+<EmailAddress><![CDATA[mckinley@ldeo.columbia.edu]]></EmailAddress>
+<NSF_ID>000107937</NSF_ID>
+<StartDate>09/09/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pierre</FirstName>
+<LastName>Gentine</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pierre Gentine</PI_FULL_NAME>
+<EmailAddress><![CDATA[pg2328@columbia.edu]]></EmailAddress>
+<NSF_ID>000560401</NSF_ID>
+<StartDate>09/09/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Courtney</FirstName>
+<LastName>Cogburn</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Courtney D Cogburn</PI_FULL_NAME>
+<EmailAddress><![CDATA[cc3803@columbia.edu]]></EmailAddress>
+<NSF_ID>000637829</NSF_ID>
+<StartDate>09/09/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Abernathey</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ryan Abernathey</PI_FULL_NAME>
+<EmailAddress><![CDATA[ra2697@columbia.edu]]></EmailAddress>
+<NSF_ID>000650948</NSF_ID>
+<StartDate>09/09/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>202 LOW LIBRARY 535 W 116 ST MC</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F4N1QNPB95M4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>F4N1QNPB95M4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Columbia University]]></Name>
+<CityName>New York</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>100276902</ZipCode>
+<StreetAddress><![CDATA[550 West 116th Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>115Y</Code>
+<Text>STCs - 2021 Class</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5740</Code>
+<Text>Climate &amp; Large-Scale Dynamics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5740</Code>
+<Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9171</Code>
+<Text>SCIENCE AND TECHNOLOGY CENTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~5000000</FUND_OBLG>
+<FUND_OBLG>2023~10000000</FUND_OBLG>
+</Award>
+</rootTag>

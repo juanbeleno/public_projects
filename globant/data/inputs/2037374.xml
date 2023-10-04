@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Bioinformatic Search for Epitope-based Molecular Mimicry in the SARS-CoV-2 Virus using Chameleon]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>199000.00</AwardTotalIntnAmount>
+<AwardAmount>238798</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Cross-reactive immunity is a process by which an individual who was vaccinated by an unrelated vaccine or who has recovered from an infection from an unconnected pathogen in the past is seemingly protected against an infection by SARS-CoV-2. A key step for an individual to mount a successful immune response to a pathogenic infection is for a human antibody to recognize and bind to a specific epitope (fragment) from an antigenic protein from the infecting pathogen. Cross-reactivity by molecular mimicry may occur when an antibody fortuitously binds to an epitope from SARS-CoV-2 because of a structural similarity at the binding interface with the epitope for which it was intended. If verified, a rapid repurposing of drugs and  vaccines designed for the other pathogens can be quickly validated and applied to the current pandemic. This project plans to use bioinformatic techniques to investigate how molecular mimicry may play a role in cross-reactive immunity.&lt;br/&gt;&lt;br/&gt;The software pipeline will use the high-performance computing resources in the Chameleon cloud computing platform to run computationally-intensive molecular dynamics simulations within a machine learning framework and help identify occurrences of molecular mimicry in SARS-CoV-2. The pipeline can be divided into two main parts. The first part involves extracting useful features from structures of known complexes available from public databases such as Protein Data Bank (PDB). The second part involves building machine learning models from these features so that molecular mimicry, if present, can be detected in SARS-CoV-2.&lt;br/&gt;&lt;br/&gt;The machine learning framework will result in reusable models of molecular mimicry and is expected to assist in vaccine development. If successful, the project can potentially (a) explain global disparities in hospitalizations and death rates; (b) lead to quick repurposing of drugs to fight the current pandemic; (c) be replicated for other pathogens; (d) lead to faster vaccine development; (e) impact development of novel bioinformatic  strategies for the current and future pandemics.&lt;br/&gt;&lt;br/&gt;An interdisciplinary team with expertise in computational biophysics, bioinformatics, machine learning, evolutionary biology, infectious diseases, computational epigenetics, glycobioogy, high-performance computing and software engineering will drive this project. All results will be made available through the project website at: http://biorg.cs.fiu.edu/lemom, including examples of molecular mimicry, software for replicating the experiments, and performance benchmarking results on Chameleon.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/19/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037374</AwardID>
+<Investigator>
+<FirstName>Prem</FirstName>
+<LastName>Chapagain</LastName>
+<PI_MID_INIT>P</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Prem P Chapagain</PI_FULL_NAME>
+<EmailAddress><![CDATA[chapagap@fiu.edu]]></EmailAddress>
+<NSF_ID>000482998</NSF_ID>
+<StartDate>06/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jessica</FirstName>
+<LastName>Liberles</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jessica Liberles</PI_FULL_NAME>
+<EmailAddress><![CDATA[jessica.liberles@fiu.edu]]></EmailAddress>
+<NSF_ID>000685447</NSF_ID>
+<StartDate>06/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Giri</FirstName>
+<LastName>Narasimhan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Giri Narasimhan</PI_FULL_NAME>
+<EmailAddress><![CDATA[giri@cs.fiu.edu]]></EmailAddress>
+<NSF_ID>000341822</NSF_ID>
+<StartDate>06/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kalai</FirstName>
+<LastName>Mathee</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kalai Mathee</PI_FULL_NAME>
+<EmailAddress><![CDATA[matheek@fiu.edu]]></EmailAddress>
+<NSF_ID>000349449</NSF_ID>
+<StartDate>06/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ananda</FirstName>
+<LastName>Mondal</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ananda M Mondal</PI_FULL_NAME>
+<EmailAddress><![CDATA[amondal@fiu.edu]]></EmailAddress>
+<NSF_ID>000617544</NSF_ID>
+<StartDate>06/19/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>MIAMI</CityName>
+<ZipCode>331992516</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q3KCVK5S9CP1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>FLORIDA INTERNATIONAL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>D4GCCCMXR1H3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Florida International University]]></Name>
+<CityName>Miami</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>331990001</ZipCode>
+<StreetAddress><![CDATA[School of Computer Science, ECS]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199000</FUND_OBLG>
+<FUND_OBLG>2021~39798</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span style="color: #158155; font-size: 22px;">Accomplishments</span></p> <p><strong>Goals</strong></p> <p>Cross-reactivity by molecular mimicry may occur when an antibody fortuitously binds to an epitope from a different pathogen because of a structural similarity at the binding interface with the epitope for which it was intended. This project goals were (a) to show that molecular mimicry is an important factor in cross-reactive immunity, (b) to deliver a software pipeline that can help identify occurrences of molecular mimicry in a new pathogen, thus making us better prepared for the next pandemic, and (c) to apply these findings and tools to SARS-CoV-2.</p> <h2>Major Activities</h2> <p>A machine learning-based software pipeline for molecular mimicry was proposed. The first part of the pipeline involved extracting useful features from structures of known antibody-antigen complexes available from public databases such as Protein Data Bank (PDB). The second part involved building machine learning models from these features so that molecular mimicry, if present, can be detected in SARS-CoV-2.</p> <p>Both parts of the pipeline are now complete. Feature extraction was performed. This was followed by a machine learning approach to identify molecular mimicry.</p> <p>Additionally, a second approach to molecular mimicry was also designed and implemented.</p> <p>The machine learning-based pipeline was tested on Chameleon.</p> <p>Biological testing of the molecular mimicry claims are underway at UAB</p> <h3>Specific Objectives</h3> <p>Both specific aims suggested in the proposal were successfully achieved by the development of the EMoMiS software pipeline. Good feature extraction is key to the success of a machine learning-based approach to identifying molecular mimicry. The first pipeline (EMoMiS) using machine learning is made available through the website at: <a href="http://biorg.cs.fiu.edu/emomis">http://biorg.cs.fiu.edu/emomis</a>. A manuscript is being prepared for submission.&nbsp;</p> <p>A second software pipeline called <em>Epitopedia</em>, which was not based on machine learning<em>, </em>was also designed and implemented. Epitopedia was used to identify several examples of molecular mimicry. This work has been published in the journal <em>Vaccines</em>.</p> <p>The biological impact of molecular mimicry has been understood and strong interpretations have been provided to explain (a) differential immunity in individuals and (b) the side effects of the SARS-CoV-2 infection.</p> <p>Students from underrepresented groups were trained as part of the research.</p> <h2>Significant Results</h2> <p>Two software pipelines, called EMoMiS and Epitopedia, are now publicly available for identifying molecular mimicry. The results of using the pipeline were able to provide strong computational evidence of molecular mimicry in proteins from SARS-CoV-2 and other pathogens. EMoMiS and Epitopedia were used to identify numerous examples of molecular mimicry that are not listed in their respective publications. The EMoMiS software was also built in the Chameleon Cloud environment on CHI@TACC ?Haswell? bare metal instance, which had 2x 12 core Intel Xeon E5-2670 v3 and 128 GB of RAM (Keahey et al.)</p> <p><strong>Outcomes</strong></p> <p>Strong evidence was produced for the occurrence of molecular mimicry using machine learning approaches. At least two different methodologies have been developed to identify molecular mimicry in a new pathogen, both of which were used to develop software pipelines. Our work also helped provide possible explanation for the various clinical symptoms and health outcomes of COVID-19. The research has produced tools that make us better prepared for the next pandemic. High performance computing implementations of the software pipelines were developed. Students from underrepresented groups were trained as part of the research.</p> <p><strong>Student Training</strong></p> <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Vitalii Stebliankin (PhD student)</p> <p>2.&nbsp;&nbsp;&nbsp;&nbsp; Janelle Nunez-Castilla (Female, Hispanic minority PhD student)</p> <p>3.&nbsp;&nbsp;&nbsp;&nbsp; Masrur Sobhan (PhD student)</p> <p>4.&nbsp;&nbsp;&nbsp;&nbsp; Prabin Baral (PhD student)</p> <p>5.&nbsp;&nbsp;&nbsp;&nbsp; Christian Balbin (Minority PhD student)</p> <p>6.&nbsp;&nbsp;&nbsp;&nbsp; Fantyasia Polanco (Female, minority undergraduate student)</p> <p><strong>Dissemination</strong></p> <p>a.&nbsp;&nbsp;&nbsp;&nbsp; Hossen, M.L., Baral, P., Sharma, T., Gerstman, B. and Chapagain, P., "Significance of the RBD mutations in the SARS-CoV-2 Omicron: From spike opening to antibody escape and cell attachment." Physical Chemistry Chemical Physics, 24(16), pp.9123-9129 (2022).</p> <p>b.&nbsp;&nbsp;&nbsp;&nbsp; Nunez-Castilla, Stebliankin, Baral, Balbin, Sobhan, Cickovski, Mondal, Narasimhan, Chapagain, Mathee, Siltberg-Liberles. "Potential autoimmunity resulting from molecular mimicry between SARS-CoV-2 Spike and human proteins." Viruses, 14(7):1415, 2022.</p> <p>c.&nbsp;&nbsp;&nbsp;&nbsp; Vitalii Stebliankin, Prabin Baral, Christian Balbin, Janelle Nunez-Castilla, Masrur Sobhan, Trevor Cickovski, Ananda Mohan Mondal, Jessica Siltberg-Liberles, Prem Chapagain, Kalai Mathee, Giri Narasimhan. "EMoMiS: A Pipeline for Epitope-based Molecular Mimicry Search in Protein Structures with Applications to SARS-CoV-2." bioRxiv 2022.02.05.479274; doi: <a href="https://doi.org/10.1101/2022.02.05.479274">https://doi.org/10.1101/2022.02.05.479274</a></p> <p>d.&nbsp;&nbsp;&nbsp;&nbsp; Bhattarai N, Baral P, Gerstman BS, Chapagain PP. "Structural and Dynamical Differences in the Spike Protein RBD in the SARS-CoV-2 Variants B. 1.1. 7 and B. 1.351." The Journal of Physical Chemistry B. 2021 Jun 10.</p> <p>e.&nbsp;&nbsp;&nbsp;&nbsp; Baral, P., Bhattarai, N., Hossen, M.L., Stebliankin, V., Gerstman, B.S., Narasimhan, G. and Chapagain, P.P. "Mutation-induced changes in the receptor-binding interface of the SARS-CoV-2 Delta variant B. 1.617. 2 and implications for immune evasion." Biochemical and Biophysical Research Communications 574, 1O4-19 (2021).</p> <p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Christian A Balbin, Janelle Nunez-Castilla, Vitalii Stebliankin, Prabin Baral, Masrur Sobhan, Trevor Cickovski, Ananda Mohan Mondal, Giri Narasimhan, Prem Chapagain, Kalai Mathee, Jessica Siltberg-Liberles. "Epitopedia: identifying molecular mimicry between pathogens and known immune epitopes." bioRxiv 2021.08.26.457577; doi: <a href="https://doi.org/10.1101/2021.08.26.457577">https://doi.org/10.1101/2021.08.26.457577</a></p> <p>&nbsp;</p><br> <p>            Last Modified: 09/01/2022<br>      Modified by: Giri&nbsp;Narasimhan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Accomplishments  Goals  Cross-reactivity by molecular mimicry may occur when an antibody fortuitously binds to an epitope from a different pathogen because of a structural similarity at the binding interface with the epitope for which it was intended. This project goals were (a) to show that molecular mimicry is an important factor in cross-reactive immunity, (b) to deliver a software pipeline that can help identify occurrences of molecular mimicry in a new pathogen, thus making us better prepared for the next pandemic, and (c) to apply these findings and tools to SARS-CoV-2. Major Activities  A machine learning-based software pipeline for molecular mimicry was proposed. The first part of the pipeline involved extracting useful features from structures of known antibody-antigen complexes available from public databases such as Protein Data Bank (PDB). The second part involved building machine learning models from these features so that molecular mimicry, if present, can be detected in SARS-CoV-2.  Both parts of the pipeline are now complete. Feature extraction was performed. This was followed by a machine learning approach to identify molecular mimicry.  Additionally, a second approach to molecular mimicry was also designed and implemented.  The machine learning-based pipeline was tested on Chameleon.  Biological testing of the molecular mimicry claims are underway at UAB Specific Objectives  Both specific aims suggested in the proposal were successfully achieved by the development of the EMoMiS software pipeline. Good feature extraction is key to the success of a machine learning-based approach to identifying molecular mimicry. The first pipeline (EMoMiS) using machine learning is made available through the website at: http://biorg.cs.fiu.edu/emomis. A manuscript is being prepared for submission.   A second software pipeline called Epitopedia, which was not based on machine learning, was also designed and implemented. Epitopedia was used to identify several examples of molecular mimicry. This work has been published in the journal Vaccines.  The biological impact of molecular mimicry has been understood and strong interpretations have been provided to explain (a) differential immunity in individuals and (b) the side effects of the SARS-CoV-2 infection.  Students from underrepresented groups were trained as part of the research. Significant Results  Two software pipelines, called EMoMiS and Epitopedia, are now publicly available for identifying molecular mimicry. The results of using the pipeline were able to provide strong computational evidence of molecular mimicry in proteins from SARS-CoV-2 and other pathogens. EMoMiS and Epitopedia were used to identify numerous examples of molecular mimicry that are not listed in their respective publications. The EMoMiS software was also built in the Chameleon Cloud environment on CHI@TACC ?Haswell? bare metal instance, which had 2x 12 core Intel Xeon E5-2670 v3 and 128 GB of RAM (Keahey et al.)  Outcomes  Strong evidence was produced for the occurrence of molecular mimicry using machine learning approaches. At least two different methodologies have been developed to identify molecular mimicry in a new pathogen, both of which were used to develop software pipelines. Our work also helped provide possible explanation for the various clinical symptoms and health outcomes of COVID-19. The research has produced tools that make us better prepared for the next pandemic. High performance computing implementations of the software pipelines were developed. Students from underrepresented groups were trained as part of the research.  Student Training  1.     Vitalii Stebliankin (PhD student)  2.     Janelle Nunez-Castilla (Female, Hispanic minority PhD student)  3.     Masrur Sobhan (PhD student)  4.     Prabin Baral (PhD student)  5.     Christian Balbin (Minority PhD student)  6.     Fantyasia Polanco (Female, minority undergraduate student)  Dissemination  a.     Hossen, M.L., Baral, P., Sharma, T., Gerstman, B. and Chapagain, P., "Significance of the RBD mutations in the SARS-CoV-2 Omicron: From spike opening to antibody escape and cell attachment." Physical Chemistry Chemical Physics, 24(16), pp.9123-9129 (2022).  b.     Nunez-Castilla, Stebliankin, Baral, Balbin, Sobhan, Cickovski, Mondal, Narasimhan, Chapagain, Mathee, Siltberg-Liberles. "Potential autoimmunity resulting from molecular mimicry between SARS-CoV-2 Spike and human proteins." Viruses, 14(7):1415, 2022.  c.     Vitalii Stebliankin, Prabin Baral, Christian Balbin, Janelle Nunez-Castilla, Masrur Sobhan, Trevor Cickovski, Ananda Mohan Mondal, Jessica Siltberg-Liberles, Prem Chapagain, Kalai Mathee, Giri Narasimhan. "EMoMiS: A Pipeline for Epitope-based Molecular Mimicry Search in Protein Structures with Applications to SARS-CoV-2." bioRxiv 2022.02.05.479274; doi: https://doi.org/10.1101/2022.02.05.479274  d.     Bhattarai N, Baral P, Gerstman BS, Chapagain PP. "Structural and Dynamical Differences in the Spike Protein RBD in the SARS-CoV-2 Variants B. 1.1. 7 and B. 1.351." The Journal of Physical Chemistry B. 2021 Jun 10.  e.     Baral, P., Bhattarai, N., Hossen, M.L., Stebliankin, V., Gerstman, B.S., Narasimhan, G. and Chapagain, P.P. "Mutation-induced changes in the receptor-binding interface of the SARS-CoV-2 Delta variant B. 1.617. 2 and implications for immune evasion." Biochemical and Biophysical Research Communications 574, 1O4-19 (2021).  f.      Christian A Balbin, Janelle Nunez-Castilla, Vitalii Stebliankin, Prabin Baral, Masrur Sobhan, Trevor Cickovski, Ananda Mohan Mondal, Giri Narasimhan, Prem Chapagain, Kalai Mathee, Jessica Siltberg-Liberles. "Epitopedia: identifying molecular mimicry between pathogens and known immune epitopes." bioRxiv 2021.08.26.457577; doi: https://doi.org/10.1101/2021.08.26.457577          Last Modified: 09/01/2022       Submitted by: Giri Narasimhan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

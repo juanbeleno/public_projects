@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  Blockchain ontology and services for monitoring and performing analytics on smart contracts]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2022</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this STTR project addresses a paradox faced by ‘open web’ developers, users, and regulators: the use of centralized platform-creator hosted web portals to interact with an evolving decentralized finance (DeFi) application ecosystem. The proposed work will instrument a new open web paradigm that will improve user accessibility and ability to compose and perform data analysis on smart contracts. The approach will enable improvement of web-service reliability and security while weeding out bad actors.  Improving the accessibility and analysis of smart contracts is anticipated to help unlock further value and solutions across a range of applications and new business opportunities that can benefit from dynamic contracting.&lt;br/&gt;&lt;br/&gt;This STTR Phase I project proposes to build a blockchain-adjacent metadata model that enhances the utility and security of smart contracts for users and developers. The project will undertake the practical challenge of reverse-engineering smart contracts to outline a metadata model which will enhance discovery and security of services, creating a scaffold for composable apps. The approach will organize blockchain abstractions through code similarity analysis and program de-obfuscation by reverse engineering, instrument compile-time creation and publish metadata models by developers, and demonstrate how this data can be used to build a composable app user experience. The project will deploy privacy-preserving targeted advertising frameworks using deterministic services alongside the data from the metadata model.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/11/2022</MinAmdLetterDate>
+<MaxAmdLetterDate>01/11/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052118</AwardID>
+<Investigator>
+<FirstName>Donald</FirstName>
+<LastName>Josey</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Donald Josey</PI_FULL_NAME>
+<EmailAddress><![CDATA[donald.josey@gmail.com]]></EmailAddress>
+<NSF_ID>000830237</NSF_ID>
+<StartDate>01/11/2022</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>GLOSSIFI INC.</Name>
+<CityName>WEST COLUMBIA</CityName>
+<ZipCode>291697635</ZipCode>
+<PhoneNumber>8035084465</PhoneNumber>
+<StreetAddress>313 SORTWELL ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>SC02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VEGMRDCJHV33</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GLOSSIFI INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Glossifi]]></Name>
+<CityName>West Columbia</CityName>
+<StateCode>SC</StateCode>
+<ZipCode>291697635</ZipCode>
+<StreetAddress><![CDATA[313 Sortwell St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>SC02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-b93b9bbd-7fff-aee5-ef80-fff8b18b54e5"> </span></p> <p dir="ltr"><em><span style="text-decoration: underline;"><strong>Project Overview</strong></span></em></p> <p dir="ltr"><em>Description of the V1 ontology and its components (indexed smart contract, website)</em></p> <p dir="ltr"><span>We proved our proposal's hypothesis: that we can create an experience where users maintain a community-curated data structure that allows for &ldquo;composability&rdquo; -- closer cross-compatibility both between distinct smart contract interfaces and also between contracts and their adjacent web services -- enhanced and enabled by an infrastructural data layer. Our interface creates a feedback loop for users, where they learn from each other. Users can access bug reports, code audits, regulatory data, tax classifications, etc., which are organized using tags. This makes search and discovery a natural part of the contract interaction experience.</span><span> </span><span>We have developed proprietary processes for reverse-engineering smart contracts, and APIs for finding similar contracts and adding information to the system. Users are aided by granular decentralized storage and verification of submissions from other users.&nbsp; We have designed the protocol with our future needs for incentives in mind, building the classes and tools necessary to capture data on submissions to later build in a programmable incentives platform that pays out directly to submitters.</span></p> <p>&nbsp;</p> <p dir="ltr"><span style="text-decoration: underline;"><strong>Challenges and Solutions</strong></span></p> <p dir="ltr"><em>Maintenance of subjective and evolving metadata graph</em></p> <p dir="ltr"><em>&nbsp;</em>User feedback can be gamed and misused by malicious actors.&nbsp; By formalizing and standardizing the collection and submission of information, providing a visual interface to navigate the graph, and providing community-governed tools for discerning information accuracy and quality, our community&rsquo;s understanding will iterate towards a trusted collaboratively developed dataset. By tying rewards to identities in the system and tying identities to submissions, we create a context for rewarding good users and disincentivizing bad ones.</p> <p dir="ltr"><em>Composability coupling and security concerns</em></p> <p dir="ltr"><span>One current challenge is that contract composability is loose in our current state.&nbsp; It was built to prove a concept, deter fraud, and resist hacking, but the current version is still vulnerable to runtime security issues common to all web browsing experiences.&nbsp; Enhancing runtime security assurances is a key goal of our future collaborative efforts and R&amp;D. We note that perfect security will remain an elusive goal, but providing tools that protect our users better than existing alternatives will be a key selling point for our approach.</span></p> <p dir="ltr"><em>Deterministic privacy-preserving ad serving methods</em></p> <p dir="ltr"><span>We researched deterministic privacy-preserving ad serving and impression tracking.&nbsp; We found methods for maintaining a log of impressions using techniques such as probabilistic counting. &nbsp; Our goal of serving ads, maintaining privacy, and collecting impressions in a deterministic way is feasible. Preventing click fraud and Sybil attacks remains a hard unsolved problem, especially when coupled with maintaining privacy for users.&nbsp; Since we found practical issues with feasibility, we chose to focus less on this area, and are watching the state of the art for emerging technologies to evaluate whether or how to continue with this work. We may test some proof-of-concept approaches with limited scope to check on feasibility.</span></p> <p>&nbsp;</p> <p dir="ltr"><span style="text-decoration: underline;"><strong>Conclusion</strong></span></p> <p dir="ltr"><em>Summary of achievements and progress made</em></p> <p dir="ltr"><span>We finalized proof of concept development and testing, and we built and tested a beta application that allows users to submit bulk data into the system and access it via flexible GraphQL APIs. &nbsp; Users will be able to participate in the creation and consumption of the data graph upon the imminent release of our protocol.&nbsp; We built this project with a team of 2022 graduate developers who are now the backbone of our continuing engineering efforts. Our upcoming launch will give us an excellent opportunity to pursue and scale engagement of data submission and user consumption as well as integration with partners.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/30/2023<br>      Modified by: Donald&nbsp;Josey</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Project Overview Description of the V1 ontology and its components (indexed smart contract, website) We proved our proposal's hypothesis: that we can create an experience where users maintain a community-curated data structure that allows for "composability" -- closer cross-compatibility both between distinct smart contract interfaces and also between contracts and their adjacent web services -- enhanced and enabled by an infrastructural data layer. Our interface creates a feedback loop for users, where they learn from each other. Users can access bug reports, code audits, regulatory data, tax classifications, etc., which are organized using tags. This makes search and discovery a natural part of the contract interaction experience. We have developed proprietary processes for reverse-engineering smart contracts, and APIs for finding similar contracts and adding information to the system. Users are aided by granular decentralized storage and verification of submissions from other users.  We have designed the protocol with our future needs for incentives in mind, building the classes and tools necessary to capture data on submissions to later build in a programmable incentives platform that pays out directly to submitters.    Challenges and Solutions Maintenance of subjective and evolving metadata graph  User feedback can be gamed and misused by malicious actors.  By formalizing and standardizing the collection and submission of information, providing a visual interface to navigate the graph, and providing community-governed tools for discerning information accuracy and quality, our community’s understanding will iterate towards a trusted collaboratively developed dataset. By tying rewards to identities in the system and tying identities to submissions, we create a context for rewarding good users and disincentivizing bad ones. Composability coupling and security concerns One current challenge is that contract composability is loose in our current state.  It was built to prove a concept, deter fraud, and resist hacking, but the current version is still vulnerable to runtime security issues common to all web browsing experiences.  Enhancing runtime security assurances is a key goal of our future collaborative efforts and R&amp;D. We note that perfect security will remain an elusive goal, but providing tools that protect our users better than existing alternatives will be a key selling point for our approach. Deterministic privacy-preserving ad serving methods We researched deterministic privacy-preserving ad serving and impression tracking.  We found methods for maintaining a log of impressions using techniques such as probabilistic counting.   Our goal of serving ads, maintaining privacy, and collecting impressions in a deterministic way is feasible. Preventing click fraud and Sybil attacks remains a hard unsolved problem, especially when coupled with maintaining privacy for users.  Since we found practical issues with feasibility, we chose to focus less on this area, and are watching the state of the art for emerging technologies to evaluate whether or how to continue with this work. We may test some proof-of-concept approaches with limited scope to check on feasibility.    Conclusion Summary of achievements and progress made We finalized proof of concept development and testing, and we built and tested a beta application that allows users to submit bulk data into the system and access it via flexible GraphQL APIs.   Users will be able to participate in the creation and consumption of the data graph upon the imminent release of our protocol.  We built this project with a team of 2022 graduate developers who are now the backbone of our continuing engineering efforts. Our upcoming launch will give us an excellent opportunity to pursue and scale engagement of data submission and user consumption as well as integration with partners.               Last Modified: 08/30/2023       Submitted by: Donald Josey]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps Teams: Machine Learning (ML)-powered Data Analyzer for Radio Frequency Integrated Circuits (RFIC) Design]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a software platform for radio frequency integrated circuits (RFIC) design with more accurate simulation prediction.  The RFIC industry, key for wireless systems, is approximately $50 B, and RFIC companies spend about $15 B on the final trial-and-error fabrication process known as "tape-out".   Each tape-out takes 12 weeks and costs ~$1 M, and 3-5 may be required. Significant savings may be realized in both time and cost by reducing design iterations.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of RFICs . RFIC’s parasitic effect and poor simulation accuracy requires multiple tape-outs to meet specifications. In the future 5G era, this problem gets worse as mmWave frequency parasitics are even harder to model and more tape-out rounds will be required. Using the technology under development, it may be possible to improve significantly simulation accuracy by combining traditional physics-based models and customized machine-learning (ML) training in RFIC simulation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2016398</AwardID>
+<Investigator>
+<FirstName>Roman</FirstName>
+<LastName>Lubynsky</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roman Lubynsky</PI_FULL_NAME>
+<EmailAddress><![CDATA[rml@mit.edu]]></EmailAddress>
+<NSF_ID>000648609</NSF_ID>
+<StartDate>01/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394301</ZipCode>
+<StreetAddress><![CDATA[770 Massachusetts Ave.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This I-Corps project explored the commercialization potential of an emerging disruptive technology that could potentially significantly reduce the time and cost of designing and manufacturing Radio frequency integrated circuits (RFICs).&nbsp; RFICs are key components for wireless communication system. RFIC&rsquo;s hard-to-model parasitic effects and poor simulation accuracy require multiple trial-and-error tape-outs (fabrications) to meet product specs. Tape-out is very slow (2 months) and very costly (as high as $2M). In the coming 5G era, this problem gets worse as mmWave frequency parasitic effects are even harder to model, thus more tape-out rounds are needed.</p> <p>Our technology combines physics-based models and customized machine learning (ML) to predict RFIC performance. This prediction method can improve RFIC&rsquo;s prediction accuracy by 97%, which means engineers can reduce the RFIC development time by at least one tape-out round. In order to achieve this improvement, the ML training needs sufficient compatible data across design, simulation and test. Today&rsquo;s RF semiconductor companies have indeed enough RFIC data points, however the existing data system is fragmented and inconsistent, so impractical for ML training. To overcome this problem, we proposed to design an integrated RFIC data system.</p> <p>In this project the team conducted an intensive customer discovery and interview process accomplishing over 130 interviews with potential customers. Significant results included identification of customer segments, discovery of several pivots necessary to target these segments, and identification of a value proposition for these customer segments. In the beginning this journey, we found there seem to be strong need for our solution in the proposed project. However, a major assumption was that we can get access to the customer&rsquo;s key design information and aggregate those data for a better prediction model. After further discovery work, we learned that the semiconductor companies do not want to share their data and we were unable to find a viable value proposition by which that could be accomplished. As a result, we realized that we did not have product-market fit and there was no path forward for the company to identify a viable business model and that it was a No Go.</p> <p>The broader impacts of this technology were expected to bring benefits to many segments of the semiconductor industry beyond just radio frequency integrated circuits. &nbsp;However, there no evidence for product-market fit was identified at this time. The project provided many opportunities for training and professional development. The customer discovery process and methodology has become a standard tool for the team members. The Entrepreneurial Lead has taken an engineering development position with a leading tech firm and continues to employ customer discovery interviews in this role.</p><br> <p>            Last Modified: 11/29/2021<br>      Modified by: Roman&nbsp;Lubynsky</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This I-Corps project explored the commercialization potential of an emerging disruptive technology that could potentially significantly reduce the time and cost of designing and manufacturing Radio frequency integrated circuits (RFICs).  RFICs are key components for wireless communication system. RFIC’s hard-to-model parasitic effects and poor simulation accuracy require multiple trial-and-error tape-outs (fabrications) to meet product specs. Tape-out is very slow (2 months) and very costly (as high as $2M). In the coming 5G era, this problem gets worse as mmWave frequency parasitic effects are even harder to model, thus more tape-out rounds are needed.  Our technology combines physics-based models and customized machine learning (ML) to predict RFIC performance. This prediction method can improve RFIC’s prediction accuracy by 97%, which means engineers can reduce the RFIC development time by at least one tape-out round. In order to achieve this improvement, the ML training needs sufficient compatible data across design, simulation and test. Today’s RF semiconductor companies have indeed enough RFIC data points, however the existing data system is fragmented and inconsistent, so impractical for ML training. To overcome this problem, we proposed to design an integrated RFIC data system.  In this project the team conducted an intensive customer discovery and interview process accomplishing over 130 interviews with potential customers. Significant results included identification of customer segments, discovery of several pivots necessary to target these segments, and identification of a value proposition for these customer segments. In the beginning this journey, we found there seem to be strong need for our solution in the proposed project. However, a major assumption was that we can get access to the customer’s key design information and aggregate those data for a better prediction model. After further discovery work, we learned that the semiconductor companies do not want to share their data and we were unable to find a viable value proposition by which that could be accomplished. As a result, we realized that we did not have product-market fit and there was no path forward for the company to identify a viable business model and that it was a No Go.  The broader impacts of this technology were expected to bring benefits to many segments of the semiconductor industry beyond just radio frequency integrated circuits.  However, there no evidence for product-market fit was identified at this time. The project provided many opportunities for training and professional development. The customer discovery process and methodology has become a standard tool for the team members. The Entrepreneurial Lead has taken an engineering development position with a leading tech firm and continues to employ customer discovery interviews in this role.       Last Modified: 11/29/2021       Submitted by: Roman Lubynsky]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

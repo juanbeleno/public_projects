@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:   Algorithm to Support Teams and Teamwork Through Artificial Intelligence]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact and commercial potential of this I-Corps project is the development of teams of the future using computer science and artificial intelligence. As various work environments within society shift away from the paradigm of individuals working independently and towards a team based model, it is essential to understand how algorithms can be developed to support such teams.  As these algorithms increasingly begin take on more roles—such as decision maker or resource allocator—within human teams, many face a common problem of adoptability by team. The difficulty in integrating various forms of algorithms into teams stems from the lack of understanding of the impact that they have on the complex interpersonal dynamics between team members. As such, it is vital to develop algorithmic solutions that include social rules (e.g. fairness) within their optimization criteria. The proposed Vida algorithm may be among the first set of AI solutions aimed at real time support of teams and teamwork through the inclusion of fair resource allocation. Such an algorithm has a broad range of applications including  sports teams, teaching, and software teams where team leaders need to make decisions about how to allocate their attention or resources.&lt;br/&gt;&lt;br/&gt;This I-Corps project's intellectual merit lies in its ability to support various forms of teams throughout a given task. A large body of research highlights the influence that the allocation of resources has on individuals. Yet, there is still a dearth of algorithms that implement notions of fairness into its allocation decisions. Research has shown that people have the tendency to alter their motivations when unfairness is perceived. The proposed AI-driven Vida algorithm would reinforce research on fairness allocations within human teams.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/29/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034661</AwardID>
+<Investigator>
+<FirstName>Malte</FirstName>
+<LastName>Jung</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Malte F Jung</PI_FULL_NAME>
+<EmailAddress><![CDATA[mfj28@cornell.edu]]></EmailAddress>
+<NSF_ID>000654925</NSF_ID>
+<StartDate>09/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>ITHACA</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148537501</ZipCode>
+<StreetAddress><![CDATA[107 Hoy Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="page" title="Page 11"> <div class="layoutArea"> <div class="column"> <p>This project explored market opportunities for Vida. Vida is an AI-driven solution aimed at supporting multi-person teams through data driven resource allocation and real time analysis of individual performance. The algorithm leverages performance information of team members to rapidly identify high performing individuals while using human notions of fairness to control over how resources can be allocated across team members.&nbsp;Vida was tested in a laboratory study using a collaborative Tetris game but its applicability to real-world problem contexts was underexplored. This project allowed the research team to perform interviews and gain&nbsp;feedback from educators and researchers who applied AI models in online learning to develop opportunities to deploy Vida for use in education contexts. Insights gained from the feedback and interviews were used used to inform the design effective&nbsp;user interface options for Vida.</p> <p>&nbsp;</p> <p>Intellectual Merit:&nbsp;The project contributed to the fields of human-computer interaction, artificial intelligence and computer-supported cooperative work by developing understanding about the technology related needs of teachers and educators.&nbsp;It contributed to human-computer interaction and related fields through the development of new&nbsp;algorithmic techniques to support teams throughout a given task.&nbsp;</p> <p>&nbsp;</p> <p>Broader Impacts:&nbsp;This project achieved broader impacts beyond algorithmic advancements in artificial intelligence. The tools we developed were demonstrated at science fairs and for the general public, in undergraduate courses, and at leading conferences. The grant also provided training for one doctoral student and one master's student.</p> <p>&nbsp;</p> </div> </div> </div> <div class="page" title="Page 11"> <div class="layoutArea"> <div class="column"></div> </div> </div> <p>&nbsp;</p><br> <p>            Last Modified: 07/24/2023<br>      Modified by: Malte&nbsp;F&nbsp;Jung</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[    This project explored market opportunities for Vida. Vida is an AI-driven solution aimed at supporting multi-person teams through data driven resource allocation and real time analysis of individual performance. The algorithm leverages performance information of team members to rapidly identify high performing individuals while using human notions of fairness to control over how resources can be allocated across team members. Vida was tested in a laboratory study using a collaborative Tetris game but its applicability to real-world problem contexts was underexplored. This project allowed the research team to perform interviews and gain feedback from educators and researchers who applied AI models in online learning to develop opportunities to deploy Vida for use in education contexts. Insights gained from the feedback and interviews were used used to inform the design effective user interface options for Vida.     Intellectual Merit: The project contributed to the fields of human-computer interaction, artificial intelligence and computer-supported cooperative work by developing understanding about the technology related needs of teachers and educators. It contributed to human-computer interaction and related fields through the development of new algorithmic techniques to support teams throughout a given task.      Broader Impacts: This project achieved broader impacts beyond algorithmic advancements in artificial intelligence. The tools we developed were demonstrated at science fairs and for the general public, in undergraduate courses, and at leading conferences. The grant also provided training for one doctoral student and one master's student.                     Last Modified: 07/24/2023       Submitted by: Malte F Jung]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

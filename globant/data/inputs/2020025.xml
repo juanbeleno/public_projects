@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Malware Analysis to Generate Important Capabilities]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is to defeat cyber-adversaries.  The proposed technology will use machine learning techniques to automate and discover current unknown malware to provide reliable pre- and post-breach intelligence. The goal for these products is to capable of integration into any existing cybersecurity infrastructure. This technology may be used to gather data from other products to make predictions about the threat landscape.  This project will explore the information needs regarding the specific features embedded in the malware code.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a large malware analysis platform that performs static analysis of files to produce state-of-the-art malware characterizations, including representing malware as graphs. These malware detection and classification models have become extremely accurate, thanks to vast amounts of data generated from malware datasets used in the development. After analyzing thousands of different malware families in many ways, these deep learning models have been trained to produce accurate and generalizable models able to detect incoming threats in large organizations and reduce false positives to help combat alert fatigue. This holistic view allows the user to catch novel and heavily obfuscated threats that evade models trained on traditional indicators.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2020025</AwardID>
+<Investigator>
+<FirstName>Dan</FirstName>
+<LastName>Freeman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dan Freeman</PI_FULL_NAME>
+<EmailAddress><![CDATA[freemand@udel.edu]]></EmailAddress>
+<NSF_ID>000647835</NSF_ID>
+<StartDate>05/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>220 HULLIHEN HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>Newark</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197160099</ZipCode>
+<StreetAddress><![CDATA[210 Hullihen Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div> <p>This I-Corps project set out to identify a commercially viable use case for our large malware analysis platform that performs static analysis of files to produce state-of-the-art malware characterizations including representing malware as graphs; that is faster, more accurate and cheaper than the industry standard.</p> <p>Over the award period we interviewed over 200 cyber security executives and practitioners to validate if faster malware detection with lower false positives is something customers are willing to pay for and obtained a better understanding of where the value of our machine learning technologies stood outside of the lab.&nbsp;</p> <p>The project began during the Covid-19 lockdown. We conducted 130 virtual interviews and evaluated various different industries from the private sector: financials, healthcare to Critical Infrastructure as well as the public sector and various agencies. We spoke with various levels of participants in the enterprise security space, from the Security Analyst who works in the Security Operation Centre and deals with false positive malware alerts to Chief Information Security Officers (CISOs) who are in charge of buying multiple security products and tools annually, as part of managing their companies cyber security defenses.</p> <p>We noted that whilst many analysts did indeed suffer from alert fatigue, often it was due to there being too many complex existing tools to manage, a lack of time to onboard or not enough skilled workforce to help calibrate them to the organization. We spoke with entry level analysts who complained about how stressful the problem can be and that it is generally accepted as part of the job and that burn out was high. However as they are not in purchasing position and often the alerts were false alarms it was generally accepted as part of the job description. Across the board a general consensus was felt that the industry did not necessarily need more flashy products but better integrated tools alongside more time spent on processes, tailoring and processes.</p> <p>When it came to small and medium enterprise protection, we learnt that much of this was outsourced to Managed Security Service Providers (MSSPs) who had the technical talent and resources to manage their security needs. We met with small and medium providers who were interested in offering such products to their customers, however, as much as they wanted to include our tools they also often lacked technical staff to integrate it into their existing stack with ease.</p> <p>As our tool is quite technical and relatively untested, we learnt that it would really be larger organizations who would be interested and concerned with ensuring they had the latest techniques for malware detection. In particular large financials were identified as a customer segment that had both the need and budget to buy additional products. From attending the largest Cyber Security conferences such as Black Hat and RSA we learnt that there are many vendors making similar claims, with fully integrated offerings (which are preferable) and with very large marketing budgets. However, the in person events enabled us to conduct interviews with cyber security vendors who were looking to acquire new technologies to improve their existing offerings and this possibility seemed to make the most sense as they are continuously looking to improve their defenses against growing adversarial threats and malware.&nbsp;</p> <p>In closing, in its current form the technology does not solve a large enough pain as a standalone product but may be of interest to large security vendors looking to maintain their state of the art defenses. To achieve this future work could include an integration with any third party to develop a flexible API that can facilitate integration more easily, boosting commercial appeal and take up. Also, the addition of features to update the model with new samples as supplied by users would be required. It would also be of considerable value to explore other ML model architectures and methods, e.g. transformers or experimental Quantum Machine Learning architectures, for feasibility and suitability for use cases in commercial settings.</p> </div> <p>&nbsp;</p><br> <p>            Last Modified: 03/03/2023<br>      Modified by: Dan&nbsp;Freeman</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  This I-Corps project set out to identify a commercially viable use case for our large malware analysis platform that performs static analysis of files to produce state-of-the-art malware characterizations including representing malware as graphs; that is faster, more accurate and cheaper than the industry standard.  Over the award period we interviewed over 200 cyber security executives and practitioners to validate if faster malware detection with lower false positives is something customers are willing to pay for and obtained a better understanding of where the value of our machine learning technologies stood outside of the lab.   The project began during the Covid-19 lockdown. We conducted 130 virtual interviews and evaluated various different industries from the private sector: financials, healthcare to Critical Infrastructure as well as the public sector and various agencies. We spoke with various levels of participants in the enterprise security space, from the Security Analyst who works in the Security Operation Centre and deals with false positive malware alerts to Chief Information Security Officers (CISOs) who are in charge of buying multiple security products and tools annually, as part of managing their companies cyber security defenses.  We noted that whilst many analysts did indeed suffer from alert fatigue, often it was due to there being too many complex existing tools to manage, a lack of time to onboard or not enough skilled workforce to help calibrate them to the organization. We spoke with entry level analysts who complained about how stressful the problem can be and that it is generally accepted as part of the job and that burn out was high. However as they are not in purchasing position and often the alerts were false alarms it was generally accepted as part of the job description. Across the board a general consensus was felt that the industry did not necessarily need more flashy products but better integrated tools alongside more time spent on processes, tailoring and processes.  When it came to small and medium enterprise protection, we learnt that much of this was outsourced to Managed Security Service Providers (MSSPs) who had the technical talent and resources to manage their security needs. We met with small and medium providers who were interested in offering such products to their customers, however, as much as they wanted to include our tools they also often lacked technical staff to integrate it into their existing stack with ease.  As our tool is quite technical and relatively untested, we learnt that it would really be larger organizations who would be interested and concerned with ensuring they had the latest techniques for malware detection. In particular large financials were identified as a customer segment that had both the need and budget to buy additional products. From attending the largest Cyber Security conferences such as Black Hat and RSA we learnt that there are many vendors making similar claims, with fully integrated offerings (which are preferable) and with very large marketing budgets. However, the in person events enabled us to conduct interviews with cyber security vendors who were looking to acquire new technologies to improve their existing offerings and this possibility seemed to make the most sense as they are continuously looking to improve their defenses against growing adversarial threats and malware.   In closing, in its current form the technology does not solve a large enough pain as a standalone product but may be of interest to large security vendors looking to maintain their state of the art defenses. To achieve this future work could include an integration with any third party to develop a flexible API that can facilitate integration more easily, boosting commercial appeal and take up. Also, the addition of features to update the model with new samples as supplied by users would be required. It would also be of considerable value to explore other ML model architectures and methods, e.g. transformers or experimental Quantum Machine Learning architectures, for feasibility and suitability for use cases in commercial settings.           Last Modified: 03/03/2023       Submitted by: Dan Freeman]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

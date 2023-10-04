@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Distributed Secure Enclave For Modern Enterprise Networks And Critical Information Systems]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to protect critical infrastructure and enterprise information systems against malicious digital adversaries at all levels. Critical information systems, such as those which facilitate essential services or maintain highly sensitive/valuable digital assets, represent significant potential targets for highly sophisticated adversaries. Consequently, vulnerabilities in these systems present grave security threats. The proposed project will develop a new method for securing critical information systems that offers both higher protection and accessibility for less sophisticated users. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to construct and evaluate a prototype implementing core functionality for a Distributed Secure Enclave capable of acting as a decentralized, intrusion-tolerant root of trust for zero-trust security infrastructure. By combining advancements from distributed cryptography and intrusion tolerant distributed systems within a closed/permissioned Distributed Ledger (DL) network, such a platform will have the ability to operate both as a decentralized system of record and cryptographic key escrow service. These capabilities, once proven, could then be extended to provide critical enterprise security services such as secret storage/management, data/document encryption, certificate/key management, identity and access management (IdAM), secure communication services, and many others in a manner that is provably secure—including in the presence of sophisticated adversaries. By constructing and formally evaluating a functional prototype of this technology, this proposed project aims not only to prove the technical efficacy of this particular security solution, but also to demonstrate a novel paradigm for applying DL technologies for practical applications within the enterprise.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/05/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>10/12/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051989</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Charles</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James R Charles</PI_FULL_NAME>
+<EmailAddress><![CDATA[jr@curu.tech]]></EmailAddress>
+<NSF_ID>000833124</NSF_ID>
+<StartDate>08/05/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CURUVAR LLC</Name>
+<CityName>CELEBRATION</CityName>
+<ZipCode>347474979</ZipCode>
+<PhoneNumber>4074840298</PhoneNumber>
+<StreetAddress>663 CELEBRATION AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HEZMLNBH6BN1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CURUVAR LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[CURUVAR LLC]]></Name>
+<CityName>Baltimore</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212112356</ZipCode>
+<StreetAddress><![CDATA[727 W 40th St, Apt 585]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Zenith is a novel platform for protecting critical information systems against nation-state adversaries, privileged malicious insiders, and other forms of Advanced Persistent Threats (APTs) by combining advancements from Blockchain, distributed cryptography, and intrusion tolerant distributed systems. Based on Distributed Ledger (DL) technology, it represents a new, &ldquo;decentralized&rdquo; paradigm for defending digital infrastructure and assets within the Zero Trust security model.</p> <p>The Zero Trust security model is widely considered to be a modern best practice. It was conceived with the goal of defending against potential attackers both inside and outside of the network and is commonly characterized by the principles of least privilege, multi-factor authentication, and microsegmentation. These principles are generally effective towards protecting against many common forms of attacks, but quickly fall apart if the systems enforcing these controls are themselves exploited. In effect, this is a classic dilemma of &ldquo;who watches the watchers?&rdquo; However, for networks that are the targets of sophisticated adversaries, such as nation states, APTs, and/or malicious insiders, these systems often represent single points of potentially catastrophic failures if compromised.</p> <p>This project establishes an essential scientific foundation for&nbsp;<em>Decentralized Zero Trust</em>, a fundamentally new approach to enterprise cybersecurity that is designed to enforce provable and quantifiable security guarantees even if an adversary has infiltrated the security system itself.&nbsp;</p> <p>Zenith&mdash;our seminal application for this model&mdash;is designed to function as an intrusion-tolerant root of trust for the entire network. Its ability to operate both as a decentralized system of record and cryptographic key escrow service allow it act as a provider for critical enterprise security services such as secret storage/management, data/document encryption, certificate/key management, identity and access management (IdAM), secure communication services, and many others in a provably secure manner&mdash;including in the presence of sophisticated adversaries.</p> <p>The key objectives for this Phase I research were twofold: (1) completing the design and development of a functional prototype of the core Zenith system, and (2) performing a systematic study evaluating Zenith's functionality in terms of performance and security relative to existing solutions.</p> <p>Based on our diagnostic and functional testing performed so far, we can proudly report that all of the core, internal protocols implemented by the Phase I prototype are fully operational. We also have in place many of the external services required for client interactions&mdash;such as digital asset storage, cryptographic key/secret storage, basic user authentication and authorization, and utilities for monitoring and auditability&mdash;which have been verified running via virtualized networks in both single-host and cloud environments.</p> <p>To evaluate performance, we designed several benchmarks to compare execution times for select data operations between our Zenith prototype and a &ldquo;null&rdquo; DL application. These were executed within our enterprise cloud test environment and showed that, while there is meaningful overhead, execution times for Zenith&rsquo;s decryption operations scale linearly&mdash;which was in line with our hypothesis.</p> <p>Our security analysis evaluated Zenith&rsquo;s security guarantees both independently and in comparison to other systems with similar goals and/or architectures. The most significant of these other systems was Prime, a Byzantine fault-tolerant replication engine that provides meaningful performance guarantees even while under attack.&nbsp;</p> <p>One of our most substantive findings was that Zenith&rsquo;s ability to run using off-the-shelf, commodity hardware is a major boon to practical applications and long-term sustainability as a software product. Prime, by comparison, requires trusted hardware with non-portable custom programming for key elements of its proactive recovery protocol. These protections were ultimately removed from the publicly available source code for Prime, because maintaining the non-portable code proved unsustainable. Zenith currently solves the same problem using a decentralized nonce protocol, which executes in software via the DL.</p> <p>Though it required significant effort and ingenuity from our entire team, we believe that we were ultimately successful in achieving both of our original key objectives for this Phase I research. While there is still significant work to be done to translate these innovations into a fully realized commercial product, this Phase I project has provided a solid foundation for the advancement of Decentralized Zero Trust in defense of our nation&rsquo;s critical information systems and the industry at large.</p> <p>&nbsp;</p><br> <p>            Last Modified: 03/01/2023<br>      Modified by: James&nbsp;R&nbsp;Charles</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Zenith is a novel platform for protecting critical information systems against nation-state adversaries, privileged malicious insiders, and other forms of Advanced Persistent Threats (APTs) by combining advancements from Blockchain, distributed cryptography, and intrusion tolerant distributed systems. Based on Distributed Ledger (DL) technology, it represents a new, "decentralized" paradigm for defending digital infrastructure and assets within the Zero Trust security model.  The Zero Trust security model is widely considered to be a modern best practice. It was conceived with the goal of defending against potential attackers both inside and outside of the network and is commonly characterized by the principles of least privilege, multi-factor authentication, and microsegmentation. These principles are generally effective towards protecting against many common forms of attacks, but quickly fall apart if the systems enforcing these controls are themselves exploited. In effect, this is a classic dilemma of "who watches the watchers?" However, for networks that are the targets of sophisticated adversaries, such as nation states, APTs, and/or malicious insiders, these systems often represent single points of potentially catastrophic failures if compromised.  This project establishes an essential scientific foundation for Decentralized Zero Trust, a fundamentally new approach to enterprise cybersecurity that is designed to enforce provable and quantifiable security guarantees even if an adversary has infiltrated the security system itself.   Zenith&mdash;our seminal application for this model&mdash;is designed to function as an intrusion-tolerant root of trust for the entire network. Its ability to operate both as a decentralized system of record and cryptographic key escrow service allow it act as a provider for critical enterprise security services such as secret storage/management, data/document encryption, certificate/key management, identity and access management (IdAM), secure communication services, and many others in a provably secure manner&mdash;including in the presence of sophisticated adversaries.  The key objectives for this Phase I research were twofold: (1) completing the design and development of a functional prototype of the core Zenith system, and (2) performing a systematic study evaluating Zenith's functionality in terms of performance and security relative to existing solutions.  Based on our diagnostic and functional testing performed so far, we can proudly report that all of the core, internal protocols implemented by the Phase I prototype are fully operational. We also have in place many of the external services required for client interactions&mdash;such as digital asset storage, cryptographic key/secret storage, basic user authentication and authorization, and utilities for monitoring and auditability&mdash;which have been verified running via virtualized networks in both single-host and cloud environments.  To evaluate performance, we designed several benchmarks to compare execution times for select data operations between our Zenith prototype and a "null" DL application. These were executed within our enterprise cloud test environment and showed that, while there is meaningful overhead, execution times for Zenith’s decryption operations scale linearly&mdash;which was in line with our hypothesis.  Our security analysis evaluated Zenith’s security guarantees both independently and in comparison to other systems with similar goals and/or architectures. The most significant of these other systems was Prime, a Byzantine fault-tolerant replication engine that provides meaningful performance guarantees even while under attack.   One of our most substantive findings was that Zenith’s ability to run using off-the-shelf, commodity hardware is a major boon to practical applications and long-term sustainability as a software product. Prime, by comparison, requires trusted hardware with non-portable custom programming for key elements of its proactive recovery protocol. These protections were ultimately removed from the publicly available source code for Prime, because maintaining the non-portable code proved unsustainable. Zenith currently solves the same problem using a decentralized nonce protocol, which executes in software via the DL.  Though it required significant effort and ingenuity from our entire team, we believe that we were ultimately successful in achieving both of our original key objectives for this Phase I research. While there is still significant work to be done to translate these innovations into a fully realized commercial product, this Phase I project has provided a solid foundation for the advancement of Decentralized Zero Trust in defense of our nation’s critical information systems and the industry at large.          Last Modified: 03/01/2023       Submitted by: James R Charles]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

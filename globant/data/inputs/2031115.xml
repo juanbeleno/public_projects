@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Coordination and Summarization of Studies of Cyberspace during COVID-19 Pandemic]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>79292.00</AwardTotalIntnAmount>
+<AwardAmount>89292</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+<PO_EMAI>dmedhi@nsf.gov</PO_EMAI>
+<PO_PHON>7032922935</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This proposal describes a task as part of the NSF's rapid response to the COVID-19 pandemic, and in particular, their response to the question of how the cyberinfrastructure is dealing with traffic surges, and changing and expanding patterns of use. The proposed work seeks to integrate the output of a set of diverse, individually funded Internet and network measurement efforts into a single comprehensive report that describes how the Internet responded to the COVID-19 pandemic. This project will facilitate sharing of tools and other measurement know-how, set up one or more workshops to share methodologies and interim results, and develop a report that integrates output of the different measurement efforts, in coordination with the measurement PIs.&lt;br/&gt;&lt;br/&gt;While the technical knowledge on the state of the Internet will be gathered by the individual projects, the technical merit of this complementary effort arises in the coordination and facilitation, which will benefit the individual projects, as well as in generating a comprehensive report. Furthermore, this work will contribute towards efficiency and better outcomes by cross-fertilizing ideas among them. This effort coordinates results from technical assessment done by individual network measurement projects and, as a result, will present a comprehensive understanding of the state of the Internet performance during the COVID-19 pandemic. Such a comprehensive report will give policy makers, consumer advocacy groups, and ordinary citizens the best view of how the components of cyberspace have functioned and evolved during this time to meet their needs, and for future planning. The results from this effort will be made available at http://living-online.csail.mit.edu.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031115</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Clark</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David D Clark</PI_FULL_NAME>
+<EmailAddress><![CDATA[ddc@csail.mit.edu]]></EmailAddress>
+<NSF_ID>000400143</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394307</ZipCode>
+<StreetAddress><![CDATA[77 Massachusetts Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7363</Code>
+<Text>RES IN NETWORKING TECH &amp; SYS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~89292</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Bodytext10">When the COVID-19 pandemic emerged, the NSF funded several RAPID studies focused on learning about aspects of the pandemic. Among these, it made several awards whose goals were to measure essential aspects of the Internet?s performance: effects stemming directly from COVID-related changes in usage patterns and/or volume - as well as any longer-term shifts in usage.</p> <p class="Bodytext10">As a complement to these awards, NSF funded MIT to review these studies in concert with one another, then to prepare an overview and synthesis of the results - underscoring lessons learned, and drawing attention to insights about key strategic questions in Internet measurement.</p> <p class="Bodytext10">The resulting report is available at https://groups.csail.mit.edu/ana/RAPID-Covid-final-report.pdf.</p> <p class="Bodytext10">The first part of our report summarizes the important findings from across the various projects, as well as from other projects with similar objectives, followed by some generalizations about the challenges and benefits of this work. The second part provides the project summaries, as well as final outcomes where available, and citations to published material.</p> <p class="Bodytext10">In preparing this report, we have drawn both on the published papers from the various projects and structured interviews with the principal investigators from each project.</p> <p class="Bodytext10">When the pandemic first hit, there were fears in certain circles that the sudden increase in load on the Internet might cause it to collapse in some way. Engineers familiar with the inner workings of the network were more sanguine, for several reasons. First, the Internet is not a single monolithic system with crucial, common failure modes. Second, the transport protocol of the Internet, Transmission Control Protocol (TCP), was designed from the start to deal with congested (overloaded) links by slowing its transmission rate. &nbsp;</p> <p class="Bodytext10">In general, the Internet worked well during the stressful first part of the pandemic. Loads on the Internet increased between 20% and 30%, but in general there was the capacity to carry this traffic. Engineers at ISPs put in a great deal of effort to add capacity and otherwise support the increasing demand, but there were no widespread failures. Perhaps more interesting is what the data shows about the change in behavior of users as there was a sudden swing to work from home.</p> <p>Before the COVID-19 pandemic precipitated the declaration of a State of Emergency in the United States, on March 13, 2020, only 5% of US employees worked from home. (See the final report for supporting sources.) &nbsp;The Work-From-Home (WFH) picture changed rapidly after that. Employment levels fell: by approximately 8% among those for whom WFH was feasible, and approximately 21% among those for whom it was not.</p> <p>Of course, some areas of the Internet did not deal too well with COVID-induced, sudden increases in traffic. In such cases, the likely consequence of overload would be a degradation in the quality of user experience (QoE), which is affected by congestion and a slower data transfer rate. The extent to which QoE might deteriorate would depend on both the specific application in use, and the specific way(s) in which that application typically responds to congestion. Deterioration in QoE is difficult to measure - particularly by third-party researchers engaged in conducting infrastructure-level measurement.</p> <p>The NSF-funded projects faced common challenges. Recognition of these challenges is important, as the research community considers how best to be a useful contributor to knowledge about the Internet, and to play a role in a time of crisis such as this.</p> <p class="Bodytext10">In order to understand how the performance of the Internet changed when the pandemic struck, or to understand how behavior changed when it spread, it is necessary to have some baseline of what the pre-pandemic conditions were. Since the RAPID awards were made after the pandemic started, any pre-pandemic data would have had to have been collected as part of some previous research undertaking. Some projects benefitted from their long-running data collection activities. As several other PIs pointed out, they had to scramble to come up with any past data to which they could compare Covid-era network performance.</p> <p>In many of our interviews, the researchers stressed that this crisis had further brought into focus the critical role of long-term longitudinal data collection as a part of network research. Perhaps in the early days of the Internet, it was unclear that collecting longitudinal data would be important, but at this point - per all the PI's in the COVID-RAPID cohort - it has become essential.</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/31/2023<br>      Modified by: David&nbsp;D&nbsp;Clark</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[When the COVID-19 pandemic emerged, the NSF funded several RAPID studies focused on learning about aspects of the pandemic. Among these, it made several awards whose goals were to measure essential aspects of the Internet?s performance: effects stemming directly from COVID-related changes in usage patterns and/or volume - as well as any longer-term shifts in usage. As a complement to these awards, NSF funded MIT to review these studies in concert with one another, then to prepare an overview and synthesis of the results - underscoring lessons learned, and drawing attention to insights about key strategic questions in Internet measurement. The resulting report is available at https://groups.csail.mit.edu/ana/RAPID-Covid-final-report.pdf. The first part of our report summarizes the important findings from across the various projects, as well as from other projects with similar objectives, followed by some generalizations about the challenges and benefits of this work. The second part provides the project summaries, as well as final outcomes where available, and citations to published material. In preparing this report, we have drawn both on the published papers from the various projects and structured interviews with the principal investigators from each project. When the pandemic first hit, there were fears in certain circles that the sudden increase in load on the Internet might cause it to collapse in some way. Engineers familiar with the inner workings of the network were more sanguine, for several reasons. First, the Internet is not a single monolithic system with crucial, common failure modes. Second, the transport protocol of the Internet, Transmission Control Protocol (TCP), was designed from the start to deal with congested (overloaded) links by slowing its transmission rate.   In general, the Internet worked well during the stressful first part of the pandemic. Loads on the Internet increased between 20% and 30%, but in general there was the capacity to carry this traffic. Engineers at ISPs put in a great deal of effort to add capacity and otherwise support the increasing demand, but there were no widespread failures. Perhaps more interesting is what the data shows about the change in behavior of users as there was a sudden swing to work from home.  Before the COVID-19 pandemic precipitated the declaration of a State of Emergency in the United States, on March 13, 2020, only 5% of US employees worked from home. (See the final report for supporting sources.)  The Work-From-Home (WFH) picture changed rapidly after that. Employment levels fell: by approximately 8% among those for whom WFH was feasible, and approximately 21% among those for whom it was not.  Of course, some areas of the Internet did not deal too well with COVID-induced, sudden increases in traffic. In such cases, the likely consequence of overload would be a degradation in the quality of user experience (QoE), which is affected by congestion and a slower data transfer rate. The extent to which QoE might deteriorate would depend on both the specific application in use, and the specific way(s) in which that application typically responds to congestion. Deterioration in QoE is difficult to measure - particularly by third-party researchers engaged in conducting infrastructure-level measurement.  The NSF-funded projects faced common challenges. Recognition of these challenges is important, as the research community considers how best to be a useful contributor to knowledge about the Internet, and to play a role in a time of crisis such as this. In order to understand how the performance of the Internet changed when the pandemic struck, or to understand how behavior changed when it spread, it is necessary to have some baseline of what the pre-pandemic conditions were. Since the RAPID awards were made after the pandemic started, any pre-pandemic data would have had to have been collected as part of some previous research undertaking. Some projects benefitted from their long-running data collection activities. As several other PIs pointed out, they had to scramble to come up with any past data to which they could compare Covid-era network performance.  In many of our interviews, the researchers stressed that this crisis had further brought into focus the critical role of long-term longitudinal data collection as a part of network research. Perhaps in the early days of the Internet, it was unclear that collecting longitudinal data would be important, but at this point - per all the PI's in the COVID-RAPID cohort - it has become essential.          Last Modified: 01/31/2023       Submitted by: David D Clark]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[AGS-PRF: Understanding Tropical High Cloud Feedbacks via Machine Learning and Super Parameterization]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>190000.00</AwardTotalIntnAmount>
+<AwardAmount>173250</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship Award</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020106</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric DeWeaver</SignBlockName>
+<PO_EMAI>edeweave@nsf.gov</PO_EMAI>
+<PO_PHON>7032928527</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Convective rainfall often takes the form of deep cumulus clouds, which appear as bright red spots on a radar image, embedded in a larger region of weaker rainfall colored orange or yellow.  These broad areas of weaker rainfall typically contain high, relatively flat clouds similar to the "anvils" seen above isolated thunderstorms.  The high stratiform clouds are a consequence of the convective cells, just as the anvil forms only after a thunderstorm is fully developed.  But the presence of a broad region of upper-level stratus can affect the subsequent development of convective clouds, or in other words it can promote large-scale convective aggregation and organization.  Upper-level clouds encourage new cloud formation by blocking outgoing infrared radiation, heating the column below and promoting rising motions.  The effect is thought to be important over tropical oceans where the frontal weather systems that organize convection in higher latitudes are largely absent.  But understanding of this infrared cloud-radiation feedback and its effects on tropical weather and climate is currently quite limited.&lt;br/&gt;&lt;br/&gt;Work under this award addresses the role of cloud-radiation feedback in the development of the Madden-Julian Oscillation (MJO), in which a large region of convection organizes over the tropical Indian Ocean and propagates slowly eastward for a period of 30 to 60 days.  Cloud-radiation feedback has been invoked as a cause of convective organization in the MJO and as a key factor in determining its propagation speed.  A second issue addressed in the proposal is the possible role of convective organization in determining the Earth's climate sensitivity, meaning the amount of global warming or cooling that results from a given increase or decrease in greenhouse gas concentrations.&lt;br/&gt;&lt;br/&gt;The research is conducted through a combination of observational analysis and numerical simulations.  The observational analysis uses artificial neural networks (ANNs) applied to satellite and weather balloon data to determine how stratus cloud development relates to ambient temperature, moisture, and stability in the cloud layer.  The relationships identified by the ANN are interpreted using layer-wise relevance propagation (LRP), a technique that identifies the inputs which matter the most for generating an ANN result.  The value of machine learning tools like ANN for basic science is often questioned because of their "black box" nature: while machine learning methods can have uncanny predictive power, their results do not come with any explanation for why a particular set of inputs produces a given result.  LRP is thus a means to open the black box and gain physical insight and understanding from the empirical relationships identified through the ANN machinery.&lt;br/&gt;&lt;br/&gt;The work has societal relevance due to the worldwide effects of the MJO, which influences weather and climate phenomena including tropical cyclones (particularly in the Gulf of Mexico), the amount and timing of monsoon rainfall, and the onset of El Nino events.  MJO events are predictable in principle given their slow propagation, but prediction skill is limited in current weather and climate models. The possible influence of convective organization on climate sensitivity is also of societal interest given the rapid rise of greenhouse gas concentrations. The project also contributes to workforce development by providing support to an early-career scientist.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/17/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.050</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2020305</AwardID>
+<Investigator>
+<FirstName>Zane</FirstName>
+<LastName>Martin</LastName>
+<PI_MID_INIT>K</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zane K Martin</PI_FULL_NAME>
+<EmailAddress/>
+<NSF_ID>000820900</NSF_ID>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Martin, Zane Karas</Name>
+<CityName>New York</CityName>
+<ZipCode>10027</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY13</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM/>
+<ORG_LGL_BUS_NAME/>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName/>
+<StateCode>CO</StateCode>
+<ZipCode>805231371</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5740</Code>
+<Text>Climate &amp; Large-Scale Dynamics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7137</Code>
+<Text>Postdoctoral Fellowships</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5740</Code>
+<Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~173249</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This post-doctoral fellowship, conducted over a 21-month period at Colorado State University, focused on understanding how machine learning tools could be used to understand and predict aspects of the tropical atmosphere. In particular, the project focused on an important tropical climate process called the Madden-Julian Oscillation (MJO). The MJO is an important source of predictability in the climate system for weather forecasts of a few weeks to a few months. This project funded research that used machine learning tools like artificial neural networks to predict the MJO, and compare the performance of machine learning predictions to more classical statistical tools as well as operational weather model forecasts.&nbsp;</p> <p>&nbsp;</p> <p>The project showed that machine learning was a viable method for MJO prediction, comparable to or slightly better than existing statistical methods, though not competitive with the best dynamical weather models. The project also supported publications which used machine learning tools in the field of explainable and interpretable AI, which seek to better understand how machine learning methods make their decisions. These works used the MJO as a use-case to present particular explainable and interpretable methods to the Earth science community and demonstrate or discuss their possible utility and application.</p> <p>&nbsp;</p> <p>The project also supported broader impacts, through allowing the PI to continue to develop a research program after receipt of his PhD and receive training, networking, and support from mentors in the academic community. During the fellowship, the PI also served as a mentor to an undergraduate researcher as part of a ?Research Experience for Undergraduates? at Colorado State, focusing on using machine learning. This provided a motivated undergraduate with hands-on research experience and training.</p> <p>&nbsp;</p> <p>The results were disseminated through numerous conference proceedings, posters, talks, and university seminars. Several publications, including an open-access publication, were submitted and published as well.&nbsp;</p> <p>&nbsp;</p> <p>Upon termination of the post-doctoral fellowship, the PI took a position outside of academia working in climate risk for a private sector organization.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 06/28/2022<br>      Modified by: Zane&nbsp;K&nbsp;Martin</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This post-doctoral fellowship, conducted over a 21-month period at Colorado State University, focused on understanding how machine learning tools could be used to understand and predict aspects of the tropical atmosphere. In particular, the project focused on an important tropical climate process called the Madden-Julian Oscillation (MJO). The MJO is an important source of predictability in the climate system for weather forecasts of a few weeks to a few months. This project funded research that used machine learning tools like artificial neural networks to predict the MJO, and compare the performance of machine learning predictions to more classical statistical tools as well as operational weather model forecasts.      The project showed that machine learning was a viable method for MJO prediction, comparable to or slightly better than existing statistical methods, though not competitive with the best dynamical weather models. The project also supported publications which used machine learning tools in the field of explainable and interpretable AI, which seek to better understand how machine learning methods make their decisions. These works used the MJO as a use-case to present particular explainable and interpretable methods to the Earth science community and demonstrate or discuss their possible utility and application.     The project also supported broader impacts, through allowing the PI to continue to develop a research program after receipt of his PhD and receive training, networking, and support from mentors in the academic community. During the fellowship, the PI also served as a mentor to an undergraduate researcher as part of a ?Research Experience for Undergraduates? at Colorado State, focusing on using machine learning. This provided a motivated undergraduate with hands-on research experience and training.     The results were disseminated through numerous conference proceedings, posters, talks, and university seminars. Several publications, including an open-access publication, were submitted and published as well.      Upon termination of the post-doctoral fellowship, the PI took a position outside of academia working in climate risk for a private sector organization.           Last Modified: 06/28/2022       Submitted by: Zane K Martin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

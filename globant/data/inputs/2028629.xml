@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Real-time modeling of the source-sink dynamics of SARS-CoV-2 in rural regions for equitable public health]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>199857.00</AwardTotalIntnAmount>
+<AwardAmount>199857</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samuel Scheiner</SignBlockName>
+<PO_EMAI>sscheine@nsf.gov</PO_EMAI>
+<PO_PHON>7032927175</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[SARS-CoV-2, the virus that causes COVID-19, has become a global epidemic, spreading rapidly through communities across our country and around the globe. Accurate forecasting of disease spread is a critical tool for effectively planning outbreak responses, allowing us to predict how many people will be infected, how many patients will be in hospitals at any given time, and the resource needs (e.g. ventilators) at each hospital. Most modeling studies of SARS-CoV-2 have so far focused on predicting how the virus will spread in densely populated cities like New York City, but the virus is also rapidly spreading in more sparsely populated, rural regions.  To accurately model outbreak dynamics in more rural areas, more realistic mathematical models are needed that can represent mid-sized population centers separated by large areas of low population density. This project will develop and refine these more advanced mathematical models to understand how population density and interconnectedness influence the trajectory of epidemic outbreaks. Importantly, the project will deploy model projections in near-real-time to aid in local public health interventions, via a secure web portal accessible to local and regional response planners. Model output will also be linked to the resources available at specific local and regional hospitals in a broad rural area, so that these hospitals can better manage the impacts of the SARS-CoV-2 epidemic. The modeling system and web application will serve as a framework for rapidly responding to future outbreaks. &lt;br/&gt;&lt;br/&gt;Most epidemiological models that have been developed to forecast the spread of SARS-CoV-2 make assumptions that are likely only realistic in dense urban centers, such as frequency-dependent transmission dynamics, a lack of stochastic processes, and a lack of density-dependent effects. In this project, models will be developed that are more appropriate for sparse metapopulations, accounting for multiple sources of stochasticity, population movement across a landscape, density-dependent transmission, and spatial heterogeneity in transmission rates. The project will use advanced statistical computing algorithms to fit the models to data from a large rural region. This fitting routine will identify the most appropriate transmission functions that describe longitudinal patterns of case-counts and will allow the project to release data-informed predictions of SARS-CoV-2 spread in near-real-time. These model forecasts will be developed in collaboration with public health experts and healthcare practitioners to respond to the needs of under-served, rural communities. The secure web application will provide predictions of hospitalization rates at fine spatial grains so that already strained, rural hospital systems can adapt and plan under different intervention scenarios.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028629</AwardID>
+<Investigator>
+<FirstName>Eckehard</FirstName>
+<LastName>Doerry</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Eckehard Doerry</PI_FULL_NAME>
+<EmailAddress><![CDATA[Eck.Doerry@nau.edu]]></EmailAddress>
+<NSF_ID>000422377</NSF_ID>
+<StartDate>04/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Crystal</FirstName>
+<LastName>Hepp</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Crystal M Hepp</PI_FULL_NAME>
+<EmailAddress><![CDATA[crystal.hepp@nau.edu]]></EmailAddress>
+<NSF_ID>000605024</NSF_ID>
+<StartDate>04/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Mihaljevic</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Joseph R Mihaljevic</PI_FULL_NAME>
+<EmailAddress><![CDATA[Joseph.Mihaljevic@nau.edu]]></EmailAddress>
+<NSF_ID>000753745</NSF_ID>
+<StartDate>04/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northern Arizona University</Name>
+<CityName>Flagstaff</CityName>
+<ZipCode>86011</ZipCode>
+<PhoneNumber>9285230886</PhoneNumber>
+<StreetAddress>601 S KNOLES DR</StreetAddress>
+<StreetAddress2><![CDATA[ROOM 220]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MXHAS3AKPRN1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHERN ARIZONA UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northern Arizona University]]></Name>
+<CityName>Flagstaff</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>860110001</ZipCode>
+<StreetAddress><![CDATA[ARD Building #56, Suite 240]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199857</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The use of epidemiological models has a long history in responses to infectious disease outbreaks, but forecasts from these models are typically made at larger spatial scales, such as entire states, which often ignore variation in population structure and behavior at smaller spatial scales can influence disease dynamics.&nbsp; Model forecasts of disease made at large spatial scales usually have limited utility in informing public health interventions at the neighborhood, community, or county level relevant in an actual pandemic, as vividly demonstrated during the recent SARS-COV-2 pandemic. &nbsp;Our approach uses spatial disease modeling to capture important, fine-scale heterogeneities in populations across space that affect how diseases spread, so that we can make more reliable, smaller-scale forecasts of disease.</p> <p>During the first two years of the SARS-CoV-2 pandemic, our team developed software tools and modeling methods to put spatial epidemiological modeling technologies in the hands of state and county officials in Arizona. Our developments are general enough to be applied to many epidemiological contexts, such that the results of our project should better prepare our nation for future pandemic threats.</p> <p>We first developed an advanced epidemiological model to make forecasts of COVID-19 hospitalizations at the scale of individual counties within Arizona. To improve predictions, our model was built to reflect heterogeneities in sub-populations <em>within each county</em>, such as accounting for rural versus urban population structures. To disseminate our modeling techniques, we created an open-source software package, SPARSEMODr, which allows users to create custom simulations of our COVID-19 model. Our package allows users to better understand how non-pharmaceutical public health interventions can influence transmission of SARS-CoV-2 throughout an epidemic. SPARSEMODr also allows users to create their own spatial arrangement of populations and simulate cases in which transmission rates vary spatially, due to, for instance, variations in human behavior or mobility, or in response to hypothetical public health interventions (lockdowns, masking, etc.). We created several vignettes that demonstrate how to use our software package in a variety of contexts; SPARSEMODr should be useful for educating the next generation of modelers on important disease dynamics that shaped the early COVID-19 pandemic.</p> <p>Our team worked closely with state and county officials to generate and disseminate custom modeling reports during the first two years of the pandemic. Specifically, we created a cyberinfrastructure and automated report-generation pipeline to (a) process and ingest state-level disease surveillance data (updated daily) for all Arizona counties; (b) model disease propagation dynamics for each of the 15 Arizona counties to create customized 30-day projections; and (c) generate customized, easy-to-read, standardized reports for local county health officials, including summary visualizations of past-present-predicted disease progress under best-average-worst case scenarios and ?expert digests? to highlight relevant features in the data.&nbsp;&nbsp;</p> <p>Our team created a secure web portal to provide controlled, authenticated access to designated state and county public health officials. Our cyberinfrastructure and automated report-generation pipeline provides a model for efficient, automated communication of the results of sophisticated epidemiological modeling to diverse stakeholders and how to actively engage with local public health experts.</p> <p>Our team also made technical advances in the statistical fitting of these complex, spatial models to geo-referenced data. To make accurate forecasts of disease spread, spatial models need to have maximally accurate estimates of disease transmission rates within individual local populations, which can vary over time due to changes in population behavior or public health interventions that are implemented to slow the spread of pathogens. Transmission rates can be estimated computationally based on evolving disease surveillance data, but this is both complicated and arduous to do for many distinct local (sub)populations.&nbsp; We developed a novel and efficient statistical algorithm to estimate time-varying transmission rates applicable to any modeling effort that represents spatial heterogeneity across geographic space, i.e., useful for any spatial modeling effort. Briefly, our method estimates time-varying transmission rates across space using time slices of county-level data on new hospitalizations observed per day. To address the enormous computational complexity involved, we developed implementation methods that leverage a high-performance computing environment to run thousands of grid searches concurrently to scour a large parameter space. We used simulated data to verify that our method performs very well in hypothetical urban, sub-urban, and rural type counties. This model-fitting routine could easily be generalized to many epidemiological modeling frameworks (i.e., not just for SARS-CoV-2), offering a flexible and efficient method to estimate time-varying parameters from geo-referenced data sets.</p> <p>During our project, we also provided training and professional development opportunities for an undergraduate student in computer science, a professional systems programmer, a Master?s student in informatics, and a postdoctoral researcher.</p><br> <p>            Last Modified: 08/23/2022<br>      Modified by: Joseph&nbsp;R&nbsp;Mihaljevic</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The use of epidemiological models has a long history in responses to infectious disease outbreaks, but forecasts from these models are typically made at larger spatial scales, such as entire states, which often ignore variation in population structure and behavior at smaller spatial scales can influence disease dynamics.  Model forecasts of disease made at large spatial scales usually have limited utility in informing public health interventions at the neighborhood, community, or county level relevant in an actual pandemic, as vividly demonstrated during the recent SARS-COV-2 pandemic.  Our approach uses spatial disease modeling to capture important, fine-scale heterogeneities in populations across space that affect how diseases spread, so that we can make more reliable, smaller-scale forecasts of disease.  During the first two years of the SARS-CoV-2 pandemic, our team developed software tools and modeling methods to put spatial epidemiological modeling technologies in the hands of state and county officials in Arizona. Our developments are general enough to be applied to many epidemiological contexts, such that the results of our project should better prepare our nation for future pandemic threats.  We first developed an advanced epidemiological model to make forecasts of COVID-19 hospitalizations at the scale of individual counties within Arizona. To improve predictions, our model was built to reflect heterogeneities in sub-populations within each county, such as accounting for rural versus urban population structures. To disseminate our modeling techniques, we created an open-source software package, SPARSEMODr, which allows users to create custom simulations of our COVID-19 model. Our package allows users to better understand how non-pharmaceutical public health interventions can influence transmission of SARS-CoV-2 throughout an epidemic. SPARSEMODr also allows users to create their own spatial arrangement of populations and simulate cases in which transmission rates vary spatially, due to, for instance, variations in human behavior or mobility, or in response to hypothetical public health interventions (lockdowns, masking, etc.). We created several vignettes that demonstrate how to use our software package in a variety of contexts; SPARSEMODr should be useful for educating the next generation of modelers on important disease dynamics that shaped the early COVID-19 pandemic.  Our team worked closely with state and county officials to generate and disseminate custom modeling reports during the first two years of the pandemic. Specifically, we created a cyberinfrastructure and automated report-generation pipeline to (a) process and ingest state-level disease surveillance data (updated daily) for all Arizona counties; (b) model disease propagation dynamics for each of the 15 Arizona counties to create customized 30-day projections; and (c) generate customized, easy-to-read, standardized reports for local county health officials, including summary visualizations of past-present-predicted disease progress under best-average-worst case scenarios and ?expert digests? to highlight relevant features in the data.    Our team created a secure web portal to provide controlled, authenticated access to designated state and county public health officials. Our cyberinfrastructure and automated report-generation pipeline provides a model for efficient, automated communication of the results of sophisticated epidemiological modeling to diverse stakeholders and how to actively engage with local public health experts.  Our team also made technical advances in the statistical fitting of these complex, spatial models to geo-referenced data. To make accurate forecasts of disease spread, spatial models need to have maximally accurate estimates of disease transmission rates within individual local populations, which can vary over time due to changes in population behavior or public health interventions that are implemented to slow the spread of pathogens. Transmission rates can be estimated computationally based on evolving disease surveillance data, but this is both complicated and arduous to do for many distinct local (sub)populations.  We developed a novel and efficient statistical algorithm to estimate time-varying transmission rates applicable to any modeling effort that represents spatial heterogeneity across geographic space, i.e., useful for any spatial modeling effort. Briefly, our method estimates time-varying transmission rates across space using time slices of county-level data on new hospitalizations observed per day. To address the enormous computational complexity involved, we developed implementation methods that leverage a high-performance computing environment to run thousands of grid searches concurrently to scour a large parameter space. We used simulated data to verify that our method performs very well in hypothetical urban, sub-urban, and rural type counties. This model-fitting routine could easily be generalized to many epidemiological modeling frameworks (i.e., not just for SARS-CoV-2), offering a flexible and efficient method to estimate time-varying parameters from geo-referenced data sets.  During our project, we also provided training and professional development opportunities for an undergraduate student in computer science, a professional systems programmer, a Master?s student in informatics, and a postdoctoral researcher.       Last Modified: 08/23/2022       Submitted by: Joseph R Mihaljevic]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Machine Learning for Early Detection of COVID-19 Plaques in Cells]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255571.00</AwardTotalIntnAmount>
+<AwardAmount>255571</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Pierstorff</SignBlockName>
+<PO_EMAI>epiersto@nsf.gov</PO_EMAI>
+<PO_PHON>7032922165</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to accelerate the development of vaccines and anti-virals with artificial intelligence (AI) techniques. This project will develop technology to detect changes in virus-infected cells days or weeks before they can be detected manually. This will accelerate studies for novel anti-viral compounds characterizing their effectiveness on rapidly mutating viral strains, such as influenza and SARS-CoV-2. This will impact COVID-19 research and general virology.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project will investigate AI techniques to accelerate testing of anti-viral agents in plaque assays for the development of vaccines and anti-virals. These assays measure the number of infectious viral particles in a sample by observing the effects of infection on a culture of susceptible cells.  Currently, the assay takes 2-14 days because several rounds of infection are necessary to ensure an accurate reading. This project will advance AI techniques to automatically detect infected cells in microscopy images without human intervention or time-consuming preparations, thereby increasing the throughput for these assays. To achieve this goal, this project will: 1) Collect a time-course of microscopy images of infected cell cultures for training an AI model to measure virus infections automatically on large cell culture plates; 2) Investigate microscopy image acquisition approaches with respect to ease of integration in existing workflows and image quality; 3) Evaluate the suitability of various AI techniques; 4) Determine the detection accuracy and compare it with traditional assays.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029707</AwardID>
+<Investigator>
+<FirstName>Ilya</FirstName>
+<LastName>Goldberg</LastName>
+<PI_MID_INIT>G</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ilya G Goldberg</PI_FULL_NAME>
+<EmailAddress><![CDATA[ilya@viqi.org]]></EmailAddress>
+<NSF_ID>000824801</NSF_ID>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ViQi LLC</Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931112389</ZipCode>
+<PhoneNumber>8056996081</PhoneNumber>
+<StreetAddress>5385 HOLLISTER AVE BLDG 6 OFC 8</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Q9SJLEHFN2W7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIQI, INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>YBB5QRBJ1CL3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[ViQi Inc.]]></Name>
+<CityName>Santa Barbara</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>931112389</ZipCode>
+<StreetAddress><![CDATA[5385 Hollister Ave Suite 6-8]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1718</Code>
+<Text>BIOINFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~255571</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 10.5pt; font-family: Arial; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The goal in Phase I of this SBIR grant to ViQi, Inc. was to develop an AI (artificial intelligence; machine learning) model that could distinguish images of virus-infected cells from uninfected cells using brightfield microscopy techniques that do not require special stains or specific molecular probes. Training AIs to find initial infection events in brightfield imaged cells enables the creation of a fully automatable virus infection assay with same-day turnaround.</span></p> <p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr">&nbsp;</p> <p style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" dir="ltr"><span style="font-size: 10.5pt; font-family: Arial; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Typically, early infection events are not visible to human observers. Membrane-bound structures associated with viral infection can be seen by electron microscopy and are of sufficient size to be detectable by light microscopy, but have not been observed. In contrast, AIs have been trained to observe many phenotypic effects in cells using brightfield microscopy that are invisible to human observers. In Phase I of this grant, we </span><span style="font-size: 10.5pt; font-family: Arial; color: #000000; background-color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">demonstrated that AIs can be trained to detect virus infections as early as 4 hours after infection using 2 different viruses in different labs and with different microscopes. </span><span style="font-size: 10.5pt; font-family: Arial; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Traditional infection assays require days for the cells to go through multiple rounds of infection so that the cell death resulting from infection could be easily detected, manually by humans or using viability detection assays. Alternative methods rely on fluorescently labeled antibodies to viral proteins, which require many processing steps and expensive reagents as well as substantial development costs, or the development of viruses carrying genes for fluorescent proteins, which require developing genetically modified viruses that can have different viability or infectivity than unmodified viruses.</span></p> <p>&nbsp;</p> <p><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">As part of the activities funded by this grant, ViQi has produced the first evidence that early stages of viral infection in individual cells are detectable with brightfield microscopy at moderate resolution (e.g., a 20x objective). The practical consequence of this discovery is that long incubation times for multiple rounds of infection, sample processing for fluorescence microscopy or development of transgenic viral strains that carry fluorescent reporters are not necessary for rapid routine infectivity assays. We have demonstrated that automated image processing using trained ML/AI models together with the use of automated microplate imagers allows for large-scale automation and reduces the turn-around time for infectivity assays from days to hours.&nbsp;</span></p> <p>&nbsp;</p> <p><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Virus infectivity assays are important to assess the effectiveness of various ways of inactivating viruses. Measuring virus inactivation relies on measuring the infectivity of a viral stock before and after treatment with inactivating antibodies from vaccine candidates, antiviral drugs, biocides, or clearance in biopharmaceutical manufacturing processes. All of these assays depend on measuring the effect on infectivity, which cannot be done directly using techniques like qPCR. </span><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><span id="docs-internal-guid-3f44bd8f-7fff-d9f8-a95f-1464405a3744" style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The technology developed as a result of this grant</span> has allowed this critical assay methodology to be modernized so that the quantity and throughput of these assays can be increased 100-fold or more. This will result in testing more drugs, more vaccine candidates, testing the effectiveness of existing vaccines on more emerging variants, rapid screening through gene therapy vectors, etc.</span></p> <p>&nbsp;</p> <p><span style="font-size: 11.5pt; font-family: Arial; color: #000000; background-color: #ffffff; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">There is a high level of interest as observed through many interviews ViQi conducted with field scientists, and there was a strong indication that this assay will address a real need in the virology community.&nbsp;</span></p><br> <p>            Last Modified: 09/09/2021<br>      Modified by: Ilya&nbsp;G&nbsp;Goldberg</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[The goal in Phase I of this SBIR grant to ViQi, Inc. was to develop an AI (artificial intelligence; machine learning) model that could distinguish images of virus-infected cells from uninfected cells using brightfield microscopy techniques that do not require special stains or specific molecular probes. Training AIs to find initial infection events in brightfield imaged cells enables the creation of a fully automatable virus infection assay with same-day turnaround.   Typically, early infection events are not visible to human observers. Membrane-bound structures associated with viral infection can be seen by electron microscopy and are of sufficient size to be detectable by light microscopy, but have not been observed. In contrast, AIs have been trained to observe many phenotypic effects in cells using brightfield microscopy that are invisible to human observers. In Phase I of this grant, we demonstrated that AIs can be trained to detect virus infections as early as 4 hours after infection using 2 different viruses in different labs and with different microscopes. Traditional infection assays require days for the cells to go through multiple rounds of infection so that the cell death resulting from infection could be easily detected, manually by humans or using viability detection assays. Alternative methods rely on fluorescently labeled antibodies to viral proteins, which require many processing steps and expensive reagents as well as substantial development costs, or the development of viruses carrying genes for fluorescent proteins, which require developing genetically modified viruses that can have different viability or infectivity than unmodified viruses.     As part of the activities funded by this grant, ViQi has produced the first evidence that early stages of viral infection in individual cells are detectable with brightfield microscopy at moderate resolution (e.g., a 20x objective). The practical consequence of this discovery is that long incubation times for multiple rounds of infection, sample processing for fluorescence microscopy or development of transgenic viral strains that carry fluorescent reporters are not necessary for rapid routine infectivity assays. We have demonstrated that automated image processing using trained ML/AI models together with the use of automated microplate imagers allows for large-scale automation and reduces the turn-around time for infectivity assays from days to hours.      Virus infectivity assays are important to assess the effectiveness of various ways of inactivating viruses. Measuring virus inactivation relies on measuring the infectivity of a viral stock before and after treatment with inactivating antibodies from vaccine candidates, antiviral drugs, biocides, or clearance in biopharmaceutical manufacturing processes. All of these assays depend on measuring the effect on infectivity, which cannot be done directly using techniques like qPCR. The technology developed as a result of this grant has allowed this critical assay methodology to be modernized so that the quantity and throughput of these assays can be increased 100-fold or more. This will result in testing more drugs, more vaccine candidates, testing the effectiveness of existing vaccines on more emerging variants, rapid screening through gene therapy vectors, etc.     There is a high level of interest as observed through many interviews ViQi conducted with field scientists, and there was a strong indication that this assay will address a real need in the virology community.        Last Modified: 09/09/2021       Submitted by: Ilya G Goldberg]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

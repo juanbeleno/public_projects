@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Convergence Accelerator Track D: Intelligent Surveillance Platform for Damage Detection and Localization of Civil Infrastructure]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>764467.00</AwardTotalIntnAmount>
+<AwardAmount>914467</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mike Pozmantier</SignBlockName>
+<PO_EMAI>mpozmant@nsf.gov</PO_EMAI>
+<PO_PHON>7032924475</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future. The broader impact and potential societal benefit of this Convergence Accelerator Phase I project is to reduce the societal and economic impact of aging, deterioration, and extreme events on civil infrastructure by facilitating widespread monitoring and condition assessment of constructed structures. Reliable structural health monitoring tools are necessary for prioritizing maintenance and repair decisions regarding the nation’s aging infrastructure. Development of accurate, field-calibrated damage detection tools is needed to reduce the theory-to-practice gap. In turn, this project will promote the wellbeing of the community by reducing the societal and economic impact of aging, deterioration, and extreme events on civil infrastructure. The envisioned work requires diverse perspectives from multiple disciplines, and partnerships crossing organizational, institutional, and disciplinary boundaries.&lt;br/&gt;&lt;br/&gt;This project aims to creatively integrate advances in Machine Learning (ML) and pattern recognition disciplines with physics-based reasoning to develop a novel, accurate, field-calibrated, and verified computational platform for in-situ monitoring of civil infrastructure. The main deliverable of this two-phased project is an intelligent computational platform consisting of data and algorithms for video-based damage detection and monitoring of civil engineering structures. Phase I will focus on the selection of the&lt;br/&gt;benchmark structures, collection of data, and the development of a prototype of the platform, which will be field calibrated in Phase II. By the end of Phase II, the project team intend to have further developed and field-calibrated the computational platform integrating the ML model with a video analytics module, which will be implemented on selected benchmark structures, and have prepared user manuals and educational materials for end-users.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/31/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/15/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040665</AwardID>
+<Investigator>
+<FirstName>Qiang (Shawn)</FirstName>
+<LastName>Cheng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Qiang (Shawn) Cheng</PI_FULL_NAME>
+<EmailAddress><![CDATA[qiang.cheng@uky.edu]]></EmailAddress>
+<NSF_ID>000309382</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jale</FirstName>
+<LastName>Tezcan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jale Tezcan</PI_FULL_NAME>
+<EmailAddress><![CDATA[jale@siu.edu]]></EmailAddress>
+<NSF_ID>000492329</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Claudia</FirstName>
+<LastName>Marin</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Claudia C Marin</PI_FULL_NAME>
+<EmailAddress><![CDATA[cmarin@howard.edu]]></EmailAddress>
+<NSF_ID>000524737</NSF_ID>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Howard University</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>20059</ZipCode>
+<PhoneNumber>2028064759</PhoneNumber>
+<StreetAddress>2400 6TH ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DYZNJGLTHMR9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>HOWARD UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Howard University]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200591009</ZipCode>
+<StreetAddress><![CDATA[2300 Sixth St. NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~764467</FUND_OBLG>
+<FUND_OBLG>2021~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This project aimed to design, implement and validate a prototype of a novel Artificial Intelligence (AI)-driven Structural Health Monitoring (SHM) platform that integrates computer vision, signal processing, and machine learning algorithms to analyze the structural health of civil infrastructure. This project addresses the limitations of traditional SHM methods, such as sensor restrictions, lack of sufficient data, and difficulty translating laboratory models to real-world structures.</p> <p>Existing damage detection algorithms rely heavily on laboratory models or numerical simulations, often lacking practical applicability to actual, in-service structures. The project team developed an AI-driven platform prototype that combines experimental, numerically-simulated, and field data. Using field data to calibrate and validate the platform enhances its real-world relevance.</p> <p>The methodology developed in this project consists of video tracking and damage detection components. The video tracking component uses advanced computer vision techniques to monitor specific points of interest on a structure by tracking pixel trajectories across video frames. The project team demonstrated that video cameras can be used as non-contact sensors to track structural displacements. This component was validated using video recordings and vibration data from shake-table tests simulating seismic effects on buildings and is currently being implemented at the Natural Hazards Engineering Research Infrastructure (NHERI) Experimental Facility at Lehigh University.</p> <p>The damage detection component incorporates powerful signal processing and machine learning algorithms. An ensemble of Convolutional Neural Networks (CNNs) was trained to detect damages, identify the damage locations and quantify their severity. This was achieved by using deep transfer learning where the CNN was pre-trained using a large training set, obtained by combining vibration measurements from a model-scale specimen with numerically simulated data representing different damage scenarios, and then fine-tuned for a specific structure using a substantially reduced training data set from that structure. The project team demonstrated this approach's validity using publicly available vibration data from a full-scale, five-story reinforced concrete building built for experimental research at the University of California, San Diego.</p> <p>Through engagement with end-users and decision-makers, the project team identified a pressing need for trustworthy and reliable data-driven tools to inform decision-making related to structural maintenance and operation processes. This necessity stems from a prevailing skepticism regarding the practical utility of SHM tools, which continues to be a significant barrier to their widespread adoption. Furthermore, insights gained from the interactions with stakeholders underline the potential of this platform to help property owners, engineers, and government entities assess the progression of structural damage. Notably, the AI-driven platform has sparked interest beyond its initial scope, with end-users suggesting its extension to monitoring mechanical or electrical in-service infrastructure with appropriate modifications.</p> <p>This project provided training and professional development opportunities to seven undergraduate students, one graduate student, and two postdoctoral researchers. Project findings were disseminated through publications, presentations, and workshops to the research community.</p><br> <p>            Last Modified: 06/12/2023<br>      Modified by: Claudia&nbsp;C&nbsp;Marin</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This project aimed to design, implement and validate a prototype of a novel Artificial Intelligence (AI)-driven Structural Health Monitoring (SHM) platform that integrates computer vision, signal processing, and machine learning algorithms to analyze the structural health of civil infrastructure. This project addresses the limitations of traditional SHM methods, such as sensor restrictions, lack of sufficient data, and difficulty translating laboratory models to real-world structures.  Existing damage detection algorithms rely heavily on laboratory models or numerical simulations, often lacking practical applicability to actual, in-service structures. The project team developed an AI-driven platform prototype that combines experimental, numerically-simulated, and field data. Using field data to calibrate and validate the platform enhances its real-world relevance.  The methodology developed in this project consists of video tracking and damage detection components. The video tracking component uses advanced computer vision techniques to monitor specific points of interest on a structure by tracking pixel trajectories across video frames. The project team demonstrated that video cameras can be used as non-contact sensors to track structural displacements. This component was validated using video recordings and vibration data from shake-table tests simulating seismic effects on buildings and is currently being implemented at the Natural Hazards Engineering Research Infrastructure (NHERI) Experimental Facility at Lehigh University.  The damage detection component incorporates powerful signal processing and machine learning algorithms. An ensemble of Convolutional Neural Networks (CNNs) was trained to detect damages, identify the damage locations and quantify their severity. This was achieved by using deep transfer learning where the CNN was pre-trained using a large training set, obtained by combining vibration measurements from a model-scale specimen with numerically simulated data representing different damage scenarios, and then fine-tuned for a specific structure using a substantially reduced training data set from that structure. The project team demonstrated this approach's validity using publicly available vibration data from a full-scale, five-story reinforced concrete building built for experimental research at the University of California, San Diego.  Through engagement with end-users and decision-makers, the project team identified a pressing need for trustworthy and reliable data-driven tools to inform decision-making related to structural maintenance and operation processes. This necessity stems from a prevailing skepticism regarding the practical utility of SHM tools, which continues to be a significant barrier to their widespread adoption. Furthermore, insights gained from the interactions with stakeholders underline the potential of this platform to help property owners, engineers, and government entities assess the progression of structural damage. Notably, the AI-driven platform has sparked interest beyond its initial scope, with end-users suggesting its extension to monitoring mechanical or electrical in-service infrastructure with appropriate modifications.  This project provided training and professional development opportunities to seven undergraduate students, one graduate student, and two postdoctoral researchers. Project findings were disseminated through publications, presentations, and workshops to the research community.       Last Modified: 06/12/2023       Submitted by: Claudia C Marin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

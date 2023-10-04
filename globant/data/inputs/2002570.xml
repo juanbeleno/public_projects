@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Fundamentals of Modeling and Control for the Evolving Electric Power System Architectures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aranya Chakrabortty</SignBlockName>
+<PO_EMAI>achakrab@nsf.gov</PO_EMAI>
+<PO_PHON>7032928113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The main objective of this project is to formalize ground-breaking general principles in support of investment planning and operating protocols for the changing electric energy systems.  Having this is crucial for assessing effects of candidate hardware and software technologies and for creating an environment in which flexible technologies are utilized by complementing each other’s performance and by jointly meeting the societal needs. Since the performance of many technologies of interest greatly depends on how well they are integrated over time and stakeholders (system modules), an effective framework needs to support decisions that are data-enabled and interactive over time and among different system decision makers. In this project a complex dynamical systems point of view is taken which recognizes such distributed nature of decisions and introduces novel modeling, control and protocol principles in support of system integration in time and space. In sharp contrast with the lack of theoretically-provable performance in the evolving electric power system architectures, this project explores fundamentals and takes major steps toward solving this long-overdue problem. The most important impact will be on the way electric power industry architectures evolve. In particular, the project will catalyze the adoption of data-enabled decision making and automation. Notably, this approach will help educate students to think about emerging electric energy systems as complex dynamical systems for which much innovation is needed and possible. Results of this research will be disseminated through a workshop on design and control of complex energy systems. &lt;br/&gt;&lt;br/&gt; The next generation Supervisory Control and Data Acquisition (SCADA) can evolve based on protocols defined according to a dynamic monitoring, and decision system (DyMonDS) framework envisioned in this project. Such framework is crucial for assessing effects of candidate hardware and software technologies and for creating an environment in which technologies are integrated and utilized by complementing each other’s performance and by jointly meeting the societal needs. In this project a complex dynamical systems point of view is taken which recognizes such distributed nature of decisions and introduces novel modeling, control and protocol principles in support of temporal and spatial system integration. The main question is how to ensure stability and efficiency of these systems without increasing complexity of information management and consequent implications on cyber-security. Once principles for answering this complex question are formalized, it becomes possible to support selection of “right” technologies and for utilizing them based on data obtained through sensing, communications and control.  To establish such principles and not radically change the industry, this project introduces a generalization of today’s Automatic Generation Control by the Balancing Authorities (BAs) which is fundamentally cooperative in nature.  The interactions between BAs are managed by each area compensating its own Area Control Error (ACE) which is the net power imbalance contributed by both internal power deviations from schedules and by the tie-line flow deviations into the BA. This is a great example of distributed control through cooperation based on simple protocols of balancing ACE.  In this project the ACE is generalized into a notion of an interaction variable (intVar) associated with each intelligent Balancing Authority (iBA). Notably, an intVar has a physical interpretation in terms of power and rate of change of power, but it is not restricted to the assumptions made by the industry today, and it allows for different unconventional architectures, such as small iBAs nested within the existing BAs.  iBAs can be components or subsystems of diverse spatial and temporal granularity, and are technology agnostic; their specifications, modeling and interactive multi-layered control are in terms of an intVar common to all. This project targets specifically principles for protocols and enhanced standards for a general DyMonDS framework so that following this framework one can catalyze performance enhancements based on the PI’s recent finding that the intVar dynamics can be interpreted in terms of rates of exergy (potential to perform useful work) and anergy (wasted work).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2002570</AwardID>
+<Investigator>
+<FirstName>Marija</FirstName>
+<LastName>Ilic</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Marija D Ilic</PI_FULL_NAME>
+<EmailAddress><![CDATA[ilic@mit.edu]]></EmailAddress>
+<NSF_ID>000394200</NSF_ID>
+<StartDate>01/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName/>
+<StateCode>MA</StateCode>
+<ZipCode>021394307</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>155E</Code>
+<Text>Electric power networks</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~250000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>This EAGER&nbsp; project was motivated by the need to re-visit principles of modeling, control and computing for complex electric energy systems.&nbsp; The&nbsp; societal objectives are rapidly changing, and there is a huge influx of&nbsp; new technologies and modleing technology-specific internal dynamics should be done only by the technology developers themselves. When attempting ot assess technical, economic and /orenvironmental immpact of seemingly very different technologies, it is important to characterize them using ocmmon straightforward to understand variable.&nbsp; One of the fundamental outcomes in EAGER has been the interactive modeling of&nbsp; comlex&nbsp; equipment, in terms of energy, power and rate of change of reactive power.&nbsp; Characterizing interactions between the components&nbsp; is sufficient in terms of these triplets. Once this is shown starting from first principles, it becomes possible to&nbsp; assess sustianbaility of candidate new energy system architectures and theri smarts.&nbsp;</p> <p>Another attribute of the proposed modeling is that one can establush suffiicnet conditions for having stable and near optimal performance with minimal coordination.&nbsp; Coordination is in terms of these itneraction variables.&nbsp;</p> <p>We are pursuing numerical methods for distirbuted simulations of interactions in this energy dynamics space, as well as design of cotnrollers so that interaction variables are aligned at different levels of granualrity, temporal, spatial and functional.&nbsp;</p> <p>We cannto stress enough that understnaing fundamentals of dynamics and its control becomes straightforward, and understandable by economists and regulatrors.&nbsp; We plan&nbsp; to pursue this work toward supporting the overall change of planning and operating paradigm, which is not strictly hierarchical.&nbsp; Today's system operators and planners have no ability to know internal know hows of proprietary&nbsp; technologies.&nbsp; Because of this,&nbsp; it is necessary to establish protocols for information exchange which is technology agnostic.&nbsp; Our proposed energy dynamics approach does just this.</p> <p>&nbsp;</p> <p>Notably, at higher layers of the interconnected system the interactive model is linear in terms of energy, pwoer, and rate of change of power. This overcomes huge problem of having to linearize models, something that no longer holds when operating the systems away from the conditions for which the initial grid design and control are done.</p> <p>Finally,&nbsp; from teh educational viewpoint, our experience has been that it is much more striaghtforwad to introduce seemingly&nbsp; very complex concepts to no specialists in power dynamics.&nbsp; The PI&nbsp; has offered first courses of this type, and has begun writing a supporting textbook.&nbsp; The PI remains very ethusiastic about disseminating the energy dynamics-based approach to designing and operating future power grids.&nbsp;</p><br> <p>            Last Modified: 07/14/2023<br>      Modified by: Marija&nbsp;D&nbsp;Ilic</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2002570/2002570_10650688_1689349652263_basicenergy--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2002570/2002570_10650688_1689349652263_basicenergy--rgov-800width.jpg" title="basic energy"><img src="/por/images/Reports/POR/2023/2002570/2002570_10650688_1689349652263_basicenergy--rgov-66x44.jpg" alt="basic energy"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Proposed energy dynamics</div> <div class="imageCredit">Marija Ilic and Rupamathi Jaddivada</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Marija&nbsp;D&nbsp;Ilic</div> <div class="imageTitle">basic energy</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This EAGER  project was motivated by the need to re-visit principles of modeling, control and computing for complex electric energy systems.  The  societal objectives are rapidly changing, and there is a huge influx of  new technologies and modleing technology-specific internal dynamics should be done only by the technology developers themselves. When attempting ot assess technical, economic and /orenvironmental immpact of seemingly very different technologies, it is important to characterize them using ocmmon straightforward to understand variable.  One of the fundamental outcomes in EAGER has been the interactive modeling of  comlex  equipment, in terms of energy, power and rate of change of reactive power.  Characterizing interactions between the components  is sufficient in terms of these triplets. Once this is shown starting from first principles, it becomes possible to  assess sustianbaility of candidate new energy system architectures and theri smarts.   Another attribute of the proposed modeling is that one can establush suffiicnet conditions for having stable and near optimal performance with minimal coordination.  Coordination is in terms of these itneraction variables.   We are pursuing numerical methods for distirbuted simulations of interactions in this energy dynamics space, as well as design of cotnrollers so that interaction variables are aligned at different levels of granualrity, temporal, spatial and functional.   We cannto stress enough that understnaing fundamentals of dynamics and its control becomes straightforward, and understandable by economists and regulatrors.  We plan  to pursue this work toward supporting the overall change of planning and operating paradigm, which is not strictly hierarchical.  Today's system operators and planners have no ability to know internal know hows of proprietary  technologies.  Because of this,  it is necessary to establish protocols for information exchange which is technology agnostic.  Our proposed energy dynamics approach does just this.     Notably, at higher layers of the interconnected system the interactive model is linear in terms of energy, pwoer, and rate of change of power. This overcomes huge problem of having to linearize models, something that no longer holds when operating the systems away from the conditions for which the initial grid design and control are done.  Finally,  from teh educational viewpoint, our experience has been that it is much more striaghtforwad to introduce seemingly  very complex concepts to no specialists in power dynamics.  The PI  has offered first courses of this type, and has begun writing a supporting textbook.  The PI remains very ethusiastic about disseminating the energy dynamics-based approach to designing and operating future power grids.        Last Modified: 07/14/2023       Submitted by: Marija D Ilic]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

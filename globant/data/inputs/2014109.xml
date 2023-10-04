@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CAREER: Mixed-Signal Photonic Integrated Circuits for Energy-Efficient High-Speed Data Interfaces]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/23/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>300117.00</AwardTotalIntnAmount>
+<AwardAmount>308036</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jenshan Lin</SignBlockName>
+<PO_EMAI>jenlin@nsf.gov</PO_EMAI>
+<PO_PHON>7032927360</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Proposal No.: 1454411 &lt;br/&gt;CAREER: Mixed Signal Photonics Integrated Circuits for Energy-Efficient High-Speed Data Interfaces&lt;br/&gt;Vishal Saxena (Boise State University)&lt;br/&gt;&lt;br/&gt;Abstract: This research harnesses photonics to satisfy ever-growing government, industry, and consumer needs for data bandwidth, while significantly reducing the increasingly voracious energy footprint that accompanies Internet cloud use. Photonics uses light instead of electronics to perform a variety of functions such as information processing and transfer. While most of us still work in offices and meet friends in person, mobile and networking device capability has enabled massive online business and social transaction growth. The Internet and its cloud-based services are used for production systems, banking, entertainment, social interaction, information distribution and research. Resulting information accumulation is fueling the rise of "big data," as well as the powerful correlation tools that help analysts spot financial trends, prevent diseases, combat crime and improve quality of research. More and more, we put content in the cloud for easy access from anywhere and at any time, with data growing exponentially. All this data transfer uses a surprising amount of energy. To reduce data center energy consumption while increasing data capacity by over ten fold, this research will investigate novel hybrid data communication interfaces, using light rather than electrons to process and transfer data at higher speeds. The potentially explosive increase in data rates enabled by these hybrid photonic interconnects could lead to several transformative applications, such as future exascale data centers, terabit speed local area networks, and massively-parallel computing for big data applications. These hybrid photonic interconnects will not only have a broad impact on the semiconductor industry, but also US energy sustainability and security, as more energy-efficient computing systems would reduce carbon footprint of the Internet cloud. Further, to prepare students for the workforce with the necessary skills to drive future technology, the project includes a strong educational component. Interactive learning methods will be employed to teach electronic circuits and to bring photonics to integrated circuit design. The project also incorporates a high school outreach program, with an annual Smart Environments for Sustainability-themed one-week summer camp for high school students that commits to fostering women and minority group representation in integrated circuit design.&lt;br/&gt;&lt;br/&gt;Technology development leveraging integrated photonic circuits and optical interconnects has thus far largely focused on binary communication using silicon photonic modulators. To enable future optical interconnects for higher data rates and energy-efficiency, researchers must reconsider the hybrid integrated circuit paradigm. An important technology enabler is the high-speed signal processing capability of integrated photonic devices. The research approach will first be to develop a photonic design kit with standard cell libraries and compact models to enable large scale integration of photonic devices into hybrid integrated circuits. Researchers will employ photonic device high-speed optical domain signal processing into novel circuit configurations, exploit synergistic interaction between electronic and photonic components, and form a mixed-signal photonic architecture. Next, to exploit photonics beyond binary interconnects; researchers will develop novel mixed-signal photonic data converters, which they will use to demonstrate an advanced modulation transceiver architecture that is scalable to terabits per second data rates with order-of-magnitude lower energy consumption. Research outcomes will empower integrated circuit researchers by equipping them with a new photonics expertise to tackle nano-scaled technology design challenges, where data transfer bottlenecks constrain system performance. The photonic design kit will lower industry barriers to help facilitate photonics adoption into integrated circuits; resulting mixed-signal photonic data converter architectures will set a new paradigm by achieving greater than 10 GHz sampling rates with significantly reduced energy consumption over existing complementary metal?oxide?semiconductor (CMOS)-only architectures. Researchers will broadly disseminate project results by developing online educational material for a new CMOS photonics integrated circuit design graduate course, and through international journals and conferences.]]></AbstractNarration>
+<MinAmdLetterDate>01/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014109</AwardID>
+<Investigator>
+<FirstName>Vishal</FirstName>
+<LastName>Saxena</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vishal Saxena</PI_FULL_NAME>
+<EmailAddress><![CDATA[vsaxena@udel.edu]]></EmailAddress>
+<NSF_ID>000601339</NSF_ID>
+<StartDate>01/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>197160099</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>220 HULLIHEN HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DE00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>T72NHKM259N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF DELAWARE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>T72NHKM259N3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Delaware]]></Name>
+<CityName>Newark</CityName>
+<StateCode>DE</StateCode>
+<ZipCode>197160099</ZipCode>
+<StreetAddress><![CDATA[102 DuPont Hall]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DE00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096E</Code>
+<Text>High freq comm/sensing circuits</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>106E</Code>
+<Text>Mixed signal technologies</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0115</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001516DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2015~300116</FUND_OBLG>
+<FUND_OBLG>2018~7920</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Key outcomes and findings that address the intellectual merit and broader impact of this CAREER project are described below:</p> <p><strong><em>Intellectual Merit:&nbsp;</em></strong>The project focused on the design and tape-out of silicon photonic (SiP) photonic integrated circuits (PICs) and associated electronics for high-speed interfaces intended for optical interconnects. In the beginning of the project, a Verilog-A based design kit was developed for design and simulation of photonic devices and circuits using standard electronic design automation tools, i.e. Cadence. Rapid simulation techniques were also developed speed up simulation of photonic circuits. Then using this design kit, multi-level electronic-photonic digital-to-analog converters (DACs) were developed. &nbsp;These DACs used segmented Mach-Zehnder (MZM), microring modulators, and electro-absorption modulators to create multi-level outputs.&nbsp; CMOS and BiCMOS optical interconnect transmitter chips were designed to drive MZM and ring modulators with data rate exceeding 25Gbps. A mixed-signal control loop circuit was also design to stabilize the ring modulator wavelength to avoid drifts due to self-heating. &nbsp;In this transmitter chip, the TX data is generated using on-chip pseudo-random binary signals (PRBS10), a CMOS based energy-efficient serializer, and a level-sensitive equalizer for accommodating nonlinear behavior of microring modulators. Another photonic chip was designed with a novel electronic-photonic analog-to-digital converter concept. This chip will be experimentally characterized and results will be published. Results from these chip designs were disseminated through publication in reputed conference and journals, and through student poster presentations and PI's talks at several Universities and companies.</p> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; During the project, several PICs were tape-out using a multitude of SiP foundries including IMEC and AIM Photonics. CMOS electronic chips were designed in TSMC 65nm CMOS process. Packaging is a major consideration when designing hybrid CMOS Photonic integrated systems. PI and his students worked with several commercial vendors to create novel PIC packaging solutions and integration with CMOS and on-board electronics. Optical chip testing is another major challenge and required development of custom optical alignment and later optical packaging schemes. Overall the project enabled development of an entirely new generation of hybrid CMOS photonic circuits with implications on several applications.</p> <p><strong>Broader Impact:</strong></p> <p><strong><em>Scientific Impact:</em></strong>&nbsp;The project allowed cross-fertilization of ideas between the emerging field of integrated silicon photonics and economically &amp; strategically important field of mixed-signal/RF electronic IC design. Several photonic chips were tape-out and co-integrated with electronics to demonstrate novel functionality. The results were disseminated through conference and journal publications.</p> <p><strong><em>Curriculum Development:&nbsp;</em></strong>Integration of research and education was a center-piece in this CAREER project and led to enhancement in undergraduate courses in Microelectronic circuit design and development of new graduate courses. These new graduate courses were PLL and High-Speed Link Design, RF and mmWave IC Design. Components from photonics were integrated into the existing undergraduate senior and first-year graduate-level course on Analog IC Design. Curriculum development also included online lecture videos and interactive learning modules for undergraduate Sophomore/Junior-level Microelectronics course. The online interactive learning modules used web-based animated circuit simulation to emphasize on key circuit concepts involving diodes and transistors. The undergraduate and graduate course lecture videos are available online on YouTube and linked from PI's lab website and accessed globally be students and industry professionals.</p> <p><strong><em>Student Mentoring:</em></strong>&nbsp;The project directly involved 3 doctoral students, two of whom have graduated with PhD degrees and third is in progress. The project also provided opportunities to 4 undergraduate researchers on the research experience for undergraduates (REU) supplements, and included student from underrepresented groups (women). Students worked on focused projects involving hardware development and chip testing instrumentation development. These students presented their work in form of posters in the UD undergraduate research conference and ECE Research Day.</p> <p><strong><em>K-12 Outreach:</em></strong>&nbsp;PI developed a summer camp on&nbsp;<em>Internet of Things for Sustainability</em>&nbsp;for high-school students at his prior institution. The camp was designed to get students to think differently about Electrical and Computer Engineering and subsequently enroll into the undergraduate program. &nbsp;A version of this camp was developed and deployed at the University of Delaware in the summer of 2022 under PI's leadership. The week-long camp was titled, "Make Smart Stuff," and focused on students from class 9 and 10. The camp involved 4 faculty instructors and UD ECE staff and focused on Arduino microcontroller programming and 3D printing and then using these to build robots and biomedical sensors; cybersecurity, and EEG-based signal processing, a visit to UD Maker Gym. PI's specific half-day workshop module, "Measure Your Pulse," comprised of hands-on pulse oximetry using an optoelectronic sensor chip and Arduino. The workshop was capped off with a career counseling session on STEM course planning for subsequent applications to ECE undergraduate programs. &nbsp;The camp involved students from unrepresented and under-served minority in STEM disciplines (i.e., African Americans, Hispanics and Girls) and provided scholarships upon request. Assessment was performed based on student and parents? survey and received feedback was highly favorable.</p><br> <p>            Last Modified: 08/03/2022<br>      Modified by: Vishal&nbsp;Saxena</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2014109/2014109_10345609_1659500372528_AIM_Chip_2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2014109/2014109_10345609_1659500372528_AIM_Chip_2--rgov-800width.jpg" title="Photonic chip 2"><img src="/por/images/Reports/POR/2022/2014109/2014109_10345609_1659500372528_AIM_Chip_2--rgov-66x44.jpg" alt="Photonic chip 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Photonic chip fabricated using AIM Photonics foundry with Microdisk modulator transmitters and Photonic ADC circuits.</div> <div class="imageCredit">Vishal Saxena</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Vishal&nbsp;Saxena</div> <div class="imageTitle">Photonic chip 2</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2014109/2014109_10345609_1659500455778_bicmos--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2014109/2014109_10345609_1659500455778_bicmos--rgov-800width.jpg" title="BiCMOS chip"><img src="/por/images/Reports/POR/2022/2014109/2014109_10345609_1659500455778_bicmos--rgov-66x44.jpg" alt="BiCMOS chip"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Electronic chip fabricated using Globalfoundries 130nm BiCMOS (8HP)  process. The chip contains 12GHz PLL clock generator, full-rate dual channel PRBS7 Generators, and 25Gbps PAM4 Transmitter circuits. The chip interfaces with SiP Mach Zehnder modulators.</div> <div class="imageCredit">Vishal Saxena and Kehan Zhu</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Vishal&nbsp;Saxena</div> <div class="imageTitle">BiCMOS chip</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2014109/2014109_10345609_1659501133775_IMEC_chip1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2014109/2014109_10345609_1659501133775_IMEC_chip1--rgov-800width.jpg" title="IMEC_Chip1"><img src="/por/images/Reports/POR/2022/2014109/2014109_10345609_1659501133775_IMEC_chip1--rgov-66x44.jpg" alt="IMEC_Chip1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Photonic chip fabricated using IMEC SiP process with segmented microring modulator and PAM4 Electoabsorption modulator circuits.</div> <div class="imageCredit">Vishal Saxena</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Vishal&nbsp;Saxena</div> <div class="imageTitle">IMEC_Chip1</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Key outcomes and findings that address the intellectual merit and broader impact of this CAREER project are described below:  Intellectual Merit: The project focused on the design and tape-out of silicon photonic (SiP) photonic integrated circuits (PICs) and associated electronics for high-speed interfaces intended for optical interconnects. In the beginning of the project, a Verilog-A based design kit was developed for design and simulation of photonic devices and circuits using standard electronic design automation tools, i.e. Cadence. Rapid simulation techniques were also developed speed up simulation of photonic circuits. Then using this design kit, multi-level electronic-photonic digital-to-analog converters (DACs) were developed.  These DACs used segmented Mach-Zehnder (MZM), microring modulators, and electro-absorption modulators to create multi-level outputs.  CMOS and BiCMOS optical interconnect transmitter chips were designed to drive MZM and ring modulators with data rate exceeding 25Gbps. A mixed-signal control loop circuit was also design to stabilize the ring modulator wavelength to avoid drifts due to self-heating.  In this transmitter chip, the TX data is generated using on-chip pseudo-random binary signals (PRBS10), a CMOS based energy-efficient serializer, and a level-sensitive equalizer for accommodating nonlinear behavior of microring modulators. Another photonic chip was designed with a novel electronic-photonic analog-to-digital converter concept. This chip will be experimentally characterized and results will be published. Results from these chip designs were disseminated through publication in reputed conference and journals, and through student poster presentations and PI's talks at several Universities and companies.              During the project, several PICs were tape-out using a multitude of SiP foundries including IMEC and AIM Photonics. CMOS electronic chips were designed in TSMC 65nm CMOS process. Packaging is a major consideration when designing hybrid CMOS Photonic integrated systems. PI and his students worked with several commercial vendors to create novel PIC packaging solutions and integration with CMOS and on-board electronics. Optical chip testing is another major challenge and required development of custom optical alignment and later optical packaging schemes. Overall the project enabled development of an entirely new generation of hybrid CMOS photonic circuits with implications on several applications.  Broader Impact:  Scientific Impact: The project allowed cross-fertilization of ideas between the emerging field of integrated silicon photonics and economically &amp; strategically important field of mixed-signal/RF electronic IC design. Several photonic chips were tape-out and co-integrated with electronics to demonstrate novel functionality. The results were disseminated through conference and journal publications.  Curriculum Development: Integration of research and education was a center-piece in this CAREER project and led to enhancement in undergraduate courses in Microelectronic circuit design and development of new graduate courses. These new graduate courses were PLL and High-Speed Link Design, RF and mmWave IC Design. Components from photonics were integrated into the existing undergraduate senior and first-year graduate-level course on Analog IC Design. Curriculum development also included online lecture videos and interactive learning modules for undergraduate Sophomore/Junior-level Microelectronics course. The online interactive learning modules used web-based animated circuit simulation to emphasize on key circuit concepts involving diodes and transistors. The undergraduate and graduate course lecture videos are available online on YouTube and linked from PI's lab website and accessed globally be students and industry professionals.  Student Mentoring: The project directly involved 3 doctoral students, two of whom have graduated with PhD degrees and third is in progress. The project also provided opportunities to 4 undergraduate researchers on the research experience for undergraduates (REU) supplements, and included student from underrepresented groups (women). Students worked on focused projects involving hardware development and chip testing instrumentation development. These students presented their work in form of posters in the UD undergraduate research conference and ECE Research Day.  K-12 Outreach: PI developed a summer camp on Internet of Things for Sustainability for high-school students at his prior institution. The camp was designed to get students to think differently about Electrical and Computer Engineering and subsequently enroll into the undergraduate program.  A version of this camp was developed and deployed at the University of Delaware in the summer of 2022 under PI's leadership. The week-long camp was titled, "Make Smart Stuff," and focused on students from class 9 and 10. The camp involved 4 faculty instructors and UD ECE staff and focused on Arduino microcontroller programming and 3D printing and then using these to build robots and biomedical sensors; cybersecurity, and EEG-based signal processing, a visit to UD Maker Gym. PI's specific half-day workshop module, "Measure Your Pulse," comprised of hands-on pulse oximetry using an optoelectronic sensor chip and Arduino. The workshop was capped off with a career counseling session on STEM course planning for subsequent applications to ECE undergraduate programs.  The camp involved students from unrepresented and under-served minority in STEM disciplines (i.e., African Americans, Hispanics and Girls) and provided scholarships upon request. Assessment was performed based on student and parents? survey and received feedback was highly favorable.       Last Modified: 08/03/2022       Submitted by: Vishal Saxena]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

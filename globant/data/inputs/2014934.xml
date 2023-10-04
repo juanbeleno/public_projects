@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Development of a Novel Diagnostic Test for Pulmonary Embolism Based on Artificial Intelligence and Spectral Analysis of Blood]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>209881.00</AwardTotalIntnAmount>
+<AwardAmount>209881</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project will result from the development of a fast, non-invasive, and highly accurate test to diagnose pulmonary embolism in the emergency department. In the United States, pulmonary embolism (PE) affects up to 1 million patients per year and is responsible for nearly 100,000 yearly deaths. Its diagnosis is challenging due to the presentation of nonspecific symptoms and the lack of high-accuracy screening methods. While the current standard of care is to rule out PE with an established blood test (D-Dimer), approximately 90% of those results are false positives, causing the test to be used with restraint in the clinic, and leading to both the underdiagnosis of the disease and the overuse of strongly radiative imaging methods like CT pulmonary angiograms. A new, highly specific test for PE could increase patient safety, standardize clinical care processes, reduce costs and save lives.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will develop and validate a new diagnostic tool for PE based on the combination of fast blood spectroscopy and modern machine learning (ML) algorithms. A key aim of the research is demonstrating that ML combined with blood spectroscopy can substantially outperform the D-Dimer biomarker test, which has notoriously low specificity (~40%).  An important Phase I milestone will be to show that the specificity of the resulting PE test either (a) already surpasses that of the D-Dimer test when trained on the relatively small dataset used in this Phase I proposal, or (b) substantially increases with the size of the training dataset, so that the test can outperform D-Dimer simply by procuring a larger pool of blood samples. The technical challenges addressed in this phase include evaluating different spectroscopic methods and modalities, minimizing the coefficient of variation for spectra acquisition, as well as designing and optimizing ML models for one-dimensional spectral data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014934</AwardID>
+<Investigator>
+<FirstName>Artur</FirstName>
+<LastName>Adib</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Artur Adib</PI_FULL_NAME>
+<EmailAddress><![CDATA[artur@biocogniv.com]]></EmailAddress>
+<NSF_ID>000817892</NSF_ID>
+<StartDate>07/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>BIOCOGNIV INC.</Name>
+<CityName>BURLINGTON</CityName>
+<ZipCode>054016029</ZipCode>
+<PhoneNumber>8022650145</PhoneNumber>
+<StreetAddress>50 LAKESIDE AVE., SUITE 851</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Vermont</StateName>
+<StateCode>VT</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VT00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DR19LY8GPNW1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>BIOCOGNIV INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[BIOCOGNIV INC.]]></Name>
+<CityName>South Burlington</CityName>
+<StateCode>VT</StateCode>
+<ZipCode>054037378</ZipCode>
+<StreetAddress><![CDATA[4 Laurel Hill Dr, Suite 1]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Vermont</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VT00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~209881</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-7816322e-7fff-c14f-10d9-9e1d8c1c01d3"> </span></p> <p dir="ltr"><span>SARS-CoV-2, the causative agent of COVID-19, has spread rapidly across the US and overwhelmed many hospitals and their staff with patients seeking diagnosis and care. Rapid methods are needed to detect SARS-CoV-2, especially in the hospital's emergency department (ED) to accurately triage patients with suspected COVID-19 infections at presentation. Currently the vast majority of hospitals diagnose COVID-19 using nucleic acid based testing. The availability and throughput of rapid nucleic acid testing has not met demand with the average test turnaround time still over 24 hours in the emergency department. This turnaround time is even longer at smaller community hospitals and critical access hospitals.</span></p> <p dir="ltr"><span>Machine learning, an artificial intelligence approach with the ability to find non-linear relationships between variables, offers an alternative approach to conventional COVID-19 diagnostic tests. Since many patients have routine laboratory tests performed at presentation to the emergency department, a machine learning approach with these variables could provide information to diagnose COVID-19. This innovation could provide rapid diagnostic information and essentially limitless throughput, alleviating the dependence on the strained COVID-19 diagnostic supply chain.</span></p> <p dir="ltr"><span>In this project we developed a machine learning (ML) model called ?AI-COVID'' to predict infection by SARS-CoV-2, the causative agent of COVID-19,&nbsp; and demonstrated the feasibility of deploying this model within a hospital emergency department (ED).</span></p> <p dir="ltr"><span>We began with 29 routinely measured blood tests that make up the complete blood count with differential and the comprehensive metabolic panel,&nbsp; and performed recursive feature elimination with cross-validation (RFECV) to arrive at the final 15 features. We tested multiple machine learning model types including, random forest, artificial neural networks, and gradient boosting, and found that the gradient boosting model, as implemented in XGBoost, provided consistently superior results. Model training used 2183 PCR-confirmed cases from 43 hospitals during the pandemic; negative controls were 10,000 pre-pandemic patients from the same hospitals.</span></p> <p dir="ltr"><span>In an exceptionally large validation dataset of ED patients from 23 US hospitals, our model demonstrated a very high sensitivity of 95.1% while still providing an acceptable specificity (48.9%) and maintained its performance in age, sex, racial, and&nbsp; disease severity subgroups. When used as a rule-out test during pandemic surges (prevalence 10%), we estimate that AI-COVID could save approximately 50% of PCR tests, reducing PCR testing bottlenecks and costs, much like D-dimer testing in patients with suspicion of pulmonary embolism reduces the utilization of computed tomography (CT).&nbsp; We then demonstrated the feasibility of using the AI-COVID data model in the clinic, by packaging the data model in an easy-to-deploy, cloud-based software application called ClinOS? and performing an end-to-end test for this software in the production environment of a hospital EHR system. This demonstration also showed that an AI predictive algorithm can return a result during the first hour of a patient?s visit to an ED, within 15 minutes of the blood draw.</span></p> <p dir="ltr"><span>Further impact from this project stems from leveraging our ClinOS software platform to deploy other predictive healthcare algorithms, including both ML algorithms and non-ML algorithms, to hospitals. While COVID-19 diagnosis was the focus of this NSF Phase I proposal, the clinical software platform which hosts this model (ClinOS) is relevant to diverse disease states, health conditions, outcomes, and metrics that can be predicted by an algorithm operating on patient data, which can be accessed through a hospital electronic health record system. Since completing the Phase I research, we have applied&nbsp; similar methodology to develop and retrospectively validated highly accurate data models for multiple other medical conditions including occult (i.e. non-obvious) sepsis. These and future data models can be combined to provide a snapshot of patient condition upon presentation to an ED and/or throughout a patient?s hospitalization and discharge. Other future diagnostic and clinical decision support tools will have add-on compatibility with ClinOS, allowing for vastly growing innovation opportunities.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 09/13/2021<br>      Modified by: Artur&nbsp;Adib</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   SARS-CoV-2, the causative agent of COVID-19, has spread rapidly across the US and overwhelmed many hospitals and their staff with patients seeking diagnosis and care. Rapid methods are needed to detect SARS-CoV-2, especially in the hospital's emergency department (ED) to accurately triage patients with suspected COVID-19 infections at presentation. Currently the vast majority of hospitals diagnose COVID-19 using nucleic acid based testing. The availability and throughput of rapid nucleic acid testing has not met demand with the average test turnaround time still over 24 hours in the emergency department. This turnaround time is even longer at smaller community hospitals and critical access hospitals. Machine learning, an artificial intelligence approach with the ability to find non-linear relationships between variables, offers an alternative approach to conventional COVID-19 diagnostic tests. Since many patients have routine laboratory tests performed at presentation to the emergency department, a machine learning approach with these variables could provide information to diagnose COVID-19. This innovation could provide rapid diagnostic information and essentially limitless throughput, alleviating the dependence on the strained COVID-19 diagnostic supply chain. In this project we developed a machine learning (ML) model called ?AI-COVID'' to predict infection by SARS-CoV-2, the causative agent of COVID-19,  and demonstrated the feasibility of deploying this model within a hospital emergency department (ED). We began with 29 routinely measured blood tests that make up the complete blood count with differential and the comprehensive metabolic panel,  and performed recursive feature elimination with cross-validation (RFECV) to arrive at the final 15 features. We tested multiple machine learning model types including, random forest, artificial neural networks, and gradient boosting, and found that the gradient boosting model, as implemented in XGBoost, provided consistently superior results. Model training used 2183 PCR-confirmed cases from 43 hospitals during the pandemic; negative controls were 10,000 pre-pandemic patients from the same hospitals. In an exceptionally large validation dataset of ED patients from 23 US hospitals, our model demonstrated a very high sensitivity of 95.1% while still providing an acceptable specificity (48.9%) and maintained its performance in age, sex, racial, and  disease severity subgroups. When used as a rule-out test during pandemic surges (prevalence 10%), we estimate that AI-COVID could save approximately 50% of PCR tests, reducing PCR testing bottlenecks and costs, much like D-dimer testing in patients with suspicion of pulmonary embolism reduces the utilization of computed tomography (CT).  We then demonstrated the feasibility of using the AI-COVID data model in the clinic, by packaging the data model in an easy-to-deploy, cloud-based software application called ClinOS? and performing an end-to-end test for this software in the production environment of a hospital EHR system. This demonstration also showed that an AI predictive algorithm can return a result during the first hour of a patient?s visit to an ED, within 15 minutes of the blood draw. Further impact from this project stems from leveraging our ClinOS software platform to deploy other predictive healthcare algorithms, including both ML algorithms and non-ML algorithms, to hospitals. While COVID-19 diagnosis was the focus of this NSF Phase I proposal, the clinical software platform which hosts this model (ClinOS) is relevant to diverse disease states, health conditions, outcomes, and metrics that can be predicted by an algorithm operating on patient data, which can be accessed through a hospital electronic health record system. Since completing the Phase I research, we have applied  similar methodology to develop and retrospectively validated highly accurate data models for multiple other medical conditions including occult (i.e. non-obvious) sepsis. These and future data models can be combined to provide a snapshot of patient condition upon presentation to an ED and/or throughout a patient?s hospitalization and discharge. Other future diagnostic and clinical decision support tools will have add-on compatibility with ClinOS, allowing for vastly growing innovation opportunities.               Last Modified: 09/13/2021       Submitted by: Artur Adib]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

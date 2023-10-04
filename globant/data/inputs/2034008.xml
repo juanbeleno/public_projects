@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: RAPID: Behavioral Epidemic Modeling For COVID-19 Containment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>34001.00</AwardTotalIntnAmount>
+<AwardAmount>34001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+<PO_EMAI>kdittmar@nsf.gov</PO_EMAI>
+<PO_PHON>7032927799</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[People tend to change and adapt their behavior during epidemics. Historically, behavioral adaptation has played a central role in the progression of epidemics. In some cases, a change in behavior may suppress an epidemic (e.g., through fear-driven flight or self-isolation) while in other cases, a change may intensify the spread of a disease (e.g., through vaccine refusal or premature cessation of distancing). People’s future behavior during the current COVID-19 epidemic will determine how well we cope with two central threats. First is the immediate threat of successive epidemic waves due to the premature lifting of social distancing guidelines, and the abandonment of social distancing by a large percentage of the population. The second threat is that the disease will rebound even after a vaccine is available. This has occurred before (e.g., measles) and could occur with COVID-19 if a sufficient fraction of the population refuses vaccine out of fear. This research will develop a new model to predict human behavior using publicly available social media data to address a known weakness in most current models.  The new model, source code, data, parameters, assumptions, and methods will all be completely open and publicly available, ensuring the replicability of all results. This project will also deliver an interactive version of the model for use by policymakers, government agencies, and educators. Other broader impacts are training opportunities for a graduate student. &lt;br/&gt;&lt;br/&gt;Most current models that are used to forecast the course of epidemics may provide incomplete results because they do not take into account changes in peoples’ behavior (human behavioral adaptation).  In the proposed research, human behavior will be included within a new model using data taken from social media platforms such as Twitter and Facebook. The data will allow calibration of the model and replicate the entire New York State epidemic to date. Machine Learning approaches will be applied to determine optimal messages and interventions over a wide range of scenarios and control strategies. This development requires a unique interdisciplinary team spanning social science, infectious disease modeling, biostatistics, social media data mining, and Machine Learning.&lt;br/&gt;&lt;br/&gt;This RAPID award is made by the Ecology and Evolution of Infectious Diseases Program in the Division of Environmental Biology, using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034008</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Broniatowski</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David A Broniatowski</PI_FULL_NAME>
+<EmailAddress><![CDATA[broniatowski@gwu.edu]]></EmailAddress>
+<NSF_ID>000718357</NSF_ID>
+<StartDate>06/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200520042</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress>1918 F ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>DC00</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>ECR5E2LU5BL6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGE WASHINGTON UNIVERSITY (THE)</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[George Washington University]]></Name>
+<CityName>Washington</CityName>
+<StateCode>DC</StateCode>
+<ZipCode>200520086</ZipCode>
+<StreetAddress><![CDATA[2121 I St NW, Washington, DC 200]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>00</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>DC00</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~34001</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><br />In this project, we collected data and built mathematical simulations to model the spread of COVID-19 together with fear of COVID-19. We hypothesized that peoples&rsquo; behaviors change the more they become aware of the risks of infection, and that these behavior changes would, in turn, affect how the disease spreads. For example, if infection rates go down, people might stop engaging in protective behaviors like masking and social distancing too early, leading the disease to come back again.</p> <p>&nbsp;</p> <p>To validate our model, we measured how much people engaged in social distancing, and fear of COVID-19, using a dataset of over 180 Tweets. We summarized this dataset using machine learning models designed to determine how peoples&rsquo; movement changed, and how fear of COVID-19 was expressed.</p> <p>&nbsp;</p> <p>During the period of grant performance, we developed&nbsp;new combined state level datasets on COVID-19 cases and mortality, mobility, government response, and how much people expressed fear. The data on mobility (distancing) and fear were derived from Twitter data. These were used to test new mathematical models growing out of the theoretical work, using novel statistical methods.</p> <p>In parallel, our team developed a new mathematical model that captures the spread of a disease, fear of that disease, fear of the vaccine, and how these interact. This model was then calibrated to data from the State of New York.</p> <p>Work on this project remains ongoing, and we intend to extend the analysis to at least two states beyond New York, investigating the relationship between cases, fear, mobility, and government action using the new method of surveillance and analysis discussed above.</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/11/2022<br>      Modified by: David&nbsp;A&nbsp;Broniatowski</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  In this project, we collected data and built mathematical simulations to model the spread of COVID-19 together with fear of COVID-19. We hypothesized that peoples’ behaviors change the more they become aware of the risks of infection, and that these behavior changes would, in turn, affect how the disease spreads. For example, if infection rates go down, people might stop engaging in protective behaviors like masking and social distancing too early, leading the disease to come back again.     To validate our model, we measured how much people engaged in social distancing, and fear of COVID-19, using a dataset of over 180 Tweets. We summarized this dataset using machine learning models designed to determine how peoples’ movement changed, and how fear of COVID-19 was expressed.     During the period of grant performance, we developed new combined state level datasets on COVID-19 cases and mortality, mobility, government response, and how much people expressed fear. The data on mobility (distancing) and fear were derived from Twitter data. These were used to test new mathematical models growing out of the theoretical work, using novel statistical methods.  In parallel, our team developed a new mathematical model that captures the spread of a disease, fear of that disease, fear of the vaccine, and how these interact. This model was then calibrated to data from the State of New York.  Work on this project remains ongoing, and we intend to extend the analysis to at least two states beyond New York, investigating the relationship between cases, fear, mobility, and government action using the new method of surveillance and analysis discussed above.          Last Modified: 10/11/2022       Submitted by: David A Broniatowski]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

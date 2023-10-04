@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:  EdVision: AI-powered academic guidance for PhD programs]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>224986.00</AwardTotalIntnAmount>
+<AwardAmount>224986</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Technology Transfer (STTR) Phase I project is to use artificial intelligence methods to help all PhD program stakeholders (students, alumni, faculty, administrators) maximize desired student placements by leveraging available courses and other resources on campus. PhD student placement is a great concern for universities. However, in the absence of data-driven tools that can help administrators track PhD student progress and market needs, there is little that university leaders or faculty can do to continually improve PhD programs and align these programs with the needs of the economy. The total addressable market for AI-driven academic guidance for higher education is estimated at over $1 billion annually. By improving the match between PhD academic preparation and the needs of organizations tackling contemporary challenges in knowledge and technology intensive industries, this project will help universities contribute to society’s grand challenges in areas such as energy, food, disease and transportation. The success of this project will demonstrate the feasibility of continuously gathering adequate data from students, alumni and job postings and using this data to make reliable predictions and actionable individualized recommendations to PhD students that support their academic preparation towards improved market readiness. Education is one of the most important applications of AI, and this project focuses on using AI to empower students, faculty and administrators to maximize the outcomes from the large investments by universities in PhD programs.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project aims to collect highly granular data from PhD students, alumni and job market postings and use this data to build prediction and recommendation models to maximize the match between each student’s interests and market needs across long time horizons beyond graduation. While the market expectations for PhD graduate competencies are evolving rapidly and include high levels of multi-disciplinary excellence, PhD programs are evolving slowly, largely due to the lack of data-driven recommendations for appropriate interventions. The proposed R&amp;D plan will develop semi-automated methods for data curation in higher education, then use this data to build novel algorithms using neural network architectures and techniques to predict career outcomes of PhD graduates. The company will also use this data and upstream models to build individualized recommendations using model-based reinforcement learning. The system will suggest the most suitable actions for students, faculty and administrators to maximize the impacts of PhD programs in all disciplines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014338</AwardID>
+<Investigator>
+<FirstName>Ruth</FirstName>
+<LastName>Huntley</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ruth A Huntley</PI_FULL_NAME>
+<EmailAddress><![CDATA[rbahr@usf.edu]]></EmailAddress>
+<NSF_ID>000244113</NSF_ID>
+<StartDate>05/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ellis</FirstName>
+<LastName>Blanton</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ellis Blanton</PI_FULL_NAME>
+<EmailAddress><![CDATA[eblantonedvision@gmail.com]]></EmailAddress>
+<NSF_ID>000815041</NSF_ID>
+<StartDate>05/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>EDVISION CORP.</Name>
+<CityName>TAMPA</CityName>
+<ZipCode>336472557</ZipCode>
+<PhoneNumber>8136908320</PhoneNumber>
+<StreetAddress>9408 AZALEA RIDGE CIR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>XAP2JHTQAGX3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>EDVISION CORP</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of South Florida]]></Name>
+<CityName>Tampa</CityName>
+<StateCode>FL</StateCode>
+<ZipCode>336206900</ZipCode>
+<StreetAddress><![CDATA[4019 E. Fowler Ave, Suite 100]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~224986</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="x_MsoNormal">Higher education in America currently suffers from a significant mismatch between the skills taught in college and the skills that employers need. As college costs continue to rise and students go deeper in debt to complete their degrees, this mismatch is making the value of higher education increasingly in question. Coupled with demographic trends, this is also affecting college enrollment, which ultimately can affect national competitiveness.</p> <p class="x_MsoNormal">EdVision's mission is to maximize the impacts of academic programs. In this Phase I STTR project, we focused on a tightly defined segment of higher education, PhD students, and developed AI methods to help all PhD program stakeholders (students, alumni, faculty, administrators) personalize the PhD experience by leveraging available courses and other resources on campus. The PhD student experience is a great concern for universities, even among the most selective PhD programs. Working with our university partner, the University of South Florida (USF), this project aimed to understand job market needs and offer personalized recommendations so that each PhD student's academic plan best matches the expectations for success in their desired careers. PhD students typically aim for a relatively bounded set of career outcomes (academics, research, labs etc.), and make more information about themselves available online (published papers, blogs, CVs etc.). This simplified the R&amp;D plan of this project. PhD programs are also highly personalized and specialized, leaving them unserved by current higher education software.</p> <p class="x_MsoNormal">The result of this NSF STTR Phase I project is the development of several novel algorithms for the different granular stages of a student's academic and professional journey. The technology is delivered as a user-friendly web application, with level A accessibility following WCAG2 guidelines. EdVision's technology is modular and architected for scalability and security. These algorithms addressed several different data normalization challenges in addition to project-specific requirements.</p> <p class="x_MsoNormal">To understand PhD alumni careers, we followed the recommendations of the Council of Graduate Schools PhD Career Pathways Project. Faculty and Administrators can use these data to demonstrate the market value of their degrees and to plan program enhancements. For degree certification, currently popular technologies rely on scribing, a manual, expensive and time-consuming process. The scribing backlog at institutions can be as long as a year, creating a major bottleneck in correct degree audits. EdVision's AI-driven degree audit and certification algorithms automatically assign courses in the transcript to the student's degree progress in a way that maximizes degree progress. Our algorithms handle all the cases we have encountered so far at our STTR partner institution. EdVision's degree certification service further integrates us into the higher education operational workflow. These core data intensive processes are helpful in our quest to offer personalized recommendations to students.</p> <p class="x_MsoNormal">This STTR effort has had three-fold outcomes: building highly granular data sources and pipelines for AI model development in higher education; developing multiple algorithms for personalized recommendations for academic progress in higher education; and creating engaging user interfaces that integrate with several student information systems. EdVision's innovative new technology will facilitate personalized experiences for every student's academic journey.</p><br> <p>            Last Modified: 06/27/2023<br>      Modified by: Ellis&nbsp;Blanton</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[Higher education in America currently suffers from a significant mismatch between the skills taught in college and the skills that employers need. As college costs continue to rise and students go deeper in debt to complete their degrees, this mismatch is making the value of higher education increasingly in question. Coupled with demographic trends, this is also affecting college enrollment, which ultimately can affect national competitiveness. EdVision's mission is to maximize the impacts of academic programs. In this Phase I STTR project, we focused on a tightly defined segment of higher education, PhD students, and developed AI methods to help all PhD program stakeholders (students, alumni, faculty, administrators) personalize the PhD experience by leveraging available courses and other resources on campus. The PhD student experience is a great concern for universities, even among the most selective PhD programs. Working with our university partner, the University of South Florida (USF), this project aimed to understand job market needs and offer personalized recommendations so that each PhD student's academic plan best matches the expectations for success in their desired careers. PhD students typically aim for a relatively bounded set of career outcomes (academics, research, labs etc.), and make more information about themselves available online (published papers, blogs, CVs etc.). This simplified the R&amp;D plan of this project. PhD programs are also highly personalized and specialized, leaving them unserved by current higher education software. The result of this NSF STTR Phase I project is the development of several novel algorithms for the different granular stages of a student's academic and professional journey. The technology is delivered as a user-friendly web application, with level A accessibility following WCAG2 guidelines. EdVision's technology is modular and architected for scalability and security. These algorithms addressed several different data normalization challenges in addition to project-specific requirements. To understand PhD alumni careers, we followed the recommendations of the Council of Graduate Schools PhD Career Pathways Project. Faculty and Administrators can use these data to demonstrate the market value of their degrees and to plan program enhancements. For degree certification, currently popular technologies rely on scribing, a manual, expensive and time-consuming process. The scribing backlog at institutions can be as long as a year, creating a major bottleneck in correct degree audits. EdVision's AI-driven degree audit and certification algorithms automatically assign courses in the transcript to the student's degree progress in a way that maximizes degree progress. Our algorithms handle all the cases we have encountered so far at our STTR partner institution. EdVision's degree certification service further integrates us into the higher education operational workflow. These core data intensive processes are helpful in our quest to offer personalized recommendations to students. This STTR effort has had three-fold outcomes: building highly granular data sources and pipelines for AI model development in higher education; developing multiple algorithms for personalized recommendations for academic progress in higher education; and creating engaging user interfaces that integrate with several student information systems. EdVision's innovative new technology will facilitate personalized experiences for every student's academic journey.       Last Modified: 06/27/2023       Submitted by: Ellis Blanton]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

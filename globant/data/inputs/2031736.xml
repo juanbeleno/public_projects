@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Advanced Topic Modeling Methods to Analyze Text Responses in COVID-19 Survey Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>176785.00</AwardTotalIntnAmount>
+<AwardAmount>191785</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tatiana Korelsky</SignBlockName>
+<PO_EMAI>tkorelsk@nsf.gov</PO_EMAI>
+<PO_PHON>7032928729</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As the COVID-19 pandemic continues, public and private organizations are deploying surveys to inform responses and policy choices. Survey designs using multiple choice responses are by far the most common -- "open ended" questions, where survey participants provide a longer-form written response, are used far less. This is true despite the fact that when you allow people to provide unconstrained spoken or text responses, it is possible to obtain richer, fine-grained information clarifying the other responses, as well as useful “bottom up” information that the survey designers did not know to ask for.  A key problem is that analyzing the unstructured language in open-ended responses is a labor-intensive process, creating obstacles to using them especially when speedy analysis is needed and resources are limited. Computational methods can help, but they often fail to provide coherent, interpretable categories, or they can fail to do a good job connecting the text in the survey with the closed-end responses. This project will develop new computational methods for fast and effective analysis of survey data that includes text responses, and it will apply these methods to support organizations doing high-impact survey work related to COVID-19 response.  This will improve these organizations’ ability to understand and mitigate the impact of the COVID-19 pandemic.&lt;br/&gt;&lt;br/&gt;This project’s technical approach builds on recent techniques bringing together deep learning and Bayesian topic models. Several key technical innovations will be introduced that are specifically geared toward improving the quality of information available in surveys that include both closed- and open-ended responses. A common element in these approaches is the extension of methods commonly used in supervised learning settings, such as task-based fine-tuning of embeddings and knowledge distillation, to unsupervised topic modeling, with a specific focus on producing diverse, human-interpretable topic categories that are well aligned with discrete attributes such as demographic characteristics, closed-end responses, and experimental condition. Project activities include assisting in the analysis of organizations' survey data, conducting independent surveys aligned with their needs to obtain additional relevant data, and the public release of a clean, easy to use computational toolkit facilitating more widespread adoption of these new methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031736</AwardID>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Resnik</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Philip Resnik</PI_FULL_NAME>
+<EmailAddress><![CDATA[resnik@umd.edu]]></EmailAddress>
+<NSF_ID>000187209</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207420001</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 REGENTS DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPU8ULVAAS23</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MARYLAND, COLLEGE PARK</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>KMGEN62NKEM9</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Maryland College Park]]></Name>
+<CityName/>
+<StateCode>MD</StateCode>
+<ZipCode>207425103</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~191785</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Survey data has been, and continues to be, essential for public and private organizations in order to inform responses and policy choices related to the COVID-19 pandemic, and it is equally important for researchers in understanding the pandemic's impact. In general, surveys tend to use <em>closed-end</em> responses like multiple-choice questions or ratings on a 1-to-5 scale; <em>open-ended </em>questions, eliciting a written response, are used far less. This is true despite the fact that unconstrained text responses can yield rich and nuanced information as well as bottom up information that the survey designers did not know to ask about.</p> <p>One of the central obstacles to using open-ended questions, though, is that analyzing people's language in survey responses is a costly and labor-intensive enterprise. Generally analysts read all the responses in a slow, systematic process in order to manually identify themes or categories of response. In more rigorous analyses, additional effort is expended to establish that multiple analysts agree on what the categories are and that they make sense.&nbsp; As an alternative, there are automated ways to identify categories in bodies of text and such methods are highly scalable; however, in practice there is no single accepted way to automate the process, and many survey analysts are unsatisfied with the ability of fully automatic techniques to produce sufficiently high quality results. In addition, there tends to be a sociological gap between the survey research and technological research communities, resulting in automated techniques not being widely adopted.</p> <p><span>This project developed new computational methods for addressing limitations of open-ended responses in surveys, and it has applied these methods to support partners conducting and analyzing surveys related to the pandemic. On the technical side, the project focused on topic models, a category of computational methods that can extract human-interpretable categories from large collections of text. One of the project's surprising findings was that, although newer "neural network" topic models had been claimed to improve on the earlier topic models introduced in the early 2000s, flaws in the way that neural models are evaluated cast significant doubt on the validity of those claims. This led to a new approach to computational model evaluation that is much more directly tied to the processes that survey researchers actually follow in practice when they analyze text responses in the traditional, labor-intensive way. Results of careful and comprehensive experimentation found that the earlier "classical" models are actually superior to the newer neural methods when it comes to criteria that survey analysts care about. Building on that finding to address more generally the crucial issue of analyst trust in the results of such computational methods, the project developed TOPCAT (Topic-Oriented Protocol for Content Analysis of Text),</span><span> </span><span>a software-enabled, human-centered process designed around the traditional qualitative content analysis process, with the goal of widespread utility for "qual" researchers who analyze open-ended responses and other collections of text.</span></p> <p>In addition to its technical aims, the project aimed from the very beginning to use its methods and the knowledge being developed in an ongoing way to help organizations "in the trenches"&nbsp;with their surveys during the pandemic. This included successfully assisting in the analysis of open-ended responses for a number of surveys: one in collaboration with the CDC/National Center for Healthcare Statistics; one &nbsp;conducted by the Pandemic Crisis Services Response Coalition, a national organization focused on mental health issues; one conducted by the NYU School of Nursing looking at the experiences of front-line healthcare providers; a nationally representative survey conducted by Westat and the Stanford Medical School on the social and economic impact of COVID-19; a large survey by the Global Consortium of Nursing &amp; Midwifery Studies with both English and Spanish responses from the U.S. and Latin America (with further plans to continue working with surveys in multiple languages being conducted in the Caribbean, Europe, the Middle East, Asia, and Africa); and a second nationally representative survey on COVID impact designed and deployed in collaboration with Westat.&nbsp; Although not directly related to COVID-19, analysis was conducted using TOPCAT with 16,000 responses in a Reddit thread asking formerly suicidal Redditors what had gotten them through the dark times, with two suicide prevention experts providing the necessary subject matter expertise, providing insights that will be valuable to suicidologists and clinicians encountering people in suicidal crisis.</p> <p><span>This project supported the training of several graduate students, and the TOPCAT protocol, including detailed analyst instructions and supporting software for the end-to-end process, is being made publicly available.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 08/07/2023<br>      Modified by: Philip&nbsp;Resnik</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Survey data has been, and continues to be, essential for public and private organizations in order to inform responses and policy choices related to the COVID-19 pandemic, and it is equally important for researchers in understanding the pandemic's impact. In general, surveys tend to use closed-end responses like multiple-choice questions or ratings on a 1-to-5 scale; open-ended questions, eliciting a written response, are used far less. This is true despite the fact that unconstrained text responses can yield rich and nuanced information as well as bottom up information that the survey designers did not know to ask about.  One of the central obstacles to using open-ended questions, though, is that analyzing people's language in survey responses is a costly and labor-intensive enterprise. Generally analysts read all the responses in a slow, systematic process in order to manually identify themes or categories of response. In more rigorous analyses, additional effort is expended to establish that multiple analysts agree on what the categories are and that they make sense.  As an alternative, there are automated ways to identify categories in bodies of text and such methods are highly scalable; however, in practice there is no single accepted way to automate the process, and many survey analysts are unsatisfied with the ability of fully automatic techniques to produce sufficiently high quality results. In addition, there tends to be a sociological gap between the survey research and technological research communities, resulting in automated techniques not being widely adopted.  This project developed new computational methods for addressing limitations of open-ended responses in surveys, and it has applied these methods to support partners conducting and analyzing surveys related to the pandemic. On the technical side, the project focused on topic models, a category of computational methods that can extract human-interpretable categories from large collections of text. One of the project's surprising findings was that, although newer "neural network" topic models had been claimed to improve on the earlier topic models introduced in the early 2000s, flaws in the way that neural models are evaluated cast significant doubt on the validity of those claims. This led to a new approach to computational model evaluation that is much more directly tied to the processes that survey researchers actually follow in practice when they analyze text responses in the traditional, labor-intensive way. Results of careful and comprehensive experimentation found that the earlier "classical" models are actually superior to the newer neural methods when it comes to criteria that survey analysts care about. Building on that finding to address more generally the crucial issue of analyst trust in the results of such computational methods, the project developed TOPCAT (Topic-Oriented Protocol for Content Analysis of Text), a software-enabled, human-centered process designed around the traditional qualitative content analysis process, with the goal of widespread utility for "qual" researchers who analyze open-ended responses and other collections of text.  In addition to its technical aims, the project aimed from the very beginning to use its methods and the knowledge being developed in an ongoing way to help organizations "in the trenches" with their surveys during the pandemic. This included successfully assisting in the analysis of open-ended responses for a number of surveys: one in collaboration with the CDC/National Center for Healthcare Statistics; one  conducted by the Pandemic Crisis Services Response Coalition, a national organization focused on mental health issues; one conducted by the NYU School of Nursing looking at the experiences of front-line healthcare providers; a nationally representative survey conducted by Westat and the Stanford Medical School on the social and economic impact of COVID-19; a large survey by the Global Consortium of Nursing &amp; Midwifery Studies with both English and Spanish responses from the U.S. and Latin America (with further plans to continue working with surveys in multiple languages being conducted in the Caribbean, Europe, the Middle East, Asia, and Africa); and a second nationally representative survey on COVID impact designed and deployed in collaboration with Westat.  Although not directly related to COVID-19, analysis was conducted using TOPCAT with 16,000 responses in a Reddit thread asking formerly suicidal Redditors what had gotten them through the dark times, with two suicide prevention experts providing the necessary subject matter expertise, providing insights that will be valuable to suicidologists and clinicians encountering people in suicidal crisis.  This project supported the training of several graduate students, and the TOPCAT protocol, including detailed analyst instructions and supporting software for the end-to-end process, is being made publicly available.          Last Modified: 08/07/2023       Submitted by: Philip Resnik]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Scalable Assessment of Urban Earthquake Resilience: A Novel Model-informed Deep Learning Paradigm]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>399504.00</AwardTotalIntnAmount>
+<AwardAmount>413904</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jacqueline Meszaros</SignBlockName>
+<PO_EMAI>jmeszaro@nsf.gov</PO_EMAI>
+<PO_PHON>7032927261</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Resilience refers to a system’s ability to efficiently absorb stresses without significant disruption to its functioning. Communities are earthquake resilient if by mitigation and pre-disaster preparation, they achieve the adaptive capacity for maintaining important community functions and recover rapidly following disasters. Community resilience depends on the performance of building clusters (a set of buildings that serve a common function such as housing) and the supporting infrastructure systems. Reliable assessment of the resilience of building clusters is required for quantifying urban functionality and recovery after an earthquake. A fundamental challenge in evaluating earthquake resilience is how to reliably and efficiently estimate probability of damage/failure of buildings with scalability to the urban level for a given earthquake severity. To address this challenge and bridge the existing knowledge gap, this Disaster Resilience Research Grants (DRRG) project will enable assessment of earthquake resilience for large-scale urban building clusters via developing a fundamentally novel and scalable AI-empowered model. The outcome of this project can be used to evaluate earthquake resilience of building clusters in large-scale urban areas. This paradigm facilitates decision making for seismic risk mitigation, informs planning for post disaster response and recovery, and helps improve future building design. Furthermore, in collaboration with a high school physics teacher and following classroom implementation, a mini-unit will be developed on “What does earthquake resilience mean to my community?” which will be available to other science teachers across the country.&lt;br/&gt;&lt;br/&gt;In order to reliably estimate the seismic demand on a large number of buildings in an urban area under earthquake scenarios, using recorded ground motions (GMs), there is a need for: (a) realistically estimating a GM severity measure (spectral acceleration in this project) variation for buildings with different periods, at different locations and on different soil classes; (b) proper and optimal selection of GM time-histories; and (c) a detailed structural model of buildings for use in numerical simulations. However, it is prohibitively expensive to conduct detailed modeling of a large number of buildings and carrying out nonlinear time history analyses of such models under a large set of GMs probabilistically representing different scenarios. Our project will address this fundamental issue and allow for scalability through the development and implementation of a series of novel AI-empowered algorithms and methods. The overarching goal of this project is to enable the assessment of earthquake resilience for large-scale urban building clusters, through developing a fundamentally novel and scalable model-informed deep learning framework. This will be achieved by: (1) developing a Bayesian deep learning approach to model the variation of spectral acceleration over different periods of vibration, locations, and soil classes, given an earthquake scenario; (2) creating a new unsupervised deep autoencoder-classifier algorithm for ground motion clustering and selection; (3) establishing an innovative model-informed symbolic deep learning method for metamodeling of detailed nonlinear structural models; (4) determining metamodel-enabled fragility functions for representative building models to assess earthquake resilience, accounting for multiple failure criteria and multiple performance objectives; and (5) demonstrating the researched framework for representative buildings in the San Francisco Bay Area.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/01/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2053741</AwardID>
+<Investigator>
+<FirstName>Mehrdad</FirstName>
+<LastName>Sasani</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mehrdad Sasani</PI_FULL_NAME>
+<EmailAddress><![CDATA[m.sasani@neu.edu]]></EmailAddress>
+<NSF_ID>000487719</NSF_ID>
+<StartDate>11/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hao</FirstName>
+<LastName>Sun</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hao Sun</PI_FULL_NAME>
+<EmailAddress><![CDATA[h.sun@northeastern.edu]]></EmailAddress>
+<NSF_ID>000756998</NSF_ID>
+<StartDate>11/01/2021</StartDate>
+<EndDate>02/18/2022</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HLTMVS2JZBS6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NORTHEASTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021155005</ZipCode>
+<StreetAddress><![CDATA[360 Huntington Ave]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>198Y</Code>
+<Text>DRRG-Disaster Resilience Res G</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1576</Code>
+<Text>NATIONL EARTHQK HZRD REDCT PRG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~399504</FUND_OBLG>
+<FUND_OBLG>2023~14400</FUND_OBLG>
+</Award>
+</rootTag>

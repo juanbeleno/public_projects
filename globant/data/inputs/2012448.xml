@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Proposal: Models and Methods for High Quantiles in Risk Quantification and Management]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>80000.00</AwardTotalIntnAmount>
+<AwardAmount>80000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yong Zeng</SignBlockName>
+<PO_EMAI>yzeng@nsf.gov</PO_EMAI>
+<PO_PHON>7032927299</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[In recent years, vulnerabilities in financial markets, economies, and public health have posed increasingly severe risks to society. For monitoring natural disasters and forecasting epidemics, financial institutions and governmental organizations must invest in risk intelligence to clearly define, understand, measure, quantify, and manage their tolerance for and exposure to risk. By employing rigorous and robust analytics to measure, quantify, and forecast risk, business leaders and regulators can rely less on intuition and more on systematic methodologies to manage risk well and make sound policy decisions. This project will develop improved and powerful analytic tools for applied researchers, regulators, and practitioners to conduct risk assessment. These tools and techniques will have broad impacts in wide-ranging fields such as economics, finance, and insurance. The project also intends to provide training opportunities for graduate students and broaden the participation of underrepresented groups in statistics and actuarial science. &lt;br/&gt;&lt;br/&gt;This research project focuses on the uncertainty quantification, back-test, and sensitivity analysis for both conditional and unconditional risk measures computed from mathematical models. This project develops a computationally efficient two-step inference for an ARMA-GARCH model and fits parametric and semi-parametric distribution family to residuals. The investigators will study semi-supervised learning for risk analysis when other variables with a large sample size are available. They also plan to validate residual-based bootstrap methods for quantifying risk uncertainty and develop efficient ways for risk forecasts and back-tests. The new methodologies combine some modern statistical techniques such as extreme value theory for forecasting catastrophic risk, weighted estimation for handling both infinite variance and persistent volatility, and empirical likelihood method for efficient hypothesis testing. These techniques are robust and applicable to various problems in risk management and other research fields requiring uncertainty quantification.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012448</AwardID>
+<Investigator>
+<FirstName>Liang</FirstName>
+<LastName>Peng</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Liang Peng</PI_FULL_NAME>
+<EmailAddress><![CDATA[lpeng@gsu.edu]]></EmailAddress>
+<NSF_ID>000121100</NSF_ID>
+<StartDate>07/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia State University Research Foundation, Inc.</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>303032921</ZipCode>
+<PhoneNumber>4044133570</PhoneNumber>
+<StreetAddress>58 EDGEWOOD AVE NE</StreetAddress>
+<StreetAddress2><![CDATA[FL 3]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MNS7B9CVKDN7</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia State University]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303032921</ZipCode>
+<StreetAddress><![CDATA[33 Broad St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~80000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The main research activities have been&nbsp;related to model-based risk analysis by taking heteroscedasticity and heavy tails into account. The key applications are for insurance and financial losses in risk management.</p> <p>&nbsp;</p> <p>This grant hosts visitors Zhengjun Zhang (University of Wisconsin), Jiancheng Jiang (UNCC), and Seul Ki Kang&nbsp; (University of St Thomas).</p> <p>This grant supports Ph.D. students Weimin Liu (who graduated in 2021), Seul Ki Kang (who graduated in 2022), and Wanggefei Wu.&nbsp;&nbsp;</p> <p>Some results are published as follows.&nbsp;</p> <p>&nbsp;</p> <p><span>M. Zhou, L. Peng and R. Zhang (2021). Empirical likelihood test for the application of SWQMELE in fitting an ARMA-GARCH model. Journal of Time Series Analysis 42, 222-239.</span></p> <p><span>&nbsp;</span><span><br /></span><span>Y. He, L. Peng, Z. Zhao and D. Zhang (2022). Risk analysis via generalized Pareto distributions. Journal of Business and Economic Statistics 40, 852&ndash;867.</span></p> <p><span>&nbsp;</span><span><br /></span><span>Y. Hou, S. Kang, C. Lo and L. Peng (2022). Three-step risk inference in insurance ratemaking. Insurance: Mathematics and Economics 105, 1&ndash;13.</span></p> <p><span>&nbsp;</span><span><br /></span><span>Y. Ma, M. Zhou, L. Peng and R. Zhang (2022). Test for Zero Median of Errors in an ARMA-GARCH Model. Econometric Theory 38, 536&ndash;561.</span></p> <p>&nbsp;</p> <p><span>J. Ding, L. Jiang, X. Liu and L. Peng (2023). Nonparametric tests for market timing using daily mutual fund returns. Journal of Economic Dynamics and Control 150, 104635.</span></p> <p><span>&nbsp;</span><span><br /></span><span>L. Jiang, W. Liu and L. Peng (2023). Test for market timing using daily fund returns. Journal of Business and Economic Statistics 41, 184&ndash;196.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 08/01/2023<br>      Modified by: Liang&nbsp;Peng</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The main research activities have been related to model-based risk analysis by taking heteroscedasticity and heavy tails into account. The key applications are for insurance and financial losses in risk management.     This grant hosts visitors Zhengjun Zhang (University of Wisconsin), Jiancheng Jiang (UNCC), and Seul Ki Kang  (University of St Thomas).  This grant supports Ph.D. students Weimin Liu (who graduated in 2021), Seul Ki Kang (who graduated in 2022), and Wanggefei Wu.    Some results are published as follows.      M. Zhou, L. Peng and R. Zhang (2021). Empirical likelihood test for the application of SWQMELE in fitting an ARMA-GARCH model. Journal of Time Series Analysis 42, 222-239.    Y. He, L. Peng, Z. Zhao and D. Zhang (2022). Risk analysis via generalized Pareto distributions. Journal of Business and Economic Statistics 40, 852&ndash;867.    Y. Hou, S. Kang, C. Lo and L. Peng (2022). Three-step risk inference in insurance ratemaking. Insurance: Mathematics and Economics 105, 1&ndash;13.    Y. Ma, M. Zhou, L. Peng and R. Zhang (2022). Test for Zero Median of Errors in an ARMA-GARCH Model. Econometric Theory 38, 536&ndash;561.     J. Ding, L. Jiang, X. Liu and L. Peng (2023). Nonparametric tests for market timing using daily mutual fund returns. Journal of Economic Dynamics and Control 150, 104635.    L. Jiang, W. Liu and L. Peng (2023). Test for market timing using daily fund returns. Journal of Business and Economic Statistics 41, 184&ndash;196.          Last Modified: 08/01/2023       Submitted by: Liang Peng]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

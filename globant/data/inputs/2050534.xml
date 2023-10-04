@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[REU Site: Research Experiences in Computational Science, Engineering, and Mathematics (RECSEM).]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>404779.00</AwardTotalIntnAmount>
+<AwardAmount>426811</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Juan Li</SignBlockName>
+<PO_EMAI>jjli@nsf.gov</PO_EMAI>
+<PO_PHON>7032922625</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The Research Experiences in Computational Science, Engineering, and Mathematics (RECSEM) REU site program at the University of Tennessee (UTK) engages a group of ten undergraduate students each year to explore emerging interdisciplinary computational science models and techniques via a variety of compute-intensive and data-driven applications. The RECSEM program complements the growing importance of computational sciences in many advanced degree programs and provides scientific understanding and discovery to undergraduates with an intellectual focus on research projects using high performance computing (HPC). This program aims to deliver a real-world research experience to the students by partnering with teams of scientists engaged in scientific computing research at the Joint Institutes of Computational Sciences (JICS), the Innovative Computing Laboratory (ICL), and Oak Ridge National Laboratory. International students supported by several partnering universities in Hong Kong also participate in this program. Together the students of RECSEM work collaboratively to achieve their research goals, and at the same time share a unique opportunity for trading academic experiences, scientific ideas, and cultural and social activities in the ten week long programs.&lt;br/&gt;&lt;br/&gt;The program is organized around ideas and practices common to many scientific disciplines. The research projects are categorized into three interrelated areas of research interests: engineering applications, numerical mathematics, and linear algebra software and tools. The scope of work for these projects puts emphasis on developing skill sets in scientific model derivation, software implementation, and evaluation of numerical experiments, under the guidance of a team of experts in each scientific domain. Projects include computationally oriented multi-scale materials science and biomechanics applications, simulation of traffic flow phenomena, and processing of images using different techniques and algorithms from machine learning and data analytics. The students have opportunities to perform large-scale scientific simulations on HPC clusters as well as world-class state-of-the-art supercomputers equipped with the latest hardware technologies provided by the Extreme Science and Engineering Discovery Environment (XSEDE) organization, and include computing units with graphical processing units (GPUs). The RECSEM program is organized into four major activities: HPC training, research formulation, project action, and scientific reporting. These stages aim to lead the students toward completing their research projects on time during the REU period, while providing the appropriate level of motivation and guidance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/30/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>09/02/2023</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2050534</AwardID>
+<Investigator>
+<FirstName>Kwai</FirstName>
+<LastName>Wong</LastName>
+<PI_MID_INIT>L</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Kwai L Wong</PI_FULL_NAME>
+<EmailAddress><![CDATA[kwong@utk.edu]]></EmailAddress>
+<NSF_ID>000349337</NSF_ID>
+<StartDate>08/30/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stanimire</FirstName>
+<LastName>Tomov</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Stanimire Tomov</PI_FULL_NAME>
+<EmailAddress><![CDATA[tomov@icl.utk.edu]]></EmailAddress>
+<NSF_ID>000492784</NSF_ID>
+<StartDate>08/30/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960001</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>201 ANDY HOLT TOWER</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TN02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FN2YCS2YAUW3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF TENNESSEE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JBG7T7RXQ2B7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Tennessee: Knoxville]]></Name>
+<CityName>Knoxville</CityName>
+<StateCode>TN</StateCode>
+<ZipCode>379960003</ZipCode>
+<StreetAddress><![CDATA[1 Circle Park]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TN02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>044Y</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002324DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~404779</FUND_OBLG>
+<FUND_OBLG>2023~22032</FUND_OBLG>
+</Award>
+</rootTag>

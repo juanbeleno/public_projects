@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Artificial Intelligence Platform for Peptide Drug Discovery]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Pierstorff</SignBlockName>
+<PO_EMAI>epiersto@nsf.gov</PO_EMAI>
+<PO_PHON>7032922165</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is an improved drug discovery process for peptide therapeutics. The key therapeutic areas for peptide drugs are diabetes, obesity and cancer. Antibodies are often a treatment of choice but can be expensive, putting significant strain on patients and their families. Synthetic peptide drugs can be cheaper to produce while having similar specificity and low toxicity. This proposal’s technology could improve the efficiency of pre-clinical lead development; a time savings of 20% would result in $4.2 M in savings in a single discovery program. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims to demonstrate and experimentally validate the ability of a novel neural network framework to accurately predict peptides with anti-inflammatory activity. The proposed innovation addresses fundamental limitations of current artificial intelligence approaches, as applied to peptide datasets, via use of novel data encoding and innovative model architectures. This project will involve further development of the architectures and incorporation of effective data augmentation and transfer learning strategies to effectively leverage small datasets. Moreover, the model-predicted peptide variants will be extensively validated by generating wet-lab data and evaluating real-life performance. Tools to visualize the promising peptide patterns will be developed to enable models necessary for widespread adoption of artificial intelligence approaches. The successful completion of this proposal will result in novel anti-inflammatory lead peptides and a unique deep learning framework to accelerate and improve peptide drug discovery.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014327</AwardID>
+<Investigator>
+<FirstName>Ewa</FirstName>
+<LastName>Lis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ewa Lis</PI_FULL_NAME>
+<EmailAddress><![CDATA[elis@koliberbio.com]]></EmailAddress>
+<NSF_ID>000670438</NSF_ID>
+<StartDate>05/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Koliber Biosciences Inc.</Name>
+<CityName>SAN DIEGO</CityName>
+<ZipCode>921283771</ZipCode>
+<PhoneNumber>8583537677</PhoneNumber>
+<StreetAddress>12265 WORLD TRADE DR</StreetAddress>
+<StreetAddress2><![CDATA[STE G]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>52</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA52</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QCBHFNAQGXC3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>KOLIBER BIOSCIENCES INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Koliber Biosciences Inc.]]></Name>
+<CityName>San Diego</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>921214152</ZipCode>
+<StreetAddress><![CDATA[6760 Top Gun St., Suite 110]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>52</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA52</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~225000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Peptides therapeutics represent a key drug modality with unparalleled efficacy and safety in metabolic diseases and unique properties that are driving the adoption of this modality for oncology, non-addictive pain management, cardiovascular, urological and respiratory diseases. The process of peptide drug discovery however is long, costly, and unpredictable driven by the exponentially increasing complexity of the generated datasets. The proposed innovation is an Artificial Intelligence (AI) based peptide drug discovery platform that will augment the decision-making capabilities of wet lab scientists throughout the entire pre-clinical peptide discovery process from inception when no data is available, through hit identification, lead optimization and in vivo studies. This novel approach will result in accelerated development timelines, superior clinical candidates and ultimately higher efficacy and safer therapeutics for patients.</p> <p>This Small Business Innovation Research Phase I project resulted in the development of a prototype AI peptide drug discovery platform that enables the use of machine learning to model any property of interest, identify key drivers of performance, predict the effect of peptide modifications and prioritize peptides for testing in the wet lab. Phase I successfully established feasibility with a deep learning framework using a novel representation of the peptide to the algorithm and a novel way to learn peptide features. Using models trained on immunology datasets, three novel anti-inflammatory peptides were discovered. Future work will focus on broadening the range of datasets and types of peptides that can be utilized for training machine learning models to support discovery projects across the entire pre-clinical development process and meet the needs of customers now and in the future as the peptide field evolves.</p> <p>The key therapeutic areas, where peptide drugs are used, are diabetes, obesity and cancer, diseases that have reached epidemic proportions. Biologics, such as monoclonal antibodies are becoming the treatment of choice, especially in oncology. It is not uncommon however for these treatments to cost hundreds of thousands of dollars, putting significant strain on patients and their families. Synthetic peptide drugs are ten times cheaper to produce and have the same high specificity and low toxicity of biologics. Improving the peptide drug development pipeline and increasing the number of effective peptides on the market is of great societal benefit.</p> <p>The proposed technology will be commercialized through a combination of software licenses and custom service projects and will provide a cost-effective system to augment the current peptide drug discovery process. This will create immense benefit for peptide drug discovery companies. Reductions in development timelines will create large savings due to the high cost of pre-clinical research. The identification of leads with better performance will increase the transition rate through clinical trials to FDA approval. Moreover, the ability to generate novel leads and predict critical modifications with the platform will result in stronger IP protection and greater market differentiation.</p> <p>Development of high performing AI methods for amino acid sequence data has broad implications beyond peptide drug discovery as well. The platform could be extended towards new applications of antibody and protein engineering. Moreover, successful applications of AI to health sciences will drive adoption of AI and could lead to unprecedented advances in discovery and basic science.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 06/16/2022<br>      Modified by: Ewa&nbsp;Lis</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Peptides therapeutics represent a key drug modality with unparalleled efficacy and safety in metabolic diseases and unique properties that are driving the adoption of this modality for oncology, non-addictive pain management, cardiovascular, urological and respiratory diseases. The process of peptide drug discovery however is long, costly, and unpredictable driven by the exponentially increasing complexity of the generated datasets. The proposed innovation is an Artificial Intelligence (AI) based peptide drug discovery platform that will augment the decision-making capabilities of wet lab scientists throughout the entire pre-clinical peptide discovery process from inception when no data is available, through hit identification, lead optimization and in vivo studies. This novel approach will result in accelerated development timelines, superior clinical candidates and ultimately higher efficacy and safer therapeutics for patients.  This Small Business Innovation Research Phase I project resulted in the development of a prototype AI peptide drug discovery platform that enables the use of machine learning to model any property of interest, identify key drivers of performance, predict the effect of peptide modifications and prioritize peptides for testing in the wet lab. Phase I successfully established feasibility with a deep learning framework using a novel representation of the peptide to the algorithm and a novel way to learn peptide features. Using models trained on immunology datasets, three novel anti-inflammatory peptides were discovered. Future work will focus on broadening the range of datasets and types of peptides that can be utilized for training machine learning models to support discovery projects across the entire pre-clinical development process and meet the needs of customers now and in the future as the peptide field evolves.  The key therapeutic areas, where peptide drugs are used, are diabetes, obesity and cancer, diseases that have reached epidemic proportions. Biologics, such as monoclonal antibodies are becoming the treatment of choice, especially in oncology. It is not uncommon however for these treatments to cost hundreds of thousands of dollars, putting significant strain on patients and their families. Synthetic peptide drugs are ten times cheaper to produce and have the same high specificity and low toxicity of biologics. Improving the peptide drug development pipeline and increasing the number of effective peptides on the market is of great societal benefit.  The proposed technology will be commercialized through a combination of software licenses and custom service projects and will provide a cost-effective system to augment the current peptide drug discovery process. This will create immense benefit for peptide drug discovery companies. Reductions in development timelines will create large savings due to the high cost of pre-clinical research. The identification of leads with better performance will increase the transition rate through clinical trials to FDA approval. Moreover, the ability to generate novel leads and predict critical modifications with the platform will result in stronger IP protection and greater market differentiation.  Development of high performing AI methods for amino acid sequence data has broad implications beyond peptide drug discovery as well. The platform could be extended towards new applications of antibody and protein engineering. Moreover, successful applications of AI to health sciences will drive adoption of AI and could lead to unprecedented advances in discovery and basic science.           Last Modified: 06/16/2022       Submitted by: Ewa Lis]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

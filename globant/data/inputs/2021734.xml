@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: ABI Development: Integrated platforms for protein structure and function predictions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/07/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>88512.00</AwardTotalIntnAmount>
+<AwardAmount>88512</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter McCartney</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Proteins are the 'workhorse' molecules of life, they participate in nearly every activity that cells carry out. It follows that understanding protein structure and function is essential to understanding life processes, and how to control or modify them. Biochemistry and biophysics experiments give the most accurate data on protein structure and function, but the experiments are often expensive and too specialized for many of the cell and molecular biologists focused on a particular interesting protein. This means that reliable computational predictions of protein structure and function are in high demand. These techniques are also specialized but can be automated, which is the focus of this project, which aims to develop an integrated platform for high-resolution protein structure prediction and structure-based function annotation that is accessible from the Web. This resource will significantly enhance studies of individual proteins as well as processes in cellular biology and other biological sciences. Through the collaboration of the two institutions, students at NCAT will learn state of the art high performance computing methods, and workshops at both institutions will provide greater understanding of the capabilities of the new resource. &lt;br/&gt;&lt;br/&gt;Proteins are complex components of biological systems, and studies on their structure and function often require multiple approaches to measurement or modeling. Many of the advanced computer algorithms used in this modeling are highly specialized, involving a number of complicated processes for each aspect of the protein modeling. Biologists whose primary interest is the final result often cannot determine which algorithm or pipeline to choose, how to enter parameters, or how to interpret the resulting models. While continuing to improve the accuracy of the core algorithms in protein structure prediction and structure-based function annotation, this project will also make improvements to domain parsing and assembly, to improve the quality of complex protein structure and function modeling. Another major focus of this project is to develop new protocols that automatically guide protein targets to the most suitable pipelines. In conjunction with this there will be new confidence scoring systems, both global and local, to assist biological users as they interpret the modeling results. In addition, advanced parallel computing and graphic processor unit techniques will be implemented in order to accelerate the pipelines and reduce user's waiting time.  New opportunities will be made for improving educational outcomes, in particular for women and minority students, in both University of Michigan and the North Carolina A&amp;T State University. The on-line protein modeling system will be accessible to the community at http://zhanglab.ccmb.med.umich.edu.&lt;br/&gt;]]></AbstractNarration>
+<MinAmdLetterDate>02/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>0</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2021734</AwardID>
+<Investigator>
+<FirstName>Dukka</FirstName>
+<LastName>KC</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dukka B KC</PI_FULL_NAME>
+<EmailAddress><![CDATA[dbkc@mtu.edu]]></EmailAddress>
+<NSF_ID>000651473</NSF_ID>
+<StartDate>02/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wichita State University</Name>
+<CityName>WICHITA</CityName>
+<ZipCode>672609700</ZipCode>
+<PhoneNumber>3169783285</PhoneNumber>
+<StreetAddress>1845 FAIRMOUNT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JKKNZLNYLJ19</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WICHITA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JKKNZLNYLJ19</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Wichita State University]]></Name>
+<CityName>Wichita</CityName>
+<StateCode>KS</StateCode>
+<ZipCode>672600007</ZipCode>
+<StreetAddress><![CDATA[1845 Fairmount St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0116</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001617DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2016~88512</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>With the advent of widely available GPGPU hardware on numerous platforms and the ongoing development of programming API's, these specialized processors have been widely applied to various scientific tasks.&nbsp;&nbsp;The project help develop GPU-I-TASSER, a GPU-enabled I-TASSER protein structure pipeline that is 10x faster than the existing I-TASSER pipeline which is one of the most successful protein structure prediction pipelines.</p> <p>&nbsp;</p> <p>GPU-I-TASSER which is freely available to the scientific community, will be an invaluable tool to predict protein structure in proteome scale which is likely to be very useful in various other structural bioinformatics problems/topic areas. This would really accelerate the field of structural bioinformatics and accelerate use of structures(predicted) in various fields including drug discovery.&nbsp;</p> <p>&nbsp;</p> <p>Ability to predict protein structures efficiently brings broader impacts within and beyond the field of structural bioinformatics. In addition, student from underrepresented groups were trained in the intersection of biology and high-performance computing. More than 43 participants representing 13 different institutions including many HBCUs participated in the workshop. This will help in the diversity of the STEM field. In addition, workshops were conducted to share the knowledge with a large community of researchers. In addition, a book chapter and 2 journal articles and 2 conference papers were published using the results of the project.&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/29/2021<br>      Modified by: Dukka&nbsp;B&nbsp;Kc</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ With the advent of widely available GPGPU hardware on numerous platforms and the ongoing development of programming API's, these specialized processors have been widely applied to various scientific tasks.  The project help develop GPU-I-TASSER, a GPU-enabled I-TASSER protein structure pipeline that is 10x faster than the existing I-TASSER pipeline which is one of the most successful protein structure prediction pipelines.     GPU-I-TASSER which is freely available to the scientific community, will be an invaluable tool to predict protein structure in proteome scale which is likely to be very useful in various other structural bioinformatics problems/topic areas. This would really accelerate the field of structural bioinformatics and accelerate use of structures(predicted) in various fields including drug discovery.      Ability to predict protein structures efficiently brings broader impacts within and beyond the field of structural bioinformatics. In addition, student from underrepresented groups were trained in the intersection of biology and high-performance computing. More than 43 participants representing 13 different institutions including many HBCUs participated in the workshop. This will help in the diversity of the STEM field. In addition, workshops were conducted to share the knowledge with a large community of researchers. In addition, a book chapter and 2 journal articles and 2 conference papers were published using the results of the project.           Last Modified: 10/29/2021       Submitted by: Dukka B Kc]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

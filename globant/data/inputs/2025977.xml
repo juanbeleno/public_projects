@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Extrusion quality inspection with machine learning]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255993.00</AwardTotalIntnAmount>
+<AwardAmount>275993</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be to improve product quality in products generated in continuous extrusion environments.  For instance, 2-55% of raw material can be wasted in plastics extrusion. In aggregate at least $500M raw material is lost each year in the US alone, creating additional environmental concerns because this waste plastic is typically not reusable nor recyclable. Manual inspection is problematic for this process at scale.  This project will apply intelligent systems to automatically detect and act upon imperfections, improving efficiency and financial performance. The system will initially be applied to plastics extrusion, and later to a wide range of industries including metals, food and pharmaceutical production. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will allow development of novel machine learning and artificial intelligence technologies to automatically detect output of substandard quality in continuous manufacturing environments. The research will generate real-world plastics production data from a range of sensor inputs to train AI models to classify outputs. New approaches in AI/ML will be applied to develop robust, adaptable models to infer error states in product output. Research will also cover the development of technologies to detect failed product output in changing factory conditions, such as fouling of camera lenses or unexpected movement of the hardware.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/16/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025977</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Marshall</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Richard Marshall</PI_FULL_NAME>
+<EmailAddress><![CDATA[richard@completionAI.com]]></EmailAddress>
+<NSF_ID>000803356</NSF_ID>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>COMPLETIONAI LLC</Name>
+<CityName>MARBLEHEAD</CityName>
+<ZipCode>019453408</ZipCode>
+<PhoneNumber>5185728572</PhoneNumber>
+<StreetAddress>20 HIGH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA06</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UV7JJCC1EK89</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COMPLETIONAI LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[COMPLETIONAI LLC]]></Name>
+<CityName>Marblehead</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>019453408</ZipCode>
+<StreetAddress><![CDATA[20 High St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA06</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~255993</FUND_OBLG>
+<FUND_OBLG>2021~20000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>While plastic products are central to modern life, the industry faces serious challenges from regulatory demands to reduce adverse environmental impacts and economic requirements for greater efficiency. Recycling of plastic film, notably single-use packaging, is critical. But the quality of post consumer-recycled plastics (PCR) is a problem and consistent supply is difficult, meaning its composition is unpredictable compared to equivalent virgin plastic. As a result, factories producing plastic film lose vital operating time to achieve stable production each time they receive a new lot of recycled plastic, significantly lowering production yield and profitability, and creating adverse environmental consequences. We have developed an innovative technology to alleviate these problems in plastics extrusion. Our industrial technology helps film extruders incorporate these recycled plastics much more efficiently. Our approach addresses major issues: (a) profits reduced due to unsaleable output, (b) excess waste, (c) a shrinking pool of experienced operators at a time when domain knowledge is needed to deal with these difficult recycled materials, and (d) environmental impacts.</p> <p>We apply the latest artificial intelligence capabilities and process control design to plastics manufacturing. The resulting approach to the control of complex plastic film extrusion processes is industrially novel and not known in academic literature, nor commercial practice. Significantly, efficacy was shown using a commercial extrusion line and our technology proved highly effective at controlling the process. Industrial automation systems have the potential to be one of the most value-generating efforts available to manufacturing companies, and our approach may be applicable to a wider range of industries relying on extrusion processing, such as metals, paper or advanced materials.</p> <p>For the foreseeable future the World will remain dependent on plastics, with extruded plastics forecast to be worth $292 Billion by 2026. It is important that the USA maintains influence in the field. Events during the pandemic have underscored the need for a strong manufacturing base to be able to adroitly react to challenges ahead in the 21st century. Yet this enormous industry is facing a dilemma: how to affordably reincorporate single-use plastics in its supply chain? Manufacturers of plastic film must use post-consumer-recycled plastic as regulatory and societal pressures are forcing a rethink of single use plastics. There is a tremendous opportunity for enabling green technologies such as ours to support this transition and provide an advantage to USA producers. Increasing yield with our technology will lower waste, in addition to incorporating the recycled plastics more efficiently. Hence, our technology has the potential to annually save 6.5 million MT of CO2 emissions in USA and Canada, and 28 million MT globally. Moreover, boosting the application of artificial intelligence for plastics manufacturing is of strategic advantage to the USA, with our corporate strategy to apply our capabilities later also to metals, paper, or advanced materials. Each of these also have enormous economic, geo-political, and even national defense implications. Furthermore, skills shortages are impacting manufacturing and will worsen due to a rapidly ageing workforce. Operators have a great deal of on-the-job expertise which will be lost in coming years. Our technology can ease this transition, acting as an expert decision system to carry the intelligence forward and help maintain manufacturing competitiveness in the USA.</p><br> <p>            Last Modified: 07/07/2022<br>      Modified by: Richard&nbsp;Marshall</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ While plastic products are central to modern life, the industry faces serious challenges from regulatory demands to reduce adverse environmental impacts and economic requirements for greater efficiency. Recycling of plastic film, notably single-use packaging, is critical. But the quality of post consumer-recycled plastics (PCR) is a problem and consistent supply is difficult, meaning its composition is unpredictable compared to equivalent virgin plastic. As a result, factories producing plastic film lose vital operating time to achieve stable production each time they receive a new lot of recycled plastic, significantly lowering production yield and profitability, and creating adverse environmental consequences. We have developed an innovative technology to alleviate these problems in plastics extrusion. Our industrial technology helps film extruders incorporate these recycled plastics much more efficiently. Our approach addresses major issues: (a) profits reduced due to unsaleable output, (b) excess waste, (c) a shrinking pool of experienced operators at a time when domain knowledge is needed to deal with these difficult recycled materials, and (d) environmental impacts.  We apply the latest artificial intelligence capabilities and process control design to plastics manufacturing. The resulting approach to the control of complex plastic film extrusion processes is industrially novel and not known in academic literature, nor commercial practice. Significantly, efficacy was shown using a commercial extrusion line and our technology proved highly effective at controlling the process. Industrial automation systems have the potential to be one of the most value-generating efforts available to manufacturing companies, and our approach may be applicable to a wider range of industries relying on extrusion processing, such as metals, paper or advanced materials.  For the foreseeable future the World will remain dependent on plastics, with extruded plastics forecast to be worth $292 Billion by 2026. It is important that the USA maintains influence in the field. Events during the pandemic have underscored the need for a strong manufacturing base to be able to adroitly react to challenges ahead in the 21st century. Yet this enormous industry is facing a dilemma: how to affordably reincorporate single-use plastics in its supply chain? Manufacturers of plastic film must use post-consumer-recycled plastic as regulatory and societal pressures are forcing a rethink of single use plastics. There is a tremendous opportunity for enabling green technologies such as ours to support this transition and provide an advantage to USA producers. Increasing yield with our technology will lower waste, in addition to incorporating the recycled plastics more efficiently. Hence, our technology has the potential to annually save 6.5 million MT of CO2 emissions in USA and Canada, and 28 million MT globally. Moreover, boosting the application of artificial intelligence for plastics manufacturing is of strategic advantage to the USA, with our corporate strategy to apply our capabilities later also to metals, paper, or advanced materials. Each of these also have enormous economic, geo-political, and even national defense implications. Furthermore, skills shortages are impacting manufacturing and will worsen due to a rapidly ageing workforce. Operators have a great deal of on-the-job expertise which will be lost in coming years. Our technology can ease this transition, acting as an expert decision system to carry the intelligence forward and help maintain manufacturing competitiveness in the USA.       Last Modified: 07/07/2022       Submitted by: Richard Marshall]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

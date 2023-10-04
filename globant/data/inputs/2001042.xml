@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantitative, Computational, and Stochastic Aspects of Topology]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>174244.00</AwardTotalIntnAmount>
+<AwardAmount>174244</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Swatee Naik</SignBlockName>
+<PO_EMAI>snaik@nsf.gov</PO_EMAI>
+<PO_PHON>7032924876</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Topology is the study of global properties of geometric objects which are preserved under deformation; it has recently found applications in areas such as protein folding and analysis of high-dimensional data. A particularly successful approach, which has produced innumerable results since the 1950's, is computing algebraic invariants which are then studied through algebraic means.  However, in many situations this way of transforming the problem hides some inherent geometric complexity -- for example, one can deform one object to another, but only by making it very complicated somewhere in the middle.  In such a case, the existence of a deformation may not be particularly meaningful from a physical, application-oriented point of view.  In other cases, in contrast, one can always find a reasonably straightforward deformation, validating the use of algebraic methods for applications.  The purpose of this project is to investigate these phenomena.&lt;br/&gt;&lt;br/&gt;The project will enrich our understanding of the ideas of geometric topology by proving results of three types: quantitative results, measuring the size and complexity, in various senses, of objects whose existence is known via algebra; algorithmic results, showing that certain problems can be resolved algorithmically while others cannot; and stochastic results, describing the properties of random objects. One can think of many such results as answering questions about the geometry of function and moduli spaces. Closely related questions are studied in geometric group theory, knot theory, the combinatorics of expander graphs, and the theory of topological data analysis. However, the study of high-dimensional and simply connected manifolds and complexes requires a different set of tools which have only begun to be developed. Since function spaces are found  all over mathematics, this project offers connections to a number of mathematical fields ranging from theoretical computer science to fluid dynamics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>10/23/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>10/23/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2001042</AwardID>
+<Investigator>
+<FirstName>Fedor</FirstName>
+<LastName>Manin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Fedor Manin</PI_FULL_NAME>
+<EmailAddress><![CDATA[manin@math.ucsb.edu]]></EmailAddress>
+<NSF_ID>000791192</NSF_ID>
+<StartDate>10/23/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>SANTA BARBARA</CityName>
+<ZipCode>931060001</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>3227 CHEADLE HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA24</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G9QBQDH39DF4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SANTA BARBARA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Santa Barbara]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>931062050</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>24</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA24</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1267</Code>
+<Text>TOPOLOGY</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~174244</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The main goal of this project was to study the relationship between topological properties of shapes (those which are preserved under deformation) and their geometric properties (those which take distances into account).&nbsp; A simple example is given by a rubber band twisting around a cylinder.&nbsp; The greater the number of times the rubber band is wound around (a topological property), the more you have to stretch it (a geometric property).</p> <p>The PI studies such relationships in the context of higher-dimensional objects, trying to understand what happens in the most efficient cases as well as in a random situation.&nbsp; In addition, the PI studies whether certain topological problems can be resolved by a computer; this is related because when a problem cannot be resolved by a computer, this means that some instances of the problem must have solutions that are extremely geometrically complicated.</p> <p><strong>Intellectual merit.</strong>&nbsp;The PI and his collaborators made headway on a number of directions proposed in the project.&nbsp; Here are a few examples.</p> <p>The first direction is exemplified by the paper "Scalable spaces" by Berdnikov and Manin and the preprint "Degrees of maps and multiscale geometry" by Berdnikov, Guth, and Manin.&nbsp; The authors study the relationship between the topological properties of a space and how efficiently it can be wound around itself (similar to the rubber band in the introductory paragraph).&nbsp; This investigation has provided key tools to resolve several other questions posed by the well-known mathematician Mikhail Gromov in the 1990s.</p> <p>In the paper "Filling random cycles", the PI studied a problem that can be formulated as follows.&nbsp; Consider a circular wire twisted randomly inside a three-dimensional cube.&nbsp; How does the area of the smallest soap bubble that can be stretched over this wire depend on the wire's length?&nbsp; The PI resolved this problem and related problems in other dimensions by using ideas from combinatorial probability theory.</p> <p>In the paper "Rational homotopy theory and computability", the PI studied whether a computer can resolve certain topological questions.&nbsp; In certain cases, an algorithm was given to resolve those questions.&nbsp; In other cases, the question either cannot be resolved by a computer, or whether it can be resolved depends on deep unsolved questions in number theory.</p> <p><strong>Broader impacts.</strong>&nbsp;In the course of the project, the PI helped mentor several graduate and undergraduate students and a postdoc.&nbsp; Two graduate students and the postdoc are still working under his supervision as of the end of the project.&nbsp; One of the undergraduate students has graduated and entered the PhD program at Cornell University.&nbsp; Another went on to a masters program in physics at CSU Long Beach.</p> <p>During the COVID-19 pandemic, the PI helped organize a biweekly online seminar in his research area.&nbsp; This allowed researchers to keep contact with each other's work while travel was not possible.</p> <p>Finally, the PI gave multiple online outreach talks to undergraduate students explaining the more accessible aspects of his research.</p><br> <p>            Last Modified: 12/27/2022<br>      Modified by: Fedor&nbsp;Manin</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The main goal of this project was to study the relationship between topological properties of shapes (those which are preserved under deformation) and their geometric properties (those which take distances into account).  A simple example is given by a rubber band twisting around a cylinder.  The greater the number of times the rubber band is wound around (a topological property), the more you have to stretch it (a geometric property).  The PI studies such relationships in the context of higher-dimensional objects, trying to understand what happens in the most efficient cases as well as in a random situation.  In addition, the PI studies whether certain topological problems can be resolved by a computer; this is related because when a problem cannot be resolved by a computer, this means that some instances of the problem must have solutions that are extremely geometrically complicated.  Intellectual merit. The PI and his collaborators made headway on a number of directions proposed in the project.  Here are a few examples.  The first direction is exemplified by the paper "Scalable spaces" by Berdnikov and Manin and the preprint "Degrees of maps and multiscale geometry" by Berdnikov, Guth, and Manin.  The authors study the relationship between the topological properties of a space and how efficiently it can be wound around itself (similar to the rubber band in the introductory paragraph).  This investigation has provided key tools to resolve several other questions posed by the well-known mathematician Mikhail Gromov in the 1990s.  In the paper "Filling random cycles", the PI studied a problem that can be formulated as follows.  Consider a circular wire twisted randomly inside a three-dimensional cube.  How does the area of the smallest soap bubble that can be stretched over this wire depend on the wire's length?  The PI resolved this problem and related problems in other dimensions by using ideas from combinatorial probability theory.  In the paper "Rational homotopy theory and computability", the PI studied whether a computer can resolve certain topological questions.  In certain cases, an algorithm was given to resolve those questions.  In other cases, the question either cannot be resolved by a computer, or whether it can be resolved depends on deep unsolved questions in number theory.  Broader impacts. In the course of the project, the PI helped mentor several graduate and undergraduate students and a postdoc.  Two graduate students and the postdoc are still working under his supervision as of the end of the project.  One of the undergraduate students has graduated and entered the PhD program at Cornell University.  Another went on to a masters program in physics at CSU Long Beach.  During the COVID-19 pandemic, the PI helped organize a biweekly online seminar in his research area.  This allowed researchers to keep contact with each other's work while travel was not possible.  Finally, the PI gave multiple online outreach talks to undergraduate students explaining the more accessible aspects of his research.       Last Modified: 12/27/2022       Submitted by: Fedor Manin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

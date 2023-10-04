@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: 6Fit-a-Part: A Device for Physical Distancing</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexander Sprintson</SignBlockName>
+<PO_EMAI>asprints@nsf.gov</PO_EMAI>
+<PO_PHON>7032922170</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This research proposes to create a custom wearable device that aids physical distancing by alerting the user when another similar device ventures too close. By warning people of potential safe-distance violations, this research aims at preventing the transmission of COVID-19 and reducing the risk of exposure at public places including grocery stores, pharmacies, hospitals, warehouses, and mitigating public health concerns. The proposed device can be attached to clothing, be worn as an arm-band, or clamp to common objects, such as shopping carts, baskets, and luggage. Using wireless distance measurement technology, the proposed device constantly measures the distance from similar nearby devices, raising alarm if another one is detected in close-range. It would remain undeterred by signal blocking from the user's body, yet ignore devices in an adjoining room or neighboring aisle, since virus transmission across such barriers is unlikely. Existing wireless distance measuring technology on smartphones is unable to make this distinction, necessitating this research. This work analyzes wireless reflections and signal strength variations improving the reliability of distance measurements, and advancing the science of wireless sensing. This research hopes to provide the tools that will enable quicker restoration of normalcy while remaining cautious and avoiding new COVID-19 waves.&lt;br/&gt;&lt;br/&gt;This research creates a custom wearable device that determines its distance from all similar devices in the vicinity and warns users when safe distance is not maintained. The proposed device communicates using ultra-wideband (UWB) wireless signals allowing accurate distance estimation (ranging) in real-world multipath environments, which existing wireless technology on a smartphone cannot achieve. This work will have two core contributions: (i) a modified ranging protocol for peer-peer distance measurements, and (ii) an environment-sensing technique, performing a 3-way distinction between (a) direct line-of-sight measurements, (b) those across physical barriers (like walls), and (c) those affected by body-blocking of the signals. Modifications to existing ranging protocols are required since UWB distance measurements are based on multiple wireless packets exchanging precise timing information--a mechanism that can lead to severe wireless collisions when left uncoordinated. Environmental sensing is required to avoid false alarms. For example, false-positives (nuisance-alarms) may occur when two devices are close-by but separated by a wall. Contrarily, false negatives can occur when a person's own body blocks wireless signals causing erroneous distance measurements. These contributions are expected to advance knowledge in wireless sensing and multi-device ranging, while enabling safer public places through improved implementation of physical distancing, with impact even beyond COVID-19.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031868</AwardID>
+<Investigator>
+<FirstName>Ashutosh</FirstName>
+<LastName>Dhekne</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ashutosh Dhekne</PI_FULL_NAME>
+<EmailAddress>dhekne@gatech.edu</EmailAddress>
+<PI_PHON>2179740978</PI_PHON>
+<NSF_ID>000813514</NSF_ID>
+<StartDate>06/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~100000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><strong>Title:</strong>&nbsp;RAPID: 6Fit-a-Part: A Device for Physical Distancing</p> <p><strong>Brief Overview of the proposal:</strong>&nbsp;The coronavirus pandemic has altered our way of life. It is important to limit person-to-person contact to reduce the spread of the virus and this has motivated many countries to declare some form of lock-down, at times pushing almost a third of the human population indoors. Any establishments that remain open have an expectation that people will follow physical distancing guidelines. The existing implementation, however, has been poor; just putting up warning signs appealing the general public to keep a minimum distance of 6 feet from others. This proposal set out to create a $50 device (6Fit-a-Part) that raises an audio-visual alarm if another similar device is detected within the set distance. It uses off-the-shelf ultra-wideband radio technology for real-time, accurate distance estimation from others in the vicinity. Challenges include reducing false-positive and false-negative rates.&nbsp;</p> <p><strong>Publications Outcomes Overview:&nbsp;</strong></p> <p><strong></strong><span>Cao, Yifeng, Ashutosh Dhekne, and Mostafa Ammar. "6Fit-A-Part: A Protocol for Physical Distancing on a Custom Wearable Device."&nbsp;</span><em>2020 IEEE 28th International Conference on Network Protocols (ICNP '20)</em><span>. IEEE, 2020.</span></p> <p><span>Cao, Yifeng, Ashutosh Dhekne, and Mostafa Ammar. "Poster: Physical Games in K-12 despite COVID-19."&nbsp;</span><em>Proceedings of the 22nd International Workshop on Mobile Computing Systems and Applications (HotMobile)</em><span>. 2021.</span></p> <p>Cao, Yifeng, Ashutosh Dhekne, and Mostafa Ammar. "<span>ITrackU: Tracking a Pen-like Instrument via UWB-IMU Fusion."&nbsp;<span><em>The 19th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys '21).</em> ACM, 2021</span></span></p> <p>Yifeng Cao, Ashutosh Dhekne. "6Fit-A-Part: A Device for Physical Distancing" <em>Poster - NSF PREPARE workshop</em>, Dec 2020&nbsp;</p> <p><span><span>Ashutosh Dhekne. "Computer Networks for Social Distancing."&nbsp;<em>Computing Research Association Virtual Conference 2020 - Lightening Talks</em><br /></span></span></p> <p><strong>Hardware Software Outcomes:</strong></p> <p>https://github.com/Whisper-Cao/6Fit-a-part/</p> <p>https://www.cc.gatech.edu/~dhekne/UWB_Fleet.ft/</p> <p><strong>Inventions:</strong></p> <p><span><span>Invention disclosure at Georgia Institute of Techology. Provisional patent filed.</span></span></p><br> <p>            Last Modified: 09/19/2021<br>      Modified by: Ashutosh&nbsp;Dhekne</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2031868/2031868_10674070_1623302008689_ManufacturedDevice--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2031868/2031868_10674070_1623302008689_ManufacturedDevice--rgov-800width.jpg" title="Manufactured 6FitAPart Device Hardware"><img src="/por/images/Reports/POR/2021/2031868/2031868_10674070_1623302008689_ManufacturedDevice--rgov-66x44.jpg" alt="Manufactured 6FitAPart Device Hardware"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Manufactured 6FitAPart Device Hardware</div> <div class="imageCredit">Ashutosh Dhekne</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Ashutosh&nbsp;Dhekne</div> <div class="imageTitle">Manufactured 6FitAPart Device Hardware</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Title: RAPID: 6Fit-a-Part: A Device for Physical Distancing  Brief Overview of the proposal: The coronavirus pandemic has altered our way of life. It is important to limit person-to-person contact to reduce the spread of the virus and this has motivated many countries to declare some form of lock-down, at times pushing almost a third of the human population indoors. Any establishments that remain open have an expectation that people will follow physical distancing guidelines. The existing implementation, however, has been poor; just putting up warning signs appealing the general public to keep a minimum distance of 6 feet from others. This proposal set out to create a $50 device (6Fit-a-Part) that raises an audio-visual alarm if another similar device is detected within the set distance. It uses off-the-shelf ultra-wideband radio technology for real-time, accurate distance estimation from others in the vicinity. Challenges include reducing false-positive and false-negative rates.   Publications Outcomes Overview:   Cao, Yifeng, Ashutosh Dhekne, and Mostafa Ammar. "6Fit-A-Part: A Protocol for Physical Distancing on a Custom Wearable Device." 2020 IEEE 28th International Conference on Network Protocols (ICNP '20). IEEE, 2020.  Cao, Yifeng, Ashutosh Dhekne, and Mostafa Ammar. "Poster: Physical Games in K-12 despite COVID-19." Proceedings of the 22nd International Workshop on Mobile Computing Systems and Applications (HotMobile). 2021.  Cao, Yifeng, Ashutosh Dhekne, and Mostafa Ammar. "ITrackU: Tracking a Pen-like Instrument via UWB-IMU Fusion." The 19th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys '21). ACM, 2021  Yifeng Cao, Ashutosh Dhekne. "6Fit-A-Part: A Device for Physical Distancing" Poster - NSF PREPARE workshop, Dec 2020   Ashutosh Dhekne. "Computer Networks for Social Distancing." Computing Research Association Virtual Conference 2020 - Lightening Talks   Hardware Software Outcomes:  https://github.com/Whisper-Cao/6Fit-a-part/  https://www.cc.gatech.edu/~dhekne/UWB_Fleet.ft/  Inventions:  Invention disclosure at Georgia Institute of Techology. Provisional patent filed.       Last Modified: 09/19/2021       Submitted by: Ashutosh Dhekne]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I: Advanced Cancer Analytics Platform for Highly Accurate and Scalable Survival Models to Personalize Oncology Strategies]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>224454.00</AwardTotalIntnAmount>
+<AwardAmount>224454</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will develop personalized clinical decision-making in cancer care. An estimated 17 million cases of cancer are diagnosed globally each year. Over $90 billion per year is spent in total on cancer-related health care in the U.S., and cancer patients pay over $4 billion out of pocket for health care. Therapeutic strategy selection and clinical trial research targeted to oncology become exponentially complex when unique types of cancer are considered, as well as how they may uniquely impact gender, race, ethnicity, and age of affected populations. The proposed technology will develop advanced bioinformatics models and visualization tools to guide decision-making by oncologists.  It will develop and use advanced survival models targeting cancer types, other biological and chemical factors, and patient demographics. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will focus on three objectives. 1) We will develop and validate transfer learning models that leverage large data sets from high-incidence cancer types to improve results of cancer types with sparse data.  2) We will leverage these data in a disease-agnostic platform using a recurrent neural network to account for temporal variation to predict survivability.  3) We will develop visualization tools for clinicians to understand causal relationships. This system will use several innovations: a) Transfer Learning to Scale Available Data:  Since cancer survival modeling is limited in many cancer types due to lack of data, we will demonstrate the feasibility of transfer learning in this context. b) Single Recurrent Neural Network: We will implement a recurrent neural network to improve performance and allow a single network to be trained across all cancer types and patient population characteristics. c) Control Feature Mediation Analysis: We will develop accurate survival models with an understanding of the sensitivity to inputs. d) Clinician-Driven Interpretation and Visualization Tools: The framework needs interpretation and visualization features to reduce data into reports easily digestible for clinical decision-making.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012214</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Luechtefeld</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thomas Luechtefeld</PI_FULL_NAME>
+<EmailAddress><![CDATA[tom@insilica.co]]></EmailAddress>
+<NSF_ID>000813548</NSF_ID>
+<StartDate>08/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>INSILICA, LLC</Name>
+<CityName>BETHESDA</CityName>
+<ZipCode>208174770</ZipCode>
+<PhoneNumber>3416914630</PhoneNumber>
+<StreetAddress>7106 RIVER RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MD08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>RTN8V2BMGY63</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>INSILICA LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[INSILICA, LLC]]></Name>
+<CityName>Baltimore</CityName>
+<StateCode>MD</StateCode>
+<ZipCode>212091069</ZipCode>
+<StreetAddress><![CDATA[2736 Quarry Heights Way]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MD02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1718</Code>
+<Text>BIOINFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~224454</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p> <div> <div>During this Phase I effort, a prototype Biobricks.ai platform was technically architected, developed, and tested to acquire, process and normalize 40+ life science databases related to biomarkers, clinical oncology outcomes, and cheminformatics and construct cancer survival, and cheminformatic models.</div> <br /> <div><span>A modular data-dependency package management system was built to enable development of normalization code for distribution of arbitrary tabular data in parquet format as well as serialized neural network models. The biobricks.ai innovation combines two technologies, GIT, the open-source version control system with global adoption for managing code development and data-version-control, a version control layer built on git for versioning large files and bulding data asset creation pipelines.</span></div> <br /> <div><span>Biobricks.ai layers an R and python client on these technologies and feeds data requests through a centralized portal.</span></div> <br /> <div><strong>Establishment of feasibility</strong></div> <div><span>The preliminary version of biobricks.ai established feasibility of the technology by constructing fully-functional data-dependencies and using them in reporting and AI applications. Specifically,</span></div> <br /> <div><span>1.</span><span> Construction 40+ clinically relevant data dependencies</span></div> <div><span>2.</span><span> Construction of AI models for cancer survival (Figure 1)</span></div> <div><span>3.</span><span> Completion of automated quality control tool bricktools</span></div> <div><span>4.</span><span> Construction of parameterized reports </span></div> <div><span>5.</span><span> Active Documentation and account management portals (Figure 2)</span></div> <div><span>6.</span><span> Active Https server dvc.biobricks.ai records brick usage</span></div> <div><span>7.</span><span> Public use of biobricks by external users<br /><br /> </span></div> <div><span> </span></div> <div><span>In the final pivot of our phase 1 proposal, we focused on the construction of a functioning data-registry that serves clinical datasets (or &lsquo;data dependencies&rsquo;) and functional AI models. A large number of data dependencies were constructed on biobricks.ai (table 1) and dependent AI models for patient hazard prediction and chemical neural network model embeddings were subsequently created and added to the registry. </span></div> <br /> <div><span>This completion demonstrates the feasibility of the technology. Users can now install, rebuild, and pull data from publicly registered bricks, and the code for doing so is very simple (see biobricks.ai for more examples): </span></div> <br /> <div><span>In addition to providing a fast and simple manner to download public data, the system provides automated checks for quality control via the bricktools package (github.com/biobricksai/bricktools), which helps to maintain a high quality registry. </span></div> <br /> <div><span>An imported biobricks data-dependency is given a version tracking code changes, schema changes, and data-quantity changes. By importing a data-dependency, users can tie their downstream assets to a specific upstream data version, and then deploy the new assets on the biobricks.ai system thus enabling other users to depend on it as well. One such downstream application is oncsurvive, a neural network based patient embedding model that trains using patient mutation and survival data from the genomic data commons to optimize a numeric hazard embedding that ranks patients in order of survival time Figure 1. This demonstrates that building dependent downstream applications is not only feasible, but actively supported by the biobricks system. The system has a preliminary intermediary server which provides users with tokens and tracks the assets they use, and the bandwidth they use. This will eventually be built into a usage based billing system. The web portals that support this system exist today at biobricks.ai, members.biobricks.ai, and dvc.biobricks.ai. The first two are browser based servers for documentation and account management, and the last of which is a simple https server to track brick usage (not browser based). All together, these system provide a fully functional biobricks system which we can improve, extend, and commercialize. Biobricks.ai is already in active use at several research organizations.</span></div> <br /> <div><strong>Core Registry</strong></div> <div><span>Biobricks.ai now supports over 40 data dependency &lsquo;bricks&rsquo;, 2 AI models and parameterized reports, which are systems that generate human readable reports from inputs like a list of&nbsp;</span>patient mutations. These bricks, models, parameterized reports, and clients, are all available on github.com/biobricks-ai. Table 1 provides an abbreviated list of some of the notable completions for the phase 1 project.</div> <div></div> <div><strong>Summary</strong></div> <div>The final pivot of this project involved the creation of BioBricks.ai - an open source, open access, data registry for health informatics, that accelerates and normalizes data distribution and access.&nbsp;</div> </div> </p><br> <p>            Last Modified: 02/11/2023<br>      Modified by: Thomas&nbsp;Luechtefeld</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2012214/2012214_10701263_1676158295820_approach--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2012214/2012214_10701263_1676158295820_approach--rgov-800width.jpg" title="Biobricks.ai - a composable, modular, open-source data-registry"><img src="/por/images/Reports/POR/2023/2012214/2012214_10701263_1676158295820_approach--rgov-66x44.jpg" alt="Biobricks.ai - a composable, modular, open-source data-registry"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Biobricks.ai accelerates developer access to normalized public health informatic databases. Data assets are easily discovered and extracted into data science environments, and new assets can be easily constructed and distributed through the novel version control system.</div> <div class="imageCredit">Insilica</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Thomas&nbsp;Luechtefeld</div> <div class="imageTitle">Biobricks.ai - a composable, modular, open-source data-registry</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2012214/2012214_10701263_1676157865570_bbportals--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2012214/2012214_10701263_1676157865570_bbportals--rgov-800width.jpg" title="Figure 2 - BioBricks.ai Portals"><img src="/por/images/Reports/POR/2023/2012214/2012214_10701263_1676157865570_bbportals--rgov-66x44.jpg" alt="Figure 2 - BioBricks.ai Portals"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Left - Biobricks.ai provides extensive documentation for bioinformatics developers. Right - members.biobricks.ai allows users to generate a user token, and sign up for a usage based subscriptions.</div> <div class="imageCredit">Thomas Luechtefeld</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Thomas&nbsp;Luechtefeld</div> <div class="imageTitle">Figure 2 - BioBricks.ai Portals</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2012214/2012214_10701263_1676157332468_oncsurvive1024_1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2012214/2012214_10701263_1676157332468_oncsurvive1024_1--rgov-800width.jpg" title="Figure 1 - OncSurvive"><img src="/por/images/Reports/POR/2023/2012214/2012214_10701263_1676157332468_oncsurvive1024_1--rgov-66x44.jpg" alt="Figure 1 - OncSurvive"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Cancer survival model oncsurvive created/distributed with the Biobricks-ai system</div> <div class="imageCredit">Thomas Luechtefeld</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Thomas&nbsp;Luechtefeld</div> <div class="imageTitle">Figure 1 - OncSurvive</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2012214/2012214_10701263_1676158155913_test--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2012214/2012214_10701263_1676158155913_test--rgov-800width.jpg" title="Table 1 - Developed Data Dependencies"><img src="/por/images/Reports/POR/2023/2012214/2012214_10701263_1676158155913_test--rgov-66x44.jpg" alt="Table 1 - Developed Data Dependencies"></a> <div class="imageCaptionContainer"> <div class="imageCaption">40+ data dependencies were built into the biobricks.ai data registry to support the development of cancer survival models. Each data asset is a set of parquet tables accessible through R, Python and command line packages.</div> <div class="imageCredit">Thomas Luechtefeld</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Thomas&nbsp;Luechtefeld</div> <div class="imageTitle">Table 1 - Developed Data Dependencies</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   During this Phase I effort, a prototype Biobricks.ai platform was technically architected, developed, and tested to acquire, process and normalize 40+ life science databases related to biomarkers, clinical oncology outcomes, and cheminformatics and construct cancer survival, and cheminformatic models.   A modular data-dependency package management system was built to enable development of normalization code for distribution of arbitrary tabular data in parquet format as well as serialized neural network models. The biobricks.ai innovation combines two technologies, GIT, the open-source version control system with global adoption for managing code development and data-version-control, a version control layer built on git for versioning large files and bulding data asset creation pipelines.   Biobricks.ai layers an R and python client on these technologies and feeds data requests through a centralized portal.   Establishment of feasibility The preliminary version of biobricks.ai established feasibility of the technology by constructing fully-functional data-dependencies and using them in reporting and AI applications. Specifically,   1. Construction 40+ clinically relevant data dependencies 2. Construction of AI models for cancer survival (Figure 1) 3. Completion of automated quality control tool bricktools 4. Construction of parameterized reports  5. Active Documentation and account management portals (Figure 2) 6. Active Https server dvc.biobricks.ai records brick usage 7. Public use of biobricks by external users      In the final pivot of our phase 1 proposal, we focused on the construction of a functioning data-registry that serves clinical datasets (or ‘data dependencies’) and functional AI models. A large number of data dependencies were constructed on biobricks.ai (table 1) and dependent AI models for patient hazard prediction and chemical neural network model embeddings were subsequently created and added to the registry.    This completion demonstrates the feasibility of the technology. Users can now install, rebuild, and pull data from publicly registered bricks, and the code for doing so is very simple (see biobricks.ai for more examples):    In addition to providing a fast and simple manner to download public data, the system provides automated checks for quality control via the bricktools package (github.com/biobricksai/bricktools), which helps to maintain a high quality registry.    An imported biobricks data-dependency is given a version tracking code changes, schema changes, and data-quantity changes. By importing a data-dependency, users can tie their downstream assets to a specific upstream data version, and then deploy the new assets on the biobricks.ai system thus enabling other users to depend on it as well. One such downstream application is oncsurvive, a neural network based patient embedding model that trains using patient mutation and survival data from the genomic data commons to optimize a numeric hazard embedding that ranks patients in order of survival time Figure 1. This demonstrates that building dependent downstream applications is not only feasible, but actively supported by the biobricks system. The system has a preliminary intermediary server which provides users with tokens and tracks the assets they use, and the bandwidth they use. This will eventually be built into a usage based billing system. The web portals that support this system exist today at biobricks.ai, members.biobricks.ai, and dvc.biobricks.ai. The first two are browser based servers for documentation and account management, and the last of which is a simple https server to track brick usage (not browser based). All together, these system provide a fully functional biobricks system which we can improve, extend, and commercialize. Biobricks.ai is already in active use at several research organizations.   Core Registry Biobricks.ai now supports over 40 data dependency ‘bricks’, 2 AI models and parameterized reports, which are systems that generate human readable reports from inputs like a list of patient mutations. These bricks, models, parameterized reports, and clients, are all available on github.com/biobricks-ai. Table 1 provides an abbreviated list of some of the notable completions for the phase 1 project.  Summary The final pivot of this project involved the creation of BioBricks.ai - an open source, open access, data registry for health informatics, that accelerates and normalizes data distribution and access.          Last Modified: 02/11/2023       Submitted by: Thomas Luechtefeld]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

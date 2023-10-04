@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[NSF Convergence Accelerator-Track D: Application of Sequential Inductive Transfer Learning for Experimental Metadata Normalization to Enable Rapid Integrative Analysis]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>999951.00</AwardTotalIntnAmount>
+<AwardAmount>999951</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mike Pozmantier</SignBlockName>
+<PO_EMAI>mpozmant@nsf.gov</PO_EMAI>
+<PO_PHON>7032924475</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The NSF Convergence Accelerator supports use-inspired, team-based, multidisciplinary efforts that address challenges of national importance and will produce deliverables of value to society in the near future. &lt;br/&gt;&lt;br/&gt;This project, NSF Convergence Accelerator-Track D: Application of sequential inductive transfer learning for experimental metadata normalization to enable rapid integrative analysis, develops tools to support integrative analyses and meta analyses across multiple, distinct research databases. With the explosion in data-driven research, researchers even in a single domain of study are confronted with many different databases that use different terminologies and measurement schemes. Thus, data become siloed—collected via different processes and described by different metadata schemes with no central index of databases, metadata, or variables, making it difficult for a researcher to identify data of the appropriate type for use in integrative analyses or meta analyses. In Phase I of this effort, a multidisciplinary team of researchers and experts in statistics, epidemiology, data harmonization, machine leaning, ethics, databases, imaging, and software engineering will develop tools to link metadata across four biomedical database, as a proof of concept. The linked information will be available via the MetaMatchMaker (3M) portal to be developed by the project.&lt;br/&gt;&lt;br/&gt;While traditional neural network approaches could be used to link experimental metadata, that approach can be time consuming, requiring the construction of large training datasets. This project employs an alternative approach based on Pretrained Learning Models (PLMs), combining methods used in Natural Language Processing (NLP) and transfer learning, to allow for the application of data-driven models built in one domain to be applied to another, without the time and expense of developing large training datasets. In Phase I of the effort, a PLM will be developed from a large existing manually trained dataset of PhenX–dbGAP metadata linkage, which will then be used to link metadata from four diverse biomedical databases. The results from Phase I would enable rapid and broader identification of experimental data in less time and with fewer resources devoted to data normalization; second, the PLM approach is expected to provide significant savings in linking experimental metadata across databases by eliminating, or greatly reducing, the need for development of training data. Phase II of this effort will expand the number and variety of linked databases, and also make 3M compliant with developing federated data access procedures for biomedical data, such as Global Alliance for Genomics and Health (GA4GH)’s Authentication and Authorization Infrastructure. The metrics for success of this approach include increased speed and reduced cost of conducting integrative analyses; increased reuse of linked data. While, the proof of concept in Phase I is based on the linkage of biomedical data, if successful, this approach would be applicable to databases frp, many other domains including, for example, national security, weather, environmental research, geosciences, astronomy, forensic analysis, and law enforcement.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040521</AwardID>
+<Investigator>
+<FirstName>Grier</FirstName>
+<LastName>Page</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Grier Page</PI_FULL_NAME>
+<EmailAddress><![CDATA[gpage@rti.org]]></EmailAddress>
+<NSF_ID>000276286</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiangqin</FirstName>
+<LastName>Cui</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Xiangqin Cui</PI_FULL_NAME>
+<EmailAddress><![CDATA[xiangqin.cui@emory.edu]]></EmailAddress>
+<NSF_ID>000389707</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>YUN</FirstName>
+<LastName>WANG</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>YUN WANG</PI_FULL_NAME>
+<EmailAddress><![CDATA[yun.wang@nyspi.columbia.edu]]></EmailAddress>
+<NSF_ID>000827101</NSF_ID>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Research Triangle Institute</Name>
+<CityName>RESEARCH TRIANGLE PARK</CityName>
+<ZipCode>277090155</ZipCode>
+<PhoneNumber>9195416000</PhoneNumber>
+<StreetAddress>3040 E CORNWALLIS RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>JJHCMK4NT5N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RESEARCH TRIANGLE INSTITUTE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>JJHCMK4NT5N3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Research Triangle Institute]]></Name>
+<CityName>Research Triangle Park</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277092194</ZipCode>
+<StreetAddress><![CDATA[3040 East Cornwallis Road]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>131Y</Code>
+<Text>Convergence Accelerator Resrch</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~999951</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>We are fundamentally handicapped in the way we do science. We spend a huge amount of time and budget assembling datasets before any insights can occur. This goal of this project was in part to address this barrier by reducing this time, effort, and money needed to identify, assemble, and harmonize data for scientific studies. Secondarily the goal was to train the study staff in user centric design and development principles in order to develop tools that better meet the needs of the scientific community.</p> <p>The result of this study is a clear example of the utility of user centric design principles. As proposed the study was proposed to use general Artificial Intelligence methods to make it easier to find study data across the many public data repositories. However, during the user central design training, the investigators conducted two fundamental actions, which changed the course of the study. First was a deeper dive into the rapidly developing artificial intelligence methods causing the central AI methods being to move from conventional sematic linking methods to using large language models often called generative AI methods, which allowed far more robust training of the linking functions, which improved the performance of the model. Which resulted in the tools increasing the savings in labor and budget for data discovery and the second ideas that was identified from the user centric design. One aspect of user centric design is detailed interviews with potential user to identify what they think is needed from the tools or processes being studies. During these interviews we identified that the data harmonization issues as much harder and more important than data discovery. The is best exemplified through a quote from an interview, &ldquo;I wish I had a magic data harmonization button&rsquo;. Due to our knowledge of AI we were able to realize that the same AI model that could be used for data discovery could be turned to the question of data harmonization. This the team ended up developing two research tools: MetaMatchMaker: Find (available at <a href="http://www.metamatchmaker.com/">www.metamatchmaker.com</a>) which enables easy data discovery across multiple public data repositories with a robust AI based search function. The second tool MetaMatchMaker:Link enables the metadata, usually study variables, across two of more data sets to be linked across studies with high accuracy and low effort. Thus, this study was able to utilize the training of the convergence accelerator training to enable the team to develop several powerful tools that will reduce the time and effort to conduct scientific studies.</p> <p>&nbsp;</p><br> <p>            Last Modified: 06/19/2023<br>      Modified by: Grier&nbsp;Page</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ We are fundamentally handicapped in the way we do science. We spend a huge amount of time and budget assembling datasets before any insights can occur. This goal of this project was in part to address this barrier by reducing this time, effort, and money needed to identify, assemble, and harmonize data for scientific studies. Secondarily the goal was to train the study staff in user centric design and development principles in order to develop tools that better meet the needs of the scientific community.  The result of this study is a clear example of the utility of user centric design principles. As proposed the study was proposed to use general Artificial Intelligence methods to make it easier to find study data across the many public data repositories. However, during the user central design training, the investigators conducted two fundamental actions, which changed the course of the study. First was a deeper dive into the rapidly developing artificial intelligence methods causing the central AI methods being to move from conventional sematic linking methods to using large language models often called generative AI methods, which allowed far more robust training of the linking functions, which improved the performance of the model. Which resulted in the tools increasing the savings in labor and budget for data discovery and the second ideas that was identified from the user centric design. One aspect of user centric design is detailed interviews with potential user to identify what they think is needed from the tools or processes being studies. During these interviews we identified that the data harmonization issues as much harder and more important than data discovery. The is best exemplified through a quote from an interview, "I wish I had a magic data harmonization button’. Due to our knowledge of AI we were able to realize that the same AI model that could be used for data discovery could be turned to the question of data harmonization. This the team ended up developing two research tools: MetaMatchMaker: Find (available at www.metamatchmaker.com) which enables easy data discovery across multiple public data repositories with a robust AI based search function. The second tool MetaMatchMaker:Link enables the metadata, usually study variables, across two of more data sets to be linked across studies with high accuracy and low effort. Thus, this study was able to utilize the training of the convergence accelerator training to enable the team to develop several powerful tools that will reduce the time and effort to conduct scientific studies.          Last Modified: 06/19/2023       Submitted by: Grier Page]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

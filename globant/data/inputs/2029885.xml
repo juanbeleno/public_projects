@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID IIBR Informatics Computational methods for utilizing SARS-Cov2 sequence and structure data in predicting host-pathogen protein-protein interactions]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>199816.00</AwardTotalIntnAmount>
+<AwardAmount>199816</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Fleischmann</SignBlockName>
+<PO_EMAI>rfleisch@nsf.gov</PO_EMAI>
+<PO_PHON>7032927191</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The award to Hauptman-Woodward Medical Research Institute supports research into machine learning approaches to understand the interactions of SARS-COV-2 proteins.  The researchers will combine information from the viral genome with other data on protein structures to predict protein interactions.  This research affords significant societal benefits by providing important information about the virus biology.  The research may also contribute to the identification of potential therapeutic compounds.  An early stage researcher will participate extensively in the project as part of training activities.  Software and data from the studies will be shared in public repositories, published in peer-reviewed journals, and presented at scientific meetings.&lt;br/&gt;&lt;br/&gt;Researchers supported by this award will develop machine learning based computational tools for prediction of protein-protein interactions (PPI) in the infectious disease setting involving host proteins and viral pathogen proteins. Computational tools that can leverage immediately arising data sources to advance experimental work on the virus can make a major and immediate impact on pandemic response. Support vector machine classifiers and Bayesian inferential methods will be used to develop machine learning models that incorporate both genomic and structural information to better understand and predict protein interactions.  The goal in creating computational tools to understand the host-pathogen interface is to contribute basic information on protein interactions that dictate the mechanisms of virus entry into cells and modes of transmission of viral pathogens. Methods developed in this proposal will be valuable in future situations where rapid information development about an emerging pathogen is required.&lt;br/&gt;&lt;br/&gt;This RAPID award is made by the Division of Biological Infrastructure (DBI) using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029885</AwardID>
+<Investigator>
+<FirstName>Miranda</FirstName>
+<LastName>Lynch</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Miranda Lynch</PI_FULL_NAME>
+<EmailAddress><![CDATA[mlynch@hwi.buffalo.edu]]></EmailAddress>
+<NSF_ID>000789071</NSF_ID>
+<StartDate>05/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Hauptman-Woodward Medical Research Institute Inc</Name>
+<CityName>BUFFALO</CityName>
+<ZipCode>142031102</ZipCode>
+<PhoneNumber>7168988600</PhoneNumber>
+<StreetAddress>700 ELLICOTT ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY26</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HVQYC8JZB9A6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>HAUPTMAN WOODWARD MEDICAL RESEARCH INSTITUTE, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Hauptman-Woodward Medical Research Institute Inc]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>142031102</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>26</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY26</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199816</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>A key component of how viral pathogens succeed in infecting novel host organisms, such as occurs in zoonotic spillover events, necessarily involves events that take place at the host-pathogen interface. These interactions occur at the cellular and molecular levels. Viral invasion of a host cell must include attaching to and entering the target host cell, followed by a series of molecular events that allow the virus, using host cell machinery, to carry out its replicative cycle. Viruses, as obligate cellular parasites, maintain only minimal genetic information for their own proteins, and instead rely on many host molecules to carry out replication and further invasion and infection of new host cells. Thus, host-pathogen protein interactions are critical to the virus&rsquo;s ability to infect the host. Understanding and developing computational methods to explore host-pathogen protein-protein interactions for the human host-SARS-CoV-2 system was the focus of this NSF RAPID project.<span> </span></p> <p>Experimental methods for discovering which human proteins interact with viral proteins are labor- and time-intensive, and so there is tremendous interest in developing computational tools that can take information about the host and the virus and predict possible interactions. The vast majority of those computational approaches rely solely on viral genetic sequence information as inputs for machine learning tools. In our project, we expanded the information used for predicting host-pathogen protein interactions to include protein structural information. The physical interactions between proteins occur at specific molecular interfaces and involve specific interacting residues, and this consideration provided the motivation for our developing computational methods to extract features from deposited protein structures to include in computational prediction. We used a novel method based on unsupervised learning to assist with protein structural feature identification and extraction. We also published a study using machine learning tools to carry out a comparative evaluation of dynamics of the SARS-CoV-2 spike protein interactions with the primary human receptor protein, ACE2. That work highlighted a two-touch mechanism for the interaction, and identified several key interaction residues and a novel motif that appear to facilitate and stabilize the interaction. The computational analyses inform on mechanistically how host-virus interactions take place and evolve over the course of zoonotic spillovers, and highlight the importance of protein structural information in contributing to our understanding of the host-pathogen interface.</p><br> <p>            Last Modified: 08/27/2022<br>      Modified by: Miranda&nbsp;Lynch</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ A key component of how viral pathogens succeed in infecting novel host organisms, such as occurs in zoonotic spillover events, necessarily involves events that take place at the host-pathogen interface. These interactions occur at the cellular and molecular levels. Viral invasion of a host cell must include attaching to and entering the target host cell, followed by a series of molecular events that allow the virus, using host cell machinery, to carry out its replicative cycle. Viruses, as obligate cellular parasites, maintain only minimal genetic information for their own proteins, and instead rely on many host molecules to carry out replication and further invasion and infection of new host cells. Thus, host-pathogen protein interactions are critical to the virus’s ability to infect the host. Understanding and developing computational methods to explore host-pathogen protein-protein interactions for the human host-SARS-CoV-2 system was the focus of this NSF RAPID project.   Experimental methods for discovering which human proteins interact with viral proteins are labor- and time-intensive, and so there is tremendous interest in developing computational tools that can take information about the host and the virus and predict possible interactions. The vast majority of those computational approaches rely solely on viral genetic sequence information as inputs for machine learning tools. In our project, we expanded the information used for predicting host-pathogen protein interactions to include protein structural information. The physical interactions between proteins occur at specific molecular interfaces and involve specific interacting residues, and this consideration provided the motivation for our developing computational methods to extract features from deposited protein structures to include in computational prediction. We used a novel method based on unsupervised learning to assist with protein structural feature identification and extraction. We also published a study using machine learning tools to carry out a comparative evaluation of dynamics of the SARS-CoV-2 spike protein interactions with the primary human receptor protein, ACE2. That work highlighted a two-touch mechanism for the interaction, and identified several key interaction residues and a novel motif that appear to facilitate and stabilize the interaction. The computational analyses inform on mechanistically how host-virus interactions take place and evolve over the course of zoonotic spillovers, and highlight the importance of protein structural information in contributing to our understanding of the host-pathogen interface.       Last Modified: 08/27/2022       Submitted by: Miranda Lynch]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

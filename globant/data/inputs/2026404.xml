@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase II:Blockchain-Enabled Machine Learning on Confidential Data]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>999995.00</AwardTotalIntnAmount>
+<AwardAmount>999995</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase II project will enable collaboration with sensitive data.  This will increase the ability of companies and institutions in sensitive domains, including biomedicine, to apply existing machine learning models and increase their ability to train new, more sophisticated models, thereby improving insights for enhanced care. This project will advance a blockchain technique to maintain the integrity of confidential data for shared development of machine learning techniques.  &lt;br/&gt;&lt;br/&gt;This STTR Phase II project proposes to advance knowledge in the area of coordinating decentralized machine learning with a distributed ledger in a manner that maintains data confidentiality and ensures verifiability. This project extends the utility of deep neural networks in domains requiring data privacy, such as partnerships or settings involving decentralized computation. The project focuses on both inference and joint model training. The technical approach will leverage techniques from fully homomorphic encryption (FHE) and secure multiparty computation (MPC). The work will advance an FHE cryptosystem, assess practical performance of candidate cryptosystems, and develop efficient cryptographic verification techniques mediated by the distributed ledger. In addition to creating critical knowledge in the preceding areas, other technical results will include accessible open-source tooling for neural network inference on encrypted data and a modular framework for practical deployment, including interfacing with data stores. The program of work will lead to technology that enables verifiable confidential inference and joint model training and will demonstrate these capabilities on real-world analyses in medicine with medical image and non-image data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>CoopAgrmnt</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026404</AwardID>
+<Investigator>
+<FirstName>Guha</FirstName>
+<LastName>Jayachandran</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Guha Jayachandran</PI_FULL_NAME>
+<EmailAddress><![CDATA[info@onai.com]]></EmailAddress>
+<NSF_ID>000740909</NSF_ID>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Onai Inc.</Name>
+<CityName>SAN JOSE</CityName>
+<ZipCode>951294582</ZipCode>
+<PhoneNumber>6504298622</PhoneNumber>
+<StreetAddress>7291 CORONADO DR</StreetAddress>
+<StreetAddress2><![CDATA[STE 5]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CLR5VEPH3MC1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ONAI INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Onu Technology, Inc.]]></Name>
+<CityName>San Jose</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>951293624</ZipCode>
+<StreetAddress><![CDATA[7280 Blue Hill Dr. Suite 10]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1591</Code>
+<Text>STTR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~999995</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-649512e2-7fff-9361-5b42-9ff8dfc24bda"> </span></p> <p dir="ltr"><span>We achieved the aims set out for the project, related to performing machine learning in a manner that does not expose sensitive data. Machine learning allows models to be trained on data such that those models can then be used to make predictions about other inputs. A particular machine learning technique, deep learning, has proven revolutionary over the past several years in its capabilities. But in many problem domains, notably healthcare, the data involved may be sensitive. This creates a tension between learning from the data and securing the data.</span></p> <p dir="ltr"><span>The technology investigated and developed in this project enables multiple parties to jointly train a model without exposing any sensitive data to each other. We developed tooling to allow this multiparty training to be performed in healthcare contexts for medical record data, making the technology accessible even for participants not intimately familiar with machine learning and cryptography. We demonstrated multiparty training of a neural network model on a breast cancer dataset.&nbsp;</span></p> <p dir="ltr"><span>The project also involved allowing a model to be evaluated on encrypted input without needing to decrypt that input, allowing a holder of sensitive data (such as a healthcare institution) to work with outside parties without exposing sensitive data to those parties. We developed a machine learning toolkit designed for homomorphic inference and a client/server remote inference toolkit.</span></p> <p dir="ltr"><span>Use of a distributed ledger, or blockchain, and related cryptographic techniques allow a computation to be verified. For example, we designed an efficient method for the client communicating with a server for secure inference to confirm that the server is faithfully using the correct model, without needing the client to have access to the model or repeat the computation.</span></p> <p dir="ltr"><span>These types of techniques enable a world where the power of deep learning can be harnessed with reliable safeguards for maintaining the confidentiality of sensitive data and providing verifiability. Accomplishing our vision of widespread machine learning on confidential data will increase the safety of all personal data. And better allowing proprietary or confidential data to be used will allow more rapid research advances in fields with sensitive data, notably healthcare.</span></p> <p>&nbsp;</p><br> <p>            Last Modified: 12/29/2021<br>      Modified by: Guha&nbsp;Jayachandran</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   We achieved the aims set out for the project, related to performing machine learning in a manner that does not expose sensitive data. Machine learning allows models to be trained on data such that those models can then be used to make predictions about other inputs. A particular machine learning technique, deep learning, has proven revolutionary over the past several years in its capabilities. But in many problem domains, notably healthcare, the data involved may be sensitive. This creates a tension between learning from the data and securing the data. The technology investigated and developed in this project enables multiple parties to jointly train a model without exposing any sensitive data to each other. We developed tooling to allow this multiparty training to be performed in healthcare contexts for medical record data, making the technology accessible even for participants not intimately familiar with machine learning and cryptography. We demonstrated multiparty training of a neural network model on a breast cancer dataset.  The project also involved allowing a model to be evaluated on encrypted input without needing to decrypt that input, allowing a holder of sensitive data (such as a healthcare institution) to work with outside parties without exposing sensitive data to those parties. We developed a machine learning toolkit designed for homomorphic inference and a client/server remote inference toolkit. Use of a distributed ledger, or blockchain, and related cryptographic techniques allow a computation to be verified. For example, we designed an efficient method for the client communicating with a server for secure inference to confirm that the server is faithfully using the correct model, without needing the client to have access to the model or repeat the computation. These types of techniques enable a world where the power of deep learning can be harnessed with reliable safeguards for maintaining the confidentiality of sensitive data and providing verifiability. Accomplishing our vision of widespread machine learning on confidential data will increase the safety of all personal data. And better allowing proprietary or confidential data to be used will allow more rapid research advances in fields with sensitive data, notably healthcare.          Last Modified: 12/29/2021       Submitted by: Guha Jayachandran]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

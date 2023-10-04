@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Dynamic Contextual Explanation of Search Results]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>218662.00</AwardTotalIntnAmount>
+<AwardAmount>218662</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research project aims to investigate and  develop Defuddle, an approach and a system that analyzes documents at the top of a search engine’s ranked list to find human-readable explanations for why documents were retrieved for this query and, unlike existing technology, for how the documents relate to each other. The resulting advances in result explanation will make it easier for people to make sense of what happens when they search the web or any other collection of text documents. Given that search is among the most common online activities, the reduced frustration and time savings will be substantial: the impact on e-commerce, information gathering, education, and the other myriad uses of search will be far-reaching. The Defuddle project will train one graduate student and one postdoctoral researcher. It will also be incorporated into coursework at both the undergraduate and graduate courses. &lt;br/&gt;&lt;br/&gt;Defuddle provides explanations of each search result item in the context of the query and in light of the other top-ranked items. It treats the search engine as a “black box” so that the techniques can be applied broadly and independent of any particular engine. Defuddle focuses on designing and training appropriate neural models for explaining search results, without using any predefined explanation templates or explicit query facets. Defuddle lays the foundation for other search-related tasks that will greatly benefit from explanations: providing diversified search results such that the initially shown results cover the full range of query aspects; improving conversational search by elucidating why a user might prefer one answer over another; and particularly importantly, providing a mechanism to identify biased results, either alerting a user to the bias or possibly adjusting the ranked list to compensate. As permitted by human subjects review, data sets and software developed in the Defuddle project will be made freely available at or before the conclusion of the project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039449</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Allan</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James M Allan</PI_FULL_NAME>
+<EmailAddress><![CDATA[allan@cs.umass.edu]]></EmailAddress>
+<NSF_ID>000209290</NSF_ID>
+<StartDate>07/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>AMHERST</CityName>
+<ZipCode>01003</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>COMMONWEALTH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>VGJHK59NMPK9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MASSACHUSETTS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>MLBQUML9JJT6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Massachusetts Amherst]]></Name>
+<CityName>Amherst</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>010039264</ZipCode>
+<StreetAddress><![CDATA[140 Governors Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~218662</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Search queries are often  short and underspecified, encouraging the use of search result  diversification techniques to cover different possible query intents in  the top-ranked results. To help the user understand  why documents are retrieved, the list commonly presents details such as  document title, URL, and a snippet -- a 2- or 3-line query-focused  summary of the document. Search snippets oftentimes are not coherent and  fail to explain the topical diversity in the  search results, suggesting huge potential value if we can improve the  display to that end.</p> <p>In that context, we have  worked on content-based explanation of search results to enhance user  experience in finding information of interest. We worked on developing  and evaluating models to generate terse explanations  for retrieved documents. The generated explanations go beyond  highlighting word matches between the submitted query and retrieved  document. In addition to better describing the document relevance, the  generated explanations reveal the differences between the  documents, not just the relationship between the query and each  document independently.</p> <p>More specifically, we  showed the necessity and value of specifically designed explanation  models to understand the results of ranking models. We proposed and  developed GenEx, an explanation approach that generates  a terse explanation for each document?s retrieval, and LiEGE, an  explanation technique that explains all retrieved documents in a list in  relation to each other. For explanations intended for downstream tasks,  we proposed Rank-LIME to provide a weighted list  of (not necessarily human readable) features that approximates a  ranking.</p> <p>We have also built  large-scale weakly-labeled training data and evaluation datasets for the  proposed explanation formats, both of which are publicly available to  the research community. This grant supported the  training of three PhD students and one postdoctoral fellow. It resulted  in 3 publications, contributing to the theses of students.</p><br> <p>            Last Modified: 06/28/2022<br>      Modified by: James&nbsp;M&nbsp;Allan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Search queries are often  short and underspecified, encouraging the use of search result  diversification techniques to cover different possible query intents in  the top-ranked results. To help the user understand  why documents are retrieved, the list commonly presents details such as  document title, URL, and a snippet -- a 2- or 3-line query-focused  summary of the document. Search snippets oftentimes are not coherent and  fail to explain the topical diversity in the  search results, suggesting huge potential value if we can improve the  display to that end.  In that context, we have  worked on content-based explanation of search results to enhance user  experience in finding information of interest. We worked on developing  and evaluating models to generate terse explanations  for retrieved documents. The generated explanations go beyond  highlighting word matches between the submitted query and retrieved  document. In addition to better describing the document relevance, the  generated explanations reveal the differences between the  documents, not just the relationship between the query and each  document independently.  More specifically, we  showed the necessity and value of specifically designed explanation  models to understand the results of ranking models. We proposed and  developed GenEx, an explanation approach that generates  a terse explanation for each document?s retrieval, and LiEGE, an  explanation technique that explains all retrieved documents in a list in  relation to each other. For explanations intended for downstream tasks,  we proposed Rank-LIME to provide a weighted list  of (not necessarily human readable) features that approximates a  ranking.  We have also built  large-scale weakly-labeled training data and evaluation datasets for the  proposed explanation formats, both of which are publicly available to  the research community. This grant supported the  training of three PhD students and one postdoctoral fellow. It resulted  in 3 publications, contributing to the theses of students.       Last Modified: 06/28/2022       Submitted by: James M Allan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

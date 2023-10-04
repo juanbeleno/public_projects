@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps:  Machine Learning-Based Diagnosis of Retinal Images with the Aim of Vision Loss Prevention]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is to end preventable blindness by increasing access to early diagnostic testing. Utilizing a novel imaging technology and a proven machine learning algorithm, the device allows for point of care diagnosis in a primary care setting at less than half the current cost. By empowering frontline physicians to provide vision-saving eye exams without the need of an eye care specialist, the proposed technology may fundamentally change the current retinal exam landscape, resulting in more efficient and accessible diagnostic testing. &lt;br/&gt;&lt;br/&gt;This I-Corps Project will yield a portable Artificial Intelligence (AI)-based retinal imaging system consisting of two major components: (1) a hand held ophthalmic device to capture images of the patient's retina, and (2) a machine learning algorithm to classify images of the retina. The hardware solution provides high-resolution images of the retina. The infrared lighting is invisible to the human eye and eliminates the need for pupil dilation as is widely used in the state-of-art fundus imaging currently conducted by medical personnel. The current trained convolutional neural network yields an accuracy of 97% which is on par with the diagnostic accuracy of trained ophthalmologists.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/18/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2053424</AwardID>
+<Investigator>
+<FirstName>Amir</FirstName>
+<LastName>Tofighi Zavareh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Amir Tofighi Zavareh</PI_FULL_NAME>
+<EmailAddress><![CDATA[amirtofighi@tamu.edu]]></EmailAddress>
+<NSF_ID>000876591</NSF_ID>
+<StartDate>02/18/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>COLLEGE STATION</CityName>
+<ZipCode>778433124</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>3124 TAMU</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX17</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QD1MX6N5YTN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>TEXAS A&amp;M ENGINEERING EXPERIMENT STATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>QD1MX6N5YTN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Texas A&M Engineering Experiment Station]]></Name>
+<CityName>College Station</CityName>
+<StateCode>TX</StateCode>
+<ZipCode>778433120</ZipCode>
+<StreetAddress><![CDATA[3120 TAMU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>090E</Code>
+<Text>Chem/Bio and Physical Diagnostics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The on-growing demand for automated diagnosis from biomedical images comes with difficult challenges. Current algorithms for image recognition need large training datasets (&gt;1M images) that require high starting investments and long computing times. Recent studies showed that 96% of all organizations run into issues related to training data quality and quantity, often resulting in suboptimal solutions49. The Ai-Ris framework allows using small training datasets, as small as 100 patients, and achieving impressive accuracy. Furthermore, this would only be the starting point for the algorithm and as images are taken using the Ai-Ris camera, the algorithm is continuously trained, resulting in a continuously improving system. The Ai-Ris method applies to any type of biomedical image (e.g. OCT, CT, MRI, X-ray images).</p> <p>Towards that broader impact the proposing team envisions a retinal camera with automated artificial intelligence-based disease recognition systems that can be easily deployed in the field and be used for screening purposes.&nbsp; &nbsp;This I-Coprs award was intended to help the proposing team conduct customer discovery and to create a business model.</p> <p>As a result of this award the team has conducted 200 customer discovery interviews that has helped them to create their business model and to get acquainted with the market. The connections created through the customer discovery interviews helped the team participate in multiple start-up incubators and to secure a phase 1 NSF SBIR award where the team is fine tuning their technical solutions. As a result of these endeavors, the team has been able to raise $400K in non-dilutive funds. The funds awarded were also used to create a working non mydriatic fundus camera that is patented with the patent number&nbsp;<a href="https://patents.google.com/patent/US11382506B2/en">US11382506B2</a>. &nbsp;</p> <p>&nbsp;</p> <p>Two master of engineering students acted as the entrepreneurial leads and were trained to apply lean startup methodology to their innovative activities during their carriers. The same students also were able to expand their connections via the interviews they conducted during the course of the program that they are benefitting from to date.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/05/2023<br>      Modified by: Amir&nbsp;Tofighi Zavareh</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The on-growing demand for automated diagnosis from biomedical images comes with difficult challenges. Current algorithms for image recognition need large training datasets (&gt;1M images) that require high starting investments and long computing times. Recent studies showed that 96% of all organizations run into issues related to training data quality and quantity, often resulting in suboptimal solutions49. The Ai-Ris framework allows using small training datasets, as small as 100 patients, and achieving impressive accuracy. Furthermore, this would only be the starting point for the algorithm and as images are taken using the Ai-Ris camera, the algorithm is continuously trained, resulting in a continuously improving system. The Ai-Ris method applies to any type of biomedical image (e.g. OCT, CT, MRI, X-ray images).  Towards that broader impact the proposing team envisions a retinal camera with automated artificial intelligence-based disease recognition systems that can be easily deployed in the field and be used for screening purposes.   This I-Coprs award was intended to help the proposing team conduct customer discovery and to create a business model.  As a result of this award the team has conducted 200 customer discovery interviews that has helped them to create their business model and to get acquainted with the market. The connections created through the customer discovery interviews helped the team participate in multiple start-up incubators and to secure a phase 1 NSF SBIR award where the team is fine tuning their technical solutions. As a result of these endeavors, the team has been able to raise $400K in non-dilutive funds. The funds awarded were also used to create a working non mydriatic fundus camera that is patented with the patent number US11382506B2.       Two master of engineering students acted as the entrepreneurial leads and were trained to apply lean startup methodology to their innovative activities during their carriers. The same students also were able to expand their connections via the interviews they conducted during the course of the program that they are benefitting from to date.              Last Modified: 01/05/2023       Submitted by: Amir Tofighi Zavareh]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

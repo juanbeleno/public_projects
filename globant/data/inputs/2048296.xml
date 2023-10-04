@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: ABI Innovation: Enabling machine-actionable semantics for comparative analyses of trait evolution]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/22/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>73541.00</AwardTotalIntnAmount>
+<AwardAmount>73541</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reed Beaman</SignBlockName>
+<PO_EMAI>rsbeaman@nsf.gov</PO_EMAI>
+<PO_PHON>7032927163</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The millions of species that inhabit the planet all have distinct biological traits that enable them to successfully compete in or adapt to their ecological niches. Determining accurately how these traits evolved is thus fundamental to understanding earth's biodiversity, and to predicting how it might change in the future in response to changes in ecosystems. Although sophisticated analytical methods and tools exist for analyzing traits comparatively, applying their full power to the myriad of trait observations recorded in the form of natural language descriptions has been hindered by the difficulty of allowing these tools to understand even the most basic facts implied by an unstructured free-text statement made by a human observer. The technological arsenal needed to overcome this challenge is now in principle available, thanks to a number of recent breakthroughs in the areas of knowledge representation and machine reasoning, but these technologies are challenging enough to deploy, orchestrate, and use that the barriers to effectively exploit them remains far too high for most tools. This project will create infrastructure that will dramatically reduce this barrier, with the goal of providing comparative trait analysis tools easy access to algorithms powered by machines reasoning with and making inferences from the meaning of trait descriptions. Similar to how Google, IBM Watson, and others have enabled developers of smartphone apps to incorporate, with only a few lines of code, complex machine-learning and artificial intelligence capabilities such as sentiment analysis, this project will demonstrate how easy access to knowledge computing opens up new opportunities for analysis, tools, and research. It will do this by addressing three long-standing limitations in comparative studies of trait evolution: recombining trait data, modeling trait evolution, and generating testable hypotheses for the drivers of trait adaptation.&lt;br/&gt;&lt;br/&gt;The treasure trove of morphological data published in the literature holds one of the keys to understanding the biodiversity of phenotypes, but exploiting the data in full through modern computational data science analytics remains severely hampered by the steep barriers to connecting the data with the accumulated body of morphological knowledge in a form that machines can readily act on. This project aims to address this barrier by creating a centralized computational infrastructure that affords comparative analysis tools the ability to compute with morphological knowledge through scalable online application programming interfaces (APIs), enabling developers of comparative analysis tools, and therefore their users, to tap into machine reasoning-powered capabilities and data with machine-actionable semantics. By shifting all the heavy-lifting to this infrastructure, tools can programmatically obtain answers to knowledge-based questions that would otherwise require careful study by a human export, such as objectively and reproducibly assessing the relatedness, independence, and distinctness of characters and character states, with only a few lines of code. To accomplish this, the project will adapt key products and know-how developed by the Phenoscape project, including an integrative knowledgebase of ontology-linked phenotype data, metrics for quantifying the semantic similarity of phenotype descriptions, and algorithms for synthesizing morphological data from published trait descriptions. To drive development of the computational infrastructure and to demonstrate its enabling value, the project's objectives focus on addressing three concrete long-standing needs for which the difficulty of computing with domain knowledge is the major impediment: (1) computationally synthesizing, calibrating, and assessing morphological trait matrices from across studies; (2) objectively and reproducibly incorporating morphological domain knowledge provided by ontologies into evolutionary models of trait evolution; and (3) generating testable hypotheses for adaptive diversification by incorporating semantic phenotypes into ancestral state reconstruction and identifying domain ontology concepts linked to evolutionary changes in a branch or clade more frequently than expected by chance. In addition, to better prepare evolutionary biologist users and developers of comparative analysis tools for adopting these new capabilities, a domain-tailored short-course on requisite knowledge representation and computational inference technologies will be developed and taught. More information on this project can be found at http://cate.phenoscape.org/.]]></AbstractNarration>
+<MinAmdLetterDate>10/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2048296</AwardID>
+<Investigator>
+<FirstName>Wasila</FirstName>
+<LastName>Dahdul</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Wasila Dahdul</PI_FULL_NAME>
+<EmailAddress><![CDATA[wdahdul@uci.edu]]></EmailAddress>
+<NSF_ID>000690044</NSF_ID>
+<StartDate>10/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926970001</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>160 ALDRICH HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA47</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MJC5FCYQTPE6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Irvine]]></Name>
+<CityName>Irvine</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>926173213</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>47</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA47</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1165</Code>
+<Text>ADVANCES IN BIO INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~73541</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The unique biological traits of organisms enable them to compete, coexist, and adapt to their ecological niches. Determining how these traits have evolved is thus fundamental to understanding earth's biodiversity. However, organisms adapt to their environments as integrated wholes, not piecewise independent parts. The era of big data in the form of trait databases promises to revolutionize the study of such integrated organismal traits. While a diverse array of statistical methods have been developed for studying trait evolution, the complexity of such multi-trait datasets can require researchers to make unrealistic assumptions and/or apply increasingly complex and unwieldy models. The SCATE (Semantic Comparative Analysis of Trait Evolution) project has sought to overcome these challenges by integrating biological ontologies as computable domain knowledge about biological traits, their definitions, and their interrelationships into our toolkit for studying the evolution of organismal form and function. The ontologies link traits into a knowledge graph through their interrelationships and dependencies, and they allow researchers to synthesize trait data across species, analyze them as integrated sets of traits in a computationally tractable way, and reconstruct how they have responded to environmental change in the past.</p> <p>&nbsp;</p> <p>This project builds on the success of its predecessor, the Phenoscape project, which built the Phenoscape Knowledgebase (KB), a computable knowledge graph connecting evolutionary phenotypes to biological ontologies. Phenoscape pioneered the use of computable domain knowledge in the form of formal ontologies to enable data synthesis across species by enabling semantic analysis of phenotypic descriptions of species using machine reasoning. The SCATE project built upon this work beyond presence-absence characters to construct synthetic trait matrices across studies that involve other types of trait qualities beyond presence and absence, thereby greatly increasing the scope of data synthesis. The centralized computational infrastructure built by this project provides access to annotated organismal trait data, semantic reasoning services, and semantic similarity metric calculation to researchers through online programmable interfaces and reusable software packages for the R ecosystem of comparative trait analysis methods. Furthermore, the project developed new methods beyond data synthesis, in particular integrating ontological knowledge into the structure of evolutionary models themselves. These methods have been made available in open-source software packages that enable consistent and biologically-realistic methods for modeling the evolution of entire organismal anatomies, and bypass many of the complexities and assumptions limiting previous methods for analyzing multi-trait datasets. These methods can be used to reconstruct ancestral organismal anatomies, detect enrichment of certain suites of traits at different points in evolutionary history, and correlate these changes to potential environmental factors driving such change. Furthermore, these models provide new links toward integrating data and knowledge from developmental biology and genetic studies in model organisms. These methods have been widely shared with the research community in the form of scientific publications, software, websites, short courses, and package tutorials. The project also held a hands-on collaborative development event, dubbed TraitFest 2023, which engaged a diverse group of participants from ecology to biological systematics to computational graph analysis and machine learning that were enthusiastic about applying in innovative ways the methods, approaches, and tools developed or spearheaded by the project.</p> <p>&nbsp;</p> <p>Just as evolutionary history allows researchers to make sense of biodiversity across species, the project demonstrated that biological ontologies structure evolutionary patterns across traits. Their use in comparative analyses has opened a new set of hypotheses about the relationship between the evolution of organismal form and the environment. Previously, such biological knowledge was held largely within the minds of experts--the complex definitions, dependencies, and interrelationships among traits. Such dependency on human expertise is a massive scientific bottleneck. By formalizing expert knowledge into computable infrastructure with ontologies connected to biodiversity trait data and developing new methods for their analysis, the SCATE project has provided a road map to hasten the pace of scientific discovery in understanding the evolution of organismal diversity.</p><br> <p>            Last Modified: 07/28/2023<br>      Modified by: Wasila&nbsp;Dahdul</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2048296/2048296_10519402_1690587357859_architecture--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2048296/2048296_10519402_1690587357859_architecture--rgov-800width.jpg" title="Phenoscape KB architecture"><img src="/por/images/Reports/POR/2023/2048296/2048296_10519402_1690587357859_architecture--rgov-66x44.jpg" alt="Phenoscape KB architecture"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Architecture of the Phenoscape KB and interactions between technology stack and data access components.</div> <div class="imageCredit">SCATE Team</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Wasila&nbsp;Dahdul</div> <div class="imageTitle">Phenoscape KB architecture</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2048296/2048296_10519402_1690588060776_rphenoscate--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2048296/2048296_10519402_1690588060776_rphenoscate--rgov-800width.jpg" title="The rphenoscate package"><img src="/por/images/Reports/POR/2023/2048296/2048296_10519402_1690588060776_rphenoscate--rgov-66x44.jpg" alt="The rphenoscate package"></a> <div class="imageCaptionContainer"> <div class="imageCaption">The rphenoscate package is an open-source R package that links semantic anatomical traits with ontology-guided comparative evolutionary analyses through the Phenoscape KB and its online application interfaces.</div> <div class="imageCredit">Diego Porto</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Wasila&nbsp;Dahdul</div> <div class="imageTitle">The rphenoscate package</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The unique biological traits of organisms enable them to compete, coexist, and adapt to their ecological niches. Determining how these traits have evolved is thus fundamental to understanding earth's biodiversity. However, organisms adapt to their environments as integrated wholes, not piecewise independent parts. The era of big data in the form of trait databases promises to revolutionize the study of such integrated organismal traits. While a diverse array of statistical methods have been developed for studying trait evolution, the complexity of such multi-trait datasets can require researchers to make unrealistic assumptions and/or apply increasingly complex and unwieldy models. The SCATE (Semantic Comparative Analysis of Trait Evolution) project has sought to overcome these challenges by integrating biological ontologies as computable domain knowledge about biological traits, their definitions, and their interrelationships into our toolkit for studying the evolution of organismal form and function. The ontologies link traits into a knowledge graph through their interrelationships and dependencies, and they allow researchers to synthesize trait data across species, analyze them as integrated sets of traits in a computationally tractable way, and reconstruct how they have responded to environmental change in the past.     This project builds on the success of its predecessor, the Phenoscape project, which built the Phenoscape Knowledgebase (KB), a computable knowledge graph connecting evolutionary phenotypes to biological ontologies. Phenoscape pioneered the use of computable domain knowledge in the form of formal ontologies to enable data synthesis across species by enabling semantic analysis of phenotypic descriptions of species using machine reasoning. The SCATE project built upon this work beyond presence-absence characters to construct synthetic trait matrices across studies that involve other types of trait qualities beyond presence and absence, thereby greatly increasing the scope of data synthesis. The centralized computational infrastructure built by this project provides access to annotated organismal trait data, semantic reasoning services, and semantic similarity metric calculation to researchers through online programmable interfaces and reusable software packages for the R ecosystem of comparative trait analysis methods. Furthermore, the project developed new methods beyond data synthesis, in particular integrating ontological knowledge into the structure of evolutionary models themselves. These methods have been made available in open-source software packages that enable consistent and biologically-realistic methods for modeling the evolution of entire organismal anatomies, and bypass many of the complexities and assumptions limiting previous methods for analyzing multi-trait datasets. These methods can be used to reconstruct ancestral organismal anatomies, detect enrichment of certain suites of traits at different points in evolutionary history, and correlate these changes to potential environmental factors driving such change. Furthermore, these models provide new links toward integrating data and knowledge from developmental biology and genetic studies in model organisms. These methods have been widely shared with the research community in the form of scientific publications, software, websites, short courses, and package tutorials. The project also held a hands-on collaborative development event, dubbed TraitFest 2023, which engaged a diverse group of participants from ecology to biological systematics to computational graph analysis and machine learning that were enthusiastic about applying in innovative ways the methods, approaches, and tools developed or spearheaded by the project.     Just as evolutionary history allows researchers to make sense of biodiversity across species, the project demonstrated that biological ontologies structure evolutionary patterns across traits. Their use in comparative analyses has opened a new set of hypotheses about the relationship between the evolution of organismal form and the environment. Previously, such biological knowledge was held largely within the minds of experts--the complex definitions, dependencies, and interrelationships among traits. Such dependency on human expertise is a massive scientific bottleneck. By formalizing expert knowledge into computable infrastructure with ontologies connected to biodiversity trait data and developing new methods for their analysis, the SCATE project has provided a road map to hasten the pace of scientific discovery in understanding the evolution of organismal diversity.       Last Modified: 07/28/2023       Submitted by: Wasila Dahdul]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[FW-HTF-P: Teaming Transplant Professionals and Artificial Intelligence Tools  to Reduce Kidney Discard]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Corman</SignBlockName>
+<PO_EMAI>dcorman@nsf.gov</PO_EMAI>
+<PO_PHON>7032928754</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Thousands of procured kidneys are discarded each year due to inefficient workflow processes and negative perceptions for using lower quality or higher risk organs. While some of this discard is medically necessary, some represents lost opportunities to get patients off of dialysis and increase lifespans. This Future of Work at the Human Technology Frontier planning grant project aims to transform the organ transplant matching process. The future technology is an artificial intelligence (AI) system with usable trustworthy interfaces that are fully integrated into the transplant healthcare work context between the demand-side (transplant center) and supply-side (organ procurement organization). The future workers are organ procurement coordinators and transplant coordinators, physicians and surgeons. A single kidney can have thousands of offers before one, if any, transplant center accepts it. The current process of manually placing lower quality organs exacerbates lost opportunities. The AI system will identify transplant teams and candidates that are most likely to accept a lower quality organ so that the match can be identified quickly and the organ is less likely to be discarded. This planning grant will build capacity for integrating AI into transplant healthcare and engage workers as well as pre- and post-transplant patients in a design-a-thon event. This research is driven by transplant experts at Saint Louis University Hospital and experts in AI and human factors from Missouri University of Science &amp; Technology. Once validated, this research can also be applied to other data-intensive high-stakes scenarios (e.g. military operations, critical infrastructure).&lt;br/&gt;&lt;br/&gt;AI systems often suffer from technical, human, and integration challenges. Over the course of the planning grant, we will (1) document a transplant work system architecture and identify challenges for re-designing this work process, (2) develop a proof-of-concept AI system to predict which candidates are most likely to accept a lower quality kidney that is at risk of discard, and (3) perform human subjects experiments to scope the interface design and predict technology adoption factors. It is time-consuming and costly to manually design neural architectures, so this project proposes an approach that uses evolutionary algorithms to find the optimal architecture for a particular data set. This will facilitate real-time adaptation as the data inputs evolve over time. In addition, it is critical for AI systems to be explainable and transparent, particularly in high stakes contexts. The project will perform human subject experiments with lay populations to evaluate how uncertainty visualizations and metrics influence performance, confidence, trust, technology acceptance, and willingness to choose riskier options.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026324</AwardID>
+<Investigator>
+<FirstName>Cihan</FirstName>
+<LastName>Dagli</LastName>
+<PI_MID_INIT>H</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Cihan H Dagli</PI_FULL_NAME>
+<EmailAddress><![CDATA[dagli@mst.edu]]></EmailAddress>
+<NSF_ID>000259939</NSF_ID>
+<StartDate>08/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Casey</FirstName>
+<LastName>Canfield</LastName>
+<PI_MID_INIT>I</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Casey I Canfield</PI_FULL_NAME>
+<EmailAddress><![CDATA[canfieldci@mst.edu]]></EmailAddress>
+<NSF_ID>000794772</NSF_ID>
+<StartDate>08/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Shank</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Daniel B Shank</PI_FULL_NAME>
+<EmailAddress><![CDATA[shankd@mst.edu]]></EmailAddress>
+<NSF_ID>000796648</NSF_ID>
+<StartDate>08/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Schnitzler</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark A Schnitzler</PI_FULL_NAME>
+<EmailAddress><![CDATA[mark.schnitzler@health.slu.edu]]></EmailAddress>
+<NSF_ID>000823263</NSF_ID>
+<StartDate>08/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Krista</FirstName>
+<LastName>Lentine</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Krista Lentine</PI_FULL_NAME>
+<EmailAddress><![CDATA[krista.lentine@health.slu.edu]]></EmailAddress>
+<NSF_ID>000823268</NSF_ID>
+<StartDate>08/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Missouri University of Science and Technology</Name>
+<CityName>ROLLA</CityName>
+<ZipCode>654096506</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress>300 W 12TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO08</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>Y6MGH342N169</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>LBFJB8N7LME3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Missouri University of Science and Technology]]></Name>
+<CityName>Rolla</CityName>
+<StateCode>MO</StateCode>
+<ZipCode>654096506</ZipCode>
+<StreetAddress><![CDATA[300 W 12th St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>08</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO08</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>103Y</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Thousands of procured kidneys are discarded each year due to inefficient workflow processes and negative perceptions for using lower quality or higher risk organs. While some of this discard is medically necessary, some represents lost opportunities to get patients off of dialysis and increase lifespans. A single kidney can have thousands of offers before one, if any, transplant center accepts it. The current process of manually placing lower quality organs exacerbates lost opportunities. To address this challenge, we propose to develop an artificial intelligence (AI) system with usable trustworthy interfaces that are fully integrated into the transplant healthcare work context between the demand-side (transplant center) and supply-side (organ procurement organization). The AI system will identify transplant teams and candidates that are most likely to accept a lower quality organ so that the match can be identified quickly and the organ is less likely to be discarded. This research is driven by transplant experts at Saint Louis University Hospital and experts in AI and human factors from Missouri University of Science &amp; Technology.</p> <p>This Future of Work at the Human Technology Frontier planning grant project (1) documented a transplant work system architecture to identify opportunities and challenges for redesigning this work process, (2) developed a proof-of-concept deep learning model to predict whether transplant centers will accept a particular kidney, and (3) performed human subjects experiments to estimate how uncertain information influences risky decision-making. For the first outcome, we hosted a series of three two-hour online workshops (design-a-thons) and conducted interviews with transplant stakeholders including transplant centers (surgeons, coordinators), organ procurement organizations (chief medical officer, directors, coordinators), and transplant recipients. In total, we engaged 39 people across stakeholder groups to document a detailed transplant work system architecture and solicit feedback on the decision support system design. In the first workshop we brainstormed opportunities, in the second we evaluated a prototype deep learning model, and in the third we solicited feedback on potential interface designs.</p> <p>For the second outcome, we developed several prototype deep learning models to estimate the probability of acceptance for a specific donor-candidate pair. This research on appropriate machine learning strategies suggests that implementing machine learning models on top of big data tools like Apache Spark can facilitate the development of real-time decision support systems. For the third outcome, we conducted two human-subject experiments to evaluate how people trust and interact with AI recommendations. Human subjects research suggests that AI recommendations on when not to act may improve performance the most in high-risk contexts and providing multiple recommendations, rather than just the best, can increase the human user&rsquo;s confidence.</p> <p>In terms of broader impacts, this research shows that interdisciplinary collaboration is critical to design an effective decision support system in a complex domain like transplant healthcare. As part of this project, 5 graduate students and 3 undergraduate students have been directly trained in interdisciplinary research. As part of the stakeholder engagement efforts, 10 additional graduate students have been trained in facilitation. Ultimately, this effort built capacity for integrating AI into transplant healthcare by engaging workers to co-design a decision support system. Once validated, this research can also be applied to other data-intensive high-stakes scenarios (e.g., military operations, critical infrastructure).</p> <p>&nbsp;</p><br> <p>            Last Modified: 04/15/2022<br>      Modified by: Casey&nbsp;I&nbsp;Canfield</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Thousands of procured kidneys are discarded each year due to inefficient workflow processes and negative perceptions for using lower quality or higher risk organs. While some of this discard is medically necessary, some represents lost opportunities to get patients off of dialysis and increase lifespans. A single kidney can have thousands of offers before one, if any, transplant center accepts it. The current process of manually placing lower quality organs exacerbates lost opportunities. To address this challenge, we propose to develop an artificial intelligence (AI) system with usable trustworthy interfaces that are fully integrated into the transplant healthcare work context between the demand-side (transplant center) and supply-side (organ procurement organization). The AI system will identify transplant teams and candidates that are most likely to accept a lower quality organ so that the match can be identified quickly and the organ is less likely to be discarded. This research is driven by transplant experts at Saint Louis University Hospital and experts in AI and human factors from Missouri University of Science &amp; Technology.  This Future of Work at the Human Technology Frontier planning grant project (1) documented a transplant work system architecture to identify opportunities and challenges for redesigning this work process, (2) developed a proof-of-concept deep learning model to predict whether transplant centers will accept a particular kidney, and (3) performed human subjects experiments to estimate how uncertain information influences risky decision-making. For the first outcome, we hosted a series of three two-hour online workshops (design-a-thons) and conducted interviews with transplant stakeholders including transplant centers (surgeons, coordinators), organ procurement organizations (chief medical officer, directors, coordinators), and transplant recipients. In total, we engaged 39 people across stakeholder groups to document a detailed transplant work system architecture and solicit feedback on the decision support system design. In the first workshop we brainstormed opportunities, in the second we evaluated a prototype deep learning model, and in the third we solicited feedback on potential interface designs.  For the second outcome, we developed several prototype deep learning models to estimate the probability of acceptance for a specific donor-candidate pair. This research on appropriate machine learning strategies suggests that implementing machine learning models on top of big data tools like Apache Spark can facilitate the development of real-time decision support systems. For the third outcome, we conducted two human-subject experiments to evaluate how people trust and interact with AI recommendations. Human subjects research suggests that AI recommendations on when not to act may improve performance the most in high-risk contexts and providing multiple recommendations, rather than just the best, can increase the human user’s confidence.  In terms of broader impacts, this research shows that interdisciplinary collaboration is critical to design an effective decision support system in a complex domain like transplant healthcare. As part of this project, 5 graduate students and 3 undergraduate students have been directly trained in interdisciplinary research. As part of the stakeholder engagement efforts, 10 additional graduate students have been trained in facilitation. Ultimately, this effort built capacity for integrating AI into transplant healthcare by engaging workers to co-design a decision support system. Once validated, this research can also be applied to other data-intensive high-stakes scenarios (e.g., military operations, critical infrastructure).          Last Modified: 04/15/2022       Submitted by: Casey I Canfield]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

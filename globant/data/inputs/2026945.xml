@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Tracking and Evaluation of the Coronavirus (COVID-19) Epidemic Propagation by Finding and Maintaining Live Knowledge in Social Media]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+<PO_EMAI>mmcclure@nsf.gov</PO_EMAI>
+<PO_PHON>7032925197</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Accurate situational awareness becomes an increasingly difficult challenge in rapidly changing environments. With currently exponential growth of COVID-19 confirmed cases, timely and reliable information becomes extremely important for informed decision making. Official reports based on confirmed test results are reliable, but widely considered to be a subset of the real situation. In contrast, social media provide broad coverage, but they have low reliability due to significant misinformation and disinformation or inaccurate news. With the gradual opening of businesses in the US, while the prospect of an effective vaccine remains uncertain, the need for reliable and accurate situation awareness becomes paramount, since the decisions for further business openings and practices of social distancing will depend on the information and perception of risks of contagion and the need for economic recovery. &lt;br/&gt;&lt;br/&gt;This project addresses the technical challenges of finding new, verifiable facts from noisy online media and social networks in a timely manner. Social media contain the necessary timely information, but they also carry significant challenges represented by misinformation, disinformation, and concept drift. Traditional machine learning (ML) models trained from closed data sets have been unable to meet these challenges when faced with true novelty in evolving new data, beyond the fixed training data. To handle these challenges, the Evidence-Based Knowledge Acquisition (EBKA) approach automates the integration of noisy social media data such as Twitter and Weibo with recognized, respected authoritative sources to detect verifiable facts timely and reliably. The project build on the LITMUS software tools to provide timely and reliable information com complement physical test result data, and enable better informed decision making by government officials, first responders, and the general public.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2026945</AwardID>
+<Investigator>
+<FirstName>Calton</FirstName>
+<LastName>Pu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Calton Pu</PI_FULL_NAME>
+<EmailAddress><![CDATA[calton@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000432066</NSF_ID>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ling</FirstName>
+<LastName>Liu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ling Liu</PI_FULL_NAME>
+<EmailAddress><![CDATA[lingliu@cc.gatech.edu]]></EmailAddress>
+<NSF_ID>000435549</NSF_ID>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>ATLANTA</CityName>
+<ZipCode>30332</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>926 DALNEY ST NW</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>EMW9FC8J3HN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>EMW9FC8J3HN4</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<StateCode>GA</StateCode>
+<ZipCode>303320002</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The COVID-19 pandemic (Figure 1 on confirmed new cases worldwide) has forever changed our view of the world. In a way similar to a world war, the pandemic has affected our lives in unpredictable ways through the ups and downs in every country. On the positive side, we have had tremendous successes, e.g., the unprecedented fast creation, trial, production, and delivery of variety of vaccines. On the negative side, we also have had a number of technical and social challenges, e.g., prevention of pandemic spreading, as well as medical and mental care for the population, both those sick and at risk. In the ?new normal? world, this research project aims to help reduce the human, social, and economic costs of the pandemic. The initial hypothesis of the project, that social sensors can provide early indicators of spreading events, before the physical symptoms appear, can make a significant difference in the ongoing COVID-19 pandemic, as well as future pandemics.</p> <p>&nbsp;</p> <p>Our initial hypothesis has been validated with large-scale, super-spreading events such as the 2020 Sturgis gathering of motorcyclists. Serious technical challenges remain for the application of our tools for the early detection of risky community-scale events, including the filtering of misinformation, and refinement of temporal and spatial resolution of event localization. We are applying promising techniques such as Evidence-Based Knowledge Acquisition (EBKA, shown in Figure 2) to improve information quality, and integrating new high resolution maps to increase event resolution. As our capability to ?zoom into? events improves, the applicability of our techniques and tools, as well as wider impact on disaster management, will improve significantly ahead of the physical detection of virus symptoms.</p> <p>&nbsp;</p> <p>While the social sensors have the advantage of timely reporting, they also confront significant challenges in the presence of misinformation and disinformation, a problem called ?infodemic? by WHO during the pandemic. The misinformation problem can be bypassed when overwhelming amount of legitimate data items from diverse sources are covering such large-scale events. However, misinformation becomes more prominent as we ?zoom into? small-scale events, with fewer relevant data items, which could be overshadowed by intentional misinformation.</p> <p>&nbsp;</p> <p>Our technical approach, called Evidence-Based Knowledge Acquisition (EBKA, Figure 2), combines social sensors with authoritative and corroborative sources such as CDC, WHO, and reputable newspapers to separate legitimate data items from misinformation. Misinformation is typically constructed by professionals to resemble legitimate data, often appealing to confirmation bias with messages that contradict factual knowledge. One of the difficulties in identifying misinformation is the lack of confirmed negative training data, leading to the imbalanced learning problem, lowering the predictive accuracy of misinformation. The imbalanced learning problem is aggravated by Twitter detection of confirmed misinformation tweets, which leads to the closure of offending accounts. The account closure also prevents access to all the past postings from that account, which is a sanitary measure, but effectively turns all those misinformation tweets into dust, reducing the amount of misinformation further.</p> <p>&nbsp;</p> <p>In the application of EBKA to tweets on the pandemic, a teamed machine learning classifier is continuously augmented with new component classifiers trained from validated legitimate tweets (the positive samples) and tweets from disable accounts due to misinformation (the negative samples). EBKA improves the accuracy and precision of the teamed classifier by improving both the positive and negative training data on recent tweets. EBKA automates the process of validating legitimate social sensor data within a short time window, as well as identifying confirmed misinformation by storing the content of offending tweets from disabled accounts, metaphorically turning dust back into gold.</p> <p>&nbsp;</p> <p>Building on the progress of pandemic event recognition from the application of EBKA approach, we have been refining the teamed classifier towards an improved resolution of event detection in time (days instead of weeks/months) and space (towns and neighborhoods instead of counties).</p><br> <p>            Last Modified: 09/24/2021<br>      Modified by: Calton&nbsp;Pu</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2026945/2026945_10675433_1632460866475_EBKA-v1--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2026945/2026945_10675433_1632460866475_EBKA-v1--rgov-800width.jpg" title="Evidence-Based Knowledge Acquisition (EBKA)"><img src="/por/images/Reports/POR/2021/2026945/2026945_10675433_1632460866475_EBKA-v1--rgov-66x44.jpg" alt="Evidence-Based Knowledge Acquisition (EBKA)"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2 Evidence-Based Knowledge Acquisition (EBKA) Applied to COVID-19 Tracking</div> <div class="imageCredit">Georgia Institute of Technology</div> <div class="imagePermisssions">Copyright owner is an institution with an existing agreement allowing use by NSF</div> <div class="imageSubmitted">Calton&nbsp;Pu</div> <div class="imageTitle">Evidence-Based Knowledge Acquisition (EBKA)</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2026945/2026945_10675433_1632459870673_World-2021-09-20--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2026945/2026945_10675433_1632459870673_World-2021-09-20--rgov-800width.jpg" title="New Cases of COVID-19"><img src="/por/images/Reports/POR/2021/2026945/2026945_10675433_1632459870673_World-2021-09-20--rgov-66x44.jpg" alt="New Cases of COVID-19"></a> <div class="imageCaptionContainer"> <div class="imageCaption">New Cases of COVID-19 (top 10 countries in Sept 20, 2021)</div> <div class="imageCredit">JHU COVID website</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Calton&nbsp;Pu</div> <div class="imageTitle">New Cases of COVID-19</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The COVID-19 pandemic (Figure 1 on confirmed new cases worldwide) has forever changed our view of the world. In a way similar to a world war, the pandemic has affected our lives in unpredictable ways through the ups and downs in every country. On the positive side, we have had tremendous successes, e.g., the unprecedented fast creation, trial, production, and delivery of variety of vaccines. On the negative side, we also have had a number of technical and social challenges, e.g., prevention of pandemic spreading, as well as medical and mental care for the population, both those sick and at risk. In the ?new normal? world, this research project aims to help reduce the human, social, and economic costs of the pandemic. The initial hypothesis of the project, that social sensors can provide early indicators of spreading events, before the physical symptoms appear, can make a significant difference in the ongoing COVID-19 pandemic, as well as future pandemics.     Our initial hypothesis has been validated with large-scale, super-spreading events such as the 2020 Sturgis gathering of motorcyclists. Serious technical challenges remain for the application of our tools for the early detection of risky community-scale events, including the filtering of misinformation, and refinement of temporal and spatial resolution of event localization. We are applying promising techniques such as Evidence-Based Knowledge Acquisition (EBKA, shown in Figure 2) to improve information quality, and integrating new high resolution maps to increase event resolution. As our capability to ?zoom into? events improves, the applicability of our techniques and tools, as well as wider impact on disaster management, will improve significantly ahead of the physical detection of virus symptoms.     While the social sensors have the advantage of timely reporting, they also confront significant challenges in the presence of misinformation and disinformation, a problem called ?infodemic? by WHO during the pandemic. The misinformation problem can be bypassed when overwhelming amount of legitimate data items from diverse sources are covering such large-scale events. However, misinformation becomes more prominent as we ?zoom into? small-scale events, with fewer relevant data items, which could be overshadowed by intentional misinformation.     Our technical approach, called Evidence-Based Knowledge Acquisition (EBKA, Figure 2), combines social sensors with authoritative and corroborative sources such as CDC, WHO, and reputable newspapers to separate legitimate data items from misinformation. Misinformation is typically constructed by professionals to resemble legitimate data, often appealing to confirmation bias with messages that contradict factual knowledge. One of the difficulties in identifying misinformation is the lack of confirmed negative training data, leading to the imbalanced learning problem, lowering the predictive accuracy of misinformation. The imbalanced learning problem is aggravated by Twitter detection of confirmed misinformation tweets, which leads to the closure of offending accounts. The account closure also prevents access to all the past postings from that account, which is a sanitary measure, but effectively turns all those misinformation tweets into dust, reducing the amount of misinformation further.     In the application of EBKA to tweets on the pandemic, a teamed machine learning classifier is continuously augmented with new component classifiers trained from validated legitimate tweets (the positive samples) and tweets from disable accounts due to misinformation (the negative samples). EBKA improves the accuracy and precision of the teamed classifier by improving both the positive and negative training data on recent tweets. EBKA automates the process of validating legitimate social sensor data within a short time window, as well as identifying confirmed misinformation by storing the content of offending tweets from disabled accounts, metaphorically turning dust back into gold.     Building on the progress of pandemic event recognition from the application of EBKA approach, we have been refining the teamed classifier towards an improved resolution of event detection in time (days instead of weeks/months) and space (towns and neighborhoods instead of counties).       Last Modified: 09/24/2021       Submitted by: Calton Pu]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

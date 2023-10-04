@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Viral inactivation in air and on surfaces across large areas by safe, non-thermal, non-ionizing electromagnetic radiation]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>254392.00</AwardTotalIntnAmount>
+<AwardAmount>254392</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is a new and safe non-contact method and device to inactivate viruses in air or on surfaces and objects. The non-chemical method proposed is scalable and can be quickly adjusted to target novel pathogens and therefore prevent or mitigate future epidemics of novel viral pathogens. The solution enabled by the proposed project is a relatively low-cost portable or ceiling-mounted device to be operated in health care settings, offices, schools, public transit, or other locations where the risk of disease transmission is high. The device would provide a continuous antiviral effect in thousands or millions of locations while operating within safe limits for human exposure.   &lt;br/&gt;&lt;br/&gt;This SBIR  Phase I project proposes to validate the concept of a non-contact viral inactivation method that relies on resonant energy transfer from microwaves, and to demonstrate the efficacy in viral assays under operation parameters that are safe for humans and within regulatory guidelines. To accomplish this, a miniaturized and cost-effective high power pulsed microwave source and antenna is required. To this end, a prototype device will be developed that consists of a high-power vacuum electronics device, such as a magnetron or a traveling-wave tube, a custom and novel high voltage power source, and firmware and controls. The power supply will be designed to drive an existing vacuum device, by means of a regulated high-voltage output in the kilowatt range and a floating low-power auxiliary power source. To control pulsed operation, a control algorithm will be implemented in a microcontroller. The prototype will be characterized and used to expose viral samples in common viral growth assays, followed by a quantitative assessment of the antiviral effect. The outcome expected is a functional prototype that achieves significant reduction, e.g., 2 logs, within safe limits that will serve as a blueprint for a novel class of antiviral devices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036664</AwardID>
+<Investigator>
+<FirstName>Luke</FirstName>
+<LastName>Raymond</LastName>
+<PI_MID_INIT>C</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luke C Raymond</PI_FULL_NAME>
+<EmailAddress><![CDATA[lukecraymond@gmail.com]]></EmailAddress>
+<NSF_ID>000713497</NSF_ID>
+<StartDate>06/30/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>AIRITY TECHNOLOGIES, INC.</Name>
+<CityName>REDWOOD CITY</CityName>
+<ZipCode>940633479</ZipCode>
+<PhoneNumber>6505213909</PhoneNumber>
+<StreetAddress>2684 MIDDLEFIELD RD STE A</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA18</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>YGGMVJWXVTA1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AIRITY TECHNOLOGIES, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[AIRITY TECHNOLOGIES, INC.]]></Name>
+<CityName>Redwood City</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>940613432</ZipCode>
+<StreetAddress><![CDATA[1505 Woodside Rd]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>18</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA18</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8609</Code>
+<Text>Other Energy Research</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~254392</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The COVID-19 pandemic has led to a severe humanitarian crisis along with damaging economic impacts. Airity Technologies aimed to reduce viral transmission in public and private spaces by using microwaves that are safe for human exposure. The objective of the SBIR phase I project was to develop and test a device for non-chemical inactivation of enveloped viruses, including Influenza and Coronavirus. The device uses a novel power supply circuit coupled to a traveling-wave tube (TWT) to generate high-energy pulses of electro-magnetic (EM) energy. The method under investigation is called Structure Resonance Energy Transfer (SRET) where EM waves are purported to induce destructive mechanical vibrations within a specific frequency range, thus inactivating the virus. The project demonstrated a functional system that achieved energies exceeding the threshold required for viral inactivation based on previous literature (Yang et al., 2015). The antiviral effectiveness was evaluated on many samples from multiple different viruses using a cell growth assay method.</p> <p>The results indicate that non-thermal EM radiation does NOT kill viruses. Our experiments included peak powers orders of magnitude higher than previously reported (~6 kW/m<sup>2</sup>), spanned wide range of frequencies (4&ndash;12 GHz) including the predicted mechanical resonance peak, and used positive and negative controls. Furthermore, we tested Human Alphacoronavirus CoV229E, Respiratory Syncytial Virus (RSV), and Influenza<sub>APR834</sub> (H1N1).</p> <p>To achieve the performance targets for a viable product, a low cost, accurate, and small electronic power conditioner (EPC) was needed to drive vacuum electronics devices for high-frequency microwave generation. Such devices include TWTs and magnetrons and to comply with safety limits, these needed to be driven in pulsed mode, requiring a power supply with a fast transient response.</p> <p>To achieve these targets in this project, we developed a modular EPC with full digital control and multiple outputs capable of driving a range of vacuum electronics devices with varying voltage and power requirements. This platform technology can be used for operating TWTs, magnetrons, x-ray tubes, and gyrotrons. Product prototypes have since been undergone customer tests, achieving more than 500 W at a peak voltage of 14.4 kV, with low ripple, high accuracy, and sub-ms rise times for up to 6 output voltages within one EPC.</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/30/2022<br>      Modified by: Luke&nbsp;C&nbsp;Raymond</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The COVID-19 pandemic has led to a severe humanitarian crisis along with damaging economic impacts. Airity Technologies aimed to reduce viral transmission in public and private spaces by using microwaves that are safe for human exposure. The objective of the SBIR phase I project was to develop and test a device for non-chemical inactivation of enveloped viruses, including Influenza and Coronavirus. The device uses a novel power supply circuit coupled to a traveling-wave tube (TWT) to generate high-energy pulses of electro-magnetic (EM) energy. The method under investigation is called Structure Resonance Energy Transfer (SRET) where EM waves are purported to induce destructive mechanical vibrations within a specific frequency range, thus inactivating the virus. The project demonstrated a functional system that achieved energies exceeding the threshold required for viral inactivation based on previous literature (Yang et al., 2015). The antiviral effectiveness was evaluated on many samples from multiple different viruses using a cell growth assay method.  The results indicate that non-thermal EM radiation does NOT kill viruses. Our experiments included peak powers orders of magnitude higher than previously reported (~6 kW/m2), spanned wide range of frequencies (4&ndash;12 GHz) including the predicted mechanical resonance peak, and used positive and negative controls. Furthermore, we tested Human Alphacoronavirus CoV229E, Respiratory Syncytial Virus (RSV), and InfluenzaAPR834 (H1N1).  To achieve the performance targets for a viable product, a low cost, accurate, and small electronic power conditioner (EPC) was needed to drive vacuum electronics devices for high-frequency microwave generation. Such devices include TWTs and magnetrons and to comply with safety limits, these needed to be driven in pulsed mode, requiring a power supply with a fast transient response.  To achieve these targets in this project, we developed a modular EPC with full digital control and multiple outputs capable of driving a range of vacuum electronics devices with varying voltage and power requirements. This platform technology can be used for operating TWTs, magnetrons, x-ray tubes, and gyrotrons. Product prototypes have since been undergone customer tests, achieving more than 500 W at a peak voltage of 14.4 kV, with low ripple, high accuracy, and sub-ms rise times for up to 6 output voltages within one EPC.          Last Modified: 08/30/2022       Submitted by: Luke C Raymond]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

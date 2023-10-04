@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: COVID-19-Net: Integrating Health, Pathogen and Environmental Data into a Knowledge Graph for Case Tracking, Analysis, and Forecasting]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15020000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ITE</Abbreviation>
+<LongName>Innovation and Technology Ecosystems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nakhiah Goulbourne</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This COVID-19 RAPID research program could help answer several key questions about the pandemic, such as “What characteristics are in common among outbreaks in the US and other locations?”, “How different are viral strains, and how these differences affect transmission in different regions?”, or “How similar or different the patterns of the coronavirus infection spread and its impacts are compared to previous pandemics?” The multitude of diverse COVID-19-related data streams, which are rapidly made available online with little coordination or reliance on common standards, creates enormous challenges for researchers trying to answer such questions today, and analyze and predict patterns of the pandemic in its cross-disciplinary complexity. This project will do so by linking diverse information about pathogens, health data, and environmental indicators into a common knowledge graph, to let researchers trace the virus in different geographic conditions and provide input into effective intervention policies. &lt;br/&gt;&lt;br/&gt;The core technical component of the project is a COVID-19 knowledge graph, which represents linked facts about different aspects of the pandemic, from scientific literature and large data collections and models. The project will develop a novel methodology for creating a knowledge graph from disparate sources describing pathogens, population health, environmental conditions, and critical infrastructure components. The graph will be created in coordination with several partner projects working on the NSF Open Knowledge Network. This will ensure that additional knowledge domains can be integrated to support cross-disciplinary analysis. The results of the collaborative knowledge network development will be published as a continuously updated online dashboard for the general public and a collection of Jupyter Notebooks, open source software to enable interactive computing, to help researchers explore various aspects of the knowledge graph and improve our understanding of how the virus is spread and what intervention strategies are potentially most effective.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.083</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028411</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Rose</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Peter Rose</PI_FULL_NAME>
+<EmailAddress><![CDATA[pwrose@ucsd.edu]]></EmailAddress>
+<NSF_ID>000749488</NSF_ID>
+<StartDate>05/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ilya</FirstName>
+<LastName>Zaslavsky</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ilya Zaslavsky</PI_FULL_NAME>
+<EmailAddress><![CDATA[zaslavsk@sdsc.edu]]></EmailAddress>
+<NSF_ID>000429879</NSF_ID>
+<StartDate>05/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930021</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>9500 GILMAN DRIVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA50</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>UYTTZT6G9DT1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>La Jolla</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930934</ZipCode>
+<StreetAddress><![CDATA[9500 Gilman Dr.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>50</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA50</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>095Y</Code>
+<Text>CA-HDR: Convergence Accelerato</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-180356aa-7fff-32cd-f266-44d8edfd793d"> </span></p> <p dir="ltr"><span>COVID-19 pandemic is a multi-faceted phenomenon affecting all aspects of people's behavior and well-being, including public health, economics, education and travel patterns. As the pandemic continues to be the focus of researchers across the world, it becomes especially important to organize the different types of information from governments, academia, and private sector companies, into a comprehensive system that would help answer complex questions about the pandemic. It is also critically important to allow such queries to integrate information from diverse areas of knowledge, including biomedical knowledge, transmission patterns of different viral strains, public health indicators, risk factors, and environmental data, allowing researchers to link information across scales, from molecular interactions to country-wide data on infection and co-morbidities.</span></p> <p dir="ltr"><span>This project created one of the key components of such "open knowledge network" for COVID-19 analysis and forecasting, where diverse types of information are cross-linked and made openly available to researchers and general public. Integrating data from 40+ information sources, including 20+ academic projects and all levels of government, the project built a COVID-19 knowledge graph, specifically focusing on epidemiology (virus strains, lineage, host organisms, and related coronaviruses) biology (organism, genome, chromosome, gene, protein information and interactions), and population characteristics (health indicators and risk factors, by countries, and, in the US: by counties, zip codes, and census tracts.) In addition, the project built a set of tools for maintaining, updating, and querying the knowledge graph, using Jupyter notebooks, a widely used data science platform. The methodology for ingesting, cross-linking and querying knowledge graph information made a significant impact on the development of open knowledge technology, as the repository of tools and the knowledge graph content remained the highest-rated COVID knowledge graph on Github, a widely used code repository.</span></p> <p dir="ltr"><span>A key extension of the methodology developed by this project focused on analysis and modeling of COVID-19 transmission risks in schools. An initial&nbsp; spatially-explicit agent-based model of COVID-19 transmission, implemented for San Diego schools, integrated school floor plans and room layouts and other individual school characteristics to simulate aerosol and droplet transmission patterns under different mitigation scenarios. The model has been used by San Diego Unified School district and presented to nearly 400 school administrators. It model was developed with data and feedback from the County of San Diego Health and Human Services Agency and the San Diego County Office of Education, and was implemented on XSEDE, a national supercomputing resource.</span></p> <p dir="ltr"><span>Project results have been presented at multiple conferences and national-level professional meetings including GO-FAIR US Webinar, Graphs4Good Conference, COVID Information Commons webinar, American Geophysical Union Annual Meeting, and the Knowledge Graph Conference. Several undergraduate data science students have been involved in the project, and mentored on knowledge graph development and agent-based modeling through Directed Group Study, Independent Study and Capstone project courses. In addition, the project engaged high school students through participation in the "COVID-19 Data Challenge". One of the undergraduate data science students involved in the project received the first place award from the Urban and Regional Information System Association (URISA) 2020 Competition for his work on a population-at-risk dashboard and predictive modeling of COVID-19 transmission in San Diego.</span></p> <div><span><br /></span></div> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/21/2022<br>      Modified by: Peter&nbsp;Rose</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807196112_COVID-19-Net-schema--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807196112_COVID-19-Net-schema--rgov-800width.jpg" title="COVID-19-Net Knowledge Graph"><img src="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807196112_COVID-19-Net-schema--rgov-66x44.jpg" alt="COVID-19-Net Knowledge Graph"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Metagraph of the COVID-19-Net show the nodes and relationships in the Knowledge Graph.</div> <div class="imageCredit">Peter Rose</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Peter&nbsp;Rose</div> <div class="imageTitle">COVID-19-Net Knowledge Graph</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807292760_COVID-19-Net_data_provenance--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807292760_COVID-19-Net_data_provenance--rgov-800width.jpg" title="COVID-19-Net Data Sources"><img src="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807292760_COVID-19-Net_data_provenance--rgov-66x44.jpg" alt="COVID-19-Net Data Sources"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Graph representation of the data provenance in the COVID-19-Net Knowledge Graph</div> <div class="imageCredit">Peter Rose</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Peter&nbsp;Rose</div> <div class="imageTitle">COVID-19-Net Data Sources</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807419707_SARS-CoV-2-Human_interaction_network--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807419707_SARS-CoV-2-Human_interaction_network--rgov-800width.jpg" title="SARS-CoV-2 - Human Interactions"><img src="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807419707_SARS-CoV-2-Human_interaction_network--rgov-66x44.jpg" alt="SARS-CoV-2 - Human Interactions"></a> <div class="imageCaptionContainer"> <div class="imageCaption">SARS-CoV-2 (pathogen) - human (host) protein-protein interaction network</div> <div class="imageCredit">Peter Rose</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Peter&nbsp;Rose</div> <div class="imageTitle">SARS-CoV-2 - Human Interactions</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807507408_COVID-19-Net_workflow--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807507408_COVID-19-Net_workflow--rgov-800width.jpg" title="COVID-19-Net Workflow"><img src="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807507408_COVID-19-Net_workflow--rgov-66x44.jpg" alt="COVID-19-Net Workflow"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Workflow to create the COVID-19-Net Knowledge Graph</div> <div class="imageCredit">Peter Rose</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Peter&nbsp;Rose</div> <div class="imageTitle">COVID-19-Net Workflow</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807752124_School_layout--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807752124_School_layout--rgov-800width.jpg" title="SARS-CoV-2 transmission in a school."><img src="/por/images/Reports/POR/2022/2028411/2028411_10668611_1642807752124_School_layout--rgov-66x44.jpg" alt="SARS-CoV-2 transmission in a school."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Schematic representing the layout and floor-plan of a school to model SARS-CoV-2 transmission.</div> <div class="imageCredit">Kaushik Ganapathy</div> <div class="imagePermisssions">Public Domain</div> <div class="imageSubmitted">Peter&nbsp;Rose</div> <div class="imageTitle">SARS-CoV-2 transmission in a school.</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   COVID-19 pandemic is a multi-faceted phenomenon affecting all aspects of people's behavior and well-being, including public health, economics, education and travel patterns. As the pandemic continues to be the focus of researchers across the world, it becomes especially important to organize the different types of information from governments, academia, and private sector companies, into a comprehensive system that would help answer complex questions about the pandemic. It is also critically important to allow such queries to integrate information from diverse areas of knowledge, including biomedical knowledge, transmission patterns of different viral strains, public health indicators, risk factors, and environmental data, allowing researchers to link information across scales, from molecular interactions to country-wide data on infection and co-morbidities. This project created one of the key components of such "open knowledge network" for COVID-19 analysis and forecasting, where diverse types of information are cross-linked and made openly available to researchers and general public. Integrating data from 40+ information sources, including 20+ academic projects and all levels of government, the project built a COVID-19 knowledge graph, specifically focusing on epidemiology (virus strains, lineage, host organisms, and related coronaviruses) biology (organism, genome, chromosome, gene, protein information and interactions), and population characteristics (health indicators and risk factors, by countries, and, in the US: by counties, zip codes, and census tracts.) In addition, the project built a set of tools for maintaining, updating, and querying the knowledge graph, using Jupyter notebooks, a widely used data science platform. The methodology for ingesting, cross-linking and querying knowledge graph information made a significant impact on the development of open knowledge technology, as the repository of tools and the knowledge graph content remained the highest-rated COVID knowledge graph on Github, a widely used code repository. A key extension of the methodology developed by this project focused on analysis and modeling of COVID-19 transmission risks in schools. An initial  spatially-explicit agent-based model of COVID-19 transmission, implemented for San Diego schools, integrated school floor plans and room layouts and other individual school characteristics to simulate aerosol and droplet transmission patterns under different mitigation scenarios. The model has been used by San Diego Unified School district and presented to nearly 400 school administrators. It model was developed with data and feedback from the County of San Diego Health and Human Services Agency and the San Diego County Office of Education, and was implemented on XSEDE, a national supercomputing resource. Project results have been presented at multiple conferences and national-level professional meetings including GO-FAIR US Webinar, Graphs4Good Conference, COVID Information Commons webinar, American Geophysical Union Annual Meeting, and the Knowledge Graph Conference. Several undergraduate data science students have been involved in the project, and mentored on knowledge graph development and agent-based modeling through Directed Group Study, Independent Study and Capstone project courses. In addition, the project engaged high school students through participation in the "COVID-19 Data Challenge". One of the undergraduate data science students involved in the project received the first place award from the Urban and Regional Information System Association (URISA) 2020 Competition for his work on a population-at-risk dashboard and predictive modeling of COVID-19 transmission in San Diego.               Last Modified: 01/21/2022       Submitted by: Peter Rose]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

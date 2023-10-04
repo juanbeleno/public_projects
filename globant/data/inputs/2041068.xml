@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CRII: CHS: Empirical and Design Investigations to Address Misleading Online News in Social Media]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>94809.00</AwardTotalIntnAmount>
+<AwardAmount>126808</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Bainbridge</SignBlockName>
+<PO_EMAI>wbainbri@nsf.gov</PO_EMAI>
+<PO_PHON>7032927470</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This research employs social computing and human-centered approaches to understand the relationship between people and technology in the context of online news.  It specifically investigates online news sources that propagate fabricated stories, explores how users engage with these sources on social media, and examines ways to nudge users to be more conscious consumers of online news.  This investigation aims to provide new perspectives that address digital misinformation by focusing on the following questions: How can we establish differences between mainstream sources and misleading sources of online news? How can we nudge people to be more careful and conscious consumers of online news? &lt;br/&gt;&lt;br/&gt;The research will be conducted along two symbiotic lines of inquiry. The first involves empirical investigation of misleading online news sources to develop a deep understanding of their behavior along the following threads: topical and writing style differences from mainstream sources, user engagement distinctions, and the corresponding temporal changes. This inquiry will be based on the following data: a professionally curated list of online news sources along with their credibility labels from expert fact-checkers, and tweets sent out by these news sources over a period of at least a year. The second thrust of this research focuses on exploring design interventions to increase people's awareness while they read news on social media sites.  Specifically, it will investigate two classes of design nudges on Twitter. The first intervention, emphasize, will nudge users to reflect on the ambiguity and uncertainty present in certain news posts. Emphasize will automatically detect whether a social media news post from a mainstream source has been questioned and highlight those question tweets for the news reader. The second intervention, de-emphasize, will be triggered whenever news posts originate from misleading sources, to make that post less visible in an attempt to minimize exposure to misleading online news. The human-centered evaluations that accompany the deployment of these interventions will provide qualitative and quantitative evidence about user experiences, as well as measurements about the efficacy of these interventions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2041068</AwardID>
+<Investigator>
+<FirstName>Tanushree</FirstName>
+<LastName>Mitra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Tanushree Mitra</PI_FULL_NAME>
+<EmailAddress><![CDATA[tmitra@uw.edu]]></EmailAddress>
+<NSF_ID>000750147</NSF_ID>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 BROOKLYN AVE NE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>HD1WMN6945W6</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE UNIVERSITY OF WASHINGTON VICE PR</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Washington]]></Name>
+<CityName>Seattle</CityName>
+<StateCode>WA</StateCode>
+<ZipCode>981950001</ZipCode>
+<StreetAddress><![CDATA[4333 Brooklyn Ave NE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>HCC-Human-Centered Computing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0118</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001819DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2018~94808</FUND_OBLG>
+<FUND_OBLG>2019~16000</FUND_OBLG>
+<FUND_OBLG>2021~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Online social media platforms, powered by low transaction costs and high-speed of information diffusion, have dramatically shifted the way people consume news and information. The low marginal cost of online information exchange has also led to the emergence of a vast number of news outlets disseminating information ranging from carefully vetted news to completely fabricated rumors. Thus, people&rsquo;s increasing reliance on social media as a news source, coupled with the growth of outlets spreading fabricated and misleading stories, may together lead to a misinformed citizenry. This research investigated online news and information sources that propagate fabricated and questionable stories, explored the characteristics of users who engage with these sources on social media, and examined ways to nudge users to be more conscious consumers of online news and information.</p> <p>Towards the first goal of empirically investigating news and information and users who engage with them, this project developed a systematic characterization of the landscape of social media news sphere through user co-sharing practices. Specifically, we conducted an extensive quantitative analysis of over 31 million tweets and 1 million news articles, adopted multiple measures of news source quality, including external assessments of sources&rsquo; factuality, impartiality, and journalistic integrity, compared and contrasted the external assessments of the news sources, the characteristics of their articles, and the audience that shares them on Twitter to finally surface multiple data-driven insights. For example, we were able to show a disconnect between how experts categorize news sources, and how their audience selects them on Twitter.&nbsp; We shed light on which expert assessments help in differentiating between audience-based clusters of news sources. Our work yielded an important practical implication that can help social media platforms to reliably triage new information outlets, thus alleviating the labor-intensive labeling of an ever-growing information space. We also established that while creating information outlets is cheap, controlling its audience similarity space is costly; hence a reliable, hard-to-fake signal. In addition to this set of findings, our work also gleaned several insights on a subset of questionable information&mdash;conspiracy theories. Specifically, through large-scale empirical data analysis and modeling, we showed the roles played by social factors in making users join communities endorsing and spreading conspiracy theories. We also developed a computational framework for identifying dissonance and disengagement from misguided beliefs.</p> <p>Towards the second goal of designing socio-technical nudge-based interventions to reflect on news/information read on social feed, we made several contributions. First, we designed <em>NudgeCred</em>, a browser extension for Twitter which directs users&rsquo; attention to two design cues: authority of a source and other users&rsquo; collective opinion on a report by activating three design nudges&mdash;Reliable, Questionable, and Unreliable, each denoting particular levels of credibility for news tweets. Our field deployment of NudgeCred showed that it improved user&rsquo;s recognition of news items and attention towards all of our nudges, particularly towards Questionable. Second, we designed <em>OtherTube--</em> a browser extension for YouTube that displays strangers' personalized YouTube recommendations as a mechanism to investigate whether exchanging recommendations with strangers can help users break out of their information filter bubbles, discover new content and reflect on them. Our results reveal that users discovered and developed new interests from seeing <em>OtherTube</em> recommendations. Thus, our work showed promise in designing interventions that can allow users to break free from the filter bubble of dubious content consumption and nudge them towards more diverse content. Third, we also proposed an explainable AI (XAI) framework to design interventions in scenarios where online algorithms expose users to problematic and potentially false content. Our intervention design includes facts (to indicate algorithmic justification of what happened) accompanied with either fore-warnings or counterfactual explanations. While fore-warnings indicate potential risks of an action to users, the counterfactual explanations will indicate what actions a user should perform to change the algorithmic outcome.&nbsp;&nbsp;</p> <p>This research also led to the training of multiple students and mentees by incorporating more than 6 undergraduates, 3 graduate students and 1 post-doc through research assistantships, for-credit research positions, and undergraduate REU engagements. More than half of these students have been women.</p> <p>&nbsp;</p><br> <p>            Last Modified: 07/27/2023<br>      Modified by: Tanushree&nbsp;Mitra</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Online social media platforms, powered by low transaction costs and high-speed of information diffusion, have dramatically shifted the way people consume news and information. The low marginal cost of online information exchange has also led to the emergence of a vast number of news outlets disseminating information ranging from carefully vetted news to completely fabricated rumors. Thus, people’s increasing reliance on social media as a news source, coupled with the growth of outlets spreading fabricated and misleading stories, may together lead to a misinformed citizenry. This research investigated online news and information sources that propagate fabricated and questionable stories, explored the characteristics of users who engage with these sources on social media, and examined ways to nudge users to be more conscious consumers of online news and information.  Towards the first goal of empirically investigating news and information and users who engage with them, this project developed a systematic characterization of the landscape of social media news sphere through user co-sharing practices. Specifically, we conducted an extensive quantitative analysis of over 31 million tweets and 1 million news articles, adopted multiple measures of news source quality, including external assessments of sources’ factuality, impartiality, and journalistic integrity, compared and contrasted the external assessments of the news sources, the characteristics of their articles, and the audience that shares them on Twitter to finally surface multiple data-driven insights. For example, we were able to show a disconnect between how experts categorize news sources, and how their audience selects them on Twitter.  We shed light on which expert assessments help in differentiating between audience-based clusters of news sources. Our work yielded an important practical implication that can help social media platforms to reliably triage new information outlets, thus alleviating the labor-intensive labeling of an ever-growing information space. We also established that while creating information outlets is cheap, controlling its audience similarity space is costly; hence a reliable, hard-to-fake signal. In addition to this set of findings, our work also gleaned several insights on a subset of questionable information&mdash;conspiracy theories. Specifically, through large-scale empirical data analysis and modeling, we showed the roles played by social factors in making users join communities endorsing and spreading conspiracy theories. We also developed a computational framework for identifying dissonance and disengagement from misguided beliefs.  Towards the second goal of designing socio-technical nudge-based interventions to reflect on news/information read on social feed, we made several contributions. First, we designed NudgeCred, a browser extension for Twitter which directs users’ attention to two design cues: authority of a source and other users’ collective opinion on a report by activating three design nudges&mdash;Reliable, Questionable, and Unreliable, each denoting particular levels of credibility for news tweets. Our field deployment of NudgeCred showed that it improved user’s recognition of news items and attention towards all of our nudges, particularly towards Questionable. Second, we designed OtherTube-- a browser extension for YouTube that displays strangers' personalized YouTube recommendations as a mechanism to investigate whether exchanging recommendations with strangers can help users break out of their information filter bubbles, discover new content and reflect on them. Our results reveal that users discovered and developed new interests from seeing OtherTube recommendations. Thus, our work showed promise in designing interventions that can allow users to break free from the filter bubble of dubious content consumption and nudge them towards more diverse content. Third, we also proposed an explainable AI (XAI) framework to design interventions in scenarios where online algorithms expose users to problematic and potentially false content. Our intervention design includes facts (to indicate algorithmic justification of what happened) accompanied with either fore-warnings or counterfactual explanations. While fore-warnings indicate potential risks of an action to users, the counterfactual explanations will indicate what actions a user should perform to change the algorithmic outcome.    This research also led to the training of multiple students and mentees by incorporating more than 6 undergraduates, 3 graduate students and 1 post-doc through research assistantships, for-credit research positions, and undergraduate REU engagements. More than half of these students have been women.          Last Modified: 07/27/2023       Submitted by: Tanushree Mitra]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

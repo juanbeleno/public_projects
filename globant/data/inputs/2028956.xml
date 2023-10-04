@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: PPoSS: Planning: Performance Scalability, Trust, and Reproducibility: A Community Roadmap to Robust Science in High-throughput Applications]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>30000.00</AwardTotalIntnAmount>
+<AwardAmount>30000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+<PO_EMAI>abanerje@nsf.gov</PO_EMAI>
+<PO_PHON>7032927885</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[This project is focused on a critical issue in computational science. As scientists in all fields increasingly rely on high-throughput applications (which combine multiple components into increasingly complex multi-modal workflows on heterogeneous systems), the increasing complexities of those applications hinder the scientists’ ability to generate robust results.  The project recruits a cross-disciplinary community working together to define, design, implement, and use a set of solutions for robust science.  In so doing, the community defines a roadmap that enables high-throughput applications to withstand and overcome adverse conditions such as heterogeneous, unreliable architectures at all scales including extreme scale, rigorous testing under uncertainties, unexplainable algorithms (e.g., in machine learning), and black-box methods. The project’s novelties are its comprehensive, cross-disciplinary study of high-throughput applications for robust scientific discovery from hardware and systems all the way to policies and practices.&lt;br/&gt;&lt;br/&gt;Through three virtual mini-workshops called virtual world cafes, this project engages a community of scientists at campuses (through the Computing Alliance of Hispanic-Serving Institutions [CAHSI], the Coalition for Academic Scientific Computing [CASC], and the Southern California Earthquake Center [SCEC]), at national laboratories, and in industry. The scientists participate in  defining scalability, trust, and reproductivity in an initial set of high-throughput applications; identifying a set of experimental practices that support the in-concert successful progress of these applications’ workflows; advancing towards a vision of general hardware and software solutions for robust science by evaluating the generality and transferability of experimental practices and by identifying any missing parts; and defining a research agenda for the next-generation workflows.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028956</AwardID>
+<Investigator>
+<FirstName>Trilce</FirstName>
+<LastName>Estrada-Piedra</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Trilce Estrada-Piedra</PI_FULL_NAME>
+<EmailAddress><![CDATA[estrada@cs.unm.edu]]></EmailAddress>
+<NSF_ID>000656205</NSF_ID>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Mexico</Name>
+<CityName>ALBUQUERQUE</CityName>
+<ZipCode>871063837</ZipCode>
+<PhoneNumber>5052774186</PhoneNumber>
+<StreetAddress>1700 LOMAS BLVD NE STE 2200</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NM01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>F6XLTRUQJEN4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF NEW MEXICO, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>C16BGHA4MLJ6</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of New Mexico]]></Name>
+<CityName/>
+<StateCode>NM</StateCode>
+<ZipCode>871310001</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NM01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>PPoSS-PP of Scalable Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~30000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-0d6d9413-7fff-4ff3-7418-b42be40ff9cc"> </span></p> <p dir="ltr"><span>High-throughput applications measure their performance in computational throughput using distributed resources and are vital for scientific discovery. These applications are also increasingly complex, combining multiple components: data generation; data collection and merging; data pre-processing and feature extraction; data analysis and modeling; and data verification, validation, and visualization. Adverse conditions, such as heterogeneous, unreliable architectures at all scales, including extreme scale, testing under uncertainty, black-box methods, and unexplainable algorithms, hinder the ability of scientists to generate robust science.&nbsp; Robust science uses research methods that are scalable, reproducible, and trustworthy for generalizable solutions.&nbsp;</span></p> <p dir="ltr"><span>There are three essential requirements to achieve robust science in high-throughput applications:&nbsp;</span></p> <p dir="ltr"><span>Performance scalability: </span><span>High-throughput applications must meet hardware and software performance expectations when executed, despite heterogeneous resources and large-scale systems. Performance scalability can be enhanced by using consistent metrics and methods to measure computing experiments and deploying rigorous scheduling and resource provisioning models to map tasks to available infrastructure efficiently.</span></p> <p dir="ltr"><span>Reproducibility:</span><span> Scientists must be able to draw the same scientific conclusions using the knowledge encapsulated in the original computational experiment. In the ICERM report, this was referred to as confirmable research. Reproducibility can be accomplished by verifying and leveraging others? findings, supporting and exploring alternative methods, and explaining algorithms.&nbsp;</span></p> <p dir="ltr"><span>Trustworthiness: </span><span>Scientists must trust the technology, people, and organizations delivering their scientific discoveries.&nbsp; Trust can be accomplished by providing software and data security solutions while supplying the necessary attributes for confidence in the scientist?s results and results from others.</span></p> <p dir="ltr"><span>These three requirements are the driving factors in any roadmap to pursuing robust science. Specifically, scientists should target performance scalability (both spatial and temporal) as a metric of success to meet the scalability requirements; correctness (by overcoming data corruption, faulty software, and system failures) as metrics of success to meet the trust requirements; and modeling accuracy at a range (e.g., through verification and validation) as a metric of success to meet the reproducibility requirements. These findings are the outcome of two virtual mini-workshops in February and May of 2021 called Virtual World Cafes (VWC) based on the world cafe method. The two VWC engaged application communities to share needs and recommendations through structured conversational processes. Participants were distributed across several breakout sessions in an online meeting, switching sessions periodically and getting introduced to the previous discussion at their new session by a session lead.</span></p> <p dir="ltr"><span>Overall, a successful roadmap to robust science for high-throughput applications builds on increasingly complex multi-modal workflows. The first step to success in delivering scientific discovery for these applications is to establish a vibrant next-generation community that works together to define, design, implement, and use robust solutions. The second step is to build those solutions to span five critical areas: architecture; systems; high-performance computing; programming models and compilers; and algorithms and theory. The last step comprises combining these areas into an integrated continuum through AI orchestrations, policies, and practices accessible to the newly created communities.</span></p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/23/2023<br>      Modified by: Trilce&nbsp;Estrada-Piedra</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   High-throughput applications measure their performance in computational throughput using distributed resources and are vital for scientific discovery. These applications are also increasingly complex, combining multiple components: data generation; data collection and merging; data pre-processing and feature extraction; data analysis and modeling; and data verification, validation, and visualization. Adverse conditions, such as heterogeneous, unreliable architectures at all scales, including extreme scale, testing under uncertainty, black-box methods, and unexplainable algorithms, hinder the ability of scientists to generate robust science.  Robust science uses research methods that are scalable, reproducible, and trustworthy for generalizable solutions.  There are three essential requirements to achieve robust science in high-throughput applications:  Performance scalability: High-throughput applications must meet hardware and software performance expectations when executed, despite heterogeneous resources and large-scale systems. Performance scalability can be enhanced by using consistent metrics and methods to measure computing experiments and deploying rigorous scheduling and resource provisioning models to map tasks to available infrastructure efficiently. Reproducibility: Scientists must be able to draw the same scientific conclusions using the knowledge encapsulated in the original computational experiment. In the ICERM report, this was referred to as confirmable research. Reproducibility can be accomplished by verifying and leveraging others? findings, supporting and exploring alternative methods, and explaining algorithms.  Trustworthiness: Scientists must trust the technology, people, and organizations delivering their scientific discoveries.  Trust can be accomplished by providing software and data security solutions while supplying the necessary attributes for confidence in the scientist?s results and results from others. These three requirements are the driving factors in any roadmap to pursuing robust science. Specifically, scientists should target performance scalability (both spatial and temporal) as a metric of success to meet the scalability requirements; correctness (by overcoming data corruption, faulty software, and system failures) as metrics of success to meet the trust requirements; and modeling accuracy at a range (e.g., through verification and validation) as a metric of success to meet the reproducibility requirements. These findings are the outcome of two virtual mini-workshops in February and May of 2021 called Virtual World Cafes (VWC) based on the world cafe method. The two VWC engaged application communities to share needs and recommendations through structured conversational processes. Participants were distributed across several breakout sessions in an online meeting, switching sessions periodically and getting introduced to the previous discussion at their new session by a session lead. Overall, a successful roadmap to robust science for high-throughput applications builds on increasingly complex multi-modal workflows. The first step to success in delivering scientific discovery for these applications is to establish a vibrant next-generation community that works together to define, design, implement, and use robust solutions. The second step is to build those solutions to span five critical areas: architecture; systems; high-performance computing; programming models and compilers; and algorithms and theory. The last step comprises combining these areas into an integrated continuum through AI orchestrations, policies, and practices accessible to the newly created communities.             Last Modified: 01/23/2023       Submitted by: Trilce Estrada-Piedra]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Collaborative Research: RAPID: Molecular underpinnings that define volatile compound signature of the lung]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>124887.00</AwardTotalIntnAmount>
+<AwardAmount>124887</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matt Buechner</SignBlockName>
+<PO_EMAI>mbuechne@nsf.gov</PO_EMAI>
+<PO_PHON>7032924675</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The main basic research objectives of this project are to determine the molecular basis for the volatile organic compounds (VOCs) that are released by infected bronchial epithelial cells and to measure them using analytical devices. The fundamental knowledge of the biological mechanisms that generate VOC signals in viral infected lung cells is not currently understood and there is a lack of engineering tools and instrumentation that can capture and analyze the VOCs to provide accurate analytical information. Expected results from this basic research project might provide translational guidance for design of rapid tests that can detect SARS-CoV-2 infection in the US population. Currently, COVID-19 is confirmed using reverse-transcription polymerase chain reaction analysis of nasopharyngeal swabs. Given the current public health emergency and the need to prevent further spread of this highly contagious virus, point of care screening methods are needed that have a high level of confidence, can be mobilized to screen large numbers of people, and can immediately identify persons who require confirmatory testing. One promising approach is to use the pattern of volatile organic compounds that are formed in the body in response to infection for screening purposes. Such a technology would be invaluable in rapid, non-invasive diagnosis of viral infections. The multidisciplinary approach in this project of integrating cell biology, biomedical engineering, and analytical devices will enhance understanding of the cellular mechanisms that regulate lung VOCs and may become the foundation for non-invasive diagnosis of viral infections. This interdisciplinary project will also provide an outstanding educational and training opportunity at the intersection of biology and engineering for K-12, undergraduate, and graduate students.&lt;br/&gt;&lt;br/&gt;First, the role of important cell signaling pathways on the synthesis of VOCs will be examined. These pathways will be perturbed in the cells after which the cells will be infected with the SARS-CoV-2 virus. The cellular response such as cytokine release and change in transcripts will be determined. Second, the cells will be incorporated in a microfluidic lung-on-a-chip device. This will serve two purposes. One, the organ-chip will provide the cells with a physiological microenvironment which will improve their functional response. Two, the small volume of the microfluidic device will allow pre-concentration and efficient collection of the VOCs. The VOCs will be analyzed using (1) a high-resolution gas chromatograph instrument and (2) an e-nose sensor. The gas chromatograph will be setup with high-resolution dual-column setup with orthogonal column coatings which will provide a comprehensive identification of the VOCs. In parallel, the VOCs will be measured using an e-nose sensor that comprises nanocomposite sensors which change resistivity based on adsorption of VOCs. Machine learning will be used on the VOC signatures to determine an infectious from a non-infectious VOC signature. This platform will uncover new science for regulation of metabolic response which will drive fundamental knowledge of biology and development of advanced instrumentation. &lt;br/&gt;&lt;br/&gt;This RAPID award is made by the Cellular Dynamics and Function Program in the Division of Molecular and Cellular Biosciences, using funds from the Coronavirus Aid, Relief, and Economic Security (CARES) Act.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.074</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2031762</AwardID>
+<Investigator>
+<FirstName>Abhinav</FirstName>
+<LastName>Bhushan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Abhinav Bhushan</PI_FULL_NAME>
+<EmailAddress><![CDATA[abhushan@iit.edu]]></EmailAddress>
+<NSF_ID>000720874</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Illinois Institute of Technology</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606163717</ZipCode>
+<PhoneNumber>3125673035</PhoneNumber>
+<StreetAddress>10 W 35TH ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IL01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NDENMDUEG8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ILLINOIS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Illinois Institute of Technology]]></Name>
+<CityName>Chicago</CityName>
+<StateCode>IL</StateCode>
+<ZipCode>606163717</ZipCode>
+<StreetAddress><![CDATA[3255 South Dearborn Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IL01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~124887</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p class="Default">The main basic research objectives of this project are to determine the molecular basis for the volatile organic compounds (VOCs) that are released by infected bronchial epithelial cells and to measure them using analytical devices. The major immediate goals of this project were divided into collaborative work at two sites:</p> <p class="Default">Site #1: Rush University Medical Center. Aim #1: Determine molecular framework for generation of volatile organic compounds by bronchial epithelial cells. (A) Create bronchial epithelial cell lines that have been deleted or inhibited of important signaling pathways ACE2, cytokines, NF-kB that are required/activated upon viral infection; Determine (B) cellular response; and (C) change in transcripts due to infection.&nbsp;</p> <p class="Default">Site #2. Illinois Institute of technology. Aim #2: Determine VOC response of bronchial epithelial cells to coronavirus. (A) Create microfluidic device to capture VOCs; Determine changes in VOCs due to infection using e-nose sensor device.&nbsp;</p> <p class="Default">The remaining report is for Site #2 as Site #1 report is submitted as a separate report.</p> <p class="Default">The specific objectives were: 1) Design and fabricate microfluidic devices for the culture of A549 lung epithelial cells.&nbsp;2) Optimize collection of the VOC signature of these cells using an e-nose sensor device. 3) Analyze the VOC signatures using artificial neural networks. 4) Classify VOC signature after inducing the NFkB inflammatory pathway with the cytokine TNF-&alpha;.</p> <p>Significant Results:&nbsp; A549 lung epithelial cells were grown in plates and microfluidic devices and treated with TNF-&alpha; and the VOC signatures of the cells were measured. Upon comparing the VOC signatures, different sensors of the e-nose showed significant differences between the between control and cytokine-induced cells. In order to quantify the discriminatory ability of each sample group, a convolutional neural network (CNN) was used. CNN is a deep neural network algorithm inspired by the visual cortex, the region of the brain that processes visual information, and as such it learns the patterns in visual images to generate the best features for classification. &nbsp;</p> <p>Key outcomes or other achievements:&nbsp; We found that the device cultures resulted in a receiver operating curve (ROC) value of 0.66.&nbsp;Our results are the first to measure VOCs from cells cultured in microfluidic devices. <em>To our knowledge this is the first data to show the participation of pathways in the generation of VOCs.</em> These data could have important implications for understanding mechanisms that generate VOCs in cells.&nbsp;While the classification accuracy has room for improvement, we have identified the steps that could lead to improved outcomes. One of the key limitations was a mismatch in the volumes: the internal volume of the microfluidic device was ~2ul whereas the volume of the e-nose device was ~1ml. This mismatch led to a dilution of the sample from the device to the e-nose. A pre-concentrator or an in-situ e-nose with lower volume requirements could improve the classification accuracy.</p> <p>The discovery of fundamental underpinnings of which pathways contribute to the generation of volatile metabolic response of lung epithelial cells is significant. This is because it has been very challenging to attribute the biological origins of VOCs, which has made it difficult to attribute VOCs to relevant underlying biology, such as infections. Although there could be more pathways that contribute to the VOCs than what were investigated in this study, the study provides a framework to identify those pathways. This knowledge will help in the design of instrumentation that could identify the specific relevant compounds as opposed to current instrumentation that misses them. Together, these could lead to non-invasive point of care devices that could be used for the accurate assessment of status of infections and could be used broadly across many pathologies.</p> <p>As the certainty over the origin of VOCs increases, the use of VOCs as biomarkers for health purposes would increase. A similar approach could be applied for other lung infections and used to determine the molecular pathways that contribute to the generation of the VOCs.&nbsp;</p> <p class="Pa4">The project provided learning opportunities for a PhD student and undergraduate students, who actively participated in literature review, designing protocols, designing experiments, designing/fabricating microfluidic devices, analytical measurements, and data analysis.&nbsp; The project provided the collaborations with the group at Rush University Medical College. Peer-reviewed articles have been published and the results have been presented in national meetings. The PI also interviewed for the ?Science Before the Storm? podcast as part of the NSF PREPARE podcast series. The episode is currently being edited for final release. The PI incorporated&nbsp; aspects of the project as educational materials in BME 301 (Biofluid Mechanics) and BME 425/525 (Medical Devices) courses.&nbsp;</p> <p>The preliminary knowledge of biological pathways that participate in VOCs could lead to the engineering of more instrumentation that could identify the relevant compounds. This could lead to non-invasive point of care devices that could be used to accurately assess the status of infections and could be used broadly across many pathologies.</p><br> <p>            Last Modified: 11/28/2022<br>      Modified by: Abhinav&nbsp;Bhushan</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[The main basic research objectives of this project are to determine the molecular basis for the volatile organic compounds (VOCs) that are released by infected bronchial epithelial cells and to measure them using analytical devices. The major immediate goals of this project were divided into collaborative work at two sites: Site #1: Rush University Medical Center. Aim #1: Determine molecular framework for generation of volatile organic compounds by bronchial epithelial cells. (A) Create bronchial epithelial cell lines that have been deleted or inhibited of important signaling pathways ACE2, cytokines, NF-kB that are required/activated upon viral infection; Determine (B) cellular response; and (C) change in transcripts due to infection.  Site #2. Illinois Institute of technology. Aim #2: Determine VOC response of bronchial epithelial cells to coronavirus. (A) Create microfluidic device to capture VOCs; Determine changes in VOCs due to infection using e-nose sensor device.  The remaining report is for Site #2 as Site #1 report is submitted as a separate report. The specific objectives were: 1) Design and fabricate microfluidic devices for the culture of A549 lung epithelial cells. 2) Optimize collection of the VOC signature of these cells using an e-nose sensor device. 3) Analyze the VOC signatures using artificial neural networks. 4) Classify VOC signature after inducing the NFkB inflammatory pathway with the cytokine TNF-&alpha;.  Significant Results:  A549 lung epithelial cells were grown in plates and microfluidic devices and treated with TNF-&alpha; and the VOC signatures of the cells were measured. Upon comparing the VOC signatures, different sensors of the e-nose showed significant differences between the between control and cytokine-induced cells. In order to quantify the discriminatory ability of each sample group, a convolutional neural network (CNN) was used. CNN is a deep neural network algorithm inspired by the visual cortex, the region of the brain that processes visual information, and as such it learns the patterns in visual images to generate the best features for classification.    Key outcomes or other achievements:  We found that the device cultures resulted in a receiver operating curve (ROC) value of 0.66. Our results are the first to measure VOCs from cells cultured in microfluidic devices. To our knowledge this is the first data to show the participation of pathways in the generation of VOCs. These data could have important implications for understanding mechanisms that generate VOCs in cells. While the classification accuracy has room for improvement, we have identified the steps that could lead to improved outcomes. One of the key limitations was a mismatch in the volumes: the internal volume of the microfluidic device was ~2ul whereas the volume of the e-nose device was ~1ml. This mismatch led to a dilution of the sample from the device to the e-nose. A pre-concentrator or an in-situ e-nose with lower volume requirements could improve the classification accuracy.  The discovery of fundamental underpinnings of which pathways contribute to the generation of volatile metabolic response of lung epithelial cells is significant. This is because it has been very challenging to attribute the biological origins of VOCs, which has made it difficult to attribute VOCs to relevant underlying biology, such as infections. Although there could be more pathways that contribute to the VOCs than what were investigated in this study, the study provides a framework to identify those pathways. This knowledge will help in the design of instrumentation that could identify the specific relevant compounds as opposed to current instrumentation that misses them. Together, these could lead to non-invasive point of care devices that could be used for the accurate assessment of status of infections and could be used broadly across many pathologies.  As the certainty over the origin of VOCs increases, the use of VOCs as biomarkers for health purposes would increase. A similar approach could be applied for other lung infections and used to determine the molecular pathways that contribute to the generation of the VOCs.  The project provided learning opportunities for a PhD student and undergraduate students, who actively participated in literature review, designing protocols, designing experiments, designing/fabricating microfluidic devices, analytical measurements, and data analysis.  The project provided the collaborations with the group at Rush University Medical College. Peer-reviewed articles have been published and the results have been presented in national meetings. The PI also interviewed for the ?Science Before the Storm? podcast as part of the NSF PREPARE podcast series. The episode is currently being edited for final release. The PI incorporated  aspects of the project as educational materials in BME 301 (Biofluid Mechanics) and BME 425/525 (Medical Devices) courses.   The preliminary knowledge of biological pathways that participate in VOCs could lead to the engineering of more instrumentation that could identify the relevant compounds. This could lead to non-invasive point of care devices that could be used to accurately assess the status of infections and could be used broadly across many pathologies.       Last Modified: 11/28/2022       Submitted by: Abhinav Bhushan]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

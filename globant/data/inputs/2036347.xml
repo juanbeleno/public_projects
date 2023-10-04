@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[STTR Phase I:Dramatically improving algorithm execution on quantum devices through advanced noise-awareness and control]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255682.00</AwardTotalIntnAmount>
+<AwardAmount>255682</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Technology Transfer (STTR) Phase I project will be to enable much more widespread use of quantum computing. Quantum computing will drive massive improvements in the world economy and the human condition in areas as diverse as drug discovery, novel materials, energy efficiency, and artificial intelligence. Industry analysts project rapid growth for the quantum computing/networking market: $5B in 2022, $24B in 2026, $270B in 2030. In terms of technological progress, this project will increase our knowledge of how to use the quantum properties of matter as a powerful new way to compute. In addition to commercial potential and scientific knowledge, the vision is that this work will also help catalyze a new generation of “quantum first” software developers, and this will be critical in maintaining our nation’s competitiveness in the 21st century.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project seeks to address a key challenge facing the current generation of quantum computers: execution quality. Each operation on a quantum computer incurs some error due to various types of noise that are present in and around these delicate systems.  These errors accumulate, and this limits the size of program that can be successfully run. This in turn dramatically reduces the already limited set of problems that can be solved on a quantum computer. While noise characteristics of a quantum device are defined by the underlying hardware technology and device architecture, there are ways to improve execution quality through software by identifying or estimating errors and compensating for them. In fact, there is evidence from the literature that such improvements can improve fidelity of the execution by 10 times or more. In this project, a quantum compiler &amp; circuit optimizer software product is developed that will incorporate known optimization methods, quantum error correction techniques, plus develop new approaches. The resulting software will match a quantum program with the quantum computer that will provide the best execution.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/21/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036347</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Ricotta</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>James J Ricotta</PI_FULL_NAME>
+<EmailAddress><![CDATA[jimricotta@gmail.com]]></EmailAddress>
+<NSF_ID>000827561</NSF_ID>
+<StartDate>04/21/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vitali</FirstName>
+<LastName>Vinokour</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Vitali Vinokour</PI_FULL_NAME>
+<EmailAddress><![CDATA[vitali@aliroquantum.com]]></EmailAddress>
+<NSF_ID>000824586</NSF_ID>
+<StartDate>04/21/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ALIRO TECHNOLOGIES, INC.</Name>
+<CityName>BRIGHTON</CityName>
+<ZipCode>021351026</ZipCode>
+<PhoneNumber>7817970331</PhoneNumber>
+<StreetAddress>1284 SOLDIERS FIELD RD</StreetAddress>
+<StreetAddress2><![CDATA[STE C]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SZM9UNE6XU16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>ALIRO TECHNOLOGIES INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>W7PCFBY6MUD7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Harvard University]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021382933</ZipCode>
+<StreetAddress><![CDATA[29 Oxford St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255682</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>Quantum computers have the potential to drive massive improvements in the world economy and the human condition in areas as diverse as drug discovery, novel materials, energy efficiency, secure communications, and artificial intelligence. The work of this award provides the foundation for further development of quantum computing software to accelerate new applications.&nbsp;<span>We prototyped a suite of quantum computing algorithms, compilers, and circuit optimizers to improve the execution quality of quantum processors, enabling wider adoption and more powerful applications. Today?s quantum computers, so-called Noisy Intermediate-Scale Quantum (NISQ) devices, differ from each other in significant ways. Devices vary in harware architecture, device connectivity, error rates, and sometimes programming languages?all of which need to be taken into account when designing applications with potential "quantum advantage" (in other words the the potential to far exceed the performance of today's largest and fastest digital computers).</span></span></p> <p><span>Through this award, Aliro and Harvard demonstrated proof of concept implementations of three distinct software approaches to improve execution quality of quantum processors: (1) a variational quantum auto-encoder (VQA) for quantum data compression, (2) branching quantum convolutional neural networks for improved machine learning, and (3) a noise-aware, hardware- and language-agnostic quantum algorithm compiler and optimizer.</span></p> <p><span>1)&nbsp;&nbsp;<span>A key factor of consideration in the development of quantum algorithms and/or communication protocols is that qubits are an expensive, fragile, and limited resource. In the communication context, a VQA can be used to compress quantum states and, thereby reduce resource usage and possibly noise. Using numerical simulations, Aliro and Harvard identified regimes in which our developed compression protocol results in tangible fidelity improvements over typical communication protocols. These initial results open the door to future research, which could enable new quantum computing and communication applications in resource-limited environments.</span></span></p> <p><span><span>2)&nbsp;<span>Neural-network-based algorithms have garnered considerable attention in physics for their ability to learn complex patterns from very high-dimensional data resulting in progress towards classifying the complex long-range patterns of entanglement and correlations needed to accurately model the behavior of molecules. This is very relevant in fields such as drug discovery and materials development.&nbsp; In this project, we have shown that mid-circuit measurements on a quantum computer coupled with classical computer feedback can be leveraged to enhance the performance of these types of algorithms. To our knowledge, our proposed "branching quantum convolutional neural-network" is the first algorithm of its type making use of mid-circuit measurements. Future work has the potential to leverage mid-circuit measurements to implement more expressive variational quantum algorithms on today's limited quantum computers.</span></span></span></p> <p><span><span><span>3)&nbsp;<span>Finally, we implemented and benchmarked a modular quantum computer compiler framework, which leverages real-time device-specific information, such as noise models, native instruction language, and qubit topology, in order to transform and optimize the input algorithm to adhere to these constraints while mitigating and suppressing expected sources of errors. The user-friendly, flexible architecture of the compiler framework allows for straightforward integration of existing open-source and custom modules for circuit transformation and optimization, inviting many possible paths for future work.</span></span></span></span></p> <p><span><span><span><span>Through this award, Aliro and Harvard have demonstrated a proof-of-concept software suite to optimize near-term quantum processing systems for execution in noisy, resource-limited environments. This award provides the foundation for further development of quantum computing software and application that will accelerate new discoveries in a variety of fields relevant to human progress.</span><br /></span></span></span></p> <div><span><br /></span></div><br> <p>            Last Modified: 11/11/2021<br>      Modified by: James&nbsp;J&nbsp;Ricotta</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Quantum computers have the potential to drive massive improvements in the world economy and the human condition in areas as diverse as drug discovery, novel materials, energy efficiency, secure communications, and artificial intelligence. The work of this award provides the foundation for further development of quantum computing software to accelerate new applications. We prototyped a suite of quantum computing algorithms, compilers, and circuit optimizers to improve the execution quality of quantum processors, enabling wider adoption and more powerful applications. Today?s quantum computers, so-called Noisy Intermediate-Scale Quantum (NISQ) devices, differ from each other in significant ways. Devices vary in harware architecture, device connectivity, error rates, and sometimes programming languages?all of which need to be taken into account when designing applications with potential "quantum advantage" (in other words the the potential to far exceed the performance of today's largest and fastest digital computers).  Through this award, Aliro and Harvard demonstrated proof of concept implementations of three distinct software approaches to improve execution quality of quantum processors: (1) a variational quantum auto-encoder (VQA) for quantum data compression, (2) branching quantum convolutional neural networks for improved machine learning, and (3) a noise-aware, hardware- and language-agnostic quantum algorithm compiler and optimizer.  1)  A key factor of consideration in the development of quantum algorithms and/or communication protocols is that qubits are an expensive, fragile, and limited resource. In the communication context, a VQA can be used to compress quantum states and, thereby reduce resource usage and possibly noise. Using numerical simulations, Aliro and Harvard identified regimes in which our developed compression protocol results in tangible fidelity improvements over typical communication protocols. These initial results open the door to future research, which could enable new quantum computing and communication applications in resource-limited environments.  2) Neural-network-based algorithms have garnered considerable attention in physics for their ability to learn complex patterns from very high-dimensional data resulting in progress towards classifying the complex long-range patterns of entanglement and correlations needed to accurately model the behavior of molecules. This is very relevant in fields such as drug discovery and materials development.  In this project, we have shown that mid-circuit measurements on a quantum computer coupled with classical computer feedback can be leveraged to enhance the performance of these types of algorithms. To our knowledge, our proposed "branching quantum convolutional neural-network" is the first algorithm of its type making use of mid-circuit measurements. Future work has the potential to leverage mid-circuit measurements to implement more expressive variational quantum algorithms on today's limited quantum computers.  3) Finally, we implemented and benchmarked a modular quantum computer compiler framework, which leverages real-time device-specific information, such as noise models, native instruction language, and qubit topology, in order to transform and optimize the input algorithm to adhere to these constraints while mitigating and suppressing expected sources of errors. The user-friendly, flexible architecture of the compiler framework allows for straightforward integration of existing open-source and custom modules for circuit transformation and optimization, inviting many possible paths for future work.  Through this award, Aliro and Harvard have demonstrated a proof-of-concept software suite to optimize near-term quantum processing systems for execution in noisy, resource-limited environments. This award provides the foundation for further development of quantum computing software and application that will accelerate new discoveries in a variety of fields relevant to human progress.          Last Modified: 11/11/2021       Submitted by: James J Ricotta]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

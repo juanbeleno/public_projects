@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Understanding COVID-19 Transmission With Non-Markovian Models]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>99958.00</AwardTotalIntnAmount>
+<AwardAmount>99958</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Nilsen</SignBlockName>
+<PO_EMAI>wnilsen@nsf.gov</PO_EMAI>
+<PO_PHON>7032922568</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[With COVID-19, the world has experienced the most significant pandemic of contemporary history. In an effort to reduce the virus transmission, different mitigation strategies have been proposed and implemented. In this situation, models of disease transmission have emerged as a key tool to predict current and future characteristics of COVID-19 spreading, with or without the implementation of mitigation strategies, and to guide policymaking decisions. Models however are accurate predictors if they are built upon reliable data and evidence-supported assumptions. Large swings in model predictions can be imputed to assumptions not supported by data or evidence, with consequences on the model reliability. One typical assumption is the exponential distribution of the transition times of individuals between different states of disease (i.e., compartments that mark individuals as susceptible, exposed, infected, and recovered).  However, recent observations of COVID-19 data, highlight non-exponential distributions for some critical transition times, such as the infectious period. This directly impacts the accuracy of the models. With this in mind, the goals of this project are to: 1) develop network-based compartmental meta-population models that accept arbitrary distributions for the transition times of the individual between different compartments; 2) develop rigorous methodologies to estimate unknown parameters of the model using stochastic optimization methods; 3) determine contact networks tailored for regions receiving lower attention, such as rural areas. Successful completion of this project will provide benefits to the USA public health, in particular to the analysis and monitoring of COVID-19. More accurate model-based testing of mitigation strategies will help public health officials to select strategies and to gather trust and support around mitigation policies.  This way, health policymakers, modelers, and the general public will share common goals toward eventually stopping COVID-19. &lt;br/&gt;&lt;br/&gt;In this project, the team will develop non-Markovian models that are driven by empirically determined distributions of transition times as suggested by recent results from analyzing data for COVID-19, highlighting the non-exponential distributions for some critical transition times. This novel aspect of our proposed model produces more accurate estimates of the current and future outbreak characteristics. For example, we can estimate the number of undetected infected people more accurately than models assuming the exponential distribution. Furthermore, as any model has known and unknown parameters, the estimation of the unknown parameters is critical to the model accuracy. To estimate the unknown parameters for this COVID-19 pandemic in the USA, we plan to use epidemic curves generated using the meta-population model and stochastic optimization techniques. The increased model accuracy produces better estimates of the outbreak characteristics and in turn better predictions of the mitigation policies effectiveness. Finally, any network-based model requires to input of a network representing contacts or movements. While these contact networks are available for some cities affected by the pandemic, rural regions have been less analyzed, despite occasionally being hot spots. The team will work to determine data-driven contact networks for certain rural areas of interest, for which we will apply and test our modeling approaches.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027336</AwardID>
+<Investigator>
+<FirstName>Caterina</FirstName>
+<LastName>Scoglio</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Caterina Scoglio</PI_FULL_NAME>
+<EmailAddress><![CDATA[caterina@ksu.edu]]></EmailAddress>
+<NSF_ID>000259356</NSF_ID>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kansas State University</Name>
+<CityName>MANHATTAN</CityName>
+<ZipCode>665062504</ZipCode>
+<PhoneNumber>7855326804</PhoneNumber>
+<StreetAddress>1601 VATTIER STREET</StreetAddress>
+<StreetAddress2><![CDATA[103 FAIRCHILD HALL]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>KS01</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>CFMMM5JM7HJ9</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>KANSAS STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Kansas State University]]></Name>
+<CityName/>
+<StateCode>KS</StateCode>
+<ZipCode>665061100</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>KS01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~99958</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The project's goal has been to develop mathematical models and computational tools to understand COVID-19 spreading. Most epidemic models assume exponential distributions for the transition times of individuals between different epidemiological states or compartments. As such unrealistic assumptions could impair the accuracy of model predictions, it is critical to develop non-Markovian models that accept non-exponential distributions for the transition times.</p> <p>In the following, we summarize the most important results obtained in the project:</p> <p>(1) We obtained survey data that describe typical social interaction patterns in a university during the pandemic. The data contain information about age segment, role at the university, housing status, number of close contacts in a week by duration ranges, number and duration of contacts in different locations, and max number of contacts during the Thanksgiving week. The data can provide valuable input for developing contact networks in epidemic models.</p> <p>(2) We developed a detailed non-Markovian networked spreading model for COVID-19. We performed mathematical analyses and fitted the model to real-world data to estimate the unknown parameters. We fitted the model for the contact network of Manhattan, Kansas, where Kansas state university is located. This enabled us to forecast the spread of COVID during the 2020 fall semester under various non-pharmaceutical interventions (NPIs). We estimated the effectiveness of contact tracing performed among the students in the 2020 fall semester and found that if the contact tracing was not performed, there would be three times more infected cases in that semester. &nbsp;Figures 1 and 2 show the estimated contact tracing effectiveness and the estimated effective reproductive number, respectively.</p> <p>(3) We developed an agent-based model incorporating non-Markovian transition times to examine the mitigation strategies needed for safe university reopening in the 2021 fall semester. The model structure is shown in figure 3. With <em>R</em><sub>0</sub> = 3 and 70% immunization effectiveness, we estimated that at least 80% of the university population immunized through natural infection or vaccination is needed for safe university reopening with relaxed NPIs. At least 60% of the university population immunized through natural infection or vaccination is needed for safe reopening when NPIs are adopted. Attention needs to be paid to large-gathering events that could lead to infection size spikes. At an immunization coverage of 70%, continuing NPIs could lead to a 78.39% reduction in the maximum cumulative infections and a 67.59% reduction in the median cumulative infections.</p> <p>(4) We developed a two&#8209;layer network model (figure 4) to evaluate the effectiveness of contact tracing for mitigating COVID-19 spreading in a rural U.S. college town and estimated unknown model parameters, namely the basic reproductive number and confirmed rate. We found that tracing 25% of the contacts is enough for any reopening scenario to reduce the number of confirmed cases by half. We observed that the contact tracing cost increases with the increase of tracing. However, after reaching a maximum point, the contact tracing cost starts to decrease with the increase of tracing because the increment of the mentioned contacts is balanced by a reduced number of confirmed cases.</p> <p>(5) We provided short-term forecasts and long-term mitigation evaluations for the initial spreading of COVID-19 in Hubei Province, China. We were able to employ the Kalman filtering method to accurately forecasted daily cases and the epidemic peak of the COVID-19 spreading in Wuhan City. We developed network-based models based on the Generalized Epidemic Modelling Framework to reconstruct the early stage of epidemic dynamics in Hubei Province and showed that the epidemic in Hubei Province could have become more severe without aggressive control measures.</p> <p>(6) We solved the problem of creating herd immunity to SARS-CoV-2 infection by means of preventive vaccination strategies with waning immunity that consider the contact rates among age segments. We obtained the vaccination rates that can lead to the maximum vaccination coverage at the DFE equilibrium for a given supply of vaccines per unit time. Denote <em>R</em><sub>0</sub><sup>*</sup> as the basic reproduction number at the DFE with vaccinated individuals. We concluded that there is room for improvement in the vaccine distribution when demographic and social aspects are considered. We found that by adopting a vaccination strategy that minimizes <em>R</em><sub>0</sub><sup>*</sup>, we are giving higher protection to those age groups that are more vulnerable to contracting the infection in the absence of vaccination due to their social contact pattern.</p> <p>In terms of broader impacts, this project provided opportunities for two postdocs and one Ph.D. student to gain knowledge in epidemic modeling through practice. The epidemic models developed in this project have been disseminated through publications and presentations in multiple settings.</p><br> <p>            Last Modified: 08/04/2022<br>      Modified by: Caterina&nbsp;Scoglio</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2027336/2027336_10677533_1659653849337_fig3--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2027336/2027336_10677533_1659653849337_fig3--rgov-800width.jpg" title="Structure of the agent-based model"><img src="/por/images/Reports/POR/2022/2027336/2027336_10677533_1659653849337_fig3--rgov-66x44.jpg" alt="Structure of the agent-based model"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 3. The structure of the agent-based model.</div> <div class="imageCredit">Qihui Yang</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Caterina&nbsp;Scoglio</div> <div class="imageTitle">Structure of the agent-based model</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2027336/2027336_10677533_1659653712540_fig1--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2027336/2027336_10677533_1659653712540_fig1--rgov-800width.jpg" title="Contact tracing effectiveness."><img src="/por/images/Reports/POR/2022/2027336/2027336_10677533_1659653712540_fig1--rgov-66x44.jpg" alt="Contact tracing effectiveness."></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 1. The estimated contact tracing effectiveness.</div> <div class="imageCredit">Aram Vajdi</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Caterina&nbsp;Scoglio</div> <div class="imageTitle">Contact tracing effectiveness.</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2027336/2027336_10677533_1659653925941_fig4--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2027336/2027336_10677533_1659653925941_fig4--rgov-800width.jpg" title="Two-layer network"><img src="/por/images/Reports/POR/2022/2027336/2027336_10677533_1659653925941_fig4--rgov-66x44.jpg" alt="Two-layer network"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 4. The two-layer network model: contact-layer Nc and tracing-layer Nt.</div> <div class="imageCredit">Sifat Moon</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Caterina&nbsp;Scoglio</div> <div class="imageTitle">Two-layer network</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2027336/2027336_10677533_1659653644747_fig2--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2027336/2027336_10677533_1659653644747_fig2--rgov-800width.jpg" title="The estimated reproductive number"><img src="/por/images/Reports/POR/2022/2027336/2027336_10677533_1659653644747_fig2--rgov-66x44.jpg" alt="The estimated reproductive number"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Figure 2. The estimated effective reproductive number for students living in different housing options.</div> <div class="imageCredit">Aram Vajdi</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Caterina&nbsp;Scoglio</div> <div class="imageTitle">The estimated reproductive number</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The project's goal has been to develop mathematical models and computational tools to understand COVID-19 spreading. Most epidemic models assume exponential distributions for the transition times of individuals between different epidemiological states or compartments. As such unrealistic assumptions could impair the accuracy of model predictions, it is critical to develop non-Markovian models that accept non-exponential distributions for the transition times.  In the following, we summarize the most important results obtained in the project:  (1) We obtained survey data that describe typical social interaction patterns in a university during the pandemic. The data contain information about age segment, role at the university, housing status, number of close contacts in a week by duration ranges, number and duration of contacts in different locations, and max number of contacts during the Thanksgiving week. The data can provide valuable input for developing contact networks in epidemic models.  (2) We developed a detailed non-Markovian networked spreading model for COVID-19. We performed mathematical analyses and fitted the model to real-world data to estimate the unknown parameters. We fitted the model for the contact network of Manhattan, Kansas, where Kansas state university is located. This enabled us to forecast the spread of COVID during the 2020 fall semester under various non-pharmaceutical interventions (NPIs). We estimated the effectiveness of contact tracing performed among the students in the 2020 fall semester and found that if the contact tracing was not performed, there would be three times more infected cases in that semester.  Figures 1 and 2 show the estimated contact tracing effectiveness and the estimated effective reproductive number, respectively.  (3) We developed an agent-based model incorporating non-Markovian transition times to examine the mitigation strategies needed for safe university reopening in the 2021 fall semester. The model structure is shown in figure 3. With R0 = 3 and 70% immunization effectiveness, we estimated that at least 80% of the university population immunized through natural infection or vaccination is needed for safe university reopening with relaxed NPIs. At least 60% of the university population immunized through natural infection or vaccination is needed for safe reopening when NPIs are adopted. Attention needs to be paid to large-gathering events that could lead to infection size spikes. At an immunization coverage of 70%, continuing NPIs could lead to a 78.39% reduction in the maximum cumulative infections and a 67.59% reduction in the median cumulative infections.  (4) We developed a two&#8209;layer network model (figure 4) to evaluate the effectiveness of contact tracing for mitigating COVID-19 spreading in a rural U.S. college town and estimated unknown model parameters, namely the basic reproductive number and confirmed rate. We found that tracing 25% of the contacts is enough for any reopening scenario to reduce the number of confirmed cases by half. We observed that the contact tracing cost increases with the increase of tracing. However, after reaching a maximum point, the contact tracing cost starts to decrease with the increase of tracing because the increment of the mentioned contacts is balanced by a reduced number of confirmed cases.  (5) We provided short-term forecasts and long-term mitigation evaluations for the initial spreading of COVID-19 in Hubei Province, China. We were able to employ the Kalman filtering method to accurately forecasted daily cases and the epidemic peak of the COVID-19 spreading in Wuhan City. We developed network-based models based on the Generalized Epidemic Modelling Framework to reconstruct the early stage of epidemic dynamics in Hubei Province and showed that the epidemic in Hubei Province could have become more severe without aggressive control measures.  (6) We solved the problem of creating herd immunity to SARS-CoV-2 infection by means of preventive vaccination strategies with waning immunity that consider the contact rates among age segments. We obtained the vaccination rates that can lead to the maximum vaccination coverage at the DFE equilibrium for a given supply of vaccines per unit time. Denote R0* as the basic reproduction number at the DFE with vaccinated individuals. We concluded that there is room for improvement in the vaccine distribution when demographic and social aspects are considered. We found that by adopting a vaccination strategy that minimizes R0*, we are giving higher protection to those age groups that are more vulnerable to contracting the infection in the absence of vaccination due to their social contact pattern.  In terms of broader impacts, this project provided opportunities for two postdocs and one Ph.D. student to gain knowledge in epidemic modeling through practice. The epidemic models developed in this project have been disseminated through publications and presentations in multiple settings.       Last Modified: 08/04/2022       Submitted by: Caterina Scoglio]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

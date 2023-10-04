@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Spatiotemporal Big Data Analysis to Understand COVID-19 Effects]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>99996.00</AwardTotalIntnAmount>
+<AwardAmount>99996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wei Ding</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The COVID-19 pandemic has impacted public health with a large number of mortalities and ravaged the economy by increasing unemployment to a historically high level. The goal of this project is to investigate the potential for novel spatiotemporal big data to assist in identifying COVID-19 related geographic patterns, such as locations where groups of people visit for long, overlapping times, and travel to and from hotspots. Such patterns are of great interest to policy-makers and public health researchers, but are difficult to find in traditional mobility datasets such as infrequent travel surveys and urban highway traffic data. Example spatiotemporal big data include privacy-protected aggregated location traces of mobile devices that have recently been opened for COVID-19 research. If successful, the results will inform disease spread models and policy-interventions to save lives and reopen the economy safely.&lt;br/&gt;&lt;br/&gt;This project is expected to result in multiple data science and computer science innovations. First, it will define and quantify hangout-venues, a novel spatiotemporal pattern family modeling the places with many overlapping long visits. Examples include full-service dine-in restaurants which have many long visits, but not limited-service restaurants which mostly have short visits. Second, it will probe new interest measures to not only distinguish between patterns (e.g., full-service restaurants) and non-patterns (e.g., limited-service restaurants) but also support the design of computationally efficient algorithms based on properties such as anti-monotone. Third, it will design novel and scalable algorithms for analyzing the large (tens of terabytes) dataset for hangout-venues. Fourth, it will investigate the impact of selection bias and noise from differential privacy schemes. The results have the potential to transform data science knowledge with novel pattern families (e.g., hangout-venue) and improve the understanding of the impact of selection bias and noise added by differential privacy schemes on pattern mining methods and their results. Furthermore, the project will co-produce knowledge in close collaboration with public health researchers and policymakers. The results have the potential to transform the understanding of the public mobility for modeling disease transmission dynamics by leveraging the emerging spatiotemporal big data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>07/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2040459</AwardID>
+<Investigator>
+<FirstName>Shashi</FirstName>
+<LastName>Shekhar</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shashi Shekhar</PI_FULL_NAME>
+<EmailAddress><![CDATA[shekhar@cs.umn.edu]]></EmailAddress>
+<NSF_ID>000467497</NSF_ID>
+<StartDate>07/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>MINNEAPOLIS</CityName>
+<ZipCode>554552009</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MN05</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>KABJZBBJ4B54</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>REGENTS OF THE UNIVERSITY OF MINNESOTA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Minnesota-Twin Cities]]></Name>
+<CityName>Minneapolis</CityName>
+<StateCode>MN</StateCode>
+<ZipCode>554550159</ZipCode>
+<StreetAddress><![CDATA[200 Union Street S.E. # 5-202]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MN05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~99996</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-71fdabdb-7fff-16b2-0e88-482d8c3f6753"> </span></p> <p dir="ltr"><span>The COVID-19 pandemic has greatly impacted public health and the economy since 2020 by disrupting hospitals and supply chains. A key COVID-19 policy intervention in Minnesota in the early days of the pandemic was stay-at-home orders issued by the governor. This project investigated the potential for novel geospatial big data and inform policymakers to reduce disease spread and safely reopen the economy in the context of questions such as: (a) What were the mobility impacts of COVID-19 policy interventions (e.g., stay-at-home)? How did the impact vary over time and place? (b) Which points of interest and business categories had the most long-duration visits? Examples of the newly available geospatial big data include privacy-protected aggregated location traces of mobile devices from the SafeGraph COVID-19 consortium. To interpret the pros and cons of the new dataset, the project also addressed questions such as: (a) How does the dataset protect the individual's privacy? (b) What is the sampling rate? (c) How does the mobile device data compare with other well-known datasets?</span></p> <p>This project resulted in many new insights. First, we improved understanding of the geospatial mobility data analysis questions of interest. Our analysis of Minnesota mobility data from the SafeGraph COVID-19 consortium showed that bars and full-service restaurants had many more long-duration visits than limited-service restaurants. It also showed that the number of visits to parks (and hardware stores) went up while the number of visits to airports, schools, workplaces, malls, etc., went down during the stay-at-home period. Another finding was that the distances traveled diminished for Minnesota suburbanites but not for downtown residents, possibly due to differences in commutes before and during the stay-at-home order.&nbsp; Second, we analyzed the strengths and weaknesses of the Safegraph mobility datasets which summarizes the movement of large samples of smartphones. This type of data is promising in transportation research due to the high frequency of data collection and the high geographic coverage relative to traditional loop detector and travel survey data. However, we found the sampling rate (ratio between sampled devices and population) varies across different census tracts in Minnesota. In addition, the dataset does not report demographic distribution by age, gender, race, etc.</p> <p dir="ltr"><span>&nbsp;</span>Due to their timeliness and significance, the project results were presented to the Minnesota State House Transportation Finance and Policy Committee on January 14th, 2021, to inform a hearing on COVID-19's impact on the future of transportation. Also, technical details were peer-reviewed and presented at the 2022 Annual Conference of the Association of Geographic Information Laboratories in Europe (AGILE), the Computing Research Association (CRA) Virtual Conference 2020, the National Science Foundation (NSF) Covid Information Commons managed by the Northeast Big-Data Innovation Hub, and the University of Minnesota Center for Transportation Studies annual conference (2020). Furthermore, the project periodically published summary reports based on the SafeGraph COVID-19 consortium data. These reports summarized the number of long-duration visits to different business categories (e.g., bars, limited-service restaurants, full-service restaurants) and points of interest (e.g., Minneapolis-Saint Paul International airport). The details can be found at <a href="http://www.spatial.cs.umn.edu/Project/covid_19.html">http://www.spatial.cs.umn.edu/Project/covid_19.html</a>.</p> <p>This project trained three Ph.D. students in Computer Science and Engineering and provided mentorships for three High School students. In addition, the project enhanced educational experience by providing research projects, hands-on homework and laboratory exercises, and other active learning activities (e.g., class presentations) for students in both graduate and undergraduate courses at the University of Minnesota.</p> <p>&nbsp;</p><br> <p>            Last Modified: 01/11/2023<br>      Modified by: Shashi&nbsp;Shekhar</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2023/2040459/2040459_10687265_1673392865720_Fig1--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2040459/2040459_10687265_1673392865720_Fig1--rgov-800width.jpg" title="Figure 1"><img src="/por/images/Reports/POR/2023/2040459/2040459_10687265_1673392865720_Fig1--rgov-66x44.jpg" alt="Figure 1"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Data quality assessment based on (a) data privacy and (b) sampling bias</div> <div class="imageCredit">Prof. Shashi Shekhar</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Shashi&nbsp;Shekhar</div> <div class="imageTitle">Figure 1</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2040459/2040459_10687265_1673392950665_Fig2--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2040459/2040459_10687265_1673392950665_Fig2--rgov-800width.jpg" title="Figure 2"><img src="/por/images/Reports/POR/2023/2040459/2040459_10687265_1673392950665_Fig2--rgov-66x44.jpg" alt="Figure 2"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Safegraph data analysis of full-service restaurants visits by dwell times in Minnesota.</div> <div class="imageCredit">Prof. Shashi Shekhar</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Shashi&nbsp;Shekhar</div> <div class="imageTitle">Figure 2</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2040459/2040459_10687265_1673393015738_Fig3--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2040459/2040459_10687265_1673393015738_Fig3--rgov-800width.jpg" title="Figure 3"><img src="/por/images/Reports/POR/2023/2040459/2040459_10687265_1673393015738_Fig3--rgov-66x44.jpg" alt="Figure 3"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Safegraph data analysis of limited-service restaurants visits by dwell times in Minnesota.</div> <div class="imageCredit">Prof. Shashi Shekhar</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Shashi&nbsp;Shekhar</div> <div class="imageTitle">Figure 3</div> </div> </li> <li> <a href="/por/images/Reports/POR/2023/2040459/2040459_10687265_1673393059517_Fig4--rgov-214x142.jpg" original="/por/images/Reports/POR/2023/2040459/2040459_10687265_1673393059517_Fig4--rgov-800width.jpg" title="Figure 4"><img src="/por/images/Reports/POR/2023/2040459/2040459_10687265_1673393059517_Fig4--rgov-66x44.jpg" alt="Figure 4"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Safegraph data analysis of bar visits by dwell times in Minnesota.</div> <div class="imageCredit">Prof. Shashi Shekhar</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Shashi&nbsp;Shekhar</div> <div class="imageTitle">Figure 4</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   The COVID-19 pandemic has greatly impacted public health and the economy since 2020 by disrupting hospitals and supply chains. A key COVID-19 policy intervention in Minnesota in the early days of the pandemic was stay-at-home orders issued by the governor. This project investigated the potential for novel geospatial big data and inform policymakers to reduce disease spread and safely reopen the economy in the context of questions such as: (a) What were the mobility impacts of COVID-19 policy interventions (e.g., stay-at-home)? How did the impact vary over time and place? (b) Which points of interest and business categories had the most long-duration visits? Examples of the newly available geospatial big data include privacy-protected aggregated location traces of mobile devices from the SafeGraph COVID-19 consortium. To interpret the pros and cons of the new dataset, the project also addressed questions such as: (a) How does the dataset protect the individual's privacy? (b) What is the sampling rate? (c) How does the mobile device data compare with other well-known datasets?  This project resulted in many new insights. First, we improved understanding of the geospatial mobility data analysis questions of interest. Our analysis of Minnesota mobility data from the SafeGraph COVID-19 consortium showed that bars and full-service restaurants had many more long-duration visits than limited-service restaurants. It also showed that the number of visits to parks (and hardware stores) went up while the number of visits to airports, schools, workplaces, malls, etc., went down during the stay-at-home period. Another finding was that the distances traveled diminished for Minnesota suburbanites but not for downtown residents, possibly due to differences in commutes before and during the stay-at-home order.  Second, we analyzed the strengths and weaknesses of the Safegraph mobility datasets which summarizes the movement of large samples of smartphones. This type of data is promising in transportation research due to the high frequency of data collection and the high geographic coverage relative to traditional loop detector and travel survey data. However, we found the sampling rate (ratio between sampled devices and population) varies across different census tracts in Minnesota. In addition, the dataset does not report demographic distribution by age, gender, race, etc.  Due to their timeliness and significance, the project results were presented to the Minnesota State House Transportation Finance and Policy Committee on January 14th, 2021, to inform a hearing on COVID-19's impact on the future of transportation. Also, technical details were peer-reviewed and presented at the 2022 Annual Conference of the Association of Geographic Information Laboratories in Europe (AGILE), the Computing Research Association (CRA) Virtual Conference 2020, the National Science Foundation (NSF) Covid Information Commons managed by the Northeast Big-Data Innovation Hub, and the University of Minnesota Center for Transportation Studies annual conference (2020). Furthermore, the project periodically published summary reports based on the SafeGraph COVID-19 consortium data. These reports summarized the number of long-duration visits to different business categories (e.g., bars, limited-service restaurants, full-service restaurants) and points of interest (e.g., Minneapolis-Saint Paul International airport). The details can be found at http://www.spatial.cs.umn.edu/Project/covid_19.html.  This project trained three Ph.D. students in Computer Science and Engineering and provided mentorships for three High School students. In addition, the project enhanced educational experience by providing research projects, hands-on homework and laboratory exercises, and other active learning activities (e.g., class presentations) for students in both graduate and undergraduate courses at the University of Minnesota.          Last Modified: 01/11/2023       Submitted by: Shashi Shekhar]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

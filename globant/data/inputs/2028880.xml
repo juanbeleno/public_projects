@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Collaborative Research: Quarantined Networks and the Spread of COVID-19]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>22554.00</AwardTotalIntnAmount>
+<AwardAmount>22554</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pawel Hitczenko</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As the global community weighs the necessary extent of quarantine and social distancing to fight the spread of COVID-19, the critical question is how disease transmission is mitigated by these measures. Recent predictions suggest that without serious interventions, a large portion of the world population will become infected, resulting in millions of deaths. To mitigate this worst-case scenario, key policy decisions are being guided by mathematical models. However, several prominent models make unrealistic assumptions about human contacts i.e., that an individual is equally likely to infect a close family member as a complete stranger on the other side of the country. Such assumptions are useful for calculations, but fail to take into account the full geographic complexity of the outbreak. Furthermore, many models do not consider the consequences of the quarantine of healthy individuals. This project will use rigorous analysis and simulation to address these shortcomings by describing a more realistic structure of quarantined networks and how disease spreads in them. The proposed research will use real-world data about contact networks to make predictions and recommendations for controlling the COVID-19 outbreak, improving our understanding of how best to contain the current as well as future pandemics. The project will involve the training of undergraduate students.&lt;br/&gt;&lt;br/&gt;This research will describe the effect of quarantine on connectivity and disease transmission on more realistic networks than have previously been considered. Of particular importance will be locating critical thresholds which, when exceeded, allow large epidemics to occur. There is recent study of these thresholds, but for networks that model digital infrastructure and social networks. The first objective of the research will be to determine the effect of biased site percolation on graph structure, especially how different percolation rules influence the size of the largest component of a given graph. The second part will then focus on how the critical threshold and size of the epidemic for an SIR model change after percolation. This will be explored rigorously on graphs generated from the configuration model as well as random spatial networks such as Gilbert graphs. Additionally, these questions will be investigated on real world face-to-face networks using data specific to the current COVID-19 pandemic. Answering them will help test robustness of previous models, while also exploring the effectiveness of stronger preemptive distancing.&lt;br/&gt;&lt;br/&gt;This grant is being awarded using funds made available by the Coronavirus Aid, Relief, and Economic Security (CARES) Act supplemental funds allocated to MPS.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028880</AwardID>
+<Investigator>
+<FirstName>Nicole</FirstName>
+<LastName>Eikmeier</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nicole Eikmeier</PI_FULL_NAME>
+<EmailAddress><![CDATA[eikmeier@grinnell.edu]]></EmailAddress>
+<NSF_ID>000824336</NSF_ID>
+<StartDate>04/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Grinnell College</Name>
+<CityName>GRINNELL</CityName>
+<ZipCode>501122227</ZipCode>
+<PhoneNumber>6412694983</PhoneNumber>
+<StreetAddress>733 BROAD ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>IA02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NRFXPGZU88G2</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE TRUSTEES OF GRINNELL COLLEGE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Grinnell College]]></Name>
+<CityName>Grinnell</CityName>
+<StateCode>IA</StateCode>
+<ZipCode>501122227</ZipCode>
+<StreetAddress><![CDATA[733 Broad Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IA02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~22554</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>We&nbsp;developed&nbsp;an agent-based model on a network meant to capture features unique to COVID-19 spread through a small residential college. We found that a safe reopening of a small college campus requires strong policy from administrators combined with cautious behavior from students. Strong policy includes weekly screening tests with quick turnaround and reducing the&nbsp;campus population. Cautious behavior from students means wearing facemasks, socializing less, and showing up for routine&nbsp;COVID-19 testing. We also found that comprehensive testing and facemasks are the most effective single interventions, and faster return of test results significantly reduces total infections. A surprising result was that building closures do not necessairly reduce the spread of COVID-19. Instead, closures can lead to infection spikes in other areas depending on student behavior.</p> <p>Research was conducted with an interdisciplinary team of mathematicians, computer scientists, and biologists. This project contributed to the goal of broadening participation in research at the undergraduate, graduate, and post-doctoral level. Students were trained in mathematical modeling and in fast computation.</p> <p>Results from this research were shared with university officials and also publicized via newspaper articles and radio interviews. These modeling efforts informed how institutions can control venues for disease spread through interventions such as screening testing, dedensification, and building closures/constraints. Results were published in the peer-reviewed journal PLOS One, and is available for free from the publisher's website:&nbsp;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255654.&nbsp;</p><br> <p>            Last Modified: 06/01/2022<br>      Modified by: Nicole&nbsp;Eikmeier</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Image         </div> <div class="galControls onePhoto" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation onePhoto" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2028880/2028880_10665874_1653443931389_marginals--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2028880/2028880_10665874_1653443931389_marginals--rgov-800width.jpg" title="Marginals"><img src="/por/images/Reports/POR/2022/2028880/2028880_10665874_1653443931389_marginals--rgov-66x44.jpg" alt="Marginals"></a> <div class="imageCaptionContainer"> <div class="imageCaption">(A) Our model of a small college campus with single interventions applied. (B) The impact of testing latency on a campus with 25% fewer students and testing and quarantine in effect</div> <div class="imageCredit">Bahl R, Eikmeier N, Fraser A, Junge M, Keesing F, et al. (2021) Modeling COVID-19 spread in small colleges. PLOS ONE 16(8): e0255654. https://doi.org/10.1371/journal.pone.0255654</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Nicole&nbsp;Eikmeier</div> <div class="imageTitle">Marginals</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ We developed an agent-based model on a network meant to capture features unique to COVID-19 spread through a small residential college. We found that a safe reopening of a small college campus requires strong policy from administrators combined with cautious behavior from students. Strong policy includes weekly screening tests with quick turnaround and reducing the campus population. Cautious behavior from students means wearing facemasks, socializing less, and showing up for routine COVID-19 testing. We also found that comprehensive testing and facemasks are the most effective single interventions, and faster return of test results significantly reduces total infections. A surprising result was that building closures do not necessairly reduce the spread of COVID-19. Instead, closures can lead to infection spikes in other areas depending on student behavior.  Research was conducted with an interdisciplinary team of mathematicians, computer scientists, and biologists. This project contributed to the goal of broadening participation in research at the undergraduate, graduate, and post-doctoral level. Students were trained in mathematical modeling and in fast computation.  Results from this research were shared with university officials and also publicized via newspaper articles and radio interviews. These modeling efforts informed how institutions can control venues for disease spread through interventions such as screening testing, dedensification, and building closures/constraints. Results were published in the peer-reviewed journal PLOS One, and is available for free from the publisher's website: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255654.        Last Modified: 06/01/2022       Submitted by: Nicole Eikmeier]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

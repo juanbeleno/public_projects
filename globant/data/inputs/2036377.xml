@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Unified data description layer for magnetic resonance imaging scanners]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255499.00</AwardTotalIntnAmount>
+<AwardAmount>255499</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to improve radiology and management of medical imaging equipment. The proposed analytics platform will provide detailed insight into device utilization to help oversee operations, optimize workflows, better leverage existing equipment, and evaluate the success of investments.  More efficient use of scanners is expected to substantially benefit the patient population as it will reduce the wait time for magnetic resonance imaging (MRI), increase patient access, shorten imaging protocols, reduce sedation duration, reduce and predict delays, and ultimately improve the patient experience. The data unlocked by the platform will also open new avenues of research for radiologists and researchers.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims to develop a technology that repurposes the Digital Imaging and Communications in Medicine (DICOM) data created by magnetic resonance imaging (MRI) scanners to build a unified, query-able source of knowledge about imaging exams. This project will harmonize DICOM metadata and build upon it to create an ontology that describes all the facets of imaging exams. Areas of development include recovering acquisition duration and scanner activity through algorithms that analyze images and exams to infer when the scanner was truly active. The project also demonstrates the impact of the data source by training a machine learning model to automatically detect repeated images, a prominent source of schedule delays.  Overall, the developments from this project construct key aspects of timing and workflow from DICOM data to enable a new form of data analytics in Radiology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/01/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>03/29/2022</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041, 47.084</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036377</AwardID>
+<Investigator>
+<FirstName>Benoit</FirstName>
+<LastName>Scherrer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benoit Scherrer</PI_FULL_NAME>
+<EmailAddress><![CDATA[benoit@quantivly.com]]></EmailAddress>
+<NSF_ID>000819340</NSF_ID>
+<StartDate>02/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>QUANTIVLY, INC.</Name>
+<CityName>SOMERVILLE</CityName>
+<ZipCode>021442935</ZipCode>
+<PhoneNumber>6176822092</PhoneNumber>
+<StreetAddress>240 ELM ST</StreetAddress>
+<StreetAddress2><![CDATA[FL 2]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>P68VNM5WG9G3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>QUANTIVLY INC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>HFARUN1HSM61</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[QUANTIVLY, INC.]]></Name>
+<CityName>Somerville</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021442132</ZipCode>
+<StreetAddress><![CDATA[37 Bay State Avenue Unit 1]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255499</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="SCXW251913806 BCX0"> <div class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">Today, MRI scanners are idle, not taking images more than 50% of operational hours, wasting $10B+ in potential revenues annually, and delaying patient care. Despite MRI being the most significant capital purchase a hospital can make (~$1M-$4M), and despite continued innovation in hardware and software to achieve faster imaging times, there remains a massive challenge in understanding how these machines are currently being used. There is just no access to operational data. As Peter Drucker says: &ldquo;</span><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">If you can&rsquo;t measure it, you can&rsquo;t improve it.</span><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">&rdquo;</span><span class="EOP SCXW251913806 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><strong><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">The research goal of this Small Business Innovation Research Phase I project was to develop a technology that analyzes, cleans, and harmonizes MRI scanner data to build a unified, query-able source of knowledge about imaging operations so that&#8239;imaging facilities can monitor and optimize operations with data-driven strategies, exactly like airline companies optimize operations&#8239;by analyzing data from jet engines.</span><span class="EOP SCXW251913806 BCX0">&nbsp;</span></strong></p> </div> <div class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">&nbsp;</span><span class="EOP SCXW251913806 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">The R&amp;D in this NSF SBIR Phase I focused on technical contributions to harmonize the metadata generated by scanners and create a new cleaned, harmonized ontology of operations that can be queried to unlock operational insights.</span><span class="EOP SCXW251913806 BCX0">&nbsp;</span></p> </div> <div class="ListContainerWrapper SCXW251913806 BCX0"><ol class="NumberListStyle1 SCXW251913806 BCX0"> <li class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">We </span><strong><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">collected scanner data</span></strong><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US"> from many publicly available databases to test our algorithms on many different scanners; </span><span class="EOP SCXW251913806 BCX0">&nbsp;</span></p> </li> <li class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">We designed, developed and tested various algorithms to </span><strong><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">harmonize data</span></strong><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">, and especially extract key aspects of timing from the scanner metadata to derive meaningful metrics of scanner utilization. For example, we designed and tested a 3-stage algorithm to accurately recover the duration of each acquisition. We also&nbsp;designed and tested an algorithm that extracts the concepts of examinations and acquisitions from the scanner data by analyzing the overlap in times of objects generated by scanners. </span><span class="EOP SCXW251913806 BCX0">&nbsp;</span></p> </li> <li class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">Beyond harmonizing the data, we used machine learning and AI to </span><strong><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">augment the data </span></strong><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun SCXW251913806 BCX0">and unlock new descriptors of operations. We developed a classifier to detect repeated images, a&nbsp;major driver of increased scan time, scheduling uncertainty, and delays</span><span class="NormalTextRun SCXW251913806 BCX0">. We tested the use of deep-learning to detect the presence of contrast in MR images. Finally, we&nbsp;developed a new distance metric between examinations, </span><span class="NormalTextRun SCXW251913806 BCX0">each examination being described by the list of technical parameters of its acquisitions. This is a theoretically challenging question because examinations may have a different number of acquisitions, which&nbsp;amounts to computing a distance between objects in spaces of different dimensions. We used the metric to learn imaging protocols on-the-fly (unsupervised learning) and identify deviations.</span></span><span class="EOP SCXW251913806 BCX0">&nbsp;</span></p> </li> </ol></div> <div class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US"><span class="EOP SCXW251913806 BCX0">&nbsp;</span></p> </div> </div> <div class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">Our R&amp;D effort led to <strong>seven abstracts</strong> being sent to international conferences, and <strong>three journal</strong> papers are now in preparation. Our theoretical work on protocol learning led to a <strong>provisional patent application </strong>filled in May 2022 (US 63/337,827, Identifying Medical Imaging Protocols Based on Radiology Data and Metadata).</span><span class="EOP SCXW251913806 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">Beyond demonstrating the feasibility of our vision, the R&amp;D carried out was key to building a first minimum viable product (MVP) and <strong>showing early traction</strong> with customers. By the end of the project, we had four paying customers with an annual recurring revenue (ARR) of $207k / year. We are now collaborating with these early adopters to develop proof-points and demonstrate the impact of data liquidity on their operations.</span><span class="EOP SCXW251913806 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">Furthermore, the support from the NSF and the first evidence of product-market fit allowed us to <strong>raise a $1.7M pre-seed round</strong> with venture capital in February 2022 to scale the executive team and support customers.</span><span class="EOP SCXW251913806 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><span class="EOP SCXW251913806 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">More generally, the work initiated in this NSF SBIR Phase I sets the ground for our longer-term vision to develop the <strong>digital twin of radiology departments</strong> that will allow not only monitoring of operations but also simulations of interventions, without the need for expensive physical experimentations.</span><span class="EOP SCXW251913806 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><span class="EOP SCXW251913806 BCX0">&nbsp;</span></p> </div> <div class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><strong><span class="TextRun SCXW251913806 BCX0" lang="EN-US" xml:lang="EN-US">Ultimately, the availability of operational data and simulations is expected to&#8239;radically reshape the way MRI is managed, urgently needed 1) to help the industry survive declining reimbursements, cost pressures and inefficiencies; and 2) to increase access to imaging for the population.</span><span class="EOP SCXW251913806 BCX0">&nbsp;</span></strong></p> </div> <div class="OutlineElement Ltr SCXW251913806 BCX0"> <p class="Paragraph SCXW251913806 BCX0"><span class="EOP SCXW251913806 BCX0">&nbsp;</span></p> </div> <p>&nbsp;</p><br> <p>            Last Modified: 06/21/2022<br>      Modified by: Benoit&nbsp;Scherrer</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[  Today, MRI scanners are idle, not taking images more than 50% of operational hours, wasting $10B+ in potential revenues annually, and delaying patient care. Despite MRI being the most significant capital purchase a hospital can make (~$1M-$4M), and despite continued innovation in hardware and software to achieve faster imaging times, there remains a massive challenge in understanding how these machines are currently being used. There is just no access to operational data. As Peter Drucker says: "If you can’t measure it, you can’t improve it."    The research goal of this Small Business Innovation Research Phase I project was to develop a technology that analyzes, cleans, and harmonizes MRI scanner data to build a unified, query-able source of knowledge about imaging operations so that&#8239;imaging facilities can monitor and optimize operations with data-driven strategies, exactly like airline companies optimize operations&#8239;by analyzing data from jet engines.         The R&amp;D in this NSF SBIR Phase I focused on technical contributions to harmonize the metadata generated by scanners and create a new cleaned, harmonized ontology of operations that can be queried to unlock operational insights.     We collected scanner data from many publicly available databases to test our algorithms on many different scanners;     We designed, developed and tested various algorithms to harmonize data, and especially extract key aspects of timing from the scanner metadata to derive meaningful metrics of scanner utilization. For example, we designed and tested a 3-stage algorithm to accurately recover the duration of each acquisition. We also designed and tested an algorithm that extracts the concepts of examinations and acquisitions from the scanner data by analyzing the overlap in times of objects generated by scanners.     Beyond harmonizing the data, we used machine learning and AI to augment the data and unlock new descriptors of operations. We developed a classifier to detect repeated images, a major driver of increased scan time, scheduling uncertainty, and delays. We tested the use of deep-learning to detect the presence of contrast in MR images. Finally, we developed a new distance metric between examinations, each examination being described by the list of technical parameters of its acquisitions. This is a theoretically challenging question because examinations may have a different number of acquisitions, which amounts to computing a distance between objects in spaces of different dimensions. We used the metric to learn imaging protocols on-the-fly (unsupervised learning) and identify deviations.          Our R&amp;D effort led to seven abstracts being sent to international conferences, and three journal papers are now in preparation. Our theoretical work on protocol learning led to a provisional patent application filled in May 2022 (US 63/337,827, Identifying Medical Imaging Protocols Based on Radiology Data and Metadata).    Beyond demonstrating the feasibility of our vision, the R&amp;D carried out was key to building a first minimum viable product (MVP) and showing early traction with customers. By the end of the project, we had four paying customers with an annual recurring revenue (ARR) of $207k / year. We are now collaborating with these early adopters to develop proof-points and demonstrate the impact of data liquidity on their operations.    Furthermore, the support from the NSF and the first evidence of product-market fit allowed us to raise a $1.7M pre-seed round with venture capital in February 2022 to scale the executive team and support customers.        More generally, the work initiated in this NSF SBIR Phase I sets the ground for our longer-term vision to develop the digital twin of radiology departments that will allow not only monitoring of operations but also simulations of interventions, without the need for expensive physical experimentations.        Ultimately, the availability of operational data and simulations is expected to&#8239;radically reshape the way MRI is managed, urgently needed 1) to help the industry survive declining reimbursements, cost pressures and inefficiencies; and 2) to increase access to imaging for the population.                Last Modified: 06/21/2022       Submitted by: Benoit Scherrer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

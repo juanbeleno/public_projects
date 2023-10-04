@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: Optimizing vote-by-mail implementations on consumer grade equipment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeremy Epstein</SignBlockName>
+<PO_EMAI>jepstein@nsf.gov</PO_EMAI>
+<PO_PHON>7032928338</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[As a result of the COVID-19 virus, many states are looking to rapidly switch from in-person voting to postal voting (also called vote-by-mail or VBM), in order to reduce the infection risks to voters that might come from in-person voting. Among the many challenges of increased use of VBM, commercial ballot printing services have limited capacity and will be unable to scale to support the surge in demand they will face. To mitigate this problem, VotingWorks, a non-profit, is developing an open-source VBM solution called VxMail, targeting small- to medium-sized counties. VxMail will use commercial bulk-mailing services as well as off-the-shelf hardware for printing ballots, slicing envelopes, and scanning the ballots to provide a secure, affordable, and highly scalable VBM solution. If VxMail is successful, it will have a large impact on the practice of voting in the November 2020 general election, by making VBM available to more voters.&lt;br/&gt;&lt;br/&gt;VotingWorks faces a variety of engineering challenges to ensure that VxMail will be accurate, including dealing with stray marks from voters, and damage that might occur to ballots in the postal mail. To address this, VotingWorks is partnering with a team from Rice University with experience in human-computer interaction and elections. This research will recruit thousands of participants, across the country, to fill out test ballots, yielding a large corpus of real-world examples. VotingWorks will use these ballots to validate and improve its scanning algorithms. Rice will use these ballots to measure voters’ accuracy at filling out the ballots and following the return instructions. With multiple rounds of these experiments, Rice and VotingWorks will be able to identify and remedy deficiencies in VxMail, leading toward better voter experiences and more accurate tabulation results.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2033923</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Adida</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Benjamin M Adida</PI_FULL_NAME>
+<EmailAddress><![CDATA[ben@voting.works]]></EmailAddress>
+<NSF_ID>000828004</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Kortum</LastName>
+<PI_MID_INIT>T</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Philip T Kortum</PI_FULL_NAME>
+<EmailAddress><![CDATA[pkortum@rice.edu]]></EmailAddress>
+<NSF_ID>000406157</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dan</FirstName>
+<LastName>Wallach</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Dan S Wallach</PI_FULL_NAME>
+<EmailAddress><![CDATA[dwallach@rice.edu]]></EmailAddress>
+<NSF_ID>000095002</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Byrne</LastName>
+<PI_MID_INIT>D</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Michael D Byrne</PI_FULL_NAME>
+<EmailAddress><![CDATA[byrne@rice.edu]]></EmailAddress>
+<NSF_ID>000383185</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Stein</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Robert M Stein</PI_FULL_NAME>
+<EmailAddress><![CDATA[stein@rice.edu]]></EmailAddress>
+<NSF_ID>000148052</NSF_ID>
+<StartDate>06/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>William Marsh Rice University</Name>
+<CityName>Houston</CityName>
+<ZipCode>770051827</ZipCode>
+<PhoneNumber>7133484820</PhoneNumber>
+<StreetAddress>6100 MAIN ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>TX09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>K51LECU1G8N3</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>WILLIAM MARSH RICE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>K51LECU1G8N3</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[William Marsh Rice University]]></Name>
+<CityName/>
+<StateCode>TX</StateCode>
+<ZipCode>770051827</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>TX09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>064Z</Code>
+<Text>Voting/election security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The research supported by this grant focused on two aspects of voting: 1) the usability of a new vote by mail ballot system, and 2) the usability of ranked choice paper ballots.&nbsp; The vote by mail portion of the research was conducted during the height of the COVID pandemic in order to better understand how to support a voting method that protected users from the virus. The ranked-choice voting study was conducted to gain a better understanding of a voting method which is gaining in popularity, with the hope that usability data could help guide the design of these ballots before they become ubiquitous.</p> <p>In the vote by mail usability assessments, 28 participants from the general population evaluated a newly designed vote by mail system. Because of the pandemic, the study was conducted completely over zoom using a think aloud protocol. 23 of the participants were women, 96% had voted in at least one past election, and 54% had not previously voted by mail. Participants were asked to complete the mail in ballot using a slate of candidates that was provided to them. Following their completion of the task, they were administered the System Usability Scale (Brooke, 1996). While the System Usability Scores were relatively high (M = 79.7 (out of 100), SD = 21.02), only 25% of the participants were able to successfully complete the entire task. Critical issues that led to lack of success included failure of the voter to include a date on the ballot, failure of the voter to include a voter&rsquo;s affidavit, voter using the incorrect return label, and failing to fill out the bubble ballot correctly. These failure modes indicate that the vote by mail design tested in this study will require additional design modifications and testing in order to bring its usability up to the standards that would be required for a mail-in ballot.</p> <p>In the assessment of the usability of ranked-choice voting paper ballots, we examined three fundamental formats that are currently being used: the bubble grid format, column format, and handwritten ranking. Using a between-subjects design, 126 participants from the general population voted in a mock election using one of the three different ballot formats. The sample comprised a diverse sample of ethnicities and education levels. Approximately 90% of the participants had never used a ranked-choice voting ballot before. We collected information on the time to vote, the time to read the ballot instructions, the subjective usability of each ballot using the System Usability Scale, and errors committed while voting.</p> <p>Results showed that participants spent significantly more time reading the instructions for the handwritten ranking ballot, but there was no difference between the bubble grid and column format. There was also a significant difference in the time it took to complete the ballot, with the handwritten ballot taking longer than the column format, but no other significant differences. Subjective usability scores using the System Usability Scale were quite high (with an average score &gt; 80 out of 100) and roughly equivalent across ballot formats. Significant errors were committed by voters when using these ballots. 36% of the bubble grid format ballots, 14% of the column format ballots, and 2% of the handwritten ballots had at least one error that would have invalidated the ballot. 14% of the hand-written ballots, 12% of the bubble grid format ballots, and 12% of the column format ballots contained at least one mismark error that would not have invalidated the entire ballot, but might result in a selection that the voter did not intend. The next phase of the research will examine the electronic form of these three ranked-choice voting formats&nbsp; to determine if the computerized format&nbsp; has better usability characteristics than paper ballots, when common digital error correction/mitigation techniques are implemented.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 08/27/2023<br>      Modified by: Philip&nbsp;T&nbsp;Kortum</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The research supported by this grant focused on two aspects of voting: 1) the usability of a new vote by mail ballot system, and 2) the usability of ranked choice paper ballots.  The vote by mail portion of the research was conducted during the height of the COVID pandemic in order to better understand how to support a voting method that protected users from the virus. The ranked-choice voting study was conducted to gain a better understanding of a voting method which is gaining in popularity, with the hope that usability data could help guide the design of these ballots before they become ubiquitous.  In the vote by mail usability assessments, 28 participants from the general population evaluated a newly designed vote by mail system. Because of the pandemic, the study was conducted completely over zoom using a think aloud protocol. 23 of the participants were women, 96% had voted in at least one past election, and 54% had not previously voted by mail. Participants were asked to complete the mail in ballot using a slate of candidates that was provided to them. Following their completion of the task, they were administered the System Usability Scale (Brooke, 1996). While the System Usability Scores were relatively high (M = 79.7 (out of 100), SD = 21.02), only 25% of the participants were able to successfully complete the entire task. Critical issues that led to lack of success included failure of the voter to include a date on the ballot, failure of the voter to include a voter’s affidavit, voter using the incorrect return label, and failing to fill out the bubble ballot correctly. These failure modes indicate that the vote by mail design tested in this study will require additional design modifications and testing in order to bring its usability up to the standards that would be required for a mail-in ballot.  In the assessment of the usability of ranked-choice voting paper ballots, we examined three fundamental formats that are currently being used: the bubble grid format, column format, and handwritten ranking. Using a between-subjects design, 126 participants from the general population voted in a mock election using one of the three different ballot formats. The sample comprised a diverse sample of ethnicities and education levels. Approximately 90% of the participants had never used a ranked-choice voting ballot before. We collected information on the time to vote, the time to read the ballot instructions, the subjective usability of each ballot using the System Usability Scale, and errors committed while voting.  Results showed that participants spent significantly more time reading the instructions for the handwritten ranking ballot, but there was no difference between the bubble grid and column format. There was also a significant difference in the time it took to complete the ballot, with the handwritten ballot taking longer than the column format, but no other significant differences. Subjective usability scores using the System Usability Scale were quite high (with an average score &gt; 80 out of 100) and roughly equivalent across ballot formats. Significant errors were committed by voters when using these ballots. 36% of the bubble grid format ballots, 14% of the column format ballots, and 2% of the handwritten ballots had at least one error that would have invalidated the ballot. 14% of the hand-written ballots, 12% of the bubble grid format ballots, and 12% of the column format ballots contained at least one mismark error that would not have invalidated the entire ballot, but might result in a selection that the voter did not intend. The next phase of the research will examine the electronic form of these three ranked-choice voting formats  to determine if the computerized format  has better usability characteristics than paper ballots, when common digital error correction/mitigation techniques are implemented.                Last Modified: 08/27/2023       Submitted by: Philip T Kortum]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

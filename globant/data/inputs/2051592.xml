@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SaTC: CORE: Small: Collaborative: The Web Ad Technology Arms Race: Measurement, Analysis, and Countermeasures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>135232</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+<PO_EMAI>dcosley@nsf.gov</PO_EMAI>
+<PO_PHON>7032928832</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Online advertising plays a critical role in allowing a vast majority of web content to be offered free of charge to users, with the implicit quid pro quo agreement that users agree to watch targeted ads to support these "free" services. Unfortunately, the economic magnetism of online advertising has made it an attractive target for various types of abuses. For instance, online advertising incentivizes the widespread tracking of users across websites raising privacy and surveillance concerns. Malvertising is another serious security threat to users. As a result, ad-blockers are gaining popularity because they not only provide a clean browsing experience but also protect user security and privacy.&lt;br/&gt; &lt;br/&gt;The research is motivated by the observation that websites are now starting an arms race to fight against ad-blockers that cause significant revenue loss to the publishers. Publishers use anti ad-blockers to detect the presence of ad-blockers and react in certain ways (e.g., reminding users to turn off ad-blockers). Specifically, the research will be primarily focused on two fronts: (1) Measuring the arms race between ad-blockers and anti ad-blockers, e.g., developing techniques to detect anti ad-blockers. (2) Understanding the technological means of anti ad-blockers and possible countermeasures that may follow on the ad-blocker side. The proposed research will inform industry stakeholders and policymakers.]]></AbstractNarration>
+<MinAmdLetterDate>05/12/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2051592</AwardID>
+<Investigator>
+<FirstName>Zubair</FirstName>
+<LastName>Shafiq</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Zubair Shafiq</PI_FULL_NAME>
+<EmailAddress><![CDATA[zubair@ucdavis.edu]]></EmailAddress>
+<NSF_ID>000677478</NSF_ID>
+<StartDate>05/12/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>DAVIS</CityName>
+<ZipCode>956186153</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>1850 RESEARCH PARK DR, STE 300</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>TX2DAGQPENZ5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, DAVIS</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>NUDGYLBB4S99</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-Davis]]></Name>
+<CityName/>
+<StateCode>CA</StateCode>
+<ZipCode>956186134</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0117</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001718DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2017~103232</FUND_OBLG>
+<FUND_OBLG>2019~16000</FUND_OBLG>
+<FUND_OBLG>2021~16000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><div class="group w-full text-gray-800 dark:text-gray-100 border-b border-black/10 dark:border-gray-900/50 bg-gray-50 dark:bg-[#444654]"> <div class="flex p-4 gap-4 text-base md:gap-6 md:max-w-2xl lg:max-w-[38rem] xl:max-w-3xl md:py-6 lg:px-0 m-auto"> <div class="relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]"> <div class="flex flex-grow flex-col gap-3"> <div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap break-words"> <div class="markdown prose w-full break-words dark:prose-invert light"> <p>The aim of this research was to gain a comprehensive understanding of ad-blocking on the web, a phenomenon that prevents online advertisements from being displayed. The research team conducted empirical studies to measure the extent to which ad-blocking and "anti" ad-blocking measures were being employed, and they discovered that this phenomenon has significantly increased over the years. In addition to these studies, the team developed new tools to enhance the effectiveness and reliability of ad-blockers.</p> <p>The findings from this research have played a crucial role in shaping the ongoing debate surrounding online advertising and tracking. Specifically, it has shed light on the implicit value exchange that occurs on ad-supported websites, where users consume content for free in exchange for being exposed to advertisements. These insights have been disseminated through various peer-reviewed academic publications, contributing to the existing body of knowledge in the field.</p> <p>Moreover, this research has had practical implications beyond academia. It has influenced the design and development of open-source privacy-enhancing tools, serving as a basis for improving user privacy and security online. The research team also actively engaged with industry and policy stakeholders throughout the project, sharing their findings and recommendations. This outreach effort has provided valuable insights to these stakeholders, helping them make informed decisions and formulate effective policies related to online advertising and user privacy.</p> </div> </div> </div> </div> </div> </div><br> <p>            Last Modified: 06/06/2023<br>      Modified by: Zubair&nbsp;Shafiq</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[       The aim of this research was to gain a comprehensive understanding of ad-blocking on the web, a phenomenon that prevents online advertisements from being displayed. The research team conducted empirical studies to measure the extent to which ad-blocking and "anti" ad-blocking measures were being employed, and they discovered that this phenomenon has significantly increased over the years. In addition to these studies, the team developed new tools to enhance the effectiveness and reliability of ad-blockers.  The findings from this research have played a crucial role in shaping the ongoing debate surrounding online advertising and tracking. Specifically, it has shed light on the implicit value exchange that occurs on ad-supported websites, where users consume content for free in exchange for being exposed to advertisements. These insights have been disseminated through various peer-reviewed academic publications, contributing to the existing body of knowledge in the field.  Moreover, this research has had practical implications beyond academia. It has influenced the design and development of open-source privacy-enhancing tools, serving as a basis for improving user privacy and security online. The research team also actively engaged with industry and policy stakeholders throughout the project, sharing their findings and recommendations. This outreach effort has provided valuable insights to these stakeholders, helping them make informed decisions and formulate effective policies related to online advertising and user privacy.             Last Modified: 06/06/2023       Submitted by: Zubair Shafiq]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

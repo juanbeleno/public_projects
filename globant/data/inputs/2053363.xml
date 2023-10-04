@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[CNS Core: Large: Collaborative Research: Towards an Evolvable Public Key Infrastructure]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>274352.00</AwardTotalIntnAmount>
+<AwardAmount>274352</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Karavanic</SignBlockName>
+<PO_EMAI>kkaravan@nsf.gov</PO_EMAI>
+<PO_PHON>7032922594</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The importance of the Transport Layer Security (TLS) public key infrastructure (PKI) to the success of the Internet cannot be overstated.  From social networking to banking, from mobile devices to cloud computing, the PKI allows communicating parties to be sure of whom they are communicating with, that their communication is confidential, and that their communication has not been tampered with.  Despite its incredible importance, the PKI has been notoriously difficult to evolve to meet new security concerns and Internet demands.  This project introduces new, deployable alternatives to key parts of the PKI to make it more evolvable, manageable, and secure.&lt;br/&gt;&lt;br/&gt;The project has three primary thrusts.  The first introduces a key enabling technology behind the subsequent thrusts, called assertion-carrying certificates (ACCs).  ACCs expand today's certificates with the capability of including a small amount of code (in the form of assertions) to be evaluated as part of the certificate validation process.  The second thrust applies ACCs to enable certificate authorities to more readily evolve to new demands for certificate delegation and automated issuance.  The third thrust applies ACCs and trusted execution environments to enable web-hosting services like content delivery networks to securely manage their customers' cryptographic keys.&lt;br/&gt;&lt;br/&gt;Correct operation of the PKI is paramount to ensuring a secure, authenticated Internet.  Recent efforts have proven that progress towards a more secure PKI is possible, but a more fundamental focus is needed to address the underlying challenges.  This project will do just that by developing a new, extensible approach to constraining when identities on the Internet should be trusted.  This project will make it straightforward and safe to extend the basic abstractions offered by the PKI, thereby enabling it to evolve to meet changing trends.&lt;br/&gt;&lt;br/&gt;The project's code and data will be made publicly available and maintained at https://securepki.org&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>09/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2053363</AwardID>
+<Investigator>
+<FirstName>Taejoong</FirstName>
+<LastName>Chung</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Taejoong Chung</PI_FULL_NAME>
+<EmailAddress><![CDATA[tijay@vt.edu]]></EmailAddress>
+<NSF_ID>000785393</NSF_ID>
+<StartDate>09/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240603359</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>300 TURNER ST NW</StreetAddress>
+<StreetAddress2><![CDATA[STE 4200]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>VA09</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>QDE5UHE5XD16</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>VIRGINIA POLYTECHNIC INSTITUTE &amp; STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>X6KEFGLHSJX7</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Virginia Polytechnic Institute and State University]]></Name>
+<CityName>Blacksburg</CityName>
+<StateCode>VA</StateCode>
+<ZipCode>240610001</ZipCode>
+<StreetAddress><![CDATA[300 Turner St. NW]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>VA09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7925</Code>
+<Text>LARGE PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~188215</FUND_OBLG>
+<FUND_OBLG>2021~86136</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>The SSL/TLS public key infrastructure (PKI) underpins the security of online transactions, ensuring communication authenticity, confidentiality, and integrity. While it's critical to our digital world, the PKI has faced significant challenges such as certificate mis-issuance by Certificate Authorities (CAs), and difficulties in updates and revocations. Some solutions, like Certificate Transparency and CRLite, address symptoms but don't target the root issues.<br />Our project aimed to fundamentally reshape the PKI by focusing on four research areas:<br />1. Assertion-Carrying Certificates (ACCs): We are pioneering ACCs, which are certificates embedded with executable assertions. These assertions, when run by clients during certificate validation, set the conditions under which the certificate is accepted. This allows certificates to be more adaptable and evolves as PKI changes.<br />2. Certificate Authorities (CAs): We're applying ACCs to address ongoing and potential problems with CAs, ensuring they are more secure and reliable.<br />3. Web Hosting Services: We aim to integrate ACCs seamlessly with third-party web hosting services, enabling a more flexible and robust security landscape.<br />4. Home Networks: Our goal is to secure entire home networks, simplifying management and reducing the risk of user errors.<br />Building on our ACCs research, we have advanced a tool called Hammurabi. Using prior frameworks like EverCrypt and EverParse, we created a verified version of Hammurabi that can process certificate chains and convert them into logical statements. A key concern has been the erratic behaviors of CAs over time, which have led browsers to implement varied mitigation strategies This results in a more layered trust model for browsers rather than a binary "trust/don't trust" one. But these nuances are not often captured by regular clients. We developed Hammurabi, or ACCs, that can communicate these layered trust models more effectively to clients, ensuring more nuanced and informed trust decisions.<br />Furthermore, we have delved into how misinformation, especially regarding tools like VPNs, affects users' understanding and trust levels when it comes to online security. We have also studied the impact of this misinformation on PKI and users' ability to recognize online communication parties. Lastly, our project promoted broader participation in computer science by enhancing undergraduate exposure and opportunities in research.&nbsp; In essence, our work aims to modernize the PKI, making it more adaptable, secure, and understandable for all users.</p> <div id="__endic_crx__"></div><br> <p>            Last Modified: 09/25/2023<br>      Modified by: Taejoong&nbsp;Chung</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ The SSL/TLS public key infrastructure (PKI) underpins the security of online transactions, ensuring communication authenticity, confidentiality, and integrity. While it's critical to our digital world, the PKI has faced significant challenges such as certificate mis-issuance by Certificate Authorities (CAs), and difficulties in updates and revocations. Some solutions, like Certificate Transparency and CRLite, address symptoms but don't target the root issues. Our project aimed to fundamentally reshape the PKI by focusing on four research areas: 1. Assertion-Carrying Certificates (ACCs): We are pioneering ACCs, which are certificates embedded with executable assertions. These assertions, when run by clients during certificate validation, set the conditions under which the certificate is accepted. This allows certificates to be more adaptable and evolves as PKI changes. 2. Certificate Authorities (CAs): We're applying ACCs to address ongoing and potential problems with CAs, ensuring they are more secure and reliable. 3. Web Hosting Services: We aim to integrate ACCs seamlessly with third-party web hosting services, enabling a more flexible and robust security landscape. 4. Home Networks: Our goal is to secure entire home networks, simplifying management and reducing the risk of user errors. Building on our ACCs research, we have advanced a tool called Hammurabi. Using prior frameworks like EverCrypt and EverParse, we created a verified version of Hammurabi that can process certificate chains and convert them into logical statements. A key concern has been the erratic behaviors of CAs over time, which have led browsers to implement varied mitigation strategies This results in a more layered trust model for browsers rather than a binary "trust/don't trust" one. But these nuances are not often captured by regular clients. We developed Hammurabi, or ACCs, that can communicate these layered trust models more effectively to clients, ensuring more nuanced and informed trust decisions. Furthermore, we have delved into how misinformation, especially regarding tools like VPNs, affects users' understanding and trust levels when it comes to online security. We have also studied the impact of this misinformation on PKI and users' ability to recognize online communication parties. Lastly, our project promoted broader participation in computer science by enhancing undergraduate exposure and opportunities in research.  In essence, our work aims to modernize the PKI, making it more adaptable, secure, and understandable for all users.        Last Modified: 09/25/2023       Submitted by: Taejoong Chung]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

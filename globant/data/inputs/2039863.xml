@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[EAGER: Spectral Network Alignment]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>A. Funda Ergun</SignBlockName>
+<PO_EMAI>fergun@nsf.gov</PO_EMAI>
+<PO_PHON>7032922216</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Suppose one wants to understand the similarities between two, very&lt;br/&gt;large, unknown networks from an application domain, e.g., brain&lt;br/&gt;networks, gene expression networks, or protein networks. There are two&lt;br/&gt;associated problems that are far from trivial: how to quantify&lt;br/&gt;similarity, and how to detect it in a reasonable amount of time,&lt;br/&gt;considering that the networks can have millions or billions of&lt;br/&gt;connections. Researchers have used methods inspired by combinatorics&lt;br/&gt;and network theory, but so far these methods have run into many&lt;br/&gt;complexity-theoretic barriers and it is not clear whether they can&lt;br/&gt;capture true functional similarities of networks.&lt;br/&gt;&lt;br/&gt;A more recent approach is based on spectral graph theory, which is the&lt;br/&gt;expertise of the investigator. In particular, the approach taken here&lt;br/&gt;is an original application of graph Laplacians and quantitative&lt;br/&gt;algorithms around real quadratic forms. There are numerous natural and&lt;br/&gt;unexplored algorithmic and complexity-theoretic questions in this area&lt;br/&gt;that the investigator will pursue. A particularly interesting aspect&lt;br/&gt;of this proposal is how it is related to the graph isomorphism&lt;br/&gt;problem, but deals with relaxations that potentially enable&lt;br/&gt;circumventing this venerable barrier. The investigator, with his&lt;br/&gt;established connections with biologists and health scientists, will&lt;br/&gt;also apply his work toward more practical software for network&lt;br/&gt;alignment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2039863</AwardID>
+<Investigator>
+<FirstName>Ioannis</FirstName>
+<LastName>Koutis</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ioannis Koutis</PI_FULL_NAME>
+<EmailAddress><![CDATA[ikoutis@njit.edu]]></EmailAddress>
+<NSF_ID>000555692</NSF_ID>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Jersey Institute of Technology</Name>
+<CityName>NEWARK</CityName>
+<ZipCode>071021824</ZipCode>
+<PhoneNumber>9735965275</PhoneNumber>
+<StreetAddress>323 DR MARTIN LUTHER KING JR BLV</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NJ10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>SGBMHQ7VXNH5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW JERSEY INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>SGBMHQ7VXNH5</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New Jersey Institute of Technology]]></Name>
+<CityName/>
+<StateCode>NJ</StateCode>
+<ZipCode>071021824</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NJ10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>Algorithmic Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7937</Code>
+<Text>NETWORK CODING AND INFO THEORY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~150000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><em><strong>Research</strong></em><br /><span>The project contributed to the following research topics:</span><br /><br /><strong>Spectral Network Alignment.&nbsp;</strong><span>The project explored the concept of "spectral network alignment," which is a generalization of the graph isomorphism problem. The principal investigator (PI) and collaborators published a journal paper that simplifies and strengthens previous theoretical results. Additionally, they conducted a numerical investigation to validate related conjectures, confirming the transformative potential of the project's ideas. This research will remain a focal point for the PI in future research.</span>&nbsp;<br /><br /><strong>Network Symmetries in Graph Machine Learning.&nbsp;</strong><span>Graph machine learning (ML) has gained prominence, particularly in applications like computational chemistry and molecule/drug design, by designing ML algorithms that detect and utilize graph symmetries. Recognizing the significance of graph ML, the PI expanded the project's scope to study "equivariant graph neural networks." The project supported a Ph.D. student and an international collaboration, resulting in two conference publications. These works established the groundwork for future research that utilizes existing graph isomorphism algorithms to create simple yet powerful primitives for graph neural networks, with the potential to advance state-of-the-art performance on widely used benchmarks.<br /></span><br /><strong>Computational Biology.&nbsp;</strong>The project explored the application of spectral graph algorithms in computational biology, as initially proposed. It partially supported a student who developed novel algorithms for analyzing gene co-expression networks (GCNs), a common task in computational biology. These new algorithms outperformed existing tools and led to two journal publications.<strong><br /></strong><br /><strong>Additional Work in Machine Learning.&nbsp;</strong><span>The project also partially supported a Ph.D. student's research on "natural Knowledge Diffuusion learning algorithms", a tangential novel topic in ML. This research resulted in two conference publications.</span><br /><br /><strong><em>Education</em><br /></strong><span>The project provided support for three Ph.D. students, one of whom graduated in May 2023. As part of the expanded agenda in Graph Machine Learning, the PI developed two new online courses in Machine Learning and Deep Learning. These courses have become NJIT's official online courses and are now required for the online MS programs in Data Science and Artificial Intelligence.</span>.&nbsp;<br /><br /><strong>Conclusion.</strong> <br /><span>The PI expresses gratitude to the NSF for supporting this research project.</span><br /><br /><br /><br /><br /></p> <div id="annotate-plugin-fab" class="extension_reset_css AnnotateNet_widget AnnotateReviewNotesButton" style="display: none; z-index: 2147483644;"></div><br> <p>            Last Modified: 06/28/2023<br>      Modified by: Ioannis&nbsp;Koutis</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Research The project contributed to the following research topics:  Spectral Network Alignment. The project explored the concept of "spectral network alignment," which is a generalization of the graph isomorphism problem. The principal investigator (PI) and collaborators published a journal paper that simplifies and strengthens previous theoretical results. Additionally, they conducted a numerical investigation to validate related conjectures, confirming the transformative potential of the project's ideas. This research will remain a focal point for the PI in future research.   Network Symmetries in Graph Machine Learning. Graph machine learning (ML) has gained prominence, particularly in applications like computational chemistry and molecule/drug design, by designing ML algorithms that detect and utilize graph symmetries. Recognizing the significance of graph ML, the PI expanded the project's scope to study "equivariant graph neural networks." The project supported a Ph.D. student and an international collaboration, resulting in two conference publications. These works established the groundwork for future research that utilizes existing graph isomorphism algorithms to create simple yet powerful primitives for graph neural networks, with the potential to advance state-of-the-art performance on widely used benchmarks.  Computational Biology. The project explored the application of spectral graph algorithms in computational biology, as initially proposed. It partially supported a student who developed novel algorithms for analyzing gene co-expression networks (GCNs), a common task in computational biology. These new algorithms outperformed existing tools and led to two journal publications.  Additional Work in Machine Learning. The project also partially supported a Ph.D. student's research on "natural Knowledge Diffuusion learning algorithms", a tangential novel topic in ML. This research resulted in two conference publications.  Education The project provided support for three Ph.D. students, one of whom graduated in May 2023. As part of the expanded agenda in Graph Machine Learning, the PI developed two new online courses in Machine Learning and Deep Learning. These courses have become NJIT's official online courses and are now required for the online MS programs in Data Science and Artificial Intelligence..   Conclusion.  The PI expresses gratitude to the NSF for supporting this research project.             Last Modified: 06/28/2023       Submitted by: Ioannis Koutis]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

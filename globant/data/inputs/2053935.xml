@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Reconstruction of Four-Dimensional Near-Surface Wind Characteristics from Debris and Damage Attributes using Computer Vision]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>10/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>399235.00</AwardTotalIntnAmount>
+<AwardAmount>399235</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jacqueline Meszaros</SignBlockName>
+<PO_EMAI>jmeszaro@nsf.gov</PO_EMAI>
+<PO_PHON>7032927261</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Extreme windstorms, including hurricanes, tornadoes, and thunderstorms, are major drivers of economic losses and fatalities in the United States. Mitigating these impacts requires in-depth understanding of the fundamental characteristics of extreme windstorms. These characteristics then inform building codes and standards, education, and risk assessment. Significant knowledge gaps exist for tornadoes and thunderstorms, with basic characteristics such as near-ground wind speeds rarely measured directly. A promising new approach to address these gaps is the application of computer vision techniques to track the 4D motion of wind-borne debris that is contained in the numerous videos of extreme windstorms generated each year by scientists and citizen scientists. This multi-disciplinary Disaster Resilience Research Grants (DRRG) project will integrate wind engineering, structural engineering, computer vision, and machine learning disciplines to develop robust new datasets and methods for understanding near-surface wind and debris characteristics. Graduate students from each discipline will be trained in cross-disciplinary methods. The engagement of citizen scientists will spur awareness and education of the public as to the true nature of these windstorms. Ultimately, the improved understanding of near-ground level winds and debris in extreme windstorms addresses the critical need for improved community resilience to extreme windstorms. &lt;br/&gt; &lt;br/&gt;Little is known about the near-surface characteristics of extreme windstorms and the debris they generate. High space and time resolution of velocity fields of these storms are rarely measured in-situ, resulting in fundamental characteristics such as the relative magnitudes of the horizontal and vertical velocity components, vertical profiles of the 3D velocities, and turbulence intensities remaining largely unknown. This project adopts an innovative and integrated approach to characterizing near-surface wind and debris characteristics using visual data sources. The primary objectives of this project are to (1) build a formal database of both structured and unstructured debris motion media with appropriate metadata; (2) generate a robust dataset of labeled debris motion  suitable for model training and validation; (3) develop a new generation of computer vision and machine learning based tools with application to fine-scale and large-scale debris identification, classification, and motion tracking; and (4) demonstrate a framework for inferring near-surface wind characteristics from debris motion. In fulfilling these objectives, this project will utilize collaborations with the NHERI Wall of Wind Experimental Facility at Florida International University and citizen scientists within storm chasing networks. The datasets created through this project can be used to train a new generation of tools, integrating artificial intelligence and civil engineering in ways that will ultimately benefit both fields. The outcome will be a deeper understanding of extreme windstorms, with a framework in place for continuous refinement and learning beyond the lifespan of this project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>11/01/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>11/01/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2053935</AwardID>
+<Investigator>
+<FirstName>Mani</FirstName>
+<LastName>Golparvar-Fard</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mani Golparvar-Fard</PI_FULL_NAME>
+<EmailAddress><![CDATA[mgolpar@illinois.edu]]></EmailAddress>
+<NSF_ID>000586985</NSF_ID>
+<StartDate>11/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Franklin</FirstName>
+<LastName>Lombardo</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Franklin Lombardo</PI_FULL_NAME>
+<EmailAddress><![CDATA[lombaf@illinois.edu]]></EmailAddress>
+<NSF_ID>000640586</NSF_ID>
+<StartDate>11/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Roueche</LastName>
+<PI_MID_INIT>B</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David B Roueche</PI_FULL_NAME>
+<EmailAddress><![CDATA[dbroueche@auburn.edu]]></EmailAddress>
+<NSF_ID>000755794</NSF_ID>
+<StartDate>11/01/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Auburn University</Name>
+<CityName>AUBURN</CityName>
+<ZipCode>368490001</ZipCode>
+<PhoneNumber>3348444438</PhoneNumber>
+<StreetAddress>321-A INGRAM HALL</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL03</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>DMQNDJDHTDG4</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>AUBURN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Auburn University]]></Name>
+<CityName>Auburn</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>368495337</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>198Y</Code>
+<Text>DRRG-Disaster Resilience Res G</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code/>
+<Name/>
+<APP_SYMB_ID/>
+</Appropriation>
+<Fund>
+<Code>01002223DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2022~399235</FUND_OBLG>
+</Award>
+</rootTag>

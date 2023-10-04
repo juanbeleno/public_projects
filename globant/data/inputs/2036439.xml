@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  A parallelized microscope for high-speed, high-resolution imaging of organism behavior]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erik Pierstorff</SignBlockName>
+<PO_EMAI>epiersto@nsf.gov</PO_EMAI>
+<PO_PHON>7032922165</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to improve current digital microscope imaging technology to produce better images and video of biological phenomena. Current microscopes are limited by a tradeoff between image resolution, viewing area and video frame rate, which presents a bottleneck in many imaging experiments. For example, current microscopes cannot observe model organisms such as the zebrafish and fruit fly at cellular detail during free movement. By simultaneously capturing high-speed, high-resolution video over a large viewing area, this proposal’s new microscope will overcome the limitations of standard microscopes to allow scientists to make new discoveries surrounding fundamental behaviors.It will also dramatically increase the speed and scope of current high-content screening experiments that observe many organisms at high-resolution in parallel, and will also open  new applications in high-throughput industrial inspection. &lt;br/&gt;&lt;br/&gt;The proposed project will address the limited throughput challenges faced by current microscopes by adopting a novel parallelized imaging strategy. To overcome current trade-offs between image resolution, field-of-view and frame rate, the project’s first research objective is to develop a new type of microscope consisting of an array of micro-cameras simultaneously observing a large viewing area at high resolution and high speed. Synchronized image data captured by 54 micro-cameras, arranged in a 9x6 array, will be digitally combined via novel software into 100 megapixel-per-frame video at 100 frames per second. The resulting video stream will contain 10-100X more pixels per frame than any other high-speed image sensor currently on the market. The project’s second research objective is to create software that can efficiently process the large amount of resulting image data to enable efficient storage and analysis. The software’s first specific goal is to track, crop and analyze video data of multiple freely moving organisms to extract key behavioral statistics (e.g., position, orientation, body length/curvature). The project’s third research objective is to test and verify the new imaging hardware and software in a series of biological experiments monitoring the high-speed behavior of Drosophila Melanogaster.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>02/08/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>02/08/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2036439</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Harfouche</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Mark Harfouche</PI_FULL_NAME>
+<EmailAddress><![CDATA[info@ramonaoptics.com]]></EmailAddress>
+<NSF_ID>000829250</NSF_ID>
+<StartDate>02/08/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>RAMONA OPTICS, INC.</Name>
+<CityName>Durham</CityName>
+<ZipCode>277012817</ZipCode>
+<PhoneNumber>6503210992</PhoneNumber>
+<StreetAddress>1007 BURCH AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NC04</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>MR4ZCJJQHHP5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>RAMONA OPTICS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[RAMONA OPTICS, INC.]]></Name>
+<CityName>Durham</CityName>
+<StateCode>NC</StateCode>
+<ZipCode>277015013</ZipCode>
+<StreetAddress><![CDATA[701 W. Main St., Suite 4144]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NC04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~256000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-f1849a75-7fff-2634-9fdb-9592cac709a0"> </span></p> <p dir="ltr"><strong>Project:</strong><span> </span><span>A parallelized microscope for high-speed, high-resolution imaging of organism behavior</span></p> <p dir="ltr"><strong>PI: </strong><span>Mark <span><span>Harfouche</span></span>, PhD</span></p> <p dir="ltr"><strong>Organization: </strong><span>Ramona Optics, Inc.</span></p> <p dir="ltr"><span>High-speed microscopes are used in a variety of research and industrial applications. Fields ranging from genetics to semiconductor inspection routinely use digital microscopes to produce new biomedical findings and ensure our capacity to fabricate computer chips, for example. Increasingly, automated high-throughput digital microscopes are being used to study in vivo model organisms to identify FDA approved drugs, provide fundamental insights into genetic disorders, and improve our understanding of viral infection, to name a few examples.&nbsp;</span></p> <p dir="ltr"><span>Despite the increasing importance of the digital microscope, there still exists a <span><span>tradeoff</span></span> between the resolution that can be achieved with a microscope, the area that can be inspected, and the speed at which video data can be recorded. This <span><span>tradeoff</span></span> space is constantly encountered when designing and executing imaging experiments and typically presents a bottleneck to many relevant experimental efforts.</span></p> <p dir="ltr"><span>In this project, we aimed to overcome these limitations by developing a high-speed micro-camera array microscope (<span><span>MCAM</span></span>)&nbsp;that is capable of recording at speeds of over 100 frames per second (fps) over an 8x12 cm field of view.</span></p> <p dir="ltr">&nbsp;These were some of our main outcomes:</p> <ul> <li dir="ltr"> <p dir="ltr"><span>We successfully created a high-speed <span><span>MCAM</span></span> that images over an 8x12 cm field of view and provides the ability to digitally select from a series of different resolution/frame rate combinations, ranging from 239 fps at 36 <span><span>micron</span></span> per pixel to 10 fps at 4.5 micron&nbsp;per pixel.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We achieved a max data rate of approximately 5 GB/sec with the new high-speed <span><span>MCAM</span></span>, making it possible to record up to 8 minutes&nbsp;of video at 123 fps and up to 17 minutes&nbsp;of video at 239 fps.</span></p> </li> </ul> <ul> <li dir="ltr"> <p dir="ltr"><span>We incorporated high-speed video acquisition controls into the <span><span>MCAM's</span></span> graphical user interface (GUI) with the ability to record both raw video and compressed video using .mp4 standards, which reduced datasets by 10X or more for most sequences.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We developed post-processing software that includes an easily adaptable organism tracking pipeline. The process begins with user-defined imaging parameters and then automatically progresses through video acquisition, well extraction, inference (to attain <span><span>cartesian</span></span> coordinates of 8 key points for every frame of video), data organization (yielding a <span><span>CSV</span></span> file for each well containing the locations and a confidence score for each key point inferred), data analysis (resulting in a labeled video consisting of either a box surrounding each organism or a <span><span>skeletonized</span></span> representation overlaid on each organism), and data presentation and visualization (which are tailored to the application involved and question being asked).</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We demonstrated this tracking functionality on several model organisms, including Drosophila, at multiple frame rates (40 fps, 123 fps and 239 fps) and applied it to over 10 seconds of video with average processing times of 0.5 seconds per frame.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>For each frame of video, we achieved a 1000X data reduction by performing 200x200 pixel "crops", in which organism pixels are removed from background pixels, resulting in 40 Kilobytes per crop versus 42 Megabytes per original frame.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span>We captured over 30 high-speed video recordings, each with up to 100 Drosophila during free movement, exploration and interaction, demonstrating the ability to record at resolution sufficient to capture key behavioral indicators, such as limb and wing movement, as well as other minute movements of the body and eye.</span></p> </li> <li dir="ltr"> <p dir="ltr"><span id="docs-internal-guid-85568cba-7fff-04b6-ca8b-9093b0ebd1b1"><span>We demonstrated the ability to simultaneously record 3D height maps of specimens of interest by using the MCAM's unique multi-lens architecture, which allows our system to acquire multi-perspective video, such that each point in the scene is captured from more than one micro-camera within the MCAM array. Using tools from photogrammetry to effectively compare the offset of scene key-points with the acquired image dataset, a multi-perspective video dataset can then be processed with software developed to produce a 3D height map for each acquired video frame.</span></span></p> </li> </ul> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 05/01/2022<br>      Modified by: Mark&nbsp;Harfouche</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   Project: A parallelized microscope for high-speed, high-resolution imaging of organism behavior PI: Mark Harfouche, PhD Organization: Ramona Optics, Inc. High-speed microscopes are used in a variety of research and industrial applications. Fields ranging from genetics to semiconductor inspection routinely use digital microscopes to produce new biomedical findings and ensure our capacity to fabricate computer chips, for example. Increasingly, automated high-throughput digital microscopes are being used to study in vivo model organisms to identify FDA approved drugs, provide fundamental insights into genetic disorders, and improve our understanding of viral infection, to name a few examples.  Despite the increasing importance of the digital microscope, there still exists a tradeoff between the resolution that can be achieved with a microscope, the area that can be inspected, and the speed at which video data can be recorded. This tradeoff space is constantly encountered when designing and executing imaging experiments and typically presents a bottleneck to many relevant experimental efforts. In this project, we aimed to overcome these limitations by developing a high-speed micro-camera array microscope (MCAM) that is capable of recording at speeds of over 100 frames per second (fps) over an 8x12 cm field of view.  These were some of our main outcomes:   We successfully created a high-speed MCAM that images over an 8x12 cm field of view and provides the ability to digitally select from a series of different resolution/frame rate combinations, ranging from 239 fps at 36 micron per pixel to 10 fps at 4.5 micron per pixel.   We achieved a max data rate of approximately 5 GB/sec with the new high-speed MCAM, making it possible to record up to 8 minutes of video at 123 fps and up to 17 minutes of video at 239 fps.     We incorporated high-speed video acquisition controls into the MCAM's graphical user interface (GUI) with the ability to record both raw video and compressed video using .mp4 standards, which reduced datasets by 10X or more for most sequences.   We developed post-processing software that includes an easily adaptable organism tracking pipeline. The process begins with user-defined imaging parameters and then automatically progresses through video acquisition, well extraction, inference (to attain cartesian coordinates of 8 key points for every frame of video), data organization (yielding a CSV file for each well containing the locations and a confidence score for each key point inferred), data analysis (resulting in a labeled video consisting of either a box surrounding each organism or a skeletonized representation overlaid on each organism), and data presentation and visualization (which are tailored to the application involved and question being asked).   We demonstrated this tracking functionality on several model organisms, including Drosophila, at multiple frame rates (40 fps, 123 fps and 239 fps) and applied it to over 10 seconds of video with average processing times of 0.5 seconds per frame.   For each frame of video, we achieved a 1000X data reduction by performing 200x200 pixel "crops", in which organism pixels are removed from background pixels, resulting in 40 Kilobytes per crop versus 42 Megabytes per original frame.   We captured over 30 high-speed video recordings, each with up to 100 Drosophila during free movement, exploration and interaction, demonstrating the ability to record at resolution sufficient to capture key behavioral indicators, such as limb and wing movement, as well as other minute movements of the body and eye.   We demonstrated the ability to simultaneously record 3D height maps of specimens of interest by using the MCAM's unique multi-lens architecture, which allows our system to acquire multi-perspective video, such that each point in the scene is captured from more than one micro-camera within the MCAM array. Using tools from photogrammetry to effectively compare the offset of scene key-points with the acquired image dataset, a multi-perspective video dataset can then be processed with software developed to produce a 3D height map for each acquired video frame.               Last Modified: 05/01/2022       Submitted by: Mark Harfouche]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

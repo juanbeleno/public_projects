@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SCC-CIVIC-PG Track B:  UNUM: Unification for Underground resilience Measures]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>01/15/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>49997.00</AwardTotalIntnAmount>
+<AwardAmount>49997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandip Roy</SignBlockName>
+<PO_EMAI>saroy@nsf.gov</PO_EMAI>
+<PO_PHON>7032920000</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Natural disasters are predicted to pose increasing threats to urban populations. Given community reliance on utility services and the interconnected and interoperable nature of utility services, infrastructure issues in one neighborhood may have direct and/or cascading effects in others (e.g. a transformer overload in one area may cripple services in distant neighborhoods). Improving natural hazard resilience requires full knowledge of subsurface usage and community interests in them to identify threats and vulnerabilities as well to design effective mitigation strategies. To directly address this challenge the Unification for Underground Resilience Measures (UNUM) project proposes examining subsurface data development, integration and interoperability options in ways envisioned after the 9/11 New York City (NYC) World Trade Center attack. Three-dimensional (3D) integration, viewing, and querying of subsurface data can enable improved risk identification, the implementation of cost-effective mitigation and redundancy measures, and enhanced communications with communities which currently have little access to infrastructure information. Such infrastructure information is typically held in proprietary systems, stored in separate silos, and likely to be in incompatible formats.  Overcoming current data integration barriers requires the design of seamless, interoperable, 3D data storage and visualization systems and a willingness to share data with appropriate security measures in place. UNUM will assemble all relevant stakeholders for the necessary data sharing agreements, security arrangements, and stakeholder concerns to enable a Stage 2 implementation for 2 NYC neighborhoods.&lt;br/&gt;&lt;br/&gt;UNUM embraces the Model for Underground Data Definition and Interchange (MUDDI) [an Open Geospatial Consortium (OGC) led data modeling effort for standardizing underground utility information]. In Stage 1, individual and group meetings and information gathering will take place with 31 unique stakeholders including government agencies, local utility companies, community groups, and political leaders.  UNUM focuses on two NYC neighborhoods:  Sunset Park, Brooklyn and the Grand Central Business Improvement District, Manhattan and is expected to generate data gathering, sharing, and application recommendations applicable across NYC and beyond. Stage 2 will implement Stage 1 recommendations through the MUDDI data model for the two neighborhoods. These community test beds will be used to refine an infrastructure data integration strategy that can be applied across multiple jurisdictions across the U.S. to help assess threats and vulnerabilities of vital infrastructure systems and to identify single points of failure and triggers to cascading effects. The project will provide effective models for multi-stakeholder engagement and a detailed roadmap for the implementation of a subsurface data model.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/06/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2043736</AwardID>
+<Investigator>
+<FirstName>Debra</FirstName>
+<LastName>Laefer</LastName>
+<PI_MID_INIT>F</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Debra F Laefer</PI_FULL_NAME>
+<EmailAddress><![CDATA[dfl256@nyu.edu]]></EmailAddress>
+<NSF_ID>000738365</NSF_ID>
+<StartDate>01/06/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rae</FirstName>
+<LastName>Zimmerman</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Rae Zimmerman</PI_FULL_NAME>
+<EmailAddress><![CDATA[rae.zimmerman@nyu.edu]]></EmailAddress>
+<NSF_ID>000159422</NSF_ID>
+<StartDate>01/06/2021</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQ S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NX9PXMKW5KW8</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>NEW YORK UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[New York University]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>100121019</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~49997</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>Underground infrastructure is of critical importance to the support of social and economic resilience. Less is known about underground infrastructure than above ground infrastructure necessitating ways to identify and share data, including visualization for direct users and the communities that rely upon them. To date holistic cooperation for data interoperability has not been achieved in the United States. Under this grant, critical preliminary steps were achieved in overcoming this roadblock to a prosperous and resilient nation. This was accomplished through multiple cycles of asset holder and community-based stakeholder engagement through which the team identified and co-created solutions that addressed a multiplicity of concerns related to data security, privacy, and commercially competiveness. To achieve this, UNUM Stage 1 was a full partnership between engineering and public policy faculty from New York University and 5 external stakeholders [1 from an international standards organization; 1 representing New York City government; 1 from a private company that advises urban asset management, and 2 from a local group of domain experts in geographic information systems (GISs) for subsurface utilities]. This interdisciplinary team brought together decades of experience in the direct management, assessment, and placement of subsurface assets and related issues including extensive firsthand involvement in the leadership of the post-911 attack recovery efforts of New York City?s geographic information system for subsurface assets.</p> <p>&nbsp;</p> <p>The UNUM team engaged and leveraged the expertise and support of multiple national and international organizations directly and indirectly concerned with resiliency and lifeline protection. This included the leadership of relevant divisions of the American Society of Civil Engineer?s and the Federal Highway administration. The team met and consulted with elected representatives at the neighborhood, district, county, city, and national levels to understand their concerns, needs, and aspirations for knowledge of and participation in the decisions related to the utilities that served their constituents, as well as multiple community groups in both Manhattan and Brooklyn. Extensive discussions were held with city-level emergency service organizations in the form of the New York Police Department, the Fire Department of New York, and New York City?s Office of Emergency Management. Based on all of these discussions, two study areas were selected to be emblematic of contrasting geologies, demographics, and economic characteristics of New York City ? Midtown East in Manhattan and Sunset Park in Brooklyn. The first is one of New York?s wealthiest areas populated predominantly by high-rise towers above-ground and major transit and trunk lines below ground ? all set within extremely strong bedrock. The latter is one of New York?s most socially vulnerable neighbors composed of densely-spaced, low-rise housing, light manufacturing, a major elevated highway, and critical coastal assets above ground. The neighborhood?s subsurface holds a mix of utilities where there is almost no redundancy, and loss would endanger not only this community but several others that lie further out. The geology there is highly problematic, as it is mostly glacial outwash and has already resulted in several sinkholes of epic proportion. Based on the selected sites, the UNUM team successfully hammered out data usage agreements with all major subsurface asset holders including two energy utilities, the relevant state-level transit agency, the city agency in charge of water and sewer, and the dominant telecom in the two study areas.</p> <p>&nbsp;</p> <p>Overall, during Stage 1, letters of collaboration were obtained from over 40 organizations with asset and/or stakeholder interest in one or both of the two study areas. In terms of intellectual merit, the project advanced knowledge and understanding of effective models for subsurface utilities and approaches to multi-stakeholder engagement to determine the potentially negative interactions of utility and subsurface systems under adverse conditions posed by a wide range of natural hazards. This work advanced efforts to improve the resilience of these underground utilities and overcoming barriers for data integration for subsurface areas. The work also had broader impacts in engaging stakeholders, identifying community needs and concerns, and developing data sharing approaches for subsurface data assembling information for two test beds. The envisioned data storage and sharing model is designed to be both scalable and transferable to other communities within NYC and elsewhere.</p> <p>&nbsp;</p> <p>&nbsp;</p><br> <p>            Last Modified: 10/29/2021<br>      Modified by: Debra&nbsp;F&nbsp;Laefer</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2021/2043736/2043736_10712554_1635512560349_midtownsite--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2043736/2043736_10712554_1635512560349_midtownsite--rgov-800width.jpg" title="Test bed site Midtown East, Manhattan"><img src="/por/images/Reports/POR/2021/2043736/2043736_10712554_1635512560349_midtownsite--rgov-66x44.jpg" alt="Test bed site Midtown East, Manhattan"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Midtown East, Manhattan Stage 2 test bed area shown in red west and south of Grand Central including MetroNorth, LIRR, and subway tunnels, as well as major trunk water, electrical, gas, steam, and telecom lines</div> <div class="imageCredit">Peter Gmelch</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Debra&nbsp;F&nbsp;Laefer</div> <div class="imageTitle">Test bed site Midtown East, Manhattan</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2043736/2043736_10712554_1635511916043_datastatus--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2043736/2043736_10712554_1635511916043_datastatus--rgov-800width.jpg" title="Snapshot of NYC utility storage"><img src="/por/images/Reports/POR/2021/2043736/2043736_10712554_1635511916043_datastatus--rgov-66x44.jpg" alt="Snapshot of NYC utility storage"></a> <div class="imageCaptionContainer"> <div class="imageCaption">2021 overview of data storage and sharing among major subsurface utility asset holder</div> <div class="imageCredit">Al Leidner and Wendy Dorf</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Debra&nbsp;F&nbsp;Laefer</div> <div class="imageTitle">Snapshot of NYC utility storage</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2043736/2043736_10712554_1635512095706_mapintake911--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2043736/2043736_10712554_1635512095706_mapintake911--rgov-800width.jpg" title="GIS recovery team after 911"><img src="/por/images/Reports/POR/2021/2043736/2043736_10712554_1635512095706_mapintake911--rgov-66x44.jpg" alt="GIS recovery team after 911"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Map intake center as part of the GIS recovery efforts after the 911 attack on the World Trade Center towers Fall 2001</div> <div class="imageCredit">Al Leidner and Wendy Dorf</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Debra&nbsp;F&nbsp;Laefer</div> <div class="imageTitle">GIS recovery team after 911</div> </div> </li> <li> <a href="/por/images/Reports/POR/2021/2043736/2043736_10712554_1635512347236_sspsite--rgov-214x142.jpg" original="/por/images/Reports/POR/2021/2043736/2043736_10712554_1635512347236_sspsite--rgov-800width.jpg" title="Test bed site Sunset Park"><img src="/por/images/Reports/POR/2021/2043736/2043736_10712554_1635512347236_sspsite--rgov-66x44.jpg" alt="Test bed site Sunset Park"></a> <div class="imageCaptionContainer"> <div class="imageCaption">Sunset Park, Brooklyn Stage 2 test bed area shown in red spanning from the water through the business improvement district and below the Gowanus Expressway</div> <div class="imageCredit">Peter Gmelch</div> <div class="imagePermisssions">Creative Commons</div> <div class="imageSubmitted">Debra&nbsp;F&nbsp;Laefer</div> <div class="imageTitle">Test bed site Sunset Park</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ Underground infrastructure is of critical importance to the support of social and economic resilience. Less is known about underground infrastructure than above ground infrastructure necessitating ways to identify and share data, including visualization for direct users and the communities that rely upon them. To date holistic cooperation for data interoperability has not been achieved in the United States. Under this grant, critical preliminary steps were achieved in overcoming this roadblock to a prosperous and resilient nation. This was accomplished through multiple cycles of asset holder and community-based stakeholder engagement through which the team identified and co-created solutions that addressed a multiplicity of concerns related to data security, privacy, and commercially competiveness. To achieve this, UNUM Stage 1 was a full partnership between engineering and public policy faculty from New York University and 5 external stakeholders [1 from an international standards organization; 1 representing New York City government; 1 from a private company that advises urban asset management, and 2 from a local group of domain experts in geographic information systems (GISs) for subsurface utilities]. This interdisciplinary team brought together decades of experience in the direct management, assessment, and placement of subsurface assets and related issues including extensive firsthand involvement in the leadership of the post-911 attack recovery efforts of New York City?s geographic information system for subsurface assets.     The UNUM team engaged and leveraged the expertise and support of multiple national and international organizations directly and indirectly concerned with resiliency and lifeline protection. This included the leadership of relevant divisions of the American Society of Civil Engineer?s and the Federal Highway administration. The team met and consulted with elected representatives at the neighborhood, district, county, city, and national levels to understand their concerns, needs, and aspirations for knowledge of and participation in the decisions related to the utilities that served their constituents, as well as multiple community groups in both Manhattan and Brooklyn. Extensive discussions were held with city-level emergency service organizations in the form of the New York Police Department, the Fire Department of New York, and New York City?s Office of Emergency Management. Based on all of these discussions, two study areas were selected to be emblematic of contrasting geologies, demographics, and economic characteristics of New York City ? Midtown East in Manhattan and Sunset Park in Brooklyn. The first is one of New York?s wealthiest areas populated predominantly by high-rise towers above-ground and major transit and trunk lines below ground ? all set within extremely strong bedrock. The latter is one of New York?s most socially vulnerable neighbors composed of densely-spaced, low-rise housing, light manufacturing, a major elevated highway, and critical coastal assets above ground. The neighborhood?s subsurface holds a mix of utilities where there is almost no redundancy, and loss would endanger not only this community but several others that lie further out. The geology there is highly problematic, as it is mostly glacial outwash and has already resulted in several sinkholes of epic proportion. Based on the selected sites, the UNUM team successfully hammered out data usage agreements with all major subsurface asset holders including two energy utilities, the relevant state-level transit agency, the city agency in charge of water and sewer, and the dominant telecom in the two study areas.     Overall, during Stage 1, letters of collaboration were obtained from over 40 organizations with asset and/or stakeholder interest in one or both of the two study areas. In terms of intellectual merit, the project advanced knowledge and understanding of effective models for subsurface utilities and approaches to multi-stakeholder engagement to determine the potentially negative interactions of utility and subsurface systems under adverse conditions posed by a wide range of natural hazards. This work advanced efforts to improve the resilience of these underground utilities and overcoming barriers for data integration for subsurface areas. The work also had broader impacts in engaging stakeholders, identifying community needs and concerns, and developing data sharing approaches for subsurface data assembling information for two test beds. The envisioned data storage and sharing model is designed to be both scalable and transferable to other communities within NYC and elsewhere.             Last Modified: 10/29/2021       Submitted by: Debra F Laefer]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

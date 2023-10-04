@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[RAPID: ENSURING INTEGRITY OF COVID-19 DATA AND NEWS ACROSS REGIONS]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>199748.00</AwardTotalIntnAmount>
+<AwardAmount>199748</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+<PO_EMAI>sspengle@nsf.gov</PO_EMAI>
+<PO_PHON>7032927347</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Large amounts of epidemiological data are being generated and collected from a variety of sources to understand the impact and propagation of COVID-19. Similarly, huge amounts of news articles are generated and disseminated about the pandemic to keep the population informed. The appropriateness of the actions taken by individuals, corporations, and governments are often based on the quality of data and news. Thus, ensuring the quality of data and news is important. However, malicious actors can alter the attributes of data records, insert spurious records, or suppress records causing any analysis to be inadequate and misinformation to be propagated. This project addresses the critical problem of defining and identifying spurious data and news concerning COVID-19, and tracking the source of misinformation. The project novelty lies in the development of an approach and associated toolset that adapts and combines Machine Learning technologies to detect spurious data and misinformation and presents the results in a manner that is easy for end users to understand and interpret. The approach detects discrepancies in COVID-19 data and traces the flagged discrepancies back to the data sources. The results obtained from the news sources and those obtained from the medical data analysis are compared to determine correlations between the quality of news and the degree and type of data manipulation performed at any region. The project’s impacts are on significantly enhancing the ability to perform accurate scientific analysis, and detecting and explaining news manipulation with respect to COVID-19. The scientific principles developed in the project are expected to be useful outside the medical domain. The PI and the students identified for this project are minorities. The project will be carried out in the Computer Science Department at Colorado State University which is a BRAID affiliate.&lt;br/&gt;&lt;br/&gt;COVID-19 data discrepancies are related to (1) single records, where some field is modified, (2) sequence of records over time forming a temporal dimension, where spurious records have been inserted or records have been suppressed, and (3) sequences of records across regions forming a spatial dimension, where there is a pattern of manipulation or information disclosure across regions. The approach determines the appropriate combination of autoencoders, Long Short-Term Memory (LSTM), Temporal Convolution Network (TCNs), and Convolution Neural Networks (CNNs) that can work with data obtained from medical sources and news containing both spatial and temporal dimensions. The tools help the investigators’ collaborators at the University of Colorado Anschutz Medical Center and Center for Disease Control and Prevention to perform data integrity checking of medical records and to provide explanations of integrity violations. The tools also handle different types of data and news alterations pertaining to COVID-19.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>04/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027750</AwardID>
+<Investigator>
+<FirstName>Sudipto</FirstName>
+<LastName>Ghosh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sudipto Ghosh</PI_FULL_NAME>
+<EmailAddress><![CDATA[ghosh@cs.colostate.edu]]></EmailAddress>
+<NSF_ID>000392748</NSF_ID>
+<StartDate>04/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Indrakshi</FirstName>
+<LastName>Ray</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Indrakshi Ray</PI_FULL_NAME>
+<EmailAddress><![CDATA[iray@cs.colostate.edu]]></EmailAddress>
+<NSF_ID>000484109</NSF_ID>
+<StartDate>04/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>FORT COLLINS</CityName>
+<ZipCode>805212807</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S HOWES ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CO02</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>LT9CXX8L19G1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>COLORADO STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Colorado State University]]></Name>
+<CityName>Fort Collins</CityName>
+<StateCode>CO</StateCode>
+<ZipCode>805214593</ZipCode>
+<StreetAddress><![CDATA[200 W Lake St]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CO02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8225</Code>
+<Text>SaTC Special Projects</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>010N2021DB</Code>
+<Name><![CDATA[R&RA CARES Act DEFC N]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~199748</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><dd> <div class="tinyMCEContent"> <p>&nbsp;</p> <p>Modern day society relies a lot on data analytics. The results of the analysis depend on the quality of input data. Huge volumes of input data are generated by various heterogeneous sources which are transformed and stored in data warehouses. This transformation process is non-trivial and error-prone. Such errors reduce the quality of the data. Towards this end, our goal was to demonstrate how to find anomalies in large volumes of data and demonstrate the anomalies to the domain-user.&nbsp;</p> <p>We proposed an LSTM-autoencoder based approach for data quality testing of sequential Covid-19 records, which provides explanations of constraint violations in a manner that is understandable to end-users. This entailed the development of new data preparation techniques for use by the LSTM-autoencoder. For big volumes of data, the number of anomalies generated may be high. Moreover, the domain experts also need to know the nature of the anomalies. Towards this end, we developed data visualization plots for anomaly explanation. &nbsp;Our approach was evaluated against various Covid-19 datasets. We were able to detect anomalous subsequence in Covid-19 Tracking data set in the number of deaths reported in the New York state using our algorithms. We were also able to detect ten abnormal subsequences in the University Colorado Anschutz Medical Covid-19 Datasets.&nbsp;</p> <p>Misinformation also plays a critical role in modern day democracy. Social media is responsible for spreading much of this misinformation. We focused on Twitter data. Tweets have a limit on their length and may use emojis. Consequently, the language structure is different from that found in written forms. Our goal was to detect and thwart the spread of misinformation in Twitter data before it can get propagated.</p> <p>We collected a very large volume of Twitter data. We stored them and manually annotated them for various research tasks. We developed a tool that facilitates the labeling process. The tool allows multiple annotators to label Tweets. Whenever there is a discrepancy in the labels of a Tweet, the Tweet gets automatically sent for labeling to an independent annotator.&nbsp;</p> <p>We developed an approach to identify whether the information in a Tweet is indeed supported by the cited&nbsp;news article. Our approach is empirically based on a corpus of over 46.86 million Tweets and is divided into&nbsp;two tasks: (i) development of models to detect Tweets containing claim and worth to be fact-checked and (ii)&nbsp;verifying whether the claims made in a Tweet are supported by the newswire article it cites. When a claim does not support the cited news article, it serves to mislead readers and is a source of misinformation. We were able to detect such misinformation even before it starts spreading.&nbsp;We discover that&nbsp;nearly half of the Tweets (43.4%) are not factual and hence not worth checking -- a significant filter, given the&nbsp;sheer volume of social media posts on a platform such as Twitter. Moreover, we find that among the Tweets&nbsp;that contain a seemingly factual claim while citing a news article as supporting evidence, at least 1% are not&nbsp;actually supported by the cited news, and are hence misleading.</p> <p>Social media bots also serve to propagate misinformation. We employ an end-to-end neural network architecture for deep fake text detection on Twitter dataset. Our experiments achieve the state of the art performance and improve the classification accuracy by 2% compared to previously tested models. Moreover, our content-level approach can be used for fake posts detection in social media in real-time.&nbsp;</p> </div> </dd><dd> <div class="tinyMCEContent"> <p>In addition to the research contributions, this project also involved training students. All levels of students were involved in this project, ranging from undergraduate freshmen to post-doc. Undergraduate freshmen were involved with labeling Twitter data. More senior level undergraduate students were involved in developing databases and executing machine learning algorithms. 11 undergraduate students were involved, which included five minorities. The two M.S. students worked mostly on the misinformation detection projects, one of whom was a woman. Three Ph.D.s were involved as well. One focused on data quality and the other two helped on the social media project. &nbsp;Two of these Ph.D.s were women. One of the Ph.D.s subsequently worked as a post-doc. Junior faculty at another institution was involved. The students learned to work in a group setting and also got to work with faculty and students at other institutions.&nbsp;</p> <p>Many of these undergraduates are now participating in research in other projects. The two undergraduates who have completed have joined Amazon and Raytheon. The M.S. graduate students are now pursuing their Ph.D.s at a higher ranked university. The Ph.D.s and post-docs all have tenure-track faculty positions.&nbsp;</p> </div> </dd><br> <p>            Last Modified: 08/27/2022<br>      Modified by: Indrakshi&nbsp;Ray</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[      Modern day society relies a lot on data analytics. The results of the analysis depend on the quality of input data. Huge volumes of input data are generated by various heterogeneous sources which are transformed and stored in data warehouses. This transformation process is non-trivial and error-prone. Such errors reduce the quality of the data. Towards this end, our goal was to demonstrate how to find anomalies in large volumes of data and demonstrate the anomalies to the domain-user.   We proposed an LSTM-autoencoder based approach for data quality testing of sequential Covid-19 records, which provides explanations of constraint violations in a manner that is understandable to end-users. This entailed the development of new data preparation techniques for use by the LSTM-autoencoder. For big volumes of data, the number of anomalies generated may be high. Moreover, the domain experts also need to know the nature of the anomalies. Towards this end, we developed data visualization plots for anomaly explanation.  Our approach was evaluated against various Covid-19 datasets. We were able to detect anomalous subsequence in Covid-19 Tracking data set in the number of deaths reported in the New York state using our algorithms. We were also able to detect ten abnormal subsequences in the University Colorado Anschutz Medical Covid-19 Datasets.   Misinformation also plays a critical role in modern day democracy. Social media is responsible for spreading much of this misinformation. We focused on Twitter data. Tweets have a limit on their length and may use emojis. Consequently, the language structure is different from that found in written forms. Our goal was to detect and thwart the spread of misinformation in Twitter data before it can get propagated.  We collected a very large volume of Twitter data. We stored them and manually annotated them for various research tasks. We developed a tool that facilitates the labeling process. The tool allows multiple annotators to label Tweets. Whenever there is a discrepancy in the labels of a Tweet, the Tweet gets automatically sent for labeling to an independent annotator.   We developed an approach to identify whether the information in a Tweet is indeed supported by the cited news article. Our approach is empirically based on a corpus of over 46.86 million Tweets and is divided into two tasks: (i) development of models to detect Tweets containing claim and worth to be fact-checked and (ii) verifying whether the claims made in a Tweet are supported by the newswire article it cites. When a claim does not support the cited news article, it serves to mislead readers and is a source of misinformation. We were able to detect such misinformation even before it starts spreading. We discover that nearly half of the Tweets (43.4%) are not factual and hence not worth checking -- a significant filter, given the sheer volume of social media posts on a platform such as Twitter. Moreover, we find that among the Tweets that contain a seemingly factual claim while citing a news article as supporting evidence, at least 1% are not actually supported by the cited news, and are hence misleading.  Social media bots also serve to propagate misinformation. We employ an end-to-end neural network architecture for deep fake text detection on Twitter dataset. Our experiments achieve the state of the art performance and improve the classification accuracy by 2% compared to previously tested models. Moreover, our content-level approach can be used for fake posts detection in social media in real-time.      In addition to the research contributions, this project also involved training students. All levels of students were involved in this project, ranging from undergraduate freshmen to post-doc. Undergraduate freshmen were involved with labeling Twitter data. More senior level undergraduate students were involved in developing databases and executing machine learning algorithms. 11 undergraduate students were involved, which included five minorities. The two M.S. students worked mostly on the misinformation detection projects, one of whom was a woman. Three Ph.D.s were involved as well. One focused on data quality and the other two helped on the social media project.  Two of these Ph.D.s were women. One of the Ph.D.s subsequently worked as a post-doc. Junior faculty at another institution was involved. The students learned to work in a group setting and also got to work with faculty and students at other institutions.   Many of these undergraduates are now participating in research in other projects. The two undergraduates who have completed have joined Amazon and Raytheon. The M.S. graduate students are now pursuing their Ph.D.s at a higher ranked university. The Ph.D.s and post-docs all have tenure-track faculty positions.          Last Modified: 08/27/2022       Submitted by: Indrakshi Ray]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

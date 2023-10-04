@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Quantifying Chaos, Correlations, and Oscillations in Multi-Agent Systems and Advection Equations]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/16/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>305922.00</AwardTotalIntnAmount>
+<AwardAmount>305922</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+<PO_EMAI>pembid@nsf.gov</PO_EMAI>
+<PO_PHON>7032924859</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The project studies transport and advection equations with applications in the Biosciences, Statistical Physics and Fluid Mechanics. A first guiding example for the research includes large systems of interacting "agents" or "particles" that have long been employed in Physics: in Astrophysics to predict the evolution in time of galaxies or galaxy clusters to try to understand how they are formed, in plasmas to describe the dynamics of ions and electrons in plasmas, to model the behavior of air bubbles in water or other small objects in a fluid.  In addition, such large systems are now widely used in Biology to model the motion of micro-organisms ("particles" can then be cells in the human body), in Finance and Economics, and other Social Sciences. A second guiding set of examples is composed of various fluid models (liquid or gas) which can exhibit complex compressive effects commonly found in geophysical (oceans or atmosphere) or biological settings. The project aims at deriving and validating effective models: By reducing the complexity of large systems of agents/particles through the so-called mean-field limit, or by controlling the behavior of effective state laws in Fluid Mechanics that are a priori unstable.&lt;br/&gt;&lt;br/&gt;The models investigated in this research all employ transport equations: non-linear convection systems in low dimension for compressible fluids,  the linear Liouville equation in very large dimension for simple multi-agent systems but more also more complex non-linear equations (such as Hamilton-Jacobi-Bellman) for systems with control. The project focuses in particular on systems that are unstable or singular and are expected to create or amplify correlations and oscillations. A key unifying question in the research is to identify the critical scale in the models to quantify how those correlations or oscillations may develop. For large systems of particles, the project makes use of explicit estimates involving the rescaled relative entropy, renormalized to include the comparisons between the Gibbs equilibria. For convective models, the project introduces new semi-norms which precisely track the possible oscillations in the density at the critical log or log log scales.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>08/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2049020</AwardID>
+<Investigator>
+<FirstName>Pierre-Emmanuel</FirstName>
+<LastName>Jabin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pierre-Emmanuel Jabin</PI_FULL_NAME>
+<EmailAddress><![CDATA[pejabin@psu.edu]]></EmailAddress>
+<NSF_ID>000606980</NSF_ID>
+<StartDate>08/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168021503</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>201 OLD MAIN</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA15</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>NPM2J7MSCF61</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>THE PENNSYLVANIA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Pennsylvania State Univ University Park]]></Name>
+<CityName>UNIVERSITY PARK</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>168021503</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>15</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA15</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01001920DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2019~305922</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p>&nbsp;</p> <div> <div><span>The project developped new fundamental mathematical tools to better understand instabilities in advection and transport mechanisms. Among several applications in Physics and Bio-physics, the sponsored research has had a strong impact on:</span></div> <br /> <div><span>-Multi-agent systems representing the dynamics of particles and agents. Those includes classical important examples such as classical models of charges particles (ions and electrons) in a plasma or models of micro-organisms reacting to chemical signals (so-called chemotaxis models). A key question is whether it is possible to find accurate approximations, for example through continuous equations, of the statistical behavior of the system when considering a large number of particles (up to 10^25 in plasmas for instance); this issue is connected to the classical notion of mean-field limit. </span></div> <br /> <div><span>-The compressible Navier-Stokes models in Fluid Mechanics, which encompasses a wide range of diverse but realistic settings, such as geophysical flows, where temperature dependence in the pressure law is critical. Applications include a better understanding of discretized equations to develop quantitative regularity estimates for the convergence of numerical schemes.</span></div> <br /> <div><span>In particular, the following innovative methods solved important conjectures </span></div> <br /> <div><span>-We introduced a new concept of weighted relative entropy based on the free energy of many-particle system. This allowed the derivation of continuous mean-field limits for a broad range of gradient-flow interactions. For example, this method provided the first ever derivation of the famous Keller-Segel system of chemotaxis.</span></div> <br /> <div><span>-We developed new but straightforward estimates on the some statistical information (the so-called marginals) on multi-agent systems with diffusion. Those estimates does not require any regularity from the interaction and apply to a broad set of initial data without requiring that the positions of each particle are independent. This has lead to the first ever derivation of the so-called Vlasov-Fokker-Planck system, which is one of the best known model for plasmas.</span></div> <br /> <div><span>-The project introduced a new concept of virtual coordinates on a numerical grid. Those virtual coordinates solve a precise relation that characterize some of the structure of the grid and how it may produce oscillations when used to discretize transport equations. It is again the first result that applies to non-smooth velocity field and non-cartesian meshes. </span></div> <br /> <div><span>The project broader impacts have focused on graduate and post-graduate education. The project has been quite successful at including several young researchers at various stages, including undergraduates through honors projects.</span></div> <div><span>The sponsored research finally contributed to community building: by supporting and encouraging students' participation in international conferences and workshops, and outreach activities with a particular focus again on young investigators.</span></div> </div> <p>&nbsp;</p><br> <p>            Last Modified: 08/23/2023<br>      Modified by: Pierre-Emmanuel&nbsp;Jabin</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[    The project developped new fundamental mathematical tools to better understand instabilities in advection and transport mechanisms. Among several applications in Physics and Bio-physics, the sponsored research has had a strong impact on:   -Multi-agent systems representing the dynamics of particles and agents. Those includes classical important examples such as classical models of charges particles (ions and electrons) in a plasma or models of micro-organisms reacting to chemical signals (so-called chemotaxis models). A key question is whether it is possible to find accurate approximations, for example through continuous equations, of the statistical behavior of the system when considering a large number of particles (up to 10^25 in plasmas for instance); this issue is connected to the classical notion of mean-field limit.    -The compressible Navier-Stokes models in Fluid Mechanics, which encompasses a wide range of diverse but realistic settings, such as geophysical flows, where temperature dependence in the pressure law is critical. Applications include a better understanding of discretized equations to develop quantitative regularity estimates for the convergence of numerical schemes.   In particular, the following innovative methods solved important conjectures    -We introduced a new concept of weighted relative entropy based on the free energy of many-particle system. This allowed the derivation of continuous mean-field limits for a broad range of gradient-flow interactions. For example, this method provided the first ever derivation of the famous Keller-Segel system of chemotaxis.   -We developed new but straightforward estimates on the some statistical information (the so-called marginals) on multi-agent systems with diffusion. Those estimates does not require any regularity from the interaction and apply to a broad set of initial data without requiring that the positions of each particle are independent. This has lead to the first ever derivation of the so-called Vlasov-Fokker-Planck system, which is one of the best known model for plasmas.   -The project introduced a new concept of virtual coordinates on a numerical grid. Those virtual coordinates solve a precise relation that characterize some of the structure of the grid and how it may produce oscillations when used to discretize transport equations. It is again the first result that applies to non-smooth velocity field and non-cartesian meshes.    The project broader impacts have focused on graduate and post-graduate education. The project has been quite successful at including several young researchers at various stages, including undergraduates through honors projects. The sponsored research finally contributed to community building: by supporting and encouraging students' participation in international conferences and workshops, and outreach activities with a particular focus again on young investigators.           Last Modified: 08/23/2023       Submitted by: Pierre-Emmanuel Jabin]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[SBIR Phase I:  Identifying and Countering Misinformation on Closed Messaging Platforms (COVID-19)]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>255997.00</AwardTotalIntnAmount>
+<AwardAmount>255997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact of this Small Business Innovation Research (SBIR) Phase I project will be to advance the state-of-the-art for detecting, prioritizing, and responding to misinformation online. As more platforms are moving to end-to-end encryption, it is critical that new tools and algorithms are developed to respond to misinformation on these platforms. Encryption on platforms such as WhatsApp, Viber, LINE, Telegram, and Signal protects the communications of millions of Americans but also potentially allows rumors, misinformation, disinformation, and other threats to spread. This project builds ‘misinformation tiplines’: online accounts that allow users to check potential misinformation with leading fact-checking organizations. The proposed algorithms will allow Americans to check potential misinformation with fact-checking organizations allowing them to identify dangerous—and for health misinformation sometimes life-threatening—misinformation online. The project empowers users of online communication platforms and improves their safety while maintaining the benefits of end-to-end encryption.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will overcome key challenges in order to allow tiplines to scale efficiently to millions of users. Tiplines require a thoughtful combination of artificial intelligence and human knowledge. The same misleading claims are often repeated and restated in many different ways online. In order for tiplines to scale, it is necessary to identify the claims being made in messages submitted to tiplines and match them against the extensive library of existing fact-checks. Claims can be in the form of text, image, video, or audio messages and expressed in many different human languages. In this project the company is building the algorithms needed to match these claims across languages and across formats. The results break new ground in natural language processing, computer vision, and machine learning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>06/30/2021</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2052335</AwardID>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Bice</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Edward Bice</PI_FULL_NAME>
+<EmailAddress><![CDATA[ed@meedan.com]]></EmailAddress>
+<NSF_ID>000836360</NSF_ID>
+<StartDate>06/30/2021</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Meedan Labs</Name>
+<CityName>SAN FRANCISCO</CityName>
+<ZipCode>941055818</ZipCode>
+<PhoneNumber>4154972900</PhoneNumber>
+<StreetAddress>575 MARKET ST FL 4</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA11</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>FVWZAXTPLLG1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MEEDAN LABS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Meedan Labs]]></Name>
+<CityName>San Francisco</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>941031337</ZipCode>
+<StreetAddress><![CDATA[1355 Market Street, Suite 488]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>11</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA11</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002122DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2021~255997</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span id="docs-internal-guid-ec2f4b3d-7fff-3357-2099-573651ebaf2b"> </span></p> <p dir="ltr"><span>We seek a world in which all people regardless of their languages, locations, and incomes have the ability to effectively locate the most relevant and pertinent information, evaluate the quality of that information, and make the decisions they want. In this grant, we developed </span><span>tiplines</span><span>. These are accounts on social media or messaging apps operated by journalists and community organizations. The general public can send dubious content to a tipline and discover additional context such as explainers, fact-checks, and other resources. We offer tiplines through Check (</span><a href="https://meedan.com/check"><span>https://meedan.com/check</span></a><span>), our Software-as-a-Service product for organizations to discover, triage, and respond to rumors and other problematic content targeting their audiences.</span></p> <p dir="ltr"><span>We defined several new problems for the field. These include variations of claim matching (e.g., claim to claim matching, claim to fact-check matching, and claim to explainer matching), claim categorization, and claim prioritization. We've advanced the state-of-the-art for these tasks---particularly in multilingual and low-resource language settings. The algorithms we developed and implemented allow us to more accurately group relevant content together and serve better results for users of tiplines. In addition, the algorithms allow the same claim to be identified across multiple platforms and languages enabling research to better understand the true prevalence of a claim and how information spreads across platforms.&nbsp;</span></p> <p dir="ltr"><span>We developed a knowledge base of pre-emptive explainers (</span><a href="https://health-desk.org/"><span>https://health-desk.org/</span></a><span>) that received millions of views and assisted journalists across the globe. The explainers were created in a demand-led manner in response to questions from journalists.</span></p> <p dir="ltr"><span>Minority and minoritized communities are often underserved by current misinformation and contextualization efforts due to the variety of languages involved, use of alternative platforms, and limited understanding of the diverse social issues affecting many different ethnic groups. We focused our efforts on developing algorithms that work across multiple languages and partnered with local community media outlets, including public broadcasters and ethnic media, when developing the knowledge base of pre-emptive explainers.</span></p><br> <p>            Last Modified: 12/30/2022<br>      Modified by: Edward&nbsp;Bice</p> </div> <div class="porSideCol"> <div class="each-gallery"> <div class="galContent" id="gallery0"> <div class="photoCount" id="photoCount0">          Images (<span id="selectedPhoto0">1</span> of <span class="totalNumber"></span>)           </div> <div class="galControls" id="controls0"></div> <div class="galSlideshow" id="slideshow0"></div> <div class="galEmbox" id="embox"> <div class="image-title"></div> </div> </div> <div class="galNavigation" id="navigation0"> <ul class="thumbs" id="thumbs0"> <li> <a href="/por/images/Reports/POR/2022/2052335/2052335_10744143_1672372216589_tipline_demo--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052335/2052335_10744143_1672372216589_tipline_demo--rgov-800width.jpg" title="screen capture of a demo tipline"><img src="/por/images/Reports/POR/2022/2052335/2052335_10744143_1672372216589_tipline_demo--rgov-66x44.jpg" alt="screen capture of a demo tipline"></a> <div class="imageCaptionContainer"> <div class="imageCaption">A false claim being sent to a demo tipline on WhatsApp (left). Our similarity algorithms search existing fact-checks and other misinformation interventions to identify the most relevant results to return to the user (right).</div> <div class="imageCredit">Meedan</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Edward&nbsp;Bice</div> <div class="imageTitle">screen capture of a demo tipline</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2052335/2052335_10744143_1672372322068_check_workflow--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052335/2052335_10744143_1672372322068_check_workflow--rgov-800width.jpg" title="Diagram of our software workflow"><img src="/por/images/Reports/POR/2022/2052335/2052335_10744143_1672372322068_check_workflow--rgov-66x44.jpg" alt="Diagram of our software workflow"></a> <div class="imageCaptionContainer"> <div class="imageCaption">An overview of how our software-as-a-service product, Check, allows fact-checking organizations to serve audiences on messaging apps, discover new content, and respond at scale.</div> <div class="imageCredit">Meedan</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Edward&nbsp;Bice</div> <div class="imageTitle">Diagram of our software workflow</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2052335/2052335_10744143_1672373136429_suggested_match--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052335/2052335_10744143_1672373136429_suggested_match--rgov-800width.jpg" title="Screen capture of a suggested match in Check"><img src="/por/images/Reports/POR/2022/2052335/2052335_10744143_1672373136429_suggested_match--rgov-66x44.jpg" alt="Screen capture of a suggested match in Check"></a> <div class="imageCaptionContainer"> <div class="imageCaption">An example of a suggested match in Check. The responses to these prompts by organizations using our software provide data to monitor and improve our algorithms.</div> <div class="imageCredit">Meedan</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Edward&nbsp;Bice</div> <div class="imageTitle">Screen capture of a suggested match in Check</div> </div> </li> <li> <a href="/por/images/Reports/POR/2022/2052335/2052335_10744143_1672373194723_health_desk_integration--rgov-214x142.jpg" original="/por/images/Reports/POR/2022/2052335/2052335_10744143_1672373194723_health_desk_integration--rgov-800width.jpg" title="Screen capture of our Health Desk software integration"><img src="/por/images/Reports/POR/2022/2052335/2052335_10744143_1672373194723_health_desk_integration--rgov-66x44.jpg" alt="Screen capture of our Health Desk software integration"></a> <div class="imageCaptionContainer"> <div class="imageCaption">An example of the Health Desk integration for our fact-checking software Check. The false claim, "COVID-19 vaccines alter human genomes" has been matched with a Health Desk explainer entitled, "COVID-19 vaccines do not alter human DNA."</div> <div class="imageCredit">Meedan</div> <div class="imagePermisssions">Copyrighted</div> <div class="imageSubmitted">Edward&nbsp;Bice</div> <div class="imageTitle">Screen capture of our Health Desk software integration</div> </div> </li> </ul> </div> </div> </div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[   We seek a world in which all people regardless of their languages, locations, and incomes have the ability to effectively locate the most relevant and pertinent information, evaluate the quality of that information, and make the decisions they want. In this grant, we developed tiplines. These are accounts on social media or messaging apps operated by journalists and community organizations. The general public can send dubious content to a tipline and discover additional context such as explainers, fact-checks, and other resources. We offer tiplines through Check (https://meedan.com/check), our Software-as-a-Service product for organizations to discover, triage, and respond to rumors and other problematic content targeting their audiences. We defined several new problems for the field. These include variations of claim matching (e.g., claim to claim matching, claim to fact-check matching, and claim to explainer matching), claim categorization, and claim prioritization. We've advanced the state-of-the-art for these tasks---particularly in multilingual and low-resource language settings. The algorithms we developed and implemented allow us to more accurately group relevant content together and serve better results for users of tiplines. In addition, the algorithms allow the same claim to be identified across multiple platforms and languages enabling research to better understand the true prevalence of a claim and how information spreads across platforms.  We developed a knowledge base of pre-emptive explainers (https://health-desk.org/) that received millions of views and assisted journalists across the globe. The explainers were created in a demand-led manner in response to questions from journalists. Minority and minoritized communities are often underserved by current misinformation and contextualization efforts due to the variety of languages involved, use of alternative platforms, and limited understanding of the diverse social issues affecting many different ethnic groups. We focused our efforts on developing algorithms that work across multiple languages and partnered with local community media outlets, including public broadcasters and ethnic media, when developing the knowledge base of pre-emptive explainers.       Last Modified: 12/30/2022       Submitted by: Edward Bice]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

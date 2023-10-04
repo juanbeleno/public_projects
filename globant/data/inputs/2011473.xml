@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[I-Corps Teams: IoT Sensor Networks Detecting User Behavior in Architectural Space]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>15030000</Code>
+<Directorate>
+<Abbreviation>TIP</Abbreviation>
+<LongName>Dir for Tech, Innovation, &amp; Partnerships</LongName>
+</Directorate>
+<Division>
+<Abbreviation>TI</Abbreviation>
+<LongName>Translational Impacts</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[The broader impact/commercial potential of this I-Corps project is the development of a cost-effective solution to detect user behavior in architectural space without violating the user’s privacy. This technology uses passive infrared (PIR) sensors to collect lightweight data and identify user behavior, which is traditionally done by camera and image recognition at higher processing power and cost. One possible application includes optimizing mall market targeting and revenue growth by generating traffic flow and headcount analytics. This technology also may help commercial properties and hotels to understand their customers’ needs better and create cross-sale opportunities through features including individual behavior path predicting, crowd behavior prediction, population forecasts, and specific behavioral analytics, like queue management and purchase-tracking habits. Another possible application is in automating rental property management for homeowners by remotely coordinating check-in and check-out procedures, monitoring cleaning results, and diminishing the likelihood of unpermitted parties, fire, flood, or theft.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of a novel neural network system that can classify low pixel thermal data into the number of users and type of user posture. With non-fragmented thermal data in architectural space, the proposed method is capable of matching user behavior with hassle-free automation. Using 64 thermal data points from a single PIR sensor, the system can real-time classify the dataset into occupancy numbers at a 95% accuracy rate and possible postures in under 800ms. With more sensors in the network, the system can identify specific user behavior and indoor location. These behavior data are the key to achieve frustration-free automation in smart living and working spaces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>01/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>01/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2011473</AwardID>
+<Investigator>
+<FirstName>Roman</FirstName>
+<LastName>Lubynsky</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Roman Lubynsky</PI_FULL_NAME>
+<EmailAddress><![CDATA[rml@mit.edu]]></EmailAddress>
+<NSF_ID>000648609</NSF_ID>
+<StartDate>01/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>E2NYLCDML6V1</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM>E2NYLCDML6V1</ORG_PRNT_UEI_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Massachusetts Institute of Technology]]></Name>
+<CityName>Cambridge</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021394307</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+<POR>
+<DRECONTENT><![CDATA[<div class="porColContainerWBG"> <div class="porContentCol"><p><span>This I-Corps project explored the commercialization potential of an emerging technology.&nbsp;</span>The team (IoT Sensor Networks Detecting User Behavior in Architectural Space) successfully translated academic research in IoT and Smart City into commercial applications that solve a problem for Corporate Real-Estate and Senior Care Industries. To date, the team has conducted over 500 customer interviews to explore the application of their technology --- human presence and activity recognitions using thermal data gathered by IoT sensors. Specifically, identify customer segments, discovering several pivots necessary to target these segments, and identifying a value proposition for these customer segments.</p> <p>The team has developed and patented the technology that uses body heat to detect human presence and activity, with installation in minutes and the lowest cost of ownership. The sensors install in minutes and are at least an order of magnitude lower in cost than other systems while being accurate, real-time and having a long battery life. In addition, unlike legacy technologies, this product gets smarter over time via machine learning to enable richer experiences and more actionable insights.&nbsp;</p> <p>The company&nbsp;<span>has acquired 50+ enterprise customers with $21M total booked revenue.&nbsp;</span>Butlr shipped thousands of sensors in three continents. They have signed a multi-year partnership worth 8-figures with a solution provider. The company has raised about $8M from top tier investors and currently has 30 FTE staff members.</p> <p>The broader impacts of this work include: 1) enabling Covid-safe&nbsp;store re-openings in San Francisco, office re-openings across the US and elder care in France. 2) It's estimated that 30-40% of real estate is under-utilized. The team&rsquo;s technology could help to make better use of customers&rsquo; existing space and operate it more efficiently, customers could reduce their carbon footprint. Space utilization and smart operations start with understanding how the space is being used. 3) As our population ages and the workforce shrinks, the need to use technology to aid humans and their caregivers becomes ever greater. The team&rsquo;s hardware is being deployed to assisted living and age-in-place facilities to enable the circle of care to detect unusual activity and provide preventative care.</p><br> <p>            Last Modified: 11/28/2021<br>      Modified by: Roman&nbsp;Lubynsky</p> </div> <div class="porSideCol"></div> </div>]]></DRECONTENT>
+<POR_COPY_TXT><![CDATA[ This I-Corps project explored the commercialization potential of an emerging technology. The team (IoT Sensor Networks Detecting User Behavior in Architectural Space) successfully translated academic research in IoT and Smart City into commercial applications that solve a problem for Corporate Real-Estate and Senior Care Industries. To date, the team has conducted over 500 customer interviews to explore the application of their technology --- human presence and activity recognitions using thermal data gathered by IoT sensors. Specifically, identify customer segments, discovering several pivots necessary to target these segments, and identifying a value proposition for these customer segments.  The team has developed and patented the technology that uses body heat to detect human presence and activity, with installation in minutes and the lowest cost of ownership. The sensors install in minutes and are at least an order of magnitude lower in cost than other systems while being accurate, real-time and having a long battery life. In addition, unlike legacy technologies, this product gets smarter over time via machine learning to enable richer experiences and more actionable insights.   The company has acquired 50+ enterprise customers with $21M total booked revenue. Butlr shipped thousands of sensors in three continents. They have signed a multi-year partnership worth 8-figures with a solution provider. The company has raised about $8M from top tier investors and currently has 30 FTE staff members.  The broader impacts of this work include: 1) enabling Covid-safe store re-openings in San Francisco, office re-openings across the US and elder care in France. 2) It's estimated that 30-40% of real estate is under-utilized. The team’s technology could help to make better use of customers’ existing space and operate it more efficiently, customers could reduce their carbon footprint. Space utilization and smart operations start with understanding how the space is being used. 3) As our population ages and the workforce shrinks, the need to use technology to aid humans and their caregivers becomes ever greater. The team’s hardware is being deployed to assisted living and age-in-place facilities to enable the circle of care to detect unusual activity and provide preventative care.       Last Modified: 11/28/2021       Submitted by: Roman Lubynsky]]></POR_COPY_TXT>
+</POR>
+</Award>
+</rootTag>

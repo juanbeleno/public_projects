@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle><![CDATA[Semi-Structured Optimization: Geometry and Nonsmooth Algorithms]]></AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>351039.00</AwardTotalIntnAmount>
+<AwardAmount>351039</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stacey Levine</SignBlockName>
+<PO_EMAI>slevine@nsf.gov</PO_EMAI>
+<PO_PHON>7032922948</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration><![CDATA[Optimization serves a wide variety of vital scientific and engineering applications, from machine learning and the statistics of big data, to robust control systems.  Contemporary practice of  computational optimization is, however, too often divorced from its classical mathematical roots. The scholarship and fast computational technology that has matured from decades of research on smooth optimization has had huge applied scientific impact.  It is well known that behind any superlinear acceleration always lurk Newtonian ideas.  By contrast, while an elegant and powerful theory of nonsmooth optimization has also matured, nonsmooth computational practice appears far more challenging.  Without explicit algebraic structure, practitioners resort to black-box algorithms, convenient but slow. Despite much research, effective Newtonian ideas have remained conspicuously absent. The PI bridges this disciplinary chasm, bringing to bear expertise in the requisite mathematics of "nonsmooth" phenomena beyond the reach of traditional calculus, while developing algorithms with dramatic potential impact. Cornell doctoral students engage widely in the project, on foundations and computing, publishing and presenting at conferences, and collaborating with the PI through seminars  and teaching.  Cornell's Operations Research program trains doctoral students (typically one third of whom are women) for both academia and industry, striving to support underrepresented minorities. The PI will disseminate this research through graduate texts, broad-audience surveys, diverse collaboration, and international lectures for audiences across science and engineering.&lt;br/&gt;&lt;br/&gt;This structure dilemma in nonsmooth optimization is, however, a false dichotomy, and one that Newtonian ideas can transform.  The PI pursues a semi-structured middle ground, fertile for fast algorithms.  Even without explicit presentations, concrete objectives typically boast a rich inherent variational-analytic structure, well approximated by computationally-amenable nonsmooth models.  The project's attack is two-pronged:  "partly smooth" structure drives a Newtonian alternating-projection-inspired method for variational inequalities, while the availability of approximating models drives an innovative "bundle Newton" algorithm that shows early computational promise.  Fundamental to this project is the development of such methods into robust practical algorithms with sound theoretical foundations.  Immediate target applications include moderately-sized models, from robust control, for example.  However, such second-order ideas could also accelerate larger-scale first-order methods for signal processing, machine learning, and high-dimensional statistics.  The PI leverages the exciting interplay between variational analysis and more classical mathematical domains:  semi-algebraic geometry, in particular, serves as an illuminating arena for "concrete" objectives, and matrix spectral analysis offers a rich computational testbed for nonsmooth ideas.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.]]></AbstractNarration>
+<MinAmdLetterDate>05/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006990</AwardID>
+<Investigator>
+<FirstName>Adrian</FirstName>
+<LastName>Lewis</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Adrian S Lewis</PI_FULL_NAME>
+<EmailAddress><![CDATA[adrian.lewis@cornell.edu]]></EmailAddress>
+<NSF_ID>000162071</NSF_ID>
+<StartDate>05/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>ITHACA</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>341 PINE TREE RD</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY19</CONGRESS_DISTRICT_ORG>
+<ORG_UEI_NUM>G56PUALJ3KT5</ORG_UEI_NUM>
+<ORG_LGL_BUS_NAME>CORNELL UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_UEI_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Cornell University]]></Name>
+<CityName>Ithaca</CityName>
+<StateCode>NY</StateCode>
+<ZipCode>148533801</ZipCode>
+<StreetAddress><![CDATA[School of ORIE]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>19</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY19</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Fund>
+<Code>01002021DB</Code>
+<Name><![CDATA[NSF RESEARCH & RELATED ACTIVIT]]></Name>
+<FUND_SYMB_ID>040100</FUND_SYMB_ID>
+</Fund>
+<FUND_OBLG>2020~351039</FUND_OBLG>
+</Award>
+</rootTag>
