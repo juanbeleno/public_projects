@@ -18,9 +18,7 @@ Abstract sample:
 Title : CAREER: Markov Chain Monte Carlo Methods
 Type: Award
 NSF Org : CCR
-Latest
-Amendment
-Date : May 5, 2003
+Latest Amendment Date : May 5, 2003
 File : a0237834
 Award Number: 0237834
 Award Instr.: Continuing grant
@@ -53,6 +51,5 @@ graphs, approximating the permanent, estimating the volume of a convex body,
 and sampling contingency tables. The project also studies inherent connections
 between phase transitions in statistical physics models and convergence
 properties of associated Markov chains.
-The investigator is developing a
-new graduate course on MCMC methods.
+The investigator is developing a new graduate course on MCMC methods.
 ```
